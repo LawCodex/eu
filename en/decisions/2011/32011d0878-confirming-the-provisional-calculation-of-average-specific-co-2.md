@@ -1,0 +1,205 @@
+---
+title: "2011/878/EU: Commission Implementing Decision of 20 December 2011 confirming the provisional calculation of average specific CO 2 emissions and specific emissions targets for manufacturers of passenger cars for the calendar year 2010 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council Text with EEA relevance"
+identifier: "32011D0878"
+eli: "http://data.europa.eu/eli/dec_impl/2011/878/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2011-12-20
+entry_into_force: 2011-04-12
+last_amended: 2011-12-26
+consolidated_version: "02011D0878-20111226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D0878-20111226"
+retrieved: 2026-10-11
+---
+
+# 2011/878/EU: Commission Implementing Decision of 20 December 2011 confirming the provisional calculation of average specific CO 2 emissions and specific emissions targets for manufacturers of passenger cars for the calendar year 2010 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council Text with EEA relevance
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 20 December 2011**
+
+**confirming the provisional calculation of average specific CO2 emissions and specific emissions targets for manufacturers of passenger cars for the calendar year 2010 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+**(2011/878/EU)**
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 20 December 2011**
+
+**confirming the provisional calculation of average specific CO2 emissions and specific emissions targets for manufacturers of passenger cars for the calendar year 2010 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+**(2011/878/EU)**
+
+## Article 1
+
+The following values specified in the Annex are confirmed for each manufacturer of passenger cars and for each pool of manufacturers in respect of the 2010 calendar year:
+
+(a) the specific emissions target;
+
+(b) the average specific emissions of CO2, where appropriate adjusted by the relevant error margin;
+
+(c) the difference between the values referred to in points (a) and (b);
+
+(d) the average specific emissions of CO2 for all new passenger cars;
+
+(e) the average mass for all new passenger cars in the Union.
+
+## Article 2
+
+This Decision shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+## ANNEX
+
+**Table 1**
+
+**Values relating to the performance of manufacturers confirmed in accordance with Article 10(1) of Regulation (EC) No 443/2009**
+
+| A | B | C | D | E | F | G | H | I |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Manufacturer Name | Pools and Derogations | Number of registrations | Average CO2 (65 %) corrected | Specific emission target | Distance to target | Distance to target adjusted | Average mass | Average CO2 (100 %) |
+| Alpina Burkard Bovensiepen GmbH + Co. KG |  | 173 | 187,795 | 147,429 | 40,366 | 40,366 | 1 753,38 | 210,341 |
+| Artega Automobil GmbH & Co. KG |  | 2 | 220,000 | 132,194 | 87,806 | 87,806 | 1 420,00 | 220,000 |
+| Aston Martin Lagonda Ltd | D | 1 415 | 333,482 | 320,000 | 13,482 | 12,657 | 1 860,72 | 348,372 |
+| Audi AG |  | 589 855 | 133,883 | 140,365 | –6,482 | –6,557 | 1 598,80 | 151,832 |
+| Automobiles Citroën |  | 815 936 | 118,764 | 127,361 | –8,597 | –8,597 | 1 314,26 | 131,418 |
+| Automobiles Peugeot |  | 974 248 | 119,208 | 127,704 | –8,496 | –8,496 | 1 321,76 | 131,021 |
+| Autovaz |  | 3 911 | 212,171 | 126,410 | 85,761 | 85,761 | 1 293,44 | 219,516 |
+| Bayerische Motoren Werke AG |  | 640 021 | 129,253 | 137,409 | –8,156 | –8,210 | 1 534,13 | 146,355 |
+| Bentley Motors Ltd |  | 1 187 | 391,423 | 181,363 | 210,060 | 210,060 | 2 495,92 | 395,925 |
+| BMW M GmbH |  | 77 120 | 133,513 | 142,836 | –9,323 | –13,535 | 1 652,88 | 156,242 |
+| Bugatti Automobiles SAS |  | 8 | 584,600 | 159,225 | 425,375 | 425,375 | 2 011,50 | 589,250 |
+| Caterham Cars Limited | D | 135 | 166,920 | 210,000 | –43,080 | –43,080 | 712,15 | 179,826 |
+| Chevrolet Italia |  | 25 442 | 113,042 | 116,356 | –3,314 | –3,359 | 1 073,45 | 117,607 |
+| Chrysler Group LLC |  | 31 121 | 192,081 | 157,480 | 34,601 | 34,601 | 1 973,32 | 215,200 |
+| CNG Technik | P1 | 583 | 225,000 | 134,782 | 90,218 | 89,953 | 1 476,64 | 226,252 |
+| Automobile Dacia SA |  | 251 938 | 133,865 | 123,831 | 10,034 | 9,631 | 1 237,01 | 144,989 |
+| Daihatsu Motor Co. Ltd |  | 18 972 | 128,351 | 117,975 | 10,376 | 10,376 | 1 108,86 | 145,374 |
+| Daimler AG, Stuttgart | P2 | 646 067 | 137,762 | 137,323 | 0,439 | 0,349 | 1 532,24 | 160,166 |
+| DR Motor Company SRL |  | 4 943 | 122,413 | 120,642 | 1,771 | 1,771 | 1 167,22 | 138,566 |
+| Ferrari | D | 2 361 | 300,718 | 303,000 | –2,282 | –2,282 | 1 751,12 | 322,468 |
+| FIAT Group Automobiles SpA |  | 975 822 | 115,285 | 119,240 | –3,955 | –3,955 | 1 136,56 | 125,013 |
+| Ford-Werke GmbH | P1 | 1 076 887 | 121,128 | 126,226 | –5,098 | –5,605 | 1 289,42 | 136,552 |
+| Fuji Heavy Industries Ltd | ND | 30 655 | 165,182 | 164,616 | 0,566 | 0,520 | 1 608,03 | 179,332 |
+| Geely Europe Ltd |  | 918 | 115,916 | 140,077 | –24,161 | –24,161 | 1 592,50 | 131,466 |
+| General Motors Company |  | 1 490 | 270,134 | 151,750 | 118,384 | 113,988 | 1 847,93 | 296,400 |
+| GM Daewoo Auto u. Tech. Comp. |  | 146 117 | 125,759 | 124,606 | 1,153 | 1,138 | 1 253,96 | 143,544 |
+| GM Italia SRL |  | 37 670 | 119,750 | 125,467 | –5,717 | –5,717 | 1 272,82 | 124,405 |
+| Great Wall Motor Company Limited | D | 344 | 222,000 | 195,000 | 27,000 | 27,000 | 1 919,52 | 224,314 |
+| Gumpert Sportwagenmanufaktur GmbH |  | 2 | 310,000 | 132,879 | 177,121 | 177,121 | 1 435,00 | 310,000 |
+| Honda Automobile China CO | P3 | 20 876 | 125,023 | 119,099 | 5,924 | 5,911 | 1 133,46 | 126,094 |
+| Honda Automobile Thailand CO | P3 | 1 444 | 142,000 | 120,816 | 21,184 | 21,184 | 1 171,03 | 142,615 |
+| Honda Motor CO | P3 | 102 890 | 124,841 | 128,710 | –3,869 | –4,083 | 1 343,77 | 143,823 |
+| Honda of the UK Manufacturing | P3 | 47 840 | 145,932 | 133,391 | 12,541 | 12,234 | 1 446,21 | 162,280 |
+| Honda Turkiye AS | P3 | 1 587 | 155,953 | 125,560 | 30,393 | 30,393 | 1 274,84 | 156,624 |
+| Hyundai Motor Europe GmbH |  | 325 603 | 120,858 | 126,725 | –5,867 | –5,867 | 1 300,33 | 134,244 |
+| Iveco SpA |  | 49 | 213,548 | 180,265 | 33,283 | 33,283 | 2 471,90 | 216,694 |
+| Jaguar Cars Ltd | ND | 23 740 | 178,656 | 178,025 | 0,631 | 0,631 | 1 900,33 | 199,016 |
+| Kia Motors Europe GmbH |  | 253 706 | 126,251 | 131,248 | –4,997 | –4,997 | 1 399,30 | 143,272 |
+| KTM-Sportmotorcycle AG | D | 57 | 173,432 | 200,000 | –26,568 | –26,568 | 882,89 | 179,000 |
+| Automobili Lamborghini SpA |  | 265 | 323,977 | 141,293 | 182,684 | 182,506 | 1 619,11 | 357,362 |
+| Land Rover | ND | 65 534 | 209,295 | 178,025 | 31,270 | 31,270 | 2 351,43 | 231,494 |
+| Lotus Cars Limited | D | 825 | 189,108 | 280,000 | –90,892 | –90,892 | 1 159,21 | 196,596 |
+| The London Taxi Company |  | 1 662 | 225,087 | 154,227 | 70,860 | 70,860 | 1 902,13 | 227,739 |
+| Magyar Suzuki Corporation Ltd |  | 87 204 | 130,004 | 121,130 | 8,874 | 8,843 | 1 177,91 | 136,665 |
+| Mahindra Europe SRL |  | 48 | 246,839 | 160,042 | 86,797 | 86,797 | 2 029,38 | 251,500 |
+| Maruti Suzuki India Ltd |  | 19 577 | 103,000 | 109,908 | –6,908 | –6,908 | 932,36 | 104,287 |
+| Maserati SpA |  | 1 626 | 353,473 | 159,119 | 194,354 | 194,354 | 2 009,18 | 362,557 |
+| Mazda Motor Corporation |  | 170 007 | 133,729 | 128,523 | 5,206 | 4,831 | 1 339,67 | 149,458 |
+| Mercedes-AMG GmbH, Affalterbach | P2 | 1 503 | 308,000 | 144,857 | 163,143 | 163,138 | 1 697,10 | 308,000 |
+| MG Motor UK Limited | D | 264 | 184,871 | 184,000 | 0,871 | 0,871 | 1 180,16 | 184,717 |
+| Micro-Vett SpA |  | 4 | 0,000 | 133,507 | –133,507 | –133,507 | 1 448,75 | 0,000 |
+| Mitsubishi Motors Corporation (MMC) | P4 | 72 594 | 145,036 | 138,601 | 6,435 | 6,377 | 1 560,20 | 165,144 |
+| Mitsubishi Motor R & D Europe GmbH | P4 | 16 530 | 119,878 | 114,793 | 5,085 | 5,084 | 1 039,25 | 127,284 |
+| Morgan Motor Co. Ltd | D | 415 | 164,342 | 180,000 | –15,658 | –15,658 | 1 113,67 | 189,278 |
+| Nissan International SA |  | 389 818 | 132,131 | 128,875 | 3,256 | 3,256 | 1 347,39 | 147,197 |
+| O.M.C.I. SRL |  | 46 | 156,862 | 120,759 | 36,103 | 36,103 | 1 169,78 | 167,848 |
+| Adam Opel AG |  | 935 499 | 126,920 | 130,483 | –3,563 | –3,767 | 1 382,56 | 139,529 |
+| OSV — Opel Special Vehicles GmbH |  | 67 | 135,512 | 140,208 | –4,696 | –4,696 | 1 595,36 | 136,836 |
+| Perodua Manufacturing Sdn Bhd |  | 690 | 136,480 | 113,634 | 22,846 | 22,846 | 1 013,88 | 140,230 |
+| Pgo Ingenierie |  | 29 | 185,000 | 115,657 | 69,343 | 69,343 | 1 058,14 | 189,828 |
+| Dr. Ing. h.c. F. Porsche AG |  | 34 512 | 220,872 | 152,089 | 68,783 | 68,783 | 1 855,34 | 238,859 |
+| Potenza Sports Cars |  | 31 | 178,000 | 99,975 | 78,025 | 78,025 | 715,00 | 178,000 |
+| Proton Cars United Kingdom Ltd | D | 792 | 143,315 | 185,000 | –41,685 | –41,685 | 1 394,89 | 153,557 |
+| Quattro GmbH |  | 2 596 | 279,097 | 154,102 | 124,995 | 124,766 | 1 899,39 | 299,034 |
+| Renault |  | 1 125 141 | 120,700 | 127,045 | –6,345 | –6,378 | 1 307,33 | 133,824 |
+| Rolls-Royce Motors Cars Ltd |  | 413 | 315,616 | 181,297 | 134,319 | 133,038 | 2 494,48 | 332,063 |
+| Saab Automobile AB |  | 19 979 | 156,561 | 143,922 | 12,639 | 12,639 | 1 676,64 | 175,341 |
+| Santana Motor SA |  | 382 | 168,351 | 135,765 | 32,586 | 32,586 | 1 498,15 | 204,921 |
+| SEAT |  | 288 629 | 120,162 | 125,722 | –5,560 | –5,647 | 1 278,38 | 131,162 |
+| Secma |  | 26 | 155,000 | 97,370 | 57,630 | 57,630 | 658,00 | 155,000 |
+| Shijiazhuang Shuanghuan Automobile Company |  | 44 | 266,357 | 152,951 | 113,406 | 113,406 | 1 874,20 | 267,682 |
+| SKODA auto a.s. |  | 420 718 | 127,869 | 127,225 | 0,644 | 0,571 | 1 311,28 | 139,193 |
+| Sovab |  | 94 | 227,066 | 166,119 | 60,947 | 60,947 | 2 162,34 | 230,138 |
+| Ssangyong Motor Company | D | 4 785 | 203,851 | 180,000 | 23,851 | 23,851 | 2 023,10 | 215,728 |
+| Suzuki Motor Corporation |  | 85 177 | 124,055 | 121,050 | 3,005 | 2,981 | 1 176,15 | 144,109 |
+| Tata Motors Limited | ND | 3 582 | 137,754 | 178,025 | –40,271 | –40,271 | 1 293,00 | 151,987 |
+| Tesla Motors Ltd |  | 40 | 0,000 | 128,309 | –128,309 | –128,309 | 1 335,00 | 0,000 |
+| Think |  | 144 | 0,000 | 120,248 | –120,248 | –120,248 | 1 158,61 | 0,000 |
+| Toyota Motor Europe NV/SA |  | 564 633 | 112,241 | 128,349 | –16,108 | –16,273 | 1 335,87 | 129,056 |
+| Volkswagen AG |  | 1 469 419 | 125,987 | 130,715 | –4,728 | –4,763 | 1 387,65 | 140,352 |
+| Volvo Car Corporation |  | 204 926 | 134,492 | 143,273 | –8,781 | –8,781 | 1 662,43 | 156,948 |
+| Westfield Sports Cars |  | 3 | 178,000 | 99,975 | 78,025 | 78,025 | 715,00 | 178,000 |
+| Wiesmann GmbH | D | 8 | 253,000 | 274,000 | –21,000 | –21,000 | 1 409,88 | 257,250 |
+
+Explanatory notes to Table 1:
+
+Column B
+
+‘D’ means that a derogation relating to a small volume manufacturer has been granted in accordance with Commission Implementing Decision C(2011) 8334 final;
+
+‘ND’ means that a derogation relating to niche manufacturer has been granted in accordance with Commission Implementing Decision C(2011) 8336 final;
+
+‘P’ means that the manufacturer is member of a pool (listed in table 2) formed in accordance with Article 7 of Regulation (EC) No 443/2009.
+
+Column D
+
+‘Average specific emissions (65 %) corrected’ means the average specific emissions of CO2 calculated in accordance with the first indent of the second subparagraph of Article 4 of Regulation (EC) No 443/2009 and section 4 of Commission Communication COM(2010) 657 based on the corrections notified to the Commission by the manufacturer concerned. That figure considers all vehicles with both a valid value for mass and CO2 emissions, including vehicles that cannot be verified by the manufacturers.
+
+Column E
+
+‘Specific emissions target’ means the emission target based on the average mass of all vehicles attributed to a manufacturer (100 % of all vehicles to be taken into account from 2015 onwards) after applying the formula set out in Annex I to Regulation (EC) No 443/2009.
+
+Column F
+
+‘Distance to target’ means the difference between the values in column D and column E.
+
+Column G
+
+‘Distance to target adjusted’ means the distance to target as indicated under Column F adjusted to take into account the error margin. The error is due to the unidentifiable vehicles (vehicles where the identification code for type, variant and version is missing) and it is calculated in accordance with the following formula:
+
+Error = absolute value of [(AC1 – TG1) – (AC2 – TG2)]
+
+| AC1 | = | the average specific emissions of CO2 including the unidentifiable vehicles (as set out in column D); |
+| --- | --- | --- |
+
+| TG1 | = | the specific emission target including the unidentifiable vehicles (as set out in column E); |
+| --- | --- | --- |
+
+| AC2 | = | the average emissions of CO2 excluding the unidentifiable vehicles; |
+| --- | --- | --- |
+
+| TG2 | = | the specific emission target excluding the unidentifiable vehicles. |
+| --- | --- | --- |
+
+**Table 2**
+
+**List of pools and values confirmed in accordance with Article 10(1) of Regulation (EC) No 443/2009**
+
+| A | B | C | D | E | F | G | H | I |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pool Name | Pool | Number of registrations | Average CO2 (65 %) corrected | Specific emissions target | Distance to target | Distance to target adjusted | Average mass | Average CO2 (100 %) |
+| FORD-WERKE GMBH | P1 | 1 077 470 | 121,143 | 126,231 | –5,088 | –5,598 | 1 289,52 | 136,601 |
+| DAIMLER AG | P2 | 647 570 | 137,834 | 137,340 | 0,494 | 0,400 | 1 532,62 | 160,509 |
+| HONDA MOTOR EUROPE LTD | P3 | 174 637 | 128,612 | 128,750 | –0,138 | –0,365 | 1 344,64 | 146,87 |
+| MITSUBISHI MOTORS | P4 | 89 124 | 137,055 | 134,185 | 2,870 | 2,840 | 1 463,58 | 158,12 |
+
+( 1 ) OJ L 140, 5.6.2009, p. 1.
+
+( 2 ) OJ L 293, 11.11.2010, p. 15.

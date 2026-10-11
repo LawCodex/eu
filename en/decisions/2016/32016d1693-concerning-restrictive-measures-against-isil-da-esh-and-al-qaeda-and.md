@@ -1,0 +1,339 @@
+---
+title: "Council Decision (CFSP) 2016/1693 of 20 September 2016 concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP"
+identifier: "32016D1693"
+eli: "http://data.europa.eu/eli/dec/2016/1693/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2016-09-20
+entry_into_force: 2016-05-19
+last_amended: 2025-11-24
+consolidated_version: "02016D1693-20251124"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016D1693-20251124"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2016/1693 of 20 September 2016 concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP
+
+**COUNCIL DECISION (CFSP) 2016/1693**
+
+**of 20 September 2016**
+
+**concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL DECISION (CFSP) 2017/1560 of 14 September 2017 </td><td> L 237</td><td>71</td><td>15.9.2017</td></tr>
+<tr><td> M2</td><td> COUNCIL DECISION (CFSP) 2018/283 of 26 February 2018 </td><td> L 54I</td><td>6</td><td>26.2.2018</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2018/1000 of 16 July 2018 </td><td> L 178I</td><td>3</td><td>16.7.2018</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2018/1540 of 15 October 2018 </td><td> L 257I</td><td>3</td><td>15.10.2018</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2019/271 of 18 February 2019 </td><td> L 46I</td><td>3</td><td>18.2.2019</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2019/1721 of 14 October 2019 </td><td> L 262</td><td>64</td><td>15.10.2019</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2019/1944 of 25 November 2019 </td><td> L 303I</td><td>3</td><td>25.11.2019</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2020/1126 of 30 July 2020 </td><td> L 246</td><td>10</td><td>30.7.2020</td></tr>
+<tr><td> M9</td><td> COUNCIL DECISION (CFSP) 2020/1516 of 19 October 2020 </td><td> L 348</td><td>15</td><td>20.10.2020</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2021/613 of 15 April 2021 </td><td> L 129I</td><td>4</td><td>15.4.2021</td></tr>
+<tr><td> M11</td><td> COUNCIL DECISION (CFSP) 2021/1825 of 18 October 2021 </td><td> L 369</td><td>14</td><td>19.10.2021</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/240 of 21 February 2022 </td><td> L 40</td><td>21</td><td>21.2.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/837 of 30 May 2022 </td><td> L 147I</td><td>3</td><td>30.5.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/950 of 20 June 2022 </td><td> L 164I</td><td>4</td><td>20.6.2022</td></tr>
+<tr><td> M15</td><td> COUNCIL DECISION (CFSP) 2022/1967 of 17 October 2022 </td><td> L 270</td><td>84</td><td>18.10.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/726 of 31 March 2023 </td><td> L 94</td><td>48</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/848 of 24 April 2023 </td><td> L 109I</td><td>38</td><td>24.4.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/1138 of 8 June 2023 </td><td> L 149</td><td>89</td><td>9.6.2023</td></tr>
+<tr><td> M19</td><td> COUNCIL DECISION (CFSP) 2023/2231 of 23 October 2023 </td><td> L 2231</td><td>1</td><td>24.10.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/333 of 16 January 2024 </td><td> L 333</td><td>1</td><td>16.1.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/953 of 25 March 2024 </td><td> L 953</td><td>1</td><td>25.3.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/2654 of 8 October 2024 </td><td> L 2654</td><td>1</td><td>9.10.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/2771 of 29 October 2024 </td><td> L 2771</td><td>1</td><td>30.10.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/336 of 18 February 2025 </td><td> L 336</td><td>1</td><td>19.2.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/514 of 17 March 2025 </td><td> L 514</td><td>1</td><td>17.3.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/2207 of 27 October 2025 </td><td> L 2207</td><td>1</td><td>28.10.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/2398 of 24 November 2025 </td><td> L 2398</td><td>1</td><td>24.11.2025</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2016/1693**
+
+**of 20 September 2016**
+
+**concerning restrictive measures against ISIL (Da'esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP**
+
+## Article 1
+
+1\. The direct or indirect supply, sale, transfer or export of arms or related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts, to any individual, group, undertaking or entity designated by the UNSC pursuant to UNSCRs 1267 (1999), 1333 (2000) and 2253 (2015), as updated by the Committee established pursuant to UNSCR 1267 (1999) (‘the Committee’), or designated by the Council, or to those acting on their behalf or at their direction, by nationals of Member States or from or through the territories of Member States or using their flag vessels or aircraft, shall be prohibited whether originating or not in their territories.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services and other services related to military activities and to the provision, manufacture, maintenance and use of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment, and spare parts for the aforementioned, directly or indirectly to any individual, group, undertaking or entity referred to in paragraph 1;
+
+(b) provide financing or financial assistance related to military activities, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance for any sale, supply, transfer or export of arms and related materiel, or for the provision of related technical assistance, brokering services and other services directly or indirectly to any individual, group, undertaking or entity referred to in paragraph 1;
+
+(c) participate knowingly and intentionally in activities the object or effect of which is to circumvent the prohibitions referred to in point (a) or (b) of this paragraph.
+
+## Article 2
+
+1\. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of persons, designated and subject to travel restrictions by the UNSC pursuant to UNSCRs 1267 (1999), 1333 (2000) and 2253 (2015) or by the Committee, identified as:
+
+(a) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(b) supplying, selling or transferring arms and related materiel to Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(c) recruiting for, or otherwise supporting acts or activities of Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(d) being involved in acts or activities under criteria (a), (b) or (c), including planning, directing or committing acts involving sexual and gender-based violence including rape, enslavement of persons, and cases of abduction and trafficking in persons, when such acts are being used by ISIL, Al-Qaida and associated individuals, groups and entities as a tactic of terrorism; or
+
+(e) being controlled directly or indirectly by, or otherwise supporting, any individual, group, undertaking or entity associated with Al-Qaeda or ISIL (Da’esh), included on the ISIL (Da’esh) and Al-Qaeda sanctions list.
+
+2\. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of persons:
+
+(a) associated with ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) participating in the financing of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, or in the financing of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of them;
+
+(ii) participating in the planning, facilitating, preparing, or perpetrating of acts or activities or providing or receiving of terrorist training such as instruction related to arms, explosive devices or other methods or technologies with the purpose of committing terrorist acts by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(iii) engaging in trade with ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, in particular of oil, oil products, modular refineries and related material, as well as trade in other natural resources and trade in cultural property;
+
+(iv) supplying, selling or transferring arms and related materiel to ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(b) travelling or seeking to travel outside of the Union for the purpose of:
+
+(i) the perpetration, planning, or preparation of, or participation in, terrorist acts on behalf or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(ii) the providing or receiving of terrorist training, on behalf or in support of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof; or
+
+(iii) otherwise supporting ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(c) seeking to travel into the Union for the same purpose as referred to in point (b) or to participate in acts or activities in conjunction with, under the name of, on behalf or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(d) recruiting for, or otherwise supporting acts or activities of, ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) providing or collecting, by any means, directly or indirectly, funds in order to finance the travelling of individuals, for the purpose referred to in points (b) and (c); organising the travel of individuals for the purpose referred to in points (b) and (c), or otherwise facilitating it for that purpose;
+
+(ii) soliciting another person to participate in acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(e) inciting or publicly provoking acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by encouraging or glorifying such acts or activities thereby causing a danger that terrorist acts may be committed;
+
+(f) being involved or complicit in ordering or committing serious abuses of human rights, including abduction, rape, sexual violence, forced marriage and enslavement of persons, outside the territory of the Union, on behalf or in the name of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof,
+
+as listed in the Annex.
+
+3\. Paragraphs 1 and 2 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+4\. Paragraph 1 shall not apply where entry or transit is necessary for the fulfilment of a judicial process, or when the Committee determines that entry or transit is justified.
+
+5\. Member States may grant exemptions from the measures imposed under paragraph 2 where travel is justified:
+
+(a) on the grounds of urgent humanitarian need;
+
+(b) for the purpose of a judicial process; or
+
+(c) where a Member State is bound by an obligation towards an international organisation.
+
+6\. A Member State wishing to grant the exemptions referred to in paragraph 5 shall notify the Council in writing. With regard to points (a) and (b) of paragraph 5, the exemption shall be deemed to be granted unless one or more Council members raise an objection in writing within two working days of receiving notification of the proposed exemption. Should one or more Council members raise an objection, the Council, acting by qualified majority, may decide to grant the proposed exemption.
+
+7\. Where, pursuant to paragraph 5, a Member State authorises the entry into, or transit through, its territory of persons listed in the Annex, the authorisation shall be limited to the purpose for which it is given and to the persons concerned thereby.
+
+## Article 3
+
+1\. All funds, other financial assets and economic resources, owned or controlled, directly or indirectly, by persons, groups, undertakings and entities designated and subject to an asset freeze by the UNSC pursuant to UNSCRs 1267 (1999), 1333 (2000) and 2253 (2015), or by the Committee, identified as:
+
+(a) participating in the financing, planning, facilitating, preparing, or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(b) supplying, selling or transferring arms and related materiel to Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(c) recruiting for, or otherwise supporting acts or activities of Al-Qaeda, ISIL (Da’esh), or any cell, affiliate, splinter group or derivative thereof;
+
+(d) being involved in acts or activities under criteria (a), (b) or (c), including planning, directing or committing acts involving sexual and gender-based violence including rape, enslavement of persons, and cases of abduction and trafficking in persons, when such acts are being used by ISIL, Al-Qaida and associated individuals, groups and entities as a tactic of terrorism; or
+
+(e) being owned or controlled directly or indirectly by, or otherwise supporting, any individual, group, undertaking or entity associated with ISIL (Da’esh) or Al-Qaeda, included on the ISIL (Da’esh) and Al-Qaeda sanctions list, or by a third party acting on their behalf or at their direction;
+
+shall be frozen.
+
+2\. No funds, other financial assets or economic resources shall be made available, directly or indirectly to or for the benefit of natural or legal persons referred to in paragraph 1.
+
+3\. All funds, other financial assets and economic resources, owned or controlled directly or indirectly, by persons, groups, undertakings and entities:
+
+(a) associated with ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) participating in the financing of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, or in the financing of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of them;
+
+(ii) participating in the planning, facilitating, preparing, or perpetrating of acts or activities or providing or receiving of terrorist training such as instruction related to arms, explosive devices or other methods or technologies with the purpose of committing terrorist acts by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh) and Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(iii) engaging in trade with ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, in particular of oil, oil products, modular refineries and related material, as well as trade in other natural resources and trade in cultural property;
+
+(iv) supplying, selling or transferring arms and related materiel to ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(b) travelling or seeking to travel outside of the Union for the purpose of:
+
+(i) the perpetration, planning, or preparation of, or participation in, terrorist acts on behalf or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(ii) the providing or receiving of terrorist training, on behalf or in support of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof; or
+
+(iii) otherwise supporting ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof;
+
+(c) seeking to travel into the Union for the purpose referred to in point (b) or to participate in acts or activities in conjunction with, under the name of, on behalf or in support of ISIL (Da'esh,) Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(d) recruiting for or otherwise supporting acts or activities of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof, including by:
+
+(i) providing or collecting, by any means, directly or indirectly, funds in order to finance the travelling of individuals, for the purpose referred to in points (b) and (c); organising the travel of individuals for the purpose referred to in points (b) and (c), or otherwise facilitating it for that purpose;
+
+(ii) soliciting another person to participate in acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda, or any cell, affiliate, splinter group or derivative thereof;
+
+(e) inciting or publicly provoking acts or activities by, in conjunction with, under the name of, on behalf of, or in support of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof, including by encouraging or glorifying such acts or activities thereby causing a danger that terrorist acts may be committed;
+
+(f) being involved or complicit in ordering or committing serious abuses of human rights, including abduction, rape, sexual violence, forced marriage and enslavement of persons, outside the territory of the Union, on behalf or in the name of ISIL (Da'esh), Al-Qaeda or any cell, affiliate, splinter group or derivative thereof,
+
+as listed in the Annex, shall be frozen.
+
+4\. No funds, other financial assets or economic resources shall be made available, directly or indirectly to or for the benefit of the natural or legal persons referred to in paragraph 3.
+
+5\. By way of derogation from paragraphs 1, 2, 3 and 4, exemptions may be made for funds, financial assets and economic resources which are:
+
+(a) necessary for basic expenses, including payment for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges;
+
+(b) intended exclusively for payment for reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services in accordance with national laws; or
+
+(c) intended exclusively for payment for fees or service charges, in accordance with national laws, for routine holding or maintenance of frozen funds, other financial assets and economic resources.
+
+Those exemptions shall only be made after notification by the Member State concerned to the Committee, where appropriate, of the intention to authorise access to such funds, other financial assets or economic resources and in the absence of a negative decision by the Committee within three working days of such notification.
+
+6\. By way of derogation from paragraphs 1, 2, 3 and 4, exemptions may also be made for funds, financial assets and economic resources which are necessary for extraordinary expenses provided that such determination has been notified by the competent authority of the Member State to the Committee, where applicable, and has been approved by the Committee.
+
+7\. Paragraph 3 shall not prevent a designated person or entity from making a payment due under a contract entered into before the listing of such a person or entity, provided that the relevant Member State has determined that the payment is not directly or indirectly received by a person or entity referred to in paragraphs 1 and 3.
+
+8\. By way of derogation from paragraph 3, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources provided the following conditions are met:
+
+(a) the funds or economic resources are subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 3 was listed in the Annex, of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to, on or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in the Annex; and
+
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under this paragraph.
+
+9\. Paragraphs 2 and 4 shall not apply to the addition of payments to frozen accounts of persons and entities referred to in paragraphs 1 and 3 provided that any such payments are frozen.
+
+10\. Paragraphs 1, 2, 3 and 4 shall not apply to the provision, processing or payment of funds, other financial assets or economic resources or to the provision of goods and services, which are necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Committee as regards paragraphs 1 and 2, and by the Council as regards paragraphs 3 and 4.
+
+## Article 4
+
+No claims, including claims for compensation or any other claim of this type, such as a claim for set-off or a claim under a guarantee, in connection with any contract or transaction the performance of which was affected, directly or indirectly, wholly or in part, by reason of measures decided upon pursuant to UNSCRs 1267 (1999), 1333 (2000) and 2253 (2015), including measures of the Union or any Member State in accordance with, as required by or in any connection with, the implementation of the relevant decisions of the UNSC or measures covered by this Decision, shall be granted to the designated persons or entities designated by the UN or listed in the Annex or any person or entity claiming through or for the benefit of any such person or entity.
+
+## Article 5
+
+1\. The Council, acting by unanimity on a proposal from a Member State or from the High Representative of the Union for Foreign Affairs and Security Policy, shall establish the list in the Annex and adopt modifications thereto.
+
+2\. The Council shall communicate the decision referred to in paragraph 1, including the statement of reasons, to the natural or legal person, group, undertaking and entity concerned, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, group, undertaking or entity with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, group, undertaking or entity concerned accordingly.
+
+4\. By way of derogation from paragraph 1, if a Member State considers that there has been a substantial change of circumstances affecting the designation of a listed person or entity, the Council, acting by a qualified majority on a proposal from that Member State, may decide to remove the name of such person or entity from the list in the Annex.
+
+## Article 6
+
+1\. This Decision shall be reviewed, amended or repealed as appropriate, in particular in the light of relevant decisions by the UNSC or by the Committee.
+
+3\. The measures referred to in Article 2(2) and Article 3(3) and (4) shall be reviewed at regular intervals and at least every 12 months.
+
+4\. Where observations are submitted by a person or entity designated in accordance with Article 2(2) or Article 3(3) and (4), the Council shall review the designation in light of those observations and the measures shall cease to apply if the Council determines, in accordance with the procedure referred to in Article 5, that the conditions for their application are no longer met.
+
+5\. If a further request is made, based on substantial new evidence, to remove a person or entity from the Annex, the Council shall conduct a further review in accordance with paragraph 3.
+
+6\. The measures referred to in Article 2(2) and Article 3(3) and (4) shall apply until 31 October 2026  .
+
+7\. The measures referred to in Article 3(3) and (4), insofar as they apply to the ‘Allied Democratic Forces’, shall be suspended for as long as the measures laid down in Article 5(1) and (2) of Council Decision 2010/788/CFSP ( 1 ) apply to that entity.
+
+## Article 6a
+
+1\. The Council and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) may process personal data in order to carry out their tasks under this Decision, in particular:
+
+(a) as regards the Council, for preparing and making amendments to the Annex;
+
+(b) as regards the High Representative, for preparing amendments to the Annex.
+
+2\. The Council and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of the Annex.
+
+3\. For the purposes of this Decision, the Council and the High Representative are designated as ‘controllers’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 2 ), in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 7
+
+Common Position 2002/402/CFSP is repealed and replaced by this Decision.
+
+## Article 8
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX
+
+**List of persons, groups, undertakings and entities referred to in Articles 2 and 3**
+
+**A. Persons referred to in Articles 2 and 3**
+
+2\. Rabah TAHARI (a.k.a. Abu Musab); date of birth: 28 August 1971; place of birth: Oran (Algeria); Nationality: Algerian.
+
+3\. Hocine BOUGUETOF; date of birth: 1 July 1959; place of birth: Tebessa (Algeria); nationality: Algerian.
+
+4\. Brahim el KHAYARI; date of birth: 7 May 1992; place of birth: Nîmes (France); nationality: French.
+
+5\. Guillaume PIROTTE; date of birth: 7 June 1994; place of birth: Grasse (France); nationality: French.
+
+6\. Bryan D’ANCONA; date of birth: 26 January 1997; place of birth: Nice (France); nationality: French.
+
+7\. Mesut SEKERCI; date of birth: 22 July 1995; place of birth: Evreux (France); nationality: French, Turkish.
+
+8\. Osama MAHMOOD (a.k.a. Ustadh Usama Mahmood, Ousama Mahmood); nationality: Pakistani (presumed).
+
+10\. Faruq AL-SURI (a.k.a. Samir Hijazi, Samir 'Abd al-Latif Hijazi, Abu Hammam Al-Shami, Abu Humam Al-Shami, Abu Hammam Al-'Askari); date of birth: 1977; place of birth: Damascus, Syria; gender: male; nationality: Syrian (presumed).
+
+11\. Sami AL-ARIDI (a.k.a. Abu Mohammad Al-Shami, Abu Mahmud Al-Sham, Abu Mahmud Al-Shami, Sami Al-Oride, Sami Al-Oraidi, Sami Al-Oraydi, Sheikh Dr. Sami Al-Uraydi); date of birth: 1973; gender: male; nationality: Jordanian (presumed).
+
+12\. Sidan Ag HITTA (a.k.a. Asidan Ag Hitta, Abu ’Abd al-Hakim, Abu Abdelhakim al-Kidali, Abu Qarwani, Al Qaïrawani, Abou Abdel Hamid Al Kidali); date of birth: 1976; place of birth: Kidal, Mali; gender: male; nationality: Malian.
+
+13\. Salem ould BREIHMATT (a.k.a. OULD ABED Cheikh ould Mohamed Salec, Abu Hamza al-Shanqiti, Abu Hamza al-Shinqiti, Hamza al-Mauritani, NITRIK Hamza, Abu Hamza al-Chinguetti); date of birth: 1978 or 1984; place of birth: Mauritania; gender: male; nationality: Mauritanian.
+
+14\. Jafar DICKO (a.k.a. Jaffar Dicko, Abdoul Salam Dicko, Amadou Boucary, Amadou Boucary Dicko); date of birth: 1980 (presumed); gender: male; nationality: Burkinabe.
+
+15\. Abu Yasir HASSAN (a.k.a. Sheikh Hassan, Ahmed Mahmoud Hassan, Yaseer Hassan, Abu Qasim); date of birth: 1981 to 1983; place of birth: Pwani Region, Tanzania; gender: male; nationality: Tanzanian.
+
+17\. Andreas Martin MÜLLER (a.k.a. Ahmed Khaled Müller, Abu Nusaibah, Abu Nusaiba, Abu Nussaiba, Miqdad, Abu Miqdad, Yasser Murat, Mr Akam, Abu Shahid, Nigeri); date of birth: 15 February 1972; place of birth: Cochem, Rhineland-Palatinate, Germany; gender: male; nationality: German; passport number: C73TV06C9; identity card number: 5210375966.
+
+18\. Mohamed Ibrahim al-Shafi’i AL-SALEM (a.k.a. also known as Aba Al-Sahraoui, Aba al-Sahrawi, Abba al-Saharawi); gender: male.
+
+**B. Groups, undertakings and entities referred to in Article 3**
+
+1\. Al-Qaeda in the Indian Subcontinent (AQIS) (a.k.a. Al-Qa’ida in the Indian Subcontinent, Qaedat al-Jihad in the Indian Subcontinent).
+
+2\. Da’esh – Hind Province (a.k.a. Wilayah of Hind, Islamic State’s Hind Province (ISHP), IS-Wilayat al-Hind, Da’esh – Wilayat al-Hind).
+
+3\. Hurras AL-DIN (HaD) (a.k.a. Hurras al-Deen, Huras-al-Din, Guardians of Religion, Tanzim Hurras Al-Din, Tandhim Hurras Al-Deen, Sham Al-Ribat, Al-Qaida in Syria, AQ-S).
+
+4\. Ansarul Islam (a.k.a. Ansar al-Islam, Ansarour Islam, Ansaroul Islam, Defenders of Islam, Ansar-ul-islam lil-ichad wal jihad, IRSAD, Ansar ul Islam of Malam Boureima Dicko).
+
+5\. ISIS-Mozambique (a.k.a. Islamic State of Iraq and Syria – Mozambique, Islamic State -Mozambique, ISIL-M, Ansar Al-Sunna, Al-Shabaab, Al-Shabaab in Mozambique, Mozambique Wilaya of the Islamic State, Ahlu Sunna wa Jamaah (ASwJ), Ahl al-Sunna wa al-Jamaa, Ahlu al-Sunnah wal-Jamaah, Ahlu Sunnah Wajamo, Swahili Sunna).
+
+6\. Katiba Macina (a.k.a. Macina Liberation Front, Katiba Macina of Jama’a Nusrat ul-Islam wa al-Muslimin, FLM, MLF, MLM, Massina Liberation Front, Katiba Massina, Massina Brigade, Macina Brigade, Ansar Dine Macina, Harakat Ansar al-Din Macina Brigade, Ansar al-Din South, Macina Battalion, Macina Liberation Movement, La Force de Libération du Macina, ML Movement, Massina Liberation Movement, Ansar al-Din Macina Brigade, Katiba Macina – Ansar Dine, Ansar al-Din Macina).
+
+7\. Al-Azaim Media Foundation.
+
+8\. Allied Democratic Forces.
+
+( 1 ) Council Decision 2010/788/CFSP of 20 December 2010 concerning restrictive measures in view of the situation in the Democratic Republic of the Congo (OJ L 336, 21.12.2010, p. 30, ELI: http://data.europa.eu/eli/dec/2010/788/oj).
+
+( 2 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).

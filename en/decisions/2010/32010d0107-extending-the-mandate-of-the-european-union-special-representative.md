@@ -1,0 +1,193 @@
+---
+title: "2010/107/CFSP: Council Decision 2010/107/CFSP of 22 February 2010 extending the mandate of the European Union Special Representative for the Middle East peace process"
+identifier: "32010D0107"
+eli: "http://data.europa.eu/eli/dec/2010/107(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2010-02-22
+entry_into_force: 2010-10-15
+last_amended: 2010-08-11
+consolidated_version: "02010D0107-20100811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010D0107-20100811"
+retrieved: 2026-10-11
+---
+
+# 2010/107/CFSP: Council Decision 2010/107/CFSP of 22 February 2010 extending the mandate of the European Union Special Representative for the Middle East peace process
+
+**COUNCIL DECISION 2010/107/CFSP**
+
+**of 22 February 2010**
+
+**extending the mandate of the European Union Special Representative for the Middle East peace process**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COUNCIL DECISION 2010/447/CFSP of 11 August 2010</td><td> L 211</td><td>39</td><td>12.8.2010</td></tr>
+</table>
+
+**COUNCIL DECISION 2010/107/CFSP**
+
+**of 22 February 2010**
+
+**extending the mandate of the European Union Special Representative for the Middle East peace process**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union and, in particular, Articles 28, 31(2) and 33 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 21 July 2003, the Council adopted Joint Action 2003/537/CFSP ( 1 ) appointing Mr Marc OTTE European Union Special Representative (EUSR) for the Middle East peace process.
+
+(2) On 16 February 2009, the Council adopted Joint Action 2009/136/CFSP ( 2 ) amending and extending the mandate of the EUSR until 28 February 2010.
+
+(3) The mandate of the EUSR should be extended until 31 August 2010. However, the mandate of the EUSR may be terminated earlier, if the Council so decides, on a recommendation of the High Representative of the Union for Foreign Affairs and Security Policy (HR) following the entry into force of the decision establishing the European External Action Service.
+
+(4) The EUSR will implement his mandate in the context of a situation which may deteriorate and could harm the Common Foreign and Security Policy objectives set out in Article 21 of the Treaty,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1 — European Union Special Representative
+
+The mandate of Mr Marc OTTE as the European Union Special Representative (EUSR) for the Middle East peace process is hereby extended until 28 February 2011 or until the Council decides, on a proposal by the High Representative, that appropriate corresponding functions to those under the current Decision have been established in the European External Action Service and terminates the mandate.
+
+## Article 2 — Policy objectives
+
+1\. The mandate of the EUSR shall be based on the policy objectives of the European Union (EU) regarding the Middle East peace process.
+
+2\. These objectives include:
+
+(a) a two-State solution with Israel and a democratic, viable, peaceful and sovereign Palestinian State living side by side within secure and recognised borders enjoying normal relations with their neighbours in accordance with United Nations (UN) Security Council Resolutions 242 (1967), 338 (1973), 1397 (2002) and 1402 (2002) and the principles of the Madrid conference;
+
+(b) solution in the Israeli-Syrian and Israeli-Lebanese tracks;
+
+(c) a fair solution to the complex issue of Jerusalem and a just, viable and agreed solution to the problem of Palestinian refugees;
+
+(d) following-up of the Annapolis process towards a final status agreement and the creation of a Palestinian state including strengthening the role of the Quartet as guardian of the roadmap, particularly in view of monitoring the implementation of obligations both parties have under the roadmap and in line with all international efforts to bring about a comprehensive Arab-Israeli peace;
+
+(e) the establishment of sustainable and effective policing arrangements under Palestinian ownership in accordance with best international standards, in cooperation with the Union’s institution building programmes as well as other international efforts in the wider context of Security Sector, including Criminal Justice Reform;
+
+(f) reopening of the Gaza crossing points including the Rafah crossing, not least to meet the severe humanitarian needs of the population, and providing a third party presence if agreed by both parties, in cooperation with the Union’s institution building efforts.
+
+3\. These objectives are based on the Union’s commitment to:
+
+(a) work with the parties and with partners in the international community, especially within the framework of the Middle East Quartet, to pursue every opportunity for peace and for a decent future for all people of the region;
+
+(b) continue to assist in Palestinian political and administrative reforms, the electoral process and security reforms;
+
+(c) contribute fully to peace building, as well as to the recovery of the Palestinian economy as an integral part of regional development.
+
+4\. The EUSR shall support the work of the HR in the region, including in the framework of the Middle East Quartet.
+
+## Article 3 — Mandate
+
+In order to achieve the policy objectives, the mandate of the EUSR shall be to:
+
+(a) provide an active and efficient contribution from the Union to actions and initiatives leading to a final settlement of the Israeli-Palestinian conflict and of the Israeli-Syrian and Israeli-Lebanese conflicts;
+
+(b) facilitate and maintain close contact with all the parties to the Middle East peace process, other countries of the region, members of the Middle East Quartet and other relevant countries, as well as the UN and other relevant international organisations, in order to work with them in strengthening the peace process;
+
+(c) ensure continued presence of the Union on the ground and in relevant international forums and contribute to crisis management and prevention;
+
+(d) observe and support peace negotiations between the parties and offer the Union’s advice and good offices as appropriate;
+
+(e) contribute, where requested, to the implementation of international agreements reached between the parties and engage with them diplomatically in the event of non-compliance with the terms of these agreements;
+
+(f) pay particular attention to factors having implication for the regional dimension of the Middle East peace process;
+
+(g) engage constructively with signatories to agreements within the framework of the peace process in order to promote compliance with the basic norms of democracy, including respect for human rights and the rule of law;
+
+(h) contribute to the implementation of the EU human rights policy and EU Guidelines on Human Rights, in particular with regard to children and women in conflict-affected areas, especially by monitoring and addressing developments in this regard;
+
+(i) report on the possibilities for Union intervention in the peace process and on the best way of pursuing Union initiatives and ongoing Middle East peace process-related Union efforts, such as the contribution of the Union to Palestinian reforms, and including the political aspects of relevant Union development projects;
+
+(j) monitor actions by either side on the implementation of the roadmap and on issues that might prejudice the outcome of the permanent status negotiations to enable the Middle East Quartet to better assess the parties compliance;
+
+(k) engage in wider collaboration on Security Sector Reform in cooperation with the European Commission and the US Security Coordinator and facilitate cooperation on security issues with all relevant actors;
+
+(l) contribute to a better understanding of the role of the Union among opinion leaders in the region.
+
+## Article 4 — Implementation of the mandate
+
+1\. The EUSR shall be responsible for the implementation of the mandate acting under the authority of the HR.
+
+2\. The Political and Security Committee (PSC) shall maintain a privileged link with the EUSR and shall be the EUSR’s primary point of contact with the Council. The PSC shall provide the EUSR with strategic guidance and political direction within the framework of the mandate, without prejudice to the powers of the HR.
+
+## Article 5 — Financing
+
+1\. The financial reference amount intended to cover the expenditure related to the mandate of the EUSR in the period from 1 March 2010 to 31 August 2010 shall be EUR 730 000.
+
+2\. The financial reference amount intended to cover the expenditure related to the mandate of the EUSR for the period from 1 September 2010 to 28 February 2011 shall be EUR 585 000.
+
+3\. The expenditure shall be managed in accordance with the procedures and rules applicable to the general budget of the Union.
+
+4\. The management of the expenditure shall be subject to a contract between the EUSR and the Commission. The EUSR shall be accountable to the Commission for all expenditure.
+
+## Article 6 — Constitution and composition of the team
+
+1\. Within the limits of his mandate and the corresponding financial means made available, the EUSR shall be responsible for constituting his team. The team shall include the expertise on specific policy issues as required by the mandate. The EUSR shall keep the Council and the Commission promptly informed of the composition of his team.
+
+2\. Member States and institutions of the Union may propose the secondment of staff to work with the EUSR. The salary of personnel who are seconded by a Member State or an institution of the Union to the EUSR shall be covered by the Member State or the institution of the Union concerned respectively. Experts seconded by Member States to the General Secretariat of the Council may also be posted to the EUSR. International contracted staff shall have the nationality of a Member State.
+
+3\. All seconded personnel shall remain under the administrative authority of the sending Member State or Union institution and shall carry out their duties and act in the interest of the mandate of the EUSR.
+
+## Article 7 — Privileges and immunities of the EUSR and his staff
+
+The privileges, immunities and further guarantees necessary for the completion and smooth functioning of the mission of the EUSR and the members of his staff shall be agreed with the host party/parties as appropriate. Member States and the Commission shall grant all necessary support to such effect.
+
+## Article 8 — Security of EU classified information
+
+The EUSR and the members of his team shall respect the security principles and minimum standards established by Council Decision 2001/264/EC of 19 March 2001 adopting the Council’s security regulations ( 3 ), in particular when managing EU classified information.
+
+## Article 9 — Access to information and logistical support
+
+1\. Member States, the Commission and the General Secretariat of the Council shall ensure that the EUSR is given access to any relevant information.
+
+2\. The Union delegation and/or Member States, as appropriate, shall provide logistical support in the region.
+
+## Article 10 — Security
+
+In accordance with the Union’s policy on the security of personnel deployed outside the Union in an operational capacity under Title V of the Treaty, the EUSR shall take all reasonably practicable measures, in conformity with his mandate and the security situation in his geographical area of responsibility, for the security of all personnel under his direct authority, notably by:
+
+(a) establishing a mission-specific security plan based on guidance from the General Secretariat of the Council, including mission-specific physical, organisational and procedural security measures, governing management of the secure movement of personnel to, and within, the mission area, as well as management of security incidents and including a mission contingency and evacuation plan;
+
+(b) ensuring that all personnel deployed outside the Union are covered by high risk insurance as required by the conditions in the mission area;
+
+(c) ensuring that all members of his team to be deployed outside the Union, including locally contracted personnel, have received appropriate security training before or upon arriving in the mission area, based on the risk ratings assigned to the mission area by the General Secretariat of the Council;
+
+(d) ensuring that all agreed recommendations made following regular security assessments are implemented and providing the HR, the Council and the Commission with written reports on their implementation and on other security issues within the framework of the mid-term and mandate implementation reports.
+
+## Article 11 — Reporting
+
+The EUSR shall regularly provide the HR and the PSC with oral and written reports. The EUSR shall also report as necessary to Council working parties. Regular written reports shall be circulated through the COREU network. Upon recommendation of the HR or the PSC, the EUSR may provide the Foreign Affairs Council with reports.
+
+## Article 12 — Coordination
+
+1\. The EUSR shall promote overall Union political coordination. He shall help to ensure that all Union instruments in the field are engaged coherently to attain the Union’s policy objectives. The activities of the EUSR shall be coordinated with those of the Commission, as well as those of other EUSR’s active in the region as appropriate. The EUSR shall provide Member States missions and the Union’s delegations with regular briefings.
+
+2\. In the field, close liaison shall be maintained with the Head of the Union delegation and Member States’ Heads of Mission. They shall make best efforts to assist the EUSR in the implementation of the mandate. The EUSR shall provide the Heads of the European Union Police Mission in the Palestinian Territories (EUPOL COPPS) and of the European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah) with local political guidance. The EUSR and the Civilian Operation Commander shall consult each other as required. The EUSR shall also liaise with other international and regional actors in the field.
+
+## Article 13 — Review
+
+The implementation of this Decision and its consistency with other contributions from the Union to the region shall be kept under regular review. The EUSR shall present the HR, the Council and the Commission with a mandate implementation report at the end of the mandate.
+
+## Article 14 — Entry into force
+
+This Decision shall enter into force on the date of its adoption.
+
+It shall apply from 1 March 2010.
+
+## Article 15 — Publication
+
+This Decision shall be published in the Official Journal of the European Union.
+
+( 1 ) OJ L 184, 23.7.2003, p. 45.
+
+( 2 ) OJ L 46, 17.2.2009, p. 65.
+
+( 3 ) OJ L 101, 11.4.2001, p. 1.

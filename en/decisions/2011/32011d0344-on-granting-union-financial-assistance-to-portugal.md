@@ -1,0 +1,370 @@
+---
+title: "2011/344/EU: Council Implementing Decision of 30 May 2011 on granting Union financial assistance to Portugal"
+identifier: "32011D0344"
+eli: "http://data.europa.eu/eli/dec_impl/2011/344/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2011-05-30
+entry_into_force: 2011-12-21
+last_amended: 2014-04-26
+consolidated_version: "02011D0344-20140426"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D0344-20140426"
+retrieved: 2026-10-11
+---
+
+# 2011/344/EU: Council Implementing Decision of 30 May 2011 on granting Union financial assistance to Portugal
+
+**COUNCIL IMPLEMENTING DECISION**
+
+**of 17 May 2011**
+
+**on granting Union financial assistance to Portugal**
+
+**(2011/344/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>Council Implementing Decision of 2 September 2011</td><td> L 240</td><td>8</td><td>16.9.2011</td></tr>
+<tr><td></td><td>Council Implementing Decision of 11 October 2011</td><td> L 269</td><td>32</td><td>14.10.2011</td></tr>
+<tr><td></td><td>Council Implementing Decision of 14 December 2011</td><td> L 46</td><td>40</td><td>17.2.2012</td></tr>
+<tr><td> M4</td><td>Council Implementing Decision of 29 March 2012</td><td> L 115</td><td>21</td><td>27.4.2012</td></tr>
+<tr><td> M5</td><td>Council Implementing Decision of 10 July 2012</td><td> L 192</td><td>12</td><td>20.7.2012</td></tr>
+<tr><td></td><td>Council Implementing Decision of 9 October 2012</td><td> L 295</td><td>14</td><td>25.10.2012</td></tr>
+<tr><td> M7</td><td>Council Implementing Decision of 20 December 2012</td><td> L 26</td><td>30</td><td>26.1.2013</td></tr>
+<tr><td></td><td>Council Implementing Decision of 21 June 2013</td><td> L 175</td><td>47</td><td>27.6.2013</td></tr>
+<tr><td></td><td>Council Implementing Decision of 19 November 2013</td><td> L 322</td><td>31</td><td>3.12.2013</td></tr>
+<tr><td> M10</td><td>Council Implementing Decision of 18 February 2014</td><td> L 107</td><td>61</td><td>10.4.2014</td></tr>
+<tr><td></td><td>Council Implementing Decision of 23 April 2014</td><td> L 125</td><td>75</td><td>26.4.2014</td></tr>
+</table>
+
+**COUNCIL IMPLEMENTING DECISION**
+
+**of 17 May 2011**
+
+**on granting Union financial assistance to Portugal**
+
+**(2011/344/EU)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EU) No 407/2010 of 11 May 2010 establishing a European financial stabilisation mechanism ( 1 ), and in particular Article 3(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) Portugal has recently come under increasing pressure in financial markets, creating rising concerns about the sustainability of its public finances. Indeed, the current crisis has had a dramatic impact also on public finances, which ultimately led to a sharp increase in sovereign spreads. Amidst consecutive downgradings by credit rating agencies of Portuguese bonds, the country became unable to refinance itself at rates comptabile with long-term fiscal sustainability. In parallel, the banking sector, which is heavily dependent on external financing, particularly within the euro area, was increasingly cut off from market funding.
+
+(2) In view of this severe economic and financial disturbance caused by exceptional circumstances beyond the control of the government, Portugal officially requested financial assistance from the European Union, the Member States whose currency is the euro, and the International Monetary Fund (‘IMF’) on 7 April 2011 with a view to supporting a policy programme to restore confidence and enable the return of the economy to sustainable growth, and to safeguarding financial stability in Portugal, the euro area and the Union. On 3 May 2011, an agreement was reached between the Government and the joint Commission/IMF/ECB mission in respect of a comprehensive three-year policy programme for the period up to mid-2014, to be laid down in a Memorandum of Economic and Financial Policies (‘MEFP’) and a Memorandum of Understanding on Specific Economic Policy Conditionality (‘MoU’) This policy programme was supported by the two largest opposition parties.
+
+(3) This draft economic and financial adjustment programme (‘the Programme’) submitted by Portugal to the Commission and the Council aims at restoring confidence in the sovereign and in the banking sector and supporting growth and employment. It foresees comprehensive action on three fronts. First, deep and frontloaded structural reforms to boost potential growth, create jobs, and improve competitiveness (including through fiscal devaluation). In particular, the Programme contains reforms of the labour market, the judicial system, network industries, and housing and services sectors, with a view to strengthening the economy’s growth potential, improving competitiveness and facilitating economic adjustment. Second, a credible and balanced fiscal consolidation strategy, supported by structural fiscal measures and better fiscal control over Public-Private-Partnerships (‘PPPs’) and state-owned enterprises (‘SOEs’), aiming at putting the gross public debt-to-GDP ratio on a firm downward path in the medium term. The authorities are committed to reducing the deficit to 3 % of GDP by 2013. Third, a financial sector strategy based on recapitalisation and deleveraging, with efforts to safeguard the financial sector against disorderly deleveraging through market-based mechanisms supported by back-up facilities.
+
+(4) Under the Commission’s current projections for nominal GDP growth (- 1,2 % in 2011, - 0,5 % in 2012, 2,5 % in 2013 and 3,9 % in 2014), the fiscal targets are consistent with a path for the debt-to-GDP ratio of 101,7 % in 2011, 107,4 % in 2012, 108,6 % in 2013 and 107,6 % in 2014. The debt-to-GDP ratio would therefore be stabilised in 2013 and be placed on a declining path thereafter, assuming further progress in the reduction of the deficit. Debt dynamics are affected by several below-the-line operations, which are projected to increase the debt-to-GDP ratio by 1¾ percentage points (‘pps’) of GDP in 2011 and by ¾ pps per year between 2012 and 2014. These include sizeable acquisitions of financial assets, notably for possible bank recapitalisation and financing to SOEs amounting to ½ % of GDP per year between 2011 and 2014. On the other hand, privatisation proceeds totalling around 3 % of GDP up to the year 2013 will support debt reduction efforts.
+
+(5) The assessment by the Commission, in liaison with the European Central Bank (‘ECB’) and together with the IMF, is that Portugal needs financing of a total amount of EUR 78 billion (78 000 million) over the period from June 2011 to mid 2014. Notwithstanding the significant fiscal adjustment, the financing gap for the sovereign may amount to EUR 63 billion over the period of the Programme. This assumes no access to the medium- and long-term debt market until the first half of 2013. Portugal is assumed to be able to roll-over part of its existing stock of short-term debt, while the programme also provides for a financing buffer in case of unexpected deviations from the Commission’s baseline financing scenario. Portugal is encouraged to maintain and adjust its financial market operations, seeking to develop market access and confidence. The financial sector strategy contained in the programme to restore confidence in the Portuguese banking system on a sustainable basis requires banking groups to bring their core tier 1 capital ratio to 9 % by the end of 2011 and to 10 % by the end of 2012 and to maintain it thereafter. The programme contains a banking support scheme of up to EUR 12 billion to provide the necessary capital in case market solutions cannot be found. Actual funding needs may, however, be substantially lower, in particular if market conditions improve significantly and no severe unexpected banking losses materialise during the period of the Programme.
+
+(6) The Programme would be financed through contributions from external sources. The Union’s assistance to Portugal would reach up to EUR 52 billion under the European Financial Stabilisation Mechanism (‘EFSM’) established by Regulation (EU) No 407/2010 and from contributions from the European Financial Stability Facility. In addition, Portugal has requested a loan of SDR 23,742 billion (equivalent to EUR 26 billion at the exchange rate of 5 May 2011) from the IMF under an Extended Fund Facility. The support from the EFSM needs to be supplied on terms and conditions similar to those of the IMF. The Union financial assistance should be managed by the Commission.
+
+(7) The Council should review on a regular basis the economic policies implemented by Portugal.
+
+(8) The specific economic policy conditions agreed with Portugal should be laid down in a Memorandum of Understanding on Specific Economic Policy Conditionality (the ‘Memorandum of Understanding’). The detailed financial terms should be laid down in a Loan Facility Agreement.
+
+(9) The Commission, in liaison with the ECB, should verify at regular intervals that the economic policy conditions attached to the assistance are fulfilled, through missions and regular reporting by the Portuguese authorities.
+
+(10) Throughout the implementation of the Programme, the Commission should provide additional policy advice and technical assistance in specific areas.
+
+(11) The operations which the Union financial assistance helps to finance must be compatible with Union policies and comply with Union legislation. Interventions in support of financial institutions must be carried out in accordance with Union rules on competition.
+
+(12) The assistance should be provided with a view to supporting the successful implementation of the Programme,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+1\. The Union shall make available to Portugal a loan amounting to a maximum of EUR 26 billion, with a maximum average maturity of 19,5 years. The maturity of individual tranches of the loan facility may be of up to 30 years.
+
+2\. The financial assistance shall be made available during three years and six weeks, starting from the first day after the entry into force of this Decision.
+
+3\. The Union financial assistance shall be made available by the Commission to Portugal in a maximum of 14 instalments. An instalment may be disbursed in one or several tranches. The maturities of the tranches under the first and second instalment may be longer than the maximum average maturity referred to in paragraph 1. In such cases, the maturities of further tranches shall be set so that the maximum average maturity referred to in paragraph 1 be achieved once all instalments have been disbursed.
+
+4\. The first instalment shall be released subject to the entry into force of the Loan Facility Agreement and the Memorandum of Understanding. Any subsequent loan releases shall be conditional upon a favourable review by the Commission, in consultation with the ECB, of Portugal’s compliance with the general economic policy conditions as defined by this Decision and the Memorandum of Understanding.
+
+5\. Portugal shall pay the cost of funding of the Union for each tranche.
+
+6\. In addition, the costs referred to in Article 7 of Regulation (EU) No 407/2010 shall be charged to Portugal.
+
+7\. If required in order to finance the loan, the prudent use of interest rate swaps with counterparties of the highest credit quality and advanced borrowing shall be permitted.
+
+8\. The Commission shall decide on the size and release of further instalments. The Commission shall decide on the size of the tranches.
+
+9\. At the request of Portugal, the Commission may extend the maturity of an instalment or a tranche, provided that the maximum average maturity as set out in paragraph 1 is respected. The Commission may refinance all or part of its borrowing for that purpose. Any amounts borrowed in advance shall be kept on an account with the ECB that the Commission has opened for the administration of the financial assistance.
+
+## Article 2
+
+1\. The assistance shall be managed by the Commission in a manner consistent with Portugal’s undertakings.
+
+2\. The Commission, in consultation with the ECB, shall agree with the Portuguese authorities the specific economic policy conditions attached to the financial assistance as set out in Article 3. Those conditions shall be laid down in a Memorandum of Understanding to be signed by the Commission and the Portuguese authorities consistent with the undertakings referred to in paragraph 1. The detailed financial terms shall be laid down in a Loan Facility Agreement to be concluded with the Commission.
+
+3\. The Commission, in liaison with the ECB, shall verify at regular intervals (at least quarterly) that the economic policy conditions attached to the assistance are fulfilled, and report to the Economic and Financial Committee before disbursement of each instalment. To this end, the Portuguese authorities shall cooperate in full with the Commission and the ECB, and shall place all the necessary information at their disposal. The Commission shall keep the Economic and Financial Committee informed of possible refinancing of the borrowings, or changes to the financial conditions.
+
+4\. Portugal shall adopt and implement additional consolidation measures to ensure macro-financial stability, in case such measures will be necessary during the programme of assistance. The Portuguese authorities shall consult the Commission and the ECB in advance of the adoption of any such additional measures.
+
+## Article 3
+
+1\. The draft economic and financial adjustment programme (the ‘Programme’) prepared by the Portuguese authorities is hereby approved.
+
+2\. The disbursement of each instalment after the first one shall be made on the basis of a satisfactory implementation of the Programme and, more particularly, the specific economic policy conditions laid down in the Memorandum of Understanding. These shall include, inter alia, the measures provided for in paragraphs 4 to 8 of this Article.
+
+3\. The general government deficit shall not exceed 5,9 % of GDP in 2011, 5,0 % of GDP in 2012, 5,5 % of GDP in 2013 and 4 % of GDP in 2014. For the calculation of this deficit, the possible budgetary costs of bank support measures in the context of the Government's financial sector strategy shall not be taken into account. The budgetary consolidation shall be achieved by means of high-quality permanent measures and minimising the impact of consolidation on vulnerable groups.
+
+4\. Portugal shall adopt the measures specified in paragraphs 5 to 8 before the end of the indicated year, with exact deadlines for the years 2011-2014 being specified in the Memorandum of Understanding. Portugal shall stand ready to take additional consolidation measures to achieve the deficit targets throughout the Programme period.
+
+5\. Portugal shall adopt the following measures before the end of 2011, in line with specifications in the Memorandum of Understanding:
+
+(a) 2011 fiscal deficit target shall be reached by an exceptional measure. Assets acquired as a result of the transfer of banks pensions funds to the State social security system shall not be used in a way detrimental to long-term sustainability of Portuguese public finances.
+
+(b) Portugal shall adopt measures to reinforce public finance management. Portugal shall implement the measures provided for in the new Budgetary Framework Law, including setting up a medium-term budgetary framework and establishing an independent Fiscal Council. The budgetary framework at local and regional levels shall be considerably strengthened, in particular by putting forward the key options for the alignment of the respective financing laws to the requirements of the Budgetary Framework Law. Portugal shall step up reporting and monitoring of public finances and reinforce budgetary execution rules and procedures. The Portuguese Government shall prepare a strategy for the validation and settlement of arrears which is to present a roadmap setting out how and when the stock of arrears is to be stabilised and explore various options of settling arrears. Regarding Public Private Partnerships (PPPs), the Portuguese Government shall not enter into any new PPPs before the study results on existing PPPs envisaged in the Programme and the legal and institutional reforms proposed become available.
+
+(c) Portugal shall continue strengthening labour market functioning, notably by taking measures to reform employment protection legislation, wage setting and active labour market policies.
+
+(d) In the energy sector, Portugal shall take measures to facilitate entry, promote the establishment of the Iberian gas market and review the support and compensation schemes for the production of electricity. For other network industries, in particular transport, telecommunications and postal services, Portugal shall adopt additional measures to promote competition and flexibility.
+
+(e) Portugal shall continue opening up the economy to competition. The Portuguese Government shall take the necessary measures to ensure that the Portuguese State or any public body does not conclude, in a shareholder capacity, agreements which may hinder the free movement of capital or influence the management control of companies. The new Privatisation Law shall also be respectful of the principles of free movement of capital and not grant or allow special rights to the State. A revision of competition law shall be undertaken aiming at improving the speed and effectiveness of enforcement of competition rules.
+
+(f) Portugal shall improve practices and rules for public procurement contributing to a more competitive business environment and to more efficient public spending.
+
+(g) Portugal shall adopt measures to improve the efficiency and sustainability of SOEs at central, regional and local level. Portugal shall prepare a comprehensive SOEs strategy document reviewing the tariff structure and the service provision and a plan to tighten borrowing requirements as of 2012. Portugal shall implement ongoing plans to reduce operational costs by at least 15 % on average in central government SOEs outside the health sector and prepare an equivalent plan for regional and local government SOEs.
+
+(h) Portugal shall prepare a financial arrangement with the Autonomous Region of Madeira (RAM) consistent with the Programme. Until the agreement of that arrangement and its implementation in the RAM budget, Portugal shall closely monitor the execution of the RAM budget, shall keep transfers from the State to the RAM government suspended and shall not honour any new commercial or financial debt or guarantees by the RAM government and its SOEs that are not approved by the Ministry of Finance.
+
+6\. Portugal shall adopt the following measures during 2012, in line with specifications in the Memorandum of Understanding:
+
+(a) the general government deficit shall not exceed 5,0 % of GDP in 2012. Portugal shall continue to closely monitor fiscal developments and implement further policy adjustments to achieve the 2012 target. To this effect, Portugal shall freeze some of the 2012 budget appropriations for investment projects not yet initiated; increase stamp duties on high value properties; raise tax rates on investment income; frontload some of the 2013 budget measures affecting social benefits; implement additional measures generating savings in intermediate consumption and raising other revenues in order to secure the deficit target for 2012;
+
+(b) Portugal shall aim to reduce expenditure in 2012 by at least EUR 6,8 billion including by reducing public sector wages and employment; making cuts in pensions; carrying out a comprehensive reorganisation of the central administration, eliminating redundancies and other inefficiencies; reducing transfers to SOEs; reorganising and reducing the number of municipalities and parishes; making cuts in education and health; lowering transfers to regional and local authorities; and reducing capital expenditure and other expenditure as set out in the Programme;
+
+(c) on the revenue side, Portugal shall implement revenue measures of at least EUR 3 billion, including by broadening VAT bases through the reduction of exemptions and the rearranging of the lists of goods and services subject to reduced, intermediate and higher rates; increasing excise taxes; broadening the corporate and personal income tax bases by reducing tax deductions and special regimes; ensuring the convergence of personal income tax deductions applied to pensions and labour income; and changing property taxation by substantially reducing exemptions. These measures shall be complemented by action to fight tax evasion, fraud and informality;
+
+(d) Portugal shall continue adopting measures to reinforce public finance management. Portugal shall implement the measures provided for in the new Budgetary Framework Law, including setting up a medium-term budgetary framework. The local and regional budgetary frameworks shall be considerably strengthened, in particular by aligning the respective financing laws with the requirements of the Budgetary Framework Law. Portugal shall step up the reporting and monitoring of public finances and reinforce budgetary execution rules and procedures. The Portuguese Government shall apply the strategy for the validation and settlement of arrears and step up the implementation of the commitment control law to prevent the creation of new arrears. Portugal shall implement the new legal and institutional PPPs framework. No PPP shall be launched until the new framework is fully effective. Based on a study prepared by an international auditing firm, Portugal shall develop a detailed strategic plan, in full compliance with applicable Union law including public procurement law, with a view to obtaining substantial fiscal gains, while minimising the debt burden and ensuring sustainable reduction of government liabilities. Portugal shall adopt a law to regulate the creation and the functioning of SOEs at central, regional and local levels;
+
+(e) Portugal shall apply the new legislation to reorganise and significantly reduce the number of local government entities. These changes shall come into effect by the beginning of the next local election cycle. In addition, Portugal shall enhance efforts to streamline the public sector by reducing entities and improving task sharing at all levels of government;
+
+(f) Portugal shall deepen the reform of the revenue administration by reinforcing the links between the Autoridade Tributária e Aduaneira and the revenue collection units of the Social Security, reducing the number of municipal offices and addressing remaining bottlenecks in the tax appeal system;
+
+(g) Portugal shall implement the financial arrangement with the RAM;
+
+(h) Portugal shall adopt measures to improve the efficiency and sustainability of SOEs at central, regional and local level. Portugal shall explore options in order to manage the heavy debt load of SOEs, including Parpública, and to ensure improved conditions for market financing. Portugal shall aim to reach operational balance at sector level by the end of 2012;
+
+(i) Portugal shall continue implementing the privatisation programme. The direct sale of Caixa Geral de Depósitos’ (CGD) insurance arm, Caixa Seguros, is ongoing;
+
+(j) the Portuguese Government shall submit draft legislation to the Portuguese Parliament to align severance payments with the Union average of 8 to 12 days per year of work and to create a compensation fund for severance payments;
+
+(k) Portugal shall promote wage developments consistent with the objectives of fostering job creation and improving firms’ competitiveness with a view to correcting macroeconomic imbalances. Over the Programme period, any increase in minimum wages shall take place only if justified by economic and labour market developments. Measures shall be taken to address weaknesses in the current wage bargaining schemes, including legislation to redefine the criteria and modalities of the extension of collective agreements and to facilitate firm-level agreements. Until then, collective agreements shall not be extended;
+
+(l) Portugal shall continue to improve the effectiveness of its active labour market policies in line with the results of the assessment report and the action plan to improve the functioning of the public employment services;
+
+(m) Portugal shall implement the measures set out in its action plans to improve the quality of secondary and vocational education and training;
+
+(n) the functioning of the judicial system shall be improved by implementing the measures proposed under the Judicial Reform Map and by applying targeted measures to progressively eliminate the court backlog and to foster alternative dispute resolution;
+
+(o) Portugal shall continue opening up its economy to competition. The Portuguese Government shall take the necessary measures to ensure that obstacles to free movement of capital will not be created by their action and, in particular, that the Portuguese State or any public body does not conclude, in a shareholder capacity, agreements which may hinder the free movement of capital or influence the management control of companies. The functioning of professional services shall be fostered by improving the framework for recognition of professional qualifications and by eliminating unnecessary restrictions on regulated professions. In construction and real estate activities, Portugal shall make the requirements for cross-border providers less burdensome and review obstacles to the establishment of service providers;
+
+(p) the competition and regulatory framework shall be improved. Portugal shall reinforce the independence, autonomy and governance of the main national regulatory authorities; implement the Competition Law with a view to improving the speed and effectiveness of the enforcement of competition rules; and monitor the inflow of new cases and report on the functioning of the specialised court for competition, regulation and supervision;
+
+(q) in the energy sector, Portugal shall take measures to facilitate market entry and promote the establishment of the Iberian gas market and shall take further steps towards fully transposing the Third EU Energy Package. To ensure the independence and autonomy and powers of the national regulatory authority provided for in the Third EU Energy Package, Portugal shall adopt the new regulators’ by-laws, as agreed in July 2012 with the Commission, the ECB and the IMF, by the third quarter of 2012, and shall ensure that they are effective before the end of 2012 in time for the liberalisation of the electricity and gas market. Portugal shall take measures to review the support and compensation schemes for the production of electricity. Portugal shall take measures to reduce excessive rents and eliminate the tariff debt by 2020, focusing on compensation schemes for power guarantee, special regime (renewables — excluding those granted under tender mechanisms — and cogeneration), and the ordinary regime (CMECs and CAEs);
+
+(r) in other network industries, in particular transport, telecommunications and postal services, Portugal shall adopt additional measures to promote competition and flexibility;
+
+(s) Portugal shall adopt a number of measures with a view to increase the efficiency of the licensing schemes for territorial planning, industrial and commercial licensing and tourism. In addition, the Portuguese Government shall analyse and fast-track applications for the licensing of planned investment projects which are left unresolved or undecided for more than 12 months;
+
+(t) Portugal shall prepare an action plan with measures to facilitate access to finance and to export markets for companies, in particular for SMEs.
+
+7\. Portugal shall adopt the following measures during 2013, in line with specifications in the Memorandum of Understanding:
+
+(a) the general government deficit shall not exceed 5,5 % of GDP in 2013. For the calculation of this deficit, the possible budgetary costs of bank support measures in the context of the government’s financial sector strategy shall not be taken into account. The consolidation measures included in the 2013 budget and supplementary budget shall be implemented rigorously throughout the rest of the year. In addition, should further slippages arise in budgetary execution, the Government shall implement additional corrective measures;
+
+(b) Portugal shall continue implementing its privatisation programme;
+
+(c) Portugal shall complete the implementation of the strategy of shared services in public administration;
+
+(d) Portugal shall continue the reorganisation and rationalisation of the hospital network through specialisation, concentration and downsizing of hospital services, joint management and joint operation of hospitals, and shall ensure the implementation of the multiyear action plan for hospital reorganisation;
+
+(e) following the adoption of the amendments to the Law 6/2006 on new urban leases and the decree law which simplifies the administrative procedure for renovations, Portugal shall undertake a comprehensive review of the functioning of the housing market;
+
+(f) Portugal shall develop a nationwide land registration system to allow a more equal distribution of benefits and costs in the execution of urban planning;
+
+(g) while respecting the Constitutional Court’s ruling of 26 September 2013, Portugal shall devise and implement alternative reform options of the labour market with similar effects to those that were declared unconstitutional in that ruling;
+
+(h) Portugal shall promote wage developments which are consistent with the objectives of fostering job creation and improving firms’ competitiveness with a view to correcting macroeconomic imbalances. Over the Programme period, any increase in minimum wages shall take place only if justified by economic and labour market developments;
+
+(i) Portugal shall continue to improve the effectiveness of its active labour market policies in line with the results of the assessment report and the action plan to improve the functioning of the public employment services;
+
+(j) Portugal shall continue to implement the measures set out in its action plans to improve the quality of secondary and vocational education and training; in particular the Government shall present plans to make the funding framework of schools more effective and the professional schools of reference shall be established;
+
+(k) Portugal shall complete the adoption of the outstanding sectorial amendments necessary to fully implement Directive 2006/123/EC of the European Parliament and the Council ( 2 );
+
+(l) the Government shall submit to the Portuguese Parliament the professional bodies’ amended statutes;
+
+(m) Portugal shall approve the corresponding amendments to the bylaws of the National Regulatory Authorities;
+
+(n) Portugal shall publish quarterly reports on recovery rates; duration and costs of corporate insolvency cases; duration and cost of tax cases and on the clearance rate of enforcement court cases;
+
+(o) Portugal shall improve the business environment by completing pending reforms on the reduction of administrative burden (fully operational Points of Single Contact provided for by Directive 2006/123/EC and ‘Zero Authorisation’ projects) and by carrying out further simplification of existing licensing procedures, regulations and other administrative burdens in the economy which are a major obstacle for the development of economic activities;
+
+(p) Portugal shall complete the reform of the ports’ governance system, including the overhaul of port operation concessions;
+
+(q) Portugal shall implement the measures enhancing the functioning of the postal and telecommunications sectors;
+
+(r) Portugal shall implement the measures enhancing the functioning of the transport system;
+
+(s) Portugal shall implement the measures eliminating the energy tariff debt;
+
+(t) Portugal shall ensure that the new legal and institutional PPP framework is applied and the PPP road contracts continue to be renegotiated in line with the strategic plan presented by the Government and with the regulatory framework revision, in order to obtain substantial fiscal gains, particularly in 2013;
+
+(u) Portugal shall continue to focus on measures to combat tax fraud and evasion and strengthen taxpayers’ compliance.
+
+8\. Portugal shall adopt the following measures during 2014, in line with specifications in the Memorandum of Understanding:
+
+(a) the general government deficit shall not exceed 4 % of GDP in 2014 and the accumulation of new arrears shall be halted. For the calculation of the deficit target, the possible budgetary costs of bank support measures in the context of the Government's financial sector strategy shall not be taken into account. To achieve this objective, Portugal shall deliver consolidation measures worth 2,3 % of GDP as defined in the 2014 Budget Law and in supporting legislation adopted with this aim;
+
+(b) to control for potential expenditure slippages, the Government shall closely monitor the respect of the ministerial expenditure ceilings through monthly reporting to the Council of Ministers;
+
+(c) Portugal shall swiftly define and implement the envisaged changes in the survivors' pensions eligibility conditions as well as draft the framework law regulating the conditions for the sale of online gambling licences by end-March. In addition, Portugal shall take decisive steps to implement the agreed sale of some port concessions;
+
+(d) the comprehensive reform of the corporate income tax shall be implemented within the existing budgetary envelope to respect the fiscal consolidation targets;
+
+(e) the standstill rule for tax expenditures at central, regional or local level shall be maintained. Efforts to fight tax evasion and fraud for various types of taxes shall be further strengthened, inter alia, by the monitoring of the e-invoicing system. A study on the shadow economy in the housing market shall be carried out by the twelfth review with a view to seeking ways to reduce rental tax evasion;
+
+(f) should adverse legal or other budgetary execution risks materialise, Portugal shall implement compensatory measures of high quality in order to meet the deficit target;
+
+(g) the Government shall specify the measures necessary to achieve the fiscal deficit target of no more than 2,5 % of GDP in 2015. The detailed plans shall be reflected in the 2014 Fiscal Strategy Document to be published by end-April 2014, which shall also specify detailed expenditure ceilings by line ministries. In order to comply with the Union budgetary framework requirements, that document shall also provide details of the medium-term budgetary plans;
+
+(h) the 2015 consolidation strategy shall be underpinned, among others, by the following measures:
+
+(i) the Government shall develop a single wage scale during 2014 with a view to implementing it in 2015 and aimed at the rationalisation and consistency of remuneration policy across all careers of the public sector;
+
+(ii) the single wage-supplements' scale, expected to be implemented in 2014, shall have its full fiscal impact in 2015;
+
+(iii) new comprehensive measures as part of the ongoing pension reform shall be undertaken, aimed at improving the long-term sustainability of the pension system. The recently appointed pension reform committee shall develop specific details of the reform. The reform shall include short-term measures further linking pension entitlements to demographic and economic criteria while also respecting progressivity principles, in line with the Constitutional Court ruling on the convergence of the public-sector employees' pension system (CGA) to the general pension system. The specific design of this reform shall be presented by the time of the twelfth review with a draft law to be submitted to Parliament in the first half of the year. Further steps ensuring the long-term sustainability of the pension systems shall be specified. In addition, the Government shall ensure that the recently increased retirement age effectively apply to CGA pensioners during 2014; and
+
+(iv) other measures to reach the 2,5 % of GDP target shall be defined before mid-April;
+
+(i) the medium-term fiscal strategy shall build on further reforms which are, inter alia, outlined in the proposal for the reform of the State. These reforms shall aim at improving the efficiency of the public sector and the quality of its services. Building on the first round of consultations with social partners, the progress of this agenda shall be discussed at the twelfth review;
+
+(j) Portugal shall publish a tax expenditure report as part of the 2014 Budget covering central, regional and local administrations;
+
+(k) Portugal shall set up an accounting function in the Ministry of Finance to improve the public sector accounting and reporting framework by end-June 2014. As part of its tasks, it shall ensure an adequate accounting for revenues, expenses, assets and liabilities related to government bank accounts, debt, and PPPs;
+
+(l) the Commitment Control Law shall be fully enforced in all public entities to prevent the creation of new arrears;
+
+(m) Portugal shall take additional measures to further strengthen its public financial management system. Portugal shall review the Budget Framework Law to fully transpose the relevant Union legislation by end-March. In addition, Portugal shall carry out a more comprehensive revision of the Budget Framework Law to reduce budgetary fragmentation by limiting the number of budget entities and reviewing the classification of own revenues; to streamline the budget appropriation structure; to strengthen accountability; and to further anchor public finances in a medium-term framework. The key aspects and the structure of the new law shall be developed by end-April 2014. Portugal shall ensure that the measures to implement the new budgetary framework at central government level shall also be applied at regional and local levels;
+
+(n) Portugal shall fully implement the new legal and institutional PPPs framework. Renegotiations of PPPs shall proceed in various sectors in order to contain their budgetary impact. Annual reporting on PPPs shall provide a comprehensive assessment of the fiscal risks stemming from PPPs and concessions in time for the fiscal risks assessment of the budget. Following the new SOEs Framework Law and in line with the Ministry of Finance's enhanced shareholder role, a Technical Unit for the monitoring of SOEs shall be further staffed. The Government shall continue its comprehensive restructuring programme of SOEs with a view to maintaining and strengthening a sustainable operational balance. The Government shall continue with the privatisations already in the pipeline;
+
+(o) Portugal shall continue the reform agenda towards a modern and more efficient revenue administration in line with international best practises. Portugal shall announce by March-2014 the list of 50 % of local tax offices to be closed by May 2014. The number of resources devoted to auditing in the tax administration shall increase by at least 30 % of the total staff by the twelfth review. A new Taxpayer Services Department, unifying various services for taxpayers, shall be created within the tax administration. The Risk Management Unit shall be fully operational in the first quarter of 2014, focusing initially on targeted projects to improve compliance of self-employed professionals and high net wealth individuals. The tax compliance situation shall be continuously monitored. The anti-money laundering legal and regulatory framework shall be strengthened to tackle more effectively money laundering and its predicate crimes, including tax crimes;
+
+(p) Portugal shall present a report with the following objectives:
+
+(i) identifying overlaps of services and jurisdictions and other sources of inefficiencies between the central and the local levels of government; and
+
+(ii) reorganising the network of decentralised services of ministries mainly through the Lojas do Cidadão (administration and utilities single points of contact) network and other approaches, encompassing more efficient geographical areas and intensifying the use of shared services and digital government;
+
+(q) Portugal shall continue to implement a strategy of shared services in public administration, in particular on human resources management and on information and communication technologies;
+
+(r) Portugal shall continue implementing reforms to the management of human resources in the public administration. Based on a survey and a report on wage supplements, draft legislation for a single wage-supplements' scale shall be presented by the twelfth review with a view to its implementation by June 2014. The new general Public Administration Labour Law, simplifying and compiling the existing rules of public sector employment along the structure of the private Labour Code, shall be approved in Parliament by March-2014;
+
+(s) Portugal shall ensure efficiency and effectiveness in the healthcare system by continuing with the rational use of services and the control of expenditures including public spending on pharmaceuticals and hospital care, and eliminating arrears;
+
+(t) Portugal shall continue the ongoing reorganisation and rationalisation of the hospital network through specialisation, concentration and redistribution of hospital services, and ensure the implementation of the multiyear action plan for hospital reorganisation;
+
+(u) Portugal shall carry out reforms to tackle the high levels of segmentation in the labour market;
+
+(v) Portugal shall promote wage developments which are consistent with the objectives of fostering job creation and improving firms' competitiveness with a view to correcting macroeconomic imbalances. Over the Programme period, any increase in minimum wages shall take place only if justified by economic and labour market developments;
+
+(w) Portugal shall continue to ensure the effectiveness of its active labour market policies in line with the results of the assessment report and the action plan to improve the functioning of the public employment services;
+
+(x) Portugal shall continue to implement the measures set out in its action plans to improve the quality of secondary and vocational education and training and increase the business involvement in the vocational and education training system;
+
+(y) Portugal shall implement a plan to create an independent gas and electricity logistics operator company;
+
+(z) Portugal shall implement adequate measures to eliminate the energy tariff debt and to ensure the sustainability of the national electricity system;
+
+(aa) Portugal shall adopt measures enhancing the functioning of the transport system; the Strategic Plan for Transport for 2011-15 shall be fully implemented, including long-term actions which ensure efficiency and sustainability;
+
+(bb) Portugal shall continue to implement the transposition of the EU Railway Packages;
+
+(cc) Portugal shall continue improving the governance system for ports, its economic regulation and operation;
+
+(dd) Portugal shall continue to eliminate barriers to entry, soften existing authorisation requirements and reduce administrative burden in the services sector;
+
+(ee) Portugal shall complete the adoption of the construction laws and the other outstanding sectorial amendments necessary to fully implement Directive 2006/123/EC and submit them to the Parliament where necessary;
+
+(ff) the Government shall submit to the Parliament the professional bodies' amended statutes;
+
+(gg) Portugal shall improve the business environment by completing pending reforms on the reduction of administrative burden, in particular making the Point of Single Contact fully operational to ensure conformity with Directive 2006/123/EC and with Directive 2005/36/EC of the European Parliament and of the Council ( 3 ) and by carrying out further simplification of existing licensing procedures, regulations and other administrative burdens in the economy which are a major obstacle to the development of economic activities;
+
+(hh) following the adoption of the amendments to Law 6/2006 on new urban leases and the decree law which simplifies the administrative procedure for renovations, Portugal shall undertake a comprehensive review of the functioning of the housing market;
+
+(ii) the Government shall approve the corresponding amendments to the by-laws of the national regulatory authorities and shall ensure the effective functioning of the Competition Authority financing model;
+
+(jj) Portugal shall assess the impact of the optional VAT cash accounting regime;
+
+(kk) Portugal shall continue implementing the comprehensive programme to tackle excessive licensing procedures, regulations and other administrative burdens in the economy.
+
+9\. With a view to restoring confidence in the financial sector, Portugal shall aim to maintain an adequate level of capital in its banking sector and ensure an orderly deleveraging process in compliance with the deadlines set in the Memorandum of Understanding. In that regard, Portugal shall implement the strategy for the Portuguese banking sector agreed with the Commission, the ECB and the IMF so that financial stability is preserved. In particular, Portugal shall:
+
+(a) ensure that banks' capital buffers remain adequate and follow the new capital requirements rules as laid down in Directive 2013/36/EU of the European Parliament and of the Council ( 4 );
+
+(b) advise their banks to strengthen their collateral buffers on a sustainable basis;
+
+(c) remain committed to providing further support to the banking system, if needed, encouraging banks to seek private solutions while resources from the Bank Solvency Support Facility are available in line with the Union's State aid rules to further support viable banks, subject to strict conditionality;
+
+(d) ensure a balanced and orderly deleveraging of the banking sector, which is critical in permanently eliminating funding imbalances and reducing the reliance on Eurosystem funding in the medium term. Banks funding and capital plans shall be reviewed quarterly;
+
+(e) continue to strengthen the supervisory organisation of the Banco de Portugal, optimise its supervisory processes and develop and implement new supervisory methodologies and tools. The Banco de Portugal shall revise the standards on non-performing loans in order to achieve convergence with the criteria included in the relevant European Banking Authority technical standard in line with the timeframe set at Union level;
+
+(f) continue to monitor on a quarterly basis the banks' potential capital needs with a forward looking approach under stress conditions including through the integration of the new top-down stress testing framework into the quality assurance process, which allows for a review of the key drivers of the results;
+
+(g) continue to closely monitor the implementation of the measures agreed in the restructuring plans of banks having received public capital support;
+
+(h) ensure timely disposal of the subsidiaries and the assets in all three State-owned special purpose vehicles, including through the two selected service providers;
+
+(i) analyse banks' recovery plans and issue guidelines to the system on recovery plans in line with the relevant European Banking Authority technical standards and the relevant Union legislation on the recovery and resolution of credit institutions, and prepare resolution plans on the basis of the reports submitted by the banks;
+
+(j) prepare quarterly reports on the implementation of the new restructuring tools; continue to monitor the implementation of the framework for financial institutions to engage in out-of-court debt restructuring for households and smoothen the application of the framework for restructuring of corporate debt. Prepare, in consultation with the Banco de Portugal, a strategic plan aiming at addressing the corporate debt overhang and supporting the capital reallocation towards the productive sectors of the economy, while promoting financial stability;
+
+(k) continue the monitoring of the high indebtedness of the corporate and household sectors through quarterly reports and of the implementation of the new debt restructuring framework to ensure that it is working as effectively as possible;
+
+(l) encourage, on the basis of the proposals already made, the diversification of financing alternatives to the corporate sector, develop and implement solutions that provide financing alternatives to traditional bank credit for the corporate sector through an array of measures aiming to improve their access to the capital markets;
+
+(m) continue to evaluate the impact of the improvements in the government-guaranteed credit instruments on actual interest rates; stand ready to pursue policy alternatives, if deemed necessary, in order to ensure that government-guaranteed loans will be priced in a competitive and transparent manner in favour of end-users; regularly report on progress;
+
+(n) establish a development financial institution (DFI) aiming at streamlining and centralising the implementation of the financial instruments supported by the European structural and investment funds for the 2014-20 programming period. The DFI shall not accept deposits or other repayable funds from the public, engage in direct lending, or invest in government debt or grant loans to the Government. The DFI's draft business model and by-laws shall be designed to avoid any additional burden on or risks to public finances.
+
+10\. In order to ensure the smooth implementation of the Programme’s conditionality, and to help to correct imbalances in a sustainable way, the Commission shall provide continued advice and guidance on fiscal, financial market and structural reforms. Within the framework of the assistance to be provided to Portugal, together with the IMF and in liaison with the ECB, the Commission shall periodically review the effectiveness and economic and social impact of the agreed measures, and shall recommend necessary corrections with a view to enhancing growth and job creation, securing the necessary fiscal consolidation and minimising harmful social impacts, particularly on the most vulnerable parts of Portuguese society.
+
+## Article 4
+
+Portugal shall open a special account with the Bank of Portugal for the management of the Union financial assistance.
+
+## Article 5
+
+This Decision is addressed to the Portuguese Republic.
+
+## Article 6
+
+This Decision shall be published in the Official Journal of the European Union.
+
+( 1 ) OJ L 118, 12.5.2010, p. 1.
+
+( 2 ) Directive 2006/123/EC of the European Parliament and the Council of 12 December 2006 on services in the internal market (OJ L 376, 27.12.2006, p. 36).
+
+( 3 ) Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255, 30.9.2005, p. 22).
+
+( 4 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).

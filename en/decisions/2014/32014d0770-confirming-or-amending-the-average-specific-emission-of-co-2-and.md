@@ -1,0 +1,1180 @@
+---
+title: "2014/770/EU: Commission Implementing Decision of 30 October 2014 confirming or amending the average specific emission of CO 2 and specific emissions targets for manufacturers of passenger cars for the calendar year 2013 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council (notified under document C(2014) 7877)"
+identifier: "32014D0770"
+eli: "http://data.europa.eu/eli/dec_impl/2014/770/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-10-30
+entry_into_force: 2014-07-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0770"
+retrieved: 2026-10-11
+---
+
+# 2014/770/EU: Commission Implementing Decision of 30 October 2014 confirming or amending the average specific emission of CO 2 and specific emissions targets for manufacturers of passenger cars for the calendar year 2013 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council (notified under document C(2014) 7877)
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 30 October 2014**
+
+**confirming or amending the average specific emission of CO2 and specific emissions targets for manufacturers of passenger cars for the calendar year 2013 pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council**
+
+**(notified under document C(2014) 7877)**
+
+**(Only the Dutch, English, French, German, Italian, and Swedish texts are authentic)**
+
+**(2014/770/EU)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (1), and in particular the second subparagraph of Article 8(5) and Article 10(1) thereof,
+
+Whereas:
+
+(1) The Commission is required, pursuant to Article 8(5) of Regulation (EC) No 443/2009, to confirm each year the average specific emissions of CO2 and the specific emissions target for each manufacturer of passenger cars in the Union as well as for each pool of manufacturers formed in accordance with Article 7(1) of that Regulation. On the basis of that confirmation, the Commission is to determine whether manufacturers and pools have complied with the requirements of Article 4 of that Regulation.
+
+(2) Pursuant to Article 4 of Regulation (EC) No 443/2009 the average specific emissions of manufacturers for 2013 are calculated in accordance with the second paragraph of that Article and take into account 75 % of the manufacturer's new cars registered in that year.
+
+(3) The detailed data to be used for the calculation of the average specific emissions and the specific emissions targets is set out in point 1 of Part A and in Part C of Annex II to Regulation (EC) No 443/2009 and is based on Member States' registrations of new passenger cars during the preceding calendar year.
+
+(4) The 2013 data from all Member States (except for Croatia) were submitted to the Commission by 28 February 2014 in accordance with Article 8(2) of Regulation (EC) No 443/2009. Where, as a result of the verification of the data by the Commission, it was evident that certain data were missing or manifestly incorrect, the Commission contacted the Member States concerned and, subject to the agreement of those Member States, adjusted or completed the data accordingly. Where no agreement could be reached with a Member State, the provisional data of that Member State was not adjusted.
+
+(5) On 30 April 2014, the Commission published the provisional data and notified 84 manufacturers of the provisional calculations of their average specific emissions of CO2 in 2013 and their specific emissions targets in accordance with Article 8(4) of Regulation (EC) No 443/2009. Manufacturers were asked to verify the data and to notify the Commission of any errors within three months of receipt of the notification in accordance with the first subparagraph of Article 8(5) of that Regulation and Article 9(3) of Commission Regulation (EU) No 1014/2010 (2). Five manufacturers accepted the preliminary data without corrections whilst 42 manufacturers submitted notifications of errors within the given deadline.
+
+(6) For the remaining 37 manufacturers that did not notify any errors in the datasets or respond otherwise, the provisional data and provisional calculations of the average specific emissions and the specific emissions targets should be confirmed without adjustments.
+
+(7) The Commission has verified the corrections notified by the manufacturers and the respective justifications, and the dataset has been adjusted as appropriate.
+
+(8) In the case of records with missing or incorrect identification parameters, such as the type, variant, version code or the type approval number, the fact that manufacturers cannot verify or correct those records should be taken into account. As a consequence, it is appropriate to apply an error margin to the CO2 emissions and mass values of those records.
+
+(9) The error margin should be calculated as the difference between the distances to the specific emissions target expressed as the average emission target subtracted from the specific average emissions calculated including and excluding those registrations that cannot be verified by the manufacturers. Regardless of whether that difference is positive or negative, the error margin should always improve the manufacturer's position with regard to its specific emission target.
+
+(10) In accordance with Article 10(2) of Regulation (EC) No 443/2009, a manufacturer should be considered as compliant with its specific emission target referred to in Article 4 of that Regulation where the average emissions indicated in this Decision are lower than the specific emissions target, expressed as a negative distance to target. Where the average emissions exceed the specific emissions target, an excess emission premium will be imposed in accordance with Article 9 of Regulation (EC) No 443/2009, unless the manufacturer concerned benefits from an exemption from that target in accordance with Article 2(4) or Article 11 of that Regulation or is a member of a pool in accordance with Article 7 of Regulation (EC) No 443/2009 and the pool complies with its specific emissions target. On that basis, two manufacturers should be considered exceeding their specific emission targets for 2013.
+
+(11) The average specific emissions of CO2 from new passenger cars registered in 2013, the specific emissions targets and the difference between those two values should be confirmed accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The values relating to the performance of manufacturers, as confirmed or amended for each manufacturer of passenger cars and for each pool of such manufacturers in respect of the 2013 calendar year in accordance with Article 8(5) of Regulation (EC) No 443/2009, are specified in the Annex to this Decision.
+
+The values referred to in points (a) to (e) of Article 10(1) of Regulation (EC) No 443/2009 for each manufacturer of passenger cars and for each pool of such manufacturers in respect of the 2013 calendar year are also specified in the Annex to this Decision, with the exception provided for in Article 2(4) of that Regulation for the manufacturers concerned.
+
+## Article 2
+
+This Decision is addressed to the following individual manufacturers and pools formed in accordance with Article 7 of Regulation (EC) No 443/2009:
+
+(1) Alpina Burkard Bovensiepen GmbH & Co.,KG
+
+Alpenstraße 35-37
+
+86807 Buchloe
+
+Germany
+
+(2) Aston Martin Lagonda Ltd
+
+Gaydon Engineering Centre
+
+Banbury Road
+
+Gaydon Warwickshire CV35 0DB
+
+United Kingdom
+
+(3) Audi AG
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(4) Audi Hungaria Motor Kft.
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(5) Automobiles Citroën
+
+Route de Gizy
+
+78943 Vélizy-Villacoublay
+
+Cedex
+
+France
+
+(6) Automobiles Peugeot
+
+Route de Gizy
+
+78943 Vélizy-Villacoublay
+
+Cedex
+
+France
+
+(7) AVTOVAZ JSC
+
+Represented in the EU by:
+
+LADA France S.A.S.
+
+13, Route Nationale 10
+
+78310 Coignieres
+
+France
+
+(8) Bentley Motors Ltd
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(9) Bayerische Motoren Werke AG
+
+Petuelring 130
+
+80788 München
+
+Germany
+
+(10) BMW M GmbH
+
+Petuelring 130
+
+80788 München
+
+Germany
+
+(11) Bugatti Automobiles S.A.S.
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(12) Caterham Cars Ltd
+
+2 Kennet Road Dartford
+
+Kent DA1 4QN
+
+United Kingdom
+
+(13) CECOMP S.p.A.
+
+Via Ronchi 10
+
+10040 La Loggia
+
+Turin
+
+Italy
+
+(14) Chevrolet Italia S.p.A.
+
+Bahnhofsplatz 1 IPC 39-12
+
+65423 Rüsselsheim
+
+Germany
+
+(15) Chrysler Group LLC
+
+Represented in the EU by:
+
+Chrysler Management Austria GmbH
+
+Bundesstraße 83
+
+8071 Dörfla bei Graz
+
+Austria
+
+(16) CNG-Technic GmbH
+
+Niehl Plant, building Imbert 479
+
+Henry-Ford-Straße 1
+
+50735 Köln
+
+Germany
+
+(17) Automobile Dacia SA
+
+Technocentre
+
+1 avenue du Golf
+
+78288 Guyancourt Cedex
+
+France
+
+(18) Daihatsu Motor Co Ltd
+
+Avenue du Bourget 60
+
+Bourgetlaan 60
+
+1140 Brussels
+
+Belgium
+
+(19) Daimler AG
+
+Mercedesstr 137/1
+
+Zimmer 229
+
+70546 Stuttgart
+
+Germany
+
+(20) Donkervoort Automobielen BV
+
+Pascallaan 96
+
+8218 NJ
+
+Lelystad
+
+The Netherlands
+
+(21) DR Motor Company S.p.A.
+
+S.S. 85, Venafrana km 37.500
+
+86070 Macchia d'Isernia
+
+Italy
+
+(22) Ferrari S.p.A.
+
+Via Emilia Est 1163
+
+41122 Modena
+
+Italy
+
+(23) Fiat Group Automobiles S.p.A.
+
+corso Settembrini 40 Gate 8
+
+Building 5 Room A8N
+
+10135 Torino
+
+Italy
+
+(24) Fisker Automotive and Technology Group LLC
+
+Fisker Automotive GmbH
+
+Daimlerstrasse 11a
+
+85748 Garching
+
+Germany
+
+(25) Ford Motor Company
+
+Niehl Plant, building Imbert 479
+
+Henry-Ford-Straße 1
+
+50735 Köln
+
+Germany
+
+(26) Ford Werke GmbH
+
+Niehl Plant, building Imbert 479
+
+Henry-Ford-Straße 1
+
+50735 Köln
+
+Germany
+
+(27) Fuji Heavy Industries Ltd
+
+Represented in the EU by:
+
+Subaru Europe NV/SA
+
+Leuvensesteenweg 555 B/8
+
+1930 Zaventem
+
+Belgium
+
+(28) General Motors Company
+
+Adam Opel AG
+
+Bahnhofsplatz 1 IPC 39-12
+
+65423 Rüsselsheim
+
+Germany
+
+(29) GM Korea Company
+
+Adam Opel AG
+
+Bahnhofsplatz 1 IPC 39-12
+
+65423 Rüsselsheim
+
+Germany
+
+(30) Great Wall Motor Company Ltd
+
+Represented in the EU by:
+
+International Motors Ltd
+
+I.M. House South Drive
+
+Coleshill B46 1DF
+
+United Kingdom
+
+(31) Honda Automobile (China) Co., Ltd
+
+Represented in the EU by:
+
+Honda Motor Europe Ltd
+
+470 London Road
+
+Slough Berkshire
+
+SL3 8QY
+
+United Kingdom
+
+(32) Honda Motor Co., Ltd
+
+470 London Road
+
+Slough Berkshire
+
+SL3 8QY
+
+United Kingdom
+
+(33) Honda Turkiye A.S.
+
+Represented in the EU by:
+
+Honda Motor Europe Ltd
+
+470 London Road
+
+Slough Berkshire
+
+SL3 8QY
+
+United Kingdom
+
+(34) Honda of the UK Manufacturing Ltd
+
+470 London Road
+
+Slough Berkshire
+
+SL3 8QY
+
+United Kingdom
+
+(35) Hyundai Motor Company
+
+Represented in the EU by:
+
+Hyundai Motor Europe GmbH
+
+Kaiserleipromenade 5
+
+63067 Offenbach
+
+Germany
+
+(36) Hyundai Motor Manufacturing Czech S.r.o.
+
+Kaiserleipromenade 5
+
+63067 Offenbach
+
+Germany
+
+(37) Hyundai Motor India Ltd
+
+Represented in the EU by:
+
+Hyundai Motor Europe GmbH
+
+Kaiserleipromenade 5
+
+63067 Offenbach
+
+Germany
+
+(38) Hyundai Assan Otomotiv Sanayi Ve Ticaret A.S.
+
+Represented in the EU by:
+
+Hyundai Motor Europe GmbH
+
+Kaiserleipromenade 5
+
+63067 Offenbach
+
+Germany
+
+(39) Jaguar Land Rover Ltd
+
+Abbey Road
+
+Whitley
+
+Coventry CV3 4LF
+
+United Kingdom
+
+(40) Jiangling Motor Holding Co Ltd
+
+Represented in the EU by:
+
+LWMC Europe BV
+
+Berenbroek 3
+
+5707 DB Helmond
+
+The Netherlands
+
+(41) KIA Motors Corporation
+
+Kia Motors Europe GmbH
+
+Theodor-Heuss-Allee 11
+
+60486 Frankfurt am Main
+
+Germany
+
+(42) KIA Motors Slovakia S.r.o.
+
+Kia Motors Europe GmbH
+
+Theodor-Heuss-Allee 11
+
+60486 Frankfurt am Main
+
+Germany
+
+(43) KTM-Sportmotorcycle AG
+
+Stallhofnerstrasse 3
+
+5230 Mattighofen
+
+Austria
+
+(44) LADA Automobile GmbH
+
+Erlengrund 7-11
+
+21614 Buxtehude
+
+Germany
+
+(45) LADA France S.A.S.
+
+13, Route Nationale 10
+
+78310 Coignieres
+
+France
+
+(46) Automobili Lamborghini S.p.A.
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(47) Lotus Cars Ltd
+
+Hethel Norwich
+
+Norfolk NR14 8EZ
+
+United Kingdom
+
+(48) Magyar Suzuki Corporation Ltd
+
+Legal Department
+
+Suzuki Allee 7
+
+64625 Bensheim
+
+Germany
+
+(49) Mahindra & Mahindra Ltd
+
+Represented in the EU by:
+
+Mahindra Europe S.r.l.
+
+Via Cancelliera 35
+
+00040 Ariccia (Roma)
+
+Italy
+
+(50) Maruti Suzuki India Ltd
+
+Represented in the EU by:
+
+Suzuki International Europe GmbH
+
+Legal Department Suzuki Allee 7
+
+64625 Bensheim
+
+Germany
+
+(51) Maserati S.p.A.
+
+Viale Ciro Menotti 322
+
+41122 Modena
+
+Italy
+
+(52) Mazda Motor Corporation
+
+Mazda Motor Europe GmbH
+
+European R&D Centre
+
+Hiroshimastr 1
+
+61440 Oberursel/Ts
+
+Germany
+
+(53) McLaren Automotive Ltd
+
+Chertsey Road
+
+Woking
+
+Surrey GU21 4YH
+
+United Kingdom
+
+(54) Mercedes-AMG GmbH
+
+Mercedesstr 137/1
+
+Zimmer 229 HPC F 403
+
+70327 Stuttgart,
+
+Germany
+
+(55) MG Motor UK Ltd
+
+International HQ
+
+Q Gate
+
+Low Hill Lane
+
+Birmingham B31 2BQ
+
+United Kingdom
+
+(56) Mia Electric S.A.S.
+
+45, rue des Pierrières
+
+BP 60324
+
+79143 Cerizay Cedex
+
+France
+
+(57) Mitsubishi Motors Corporation MMC
+
+Mitsubishi Motors Europe B.V. MME
+
+Mitsubishi Avenue 21
+
+6121 SH Born
+
+The Netherlands
+
+(58) Mitsubishi Motors Europe B.V. MME
+
+Mitsubishi Avenue 21
+
+6121 SH Born
+
+The Netherlands
+
+(59) Mitsubishi Motors Thailand Co., Ltd MMTh
+
+Represented in the EU by:
+
+Mitsubishi Motors Europe B.V. MME
+
+Mitsubishi Avenue 21
+
+6121 SH Born
+
+The Netherlands
+
+(60) Morgan Motor Co., Ltd
+
+Pickersleigh Road Malvern Link
+
+Worcestershire
+
+WR14 2LL
+
+United Kingdom
+
+(61) Nissan International SA
+
+Renault Nissan Representation Office
+
+Av des Arts 40
+
+1040 Bruxelles
+
+Belgium
+
+(62) Adam Opel AG
+
+Bahnhofsplatz 1IPC 39-12
+
+65423 Rüsselsheim
+
+Germany
+
+(63) PERODUA Manufacturing
+
+Represented in the EU by:
+
+KESMAN Ltd
+
+Suite 7 Queensgate House 18 Cookham Road
+
+Maidenhead, Berkshire SL6 8BD
+
+United Kingdom
+
+(64) Dr. Ing. h.c.F. Porsche AG
+
+Porscheplatz 1
+
+70435 Stuttgart
+
+Germany
+
+(65) Perushaan Otomobil Nasional Sdn Bhd.
+
+Represented in the EU by:
+
+Proton Cars UK Ltd
+
+1-3 Crowley Way
+
+Avonmouth Bristol, BS11 9YR
+
+United Kingdom
+
+(66) Qoros Automotive Co., Ltd
+
+Martiusstrasse 5
+
+80802 München
+
+Germany
+
+(67) Quattro GmbH
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(68) Radical Motorsport Ltd
+
+24 Ivatt Way
+
+Business Park Westwood Peterborough PE3 7PG
+
+United Kingdom
+
+(69) Renault S.A.S.
+
+Technocentre
+
+1 avenue du Golf
+
+78288 Guyancourt Cedex
+
+France
+
+(70) Renault Trucks
+
+99 Route de Lyon TER L10 0 01
+
+69802 Saint Priest Cedex
+
+France
+
+(71) Rolls-Royce Motor Cars Ltd
+
+Petuelring 130
+
+80788 München
+
+Germany
+
+(72) Seat S.A.
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(73) Secma S.A.S.
+
+Rue Denfert Rochereau
+
+59580 Aniche
+
+France
+
+(74) Skoda Auto A.S.
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(75) Ssangyong Motor Company
+
+Represented in the EU by:
+
+SsangYong European Parts Center B.V.
+
+IABC 5253/5254
+
+4B14RD Breda
+
+The Netherlands
+
+(76) Suzuki Motor Corporation
+
+Represented in the EU by:
+
+Suzuki International Europe GmbH
+
+Legal Department
+
+Suzuki Allee 7
+
+64625 Bensheim
+
+Germany
+
+(77) Tata Motors Ltd
+
+Represented in the EU by:
+
+Tata Motors European Technical Centre Plc.
+
+2nd Floor International Automotive Research Centre
+
+University of Warwick
+
+Coventry
+
+CV4 7AL
+
+United Kingdom
+
+(78) Tazzari GL S.p.A.
+
+VIA Selice Provinciale 42/E
+
+40026 Imola
+
+Bologna
+
+Italy
+
+(79) Tesla Motors Ltd
+
+Represented in the EU by:
+
+Tesla Motors NL
+
+7-9 Atlasstraat
+
+5047 RG Tilburg
+
+The Netherlands
+
+(80) Toyota Motor Europe NV/SA
+
+Avenue du Bourget 60
+
+1140 Brussels
+
+Belgium
+
+(81) Vehicules Electriques Pininfarina Bollore S.A.S.
+
+31-32, Quai De Dion Bouton
+
+92800 Puteaux
+
+France
+
+(82) Volkswagen AG
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+(83) Volvo Car Corporation
+
+VAK building
+
+Assar Gabrielssons väg
+
+405 31 Göteborg
+
+Sweden
+
+(84) Wiesmann GmbH
+
+An der Lehmkuhle 87
+
+48249 Dülmen
+
+Germany
+
+(85) Pool for: BMW Group BMW
+
+Petuelring 130
+
+80788 Munich
+
+Germany
+
+(86) Pool for: Daimler AG
+
+Mercedesstr 137/1
+
+Zimmer 229
+
+70546 Stuttgart
+
+Germany
+
+(87) Pool for: Fiat Group Automobiles S.p.A.
+
+corso Settembrini 40
+
+Gate 8 Building 5 Room A8N
+
+10135 Torino
+
+Italy
+
+(88) Pool for: Ford -Werke GmbH
+
+Niehl Plant, building Imbert 479
+
+Henry Ford Strasse 1
+
+50725 Köln
+
+Germany
+
+(89) Pool for: General Motors
+
+Bahnhofsplatz 1 IPC 39-12
+
+65423 Rüsselsheim
+
+Germany
+
+(90) Pool for: Honda Motor Europe Ltd
+
+470 London Road Slough
+
+Berkshire SL3 8QY
+
+United Kingdom
+
+(91) Pool for: Mitsubishi Motors
+
+Mitsubishi Avenue 21
+
+6121 SH Born
+
+The Netherlands
+
+(92) Pool Renault
+
+Technocentre
+
+1 Avenue du Golf
+
+78288 Guyancourt Cedex
+
+France
+
+(93) Suzuki Pool
+
+Suzuki Allee 7
+
+64625 Bensheim
+
+Germany
+
+(94) Pool for: Tata Motors Ltd, Jaguar Cars Ltd, Land Rover
+
+Abbey Road
+
+Whitley
+
+Coventry CV3 4LF
+
+United Kingdom
+
+(95) Pool for: Toyota — Daihatsu Group
+
+Avenue du Bourget 60
+
+1140 Brussels
+
+Belgium
+
+(96) Pool for: VW Group PC
+
+Berliner Ring 2
+
+38436 Wolfsburg
+
+Germany
+
+It shall be published in the Official Journal of the European Union.
+
+Done at Brussels, 30 October 2014.
+
+For the Commission
+
+Connie HEDEGAARD
+
+Member of the Commission
+
+(1) OJ L 140, 5.6.2009, p. 1.
+
+(2) Commission Regulation (EU) No 1014/2010 of 10 November 2010 on monitoring and reporting of data on the registration of new passenger cars pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council (OJ L 293, 11.11.2010, p. 15).
+
+## ANNEX
+
+**Table 1**
+
+**Values relating to the performance of manufacturers confirmed in accordance with Article 10 of Regulation (EC) No 443/2009**
+
+| A | B | C | D | E | F | G | H | I |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Manufacturer name | Pools and derogations | Number of registrations | Average CO2 (75 %) corrected | Specific emissions target | Distance to target | Distance to target adjusted | Average mass | Average CO2 (100 %) |
+| ALPINA BURKARD BOVENSIEPEN GMBH E CO KG | DMD | 444 | 169,820 |  |  |  | 1 876,43 | 183,032 |
+| ASTON MARTIN LAGONDA LTD | D | 1 579 | 313,688 | 318,000 | – 4,312 | – 4,312 | 1 813,29 | 326,017 |
+| AUDI AG | P12 | 650 919 | 121,881 | 138,319 | – 16,438 | – 16,438 | 1 554,03 | 133,277 |
+| AUDI HUNGARIA MOTOR KFT | P12 | 7 132 | 141,911 | 133,391 | 8,520 | 8,520 | 1 446,20 | 150,909 |
+| AUTOMOBILES CITROEN |  | 587 504 | 106,856 | 129,275 | – 22,419 | – 22,419 | 1 356,14 | 116,461 |
+| AUTOMOBILES PEUGEOT |  | 723 633 | 105,652 | 128,934 | – 23,282 | – 23,282 | 1 348,68 | 115,040 |
+| AVTOVAZ JSC | D | 1 295 | 215,429 | 201,000 | 14,429 | 14,429 | 1 277,78 | 217,830 |
+| BENTLEY MOTORS LTD | P12 | 1 952 | 288,711 | 181,440 | 107,271 | 107,151 | 2497,60 | 308,795 |
+| BAYERISCHE MOTOREN WERKE AG | P1 | 758 080 | 123,541 | 138,592 | – 15,051 | – 15,179 | 1 560,00 | 133,866 |
+| BMW M GMBH | P1 | 4 307 | 239,855 | 153,566 | 86,289 | 85,498 | 1 887,67 | 253,097 |
+| BUGATTI AUTOMOBILES SAS | P12 | 11 | 539,000 | 161,670 | 377,330 | 377,330 | 2 065,00 | 544,182 |
+| CATERHAM CARS LIMITED | DMD | 85 | 162,714 |  |  |  | 662,06 | 171,776 |
+| CECOMP S.P.A. |  | 566 | 0,000 | 123,282 | – 123,282 | – 123,282 | 1 225,00 | 0,000 |
+| CHEVROLET ITALIA SPA | P5 | 746 | 112,021 | 119,423 | – 7,402 | – 7,402 | 1 140,56 | 117,095 |
+| CHRYSLER GROUP LLC | P3 | 46 131 | 183,732 | 161,282 | 22,450 | 22,398 | 2 056,51 | 194,511 |
+| CNG-TECHNIK GMBH | P4 | 85 | 19,235 | 137,855 | – 118,620 | – 118,620 | 1 543,89 | 64,165 |
+| AUTOMOBILE DACIA SA | P8 | 289 149 | 119,365 | 122,143 | – 2,778 | – 2,779 | 1 200,08 | 126,644 |
+| DAIHATSU MOTOR CO LTD | P11 | 487 | 148,923 | 124,189 | 24,734 | 24,734 | 1 244,85 | 156,561 |
+| DAIMLER AG | P2 | 661 318 | 119,834 | 139,386 | – 19,552 | – 19,570 | 1 577,38 | 136,551 |
+| DONKERVOORT AUTOMOBIELEN BV | DMD | 8 | 178,000 |  |  |  | 865,00 | 178,000 |
+| DR MOTOR COMPANY SRL | DMD | 424 | 125,075 |  |  |  | 1 202,23 | 134,627 |
+| FERRARI SPA | D | 2 049 | 304,561 | 303,000 | 1,561 | 1,561 | 1 722,29 | 323,199 |
+| FIAT GROUP AUTOMOBILES SPA | P3 | 646 554 | 110,620 | 119,633 | – 9,013 | – 9,026 | 1 145,15 | 116,263 |
+| FISKER AUTOMOTIVE INC |  | 90 | 47,650 | 181,778 | – 134,128 | – 134,128 | 2 505,00 | 49,867 |
+| FORD MOTOR COMPANY | P4 | 2 | 194,000 | 164,526 | 29,474 | 29,474 | 2 127,50 | 194,000 |
+| FORD-WERKE GMBH | P4 | 891 562 | 111,513 | 128,620 | – 17,107 | – 17,109 | 1 341,80 | 121,603 |
+| FUJI HEAVY INDUSTRIES LTD | ND | 26 962 | 151,086 | 164,616 | – 13,530 | – 13,530 | 1 564,99 | 159,492 |
+| GENERAL MOTORS COMPANY | P5 | 2 301 | 82,392 | 149,866 | – 67,474 | – 67,474 | 1 806,71 | 194,112 |
+| GM KOREA COMPANY | P5 | 135 377 | 124,192 | 131,530 | – 7,338 | – 7,338 | 1 405,47 | 135,875 |
+| GREAT WALL MOTOR COMPANY LIMITED | DMD | 448 | 164,583 |  |  |  | 1 180,63 | 165,531 |
+| HONDA AUTOMOBILE CHINA CO LTD | P6 | 14 183 | 124,104 | 119,617 | 4,487 | 4,487 | 1 144,79 | 125,345 |
+| HONDA MOTOR CO LTD | P6 | 61 983 | 122,335 | 130,626 | – 8,291 | – 8,291 | 1 385,70 | 133,795 |
+| HONDA TURKIYE AS | P6 | 1 743 | 154,271 | 126,797 | 27,474 | 27,474 | 1 301,92 | 155,089 |
+| HONDA OF THE UK MANUFACTURING LTD | P6 | 53 052 | 134,040 | 137,886 | – 3,846 | – 3,846 | 1 544,57 | 145,122 |
+| HYUNDAI MOTOR COMPANY |  | 44 551 | 134,693 | 143,242 | – 8,549 | – 8,549 | 1 661,77 | 146,184 |
+| HYUNDAI MOTOR MANUFACTURING CZECH SRO |  | 220 348 | 130,549 | 132,489 | – 1,940 | – 1,940 | 1 426,46 | 138,081 |
+| HYUNDAI MOTOR INDIA LTD |  | 72 184 | 108,201 | 114,154 | – 5,953 | – 5,953 | 1 025,25 | 111,015 |
+| HYUNDAI ASSAN OTOMOTIV SANAYI VE |  | 62 241 | 110,201 | 117,953 | – 7,752 | – 7,752 | 1 108,38 | 112,343 |
+| JAGUAR LAND ROVER LIMITED | P10/ND | 131 530 | 164,623 | 178,025 | – 13,402 | – 13,402 | 2 049,30 | 181,647 |
+| JIANGLING MOTOR HOLDING CO LTD | DMD | 23 | 140,000 |  |  |  | 1 378,48 | 143,652 |
+| KIA MOTORS CORPORATION |  | 285 334 | 117,620 | 127,633 | – 10,013 | – 10,013 | 1 320,21 | 127,981 |
+| KIA MOTORS SLOVAKIA SRO |  | 53 230 | 131,814 | 132,382 | – 0,568 | – 0,568 | 1 424,13 | 140,012 |
+| KTM-SPORTMOTORCYCLE AG | DMD | 31 | 187,652 |  |  |  | 896,77 | 189,290 |
+| LADA AUTOMOBILE GMBH | DMD | 386 | 225,000 |  |  |  | 1 285,00 | 225,000 |
+| LADA FRANCE | P8 | 13 | 179,000 | 129,452 | 49,548 | 49,548 | 1 360,00 | 179,000 |
+| AUTOMOBILI LAMBORGHINI SPA | P12 | 404 | 340,558 | 144,718 | 195,840 | 195,840 | 1 694,06 | 349,171 |
+| LOTUS CARS LIMITED | D | 491 | 197,899 | 280,000 | – 82,101 | – 82,101 | 1 228,42 | 207,505 |
+| MAGYAR SUZUKI CORPORATION LTD | P9/ND | 98 295 | 118,793 | 123,114 | – 4,321 | – 4,321 | 1 151,00 | 125,554 |
+| MAHINDRA & MAHINDRA LTD | DMD | 231 | 181,017 |  |  |  | 1 917,84 | 182,987 |
+| MARUTI SUZUKI INDIA LTD | P9/ND | 26 564 | 98,182 | 123,114 | – 24,932 | – 24,933 | 932,05 | 99,438 |
+| MASERATI SPA | P3 | 1 356 | 266,367 | 158,264 | 108,103 | 105,464 | 1 990,46 | 289,532 |
+| MAZDA MOTOR CORPORATION | ND | 133 180 | 126,281 | 129,426 | – 3,145 | – 3,145 | 1 421,75 | 134,115 |
+| MCLAREN AUTOMOTIVE LIMITED | D | 185 | 275,920 | 285,000 | – 9,080 | – 9,080 | 1 542,06 | 276,703 |
+| MERCEDES-AMG GMBH | P2 | 1 930 | 177,115 | 147,147 | 29,968 | 28,048 | 1 747,20 | 212,777 |
+| MG MOTOR UK LIMITED | D | 488 | 147,645 | 151,600 | – 3,955 | – 3,955 | 1 437,34 | 154,408 |
+| MIA ELECTRIC SAS |  | 257 | 0,000 | 108,278 | – 108,278 | – 108,278 | 896,68 | 0,000 |
+| MITSUBISHI MOTORS CORPORATION MMC | P7 | 54 367 | 89,125 | 140,783 | – 51,658 | – 51,658 | 1 607,95 | 128,371 |
+| MITSUBISHI MOTORS EUROPE BV MME | P7 | 6 648 | 118,295 | 121,228 | – 2,933 | – 2,933 | 1 180,06 | 126,313 |
+| MITSUBISHI MOTORS THAILAND CO LTD MMTH | P7 | 9 816 | 93,898 | 110,407 | – 16,509 | – 16,509 | 943,26 | 97,292 |
+| MORGAN MOTOR CO LTD | DMD | 426 | 168,746 |  |  |  | 1 104,34 | 189,455 |
+| NISSAN INTERNATIONAL SA |  | 411 671 | 115,711 | 131,240 | – 15,529 | – 15,529 | 1 399,14 | 130,854 |
+| ADAM OPEL AG | P5 | 804 072 | 122,121 | 133,249 | – 11,128 | – 11,128 | 1 443,09 | 132,096 |
+| PERODUA MANUFACTURING SDN BHD | DMD | 200 | 137,000 |  |  |  | 1 011,84 | 138,180 |
+| DR ING HCF PORSCHE AG | P12 | 41 854 | 190,087 | 150,634 | 39,453 | 39,453 | 1 823,52 | 200,960 |
+| PERUSAHAAN OTOMOBIL NASIONAL SDN BHD | D | 3 | 157,000 | 181,000 | – 24,000 | – 24,000 | 1 380,00 | 158,333 |
+| QOROS AUTOMOTIVE CO LTD | DMD | 12 | 146,000 |  |  |  | 1 485,00 | 146,000 |
+| QUATTRO GMBH | P12 | 4 282 | 234,695 | 153,137 | 81,558 | 81,558 | 1 878,27 | 247,434 |
+| RADICAL MOTOSPORT LTD | DMD | 4 | 229,000 |  |  |  | 850,00 | 229,000 |
+| RENAULT SAS | P8 | 793 038 | 96,384 | 124,965 | – 28,581 | – 28,583 | 1 261,83 | 109,981 |
+| RENAULT TRUCKS | DMD | 18 | 193,000 |  |  |  | 2 130,56 | 199,056 |
+| ROLLS-ROYCE MOTOR CARS LTD | P1 | 420 | 324,203 | 181,767 | 142,436 | 141,929 | 2 504,75 | 330,490 |
+| SEAT SA | P12 | 280 310 | 111,316 | 123,574 | – 12,258 | – 12,361 | 1 231,39 | 118,771 |
+| SECMA SAS | DMD | 39 | 131,000 |  |  |  | 658,00 | 131,000 |
+| SKODA AUTO AS | P12 | 480 729 | 115,924 | 125,226 | – 9,302 | – 9,332 | 1 267,54 | 124,653 |
+| SSANGYONG MOTOR COMPANY | D | 4 937 | 171,485 | 180,000 | – 8,515 | – 8,515 | 1 856,76 | 182,062 |
+| SUZUKI MOTOR CORPORATION | P9/ND | 21 742 | 158,668 | 123,114 | 35,554 | 35,501 | 1 337,48 | 166,586 |
+| TATA MOTORS LIMITED | P10/ND | 883 | 130,428 | 178,025 | – 47,597 | – 47,597 | 1 339,85 | 140,574 |
+| TAZZARI GL SPA | DMD | 2 | 0,000 |  |  |  | 735,00 | 0,000 |
+| TESLA MOTORS LTD |  | 1 671 | 0,000 | 166,426 | – 166,426 | – 166,426 | 2 169,07 | 0,000 |
+| TOYOTA MOTOR EUROPE NV SA | P11 | 512 761 | 102,194 | 127,386 | – 25,192 | – 25,724 | 1 314,81 | 116,431 |
+| VEHICULES ELECTRIQUES PININFARINA-BOLLORE SAS |  | 72 | 0,000 | 123,282 | – 123,282 | – 123,282 | 1 225,00 | 0,000 |
+| VOLKSWAGEN AG | P12 | 1 486 188 | 115,735 | 130,442 | – 14,707 | – 14,827 | 1 381,67 | 127,279 |
+| VOLVO CAR CORPORATION |  | 203 065 | 107,012 | 145,012 | – 38,000 | – 38,000 | 1 700,48 | 130,764 |
+| WIESMANN GMBH | DMD | 37 | 281,815 |  |  |  | 1 440,81 | 286,459 |
+
+**Table 2**
+
+**Values relating to the performance of pools confirmed in accordance with Article 10 of Regulation (EC) No 443/2009**
+
+| A | B | C | D | E | F | G | H | I |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pool names | Pool | Number of registrations | Average CO2 (75 %) corrected | Specific emissions target | Distance to target | Distance to target adjusted | Average mass | Average CO2 (100 %) |
+| BMW GROUP | P1 | 762 807 | 123,685 | 138,700 | – 15,015 | – 15,141 | 1 562,37 | 134,648 |
+| DAIMLER AG | P2 | 663 248 | 119,873 | 139,409 | – 19,536 | – 19,555 | 1 577,88 | 136,773 |
+| FIAT GROUP AUTOMOBILES SPA | P3 | 694 041 | 111,31 | 122,477 | – 11,167 | – 11,197 | 1 207,38 | 121,803 |
+| FORD-WERKE GMBH | P4 | 891 649 | 111,492 | 128,621 | – 17,129 | – 17,130 | 1 341,82 | 121,598 |
+| GENERAL MOTORS | P5 | 942 497 | 121,937 | 133,032 | – 11,095 | – 11,095 | 1 438,34 | 132,778 |
+| HONDA MOTOR EUROPE LTD | P6 | 130 961 | 126,154 | 132,324 | – 6,170 | – 6,170 | 1 422,85 | 137,752 |
+| MITSUBISHI MOTORS | P7 | 70 831 | 89,973 | 134,738 | – 44,765 | – 44,765 | 1 475,67 | 123,871 |
+| POOL RENAULT | P8 | 1 082 200 | 101,787 | 124,211 | – 22,424 | – 22,426 | 1 245,33 | 114,434 |
+| SUZUKI POOL | P9/ND | 146 601 | 115,69 | 123,114 | – 7,424 | – 7,435 | 1 138,98 | 126,907 |
+| TATA MOTORS JAGUAR CARS LAND ROVER | P10/ND | 132 413 | 164,303 | 178,025 | – 13,722 | – 13,722 | 2 044,57 | 181,373 |
+| TOYOTA-DAIHATSU GROUP | P11 | 513 248 | 102,214 | 127,384 | – 25,170 | – 25,703 | 1 314,75 | 116,469 |
+| VW GROUP PC | P12 | 2 953 781 | 116,868 | 131,039 | – 14,171 | – 14,254 | 1 394,74 | 128,793 |
+
+Explanatory notes to Tables 1 and 2
+
+Column A:
+
+Table 1: ‘Manufacturer name’ means the name of the manufacturer as notified to the Commission by the manufacturer concerned or, where no such notification has taken place, the name registered by the registration authority of the Member State.
+
+Table 2: ‘Pool name’ means the name of the pool declared by the pool manager.
+
+Column B:
+
+‘D’ means that a derogation relating to a small volume manufacturer has been granted in accordance with Article 11(3) of Regulation (EC) No 443/2009 with effect for the calendar year 2013;
+
+‘ND’ means that a derogation relating to a niche manufacturer has been granted in accordance with Article 11(4) of Regulation (EC) No 443/2009 with effect for the calendar year 2013;
+
+‘DMD’ means that a de minimis derogation applies, i.e. a manufacturer which together with all its connected undertakings was responsible for fewer than 1 000 new registered vehicles in 2013 does not have to meet a specific emissions target;
+
+‘P’ means that the manufacturer is a member of a pool (listed in table 2) formed in accordance with Article 7 of Regulation (EC) No 443/2009 and the pooling agreement is valid for calendar year 2013.
+
+Column C:
+
+‘Number of registrations’ means the total number of new cars registered by Member States in a calendar year, not counting those registrations that relate to records where the values for mass and/or CO2 are missing and those records which the manufacturer does not recognise. The number of registrations reported by Member States may otherwise not be changed.
+
+Column D:
+
+‘Average CO2 (75 %) corrected’ means the average specific emissions of CO2 that have been calculated on the basis of the 75 % lowest emitting vehicles in the manufacturer's fleet in accordance with the second indent of the second subparagraph of Article 4 of Regulation (EC) No 443/2009 and point 4 of Commission Communication COM(2010) 657 final. Where appropriate, the average specific emissions have been adjusted to take into account the corrections notified to the Commission by the manufacturer concerned. The records used for the calculation includes those that contain a valid value for mass and CO2 emissions.
+
+Column E:
+
+‘Specific emissions target’ means the emissions target calculated on the basis of the average mass of all vehicles attributed to a manufacturer applying the formula set out in Annex I to Regulation (EC) No 443/2009.
+
+Column F:
+
+‘Distance to target’ means the difference between the average specific emissions specified in column D and the specific emissions target in column E. Where the value in column F is positive the average specific emissions exceed the specific emissions target.
+
+Column G:
+
+‘Distance to target adjusted’ means that where the values in this column are different from those in column F, the values in that column have been adjusted to take into account an error margin. The error margin only applies if the manufacturer has notified the Commission of records with the error code B as set out in Article 9(3) of Regulation (EU) No 1014/2010. The error margin is calculated in accordance with the following formula:
+
+Error = absolute value of [(AC1 – TG1) – (AC2 – TG2)]
+
+| AC1 | = | the average specific emissions of CO2 including the unidentifiable vehicles (as set out in column D); |
+| --- | --- | --- |
+| TG1 | = | the specific emissions target including the unidentifiable vehicles (as set out in column E); |
+| AC2 | = | the average specific emissions of CO2 excluding the unidentifiable vehicles; |
+| TG2 | = | the specific emissions target excluding the unidentifiable vehicles. |
+
+Column I:
+
+‘Average CO2 (100 %)’ means the average specific emissions of CO2 that have been calculated on the basis of 100 % of the vehicles attributed to the manufacturer. Where appropriate, the average specific emissions have been adjusted to take into account the corrections notified to the Commission by the manufacturer concerned. The records used for the calculation includes those that contain a valid value for mass and CO2 emissions but do not take into account the super-credits referred to in Article 5 of Regulation (EC) No 443/2009.

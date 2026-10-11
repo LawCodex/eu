@@ -1,0 +1,274 @@
+---
+title: "Council Implementing Decision 2014/701/CFSP of 8 October 2014 implementing Decision 2011/486/CFSP concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan"
+identifier: "32014D0701"
+eli: "http://data.europa.eu/eli/dec_impl/2014/701/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-10-08
+entry_into_force: 2014-07-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0701"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Decision 2014/701/CFSP of 8 October 2014 implementing Decision 2011/486/CFSP concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan
+
+**COUNCIL IMPLEMENTING DECISION 2014/701/CFSP**
+
+**of 8 October 2014**
+
+**implementing Decision 2011/486/CFSP concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,
+
+Having regard to Council Decision 2011/486/CFSP of 1 August 2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan (1), and in particular Article 5 and Article 6(1) thereof,
+
+Whereas:
+
+(1) On 1 August 2011, the Council adopted Decision 2011/486/CFSP.
+
+(2) On 11 February, 18 March, 16 May, 30 July and 20 August 2014, the United Nations Security Council Committee, established pursuant to paragraph 30 of Security Council Resolution 1988 (2011), updated and amended the list of individuals, groups, undertakings and entities subject to restrictive measures.
+
+(3) The Annex to Decision 2011/486/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Annex to Decision 2011/486/CFSP is hereby amended as set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+Done at Luxembourg, 8 October 2014.
+
+For the Council
+
+The President
+
+M. LUPI
+
+(1) OJ L 199, 2.8.2011, p. 57.
+
+## ANNEX
+
+**I. The entries below shall be added to the list set out in the Annex to Decision 2011/486/CFSP**
+
+**A. Individuals associated with the Taliban**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>Qari Rahmat (alias: Kari Rahmat). Grounds for listing: A Taliban commander since at least February 2010. Address: a) Kamkai Village, Achin District, Nangarhar Province, Afghanistan. b) Nangarhar Province, Afghanistan. Date of Birth: a) 1981 b) 1982. Place of Birth: Shadal (variant Shadaal) Bazaar, Achin District, Nangarhar Province, Afghanistan. Other information: (a) Collects taxes and bribes on behalf of the Taliban. (b) Liaises with and provides Taliban operatives in Nangarhar Province, Afghanistan, with information, guidance, housing and weapons and has emplaced improvised explosive devices (IED) and conducted attacks against International Security Assistance Force (ISAF) and Afghan forces. Date of UN designation: 21.8.2014.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Qari Rahmat has been a Taliban commander since at least February 2010. In early 2013, Rahmat served as a Taliban commander in the Shadaal Bazaar area of Achin District, Nangarhar Province, Afghanistan. Rahmat directed the activities of approximately 300 Taliban operatives in Achin District and provided operational guidance and weapons to these operatives. In late 2012, Rahmat led an attack on Afghan forces in Kot District, Nangarhar Province, Afghanistan. As of mid-2012, Rahmat served under the Taliban shadow district chief for Achin District, Nangarhar Province, Afghanistan. During this time, Rahmat was a Taliban facilitator who emplaced improvised explosive devices and conducted attacks against International Security Assistance Force (ISAF) and Afghan forces.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Rahmat also collects taxes and bribes on behalf of the Taliban. As of early 2013, Rahmat collected taxes on behalf of the Taliban from drug traffickers based in the Shadaal Bazaar, Achin District, Nangarhar Province. As of mid-2012, Rahmat was in charge of collecting taxes from narcotics traffickers for the Taliban.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Rahmat provides intelligence information to the Taliban. As of early 2013, Rahmat provided his Taliban superiors with information on the activities of Afghan government officials and Afghan security forces in Achin District, Nangarhar Province. Rahmat gathered intelligence for the Taliban from Afghan Government employees as of mid-2012 and also conducted investigations to expose ISAF and Afghan Government informants for the benefit of the Taliban.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Rahmat has also provided lethal aid, housing, and guidance to Taliban fighters. As of late 2012, Rahmat provided rocket-propelled grenades, PKM light machine guns, and AK-47 assault rifles to the Taliban. Rahmat also sheltered Taliban fighters at his guest house and provided tactical guidance to Taliban fighters during this period. As of late 2011, Rahmat had a guest house in Achin District where Taliban members often stayed.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Qari Saifullah Tokhi (alias: (a) Qari Saifullah, (b) Qari Saifullah Al Tokhi, (c) Saifullah Tokhi, (d) Qari Sahab). Title: Qari. Grounds for listing: Taliban Shadow Deputy Governor and operational commander in Zabul Province, Afghanistan. Address: Chalo Bawari area, Quetta City, Baluchistan Province, Pakistan. Date of Birth: Approximately 1964. Place of Birth: Daraz Village, Jaldak wa Tarnak District, Zabul Province, Afghanistan. Nationality: Afghan. Other information: (a) Believed to be in Afghanistan/Pakistan border area. (b) Responsible for the laying of improvised explosive devices and the organisation of suicide attacks. (c) Physical description: height: 180 cm; weight: approximately 90 kg; build: athletic build; eye colour: brown; hair colour: red; complexion: medium brown. (d) Distinguishing physical marks: large round face, full beard, and walks with a limp due to plastic prosthesis in place of his left lower leg.  (e) Ethnic background: Pashtun; Belongs to Tokhi (alternative tribe spelling: Torchi) tribe, Barkozai (alternative tribe spelling: Bakorzai) sub-tribe, Kishta Barkorzai (lower Barkorzai) clan. (f) Marital Status: married. (g) Father's name: Agha Mohammad. (h) Brother's name: Humdullah. Date of UN designation: 19.3.2014.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Qari Saifullah Tokhi is the Taliban shadow Deputy Governor and an operational commander in eastern Zabul Province, Afghanistan. He has directly commanded two groups of approximately 50 Taliban fighters and had command over Taliban commanders in Zabul Province. Qari Saifullah Tokhi has used these groups to organize terrorist activities against the government of the Islamic Republic of Afghanistan and Coalition Forces in eastern Zabul Province. Qari Saifullah Tokhi also issued orders to his subordinates, who conducted improvised explosive device (IED) attacks, small arms fire attacks, and rocket attacks in Zabul Province.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Three Taliban fighters were killed on the night of 2 December 2012, in Qalat District, Zabul Province, Afghanistan. They were caught emplacing IEDs and were killed as a result. All three men were known as Qari Saifullah Tokhi's men.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>On 14 January 2012, six Taliban insurgents subordinate to Qari Saifullah Tokhi attacked an International Security Assistance Force (ISAF) convoy. The Taliban insurgents attacked the convoy in the vicinity of Abdul Haq Kalay Village, Tarnak Wa Jaldak District with rocket propelled grenades (RPGs).</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>On 28 September 2011, two suicide bombers under the direction of Taliban commander Qari Saifullah Tokhi were planning attacks. One suicide bomber planned to attack the provincial reconstruction team (PRT) in Qalat District, Zabul Province. The second suicide bomber planned to attack an ISAF base in Shajoy District. The suicide bombers had planned to attack coalition forces bases between 29 September and 1 October 2011.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>The Taliban, under the leadership of Qari Saifullah Tokhi, warned local mobile phone networks on 20 April 2011 to shut down their services in Zabul Province. If services were not shut down in accordance with Taliban direction, the Taliban threatened to destroy their antennas along the roads in Zabul Province.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>On 25 November 2010, Qari Saifullah Tokhi ordered a Taliban commander and Taliban shadow sub-Governor of Atghar District, Zabul Province, to transport light weapons to Qalat City, the capital of Zabul Province. The shipment included approximately 25 Kalashnikov rifles, 10 machine guns, five RPGs, and 20 grenades. Suicide bombers planned to use these weapons against ISAF forces and Afghan National Security Forces, specifically targeting the Second Afghan National Army Brigade and the Police Headquarters.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>3.</td><td>Yahya Haqqani (alias: (a) Yaya (b) Qari Sahab) Grounds for listing: Senior Haqqani Network (HQN) member. Address: A Haqqani Madrassa in the Afghanistan/Pakistan Border Area. Date of birth: a) 1982 b) 1978. Nationality: Afghan. Other information: (a) Closely involved in the group's military, financial, and propaganda activities. (b) Injured leg. (c) Father's name is Hajji Meyawar Khan (deceased). Date of UN designation: 31.7.2014.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Yahya Haqqani is a senior Haqqani Network (HQN) member who has been closely involved in the group's military, financial, and propaganda activities. Yahya has acted as de facto head of the group when senior-most leaders Sirajuddin Jallaloudine Haqqani (Yahya's brother-in-law), Badruddin Haqqani (deceased, formerly listed), and Khalil Haqqani were absent. Yahya has also assumed duties as a HQN logistician and has facilitated funding for Haqqani commanders including a subordinate of now-deceased HQN commander Sangin Zadran Sher Mohammad and HQN chief of suicide operations, Abdul Rauf Zakir. Yahya has also acted as Sirajuddin Jallaloudine Haqqani's Arabic interpreter and messenger.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Yahya has conducted significant facilitation activities in support of HQN attacks and other activities. In early 2013 he facilitated funding for HQN fighters. Also in early 2013, Yahya coordinated the transfer of supplies from the United Arab Emirates to HQN senior leader Khalil Haqqani. In 2012, Yahya coordinated the distribution of improvised explosive devices (IEDs) and communications equipment, and he also reviewed preparations for the August 7, 2012 HQN attack against a Coalition Forward Operating Base in Logar Province, Afghanistan, in which thirteen people, including eleven Afghan civilians, were wounded. Yahya likely had advance knowledge of the June 2011 attack on the Intercontinental Hotel in Kabul, Afghanistan, directed by Sirajuddin Haqqani and Badruddin Haqqani. Eighteen people were killed and twelve were injured in the attack. As of 2011, Yahya delivered money from Sirajuddin Haqqani to HQN commanders for operations.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Yahya sometimes serves as a liaison between the HQN and Al Qaida (AQ) and he has maintained ties with AQ since at least mid-2009. In this role, Yahya has provided money to AQ members in the region for their personal expenses. As of mid-2009, he acted as the HQN's primary liaison with foreign fighters, including Arabs, Uzbeks, and Chechens.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Yahya has also conducted and managed HQN and Taliban media and propaganda activities. As of early 2012, Yahya usually met with Sirajuddin Haqqani to obtain final approval of the Taliban propaganda videos Yahya made. Yahya has worked on HQN media activities since at least 2009 when he worked out of a media studio in a HQN madrassa, editing videos from fighters in Afghanistan. As of late 2011, Yahya obtained money for HQN media expenses from Sirajuddin Haqqani or one of Sirajuddin Haqqani's surrogates.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>As of early 2012, Yahya travelled about twice a month, sometimes with Saidullah Jan, to meet with now-deceased HQN financial emissary Nasiruddin Haqqani.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>4.</td><td>Saidullah Jan (alias: Abid Khan). Grounds for listing: Senior member of the Haqqani Network (HQN) as of 2013. Date of Birth: 1982. Place of birth: Giyan District, Paktika Province, Afghanistan. Other information: (a) Provided critical facilitation support to drivers and vehicles transporting HQN ammunition. (b) Also involved in the group's recruiting efforts as of 2011. (c) Father's name is Bakhta Jan. Date of UN designation: 31.7.2014.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Saidullah Jan was listed on 31 July 2014 pursuant to paragraph 2 of resolution 2160 (2014) for ‘participating in the financing, planning, facilitating, preparing or perpetrating of acts or activities by, in conjunction with, under the name of, on behalf of, or in support of’ and ‘otherwise supporting acts or activities of’ those designated and other individuals, groups, undertakings and entities associated with the Taliban in constituting a threat to the peace, stability and security of Afghanistan.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Saidullah Jan is a senior member of the Haqqani Network (HQN) as of 2013 who has also acted at times as an HQN deputy, as the HQN commander for the Northern Zone of Afghanistan, and as a key HQN logistical coordinator.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>In late 2013, Saidullah provided critical facilitation support to drivers and vehicles transporting HQN ammunition. As of late 2011, Saidullah was also involved in the group's recruiting efforts and conducted the evaluation of at least one HQN recruit.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>In late 2013, Saidullah travelled to the Gulf in the company HQN fundraisers Khalil Ahmed Haqqani (TI.H.150.11.), Fazl Rabi, and other HQN members including an attack facilitator. In 2010, Saidullah travelled with a group of HQN leaders, including now-deceased HQN official Ahmed Jan Wazir Akhtar Mohammad, to the Gulf.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>In late 2013, Saidullah reportedly was trusted by Al-Qaida members as an HQN associate who could help with any trouble, including arrest.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>As of early 2012, Saidullah Jan sometimes travelled with Yahya Haqqani to meet with now-deceased HQN financial emissary Nasiruddin Haqqani.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>5.</td><td>Muhammad Omar Zadran (alias: Mohammad-Omar Jadran). Title: a) Maulavi b) Mullah. Grounds for listing: Haqqani Network (HQN) leader in command of over 100 militants active in Khost Province, Afghanistan as of 2013. Date of birth: 1958. Place of birth: Sultan Kheyl Village, Spera District, Khost Province, Afghanistan. Address: Afghanistan/Pakistan Border Area. Other information: Involved in the preparation of attacks against Afghan and international forces in Afghanistan. Date of UN designation: 31.7.2014.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Muhammad Omar Zadran (Omar) is a Haqqani Network (HQN) leader who as of 2013 in command of over 100 militants active in Khost Province, Afghanistan. Omar served as an HQN Shadow District Governor, and as a commander under HQN leader Sirajuddin Jallaloudine Haqqani since 2005, and has planned or been instructed to plan attacks on behalf of the HQN since at least 2006. Omar has worked with the Taliban, serving in 2010 as a member of the Taliban Shura Council established by the Taliban to discuss logistics for insurgents, needs, training, assignments for commanders, and deployment of terrorist cells to south-eastern Afghanistan. Also in 2010, Omar received orders from Sirajuddin Haqqani.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Omar has participated in the preparation and planning of attacks against Afghan citizens, the Afghan Government, and Coalition personnel in Afghanistan on behalf of both the HQN and the Taliban. In early 2013, Omar was in charge of smuggling explosives into Afghanistan. In 2012, Omar and dozens of other HQN members worked on a vehicle-borne improved explosive device attack against a Coalition Forces camp and was involved in attack planning against troops in Paktiya Province, Afghanistan. As of 2011, Omar was involved in suicide attack planning. In 2010, Omar was tasked by an HQN commander to kidnap and murder local Afghan nationals working for Coalition Forces in Khost, Paktia, Paktika, and Baghlan Provinces, Afghanistan.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>In 2010, Omar and other militant leaders in the region agreed to intensify attacks against the Afghan Government and Coalition forces, capture and control various districts, disrupt national assembly elections and road construction operations, and recruit local youths.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**II. The entries in the list set out in the Annex to Decision 2011/486/CFSP shall be replaced by the entries as set out below.**
+
+**A. Individuals associated with the Taliban**
+
+|  | 1. | Malik Noorzai (alias: (a) Hajji Malik Noorzai, (b) Hajji Malak Noorzai, (c) Haji Malek Noorzai, (d) Haji Maluk, (e) Haji Aminullah). Title: Haji. Grounds for listing: Taliban financier. Address: (a) Boghra Road, Miralzei Village, Chaman, Baluchistan Province, Pakistan, (b) Kalay Rangin, Spin Boldak District, Kandahar Province, Afghanistan. Date of Birth: (a) 1957, (b) 1960, (c) 1 January 1963. Place of birth: (a) Chaman border town, Pakistan, (b) Pishin, Baluchistan Province, Pakistan. Nationality: Afghan. Passport no.: Pakistani passport number FA0157612, issued on 23 July 2009, expires on 22 July 2014, officially cancelled as of 2013, issued under name Allah Muhammad. National identification no.: Pakistani national identification number 54201-247561-5, officially cancelled as of 2013. Other information: (a) Owns businesses in Japan and frequently travels to Dubai, United Arab Emirates, and Japan. (b) As of 2009, facilitated Taliban activities, including through recruitment and the provision of logistical support. (c) Believed to be in the Afghanistan/Pakistan border area. (d) Belongs to Noorzai tribe. (e) Brother of Faizullah Khan Noorzai. (f) Father's name is Haji Akhtar Muhammad. Date of UN designation: 4.10.2011. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Malik Noorzai is a Pakistan-based businessman who has provided financial support to the Taliban. Malik and his brother, Faizullah Noorzai Akhtar Mohammed Mira Khan, have invested millions of dollars in various businesses for the Taliban. In late 2008, Taliban representatives approached Malik as a businessman with whom to invest Taliban funds. Since at least 2005, Malik has also personally contributed tens of thousands of dollars and distributed hundreds of thousands of dollars to the Taliban, some of which was collected from donors in the Gulf region and Pakistan and some of which was Malik's own money. Malik also handled a hawala account in Pakistan that received tens of thousands of dollars transferred from the Gulf every few months to support Taliban activities. Malik has also facilitated Taliban activities. As of 2009, Malik had served for 16 years as the chief caretaker of a madrassa (religious school), in the Afghanistan/Pakistan border region, that was used by the Taliban to indoctrinate and train recruits. Among other things, Malik delivered the funds that supported the madrassa. Malik, along with his brother, has also played a role in storing vehicles to be used in Taliban suicide bombing operations and has helped move Taliban fighters around Helmand Province, Afghanistan. Malik owns businesses in Japan and frequently visits Dubai and Japan for business. As early as 2005, Malik owned a vehicle import business in Afghanistan that imported vehicles from Dubai and Japan. He has imported cars, auto parts and clothing from Dubai and Japan for his businesses, in which two Taliban commanders have invested. In mid-2010, Malik and his brother secured the release of hundreds of cargo containers, reportedly worth millions of dollars, which Pakistani authorities seized earlier that year because they believed the recipients had a connection to terrorism. |
+| --- | --- | --- |
+
+|  | 2. | Khairullah Barakzai Khudai Nazar (alias (a) Haji Khairullah, (b) Haji Khair Ullah, (c) Haji Kheirullah, (d) Haji Karimullah, (e) Haji Khair Mohammad). Title: Haji. Grounds for listing: Co-owner of Haji Khairullah Haji Sattar Money Exchange. Date of Birth: 1965. Place of Birth: (a) Zumbaleh village, Nahr-e Saraj District, Helmand Province, Afghanistan (b) Mirmadaw village, Gereshk District, Helmand Province, Afghanistan. (c) Qilla Abdullah, Baluchistan Province, Pakistan. Passport no.: BP4199631 (Pakistan passport, expires on 25 June 2014, officially cancelled as of 2013). National identification no.: Pakistan National Identification number 5440005229635, officially cancelled as of 2013. Address: Abdul Manan Chowk, Pashtunabad, Quetta, Baluchistan Province, Pakistan. Other information: (a) Associated also with Abdul Satar Abdul Manan. (b) Belongs to Barakzai tribe. (c) Father's name is Haji Khudai Nazar. (d) Alternative father's name is Nazar Mohammad. Date of UN designation: 29.6.2012. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Khairullah Barakzai Khudai Nazar is a co-owner and operator of Haji Khairullah Haji Sattar Money Exchange (HKHS). As of late 2009, Khairullah and Abdul Satar Abdul Manan had an equal partnership in HKHS. They jointly operated hawalas known as HKHS throughout Afghanistan, Pakistan, and Dubai and managed an HKHS branch in the Afghanistan-Pakistan border region. As of early 2010, Khairullah was the chief of the HKHS branch in Kabul. As of 2010, Khairullah was a hawaladar for Taliban senior leadership and provided financial assistance to the Taliban. Khairullah, along with his business partner Satar, provided thousands of dollars to the Taliban to support Taliban activities in Afghanistan. As of 2008, Khairullah and Satar collected money from donors and distributed the funds to the Taliban using their hawala. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>3.</td><td>Ahmed Shah Noorzai Obaidullah (alias: (a) Mullah Ahmed Shah Noorzai, (b) Haji Ahmad Shah, (c) Haji Mullah Ahmad Shah, (d) Maulawi Ahmed Shah, (e) Mullah Mohammed Shah). Title: (a) Mullah (b) Maulavi. Grounds for listing: Provided financial services to Ghul Agha Ishakzai and other Taliban in Helmand Province. Date of birth: (a) 1 January 1985 (b) 1981 Place of birth: Quetta, Pakistan. Passport no.: Pakistani passport number NC5140251 issued on 23 October 2009 expires on 22 October 2014, officially cancelled as of 2013. National identification no.: Pakistani national identity card number 54401-2288025-9, officially cancelled as of 2013. Address: Quetta, Pakistan. Other information: (a) Owns and operates the Roshan Money Exchange. Date of UN Designation: 26.2.2013.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Ahmed Shah Noorzai Obaidullah owns and operates the Roshan Money Exchange, which provides financial, material, or technological support for, or financial or other services to or in support of, the Taliban. Roshan Money Exchange stores and transfers funds in support of Taliban military operations and the Taliban's role in the Afghan narcotics trade. As of 2011, Roshan Money Exchange was one of the primary money service providers (or ‘hawalas’) used by Taliban officials in Helmand Province, Afghanistan.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Ahmed Shah has provided hawala services to Taliban leaders in Helmand Province for a number of years and, as of 2011, was a trusted Taliban money service provider. In early 2012, the Taliban ordered Ahmed Shah to transfer money to a number of hawalas in Lashkar Gah, Helmand Province, from which a senior Taliban commander would then allocate the funds.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>In late 2011, Ahmed Shah consolidated hundreds of thousands of US dollars to pass to the Taliban Finance Commission and transferred hundreds of thousands of US dollars for the Taliban, including to senior Taliban commanders. Also in late 2011, Ahmed Shah received through his hawala branch in Quetta, Pakistan, a transfer on behalf of the Taliban, money from which was used to purchase fertilizer and IED components, including batteries and detonator cord. In mid-2011, Taliban finance commission head Gul Agha Ishakzai instructed Ahmed Shah to deposit several million US dollars into Roshan Money Exchange for the Taliban. Gul Agha explained that when a money transfer was required, he would inform Ahmed Shah of the Taliban recipient.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Ahmed Shah would then provide the required funds through his hawala system. As of mid-2010, Ahmed Shah moved money between Pakistan and Afghanistan for Taliban commanders and for narcotics traffickers. In addition to his facilitation activities, Ahmed Shah also donated large but unspecified sums of money to the Taliban in 2011.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>4.</td><td>Jalaluddin Haqqani (alias: (a) Jalaluddin Haqani, (b) Jallalouddin Haqqani, (c) Jallalouddine Haqani). Title: Maulavi. Grounds for listing: Minister of Frontier Affairs under the Taliban regime. Date of birth: (a) Approximately 1942; (b) Approximately 1948. Place of birth: (a) Garda Saray area, Waza Zadran District, Paktia Province, Afghanistan; (b) Neka District, Paktika Province, Afghanistan. Nationality: Afghan. Other information: (a) Father of Sirajuddin Jallaloudine Haqqani; Nasiruddin Haqqani and Badruddin Haqqani (deceased); (b) Brother of Mohammad Ibrahim Omari and Khalil Ahmed Haqqani; (c) He is an active Taliban leader, (d) Believed to be in Afghanistan/Pakistan border area, (e) Head of the Taliban Miram Shah Shura as at 2008, (f) Belongs to Zadran tribe. Date of UN designation: 31.1.2001.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Jalaluddin Haqqani has close relations with Mohammed Omar and had close relations with Usama bin Laden (deceased). He is the father of Sirajuddin Jallaloudine Haqqani, Nasiruddin Haqqani and Badruddin Haqqani (deceased), and the brother of Mohammad Ibrahim Omari and Khalil Ahmed Haqqani. He is an active Taliban leader. Jalaluddin Haqqani was also the liaison between Al-Qaida and the Taliban in 2007. He was Chairman of the Taliban ‘Miram Shah Council’ as at June 2008.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>He was originally a commander for the Mwalawi Hezbi Islami Party in Khost, Paktika and Paktia provinces. Later he joined the Taliban and was appointed as Minister of Frontier Affairs. Following the collapse of the Taliban regime, along with Taliban and Al-Qaida elements, he escaped to northern Waziristan and started to regroup his militias for the fight against the Government of Afghanistan.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Haqqani has been accused of involvement in the bombing of the Indian Embassy in Kabul in 2008 and the attempt to assassinate President Karzai during a military parade in Kabul earlier the same year. Haqqani was also implicated in an attack on ministry buildings in Kabul in February 2009.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Jalaluddin Haqqani is the founder of the Haqqani Network.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>5.</td><td>Nasiruddin Haqqani (alias: (a) Naseer Haqqani, (b) Dr Naseer Haqqani, (c) Nassir Haqqani, (d) Nashir Haqqani, (e) Naseruddin, (f) Dr Alim Ghair). Grounds for listing: A leader of the Haqqani Network, which operates out of North Waziristan in the Federally Administered Tribal Areas of Pakistan. Date of birth: Approximately 1970-1973. Place of birth: Neka District, Paktika Province, Afghanistan. Nationality: Afghan. Address: Pakistan. Other information: (a) Son of Jalaluddin Haqqani. (b) He travelled to Saudi Arabia and the United Arab Emirates to raise funds for the Taliban. (c) Reportedly deceased as of 2013. Date of UN designation: 20.7.2010.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>The Haqqani Network is a Taliban-affiliated group of militants that operates from North Waziristan Agency in the Federally Administered Tribal Areas of Pakistan. It has been at the forefront of insurgent activity in Afghanistan, responsible for many high-profile attacks. The Haqqani network leadership consists of the three oldest sons of Jalaluddin Haqqani, one of whom is Nasiruddin Haqqani.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Nasiruddin Haqqani functions as an emissary for the Haqqani Network and spends much of his time raising money. In 2004, Haqqani travelled to Saudi Arabia with a Taliban associate to raise funds for the Taliban. He also provided funds in 2004 to militants in Afghanistan for the purpose of disrupting the Afghan presidential election. From at least 2005 to 2008, Nasiruddin Haqqani collected funds for the Haqqani Network through various fundraising trips, including during regular travel to the United Arab Emirates in 2007 and through a fundraising trip to another Gulf state in 2008.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>As of mid-2007, Haqqani reportedly had three main sources of funding: donations from the Gulf region, drug trafficking, and payments from Al-Qaida. In late 2009, Nasiruddin Haqqani received several hundred thousand dollars from Al- Qaida-associated individuals in the Arabian Peninsula to use for Haqqani Network activities.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 6. | Abdul Habib Alizai (alias: a) Haji Agha JanAlizai b) Hajji Agha Jan c) Agha Jan Alazai d) Haji Loi Lala e) Loi Agha f) Abdul Habib g) Agha Jan Alizai [image] (formerly listed as)). Title: Haji Grounds for listing: Has managed a drug trafficking network in Helmand Province, Afghanistan. Date of birth: a) 15.10.1963 b) 14.2.1973 c) 1967 d) Approximately 1957. Place of birth: a) Yatimchai village, Musa Qala District, Helmand Province, Afghanistan b) Kandahar Province, Afghanistan Nationality: Afghan Other information: (a) Has regularly travelled to Pakistan. Date of UN designation: 4.11.2010. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Agha Jan Alizai has managed one of the largest drug trafficking networks in Helmand, Afghanistan, and has provided funds to the Taliban in exchange for protection of his narco-trafficking activities. In 2008, a group of narcotics traffickers, including Alizai, agreed to pay the Taliban tax on land where opium poppy was planted in return for Taliban agreement to organize transportation for narcotics materials. The Taliban also agreed to provide security for the narco-traffickers and their storage sites, while the traffickers would provide shelter and transportation to Taliban fighters. Alizai has also been involved in the purchase of weapons for the Taliban and has travelled to Pakistan regularly to meet senior Taliban leaders. Alizai has also facilitated the procurement of fraudulent Iranian passports by Taliban members in order to travel to Iran for training. In 2009, Alizai provided a passport and funds to a Taliban commander to travel to Iran. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>7.</td><td>Ahmed Jan Wazir Akhtar Mohammad (alias: (a) Ahmed Jan Kuchi, (b) Ahmed Jan Zadran) Grounds for listing: (a) Key commander of the Haqqani Network, which is based in Afghanistan/Pakistan border area. (b) Acts as deputy, spokesperson and advisor for Haqqani Network senior leader Sirajuddin Jallaloudine Haqqani. Date of birth: 1963. Place of birth: Barlach Village, Qareh Bagh District, Ghazni Province, Afghanistan. Other information: (a) Official of the Ministry of Finance during the Taliban regime. (b) Liaises with the Taliban Supreme Council. (c) Has travelled abroad. (d) Liaises with and provides Taliban commanders in Ghazni Province, Afghanistan, with money, weapons, communications equipment and supplies. (e) Reportedly deceased as of 2013. Date of UN designation: 6.1.2012.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Ahmed Jan Wazir is a key commander in the Haqqani Network, a Taliban-affiliated group of militants that operates from the Afghanistan/Pakistan border region. Ahmed Jan Wazir acts as a deputy, advisor and spokesperson for Sirajuddin Haqqani, a senior leader of the Haqqani Network, and conducts meetings on behalf of the Haqqani Network. In late 2010, Ahmed Jan Wazir travelled with senior Haqqani Network members to the Gulf.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Ahmed Jan Wazir has represented the Haqqani Network at the Taliban's shura and has served as a conduit between the Haqqani Network and the Taliban in Ghazni Province, Afghanistan. In 2008, Taliban and Al-Qaida militants appointed Ahmed Jan Wazir as a Taliban commander in Ghazni Province. He has provided other Taliban commanders in Ghazni Province with money and supplies, including weapons and communications equipment. During the Taliban regime, he was employed by the Ministry of Finance.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 8. | Bakht Gul (alias: (a) Bakhta Gul, (b) Bakht Gul Bahar, (c) Shuqib). Grounds for listing: (a) Communications assistant to Badruddin Haqqani (deceased). (b) Also coordinates movement of Haqqani insurgents, foreign fighters and weapons in the Afghanistan/Pakistan border area. Date of Birth: 1980. Place of Birth: Aki Village, Zadran District, Paktiya Province, Afghanistan. Nationality: Afghan. Address: Miram Shah, North Waziristan, Federally Administered Tribal Areas, Pakistan. Other information: Belongs to Zadran tribe. Date of UN designation: 27.6.2012. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Bakht Gul has been a key Haqqani Network communications official since at least 2009, when his predecessor was arrested in Afghanistan. As of 2011, Gul continued to report directly to Badruddin Haqqani (deceased), a senior Haqqani Network leader, and has acted as an intermediary for those wishing to contact him. Gul's responsibilities include relaying reports from commanders in Afghanistan to senior Haqqani Network officials, Taliban media officials, and legitimate media outlets in Afghanistan. Gul also works with Haqqani Network officials, including Badruddin Haqqani, to coordinate the movement of Haqqani Network insurgents, foreign fighters and weapons in the Afghanistan-Pakistan border region and eastern Afghanistan. As of 2010, Gul relayed operational orders from Badruddin Haqqani to fighters in Afghanistan. In late 2009, Gul distributed money to Haqqani Network sub-commanders travelling between Miram Shah and Afghanistan. |
+| --- | --- | --- |
+
+|  | 9. | Abdul-Haq Wassiq (alias: (a)Abdul-Haq Wasseq, (b) Abdul Haq Wasiq). Title: Maulavi. Grounds for listing: Deputy Minister of Security (Intelligence) under the Taliban regime. Date of birth: (a) Approximately 1975, (b) 1971. Place of birth: Gharib village, Khogyani District, Ghazni Province, Afghanistan. Nationality: Afghan. Address: Guantanamo Bay prison. Other information: In custody of the United States of America as at 2011. Date of UN designation: 31.1.2001. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Abdul-Haq Wassiq is allied with Gulbuddin Hekmatyar. Under the Taliban regime, he held successive positions as local commander in Nimroz and Kandahar provinces. He then became Deputy Director-General of Intelligence, reporting to Qari Ahmadullah. In this function, he was in charge of handling relations with Al-Qaida- related foreign fighters and their training camps in Afghanistan. He was also known for his repressive methods against Taliban opponents in the South of Afghanistan. |
+| --- | --- | --- |
+
+|  | 10. | Abdul Jalil Haqqani Wali Mohammad (alias: (a) Abdul Jalil Akhund (b) Akhter Mohmad (c) Haji Gulab Gul (d) Abdul Jalil Haqqani (d) Nazar Jan) Title: (a) Maulavi (b) Mullah. Grounds for listing: (a) Member of the Taliban Supreme Council as of May 2007, (b) Member of the Financial Commission of the Taliban Council, (c) Responsible for logistics for the Taliban and also active as a businessman in his personal capacity as at mid-2013. (d) Deputy Minister of Foreign Affairs under the Taliban regime. Date of birth: Approximately 1963. Place of birth: (a) Khwaja Malik village, Arghandab District, Kandahar Province, Afghanistan, (b) Kandahar City, Kandahar Province, Afghanistan. Nationality: Afghan. Passport no.: (a) Passport number: OR 1961825 (issued under the name Akhter Mohmad, son of Noor Mohmad, born in 1965 in Kandahar) issued on 4.2.2003 by the Afghan Consulate in Quetta, Pakistan, expired 2.2.2006). (b) Passport number: TR024417 (issued under the name Haji Gulab Gul son of Haji Hazrat Gul, born in 1955 in Logar, Afghanistan) issued on 20.12.2003 by Central Passport Department in Kabul, Afghanistan, expired 29 December 2006. Other information: (a) Believed to be in Afghanistan/Pakistan border area, (b) Belongs to Alizai tribe. (c) Brother of Atiqullah Wali Mohammad. Date of UN designation: 25.1.2001. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Abdul Jalil Haqqani Wali Mohammad was a member of the Taliban Supreme Council as of May 2007 and a member of the Financial Commission of the Taliban Council. |
+| --- | --- | --- |
+
+|  | 11. | Abdulhai Motmaen (alias (a) Abdul Haq) Title: Maulavi. Grounds for listing: (a) Director of the Information and Culture Department in Kandahar Province under the Taliban regime, (b) Spokesperson of the Taliban regime. Date of birth: Approximately 1973. Place of birth: (a) Shinkalai village, Nad-e-Ali District, Helmand Province, Afghanistan; (b) Zabul Province, Afghanistan. Nationality: Afghan. Afghan passport number OA462456 (issued under the name Abdul Haq son of M. Anwar Khan) issued on 31.1.2012 (11-11-1390) by the Afghan Consulate General in Peshawar, Pakistan. Other information: (a) Family is originally from Zabul, but settled later in Helmand, (b) Member of the Taliban Supreme Council and spokesperson for Mullah Mohammed Omar as of 2007, (c) Believed to be in Afghanistan/Pakistan border area, (d) Belongs to Kharoti tribe. Date of UN designation: 23.2.2001. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Abdulhai Motmaen was the senior spokesman for the Taliban and used to deliver Taliban foreign policy statements. He was also a close associate of Mohammed Omar. He was a member of the Taliban Supreme Council and spokesperson for Mohammed Omar as of 2007. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>12.</td><td>Najibullah Haqqani Hidayatullah (alias Najibullah Haqani) Title: Maulavi. Grounds for listing: (a) Deputy Minister of Finance under the Taliban regime. (b) Taliban member responsible for Laghman Province as of late 2010. Date of birth: 1971. Place of birth: Moni village, Shigal District, Kunar Province. Nationality: Afghan. National identification no.: Afghan national identification card (tazkira) number 545167, issued in 1974. Other information: (a) Cousin of Moulavi Noor Jalal. (b) Grandfather's name is Salam. (c) Believed to be in Afghanistan/Pakistan border area. Date of UN designation: 23.2.2001.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Najibullah Haqqani Hydayatullah also served as Deputy Minister of Finance of the Taliban regime. This designation was added to the List on 18 July 2007. On 27 September 2007, the listing of this name was updated to remove the original designation of ‘Deputy Minister of Public Works of the Taliban regime’.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Najibullah Haqqani Hydayatullah was a member of the Taliban Council in the Kunar Province, Afghanistan, as at May 2007. He is a cousin of Noor Jalal.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>As at June 2008, the Taliban leadership appointed him the person responsible for military activity in the Kunar Province</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Najibullah Haqqani Hidayatullah was a Taliban member responsible for Laghman Province as of late 2010.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 13. | Abdul Raqib Takhari Title: Maulavi. Grounds for listing: (a) Minister of Repatriation under the Taliban regime. (b) Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces as at December 2009. Date of birth: Between 1968 and 1973. Place of birth: Zardalu Darra village, Kalafgan District, Takhar Province, Afghanistan. Nationality: Afghan. Other information: Confirmed killed on 17 February in Peshawar, Pakistan and buried in Takhar Province, Afghanistan. Date of UN designation: 25.1.2001. Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Abdul Raqib Takhari was a member of the Taliban Supreme Council responsible for Takhar and Badakhshan Provinces as at December 2009. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>14.</td><td>Saleh Mohammad Kakar Akhtar Muhammad (alias Saleh Mohammad) Grounds for listing: (a) Saleh Mohammad Kakar Akhtar Muhammadis a narcotics trafficker who has run an organized smuggling network in Kandahar and Helmand Provinces, Afghanistan, which met Taliban logistical and financial needs. Date of birth: (a) Approximately 1962, (b) 1961. Place of birth: (a) Nalghan village, Panjwai District, Kandahar Province, Afghanistan, (b) Sangesar village, Panjway District, Kandahar Province, Afghanistan. Nationality: Afghan. Address: Daman District, Kandahar Province, Afghanistan. Other information: (a) Has run an organised smuggling network in Kandahar and Helmand provinces, Afghanistan, (b) Previously operated heroin processing laboratories in Band-e-Temur, Kandahar Province, Afghanistan, (c) Has owned a car dealership in Mirwais Mena, Dand District in Kandahar Province, Afghanistan, (d) Released from custody in Afghanistan in February 2014, (e) Linked by marriage to Mullah Ubaidullah Akhund Yar Mohammad Akhund, (f) Belongs to Kakar tribe. Date of UN designation: 4.11.2010.  Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: <table><tbody><tr><td></td><td>Saleh Mohammad Kakar Akhtar Muhammadis a narcotics trafficker who has run an organized smuggling network in Kandahar and Helmand Provinces, Afghanistan, which met Taliban logistical and financial needs. Prior to his arrest by Afghan authorities, Saleh Mohammad Kakar Akhtar Muhammadoperated heroin processing laboratories in the Band-e-Timor area of Kandahar Province that were protected by the Taliban.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Saleh Mohammad Kakar Akhtar Muhammadhas been in contact with senior Taliban leaders, collected cash on their behalf from narco-traffickers, and managed and hid money belonging to senior Taliban members. He was also responsible for facilitating tax payments to the Taliban on behalf of narco-traffickers. Saleh Mohammad Kakar Akhtar Muhammadhas owned a car dealership in Kandahar and has provided the Taliban with vehicles for use in suicide attacks.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>

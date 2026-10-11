@@ -1,0 +1,673 @@
+---
+title: "Council Decision of 9 June 2011 on the approval, on behalf of the European Union, of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance"
+identifier: "32011D0432"
+eli: "http://data.europa.eu/eli/dec/2011/432/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2011-06-09
+entry_into_force: 2011-02-15
+last_amended: 2014-04-09
+consolidated_version: "02011D0432-20140409"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D0432-20140409"
+retrieved: 2026-10-11
+---
+
+# Council Decision of 9 June 2011 on the approval, on behalf of the European Union, of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance
+
+**COUNCIL DECISION**
+
+**of 9 June 2011**
+
+**on the approval, on behalf of the European Union, of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance**
+
+**(2011/432/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION of 9 April 2014 </td><td> L 113</td><td>1</td><td>16.4.2014</td></tr>
+</table>
+
+**COUNCIL DECISION**
+
+**of 9 June 2011**
+
+**on the approval, on behalf of the European Union, of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance**
+
+**(2011/432/EU)**
+
+## Article 1
+
+The Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance (‘the Convention’) is hereby approved on behalf of the European Union.
+
+The text of the Convention is attached to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorised to designate the person(s) empowered to deposit, on behalf of the Union, the instrument referred to in Article 58(2) of the Convention.
+
+## Article 3
+
+When depositing the instrument referred to in Article 58(2) of the Convention, the Union shall make the declaration of competence pursuant to Article 59(3) of the Convention.
+
+The text of that declaration is attached as part A of Annex I to this Decision.
+
+## Article 4
+
+1\. When depositing the instrument referred to in Article 58(2) of the Convention, the Union shall declare, pursuant to Article 2(3) of the Convention, that it will extend the application of Chapters II and III of the Convention to spousal support.
+
+The text of that declaration is attached as part B of Annex I to this Decision.
+
+2\. When depositing the instrument referred to in Article 58(2) of the Convention, the Union shall make the unilateral declaration the text of which is attached as Annex IV to this Decision.
+
+## Article 5
+
+When depositing the instrument referred to in Article 58(2) of the Convention, the Union shall make the reservation provided for in Article 44(3) of the Convention concerning the Member States that object to the use of either English or French in communications between Central Authorities.
+
+The text of that reservation is attached as Annex II to this Decision.
+
+## Article 6
+
+When depositing the instrument referred to in Article 58(2) of the Convention, the Union shall make the declarations provided for in point (g) of Article 11(1) of the Convention concerning the information or documents required by the Member States and in Article 44(1) of the Convention concerning the languages accepted by the Member States other than their official languages, and the declaration provided for in Article 44(2) of the Convention.
+
+The text of those declarations is attached as Annex III to this Decision.
+
+## Article 7
+
+1\. Member States shall notify the Commission, no later than 10 December 2012, of:
+
+(a) the contact details of the Central Authorities designated in accordance with Article 4(3) of the Convention; and
+
+(b) the information concerning laws, procedures and services referred to in Article 57 of the Convention.
+
+2\. When forwarding the information set out in paragraph 1 to the Commission, Member States shall use the Country Profile Form recommended and published by the Hague Conference on Private International Law, if possible, in electronic format.
+
+3\. The Commission shall forward the individual Country Profile Forms completed by the Member States to the Permanent Bureau of the Hague Conference on Private International Law (‘the Permanent Bureau’) at the time when the Union deposits the instrument referred to in Article 58(2) of the Convention.
+
+## Article 8
+
+A Member State that wishes to withdraw the reservation regarding it set out in Annex II or to modify or withdraw the declaration regarding it set out in Annex III or to add a declaration regarding it in Annex III shall inform the Council and the Commission of the desired withdrawal, modification or addition.
+
+The Union shall subsequently notify the depositary accordingly pursuant to Article 63(2) of the Convention.
+
+## Article 9
+
+A Member State that wishes to modify the information given in its Country Profile Form after the initial forwarding of that form by the Commission shall inform the Permanent Bureau directly thereof or shall make the necessary change directly, if the electronic format of the Country Profile Form is being used. It shall inform the Commission at the same time.
+
+## Article 10
+
+This Decision shall enter into force on the day of its adoption.
+
+## ANNEX I
+
+**European Union declarations at the time of the approval of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance (the ‘Convention’) in accordance with Article 63 thereof**
+
+**A. DECLARATION REFERRED TO IN ARTICLE 59(3) OF THE CONVENTION CONCERNING THE COMPETENCE OF THE EUROPEAN UNION OVER THE MATTERS GOVERNED BY THE CONVENTION**
+
+1\. The European Union declares that it exercises competence over all the matters governed by the Convention. The Member States shall be bound by the Convention by virtue of its approval by the European Union.
+
+2\. The Members of the European Union are the Kingdom of Belgium, the Republic of Bulgaria, the Czech Republic, the Kingdom of Denmark, the Federal Republic of Germany, the Republic of Estonia, Ireland, the Hellenic Republic, the Kingdom of Spain, the French Republic, the Republic of Croatia, the Italian Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Grand-Duchy of Luxembourg, Hungary, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland.
+
+3\. However, this declaration does not apply to the Kingdom of Denmark, in accordance with Articles 1 and 2 of Protocol (No 22) on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union.
+
+4\. This declaration is not applicable to territories of the Member States to which the Treaty on the Functioning of the European Union does not apply (see Article 355 of that Treaty) and is without prejudice to such acts or positions as may be adopted pursuant to the Convention by the Member States concerned on behalf of and in the interests of those territories.
+
+5\. The application of the Convention in cooperation between Central Authorities will be the responsibility of the Central Authorities of each individual Member State of the European Union. Accordingly, whenever a Central Authority of a Contracting State needs to contact a Central Authority of a Member State of the European Union it should contact the Central Authority concerned directly. The Member States of the European Union, if they deem it appropriate, will also attend all the Special Commissions likely to be tasked with following up the application of the Convention.
+
+**B. DECLARATION REFERRED TO IN ARTICLE 2(3) OF THE CONVENTION**
+
+The European Union declares that it will extend the application of Chapters II and III of the Convention to spousal support.
+
+## ANNEX II
+
+**European Union reservation at the time of the approval of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance (the ‘Convention’) in accordance with Article 62 thereof**
+
+The European Union makes the following reservation provided for in Article 44(3) of the Convention:
+
+The Czech Republic, the Republic of Estonia, the Hellenic Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, Hungary, the Kingdom of the Netherlands, the Republic of Poland, the Republic of Slovenia, the Slovak Republic, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern Ireland object to the use of French in communications between Central Authorities.
+
+The French Republic and the Grand Duchy of Luxembourg object to the use of English in communications between Central Authorities.
+
+## ANNEX III
+
+**European Union declarations at the time of the approval of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance (the ‘Convention’) in accordance with Article 63 thereof**
+
+**1\. DECLARATIONS REFERRED TO IN ARTICLE 11(1)(g) OF THE CONVENTION**
+
+The European Union declares that, in the Member States listed below, an application other than an application under Article 10(1)(a) and (2)(a) of the Convention shall include the information or documents specified for each of the listed Member States:
+
+**The Kingdom of Belgium:**
+
+— For applications under Article 10(1)(e) and (f) and (2)(b) and (c), the complete text of the decision or the decisions in certified copy or copies.
+
+**The Czech Republic:**
+
+— The power of attorney granted to the Central Authority by the applicant pursuant to Article 42.
+
+**The Federal Republic of Germany:**
+
+— The creditor's nationality, profession or occupation and, where appropriate, his legal representative's name and address.
+
+— The debtor's nationality, profession or occupation, inasmuch as they are known to the creditor.
+
+— In the case of an application by a public law service provider asserting transferred-right maintenance claims, the name and contact data of the person whose claim has been transferred.
+
+— In the case of indexation of an enforceable claim, the method of calculating the indexation and, in the event of an obligation to pay legal interest, the legal interest rate and the starting date for the mandatory interest.
+
+**The Kingdom of Spain:**
+
+— The creditor's nationality
+
+— The debtor's nationality
+
+— The identity number (identity card or passport) of both the creditor and the debtor.
+
+**The French Republic:**
+
+Applications referred to in Article 10(1)(e) and (f) and 2(b) and (c) shall be accompanied by the maintenance decision of which the modification is sought.
+
+**The Republic of Croatia**
+
+I. Application under Article 10(1)(b)
+
+1\. An application for enforcement of a decision made or recognised in the Republic of Croatia as the requested State must contain:
+
+— details of the court that issued the decision and the date on which the decision was issued,
+
+— details of the creditor's bank account (account number, name of bank, IBAN).
+
+2\. If the applicant is a minor, the application must be signed by his or her legal representative.
+
+An application for the enforcement of a decision made or recognised in the Republic of Croatia as the requested State must be accompanied by the following documents:
+
+— the original of the writ of execution or original court decision, or a certified copy of the court decision with an attestation of its enforceability,
+
+— a detailed list of arrears claimed,
+
+— in cases where indexation applies to an enforceable application, the method of calculating the indexation and, where there is an obligation to pay legal interest, an indication of the legal interest rate and the starting date for the monthly interest,
+
+— details of the bank account to which the amounts awarded should be transferred,
+
+— an official translation into Croatian, by a sworn translator, of all documents,
+
+— the power of attorney granted to the Central Authority by the applicant in accordance with Article 42 of the Convention.
+
+II. Applications under Article 10(1)(c) and (d)
+
+1\. An application for the establishment of a decision in the Republic of Croatia as the requested State must contain:
+
+— an indication of the monthly amount of maintenance claimed,
+
+— an indication of the period for which maintenance is sought,
+
+— information on the personal and social status of the applicant (the child and the parent with whom the child lives),
+
+— information on the personal and social status of the debtor — the parent with whom the child does not live, the number of persons already receiving maintenance from the debtor, if the information is available to the applicant.
+
+2\. The application must be signed personally by the applicant or, if the applicant is a minor, by his or her legal representative.
+
+An application for the establishment of a decision in the Republic of Croatia as the requested State must be accompanied by the following documents:
+
+— documents evidencing the parent-child relationship; the marital or partnership status of the applicant and of the debtor; the child's birth certificate, if parentage is to be established as a preliminary question,
+
+— the certificate of dissolution of the marriage,
+
+— the decision by the competent body on caring for the child or decision on custody of the child,
+
+— the document on the basis of which the indexation of the amount of maintenance is calculated (if provided for in the requesting State),
+
+— an official translation into Croatian, by a sworn translator, of all documents,
+
+— the power of attorney granted to the Central Authority by the applicant in accordance with Article 42 of the Convention.
+
+III. Applications under Article 10(1)(e) and (f)
+
+1\. An application for modification of a decision must include:
+
+— the name of the court that issued the decision of which modification is sought or of the body before which the maintenance agreement was concluded,
+
+— the date on which the decision was issued or the agreement concluded and the number of the decision or agreement,
+
+— the given name and family name of the parties to the proceedings and their dates of birth,
+
+— the change in circumstances of the person receiving maintenance, the debtor, the creditor and the person caring for the child, including the fact that a new decision has been issued or a new agreement concluded on caring for the child; the change in living expenses and other circumstances justifying modification of the decision,
+
+— an indication of the monthly amount claimed,
+
+— details of the creditor's bank account (account number, name of bank, IBAN).
+
+2\. The application must be signed personally by the applicant or, if the applicant is a minor, by his or her legal representative.
+
+An application for modification of a decision must be accompanied by the following documents:
+
+— the original of the writ of execution or original court decision, or a certified copy of the court decision with an attestation of its enforceability,
+
+— details of the bank account to which the amounts awarded should be transferred,
+
+— an official translation into Croatian, by a sworn translator, of all documents,
+
+— the power of attorney granted to the Central Authority by the applicant in accordance with Article 42 of the Convention.
+
+IV. Applications under Article 10(2)(b) and (c)
+
+1\. An application for modification of a decision must include:
+
+— the name of the court that issued the decision of which modification is sought or of the body before which the maintenance agreement was concluded,
+
+— the date on which the decision was issued or the agreement concluded and the number of the decision or agreement,
+
+— the given name and family name of the parties to the proceedings and their dates of birth,
+
+— the change in circumstances of the person receiving maintenance, the debtor, the creditor and the person caring for the child, including the fact that a new decision has been established or new agreement concluded on caring for the child; the change in living expenses and other circumstances justifying the modification of the decision,
+
+— an indication of the monthly amount paid prior to submission of the application and the modification sought.
+
+2\. The application must be signed personally by the applicant.
+
+An application for modification of a decision must be accompanied by the following documents:
+
+— the original of the writ of execution or original court decision, or a certified copy of the court decision with an attestation of its enforceability,
+
+— an official translation into Croatian, by a sworn translator, of all documents,
+
+— the power of attorney granted to the Central Authority by the applicant in accordance with Article 42 of the Convention.
+
+**The Republic of Latvia:**
+
+— The application shall include the information specified in the relevant forms recommended and published by the Hague Conference on Private International Law and shall be accompanied by a receipt for payment of state tax in cases where the applicant is not exempt from payment of state tax or does not receive legal assistance, as well as documents which confirm the information included in the application.
+
+— The application shall include the applicant's personal code (if assigned in the Republic of Latvia) or identification number, if assigned; the respondent's personal code (if assigned in the Republic of Latvia) or identification number, if assigned; the personal codes (if assigned in the Republic of Latvia) or identification numbers, if assigned, of all the persons for whom maintenance is sought.
+
+— Applications referred to in Article 10(1)(a), (b), (d) and (f) and 2(a) and (c) which do not concern child support (within the meaning of Article 15) shall be accompanied by a document showing the extent to which the applicant received free legal assistance in the State of origin, containing information on the type and amount of legal assistance already requested and indicating what further legal assistance will be needed.
+
+— Applications referred to in Article 10(1)(b) shall be accompanied by a document indicating the applicant's chosen means of enforcement (proceedings to recover the debtor's movable assets, funds and/or immovable property).
+
+— Applications referred to in Article 10(1)(b) shall be accompanied by a document containing a calculation of the debt.
+
+— Applications referred to in Article 10(1)(c), (d), (e) and (f) and 2(b) and (c) shall be accompanied by documents which substantiate the information concerning the financial situation and expenses of the creditor and/or debtor.
+
+**The Republic of Malta:**
+
+I. Application under Article 10(1)(b)
+
+1\. An application for enforcement of a decision shall include:
+
+— the name of the court which issued the judgment;
+
+— the date of the judgment;
+
+— details of the creditor and debtor's nationality; and
+
+— profession or occupation.
+
+2\. The following documents shall also be enclosed:
+
+— certified copy of the judgment along with the order of its enforcement;
+
+— detailed list of arrears and in the case of indexation of an enforceable claim, the method of calculating the indexation and in the event of an obligation to pay legal interest, the legal interest rate and the starting date for the mandatory interest;
+
+— details of the bank account to which the enforced amounts should be transferred;
+
+— copy of the application together with the annexes; and
+
+— translation of all documents in the Maltese language by a professional sworn translator.
+
+II. Application under Article 10(1)(c) and (d)
+
+An application for the establishment of a decision awarding child support shall be accompanied by the following documents:
+
+— monthly amount of child support relative to each creditor; and
+
+— grounds for the application for the decision which shall contain information on the relationship between the creditor and debtor and the financial situation of the legal representative of the creditor and which shall include information relative to the:
+
+(i) maintenance expenses: food, health, clothing, accommodation and education. (Note: When the child support is requested for more than one child, the information has to be supplied relative to each child);
+
+(ii) sources and amount of monthly income of the parent taking care of the creditor; and
+
+(iii) monthly expenditure of the parent caring for the creditor relative to the creditor.
+
+III. Application under Article 10(1)(e) and (f)
+
+An application for modification of a decision awarding maintenance shall include:
+
+— the name of the court issuing the judgment, date of the judgment and details of the parties to the proceedings;
+
+— an indication of the monthly amount of maintenance claimed on behalf of each creditor in lieu of the maintenance previously awarded;
+
+— an indication of the change in the circumstances justifying the claim for a change to the amount of maintenance; and
+
+— supporting documents which have to be listed and attached to the application (Note: These documents have to be originals or certified copies).
+
+IV. Application under Article 10(2)(b) and (c)
+
+An application for modification of a decision awarding maintenance shall include:
+
+— the name of the court issuing the judgment, date of the judgment and details of the parties to the proceedings;
+
+— an indication of the monthly amount of maintenance claimed on behalf of each creditor in lieu of the maintenance previously awarded;
+
+— an indication of the change in the circumstances justifying the claim for a change to the amount of maintenance; and
+
+— supporting documents which have to be listed and attached to the application. (Note: These documents have to be originals or certified copies).
+
+**The Republic of Poland:**
+
+I. Application under Article 10(1)(b)
+
+1\. An application for enforcement of a decision should contain the name of the court which issued the judgment, the date of the judgment and the forename and surname of the parties to the proceedings.
+
+2\. The following documents should be enclosed:
+
+— original of the enforceable title (certified copy of the judgment together with the order for its enforcement),
+
+— detailed list of arrears,
+
+— details of the bank account to which the enforced amounts should be transferred,
+
+— copy of the application together with annexes,
+
+— translation of all documents into Polish by a sworn translator.
+
+3\. The application, grounds for the application, list of arrears and information on the financial situation of the debtor must be signed personally by the creditor(s) or, in the case of minors, by their legal representative.
+
+4\. Where the creditor is not in possession of the original of the enforceable title, the reason must be stated in the application (e.g. document lost or destroyed, or enforceable title not established by the court).
+
+5\. In the event of loss of the enforceable title, an application for a further establishment of the enforceable title to replace the one lost should be enclosed.
+
+II. Applications under Article 10(1)(c) and (d)
+
+1\. An application for the establishment of a decision awarding child support should contain an indication of the monthly amount requested in the title as child support for each creditor.
+
+2\. The application and grounds for the application must be signed personally by the creditor(s) or, in the case of minors, by their legal representative.
+
+3\. In the grounds for an application for establishment of a decision, it is necessary to state all facts justifying the request, and in particular to supply information concerning:
+
+(a) the relationship between the creditor and debtor: child (child from a marriage/child formally recognised by the debtor/paternity of the child established by court proceedings), other relative, spouse, former spouse, related,
+
+(b) information regarding the financial situation of the creditor should contain data concerning:
+
+— the age, health and level of education of the creditor,
+
+— the monthly outgoings of the creditor (food, clothes, personal hygiene, prevention, medicine, rehabilitation, training, leisure, exceptional expenditure, etc.),
+
+— (where child support is requested for more than one entitled person — the above data should be supplied for each of these persons),
+
+— education of the parent taking care of the under-age creditor, their acquired profession and their actual profession,
+
+— sources and amount of monthly income of the parent taking care of the creditor,
+
+— monthly outgoings of the parent caring for the under-age creditor for the maintenance of himself/herself and others, in addition to the creditor, dependent on him/her for support,
+
+(c) information on the financial situation of the debtor should also contain data on the education of the debtor, their acquired profession and their actual profession.
+
+4\. It should be indicated which of the facts described in the grounds are to be stated in the taking of evidence (e.g. reading the document at the hearing, hearing the witness(es), hearing the creditor or his/her legal representative, hearing the debtor, etc.).
+
+5\. It is necessary to indicate each piece of evidence required and all information necessary to enable the court to take such evidence.
+
+6\. Documents should be written and attached to the application in the original or in the form of certified copies; documents drawn up in a foreign language should be accompanied by a certified translation into Polish.
+
+7\. Witnesses: the first name, surname and address of each witness should be included.
+
+III. Application provided for in Article 10(1)(e) and (f)
+
+1\. An application for modification of a decision awarding maintenance must include:
+
+(a) the name of the court issuing the judgment, the date of the judgment and the first name and surname of the parties to the proceedings,
+
+(b) an indication of the monthly amount of maintenance claimed on behalf of each creditor instead of the maintenance previously awarded.
+
+2\. The reasons given in the application should set out the change in circumstances justifying the claim for a change to the amount of maintenance.
+
+3\. The application and grounds for the application must be signed personally by the creditor(s) or, in the case of minors, by their legal representative.
+
+4\. It should be indicated which of the facts described in the grounds are to be stated in the taking of evidence (e.g. reading the document at the hearing, hearing the witness(es), hearing the creditor or his/her legal representative, hearing the debtor, etc.).
+
+5\. It is necessary to indicate each piece of evidence requested and all information necessary to enable the court to take such evidence.
+
+6\. Documents should be written and attached to the application in the original or in the form of certified copies; documents drawn up in a foreign language should be accompanied by a certified translation into Polish.
+
+7\. Witnesses: the first name, surname and address of each witness should be included.
+
+IV. Application provided for in Article 10(2)(b) and (c)
+
+1\. An application for modification of a decision awarding maintenance must include:
+
+(a) the name of the court issuing the judgment, the date of the judgment and the first name and surname of the parties to the proceedings,
+
+(b) an indication of the monthly amount of maintenance claimed on behalf of each creditor instead of the maintenance previously awarded.
+
+2\. The reasons given in the application should set out the change in circumstances justifying the claim for a change to the amount of maintenance.
+
+3\. The application and grounds for the application must be signed personally by the debtor.
+
+4\. It should be indicated which of the facts described in the grounds are to be stated in the taking of evidence (e.g. reading the document at the hearing, hearing the witness(es), hearing the creditor or his/her legal representative, hearing the debtor, etc.).
+
+5\. It is necessary to indicate each piece of evidence requested and all information necessary to enable the court to take such evidence.
+
+6\. Documents should be written and attached to the application in the original or in the form of certified copies; documents drawn up in a foreign language should be accompanied by a certified translation into Polish.
+
+7\. Witnesses: the first name, surname and address of each witness should be included.
+
+**The Portuguese Republic:**
+
+I. Application under Article 10(1)(b)
+
+An application for enforcement of a decision shall be accompanied, in addition to the documents referred to in Article 25, by:
+
+1\. a detailed list of arrears and, in the case of indexation of an enforceable claim, the method of calculating that indexation; in the event of an obligation to pay legal interest, an indication of the legal interest rate and the date of commencement of the obligation;
+
+2\. full identification of the bank account to which the amounts must be transferred.
+
+II. Application under Article 10(1)(c) and (d)
+
+An application for establishment of a decision awarding child support, within the meaning of Article 15, shall be accompanied by the following supporting documents:
+
+1\. monthly amount of child support applied for on behalf of each creditor;
+
+2\. grounds for the application for establishment of a decision, which must report all the facts in support of the application and provide information on:
+
+(a) the relationship between the creditor and debtor: child (child from a marriage/child formally recognised by the debtor/paternity of the child established by court proceedings), including submission of a certificate attesting to parentage/adoption;
+
+(b) the financial situation of the legal representative of the creditor(s) (parent or guardian), which shall include data on:
+
+— monthly maintenance expenses: food, health, clothing, accommodation, education (where child support is requested for more than one entitled person, the above data should be supplied for each of these persons);
+
+— sources and amount of monthly income of the parent taking care of the creditor;
+
+— monthly outgoings of the parent caring for an under-age creditor, for the maintenance of himself/herself and others for whom he/she is responsible;
+
+3\. application and grounds for application, signed personally by the creditor(s) or, in the case of minors, by his/her/their legal representative;
+
+III. Application under Article 10(1)(e) and (f)
+
+An application for modification of a decision awarding maintenance shall include:
+
+1\. the name of the court issuing the judgment, the date of the judgment and identification of the parties to the proceedings;
+
+2\. an indication of the monthly amount of maintenance claimed on behalf of each creditor instead of the maintenance previously awarded;
+
+3\. in its grounds, an indication of the change in circumstances justifying the claim for a change to the amount of maintenance;
+
+4\. supporting documents, which should be listed and attached to the application — originals or certified copies;
+
+5\. on the application and its grounds, the personal signature of the creditor(s) or, in the case of minors, of their legal representative;
+
+IV. Application under Article 10(2)(b) and (c)
+
+An application for modification of a decision awarding maintenance (submitted by the debtor) shall include:
+
+1\. the name of the court issuing the judgment, the date of the judgment and identification of the parties to the proceedings;
+
+2\. an indication of the monthly amount of maintenance claimed on behalf of each creditor instead of the maintenance previously awarded;
+
+3\. in its grounds, an indication of the change in circumstances justifying the claim for a change to the amount of maintenance;
+
+4\. supporting documents, which should be listed and attached to the application — originals or certified copies;
+
+5\. on the application and its grounds, the personal signature of the debtor(s).
+
+**The Slovak Republic:**
+
+— Information about the nationality of all the parties involved.
+
+**The United Kingdom of Great Britain and Northern Ireland:**
+
+Application under Article 10(1)(b)
+
+England and Wales
+
+Original and/or certified copy of decision; Certificate of enforceability; Statement of Arrears; Document stating that the debtor appeared at the original hearing and if not, document attesting that debtor had been notified and served of those proceedings or that he was notified of the original decision and was given opportunity to defend or appeal; Statement as to whereabouts of debtor — residential and employment; Statement as to identification of debtor; Photograph of debtor, if available; Document indicating the extent that the applicant has benefited from free legal aid; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable. Certified copy order or other instrument evidencing the dissolution of the marriage or other relationship, if applicable.
+
+Scotland
+
+Original and/or certified copy of decision; Certificate of enforceability; Statement of Arrears; Document stating that the debtor appeared at the original hearing and if not, document attesting that debtor had been notified of those proceedings or that he was notified of the original decision and was given opportunity to appeal; Statement as to whereabouts of debtor; Statement as to identification of debtor; Photograph of debtor, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable.
+
+Northern Ireland
+
+Original and/or certified copy of decision; Certificate of enforceability; Statement of Arrears; Document stating that the debtor appeared at the original hearing and if not, document attesting that debtor had been notified of those proceedings or that he was notified of the original decision and was given opportunity to appeal; Statement as to whereabouts of debtor — residential and employment; Statement as to identification of debtor; Photograph of debtor, if available; Document indicating the extent that the applicant has benefited from free legal aid; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable.
+
+Application under Article 10(1)(c)
+
+England and Wales
+
+Documents relevant to financial situation — income/outgoings/assets; Statement as to whereabouts of defendant — residential and employment; Statement as to identification of defendant; Photograph of defendant, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable; Certified copy order or other instrument evidencing the dissolution of the marriage or other relationship, if applicable. Copy of any relevant court orders; Legal aid application; Document proving parentage if applicable; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Scotland
+
+Documents relevant to financial situation — income/outgoings/assets; Statement as to whereabouts of defendant; Statement as to identification of defendant; Photograph of defendant, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable; Legal aid application; Document proving parentage if applicable.
+
+Northern Ireland
+
+Documents relevant to financial situation — income/outgoings/assets; Statement as to whereabouts of defendant — residential and employment; Statement as to identification of defendant; Photograph of defendant, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable; Certified copy of Decree Nisi (interim divorce certificate) if applicable; Copy of any relevant court orders; Legal aid application; Document proving parentage if applicable; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Application under Article 10(1)(d)
+
+England and Wales
+
+Certified copy of decision relevant to Article 20 or Article 22 (b) or (e) together with documents relevant to the making of that decision; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation — income/outgoings/assets; Statement as to whereabouts — residential and employment of defendant; Statement as to identification of defendant; Photograph of defendant, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable; Certified copy of order or other instrument evidencing the dissolution of the marriage or other relationship, if applicable. Copy of any relevant court orders; Document proving parentage if applicable; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Scotland
+
+As at Article 10(1)(c) above.
+
+Northern Ireland
+
+Certified copy of decision relevant to Article 20 or 22 (b) or (e) together with documents relevant to the making of that decision; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation — income/outgoings/assets; Statement as to whereabouts — residential and employment of defendant; Statement as to identification of defendant; Photograph of defendant, if available; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Certified copy of Marriage Certificate if applicable; Certified copy of Decree Nisi (interim divorce certificate) if applicable; Copy of any relevant court orders; Document proving parentage if applicable; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Application under Article 10(1)(e)
+
+England and Wales
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant. Written statement that both parties appeared in the proceedings and if only the applicant appeared the original or certified copy of the document establishing proof of service of the notice of the proceedings on the other party.
+
+Scotland
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation.
+
+Northern Ireland
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Application under Article 10(1)(f)
+
+England and Wales
+
+Original and/or certified copy of decision to be modified; Document stating that the debtor appeared at the original hearing and if not, document attesting that debtor had been notified of those proceedings or that he was notified of the original decision and was given opportunity to appeal; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certificate of enforceability; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Certified copy of Marriage Certificate if applicable; Certified copy of order or other instrument evidencing the dissolution of the marriage or other relationship, if applicable; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Statement as to whereabouts of debtor — residential and employment; Statement as to identification of debtor; Photograph of debtor, if available; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant. Written statement that both parties appeared in the proceedings and if only the applicant appeared the original or certified copy of the document establishing proof of service of the notice of the proceedings on the other party.
+
+Scotland
+
+Original and/or certified copy of decision to be modified; Document attesting that debtor had been notified of those proceedings or that he was notified of the original decision and was given opportunity to appeal; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certificate of enforceability; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Documents relevant to marital status of applicant/defendant, if applicable; Statement as to whereabouts of debtor; Statement as to identification of debtor; Photograph of debtor, if available.
+
+Northern Ireland
+
+Original and/or certified copy of decision to be modified; Document stating that the debtor appeared at the original hearing and if not, document attesting that debtor had been notified of those proceedings or that he was notified of the original decision and was given opportunity to appeal; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certificate of enforceability; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Certified copy of Marriage Certificate if applicable; Certified copy of Decree Nisi (interim divorce certificate) if applicable; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Statement as to whereabouts of debtor — residential and employment; Statement as to identification of debtor; Photograph of debtor, if available; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Application under Article 10(2)(b)
+
+England and Wales
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Scotland
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation.
+
+Northern Ireland
+
+Copy of decision to be modified; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Legal aid application; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Any other specified documents under Articles 16(3), 25(1) (a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Application under Article 10(2)(c)
+
+England and Wales
+
+Original and/or certified copy of decision to be modified; Certificate of enforceability; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Certified copy of Marriage Certificate if applicable; Certified copy order or other instrument evidencing the dissolution of the marriage or other relationship if applicable; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Statement as to whereabouts of creditor — residential and employment; Statement as to identification of creditor; Photograph of creditor, if available; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+Scotland
+
+Original and/or certified copy of decision to be modified; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certificate from school/college if applicable; Documents relevant to change in applicant's financial situation; Statement as to whereabouts of creditor; Statement as to identification of creditor; Photograph of creditor, if available.
+
+Northern Ireland
+
+Original and/or certified copy of decision to be modified; Certificate of enforceability; Document indicating the extent that the applicant has benefited from free legal aid; Documents relevant to financial situation of applicant/defendant — income/outgoings/assets; Certified copy of Birth or Adoption Certificate of child(ren) if applicable; Certificate from school/college if applicable; Documents relevant to change in child(ren)'s situation; Certified copy of Marriage Certificate if applicable; Certified copy of Decree Nisi (interim divorce certificate) if applicable; Documents relevant to marital status of applicant/defendant, if applicable; Copy of any relevant court orders; Statement as to whereabouts of creditor — residential and employment; Statement as to identification of creditor; Photograph of creditor, if available; Any other specified documents under Articles 16(3), 25(1)(a), (b) and (d) and (3)(b) and 30(3) if relevant.
+
+General
+
+For applications under Article 10, including Articles 10(1)(a) and 10(2)(a), the England and Wales Central Authority would be grateful to receive three copies of each document, accompanied by translations into English (if necessary).
+
+For applications under Article 10, including Articles 10(1)(a) and 10(2)(a), the Northern Ireland Central Authority would be grateful to receive three copies of each document, accompanied by translations into English.
+
+**2\. DECLARATIONS REFERRED TO IN ARTICLE 44(1) OF THE CONVENTION**
+
+The European Union declares that the Member States listed below accept applications and related documents translated into, in addition to their official language, the languages specified for each of the listed Member States:
+
+The Czech Republic: Slovak
+
+The Republic of Estonia: English
+
+The Republic of Cyprus: English
+
+The Republic of Lithuania: English
+
+The Republic of Malta: English
+
+The Slovak Republic: Czech
+
+The Republic of Finland: English
+
+**3\. DECLARATIONS REFERRED TO IN ARTICLE 44(2) OF THE CONVENTION**
+
+The European Union declares that in the Kingdom of Belgium documents shall be drawn up in or translated into French, Dutch or German depending on the part of the Belgian territory in which the documents are to be submitted.
+
+Information on which language is to be used in any given part of the Belgian territory can be found in the Manual of receiving agencies under Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) ( 4 ). This Manual can be accessed on the website of http://ec.europa.eu/justice_home/judicialatlascivil/html/index_en.htm
+
+Click on:
+
+‘Serving documents (Regulation (EC) No 1393/2007)’/‘Documents’/‘Manual’/‘Belgium’/‘Geographical areas of competence’ (pp. 13 et seq.).
+
+or go directly to the following address:
+
+http://ec.europa.eu/justice_home/judicialatlascivil/html/pdf/manual_sd_bel.pdf
+
+and click on ‘Geographical areas of competence’ (pp. 13 et seq.).
+
+## ANNEX IV
+
+**Unilateral declaration by the European Union at the time of the approval of the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance**
+
+The European Union makes the following unilateral declaration:
+
+‘The European Union wishes to underline the great importance it attaches to the 2007 Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance. The Union recognises that extending the application of the Convention to all maintenance obligations arising from a family relationship, parentage, marriage or affinity is likely to increase considerably its effectiveness, allowing all maintenance creditors to benefit from the system of administrative cooperation established by the Convention.
+
+It is in this spirit that the European Union intends to extend the application of Chapters II and III of the Convention to spousal support when the Convention enters into force with regard to the Union.
+
+Furthermore, the European Union undertakes, within 7 years, in the light of experience acquired and possible declarations of extension made by other Contracting States, to examine the possibility of extending the application of the Convention as a whole to all maintenance obligations arising from a family relationship, parentage, marriage or affinity.’.
+
+( 1 ) Opinion delivered on 11 February 2010 (OJ C 341 E, 16.12.2010, p. 98).
+
+( 2 ) OJ L 7, 10.1.2009, p. 1.
+
+( 3 ) OJ L 93, 7.4.2011, p. 9.
+
+( 4 ) OJ L 324, 10.12.2007, p. 79.

@@ -1,0 +1,442 @@
+---
+title: "2014/403/EU: Commission Implementing Decision of 26 June 2014 on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union (notified under document C(2014) 4164) Text with EEA relevance"
+identifier: "32014D0403"
+eli: "http://data.europa.eu/eli/dec_impl/2014/403/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-06-26
+entry_into_force: 2014-12-13
+last_amended: 2018-12-25
+consolidated_version: "02014D0403-20181225"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014D0403-20181225"
+retrieved: 2026-10-11
+---
+
+# 2014/403/EU: Commission Implementing Decision of 26 June 2014 on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union (notified under document C(2014) 4164) Text with EEA relevance
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 26 June 2014**
+
+**on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union**
+
+**(notified under document C(2014) 4164)**
+
+**(Only the Bulgarian, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish texts are authentic)**
+
+**(Text with EEA relevance)**
+
+**(2014/403/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2018/1891 of 30 November 2018 </td><td> L 309</td><td>5</td><td>5.12.2018</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 26 June 2014**
+
+**on granting derogations to Member States with respect to the transmission of statistics pursuant to Regulation (EU) No 549/2013 of the European Parliament and of the Council concerning the European system of national and regional accounts in the European Union**
+
+**(notified under document C(2014) 4164)**
+
+**(Only the Bulgarian, Croatian, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish texts are authentic)**
+
+**(Text with EEA relevance)**
+
+**(2014/403/EU)**
+
+## Article 1
+
+Derogations as set out in the Annex are granted to the Member States listed therein.
+
+## Article 2
+
+This Decision is addressed to the Kingdom of Belgium, Republic of Bulgaria, the Kingdom of Denmark, the Federal Republic of Germany, Republic of Estonia, Ireland, the Hellenic Republic, the Kingdom of Spain, the French Republic, the Republic of Croatia, the Italian Republic, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, The Grand Duchy of Luxembourg, Hungary, the Republic of Malta, the Kingdom of the Netherlands, the Republic of Austria, the Republic of Poland, the Portuguese Republic, Romania, the Republic of Slovenia, the Slovak Republic, the Republic of Finland, the Kingdom of Sweden, and the United Kingdom of Great Britain and Northern Ireland.
+
+## ANNEX
+
+**LIST OF SPECIFIC DEROGATIONS FROM REGULATION (EU) No 549/2013**
+
+**Country: Belgium**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | ESE — 16. c) Self employed EMP — 16. b) Employment in resident production units | Total economy and A*10 breakdown, hours worked, non-adjusted and seasonally adjusted data | 1995Q1-1999Q4 | 2020 |
+| 1A | ESE — 16. c) Self employed EMP — 16. b) Employment in resident production units | Total economy and A*10 breakdown, hours worked | 1995-1999 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*21 breakdown, thousands of hours worked | 1995-1999 | 2020 |
+| 10 | All variables | NUTS 2 breakdown, total economy and A*10 breakdown | 2000-2002 | 2020 |
+| 12 | All variables | NUTS 3 breakdown, total economy and A*10 breakdown | 2000-2002 | 2020 |
+| 15 | All variables | Full table including all breakdowns/details, previous year's prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all breakdowns/details, previous year's prices | 2015-2016 | 2020 |
+
+**Country: Bulgaria**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.53 — Acquisitions less disposals of valuables | Total economy, previous year's prices, non-adjusted and seasonally adjusted data | 1995Q1-2012Q4 | 2020 |
+| 1A | P.53 — Acquisitions less disposals of valuables | Total economy, previous year's prices | 1995-2012 | 2020 |
+| 2 | D.9p_S.1311 — of which, payable to sub-sector Central Government (S.1311) D.9p_S.1313 — of which, payable to sub-sector Local Government (S.1313) | S.1311 — Central government S.1313 — Local government | 1995-2012 | 2020 |
+| 2 | D.29p — Other taxes on production, payable | S.13 — General Government | 1995-2011 | 2020 |
+| 3 | P.5 — Gross capital formation P.51g — Gross fixed capital formation by industry | Total economy and A*10 breakdowns (where mandatory), current and previous year's prices and chain-linked volumes | 1995-1997 | 2020 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds All COFOG divisions | 1995-1997 | 2020 |
+| 11 | D.92p — of which, investment grants | S.13 — General government, All COFOG divisions | 1995-2018 | 2020 |
+| 11 | D.92p — of which, investment grants | S.13 — General government, All COFOG groups | 2001-2018 | 2020 |
+| 20 | All variables | Total economy and A*21-industries included in S.13, current replacement costs and previous year's replacement costs | 2000-2015 | 2020 |
+| 22 | All variables | Total economy and A*21 breakdown, current and previous year's prices and chain linked volumes | 1995-1997 | 2020 |
+| 26 | All variables | All sectors | 1995-2007 | 2020 |
+| 26 | All variables | Sector S.13 general government | 2008-2013 | 2020 |
+
+**Country: Denmark**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdown, current prices and previous year's prices | 1995-2018 | 2020 |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | COICOP breakdown into P101 — Pre-primary and primary education, P102 — Secondary education, P103 — Post-secondary non tertiary education, P104 — Tertiary education, P105 — Education not definable by level, current prices and previous year's prices and chain-linked volumes | 1995-2018 | 2020 |
+| 8 | D.212 — Taxes and duties on imports excluding VAT D.214 — Taxes on products, except VAT and import taxes | All sectors, resources (D.214 to be provided including D.212, D.212 will be empty until expiration derogation) | 1995-2018 | 2020 |
+| 9 | D.212 — Taxes and duties on imports excluding VAT D.2122 — Taxes on imports, excluding VAT and import duties D.2122b — Monetary compensatory amounts on imports D.2122c — Excise duties D.2122d — General sales taxes D.2122e — Taxes on specific services D.2122f — Profits of import monopolies D.214 — Taxes on products, except VAT and import taxes D.214a — Excise duties and consumption taxes D.214b — Stamp taxes D.214c — Taxes on financial and capital transactions D.214d — Car registration taxes D.214e — Taxes on entertainment D.214f — Taxes on lotteries, gambling and betting D.214g — Taxes on insurance premiums D.214h — Other taxes on specific services D.214i — General sales or turnover taxes D.214j — Profits of fiscal monopolies D.214k — Export duties and monetary comp. amounts on exports D.214l — Other taxes on products n.e.c. | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds S.212 Institutions and bodies of the EU (D.214 and sub-items thereof to be provided including D.2122; D.2122 and sub-items thereof will be empty except for D.2122a until expiration derogation) | 1995-2018 | 2020 |
+| 11 | All (relevant) variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, COFOG groups 09.1 Pre-primary and primary education and 09.2 Secondary education (to be provided with a footnote explaining that a substantial but inseparable part of expenses in 09.1 belongs to 09.2) | 2001-2018 | 2020 |
+| 15 | P.11 — Market output P.13 — Non-market output other than for final use | A*64 breakdown, current prices (P.11 to be delivered including P.131; P.13 to be delivered excluding P.131 until expiration derogation) | 2010-2014 | 2020 |
+| 15 | P.11 — Market output P.13 — Non-market output other than for final use | A*64 breakdown, current prices and previous year's prices (P.11 to be delivered including P.131; P.13 to be delivered excluding P.131 until expiration derogation) | 2015-2016 | 2020 |
+| 26 | AN.11 + AN.12 — 2. Fixed assets + Inventories AN.12 — 16. Inventories | All sectors | 2012-2017 | 2020 |
+
+**Country: Germany**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.5 — 9. b) Changes in inventories | Total economy, current prices and previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data (to be provided excluding military inventories of general government until expiration of derogation) | 1995Q1-2012Q4 | 2020 |
+| 1A | P.52 — 9. b) Changes in inventories | Total economy, current prices and previous year's prices and chain linked volumes (to be provided excluding military inventories of general government until expiration of derogation) | 1995-2012 | 2020 |
+| 2 | P.52 + P.53 — Changes in inventories and acquisitions less disposals of valuables | All sectors (to be provided excluding military inventories of general government until expiration of derogation) | 1995-2012 | 2020 |
+| 3 | P.51g — 7. a) Gross fixed capital formation by industry – breakdown by fixed asset AN_F6 | Breakdown by fixed assets AN_F6 and NACE A*10 breakdown, current prices and previous year's prices and chain-linked volumes (to be provided for new fixed assets) | 1995-2018 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdown, current prices and previous year's prices | 1995-2018 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | Total economy, current prices and previous year's prices (to be provided excluding military inventories of general government until expiration of derogation) | 1995-2012 | 2020 |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | P023 — Narcotics (to be included in P022 — Tobacco), current prices and previous year's prices and chain-linked volumes | 1995-2018 | 2020 |
+| 8 | P.52 — Changes in inventories | Sector S.13 — General Government, uses (to be provided excluding military inventories of general government until expiration of derogation) | 1995-2012 | 2020 |
+| 8 | EMP — Employment (in numbers of persons and number of hours worked) | Sector S.13 — General Government; number of hours worked | 1995-2018 | 2020 |
+| 801 | P.52 + P.53 — Changes in inventories and net acquisition of valuables | S.13 — General Government, uses, current prices, non-seasonally adjusted (to be provided excluding military inventories of general government until expiration of derogation) | 1999Q1-2012Q4 | 2020 |
+| 9 | D.51c — Taxes on holding gains D.51d — Taxes on winnings from lottery or gambling D.51e — Other taxes on income n.e.c. | All sectors | 1995-2018 | 2020 |
+| 10 | P.51g — 4. Gross fixed capital formation (current prices) | NUTS 2 breakdown, total economy and A*10 breakdown | 2000-2001 | 2020 |
+| 10 | P.51g — 4. Gross fixed capital formation (current prices) | NUTS 2 breakdown, A*10 breakdown (to be provided for new fixed assets until expiration of derogation) | 2002-2017 | 2020 |
+| 11 | D.92 — of which, investment grants | S.13 — General government, All COFOG groups | 2001-2011 | 2020 |
+| 11 | P.5 — Gross capital formation | S.13 — General government, COFOG division 2 and groups in division 2 (to be provided excluding P.52 military inventories of general government until expiration of derogation) | 1995-2012 | 2020 |
+| 13 | All variables | NUTS 2 breakdown (the sum of S.14 + S.15 to be transmitted). | 2000-2017 | 2020 |
+| 20 | AN.1132g — 6. ICT equipment, gross AN.11321g — 7. Computer hardware, gross AN.11322g — 8. Telecommunications equipment, gross AN.1132n — 18. ICT equipment, net AN.11321n — 19. Computer hardware, net AN.11322n — 20. Telecommunications equipment, net | Total economy, current replacement costs and previous year's replacement costs | 2000-2017 | 2020 |
+| 22 | P.51g_AN1132 — 6. GFCF in ICT equipment P.51g_AN11321 — 7. GFCF in computer hardware P.51g_AN11322 — 8. GFCF in telecommunications equipment | Total economy, current prices and previous year's prices and chain-linked volumes | 2000-2017 | 2020 |
+| 22 | P.51g_AN.111 — 2. GFCF in dwellings P.51g_AN.112 — 3. GFCF in other buildings and structures P.51g_AN.113 + P.51g_AN.114 — 4. GFCF in machinery and equipment + weapon systems P.51g_AN.1131 — 5. GFCF in transport equipment P.51g_AN.115 — 10. GFCF in cultivate biological resources | A*21 breakdown (to be provided for new fixed assets), current prices and previous year's prices and chain-linked volumes | 1995-2017 | 2020 |
+| 26 | AN.1121 — 6. Buildings other than dwellings AN.1122 — 7. Other structures AN.12 — 16. Inventories | All sectors | 2012-2017 | 2020 |
+
+**Country: Estonia**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*21 breakdown, thousands of hours worked | 1995-1999 | 2020 |
+| 3 | ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdown for sections B, D, E, I, J, K, L, N, O, P, Q, R, T, thousands of hours worked | 2000-2018 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*64 breakdown for divisions 17, 18, 19, 21, 24, 27, 29_30, 29, 30, 37_39, 51, 58, 59_60, 62_63, 65, 66, 68A, 69_70, 73_75, 73, 74_75, 77, 78, 79, 94, 95, 97_98, thousands of persons | 1995-2017 | 2020 |
+| 3 | EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*64 breakdown for divisions 03, 17, 18, 19, 21, 24, 29_30, 29, 30, 37_39, 51, 58, 59_60, 62_63, 65, 66, 68A, 69_70, 73_75, 73, 74_75, 77, 78, 79, 94, 95, 97_98, thousands of persons | 1995-2017 | 2020 |
+| 3 | ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*64 breakdown for divisions 02, 03, 05_09, 10_12, 13_15, 16_18, 16, 17, 18, 19, 20, 21, 22_23, 22, 23, 24_25, 24, 25, 26, 27, 28, 29_30, 29, 30, 31_32, 33, 35, 36, 37_39, 45, 46, 47, 50, 51, 52, 53, 55_56, 58_60, 58, 59_60, 61, 62_63, 64, 65, 66, 68A, 69_70, 69_71, 71, 72, 73_75, 73, 74_75, 77, 78, 79, 80_82, 84, 85, 86, 87_88, 90_92, 93, 94, 95, 97_98, thousands of persons | 1995-2017 | 2020 |
+| 3 | ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*64 breakdown for divisions 41_43, 49, 96, thousands of persons | 1995-1996 | 2020 |
+| 3 | ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdowns for sections B, D, E, I, J, K, L, N, O, P, Q, R, T, thousands of persons | 1995-2018 | 2020 |
+| 3 | ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdowns for sections F, H, M, S, thousands of persons | 1995-1996 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdown for sections U, T, thousands of hours worked | 2000-2018 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdown for sections U, T, thousands of persons | 1995-2018 | 2020 |
+
+**Country: Ireland**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | All variables | Full table including all (mandatory) breakdowns/details | Transmission at t + 70 days | 2020 |
+| 3 | P.51c — 4. Consumption of fixed capital by industry | A*64 breakdown, current prices and previous year's prices and chain-linked volumes (A*38 breakdown to be provided until expiration derogation) | 1995-2017 | 2020 |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | P082 — Telephone and telefax equipment, P083 — Telephone and telefax services, P090 — Recreation and culture, P101 — Pre-primary and primary education, P102 — Secondary education, P103 — Post-secondary non-tertiary education, P104 — Tertiary education, P105 — Education not definable by level, P096 — Package holidays, P110 — Restaurants and hotels, P112 — Accommodation services, current prices and previous year's prices and chain-linked volumes | 1995-2018 | 2020 |
+
+**Country: Spain**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1A | D.21 — 2. a) Taxes on products D.31 — 2. b) Subsidies on products | Total economy, previous year's prices and chain linked volumes, transmissions at t + 2 months (balance D.21 minus D.31 to be delivered) | 1995-2018 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdown, current prices and previous year's prices | 1995-2018 | 2020 |
+| 3 | P.53 — 7. c) Acquisitions less disposals of valuables | Total economy, previous year's prices | 1995-2018 | 2020 |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | P103 — Post-secondary non-tertiary education (to be included in P104), P122 + P127 — Prostitution and Other services nec (to be provided excluding P122) current prices and previous year's prices and chain-linked volumes | 1995-2018 | 2020 |
+| 9 | D.611C — Compulsory employers' actual social contributions D.611V — Voluntary employers' actual social contributions D.613c — Compulsory households' actual social contributions D.613ce — Compulsory employees' actual social contributions D.613v — Voluntary households' actual social contributions | All sectors | 1995-2013 | 2020 |
+| 11 | All variables | All sectors, G0702 — Outpatient services G0703 — Hospital services (G0702 to be included in G0703) | 2001-2018 | 2020 |
+| 15 | All variables | Full table including all details/breakdown, previous year prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all details/breakdown, previous year's prices | 2015-2016 | 2020 |
+| 16 | K1 — Consumption of fixed capital B2A3N — Operating surplus and mixed income, net | Breakdown by NACE A*64, current prices | 2010-2015 | 2018 |
+| 17 | K1 — Consumption of fixed capital B2A3N — Operating surplus and mixed income, net | Breakdown by CPA P*64, current prices | 2010, 2015 | 2018 |
+| 26 | AN.11 — 3. Fixed assets AN.112 — 5. Other buildings and structures AN.113 + AN.114 — 8. Machinery and equipment + Weapons systems AN.115 — 9. Cultivated biological resources AN.117 — 10. Intellectual property products | S.1 Total economy | 2000-2011 | 2020 |
+
+**Country: France**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 2 | TC — of which payable tax credits that exceed the taxpayer's liability | S.13 — General government | 2012-2018 | 2020 |
+| 3 | P.51c — 4. Consumption of fixed capital by industry | A*64 breakdown, current prices and previous year's prices and chain-linked volumes (A*38 breakdown to be provided until expiration derogation) | 1995-2017 | 2020 |
+| 3 | B.2n + B.3n — 5. Net operating surplus and net mixed income | A*64 breakdown, current prices (A*38 breakdown to be provided) | 1995-2017 | 2020 |
+| 3 | B.2n + B.3n — 5. Net operating surplus and net mixed income D.29 - D.39 — 6. Other taxes on production less other subsidies on production D1 — 9. Compensation of employees by industry D.11 — 9. a) Wages and salaries by industry | A*21 breakdown, current prices, transmission at t + 9 months | Transmission at t + 21 months | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdown, thousands of persons, thousands of hours worked and thousands of jobs, transmission at t + 9 months | Transmission at t + 21 months | 2020 |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | P023 — Narcotics P101 — Pre-primary and primary education P102 — Secondary education P103 — Post-secondary non-tertiary education P104 — Tertiary education P105 — Education not definable by level, current prices and previous year's prices and chain linked volumes | 1995-2018 | 2020 |
+| 10 | B.1g — 1. Gross value added at basic prices (volume growth rate based on previous year's prices) | NUTS 2 breakdown, total, transmission at t + 24 months | Transmission at t + 27 months | 2020 |
+| 10 | P.51g — 4. Gross fixed capital formation (current prices) | NUTS 2 breakdown, total and A*10 breakdown, transmission at t + 24 months | Transmission at t + 27 months | 2020 |
+
+**Country: Croatia**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | All variables | Full table including all breakdowns/details | 1995Q1-1999Q4 | 2020 |
+| 1Q | All variables | Full table including all breakdowns/details | Transmission at t + 70 days | 2020 |
+| 1Q | P.3 — 5. a) Household final consumption expenditure (domestic concept) | Breakdown by durability, current and previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data | 2000Q1-2019Q4 | 2020 |
+| 1Q | P.5 — 9 Gross capital formation | Total economy, current prices and previous year's prices and chain-linked volumes, non-adjusted and seasonally adjusted data (to be provided excluding P.53) | 2000Q1-2019Q4 | 2020 |
+| 1Q | P.51g — 9. a) Gross fixed capital formation | AN_F6: breakdown of fixed assets, current and previous year's prices and chain-linked volumes, non-adjusted and seasonally adjusted data | 2000Q1-2019Q4 | 2020 |
+| 1Q | P.53 — 9. c) Acquisitions less disposals of valuables | Total economy, current prices and previous year's prices, non-adjusted and seasonally adjusted data | 2000Q1-2019Q4 | 2020 |
+| 1A | All variables | Full table including all breakdowns/details, transmission at t + 2 months | Transmission at t + 70 days | 2020 |
+| 1A | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees | A*10 breakdown, current prices | 1995-1999 | 2018 |
+| 1A | D.11 - 17. a) Wages and salaries D.12 - 17. b) Employers' social contributions | Total economy and A*10 breakdown, current prices | 1995-1999 | 2018 |
+| 1A | P.3 — 5. a) Household final consumption expenditure (domestic concept) | Breakdown by durability, current prices and previous year's prices and chain linked volumes | 1995-2004 | 2020 |
+| 1A | P.5 — 9 Gross capital formation | Total economy, current prices and previous year's prices and chain-linked volumes, non-adjusted and seasonally adjusted data (to be provided excluding P.53) | 1995-2018 | 2020 |
+| 1A | P.51g — 9. a) Gross fixed capital formation | AN_F6 breakdown of fixed assets, current prices and previous year's prices and chain linked volumes | 1995-2004 | 2020 |
+| 1A | P.53 — 9. c) Acquisitions less disposals of valuables | Total economy, current price's and previous year's prices | 1995-2018 | 2020 |
+| 1A | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE — 16. c) Self employed EEM — 16. d) Employees | A*10 breakdown, thousands of persons employed | 1995-1999 | 2018 |
+| 1A | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE — 16. c) Self employed EEM — 16. d) Employees | Total economy and A*10 breakdown, thousands of hours worked | 1995-1999 | 2018 |
+| 2 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 1995-2000 | 2020 |
+| 2 | P.5 — Gross capital formation P.52 + P.53 — Changes in inventories and acquisitions less disposals of valuables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds (to be provided excluding P.53) | 2001-2009 | 2020 |
+| 2 | NP — Acquisitions less disposals of non-financial non-produced assets | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 2001-2009 | 2020 |
+| 2 | OP5ANP — Gross capital formation and acquisitions less disposals of non-financial non-produced assets, | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, all COFOG divisions and groups (to be provided excluding NP and P.53) | 2001-2009 | 2020 |
+| 3 | All variables | A*10/A*21 breakdowns, current prices and previous year's prices and chain-linked volumes, transmission at t + 9 months | Transmission at t + 21 months | 2020 |
+| 3 | P.51c — 4. Consumption of fixed capital by industry | A*21 and A*64 breakdowns, previous year's prices and chain linked volumes | 1995 - 2018 | 2020 |
+| 3 | P.5 — 9. Gross capital formation | Total economy, current prices and previous year's prices and chain linked volumes (to be provided excluding P.53) | 1995-2018 | 2020 |
+| 3 | P.51g — 7. a) Gross fixed capital formation by industry | A*10 breakdown, current prices and previous year's prices and chain-linked volumes | 1995-2004 | 2020 |
+| 3 | P.51g — 7. a) Gross fixed capital formation by industry, breakdown of fixed assets AN_F6 | A*10 breakdown and AN_F6 breakdown of fixed assets, current prices and previous year's prices and chain-linked volumes | 1995-2004 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | Total economy and A*10 breakdown, previous year's prices and chain linked volumes | 1995-2018 | 2020 |
+| 3 | P.53 — 7. c) Acquisitions less disposals of valuables | Total economy, current prices and previous year's prices | 1995-2018 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 and A*64 breakdowns, thousands of persons | 1995-1999 | 2018 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*21 and A*64 breakdowns, thousands of hours worked | 1995-1999 | 2018 |
+| 5 | All variables | Full table including all breakdowns/details | 1995-2004 | 2020 |
+| 6 | All variables | Transactions, assets and liabilities, total economy and all (sub) sectors, consolidated and non-consolidated. | 1995-2001 | 2020 |
+| 7 | All variables | Transactions, assets and liabilities, total economy and all (sub) sectors, consolidated and non-consolidated. | 1995-2000 | 2020 |
+| 8 | All variables | All sectors, uses and resources | 1995-2001 | 2020 |
+| 8 | P.53 — Acquisitions less disposals of valuables | S.1 — Total Economy, uses | 2002-2018 | 2020 |
+| 8 | NP — Acquisitions less disposals of non-financial non-produced assets | S.13 — General government, uses | 2001-2009 | 2020 |
+| 801 | NP — Acquisitions less disposals of non-financial non-produced assets | S.13 — General government, uses, current prices, non-seasonally adjusted | 2001Q1-2009Q4 | 2020 |
+| 9 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 1995-2001 | 2020 |
+| 9 | D.612 — Employers' imputed social contributions | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 1995-2012 | 2020 |
+| 9 | D.613c — Compulsory households' actual social contributions D.613ce — Compulsory employees' actual social contributions D.613v — Voluntary households' actual social contributions | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 2002-2018 | 2020 |
+| 10 | B.1g — 1. Gross value added at basic prices (volume growth rate based on previous year's prices) | NUTS 2 breakdowns, total economy | 2000-2018 | 2020 |
+| 10 | D.1 — 3. Compensation of employees (current prices) P.51g — 4. Gross fixed capital formation (current prices) | Total economy and all NUTS 2 breakdowns, A*10 breakdowns | 2000-2006 | 2020 |
+| 10 | ETO — 5. Total employment in thousands of persons and thousands of hours worked; | All NUTS 2 breakdowns, total economy, thousands of persons, transmission at t + 12 months | Transmission at t + 24 months | 2019 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, all COFOG divisions | 1995-2000 | 2020 |
+| 11 | OP5ANP — Gross capital formation + Acquisitions less disposals of non-financial non-produced assets | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, all COFOG divisions and groups (to be provided excluding NP and P.53) | 2001-2009 | 2020 |
+| 11 | P.5 — Gross capital formation | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG divisions and groups (to be provided excluding P.53) | 2001-2009 | 2020 |
+| 11 | NP — Acquisitions less disposals of non-financial non-produced assets, | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, all COFOG divisions and groups | 2001-2009 | 2020 |
+| 13 | All variables | All NUTS 2 breakdowns | 2000-2011 | 2020 |
+| 15 | All variables | Full table including all details/breakdowns, previous year's prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all details/breakdowns, previous year's prices | 2015-2016 | 2020 |
+| 20 | All variables | Full table including all breakdowns/details | 2000-2017 | 2020 |
+| 22 | All variables | Full table including all breakdowns/details | 1995-2004 | 2020 |
+| 26 | All variables | Full table including all breakdowns/details, excluding AN.111 Dwellings | 1995-2017 | 2020 |
+| 27 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 1999Q1-2001Q4 | 2020 |
+
+**Country: Cyprus**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.53 — 9. c) Acquisitions less disposals of valuables | Total economy, current prices and previous year's prices, non-adjusted and seasonally adjusted data | 1995Q1-2017Q4 | 2018 |
+| 1Q | All variables | Total economy and all NACE-breakdowns, current and previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data | Transmission at t + 70 days | 2020 |
+| 1A | All variables | Total economy and all NACE-breakdowns, current and previous year's prices and chain linked volumes, transmission at t + 2 months | Transmission at t + 70 days | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | Total economy and A*10 breakdown, current prices and previous year's prices, transmission at t + 9 months | Transmission at t + 21 months | 2020 |
+| 26 | AN.113 + AN.114 — 8. Machinery and equipment + Weapons systems; AN.117 — 10. Intellectual property products | All sectors | 2012-2017 | 2020 |
+| 26 | AN.12 — 16. Inventories | All sectors | 2012-2017 | 2020 |
+| 26 | AN.211 — 20. Land | S.14 + S.15 | 1995-2017 | 2020 |
+
+**Country: Latvia**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 3 | P.1 — 1. Output at basic prices by industry P.2 — 2. Intermediate consumption at purchaser's prices by industry D1 — 9. Compensation of employees by industry D.11 — 9. a) Wages and salaries by industry | A*64 breakdowns, current prices | 1995-1999 | 2020 |
+| 3 | B.1g — 3. Gross value added at basic prices by industry | A*64 breakdowns, current prices and previous year's prices and chain-linked volumes | 1995-1999 | 2020 |
+| 3 | B.2n + B.3n — 5. Net operating surplus and net mixed income D.29-D.39 — 6. Other taxes on production less other subsidies on production | A*21 and A*64 breakdowns, current prices | 1995-2000 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdowns, current prices and previous year's prices | 1995-1999 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdowns, previous year's prices | 2000-2009 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 and A*64 breakdown, thousands of persons and thousands of hours worked (where mandatory) | 1995-1999 | 2020 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG groups | 2001-2006 | 2020 |
+| 15 | All variables | Full table including all details/breakdowns, previous year's prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all details/breakdown, previous year's prices | 2015-2016 | 2020 |
+
+**Country: Luxembourg**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | All variables | Total economy and all NACE breakdowns, current and previous year's prices and chain linked volumes, non-adjusted and all adjusted data. (This derogation will replace the derogation requesting a t + 90 days delay in calendar year 2016). | Transmission at t + 85 days | 2020 |
+| 1A | All variables | Total economy and all NACE breakdowns, current and previous year's prices and chain linked volumes, transmission at t + 2 months. (This derogation will replace the derogation requesting a t + 90 days delay in calendar year 2016). | Transmission at t + 85 days | 2020 |
+| 6 | All variables | Transactions and other changes, assets and liabilities, total economy and all (sub)sectors, consolidated and non-consolidated | 1995-1998 | 2020 |
+| 7 | All variables | Assets and liabilities, total economy and all (sub)sectors, consolidated and non-consolidated | 1995-1998 | 2020 |
+
+**Country: Hungary**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.51g — 9. a) Gross fixed capital formation | AN_F6: breakdown of fixed assets into: AN.117 Intellectual property products, current prices, previous year's prices and chain-linked volume, non-adjusted and seasonally adjusted data | 1995Q1-2011Q4 | 2020 |
+| 2 | P.52 + P.53 — Changes in inventories and acquisitions less disposals of valuables OP5ANP — Gross capital formation and acquisitions less disposals of non-financial non-produced assets | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security fund (to be provided excluding P.53 until expiration of derogation) | 1995-2018 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry EEM — 8. b) employees by industry | Total economy and A*21 breakdown, hours worked | 1995-2009 | 2020 |
+| 8 | P.53 — Acquisitions less disposals of valuables | All sectors, uses | 1995-2018 | 2020 |
+| 8 | NP — Acquisitions less disposals of non-produced assets | All sectors except S.13 general government, uses | 1995-2018 | 2020 |
+| 20 | AN.1132g — 6. ICT equipment, gross; AN.11321g — 7. Computer hardware, gross; AN.11322g — 8. Telecommunications equipment, gross; AN.117g — 11. Intellectual property products, gross; AN.1173g — 12. Computer software and databases, gross; AN.1132n — 18. ICT equipment, net; AN.11321n — 19. Computer hardware, net; AN.11322n — 20. Telecommunications equipment, net; AN.117n — 23. Intellectual property products, net; AN.1173n — 24. Computer software and databases, net | Total economy and A*21 breakdown (where mandatory), current replacement costs and previous year's replacement costs | 2000-2011 | 2020 |
+| 22 | P.51g_AN.1132 — 6. GFCF in ICT equipment; P.51g_AN.11321 — 7. GFCF in computer hardware; P.51g_AN.11322 — 8. GFCF in telecommunications equipment; P.51g_AN.1173 — 12. GFCF in computer software and databases | Total economy, current prices and previous year's prices and chain-linked volumes | 2000-2011 | 2020 |
+| 26 | AN.211 — 20. Land | Sector S.14 + S.15 — Households + Non-profit institutions serving households | 1995-2017 | 2020 |
+
+**Country: Malta**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | All variables | Full table including all breakdowns/details | Transmission at t + 70 days | 2020 |
+| 1Q | All variables | Total economy and all breakdowns (NACE, AN_F6, durability), current prices and previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data | 1995Q1-1999Q4 | 2020 |
+| 1Q | B.1g — 1. Gross value added at basic prices | A*10-breakdown, previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data | 2000Q1-2014Q4 | 2020 |
+| 1Q | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*10 breakdown (where mandatory), thousands of hours worked, non-adjusted and seasonally adjusted data | 1995Q1-1999Q4 | 2020 |
+| 1A | All variables | Full table including all breakdowns/details, transmission at t + 2 months | Transmission at t + 70 days | 2020 |
+| 1A | All variables | Total economy and all breakdowns (NACE, AN_F6, durability), previous year's prices and chain linked volumes | 1995-1999 | 2020 |
+| 1A | B.1g — 1. Gross value added at basic prices | A*10 breakdown, previous year's prices and chain linked volumes | 2000-2014 | 2020 |
+| 1A | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*10 breakdown (where mandatory), thousands of hours worked | 1995-1999 | 2020 |
+| 3 | All variables | Total economy and all NACE- and AN_F6-breakdowns, previous year's prices and chain-linked volumes | 1995-1999 | 2020 |
+| 3 | B.1g — 3. Gross value added at basic prices by industry | A*21 and A*64 breakdowns, previous year's prices and chain linked volumes | 2000-2018 | 2020 |
+| 3 | P.51c — 4. Consumption of fixed capital by industry | A*21 and A*64 breakdowns, previous year's prices and chain-linked volumes | 2000-2018 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdown, current prices and previous year's prices | 1995-2007 | 2020 |
+| 3 | P.52 — 7. b) Changes in inventories by industry | A*10 breakdown, current prices and previous year's prices | Transmission at t + 48 months | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*21 breakdown, thousands of hours worked | 1995-1999 | 2020 |
+| 5 | All variables | All COICOP breakdowns (where mandatory), previous year's prices and chain-linked volumes | 1995-1999 | 2020 |
+| 8 | All variables | All sectors, uses and resources | 1995-2004 | 2020 |
+| 8 | EMP — Employment (in number of persons and number of hours worked) | Sector S.13 General government, in number of persons | 1995-1999 | 2020 |
+| 8 | EMP — Employment (in number of persons and number of hours worked) | Sector S.13 General government, in numbers of hours worked | 1995-2018 | 2020 |
+| 801 | All variables | All sectors, uses and resources, current prices, non-seasonally adjusted and seasonally adjusted | 1999Q1-2004Q4 | 2020 |
+| 10 | B.1g — 1. Gross value added at basic prices (volume growth rate based on previous year's prices) | NUTS 2 breakdown, total economy | 2000-2017 | 2020 |
+| 13 | All variables | NUTS 2 breakdown | 2000-2004 | 2020 |
+| 15 | All variables | Full table including all details/breakdowns, current prices | Transmission at t + 54 months | 2020 |
+| 15 | All variables | Full table including all details/breakdown, previous year prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all details/breakdowns, current prices | Transmission at t + 54 months | 2020 |
+| 16 | All variables | Full table including all details/breakdown, previous year prices | 2015-2016 | 2020 |
+| 16 | Table 16 — Five additional tables (use table at basic prices, use table for domestic output, use table for imports, trade & transport margins, taxes less subsidies on products) | Full additional table including all breakdowns/details, current prices | Transmission at t + 54 months | 2020 |
+| 17 | All variables | Full table including all details/breakdowns, current prices | Transmission at t + 54 months | 2020 |
+| 20 | All variables | Full table including all details/breakdowns | 2000-2017 | 2020 |
+| 22 | All variables | Total economy and A*21 breakdown, previous year's prices and chain linked volumes | 1995-1999 | 2020 |
+| 26 | All (mandatory) variables, excluding AN.111 — Dwellings | All (mandatory) sectors | 1995-2017 | 2020 |
+| 27 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government, including counterpart data by all sectors | 1999Q1-2003Q4 | 2020 |
+
+**Country: Austria**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 13 | All variables | NUTS 2 breakdown (total S.14 + S.15 to be provided until expiration derogation) | 2012-2017 | 2020 |
+| 26 | AN.11 + AN.12 — 2. Fixed assets + Inventories AN.1121 — 6. Buildings other than dwellings AN.1122 — 7. Other structures AN.12 — 16. Inventories | All sectors | 2012-2017 | 2020 |
+
+**Country: Poland**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees | Total economy, current prices, non-adjusted and seasonally adjusted data | 1995Q1-1998Q4 | 2020 |
+| 1Q | D.11 — 17. a) Wages and salaries D.12 — 17.b) Employers' social contributions | Total economy, current prices, non-adjusted and seasonally adjusted data | 1995Q1-2000Q4 | 2020 |
+| 1Q | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees D.11 — 17. a) Wages and salaries D.12 — 17.b) Employers' social contributions | A*10 breakdown, current prices, non-adjusted and seasonally adjusted data | 1995Q1-2000Q4 | 2020 |
+| 1Q | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees D.11 — 17. a) Wages and salaries D.12 — 17.b) Employers' social contributions | Total economy and A*10 breakdown, current prices, non-adjusted and seasonally adjusted data | Transmission at t + 95 days | 2020 |
+| 1Q | B.2g + B.3g — 13. Gross operating surplus and gross mixed income D.2 — 14. Taxes on production and imports D.3 — 15. Subsidies | Total economy, current prices, non-adjusted and seasonally adjusted data | 1995Q1-1998Q4 | 2020 |
+| 1Q | B.2g + B.3g — 13. Gross operating surplus and gross mixed income D.2 — 14. Taxes on production and imports D.3 — 15. Subsidies | Total economy, current prices, non-adjusted and seasonally adjusted data | Transmission at t + 95 days | 2020 |
+| 1Q | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE — 16. c) Self employed EEM — 16. d) Employees | Total economy and A*10 breakdown, thousands of persons and thousands of hours worked, non-adjusted and seasonally adjusted data | 1995Q1-2000Q4 | 2020 |
+| 1Q | P.6 — 10. Exports of goods (fob) and services P.7 — 11. Imports of goods (fob) and services, geographical breakdown | P6/P7 breakdown (where mandatory) into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area), S.22 non-member countries and international organisations non resident of EU, current prices and previous year's prices and chain linked volumes, non-adjusted data | Transmission at t + 65 days | 2020 |
+| 1Q | P.6 — 10. Exports of goods (fob) and services P.7 — 11. Imports of goods (fob) and services, geographical breakdown | P6/P7 breakdown (where mandatory) into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area), S.22 non-member countries and international organisations non resident of EU, current prices and chain linked volumes, seasonally adjusted data | Transmission at t + 65 days | 2020 |
+| 1A | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE – 16. c) Self employed EEM – 16. d) Employees | Total economy and A*10 breakdown, thousands of persons and thousands of hours worked | 1995-2000 | 2020 |
+| 1A | B.2g + B.3g — 13. Gross operating surplus and gross mixed income D.2 — 14. Taxes on production and imports D.3 — 15. Subsidies | Total economy, current prices, transmission at t + 2 months | Transmission at t + 95 days | 2020 |
+| 1A | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees D.11 — 17. a) Wages and salaries D.12 — 17. b) Employers' social contributions | Total economy and A*10 breakdown, current prices, transmission at t + 2 months | Transmission at t + 95 days | 2020 |
+| 1A | P.6 — 10. Exports of goods (fob) and services P.7 — 11. Imports of goods (fob) and services, geographical breakdown | P6/P7 breakdown (where mandatory) into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area), S.22 non-member countries and international organisations non resident of EU, current prices and previous year's prices and chain linked volumes, transmission at t + 2 months | Transmission at t + 65 days | 2020 |
+| 2 | NP — Acquisitions less disposals of non-financial non-produced assets OP5ANP — Gross capital formation and acquisitions less disposals of non-financial non produced assets | S.1311 — Central government S.1313 — Local government S.1314 — Social security funds | 1995-2009 | 2020 |
+| 2 | NP — Acquisitions less disposals of non-financial non-produced assets | S.13 — General government | 1995-2004 | 2020 |
+| 2 | OP5ANP — Gross capital formation and acquisitions less disposals of non-financial non produced assets | S.13 — General government (to be provided excluding NP until expiration derogation) | 1995-2004 | 2020 |
+| 2 | D.995 — Capital transfers from general government to relevant sectors representing taxes and social contributions assessed but unlikely to be collected | S.1313 — Local government | 1995-2000 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | Total economy and A*21 breakdown, thousands of persons and thousands of hours worked | 1995-2000 | 2020 |
+| 3 | EMP — 8. Employment by industry (thousands of persons, thousands of hours worked and thousands of jobs) ESE — 8. a) self employed by industry (thousands of persons, thousands of hours worked and thousands of jobs) EEM — 8. b) employees by industry (thousands of persons, thousands of hours worked and thousands of jobs) | A*64 breakdown, thousands of persons | 1995-2009 | 2020 |
+| 3 | P.1 — 1. Output at basic prices by industry P.2 — 2. Intermediate consumption at purchaser's prices by industry D.29-D.39 — 6. Other taxes on production less other subsidies on production D.1 — 9. Compensation of employees by industry D.11 — 9. a) Wages and salaries by industry | A*64 breakdown, current prices, transmission at t + 21 months | Transmission at t + 24 months | 2020 |
+| 3 | B.1g — 3. Gross value added at basic prices by industry P.51c — 4. Consumption of fixed capital by industry | A*64 breakdown, current prices and previous year's prices and chain-linked volumes, transmission at t + 21 months | Transmission at t + 24 months | 2020 |
+| 8 | EMP — Employment (in number of persons and number of hours worked) | Sector S.13 General Government, thousands of persons and thousands of hours worked | 1995-2009 | 2020 |
+| 8 | NP — Acquisitions less disposals of non-produced assets | All sectors, uses | 1995-2004 | 2020 |
+| 801 | NP — Acquisitions less disposals of non-produced assets | All sectors, uses, current prices, non-seasonally adjusted data | 1999Q1-2004Q4 | 2020 |
+| 10 | EMP — 5. Employment in thousands of persons and thousands of hours worked ETO — Total EEM — Employees | All NUTS breakdowns, A*10 breakdown, thousands of hours worked | 2000-2007 | 2020 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG divisions | 1995-2001 | 2020 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG groups | 2001 | 2020 |
+| 11 | NP — Acquisitions less disposals of non-financial non-produced assets | S.13 — General government All COFOG breakdowns | 2002-2009 | 2020 |
+| 11 | OP5ANP — Gross capital formation + Acquisitions less disposals of non-financial non-produced assets | S.13 — General government All COFOG breakdowns (to be provided excluding NP until expiration derogation) | 2002-2009 | 2020 |
+| 11 | NP — Acquisitions less disposals of non-financial non-produced assets OP5ANP — Gross capital formation + Acquisitions less disposals of non-financial non-produced assets | S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG breakdowns | 1995-2009 | 2020 |
+| 15 | All variables | Full table including all details/breakdown, previous year's prices | 2015-2016 | 2020 |
+| 16 | All variables | Full table including all details/breakdown, previous year's prices | 2015-2016 | 2020 |
+| 20 | AN.1132g — 6. ICT equipment, gross AN.11321g — 7. Computer hardware, gross AN.11322g — 8. Telecommunications equipment, gross AN.1139g + AN.114g — 9. Other machinery and equipment, gross + weapon systems, gross AN.1132n — 18. ICT equipment, net AN.11321n — 19. Computer hardware, net AN.11322n — 20. Telecommunications equipment, net AN.1139n + AN.114n — 21. Other machinery and equipment, net + weapon systems, net | Total economy, current replacement costs and previous year's replacement costs | 2000-2017 | 2020 |
+| 22 | P.51g_AN.11 — 1. GFCF in fixed assets P51g_AN.1132 — 6. GFCF in ICT equipment P51g_AN.11321 — 7. GFCF in computer hardware P51g_AN.11322 — 8. GFCF in telecommunications equipment P51g_AN.1139 + AN.114 — 9. GFCF in other machinery and equipment + weapon systems | Total economy, current prices and previous year's prices and chain linked volumes | 2000-2017 | 2020 |
+| 26 | AN.211 — 20. Land | S.14 + S.15 — Households + Non-profit institutions serving households | 1995-2009 | 2020 |
+
+**Country: Portugal**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 17 | All variables | Full table including all details/breakdowns | 2010 | 2020 |
+
+**Country: Romania**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.3 — 5. a) Household final consumption expenditure (domestic concept) | Breakdown by durability, current and previous year's prices and chain linked volumes, seasonally adjusted data | 1995Q1-2017Q4 | 2018 |
+| 1Q | P.51g — 9. a) Gross fixed capital formation | AN_F6: breakdown of fixed assets, current and previous year's prices and chain linked volumes, non-adjusted and seasonally adjusted data | 1995Q1-2019Q4 | 2020 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG groups | 2001-2006 | 2020 |
+| 20 | All variables | Total economy and A*21 breakdown, current replacement costs and previous year's replacement costs | 2000-2017 | 2020 |
+| 22 | P.51g_AN.1132 GFCF in ICT equipment P.51g_AN.11321 GFCF in computer hardware P.51g_AN.11322 GFCF in telecommunications equipment | Total economy, current prices and previous year's prices and chain linked volumes | 2000-2017 | 2020 |
+| 26 | All mandatory variables excluding AN.111 Dwellings | Total economy and all mandatory sector breakdowns | 1995-2017 | 2020 |
+
+**Country: Slovenia**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG divisions | 1995-1998 | 2020 |
+| 26 | AN.211 — 20. Land | S.14 + S.15 — Households + Non-profit institutions serving households | 1995-2014 | 2018 |
+| 27 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, including counterpart data by all sectors | 1999Q1-2003Q4 | 2020 |
+
+**Country: Slovakia**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 5 | P.3 — 1. Final consumption expenditure by purpose (Household) | P102 — Secondary education and P103 — Post-secondary non-tertiary education, current prices and previous year's prices and chain-linked volumes | 1995-2017 | 2019 |
+| 11 | All variables | S.13 — General government S.1311 — Central government S.1313 — Local government S.1314 — Social security funds, All COFOG groups | 2001-2002 | 2019 |
+| 20 | All variables | Total economy and A*21 breakdown, current replacement costs and previous year's replacement costs | 2000-2003 | 2019 |
+| 26 | AN.11 + AN.12 — 2. Fixed assets + Inventories AN.1121 — 6. Buildings other than dwellings AN.1122 — 7. Other structures AN.12 — 16. Inventories | All sectors | 2012-2016 | 2019 |
+| 26 | AN.11 — 3. Fixed assets AN.112 — 5. Other buildings and structures AN.113 + AN.114 — 8. Machinery and equipment + Weapons systems AN.115 — 9. Cultivated biological resources AN.117 — 10. Intellectual property products | All sectors (where mandatory) | 2000-2017 | 2019 |
+| 26 | AN.211 — 20. Land | S.14 + S.15:Households and non-profit institutions serving households | 1995-2016 | 2019 |
+
+**Country: Finland**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | All variables | Full table including all (mandatory) breakdowns/details | Transmission at t + 65 days | 2020 |
+| 1A | All variables | Full table including all (mandatory) breakdowns/details, transmission at t + 2 months | Transmission at t + 65 days | 2020 |
+
+**Country: Sweden**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 1Q | P.6 — 10. Exports of goods (fob) and services P.7 — 11. Imports of goods (fob) and services | P6/P7 l breakdown (where mandatory) into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area), current prices and previous year's prices and chain-linked volumes, non-adjusted and seasonally adjusted data (P6/P7 breakdown to be provided excluding data on euro area/European institutions and bodies until expiration of the derogation) | 1995Q1-2019Q4 | 2020 |
+| 1Q | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees D.11 — 17. a) Wages and salaries D.12 — 17.b) Employers' social contributions | A*10 breakdown of compensation of resident employees, current prices, non-adjusted and seasonally adjusted data (to be provided excluding compensation of employees abroad until expiration of the derogation) | 1995Q1-2019Q4 | 2020 |
+| 1Q | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE — 16. c) Self employed EEM — 16. d) Employees | Total economy and A*10 breakdown of employment of residents, thousands of persons and thousands of hours worked, non-adjusted and seasonally adjusted data (to be provided excluding employment abroad until expiration of the derogation) | 1995Q1-2019Q4 | 2020 |
+| 1A | P.6 — 10. Exports of goods (fob) and services P.7 — 11. Imports of goods (fob) and services | P6/P7 breakdown (where mandatory) into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area), current prices and previous year's prices and chain-linked volumes (P6/P7 breakdown to be provided excluding data on euro area/European institutions and bodies until expiration of the derogation) | 1995-2018 | 2020 |
+| 1A | D.1 — 17. Compensation of employees working in resident production units and compensation of resident employees D.11 — 17. a) Wages and salaries D.12 — 17. b) Employers' social contributions | A*10 breakdown of compensation of resident employees, current prices, non-adjusted and seasonally adjusted data (to be provided excluding compensation of employees abroad until expiration of the derogation) | 1995-2018 | 2020 |
+| 1A | EMP — 16. b) Employment in resident production units (thousands of persons employed, thousands of hours worked and thousands of jobs) and employment of residents (thousands of persons) ESE — 16. c) Self employed EEM — 16. d) Employees | Total economy and A*10 breakdown of employment of residents, thousands of persons and thousands of hours worked, non-adjusted and seasonally adjusted data (to be provided excluding employment abroad until expiration of the derogation) | 1995-2018 | 2020 |
+| 3 | P.1 — 1. Output at basic prices by industry P.2 — 2. Intermediate consumption at purchaser's prices by industry B.2n + B.3n — 5. Net operating surplus and net mixed income D.29 - D.39 — 6. Other taxes on production less other subsidies on production | Total economy and A*21 breakdown, current prices), transmission at t + 9 months | Transmission at t + 21 months | 2020 |
+| 9 | D.61SC — Social insurance scheme service charges D.614 — Households' social contributions supplements | S.212 Institutions and bodies of the EU | 2012-2018 | 2020 |
+| 15 | P7 — Imports of goods and services | P7 breakdown into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area) by CPA P*64 breakdown, current prices and previous year's prices (where mandatory) (to be provided excluding data on euro area/European institutions and bodies until expiration of the derogation) | 2010-2016 | 2020 |
+| 15 | All variables | Breakdown into industries/products 36, 37-39 (to be provided as sum 36-37 and 38-39 until expiration of the derogation), Breakdown into industries/products 45, 46, 47 (to be provided as sum 45-47 until expiration of the derogation), current prices and previous year's prices (where mandatory) | 2010-2016 | 2020 |
+| 16 | P6 — Exports of goods and services | P6 breakdown into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area) by CPA P*64 breakdown, current prices and previous year's prices (where mandatory) (to be provided excluding data on euro area/European institutions and bodies until expiration of the derogation) | 2010-2016 | 2020 |
+| 16 | All variables | Breakdown into industries/products 36, 37-39 (to be provided as sum 36-37 and 38-39 until expiration of the derogation), Breakdown into industries/products 45, 46, 47 (to be provided as sum 45-47 until expiration of the derogation), current prices and previous year's prices (where mandatory) | 2010-2016 | 2020 |
+| 16 | B2A3N — Operating surplus and mixed income, net B2A3G — Operating surplus and mixed income, gross | Breakdown by NACE A*64 breakdown, current prices | 2010-2016 | 2020 |
+| 17 | P6 — Exports of goods and services P7 — Imports of goods and services | P6/P7 breakdown into S.2I MS whose currency is the euro, the ECB and other institutions and bodies of the euro area, and S.21-S.2I MS whose currency is not the euro and European institutions and bodies (except the ECB and other institutions and bodies of the euro area) by CPA P*64 breakdown, current prices (to be provided excluding data on euro area/European institutions and bodies until expiration of the derogation) | 2010, 2015 | 2020 |
+| 17 | All variables | Breakdown into products 36, 37-39 (to be provided as sum 36-37 and 38-39 until expiration of the derogation), Breakdown into products 45, 46, 47 (to be provided as sum 45-47 until expiration of the derogation), current prices | 2010, 2015 | 2020 |
+| 17 | B2A3N — Operating surplus and mixed income, net B2A3G — Operating surplus and mixed income, gross | Breakdown by CPA P*64, current prices | 2010, 2015 | 2020 |
+| 20 | AN.11g 1. Fixed assets, gross; AN.111g 2. Dwellings, gross; AN.112g 3. Other buildings and structures, gross; AN.113g + AN.114g 4. Machinery and equipment+weapon systems, gross; AN.1131g 5. Transport equipment, gross; AN 1132g 6. ICT equipment, gross; AN.11321g 7. Computer hardware gross; AN.11322g 8. Telecommunications equipment, gross; AN.1139g + AN.114g 9. Other machinery equipment+weapon systems, gross; AN.115g 10. Cultivated biological resources, gross; AN.117g 11. Intellectual property products, gross; AN.1173g 12. Computer software and databases, gross | Total economy and NACE A*21 breakdown, current replacement costs and previous year's replacement costs | 2000-2017 | 2020 |
+
+**Country: United Kingdom**
+
+| Table | Code and variable | Detailed description of derogation | Period covered by derogation/transmission delay | First transmission in |
+| --- | --- | --- | --- | --- |
+| 26 | All variables | All sectors (data for total economy and institutional sectors on AN.1, AN.11, AN.11 + 12, AN.111, AN.112, AN.1121, AN.1122, AN.113 + AN.114, AN.115, including meta data, to be provided against reduced quality until expiration of derogation) | 1995-2014 | 2018 |

@@ -1,0 +1,352 @@
+---
+title: "2012/160/EU: Commission Decision of 1 March 2012 concerning the national provisions notified by the German Federal Government maintaining the limit values for lead, barium, arsenic, antimony, mercury and nitrosamines and nitrosatable substances in toys beyond the entry into application of Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys Text with EEA relevance"
+identifier: "32012D0160"
+eli: "http://data.europa.eu/eli/dec/2012/160(1)/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2012-03-01
+entry_into_force: 2012-06-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012D0160"
+retrieved: 2026-10-11
+---
+
+# 2012/160/EU: Commission Decision of 1 March 2012 concerning the national provisions notified by the German Federal Government maintaining the limit values for lead, barium, arsenic, antimony, mercury and nitrosamines and nitrosatable substances in toys beyond the entry into application of Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys Text with EEA relevance
+
+**COMMISSION DECISION**
+
+**of 1 March 2012**
+
+**concerning the national provisions notified by the German Federal Government maintaining the limit values for lead, barium, arsenic, antimony, mercury and nitrosamines and nitrosatable substances in toys beyond the entry into application of Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys**
+
+**(Only the German text is authentic)**
+
+**(Text with EEA relevance)**
+
+**(2012/160/EU)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114(4) and (6) thereof,
+
+Whereas:
+
+FACTS
+
+(1) On 20 January 2011, the German Federal Government requested the Commission, pursuant to Article 114(4) TFEU, the permission to retain the existing provisions provided in German law for the five elements: lead, arsenic, mercury, barium and antimony, as well as for nitrosamines and nitrosatable substances released from toy material, beyond the date of entry into force of Annex II, Part III, to Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (1) (hereinafter ‘the Directive’).
+
+Article 114(4) and (6) TFEU
+
+(2) Article 114(4) and (6) TFEU provides:
+
+‘4. If, after the adoption by the Council or by the Commission of a harmonisation measure, a Member State deems it necessary to maintain national provisions on grounds of major needs referred to in Article 36, or relating to the protection of the environment or the working environment, it shall notify the Commission of these provisions as well as the grounds for maintaining them.
+
+(…)
+
+6\. The Commission shall, within six months of the notifications (…), approve or reject the national provisions involved after having verified whether or not they are a means of arbitrary discrimination or a disguised restriction to trade between Member States and whether or not they shall constitute an obstacle to the functioning of the internal market.
+
+In the absence of a Decision by the Commission within this period the national provisions referred to in paragraphs 4 (…) shall be deemed to have been approved.
+
+When justified by the complexity of the matter and in the absence of danger for human health, the Commission may notify the Member State concerned that the period referred to in this paragraph may be extended for a further period of up to six months.’
+
+The Directive
+
+(3) The Directive lays down rules on the safety of toys and on their free movement in the European Union. According to Article 54, Member States shall bring into force national provisions complying with this Directive by 20 January 2011, and they shall apply them as from 20 July 2011. Part III of Annex II to the Directive will be applicable as from 20 July 2013.
+
+(4) The Directive contains, in Annex II, Part III, point 8, specific values for nitrosamines and nitrosatable substances. These substances shall be prohibited for use in toys intended for use by children under 36 months or in other toys intended to be placed in the mouth if the migration of the substances is equal to or higher than 0,05 mg/kg for nitrosamines and 1 mg/kg for nitrosatable substances. Point 13 of Part III of Annex II to the Directive contains specific migration limits for several elements, including lead, arsenic, mercury, barium and antimony. Three different migration limits exist, related to the type of toy material: dry, brittle, powder-like or pliable toy material, liquid or sticky toy material and scraped-off toy material. The following limits shall respectively not be exceeded: 13,5, 3,4 and 160 mg/kg for lead, 3,8, 0,9 and 47 mg/kg for arsenic, 7,5, 1,9 and 94 mg/kg for mercury, 4 500, 1 125 and 56 000 mg/kg for barium, and 45, 11,3 and 560 mg/kg for antimony.
+
+The German national provisions
+
+(5) The German Consumer Goods Ordinance (Bedarfsgegenständeverordnung) sets requirements for nitrosamines and nitrosatable substances. These provisions were adopted in 2008, in the context of the absence of specific EU provisions on nitrosamines and nitrosatable substances in toys. The Consumer Goods Ordinance (Bedarfsgegenständeverordnung) requires that for nitrosamines and nitrosatable substances in toys made of natural or synthetic rubber designed for children under 36 months and intended or likely to be placed in the mouth, the amount released as a result of migration must be so small as not to be laboratory detectable. The abovementioned Ordinance currently requires the migration of nitrosamines and nitrosatable substances to be below 0,01 mg/kg for nitrosamines and below 0,1 mg/kg for nitrosatable substances. The detailed provisions on nitrosamines and nitrosatable substances are laid down in Annex 4, point 1.b, and Annex 10, point 6, to the Consumer Goods Ordinance (Bedarfsgegenständeverordnung), published on 23 December 1997, and most recently amended by the Ordinance of 6 March 2007.
+
+(6) The Second Equipment and Product Safety Act Ordinance (Verordnung über die Sicherheit von Spielzeug — 2. GPSGV) concerns in particular the following elements: lead, arsenic, mercury, barium and antimony. The limit values for the abovementioned elements contained in the Second Equipment and Product Safety Act Ordinance (Verordnung über die Sicherheit von Spielzeug — 2. GPSGV) are those laid down in Council Directive 88/378/EEC of 3 May 1988 on the approximation of the laws of the Member States concerning the safety of toys (2). These limits have been applicable in the EU since 1990. The maximum daily bioavailability is 0,7 μg for lead, 0,1 μg for arsenic, 0,5 μg for mercury, 25,0 μg for barium, and 0,2 μg for antimony. The detailed provisions on the abovementioned elements are laid down in § 2 of the Second Equipment and Product Safety Act Ordinance (Verordnung über die Sicherheit von Spielzeug — 2. GPSGV).
+
+PROCEDURE
+
+(7) With a first letter of its Federal Ministry of Economics and Technology, received on 20 January 2011, the German Federal Government requested the Commission, pursuant to Article 114(4) TFEU, the permission to retain the existing provisions provided in German law for the five elements: lead, arsenic, mercury, barium and antimony, as well as for nitrosamines and nitrosatable substances released from toy material, beyond the date of entry into force of Annex II, Part III, to the Directive. A complete justification of the request has been sent by the German Federal Government with letter from the Office of its Permanent Representative, dated 2 March 2011. The detailed justification contained several annexes including scientific studies on the health assessment of the abovementioned substances from the Bundesinstitut für Risikobewertung (hereinafter ‘BfR’), dated January 2011.
+
+(8) The Commission confirmed receipt of the request with letters dated 24 February 2011 and 14 March 2011 and set the deadline for her reaction to 5 September 2011 in accordance with Article 114(6) TFEU.
+
+(9) By letter of 24 June 2011 the Commission consulted the other Member States on the notification received from the German Federal Government. The Commission also published a notice regarding the notification in the Official Journal of the European Union (3) in order to inform other interested parties of the national provisions the German Federal Government intends to maintain as well as the grounds invoked to that effect.
+
+(10) The Commission received comments from The Czech Republic, Poland, Sweden, and several concerned stakeholders.
+
+(11) The Czech Republic considers that the measures notified by Germany constitute a barrier to trade as it will prevent economic operators complying with the Directive from placing toys on the German market. The Czech authorities support a higher level of protection for children from dangerous chemicals, however hold the opinion that such measures should be taken at European level, within the framework of the Directive.
+
+(12) Poland considers that the German measures are an obstacle to the free movement of toys within the EU and therefore unacceptable. Poland holds the opinion that one Member State can not, unilaterally, maintain different safety requirements, and create obstacles to the functioning of the toy market.
+
+(13) Sweden considers the justifications put forward by Germany as convincing and supports the request.
+
+(14) By letter to the Commission, Toy Industries of Europe, the European association of writing materials manufacturers, the French association of toy manufacturers and the European Balloons Council shared their concerns with regard to the obstacles the German measures, if accepted, will create on the functioning of the toys internal market.
+
+(15) By Decision of 4 August 2011 (4), the Commission informed the German Federal Government that, pursuant to Article 114(6), third subparagraph, TFEU, the period of 6 months referred to in its first subparagraph to approve or reject the national provisions concerning the five elements (lead, arsenic, mercury, barium and antimony), as well as for nitrosamines and nitrosatable substances, notified by Germany on 2 March 2011, pursuant to Article 114(4), is extended until 5 March 2012.
+
+ASSESSMENT
+
+Admissibility
+
+(16) The Commission considered, in its Decision of 4 August 2011, that the application submitted by Germany with a view to obtaining authorisation to maintain its national provisions on the five elements: lead, arsenic, mercury, barium and antimony, as well as for nitrosamines and nitrosatable substances is admissible.
+
+Assessment of merits
+
+(17) In accordance with the provisions of Article 114 of the TFEU, the Commission has to assure that all conditions enabling a Member State to avail of the possibilities of derogation provided for in this Article are met. The Commission has to verify whether the provisions notified are justified by the major needs of protection referred to in Article 36, or relating to the environment or working environment. In addition, the Commission has to verify whether or not these measures, when justified, are a means of arbitrary discrimination or a disguised restriction on trade between the Member States, and whether or not they constitute an obstacle to the functioning of the internal market.
+
+(18) The German Federal Government has based its request on the need of protection of human health. In support of this request, the German authorities provided detailed justification including scientific studies on the health assessment of the concerned substances from the BfR.
+
+Justification on grounds of major needs
+
+Preliminary remarks
+
+(19) The limit values for arsenic, lead, antimony, barium and mercury set out in the Second Equipment and Product Safety Act Ordinance (Verordnung über die Sicherheit von Spielzeug — 2. GPSGV) are those laid down in Directive 88/378/EEC, applicable in the EU since 1990. These limits were set out on the basis of scientific evidence available at that time, namely the scientific opinion of the Scientific Advisory Committee to examine the toxicity and ecotoxicity of chemical compounds from 1985, entitled Report EUR 12964(EN), Chapter III ‘Chemical properties of toys’. To set up limit values, estimated food intakes for adults were used as a basis. It was assumed that children, with an estimated body weight up to 12 kg, would have an intake of maximum 50 % of the adults’ intake, and that leaking from toys should not contribute more than 10 %.
+
+(20) The Directive, adopted in 2009, replaced Directive 88/378/EEC and modernised the legal framework applicable to chemicals, by taking into account the latest scientific evidences available at the time of the revision.
+
+(21) The limit values for arsenic, lead, antimony, barium and mercury set out in the Directive are calculated as follows: based on the recommendations of the Dutch National Institute for Public Health and the Environment (RIVM) made in the 2008 report entitled ‘Chemicals in Toys. A general methodology for assessment of chemical safety of toys with a focus on elements’, exposure of children to chemicals in toys may not exceed a certain level, called ‘tolerable daily intake’. Since children are exposed to chemicals via other sources than toys, only a percentage of the tolerable daily intake should be allocated to toys. The Scientific Committee on Toxicity, Ecotoxicity and the Environment (CSTEE) recommended in its 2004 report that a maximum of 10 % of the tolerable daily intake may be allocated to toys. However, for particularly toxic substances (for example arsenic, lead, mercury) the Legislator decided that the recommended allocation should not exceed 5 % of the tolerable daily intake, in order to ensure that only traces that are compatible with good manufacturing practice will be present. In order to obtain limit values, the maximum percentage of the tolerable daily intake should be multiplied by the weight of a child, estimated at 7,5 kg, and divided by the quantity of toy material ingested, estimated by the RIVM at 8 mg per day for scraped-off toy material, 100 mg for brittle toy material and 400 mg for liquid or sticky toy material. Those ingestion limits were supported by the Scientific Committee on Health and Environmental Risks (SCHER) in its opinion entitled ‘Risks from organic CMR substances in toys’ adopted on 18 May 2010. As the tolerable daily intakes are established by scientific studies, and science may evolve, the Legislator has foreseen the possibility to amend these limits when new scientific evidence is made available.
+
+(22) The Directive establishes migration limits, while the national values Germany wants to maintain are expressed in bioavailability. Bioavailability is defined as the amount of chemicals which actually comes out of a toy and can but may not necessarily be absorbed by the human body. Migration is defined as the amount which actually comes out of a toy and is actually absorbed by the human body. The Commission acknowledges that the bioavailability limits set out in 1990 were transformed in migration limits in standard EN 71-3 — Migration of certain elements. However, calculations made for the purpose of this transformation were approximate. The tolerable daily intakes used are based on recommendations from 1985. A daily intake of 8 mg of toy material was assumed, and adjustments were made to minimise the exposure of children to toxic elements by lowering, for example, the migration limit for barium, and to ensure analytical feasibility by increasing, for example, the migration limit for antimony and arsenic.
+
+(23) The Commission notes that standards are not mandatory, but used on a voluntary basis by industry in the framework on the conformity assessment procedures set out in the legislation. In addition, standard EN 71-3 is currently under revision in order to give presumption of conformity with the new limits values established in the Directive.
+
+(24) In conclusion, different scientific considerations were taken into account when establishing the limits under the Directive and under standard EN 71-3. Those established under the Directive are based on a consistent and transparent scientific-toxicological approach to ensure safety, and can therefore be considered as more appropriate.
+
+Arsenic — general information
+
+(25) Arsenic is a metal naturally occurring in the earth’s crust. It occurs in inorganic and numerous organic forms that differ not only in their physical and chemical properties but also in their occurrence and toxicity. Activities such as mining, waste incineration and wood preservation are the major source for arsenic in the environment. Drinking water and food (in particular seafood) are the main source of human exposure. In toys, traces of arsenic can be found due to the use of natural raw materials which may be naturally contaminated. Arsenic is highly toxic for humans, and can impair the central nervous system, leading to a deterioration of the cognitive functions. Elevated chronic intake of inorganic arsenic may have carcinogenic effects.
+
+(26) The migration limits for arsenic in the Directive are based on the tolerable daily intake established by the Joint Food and Agriculture Organisation/World Health Organisation Expert Committee on Food Additives (JECFA) in 1989, as recommended by RIVM.
+
+The position of the German Federal Government
+
+(27) To support their request, the German authorities refer to the 2009 EFSA study (5) assessing the arsenic effects on health. In EFSA’s opinion, the tolerable daily intake established by JECFA in 1989 is no longer appropriate. In addition, EFSA concluded that no tolerable daily intake can be established due to scientific uncertainties.
+
+(28) The German authorities pointed out that EFSA recommends reducing as far as possible exposure to arsenic, while the limit values for arsenic in scraped-off materials in the Directive increased compared to the limits contained in standard EN 71-3.
+
+(29) Also, Germany underlines that toys are the most significant contribution after food to the overall exposure of children to arsenic.
+
+(30) In conclusion, Germany requests maintaining national limits for arsenic.
+
+Evaluation of the position of the German Federal Government
+
+(31) The Commission was made aware of the 2009 EFSA study on arsenic, and considered it as new scientific evidence which may trigger the revision of the arsenic limit values. The study was sent to the SCHER committee. In its opinion (6), SCHER notes that EFSA has not derived a tolerable daily intake, but used a risk-based value. SCHER concluded in previous opinions (7) that ‘arsenic shows a non-linear dose response regarding cancer’. Using the present legal limit for drinking water (10 μg/L) and the food exposure defined by EFSA for the average consumer, SCHER concludes that the daily human exposure to arsenic is approximately 1 μg/kg body weight/day and does not increase tumour incidence. This value can be used as a pragmatic tolerable daily intake, and exposure of children via toys should not exceed 10 %.
+
+(32) The value on which SCHER concluded corresponds to the tolerable daily intake recommended by RIVM and used to calculate migration of arsenic from toys in the Directive. Therefore, the Commission concluded that the limit values for arsenic should not be amended, as no new tolerable intake, which may question the level of protection granted by the Directive, was established.
+
+(33) Furthermore, the Commission would like to stress that the German authorities justified their request to maintain national levels for arsenic by referring to the range of daily intake doses established in the 2009 EFSA study. The Commission notes that the measures notified do not appear consistent with this justification. The limits notified are derived from estimated food intakes established in 1985, not from the doses recommended by EFSA in 2009.
+
+(34) The German authorities further stated that the limits for arsenic in scraped-off materials (47 mg/kg of material) increased compared to the limits established in standard EN 71-3.
+
+(35) The Commission considers that different scientific considerations were taken into account when establishing the limits under the Directive and under standard EN 71-3. Those established under the Directive are based on a consistent and transparent scientific-toxicological approach to ensure safety, and can therefore be considered as more appropriate.
+
+(36) The migration limits for arsenic in scraped-off toy material are based on the tolerable daily intake recommended by RIVM in 2007, and on the assumption that contribution from toys should not exceed 5 %. This percentage was multiplied by the estimated weight of a child (7,5 kg), and divided by the estimated quantity of toy material ingested (8 mg/kg for scraped off materials). The migration limits for arsenic in standard EN 71-3 were derived from the bioavailability limits established in Directive 88/378/EEC, based on estimated food intakes established in 1985. The calculation method applied did not take into account the weight of the child nor the differences between toy materials, as does the Directive. Thus, the Commission considers the limit values established in the Directive as more appropriate.
+
+(37) Germany further underlines that toys are the most significant contribution after food to the overall exposure of children to arsenic. The Commission notes that, based on scientific data available (8), soils and treated wood are the most significant contribution after food to the overall exposure of children to arsenic. However, regardless of the actual contributions from different compartments to the overall exposure, the Legislator considered that contribution from toys should not exceed 5 % of the overall exposure, in order to assure safety.
+
+(38) In the light of the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to arsenic can not be considered as justified on grounds of major need of protection of human health.
+
+Antimony — general information
+
+(39) Antimony is a semi-metallic chemical element which can exist in two forms, namely metallic and non-metallic form. Antimony occurs naturally in the environment, but also enters the environment through several industrial applications. Antimony is used to make certain types of semi-conductor devices, such as diodes and infrared detectors. Antimony alloys are also used in batteries, low-friction metals, type metal and cable sheathing, among other products. Antimony compounds are used to make flame-proofing materials and paints. Inhalation of antimony can cause irritation of the eyes, skin and lungs. Prolonged exposure can cause lung diseases, heart problems, diarrhoea, severe vomiting and ulcers. In toys, antimony can be used as a flame retardant.
+
+The position of the German Federal Government
+
+(40) The German authorities noted an increase in the limit values for antinomy in scrapped-off toy materials, as established in the Directive, when compared to the limits contained in standard EN 71-3. Although Germany agrees that no adverse effects on human health are expected from the limits set out in the Directive, this increase is considered as unnecessary. Therefore Germany requests maintaining national limits.
+
+Evaluation of the position of the German Federal Government
+
+(41) As previously stated, the Commission holds the opinion that the limit values established under the Directive are more appropriate, since they are based on a consistent and transparent scientific-toxicological approach to assure safety.
+
+(42) The migration limits for antimony in scraped-off toy material are based on the tolerable daily intake derived by the WHO (9) in 2003 and recommended by RIVM in 2007, and on the assumption that contribution from toys should not exceed 10 %. This percentage was multiplied by the estimated weight of a child (7,5 kg), and divided by the estimated quantity of toy material ingested (8 mg/kg for scraped-off materials). The migration limits for antimony in standard EN 71-3 were derived from the bioavailability limits established in Directive 88/378/EEC, based on estimated food intakes established in 1985. The calculation method applied did not take into account the weight of the child nor the differences between toy materials, as does the Directive. Thus, the Commission considers the limit values established in the Directive to be more appropriate.
+
+(43) In addition, the Commission acknowledges that Germany, in the justification brought forward, admits that no adverse effect on human health is expected from the limit values for antimony as established in the Directive. The Commission notes furthermore that Germany did not provide any evidence demonstrating that the Directive does not offer an appropriate level of protection to children, nor that the German measures would assure a higher level of protection.
+
+(44) In the light of the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to antimony can not be considered as justified on grounds of major need of protection of human health.
+
+Barium — general information
+
+(45) Barium is present in the earth’s crust, mostly as barium sulphate and barium carbonate. These forms are insoluble in water. Other barium salt such as barium chloride and barium nitrate, however, readily dissolves in water. Barium is present surface water and drinking water (natural occurrence). The barium content in drinking water depends on regional geochemical conditions. Food also contains barium. Ingestion of barium can cause increased blood pressure, stomach irritation, and muscle weakness, damage to the liver, kidney, heart, and spleen. Barium has few industrial applications. As barium naturally occurs in the environment, traces of barium can be found in toys when manufactured with natural raw materials.
+
+The position of the German Federal Government
+
+(46) The German authorities consider that there are uncertainties with regard to the tolerable daily intake used for calculating migration limits for barium in the Directive. RIVM used a tolerable daily intake of 600 μg/kg body weight/day, based on animal experiments data (Engelen et al. 2008). According to Germany, the use of this tolerable daily intake resulted in higher migration limits for barium in scraped-off materials, compared to those set out in standard EN 71-3. Germany considers the choice of RIVM to be questionable, since WHO (10) determined considerably lower tolerable daily intakes. Thus Germany requests maintaining national limits with regard to barium.
+
+Evaluation of the position of the German Federal Government
+
+(47) The Commission notes that there are uncertainties with regard to the tolerable daily intake for barium. Although human data are considered as a more appropriate basis for deriving a tolerable daily intake, RIVM considered that the studies providing these data contained important flaws. Therefore animal experiments data, more reliable for deriving a tolerable daily intake, were used.
+
+(48) The WHO assessment, based on human data, recommends a lower tolerable daily intake. The Commission recognises that this assessment, likely to offer a higher level of protection to children, may not have been appropriately considered by RIVM.
+
+(49) Thus, the Commission sent a request for an opinion to the SCHER committee, asking for an additional evaluation of the migration limits for barium, and recommendations with regard to the tolerable daily intake to be used, in the light of the WHO assessment document. The opinion is expected to be delivered in March 2012.
+
+(50) Based on the outcome of the SCHER opinion, the Commission may proceed, if deemed necessary, to the revision of the migration limits for barium as established in the Directive.
+
+(51) In the light on the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to barium are considered as justified on grounds of major need of protection of human health.
+
+Lead — general information
+
+(52) Lead is a particularly toxic metal which takes both organic and inorganic form. Given that lead is considered as a non-threshold toxic substance for neurotoxic effects and given the specific vulnerability of children, their exposure to lead should be reduced to the maximum extent possible. The exposure to lead can cause damage to a child’s central nervous system, thus adversely impacting his/her development. Lead exposure mainly arises from food products (cereals, vegetables and tap water being the major contributors to lead exposure). Another important exposure source is the environment, in particular house dust. An additional exposure source is the contact with consumer products, including toys. Given the high exposure from food and environment, limit values for lead in toys were set out in such way that exposure from toys does not exceed a certain amount of all exposure sources. Lead may be found in toys paints and softened plastic. Children are exposed to lead through ingestion, in particular through hand-to-mouth or mouthing behaviour. As paint deteriorates, it peels, pulverises and then can be ingested or remains on the hands and fingers from where it can be ingested or inhaled. Considering lead toxicological characteristic, the dermal exposure does not seem to represent any health risk (11).
+
+The position of the German Federal Government
+
+(53) The German authorities refer to the 2010 EFSA study carrying out a comprehensive assessment on lead. In EFSA’s opinion, there is no scientifically justified threshold dose for the adverse effects of lead on human health. Therefore Germany considers that the migration limits for lead, as established in the Directive, are no longer scientifically based and request maintaining national measures.
+
+Evaluation of the position of the German Federal Government
+
+(54) The Commission acknowledges that the migration limits for lead as established in the Directive no longer offer an appropriate level of protection for children. The tolerable daily intake used for calculating the limits was questioned by EFSA and JECFA in 2010, after the revision of the toy safety legislation. Taking this into account, the Commission already undertook the revision of the abovementioned limits.
+
+(55) In the light of the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to lead are considered as justified on grounds of major need of protection of human health.
+
+Mercury — general information
+
+(56) Mercury is a naturally occurring element in the Earth’s crust. The main source of exposure to mercury occurs from dental amalgam. Other sources are drinking water and consumption of fish and other marine organisms. Mercury is also used in fluorescent tubes, batteries and thermometers. Exposure to mercury at critical levels can cause tremors, emotional changes, insomnia, neuromuscular changes, headaches, disturbances in sensations, changes in nerve responses. At higher exposures there may be kidney effects, respiratory failure and death.
+
+The position of the German Federal Government
+
+(57) Germany notes that the bioavailability limits for mercury established in Directive 88/378/EEC, and consequently in the national measures notified, are 0,5 μg/day, transformed, in standard EN 71-3, in migration limits of 60 mg/kg.
+
+(58) By comparison to the migration limits of mercury in scraped-off materials as established in the Directive (94 mg/kg), Germany concludes to an increase which contradicts the European objective of reduction of human exposure to mercury.
+
+(59) Thus, Germany requests maintaining national measures, regardless of the fact that Germany expects no damage to health from the values established in the Directive.
+
+Evaluation of the position of the German Federal Government
+
+(60) As previously explained, the Commission holds the opinion that limit values established under the Directive can be considered more appropriate since they are based on a consistent and transparent scientific-toxicological approach to assure safety.
+
+(61) The migration limits for mercury in scraped-off toy material are based on the tolerable daily intake recommended by RIVM in 2007, and on the assumption that the contribution from toys should not exceed 10 %. This percentage was multiplied by the estimated weight of a child (7,5 kg), and divided by the estimated quantity of toy material ingested (8 mg/kg for scraped-off materials). The migration limits for mercury in standard EN 71-3 were derived from the bioavailability limits established in Directive 88/378/EEC, based on estimated food intakes established in 1985. The calculation method applied did not take into account the weight of the child nor the differences between toy materials, as does the Directive. Therefore, the Commission considers the limit values established in the Directive to be more appropriate.
+
+(62) In addition, the Commission acknowledges that Germany, in the justification brought forward, admits that no adverse effect on human health is expected from the limit values for mercury as established in the Directive. In addition, the Commission notes that Germany did not provide any evidence demonstrating that German measures notified would assure a higher level of protection.
+
+(63) In accordance to the European strategy concerning mercury (12), measures have been taken in order to reduce mercury exposure, specifically in the areas generating major exposure. With regard to toys, mercury is used in batteries, which must be inaccessible to children. Therefore, due to the inaccessibility of the batteries, children are not exposed to mercury via toys. Germany did not provide any exposure data supporting the contrary. Also, as acknowledged by Germany in the justifications put forward, in recent years, no Member State notified to the Commission measures against toys containing mercury found on the market.
+
+(64) In the light of the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to mercury, though based on public health considerations, are considered as not justified on grounds of major need of protection of human health.
+
+Nitrosamines and nitrosatable substances — general information
+
+(65) Nitrosamines are a class of chemical compounds produced under certain conditions (acidic pH, high temperature, presence of certain reducing agents) in a variety of compartments (consumer products, biological systems, air, etc.), when nitrites react with the so-called nitrosatable substances. Nitrosamines have been detected as contaminants in a number of products including foods, beer, tobacco products, rubber products, and cosmetics. The two most common nitrosamines, N-nitrosodimethylamine (NDMA) and N-nitrosodiethylamine (NDEA) are classified as carcinogens: NDMA is classified in the EU as a carcinogen 1B (‘presumed to have carcinogenic potential for humans’) (13). NDEA is classified by the International Agency for Research on Cancer (IARC) as a carcinogen category 2A (‘probably carcinogenic to humans’) (14). In toys, nitrosamines can be found in rubber toys and finger paints.
+
+(66) Directive 88/378/EEC does not contain specific provisions on nitrosamines and nitrosatable substances. Migration limits were introduced in the Directive for toys intended for children under 3 and other toys intended to be placed in the mouth, applicable as from 20 July 2013. The limits are based on the Scientific Committee on Consumer products (SCCP) opinion from 2007, related to the presence and release of nitrosamines and nitrosatable compounds from rubber balloons.
+
+The position of the German Federal Government
+
+(67) Germany agrees that the limits set out by the SCCP with regard to balloons are to be considered as posing a negligible risk. However, the German authorities consider that these limits can not be extended to all toys made of synthetic and natural rubber and intended for children under 3, as the exposure parameters are assumed to be different.
+
+(68) SCCP assumed the children are exposed to balloons for 5 hours/year. Germany notes that the mouthing behaviour of children under 3 is assumed to be 3 hours/day. The German authorities concludes that exposure of children under 3 to rubber toys is much higher than exposure to balloons only.
+
+(69) Germany further considers that children are exposed to nitrosamines and nitrosatable substances via all toys made of rubber, regardless of their intended use. Point 8 of Annex II, Part III, to the Directive addresses, in Germany’s opinion, only toys for children under 3 and other toys intended to be placed in the mouth. Thus, Germany invites the Commission to consider enlarging the scope of the Directive in order to include toys which are not intended but likely to be put in the mouth, regardless of the age of the users.
+
+(70) In addition, the German authorities note that, according to the technological state of the art, the formation of nitrosamines and nitrosatable substances during the manufacture of natural or synthetic rubber can largely be avoided by using appropriate vulcanisation accelerators.
+
+(71) In the light of the above justifications, Germany requests maintaining national measures related to nitrosamines and nitrosatable substances in toys for children under 3, intended or likely to be put in the mouth, and made of synthetic or natural rubber.
+
+Evaluation of the position of the German Federal Government
+
+(72) The Commission notes that the German measures related to nitrosamines and nitrosatable substances were adopted in 2008. At that time, the risk on human health due to exposure of small children to nitrosamines and nitrosatable substances in rubber toys was not addressed by Directive 88/378/EEC. This risk was confirmed by the SCCP in 2007, and addressed by the Legislator within the revision of the abovementioned Directive.
+
+(73) Point 8 of Annex II, Part III, to the Directive prohibits the use of nitrosamines and nitrosatable substances in toys intended for children under 3 and other toys intended to the placed in the mouth, when the migration of substances is equal or higher that 0,05 mg/kg for nitrosamines and 1 mg/kg for nitrosatable substances.
+
+(74) These limits are based on the values considered by SCCP, when evaluating exposure to balloons, as posing a negligible risk to health. Due to the lack of realistic data necessary for evaluating exposure to rubber toys, acknowledged by Germany in the justifications put forward, the limit values recommended for balloons were extended to other types of toys likely to contain nitrosamines or nitrosatable substances.
+
+(75) In the absence of precise data, the Commission agrees that, with regard to toys intended to be placed in the mouth, data on children’s mouthing behaviour is more relevant than data on exposure to balloons for assuming exposure parameters.
+
+(76) The Commission also agrees that, taking into account the technological state of the art, the formation of nitrosamines and nitrosatable substances during the manufacture of natural of synthetic rubber can largely be avoided by using appropriate vulcanisation accelerators. The SCCP reached the same conclusions in its 2007 opinion. In addition, it is proven to be technically feasible for the manufacture of rubber teats and soothers, where migration of nitrosamines and nitrosatable substances shall not exceed 0,01 and respectively 0,1 mg/kg (15).
+
+(77) In addition, the Commission notes that a specific standard is being developed by the European Committee for Standardisation (CEN) for testing the presence of nitrosamines and nitrosatable substances in toys. The Commission is aware that the limits for nitrosamines in finger paints are going to be lowered from 0,05 mg/kg to 0,01 mg/kg within the development of this standard, in order to better take into account children’s exposure. The Commission will ask CEN to consider data on small children’s mouthing behaviour for all toys covered by point 8 of Annex II, Part III, to the Directive.
+
+(78) In the light of the above considerations, the Commission is of the opinion that the measures notified by Germany with regard to nitrosamines and nitrosatable substances in toys for children under 3 and made of synthetic or natural rubber are considered as justified on grounds of major need of protection of human health.
+
+(79) As regards extending the scope of these provisions to toys which are not intended but likely to be placed in the mouth, the Commission notes that such requirement is neither in force in Germany, nor part of the national legislation notified pursuant to Article 114(4). Thus such request can not be considered as admissible pursuant to Article 114(4).
+
+(80) However the Commission considers that the Directive addresses appropriately the categories of toys likely to release nitrosamines and nitrosatable substances. All toys intended for children under 3 are concerned, as these children have a pronounced mouthing behaviour (i.e. tendency to put all products into the mouth, even when this is not intended). Toys for older children are concerned only when intended to be placed in the mouth, as the mouthing behaviour is less relevant than for children under 3. The Commission is aware that children under 3 can be in contact with toys intended for older children. However this risk can be addressed by other means, less restrictive, such as appropriate warnings indicating the toys are not suitable for children under 3. The Directive contains provisions for such warnings.
+
+Absence of arbitrary discrimination
+
+(81) Article 114(6) requires the Commission to verify that the national provisions notified pursuant to Article 114(4) are not a means of arbitrary discrimination. The absence of discrimination, according to the jurisprudence of the Court of Justice, means that no different treatment should be given to similar situations, nor similar treatment to different situations.
+
+(82) Since the measures related to mercury, arsenic, and antimony are not justified by the need to protect the human health, the Commission does not have to verify whether this condition is satisfied.
+
+(83) The German national measures related to lead, barium, nitrosamines and nitrosatable substances in toys apply without distinction to all products, whether manufactured in Germany or imported from other Member States. Therefore, there is no evidence that the German measures have been used as a means of arbitrary discrimination between economic operators in the EU.
+
+Absence of a disguised restriction on trade
+
+(84) National measures derogating from the provisions of a European directive normally constitute a barrier to trade. Products which can be legally placed on the market in the rest of the EU cannot be placed on the concerned Member State’s market. Article 114(6) intends to prevent that national measures notified under Article 114(4) are applied for inappropriate reasons, and in reality constitute economic measures intended to indirectly protect national production.
+
+(85) Since the measures related to mercury, arsenic and antimony are not justified by the need to protect the human health, the Commission does not have to verify whether this condition is satisfied.
+
+(86) With regard to lead, the Commission agrees that the limit values established in the Directive do no longer offer an appropriate level of protection, since the scientific background for setting the values evolved. Consequently, the Commission undertook a revision of these measures. Thus, the Commission considers that the German request is based on a real concern with regard to children’s health, and does not constitute a disguised restriction on trade between Member States.
+
+(87) With regard to barium, the Commission agrees that the WHO assessment was not appropriately considered by RIVM when recommending a tolerable daily intake. Thus, uncertainties exist with regard to the level of protection offered by the Directive. The Commission asked clarifications to SCHER and will consider, as soon as SCHER has adopted its opinion, the revision of the limits if necessary. Therefore, the Commission considers that the German request is based on a real concerns with regard to children’s health, and does not constitute a disguised restriction on trade between Member States.
+
+(88) With regard to nitrosamines and nitrosatable substances, the Commission agrees that exposure parameters with regard to children’s mouthing behaviour where not appropriately considered when establishing limit values in the Directive. The Commission will require CEN to consider these parameters to lower the limit values within the standardisation process. Thus, the Commission considers that the German request is based on a real concern with regard to children’s health, and do not constitute a disguised restriction on trade between Member States.
+
+Absence of obstacles to the functioning of the internal market
+
+(89) Article 114(6) prohibits the approval of any national measure likely to affect the functioning of the internal market. However, this requirement can not be interpreted as prohibiting the approval of all measures likely to affect the functioning of the internal market. All measures derogating from a harmonisation measure constitute a measure that is likely to affect the functioning of the internal market. Thus, the Commission considers that the concept of obstacle to the functioning of the internal market as referred to in Article 114(6) has to be understood as a disproportionate effect in relation to the pursued objective, in order to preserve the useful character of the procedure.
+
+(90) Since the measures related to mercury, arsenic and antimony are not justified by the need to protect the human health, the Commission does not have to verify whether this condition is satisfied.
+
+(91) With regard to lead and barium, the Commission notes that manufacturers, when applying the provisions of the Directive, will be able to market toys in all Member States, except for Germany. Manufacturers are not likely to develop two sets of different toys, but align on the derogating provisions in order to have toys which can be marketed in all Member States. The Commission further notes that the German limits for lead and barium are those that have been applicable in the EU since 1990 on the basis of Directive 88/378/EEC, and therefore can be technically met by manufacturers. Toy manufacturers have confirmed this assumption when expressing their position on the German measures. The Commission has therefore reasons to consider that the effect on the functioning of the internal market is proportionate in relation to the objective of protecting children’s health.
+
+(92) With regard to nitrosamines and nitrosatable substances, the Commission concludes similarly. The German measures on nitrosamines and nitrosatable substances are applicable in Germany since 2008. Manufacturers did not, to the Commission’s knowledge, develop two sets of different toys, but aligned to the German provisions in order to have toys which can be marketed in all Member States. With the entry into application of the Directive, less strict that the German measures, the Commission expects manufacturers to align on the strictest provisions in order to have toys which can be marketed in all Member States. The Commission further notes that meeting the German limits is technically feasible, as manufacturers comply with them since 2008. The Commission has therefore reasons to consider that the effect on the functioning of the internal market is proportionate in relation to the objective of protecting children’s health.
+
+CONCLUSION
+
+(93) In the light of the above considerations, the Commission concludes that the national provisions notified by Germany with regard to mercury, arsenic and antimony are not justified on grounds of major need of protection of human health. Therefore, the Commission considers that those national provisions notified can not be approved.
+
+(94) With regard to the national measures notified by Germany in relation to lead and barium, the Commission concludes that these measures are considered as justified by the need to protect human health, and that they do not constitute either a means of arbitrary discrimination, a disguised restriction on trade between Member States, or a disproportionate obstacle to the functioning of the internal market. The Commission has therefore reasons to consider that the national measures notified can be approved, subject to a limitation in time.
+
+(95) With regard to the national measures notified in relation to nitrosamines and nitrosatable substances, the Commission concludes that these measures are justified by the need to protect the human health, and that they do not constitute either a means of arbitrary discrimination, a disguised restriction on trade between Member States or a disproportionate obstacle to the functioning of the internal market. The Commission has reason to consider that the national provisions notified can be approved,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The German measures related to antimony, arsenic and mercury notified pursuant to Article 114(4) of the TFEU are not approved.
+
+The German measures related to lead and notified pursuant to Article 114(4) of the TFEU are approved until the date of entry into force of EU provisions setting new limits for lead in toys or 21 July 2013, whichever comes first.
+
+The German measures related to barium and notified pursuant to Article 114(4) of the TFEU are approved until the date of entry into force of EU provisions setting new limits for barium in toys or 21 July 2013, whichever comes first.
+
+The German measures related to nitrosamines and nitrosatable substances notified pursuant to Article 114(4) of the TFEU are approved.
+
+## Article 2
+
+This Decision is addressed to the Federal Republic of Germany.
+
+Done at Brussels, 1 March 2012.
+
+For the Commission
+
+Antonio TAJANI
+
+Vice-President
+
+(1) OJ L 170, 30.6.2009, p. 1.
+
+(2) OJ L 187, 16.7.1988, p. 1.
+
+(3) OJ C 159, 28.5.2011, p. 23.
+
+(4) Commission Decision 2011/510/EU of 4 August 2011 extending the period referred to in Article 114(6) of the Treaty on the Functioning of the European Union in relation to national provisions maintaining the limit values for lead, barium, arsenic, antimony, mercury and nitrosamines and nitrosatable substances in toys notified by Germany pursuant to Article 114(4) (OJ L 214, 19.8.2011, p. 15).
+
+(5) EFSA Journal 2009; 7(10):1351.
+
+(6) SCHER, ‘Evaluation of the Migration Limits for Chemical Elements in Toys’, adopted on 1 July 2010.
+
+(7) Delivered opinion on the Italian derogation for arsenic in drinking water (SCHER 2010 c).
+
+(8) RIVM, Agency for toxic substances and Disease Registry (ATSDR) 2007.
+
+(9) WHO (2003) Antimony in Drinking-water.
+
+(10) World Health Organisation, 2001. Barium and barium compounds. Concise International chemical assessment document.
+
+(11) RIVM (2006) Chemicals in Toys — A general methodology for assessment of chemical safety of toys with a focus on elements of the migration of heavy elements. Revised Final Version, 12 October 2006, Section II.10.7, p. 184.
+
+(12) COM(2010) 723 final.
+
+(13) According to Regulation (EC) No 1272/2008, of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).
+
+(14) IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, volume 17.
+
+(15) Commission Directive 93/11/EEC of 15 March 1993 concerning the release of the N-nitrosamines and N-nitrosatable substances from elastomer or rubber teats and soothers (OJ L 93, 17.4.1993, p. 37).

@@ -1,0 +1,456 @@
+---
+title: "2014/287/EU: Commission Implementing Decision of 10 March 2014 setting out criteria for establishing and evaluating European Reference Networks and their Members and for facilitating the exchange of information and expertise on establishing and evaluating such Networks Text with EEA relevance"
+identifier: "32014D0287"
+eli: "http://data.europa.eu/eli/dec_impl/2014/287/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-03-10
+entry_into_force: 2014-07-23
+last_amended: 2019-08-18
+consolidated_version: "02014D0287-20190818"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014D0287-20190818"
+retrieved: 2026-10-11
+---
+
+# 2014/287/EU: Commission Implementing Decision of 10 March 2014 setting out criteria for establishing and evaluating European Reference Networks and their Members and for facilitating the exchange of information and expertise on establishing and evaluating such Networks Text with EEA relevance
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 10 March 2014**
+
+**setting out criteria for establishing and evaluating European Reference Networks and their Members and for facilitating the exchange of information and expertise on establishing and evaluating such Networks**
+
+**(Text with EEA relevance)**
+
+**(2014/287/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2019/1269 of 26 July 2019 </td><td> L 200</td><td>35</td><td>29.7.2019</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 10 March 2014**
+
+**setting out criteria for establishing and evaluating European Reference Networks and their Members and for facilitating the exchange of information and expertise on establishing and evaluating such Networks**
+
+**(Text with EEA relevance)**
+
+**(2014/287/EU)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Decision sets out:
+
+(a) the criteria for establishing and evaluating the Networks referred to in Article 12 of Directive 2011/24/EU; and
+
+(b) the measures to facilitate the exchange of information and expertise on establishing and evaluating the Networks referred to in Article 12 of Directive 2011/24/EU.
+
+### Article 1a — Definitions
+
+For the purposes of this Implementing Decision the following definitions shall apply:
+
+(a) ‘European Reference Networks' Coordinator’ means the person appointed as the Coordinator of the Network by the Member of a European Reference Network chosen as the coordinating Member as referred to in recital 3 and Article 4 of Delegated Decision 2014/286/EU;
+
+(b) ‘Board of the Network’ means a body responsible for the governance of the Network, composed of representatives from each Member in the Network as referred to in recital 3 and point (1)(b)(ii) of Annex I to Delegated Decision 2014/286/EU;
+
+(c) ‘Affiliated Partner’ means (Associated National Centre, Collaborative National Centre and National Coordination Hub), as referred to in recital 14 and point (7)(c) of Annex I of Delegated Decision 2014/286/EU and in the Statement of the Board of Member States of 10 October 2017;
+
+(d) ‘Guest user’ means a healthcare provider who is not a member or Affiliated Partner and who has the right, following the approval of the competent European Reference Network Coordinator, for a limited period of time, to enrol patients in CPMS and participate in the panel related to that patient or to participate in a specific panel as an expert.
+
+## CHAPTER II — ESTABLISHMENT OF EUROPEAN REFERENCE NETWORKS
+
+### Article 2 — Call for interest to establish a European Reference Network
+
+1\. The Commission shall publish a call for interest to establish Networks within two years following the entry into force of this Decision.
+
+2\. Any group of at least 10 healthcare providers established in at least 8 Member States may collectively respond by the deadline indicated in the call for interest with an application containing a proposal to establish a Network in a given field of expertise.
+
+3\. The content of the application shall be as set out in Annex I.
+
+4\. On receiving an application, the Commission shall verify whether the conditions on the minimum number of healthcare providers and Member States as set out in paragraph 2 are met.
+
+5\. If either of those conditions is not met, the application shall not be entitled to assessment and the Commission shall ask Member States to encourage their healthcare providers to join the proposed Network in order to help reach the required number(s).
+
+6\. After consulting the Member States, the Commission shall decide on the appropriate timing for the publication of subsequent calls for interest.
+
+### Article 3 — Membership applications
+
+1\. The application containing a proposal to establish a Network shall be accompanied by a membership application for each healthcare provider concerned.
+
+2\. The content of the membership application shall be as set out in Annex II.
+
+3\. The membership application shall be accompanied by a written statement from the healthcare provider's Member State of establishment certifying that its participation in the proposal to establish a Network is in accordance with the Member State's national legislation.
+
+### Article 4 — Technical assessment of applications
+
+1\. If the Commission concludes that the requirements set out in Article 2(2) and in Article 3(2) and (3) are fulfilled, it shall appoint an assessment body to assess applications.
+
+2\. The assessment body shall verify whether:
+
+(a) the content of an application containing a proposal to establish a Network fulfils the requirements set out in Annex I to this Decision;
+
+(b) the content of the membership applications fulfils the requirements of Annex II to this Decision;
+
+(c) the proposed Network fulfils the requirement to provide highly specialised healthcare in point 1(a) of Annex I to Delegated Decision 2014/286/EU;
+
+(d) the proposed Network fulfils the other criteria and conditions set out in Annex I to Delegated Decision 2014/286/EU;
+
+(e) the applicant healthcare providers fulfil the criteria and conditions set out in Annex II to Delegated Decision 2014/286/EU.
+
+3\. The assessment pursuant to points (d) and (e) of paragraph 2 shall only take place if the assessment body concludes that the proposal fulfils the requirements referred to in points (a), (b) and (c) of paragraph 2.
+
+4\. The assessment body shall draw up an assessment report on the application containing a proposal to establish a Network and the membership applications and send all reports to the Commission.
+
+5\. The assessment body shall send to each applicant healthcare provider the assessment report on the proposed Network and on its own membership application. The healthcare provider may send comments to the assessment body within two months of receiving the reports. On receiving the comments, the assessment body shall amend its assessment reports explaining whether the comments justify a change in its assessment.
+
+### Article 5 — Approval of Networks and Members
+
+1\. On receiving an assessment report on a proposal for a Network and the proposed list of Members, drawn up pursuant to Article 4, and after verifying that the minimum number of healthcare providers and Member States set out in Article 2(2) is reached, Member States shall, within a Board of Member States as provided in Article 6, decide on the approval of the proposed Network and its Members.
+
+2\. By virtue of the approval referred to in paragraph 1, the proposed Networks shall be established as European Reference Networks.
+
+3\. If the minimum number of healthcare providers or of Member States set out in Article 2(2) is not reached, the Network shall not be established and the Commission shall ask Member States to encourage their healthcare providers to join the proposed Networks.
+
+4\. If a healthcare provider is given a negative assessment, it will be for that healthcare provider to decide whether it wants to submit its membership application, with the assessment report on the application, to the Board of Member States for review.
+
+### Article 6 — Board of Member States
+
+1\. Member States are invited to set up a Board of Member States which shall decide whether or not to approve the proposals for Networks, their membership and the termination of a Network. If their decision differs from the assessment of the assessment body, the Member States shall give the reasons for this.
+
+2\. Member States wishing to be on the Board of Member States shall notify the Commission the national authority that shall represent them.
+
+3\. The Board of Member States shall adopt by a simple majority of its members its own rules of procedures, on the proposal of the Commission services.
+
+4\. The rules of procedure shall cover the functioning and decision-making process of the Board of Member States and specify which of its members are entitled to vote on the approval of a specific Network, which majority will determine the outcome of a vote, and what procedure to follow if the Board's decision differs from the assessment report on a Network proposal or membership application.
+
+5\. The Commission shall provide the secretariat of the Board of Member States.
+
+6\. The personal data of representatives of Member States on the Board of Member States shall be collected, processed and published in accordance with Regulation (EC) No 45/2001.
+
+### Article 7 — Logo
+
+When a Network is approved, the Commission shall license the use of a unique graphic identifier (‘logo’), which that Network and its Members shall use for the activities organised by the Network.
+
+### Article 8 — Applications for membership of existing Networks
+
+1\. A healthcare provider wishing to join an existing Network shall submit a membership application to the Commission.
+
+2\. The content of the membership application shall be as set out in Annex II.
+
+3\. The membership application shall be accompanied by a written statement from the healthcare provider's Member State of establishment certifying that its participation in the Network is in accordance with the Member State's national legislation.
+
+4\. If the Commission concludes that the requirements set out in Article 8(2) and (3) are fulfilled, the Board of the Network that the healthcare provider wishes to join, shall issue an opinion on the membership application, following a peer review carried out by the Network on the basis of the criteria and conditions set out in point 2 of Annex II to Delegated Decision 2014/286/EU.
+
+5\. Before delivering the opinion referred to in paragraph 4 and within three months from the moment the Commission has confirmed that the requirements set out in Article 8(2) and (3) are fulfilled, the Board of the Network shall send a draft opinion to the applicant healthcare provider that may send comments to the Network within one month of receiving the draft opinion. In case the Board of the Network does not receive comments on that draft, it shall deliver a final opinion on the membership application, within four months from the moment the Commission has confirmed that the requirements set out in Article 8(2) and (3) are fulfilled.
+
+In case the Board of the Network receives comments, the deadline for the delivery of the final opinion is extended to five months from the moment the Commission has confirmed that the requirements set out in Article 8(2) and (3) are fulfilled. On receiving comments, the Board of the Network shall amend its opinion explaining whether the comments justify a change in its assessment. If the Board of the Network fails to send the draft opinion or to deliver its final opinion within the deadlines set above, the final opinion is deemed to be favourable.
+
+6\. In case of an unfavourable opinion of the Board of the Network, upon request of the Member State of establishment, the Board of the Member States, may issue a favourable opinion after re-assessing the application on the basis of the criteria and conditions set out in point 2 of Annex II to Delegated Decision 2014/286/EU. That favourable opinion shall accompany the application.
+
+### Article 9 — Technical assessment of applications for membership of existing Networks
+
+1\. If a favourable opinion is issued in accordance with Article 8(5) or (6), the Commission shall appoint a body to assess the membership application which it accompanies.
+
+2\. The assessment body shall verify whether:
+
+(a) the content of the membership application fulfils the requirements set out in Annex II to this Decision; and
+
+(b) the healthcare provider concerned fulfils the criteria and conditions set out in Annex II to Delegated Decision 2014/286/EU.
+
+3\. The assessment pursuant to point (b) of paragraph 2 shall only take place if the assessment body concludes that the membership application fulfils the requirements referred to in point (a) of paragraph 2.
+
+4\. The assessment body shall draw up an assessment report and send it to the Commission and to the applicant healthcare provider. The healthcare provider may send comments to the assessment body within two months of receiving the report. On receiving of such comments, the assessment body shall amend its assessment report explaining whether the comments justify a change in its assessment.
+
+### Article 10 — Approval of new Members
+
+1\. On receiving a positive assessment report drawn up pursuant to Article 9, the Board of Member States shall decide whether or not to approve the new Member.
+
+2\. If a healthcare provider is given a negative assessment, it will be for that healthcare provider to decide whether it wants to submit its membership application, with the assessment report on the application, to the Board of Member States for review.
+
+### Article 11 — Termination of the Network
+
+1\. A Network shall be terminated in the following cases:
+
+(a) one of the minimum numbers set out in Article 2(2) is no longer reached;
+
+(b) a negative evaluation report of the Network has been drawn up pursuant to Article 14;
+
+(c) by decision of the Board of the Network according to its rules and procedures;
+
+(d) if the Coordinator fails to request an evaluation of the Network within the five- year period after it was set up or since its last evaluation.
+
+2\. The termination of a Network, on the grounds listed in paragraph 1(a) and (b), must be approved by the Board of Member States referred to in Article 6.
+
+### Article 12 — Loss of membership
+
+1\. A Member of a Network may lose membership for any of the following reasons:
+
+(a) voluntary withdrawal, according to the rules and procedures agreed by the Board of the Network;
+
+(b) by decision of the Board of the Network, according to the rules and procedures agreed by the Board;
+
+(c) if a Member State of establishment notifies to the Member of the Network that its participation in the Network no longer complies with national legislation;
+
+(d) if the Member refuses to be evaluated pursuant to Article 14;
+
+(e) if a negative evaluation report on the Member has been drawn up pursuant to Article 14;
+
+(f) if the Network where the Member participates is terminated.
+
+2\. The relevant Member State shall inform the Commission of the reasons for the notification referred to in paragraph 1(c).
+
+3\. The Board of the Network shall inform the Commission in the cases referred to in point 1(a), (b) and (d).
+
+4\. The loss of membership on the grounds listed in paragraph 1(e) must be approved by the Board of Member States referred to in Article 6.
+
+5\. In any case of loss of membership, the Commission shall verify whether the minimum numbers of healthcare providers and of Member States set out in Article 2(2) are still reached. If not, it shall ask the Network to find new Members within the next two years or terminate the Network, inform the Board of Member States of the situation and ask Member States to encourage their healthcare providers to join the Network.
+
+6\. Loss of membership shall lead to the automatic loss of any of the rights and responsibilities associated with participation in the Network, including the right to use the logo.
+
+### Article 13 — Assessment manual
+
+1\. In consultation with Member States and interested parties, the Commission shall draw up a detailed manual regarding the content of, documentation and procedure for the assessment referred to in Articles 4 and 9.
+
+2\. The assessment procedure shall include the verification of the documentation submitted by the applicants and on-site audits.
+
+3\. The body appointed by the Commission pursuant to Articles 4(1) and 9(1) to assess a proposal for a Network and applications for membership of the Network shall use the assessment manual.
+
+## CHAPTER III — EVALUATION OF EUROPEAN REFERENCE NETWORKS
+
+### Article 14 — Evaluation
+
+1\. All Networks and their Members shall be periodically evaluated, at the latest every five years after their approval or last evaluation.
+
+2\. On receiving the request for evaluation from the Coordinator of a Network, the Commission shall appoint a body to evaluate the Network and its Members.
+
+3\. The evaluation body shall verify and assess:
+
+(a) the fulfilment of the criteria and conditions set out in Delegated Decision 2014/286/EU;
+
+(b) the accomplishment of the objectives set out in Article 12(2) of Directive 2011/24/EU; and
+
+(c) the outcomes and performance of the Network and the contribution of each Member.
+
+4\. The evaluation body shall draw up an evaluation report on the Network and send it to the Commission, the Board of the Network and the Members of the Network.
+
+5\. The evaluation body shall draw up an evaluation report on each Member of the Network and send it to the Commission and the Member in question.
+
+6\. The Coordinator and Members of the Network may send comments to the evaluation body within two months of receiving the report. On receiving the comments, the evaluation body shall amend its evaluation report explaining whether the comments justify a change in its evaluation.
+
+7\. Any termination of a Network or loss of membership on account of a negative evaluation must be approved by the Board of Member States referred to in Article 6. The Board of Member States may offer the Network or the Member in question one year to remedy the shortcomings identified before carrying out a new evaluation. That period of time shall only be offered to a specific Network or Member of a Network if the Board of the Network presents an improvement plan.
+
+### Article 15 — Evaluation manual
+
+1\. In consultation with Member States and interested parties, the Commission shall draw up a manual regarding the content of and documentation and procedure for the evaluation of the Networks and their Members referred to in Article 14.
+
+2\. The evaluation procedure shall include the evaluation of the documentation submitted, including the self-evaluation reports, and on-site audits.
+
+3\. The body appointed by the Commission pursuant to Article 14(2) to evaluate a Network and its Members shall use the evaluation manual.
+
+## CHAPTER IV — EXCHANGE OF INFORMATION AND EXPERTISE
+
+### Article 15a — Exchange of information and expertise among the Member States
+
+Member States are invited to exchange information and expertise within the Board of Member States in order to steer the development of the ERNs, provide guidance to the Networks and to the Member States and advise the Commission on matters related to the establishment of the Networks.
+
+### Article 16 — Exchange of information on establishing and evaluating the Networks
+
+1\. The Commission shall facilitate the exchange of information and expertise on establishing and evaluating the Networks by:
+
+(a) making general information on establishing and evaluating the Networks, including information on the assessment and evaluation manuals referred to in Articles 13 and 15 publicly available;
+
+(b) publishing a regularly updated list of the Networks and their Members, together with the positive assessment and evaluation reports of the Networks and the decisions of the Board of Member States, in accordance with its rules of procedure;
+
+(c) organising conferences and experts meetings for technical and scientific debate among the Members of Networks, if appropriate;
+
+(d) providing electronic media and communication tools to the Networks, if appropriate.
+
+2\. For the purpose of publishing the list referred to in paragraph 1(b), any change in the Member acting as Coordinator of a Network or in the person nominated as Coordinator of a Network shall be communicated to the Commission by the Board of the Network.
+
+### Article 16a — The Clinical Patient Management System
+
+1\. A Clinical Patient Management System (‘CPMS’) for the electronic exchange of personal data of patients between healthcare providers authorised to access CPMS within the ERNs is hereby established.
+
+2\. The CPMS shall consist of a secure IT tool provided by the Commission for the sharing and hosting of patient data and for real and on-time communication on patient cases within the ERNs.
+
+3\. It shall include, inter alia, a medical image viewer, data reporting capabilities, custom datasets and it shall integrate adequate data protection safeguards in accordance with Annex I.
+
+### Article 16b — Personal data processed in the CPMS
+
+1\. Personal data of patients, which consist of name, gender, date and place of birth and other personal data necessary for the purpose of diagnosis and treatment shall be exchanged and processed within the ERNs exclusively through the CPMS. The processing shall be limited to the purposes of facilitating collaboration on the medical assessment of a patient file for diagnosis and treatment, of entering the data in registries and other databases for rare and low prevalence complex diseases, which serve scientific research, clinical or health policy purposes and of contacting potential participants for scientific research initiatives. It shall be based on a consent obtained in accordance with Annex IV.
+
+2\. The Commission shall be regarded as controller of processing of personal data related to the management of access rights and shall process these data on the basis of the explicit consent of the individuals identified by the healthcare providers as users and authorised by the relevant ERNs in so far as necessary to ensure that:
+
+(a) access rights are granted to these individuals;
+
+(b) these individuals may exercise their rights and fulfil their obligations; and
+
+(c) it can fulfil its obligations as a controller.
+
+3\. The Commission shall not access personal data of patients, unless it is strictly necessary to fulfil its obligations as a joint controller.
+
+4\. Only persons authorised by ERNs and belonging to the categories of staff and other individuals affiliated to the healthcare providers authorised to access CPMS may access personal data of patients in the CPMS.
+
+5\. The name of the patient, as well as the place and exact date of birth, shall be encrypted and pseudonymised in the CPMS. Other personal data necessary for the purpose of diagnosis and treatment shall be pseudonymised. Only pseudonymised data shall be available to CPMS users from other healthcare providers for panel discussions and assessment of patient files.
+
+6\. The Commission shall ensure the security of transfer and hosting of personal data.
+
+7\. Healthcare providers authorised to access CPMS shall delete data no longer necessary. Personal data of patients shall only be retained for as long as necessary in the interest of patient care, diseases' diagnosis or for the purpose of ensuring care within an ERN to the patients' family members. Every 15 years at the latest, each healthcare provider authorised to access CPMS shall review the need to keep the patients' data it is controller of.
+
+8\. The effectiveness of technical and organisational measures for ensuring the security of processing of personal data in the CPMS shall be regularly tested, assessed and evaluated by the Commission and by the healthcare providers authorised to access CPMS.
+
+### Article 16c — Joint controllership of patients' personal data processed through the CPMS
+
+1\. Each of the healthcare providers processing patients' data in the CPMS and the Commission shall be joint controllers of the processing of these data in the CPMS.
+
+2\. For the purposes of paragraph 1, responsibilities shall be allocated among joint controllers in accordance with Annex III.
+
+3\. Each of the joint controllers shall comply with relevant Union and national legislation to which the respective controller is subject.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 17 — Revision
+
+The Commission shall evaluate the functioning of this Implementing Decision five years after its entry into force.
+
+### Article 18 — Entry into force
+
+This Decision shall enter into force on the tenth day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX I — CONTENT OF THE APPLICATION TO ESTABLISH A NETWORK
+
+The application to establish a Network must be submitted according to the call for interest published by the Commission and must include:
+
+(a) the name of the proposed Network;
+
+(b) the completed application form, with the self-assessment questionnaire and additional documentation required in the assessment manual;
+
+(c) evidence that all applicant healthcare providers share the same area of expertise and focus on the same health condition or conditions;
+
+(d) the name of the healthcare provider that will act as Coordinator of the Network and the name and contact details of the person who will represent the proposed Coordinator;
+
+(e) the names of all applicant healthcare providers.
+
+## ANNEX II — CONTENT OF THE MEMBERSHIP APPLICATION
+
+The application of healthcare providers must include:
+
+(a) the title of the relevant proposed Network or existing Network;
+
+(b) the completed application form, with the self-assessment questionnaire and additional documentation required in the assessment manual;
+
+(c) the name and contact details of the healthcare provider's representative.
+
+## ANNEX III
+
+**ALLOCATION OF RESPONSIBILITIES AMONG JOINT CONTROLLERS**
+
+1\. The Commission shall be responsible for:
+
+(i) the setting up, operation and administration of the CPMS;
+
+(ii) providing, where necessary, the technical means to the healthcare providers to enable patients to exercise their rights through the CPMS in accordance with Regulation (EU) 2018/1725 and responding and attending to the requests of data subjects where so required by applicable legislation;
+
+(iii) ensuring that the CPMS complies with the requirements applicable to Commission's communication and information systems ( 1 );
+
+(iv) defining and implementing the technical means to enable patients to exercise their rights in accordance with Regulation (EU) 2018/1725;
+
+(v) communicating any personal data breaches within the CPMS to the healthcare providers;
+
+(vi) exporting personal data sets from the CPMS in the event of a change of personal data processor;
+
+(vii) identifying the categories of staff and other individuals to whom access to the CPMS may be granted, affiliated to the healthcare providers authorised to access CPMS;
+
+(viii) ensuring that the patients' name and place of birth (unless necessary for diagnosis and treatment), and the exact date of birth are encrypted and pseudonymised and that other personal data necessary for the purpose of diagnosis and treatment are pseudonymised in CPMS;
+
+(ix) putting adequate safeguards in place to ensure the security and confidentiality of patients' personal data processed through the CPMS.
+
+2\. Each healthcare provider authorised to access CPMS shall be responsible for:
+
+(i) selecting the patients whose personal data are processed through the CPMS;
+
+(ii) collecting and maintaining explicit, informed, freely-given and specific consent(s) of the patients whose data are processed through the CPMS in compliance with the mandatory minimum requirements for the consent form specified in Annex IV;
+
+(iii) acting as the contact point for its patients, including when they exercise their rights, responding to the requests of patients or their representatives and ensuring that patients whose data are processed through the CPMS are enabled to exercise their rights in compliance with data protection legislation, using, where necessary, the technical means provided by the Commission in line with point 1(ii);
+
+(iv) reviewing, at least every 15 years, the necessity of processing specific patients' personal data through the CPMS;
+
+(v) ensuring the security and confidentiality of any processing of patients' personal data outside the CPMS done by that healthcare provider, where such data is processed for the purposes of or in connection to processing patients' personal data through the CPMS;
+
+(vi) communicating any personal data breaches with regard to patient data processed through the CPMS to the Commission, to the competent supervisory authorities and, where so required, to patients, in accordance with Articles 33 and 34 of Regulation (EU) 2016/679 or if requested by the Commission;
+
+(vii) identifying, in compliance with access criteria referred to in point 1(vii) of this Annex, staff and other individuals affiliated to them, whom shall be granted access to patients' personal data within the CPMS and communicating it to the Commission;
+
+(viii) ensuring that their staff and other individuals affiliated to them, who have access to patients' personal data within the CPMS, are adequately trained to ensure that they perform their tasks in compliance with the rules applicable to the protection of personal data, and are subject to the obligation of professional secrecy in accordance with Article 9(3) of the Regulation (EU) 2016/679.
+
+## ANNEX IV
+
+**Mandatory minimum requirements for the consent form to be provided by healthcare providers authorised to access CPMS**
+
+1\. The consent form shall describe the legal basis and lawfulness of processing, concept and purpose of the European Reference Networks (ERNs) established by Directive 2011/24/EU on the application of patients' rights in cross-border healthcare. It shall inform about the specific processing operations and the respective rights of the data subject in accordance with applicable data protection legislation. It shall explain that Networks are constituted of Members that are highly specialised healthcare providers, with the purpose to allow healthcare professionals to work together to support patients with rare or low prevalence complex diseases or conditions that need highly specialised healthcare.
+
+2\. The consent form shall request the patient's explicit consent for sharing her/his personal data with one or more ERNs, with the sole purpose to improve her/his access to diagnosis and treatment and the provision of high-quality healthcare. To that end, it shall explain that:
+
+(a) if the consent is given, the patients' personal data will be processed by healthcare providers authorised to access CPMS respecting the following conditions:
+
+(i) the name of the patient, as well as place and exact date of birth will not be included in the shared data; the patient's identifying data will be replaced by a unique identifier which will not allow identification of the patient to anyone else other than the healthcare provider (pseudonymisation);
+
+(ii) only data that are relevant for the purpose of diagnosis and treatment will be shared; this may include area of birth and area of residence, gender, year and month of birth, medical images, laboratory reports, as well as biological sample data. It may also include letters and reports from other healthcare professionals who have cared for the patient in the past;
+
+(iii) the patient's data will be shared through the Clinical Patient Management System (CPMS), a secure electronic information system;
+
+(iv) only healthcare professionals and other individuals affiliated to such healthcare providers subject to the obligation of professional secrecy who are entitled to have access to patients' data in the Networks will have access to the patient's data;
+
+(v) healthcare professionals and other individuals affiliated to such healthcare providers who are entitled to have access to patients' data may run queries in the CPMS and create reports in order to identify similar patient cases;
+
+(b) if the consent is not given, it will by no means affect the patient's care by the respective healthcare provider.
+
+3\. The consent form may also request the patient's additional consent to her/his data being entered in registries or other databases for rare and low prevalence complex diseases, which serve scientific research, clinical or policy purposes. If consent is requested for this purpose, the consent form shall describe the concept and purpose of rare disease registries or databases and explain that:
+
+(a) if the consent is given, the patient's personal data will be processed by healthcare providers authorised to access CPMS respecting the following conditions:
+
+(i) only relevant data related to the patient's medical condition will be shared;
+
+(ii) healthcare professionals and other individuals affiliated to such healthcare providers who are entitled to have access to patients' data may run queries in the CPMS and create reports in order to identify similar patient cases;
+
+(b) if the consent is not given, it will by no means affect either the patient's care by the respective healthcare provider, or the fact that the Network will provide advice on diagnoses and treatment, at the request of the patient.
+
+4\. The consent form may also request the patient's additional consent to being contacted by a Network Member who believes the patient could be suitable for a scientific research initiative, a specific scientific research project or parts of a scientific research project. If consent is requested for this purpose, the consent form shall explain that giving at this stage the consent to be contacted for scientific research purposes does not mean giving the consent for the patient's data to be used for a specific scientific research initiative, neither does it mean that the patient will in any event be contacted in connection with, or that the patient will be part of, a specific scientific research project and that:
+
+(a) if the consent is given, the patient's personal data will be processed by healthcare providers authorised to access CPMS respecting the following conditions:
+
+(i) healthcare professionals and other individuals affiliated to such healthcare providers who are entitled to have access to patients' data may run queries in the CPMS and create reports in order to find patients suitable for scientific research;
+
+(ii) if the patient's disease or condition is found relevant for a specific scientific research project, the patient may be contacted for this specific scientific research project, in order to obtain the patient's consent to her/his data being used for that scientific research project;
+
+(b) if the consent is not given, it will by no means affect either the patient's care by the respective healthcare provider, or the fact that the Network will provide advice on diagnoses and treatment, at the request of the patient.
+
+5\. The consent form shall explain the rights of the patient as regards her/his respective consent(s) to share personal data and in particular provide the information that the patient:
+
+(a) has the right to give or withhold any of the consents and this will not affect her/his care;
+
+(b) can withdraw the consent given previously at any time;
+
+(c) has the right to know which data are shared in a Network and to access data held about them and request corrections of any errors;
+
+(d) can request the blocking or erasure of her/his personal data and has the right to data portability.
+
+6\. The consent form shall inform the patient that the healthcare provider will keep the personal data only for as long as necessary for the purposes to which the patient consented, with a review of the necessity of storing specific patient's personal data in the CPMS at least every 15 years.
+
+7\. The consent form shall inform the patient about the identity and the contact details of the controllers, clearly specifying that the contact point to exercise the patient's rights is the particular healthcare provider authorised to access CPMS, about the contact details of the data protection officers, and where applicable, about available remedies related to data protection, and provide the contact details of the National Data Protection Authority.
+
+8\. The consent form shall record separately the individual consent for each of the three different forms of data sharing in a specific, explicit and unambiguous way:
+
+(a) the consent must be shown through a clear affirmative action, for example by the use of a ticking box and a signature on the form;
+
+(b) both options (to provide or to refuse the consent) shall be included.
+
+( 1 ) Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission (OJ L 6, 11.1.2017, p. 40) and Commission Decision of 13 December 2017 laying down implementing rules for Articles 3, 5, 7, 8, 9, 10, 11, 12, 14, 15 of Decision (EU, Euratom) 2017/46 on the security of communication and information systems in the Commission (C(2017) 8841 final).

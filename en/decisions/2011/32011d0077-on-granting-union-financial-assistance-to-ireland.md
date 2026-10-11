@@ -1,0 +1,192 @@
+---
+title: "2011/77/EU: Council Implementing Decision of 7 December 2010 on granting Union financial assistance to Ireland"
+identifier: "32011D0077"
+eli: "http://data.europa.eu/eli/dec_impl/2011/77/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2010-12-07
+entry_into_force: 2011-12-22
+last_amended: 2013-10-24
+consolidated_version: "02011D0077-20131024"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D0077-20131024"
+retrieved: 2026-10-11
+---
+
+# 2011/77/EU: Council Implementing Decision of 7 December 2010 on granting Union financial assistance to Ireland
+
+**COUNCIL IMPLEMENTING DECISION**
+
+**of 7 December 2010**
+
+**on granting Union financial assistance to Ireland**
+
+**(2011/77/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 30 May 2011 </td><td> L 147</td><td>17</td><td>2.6.2011</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 2 September 2011 </td><td> L 240</td><td>11</td><td>16.9.2011</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 11 October 2011 </td><td> L 269</td><td>31</td><td>14.10.2011</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 30 November 2011 </td><td> L 329</td><td>7</td><td>13.12.2011</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 22 June 2012 </td><td> L 182</td><td>37</td><td>13.7.2012</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 22 January 2013 </td><td> L 21</td><td>30</td><td>24.1.2013</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 21 June 2013 </td><td> L 173</td><td>40</td><td>26.6.2013</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 9 July 2013 </td><td> L 191</td><td>9</td><td>12.7.2013</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION of 22 October 2013 </td><td> L 282</td><td>71</td><td>24.10.2013</td></tr>
+</table>
+
+**COUNCIL IMPLEMENTING DECISION**
+
+**of 7 December 2010**
+
+**on granting Union financial assistance to Ireland**
+
+**(2011/77/EU)**
+
+## Article 1
+
+1\. The Union shall make available to Ireland a loan amounting to a maximum of EUR 22,5 billion, with a maximum average maturity of 19,5 years. The maturity of individual tranches of the loan facility may be up to 30 years.
+
+2\. The financial assistance shall be made available during 3 years and 2 months starting from the first day after the entry into force of this Decision.
+
+3\. The Union financial assistance shall be made available by the Commission to Ireland in a maximum of 13 instalments. An instalment may be disbursed in one or several tranches. The maturities of the tranches under the first and third instalments may be longer than the maximum average maturity referred to in paragraph 1. In such cases, the maturities of further tranches shall be set so that the maximum average maturity referred to in paragraph 1 be achieved once all instalments have been disbursed.
+
+4\. The first instalment shall be released subject to the entry into force of the Loan Agreement and the Memorandum of Understanding. Any subsequent loan releases shall be conditional upon a favourable quarterly assessment by the Commission, in consultation with the ECB, of Ireland’s compliance with the general economic policy conditions as defined by this Decision and the Memorandum of Understanding.
+
+5\. Ireland shall pay the cost of funding of the Union for each tranche.
+
+6\. In addition, costs referred to in Article 7 of Regulation (EU) No 407/2010 shall be charged to Ireland.
+
+7\. If required in order to finance the loan, the prudent use of interest rate swaps with counterparties of the highest credit quality shall be permitted.
+
+8\. The Commission shall decide on the size and release of further instalments. The Commission shall decide on the size of the tranches.
+
+9\. At the request of Ireland, the Commission may extend the maturity of an instalment or a tranche, provided that the maximum average maturity as set out in paragraph 1 is respected. The Commission may refinance all or part of its borrowing for that purpose. Any amounts borrowed in advance shall be kept on an account with the ECB that the Commission has opened for the administration of the financial assistance.
+
+## Article 2
+
+1\. The assistance shall be managed by the Commission in a manner consistent with Ireland’s undertakings and with recommendations by the Council, in particular the Recommendations addressed to Ireland in the context of the implementation of its National Reform Programme as well as in the context of the implementation of the Stability and Growth Pact.
+
+2\. The Commission, in consultation with the ECB, shall agree with the Irish authorities the specific economic policy conditions attached to the financial assistance as set out in Article 3. Those conditions shall be laid down in a Memorandum of Understanding to be signed by the Commission and the Irish authorities consistent with the undertakings and recommendations referred to in paragraph 1. The detailed financial terms shall be laid down in a Loan Facility Agreement to be concluded with the Commission.
+
+3\. The Commission, in consultation with the ECB, shall verify at regular intervals that the economic policy conditions attached to the assistance are fulfilled, and report to the Economic and Financial Committee before disbursement of each instalment. To this end, the Irish authorities shall cooperate in full with the Commission and the ECB, and shall place all the necessary information at their disposal. The Commission shall keep the Economic and Financial Committee informed of possible refinancing of the borrowings, or restructuring of the financial conditions.
+
+4\. Ireland shall adopt and implement additional consolidation measures to ensure macro-financial stability, in case such measures will be necessary during the programme of assistance. The Irish authorities shall consult the Commission and the ECB in advance of the adoption of any such additional measures.
+
+## Article 3
+
+1\. The economic and financial adjustment programme (the ‘Programme’) prepared by the Irish authorities is hereby approved.
+
+2\. The disbursement of each further instalment shall be made on the basis of a satisfactory implementation of the Programme to be included in the Stability Programme of Ireland, in the National Reform Programme and, more particularly, the specific economic policy conditions laid down in the Memorandum of Understanding. These shall include, inter alia, the measures provided for in paragraphs 4 to 9 of this Article.
+
+3\. The general government deficit shall not exceed 10,6 % of projected GDP in 2011, 8,6 % of GDP in 2012 and 7,5 % of GDP in 2013, in order to place Ireland on track to reduce the deficit to below 3 % of GDP by 2015. The projected annual deficit path does not incorporate the possible direct effect of potential bank support measures in the context of the government’s financial sector strategy as set out in the Memorandum of Economic and Financial Polices and specified in the Memorandum of Understanding. Further, this path is consistent with the preliminary view of the Commission (Eurostat) on the ESA95 accounting treatment of time of recording of interest payments on promissory notes payable to Anglo Irish Bank ( 2 ), such that a revision of that view would result in a revision of the deficit path.
+
+4\. Ireland shall adopt the measures specified in paragraphs 7 to 9 before the end of the indicated year, with exact deadlines for the years 2011-2013 being specified in the Memorandum of Understanding. Ireland shall stand ready to take additional consolidation measures to reduce the deficit to below 3 % of GDP by 2015 in case downside risks to the deficit targets specified in paragraph 3 of this Article materialise.
+
+5\. With a view to restoring confidence in the financial sector, Ireland shall adequately recapitalise, rapidly deleverage and thoroughly restructure the banking system as set out in the Memorandum of Understanding. In that regard, Ireland shall develop and agree with the European Commission, the ECB and the IMF a strategy for the future structure, functioning and viability of the Irish credit institutions which will identify how to ensure that they are able to operate without further state support. In particular, Ireland shall:
+
+(a) take action to ensure that domestic banks are adequately capitalised in the form of equity, if needed, so as to ensure that they respect the minimum regulatory requirement of a 10,5 % core tier 1 capital ratio for the entire duration of the EU financial assistance programme, while deleveraging towards the target loan-to-deposits ratio of 122,5 % by end-2013;
+
+(b) implement the divestiture of participations in banks acquired during the crisis within the shortest timeframe possible, in a manner compatible with financial stability and public finance considerations;
+
+(c) implement a specific plan for the resolution of Anglo Irish Bank and Irish Nationwide Building Society, which will seek to minimise capital losses arising from the working out of these non-viable credit institutions;
+
+(d) by the end of 2010, submit draft legislation to the Oireachtas (Parliament) on financial stabilisation and restructuring of credit institutions which will, inter alia, address burden sharing by subordinated debt bond holders;
+
+(e) by the end of March 2011, submit draft legislation to the Oireachtas on a special resolution regime for banks and building societies, and improved procedures for early intervention in distressed banks by the Central Bank of Ireland.
+
+6\. Ireland shall adopt the following measures before the end of 2010:
+
+Adoption of a budget for 2011 including fiscal consolidation measures in a total amount of EUR 6 billion aiming at a reduction of the general government deficit within the timeframe referred to in paragraph 3. The budget shall include revenue measures to raise at least EUR 1,4 billion in 2011, including a lowering of personal income tax bands and credits or equivalent measures to yield EUR 945 000 000 in 2011; a reduction in pension tax relief and pension related deductions to yield EUR 155 000 000 in 2011; a reduction in general tax expenditures to yield EUR 220 000 000 in 2011; increases in excises and miscellaneous tax measures to raise EUR 80 000 000 in 2011. In addition, the budget shall specify that the government will outline methods to raise at least EUR 700 000 000 in one-off and other measures in 2011. The budget shall also include a reduction of current expenditure in 2011 of at least EUR 2,09 billion, including: social protection expenditure reductions; a reduction of public service employment; a reduction of existing public service pensions on a progressive basis averaging over 4 %; other expenditure savings, including cuts in goods and services spending and in other transfer payments; a reduction of at least EUR 1,8 billion in public capital expenditure against existing plans for 2011. In exceptional circumstances, other measures yielding comparable savings shall be considered, in close consultation with the Commission.
+
+7\. Ireland shall adopt the following measures during 2011, in line with specifications in the Memorandum of Understanding:
+
+(a) a 10 % pay reduction for new entrants to the public service. The Irish government shall also consider an appropriate adjustment, including in relation to the public service wage bill, to compensate for potential shortfalls from projected savings from administrative efficiencies and public service numbers reductions;
+
+(b) the adoption of a budget for 2012 including fiscal consolidation measures amounting to at least EUR 3,6 billion and aiming at a reduction of the general government deficit within the timeframe referred to in Article 3(3). The draft budget shall, in particular, include revenue measures to yield EUR 1,5 billion in a full year including, inter alia: a lowering of personal income tax bands and credits; a reduction in private pension tax relief; a reduction in general tax expenditure; a new property tax; a reform of capital gains tax and capital acquisitions tax; and, an increase in the carbon tax. The budget shall provide for a reduction of expenditure in 2012 of EUR 2,1 billion including social expenditure reductions; cuts in public sector employment; adjustments in public sector pensions and in other expenditure set out in the Programme; and reductions in capital expenditure. In consultation with the Commission, the IMF and the ECB, Ireland may introduce budgetary changes to the above specified measures to fully realise efficiencies that are to be identified by the ongoing Comprehensive Review of Expenditure and the priorities of the Programme for Government, consistent with the overall objective of ensuring that the budget for 2012 yields a fiscal consolidation of at least EUR 3,6 billion;
+
+(c) the finalisation of an independent assessment of transfer of responsibility for water services provision from local authorities to a water utility, and preparation of proposals for implementation with a view to starting charging in 2012-2013;
+
+(d) the adoption of legislation to increase the state pension age to 66 years in 2014, 67 in 2021, and 68 in 2028, with a view to enhancing the long-term sustainability of the public finances;
+
+(f) Ireland shall adopt legislative changes to remove restrictions to trade and competition in sheltered sectors including the legal profession, medical services and the pharmacy profession;
+
+(g) the recapitalisation of the domestic banks by the end of July 2011 (subject to appropriate adjustment for expected asset sales and liability management exercises in the cases of Irish Life & Permanent and Bank of Ireland) in line with the findings of the 2011 Prudential Liquidity Assessment Review (PLAR) and Prudential Capital Assessment Review (PCAR), as announced by the Central Bank of Ireland on 31 March 2011. To allow further burden sharing, the final EUR 0,35 billion step in recapitalising Bank of Ireland shall be completed by the end of 2011 and any further recapitalisation of Irish Life & Permanent shall be completed following the disposal of the insurance arm;
+
+(h) the introduction of legislation to reform the minimum wage in such a way to foster job creation and act to prevent distortions caused by sectoral minimum wages, and undertaking, in agreement with the Commission, an independent review of the framework Registered Employment Agreements and Employment Regulation Orders;
+
+(i) a reform of the unemployment benefit system to enhance incentives for an early exit from unemployment. Activation measures shall be strengthened by better identifying job seekers’ needs, enhancing engagement, and developing sanctions to ensure job search or training by beneficiaries; this shall be underpinned by more effective monitoring. The sanctions mechanism shall be set to cause an effective loss of income without being excessively penal;
+
+(j) the publication of an in-depth review of the personal debt regime, and start of work on a reform of legislation which will balance the interests of both creditors and debtors;
+
+(k) the preparation of a report providing an independent assessment of the electricity and gas sectors to assist with public financing needs, as well as to increase competition. The Irish authorities shall consult with the Commission on the results of this assessment with a view to setting appropriate targets;
+
+(l) enhancing competition in open markets. To this end, legislation shall be reformed to generate more credible deterrence by ensuring the availability of effective sanctions for infringements of Irish competition law and Articles 101 and 102 of the Treaty as well as ensuring the effective functioning of the Competition Authority. In addition, for the duration of the programme, the authorities will ensure that no further exemptions to the competition law framework will be granted unless they are entirely consistent with the goals of the Union financial assistance programme and the needs of the economy;
+
+(m) encouraging growth in the retail sector; the government will conduct a study to examine the economic impact of eliminating the current cap on the size of retail premises with a view to enhancing competition and lowering prices for consumers. Implementation of the policy of the study will be discussed with the Commission;
+
+(n) the deleveraging of the domestic banks towards the target for loan-to-deposit ratios established under the 2011 PLAR;
+
+(o) the preparation of a plan to underpin the solvency and viability of undercapitalised institutions in the credit union sector, including by granting the Central Bank of Ireland the necessary powers to promote a higher degree of consolidation of the sector through mergers where appropriate, with government financial support if warranted;
+
+(q) the submission to the Dáil, by end October, of a Pre-Budget Outlook setting out a medium-term fiscal consolidation plan for 2012-15 outlining the overall composition of revenue and expenditure adjustments for each year, consistent with the targets set out in the Council Recommendation of 7 December 2010;
+
+(r) the announcement, by 2012 Budget day (early December 2011), of binding medium-term expenditure cash ceilings and set out revenue and expenditure measures to deliver the needed adjustment over 2012-15;
+
+(s) the issuance by the Central Bank of Ireland, by end December 2011, of guidance to banks for the recognition of accounting losses incurred in their loan book;
+
+(t) the publication by the Central Bank of Ireland, by end December 2011, of new guidelines for the valuation of collateral for bank loans;
+
+(u) the preparation and discussion, by end December 2011, of a draft programme of asset disposals, including the identification of the potential assets to be disposed, any necessary regulatory changes, and a timetable for implementation.
+
+8\. Ireland shall adopt the following measures during 2012, in line with specifications in the Memorandum of Understanding:
+
+(a) the adoption of a budget for 2013 including fiscal consolidation measures amounting to at least EUR 3,1 billion aiming at a reduction of the general government deficit within the timeframe referred to in Article 3(3). In particular, the budget shall include revenue measures to raise at least EUR 1,1 billion (inclusive of carryover from 2012), including: a lowering of personal income tax bands and credits; a reduction in private pension tax relief; a reduction in general tax expenditures and an introduction of property tax. The budget shall also provide for a reduction in expenditure in 2013 of at least EUR 2 billion, including: social expenditure reductions; a reduction of public service employment; public service pension adjustments; cuts in other expenditure set out in the Programme; and reductions in capital expenditure. In consultation with the European Commission, the IMF and the ECB, Ireland may introduce budgetary changes to the above specified measures to fully realise efficiencies that are to be identified by the ongoing Comprehensive Review of Expenditure and the priorities of the Programme for Government, consistent with the overall objective to ensure that the budget for 2013 yields a fiscal consolidation of at least EUR 3,1 billion;
+
+(b) the submission of legislation to the Oireachtas to reform the personal debt regime with a view to ensuring a better balance of the interests of both creditors and debtors;
+
+(c) the deleveraging of the domestic banks towards the nominal targets for non-core asset disposals and amortisation in line with the 2011 PLAR,  unless otherwise agreed with the European Commission in the context of ongoing assessments of banks’ restructuring plans, and the monitoring of banks’ progress towards the relevant Basel III liquidity and net-stable-funding ratio requirements in line with the advanced monitoring framework agreed under the programme;
+
+(d) the submission of legislation to the Oireachtas to assist the credit unions with a strengthened regulatory framework including more effective governance and regulatory requirements;
+
+(e) the adoption of measures reinforcing a credible budgetary strategy and strengthening the budgetary framework. Ireland shall adopt and implement the fiscal rule that any additional unplanned revenues in 2011-2015 will be allocated to deficit and debt reduction. Ireland shall introduce a Fiscal Responsibility Bill including provisions for a medium-term budgetary framework with binding multiannual ceilings on expenditure in each area, fiscal rules and assure the Fiscal Advisory Council’s independence. This shall be made taking into account the revised economic governance reforms at Union level and build on reforms already in place;
+
+(f) the completion of the following work-streams in the domestically-owned Irish banks, on whose results the Irish authorities will report to the Commission, the ECB and the IMF: (i) an independent asset quality review to assess the quality of aggregate and individual loan portfolios and the processes employed for establishing and monitoring asset quality; (ii) a distressed credit operations review to assess the operational capability and effectiveness of distressed loan portfolio management in the banks including arrears management and workout practices in curing non-performing loans (NPLs) and reducing loan losses; (iii) a data integrity validation exercise to assess the reliability of banks’ data; and (iv) an income recognition and re-ageing project to review existing practices against international financial reporting standards (IFRS) and relevant regulatory guidance;
+
+(g) the assessment of banks’ progress with the work-out of their non-performing portfolios;
+
+(h) the provision to the Commission, the ECB and the IMF of an evaluation of the actions taken in respect of jobseekers payments recipients who do not attend employment activation interviews;
+
+(i) the completion of a cross-departmental report to explore the scope for attenuating any adverse employment incentives arising from the structure of social payments;
+
+(j) the adoption of legislation reforming pension entitlements for new entrants to the public service. This shall include a review of accelerated retirement for certain categories of public servants and an indexation of pensions to consumer prices. Pensions shall be based on career average earnings. New entrants’ retirement age shall be linked to the state pension retirement age.
+
+9\. In order to ensure the smooth implementation of the Programme’s conditionality, and to help to correct imbalances in a sustainable way, the Commission shall provide continued advice and guidance on fiscal, financial market and structural reforms. Within the framework of the assistance to be provided to Ireland, together with the IMF and in liaison with the ECB, it shall periodically review the effectiveness and economic and social impact of the agreed measures, and shall recommend necessary corrections with a view to enhancing growth and job creation, securing the necessary fiscal consolidation and minimising harmful social impacts, particularly regarding the most vulnerable members of Irish society.
+
+10\. Ireland shall during 2013, in line with specifications in the Memorandum of Understanding:
+
+(a) complete a balance sheet assessment before the end of the programme, as part of the preparatory work towards a stress test to be conducted in accordance with the new EU methodology;
+
+(b) deleverage the domestic banks towards the end-2013 nominal targets for non-core asset disposals and amortisation in line with the 2011 PLAR,  unless otherwise agreed with the European Commission in the context of ongoing assessments of banks’ restructuring plans, and monitor banks’ progress towards the relevant Basel III liquidity and net-stable-funding ratio requirements in line with the advanced monitoring framework agreed under the programme;
+
+(c) communicate to the Commission the funding model for Irish Water and announce a definitive time-plan for the introduction of domestic water charges in the fourth quarter of 2014.
+
+## Article 4
+
+Ireland shall open a special account with the Central Bank of Ireland for the management of the Union financial assistance.
+
+## Article 5
+
+This Decision is addressed to Ireland.
+
+## Article 6
+
+This Decision shall be published in the Official Journal of the European Union.
+
+( 1 ) OJ L 118, 12.5.2010, p. 1.
+
+( 2 ) See http://epp.eurostat.ec.europa.eu/portal/page/portal/government_finance_statistics/methodology/advice_member_states

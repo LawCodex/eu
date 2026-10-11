@@ -1,0 +1,524 @@
+---
+title: "Council Decision (CFSP) 2015/740 of 7 May 2015 concerning restrictive measures in view of the situation in South Sudan and repealing Decision 2014/449/CFSP"
+identifier: "32015D0740"
+eli: "http://data.europa.eu/eli/dec/2015/740/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2015-05-07
+entry_into_force: 2015-03-03
+last_amended: 2026-06-24
+consolidated_version: "02015D0740-20260624"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015D0740-20260624"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2015/740 of 7 May 2015 concerning restrictive measures in view of the situation in South Sudan and repealing Decision 2014/449/CFSP
+
+**COUNCIL DECISION (CFSP) 2015/740**
+
+**of 7 May 2015**
+
+**concerning restrictive measures in view of the situation in South Sudan and repealing Decision 2014/449/CFSP**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2015/1118 of 9 July 2015 </td><td> L 182</td><td>31</td><td>10.7.2015</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2017/414 of 7 March 2017 </td><td> L 63</td><td>109</td><td>9.3.2017</td></tr>
+<tr><td> M3</td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2018/168 of 2 February 2018 </td><td> L 31</td><td>86</td><td>3.2.2018</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2018/1125 of 10 August 2018 </td><td> L 204</td><td>48</td><td>13.8.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2018/1946 of 10 December 2018 </td><td> L 314</td><td>62</td><td>11.12.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2019/1211 of 15 July 2019 </td><td> L 191</td><td>11</td><td>17.7.2019</td></tr>
+<tr><td> M7</td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2022/755 of 16 May 2022 </td><td> L 138</td><td>17</td><td>17.5.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/726 of 31 March 2023 </td><td> L 94</td><td>48</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2024/1731 of 17 June 2024 </td><td> L 1731</td><td>1</td><td>18.6.2024</td></tr>
+<tr><td> M10</td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2025/1349 of 8 July 2025 </td><td> L 1349</td><td>1</td><td>9.7.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (CFSP) 2026/1401 of 22 June 2026 </td><td> L 1401</td><td>1</td><td>23.6.2026</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2015/740**
+
+**of 7 May 2015**
+
+**concerning restrictive measures in view of the situation in South Sudan and repealing Decision 2014/449/CFSP**
+
+## Article 1
+
+1\. The sale, supply, transfer or export of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts for the aforementioned to South Sudan by nationals of Member States or from the territories of Member States, or using their flag vessels or aircraft, shall be prohibited whether originating or not in their territories.
+
+2\. It shall also be prohibited to:
+
+(a) provide, directly or indirectly, technical assistance, brokering services or other services, including the provision of armed mercenary personnel, related to military activities or related to the items referred to in paragraph 1 or related to the provision, manufacture, maintenance and use of such items, to any natural or legal person, entity or body in, or for use in, South Sudan;
+
+(b) provide, directly or indirectly, financing or financial assistance related to military activities or related to the items referred to in paragraph 1, including in particular grants, loans and export credit insurance, as well as insurance or reinsurance for any sale, supply, transfer or export of such items, or for the provision of related technical assistance, brokering services or other services to any natural or legal person, entity or body in, or for use in, South Sudan;
+
+(c) participate, knowingly and intentionally, in activities, the object or effect of which is to circumvent the measures referred to in point (a) or (b).
+
+## Article 2
+
+Article 1 shall not apply to the sale, supply, transfer or export of:
+
+(a) arms and related materiel, as well as training and assistance, intended solely for support of or use by UN personnel, including the United Nations Mission in the Republic of South Sudan (UNMISS) and the United Nations Interim Security Force for Abyei (UNISFA);
+
+(b) non-lethal military equipment intended solely for humanitarian or protective use, and related technical assistance or training, as notified in advance to the Security Council Committee established pursuant to resolution 2206 (2015) (‘the Committee’);
+
+(c) protective clothing, including flak jackets and military helmets, temporarily exported to South Sudan by UN personnel, representatives of the media and humanitarian and development workers and associated personnel, for their personal use only;
+
+(d) arms and related materiel temporarily exported to South Sudan by the forces of a State which is taking action, in accordance with international law, solely and directly to facilitate the protection or evacuation of its nationals and those for whom it has consular responsibility in South Sudan, as notified to the Committee;
+
+(e) arms and related materiel, as well as technical training and assistance, to or in support of the African Union Regional Task Force intended solely for regional operations to counter the Lord's Resistance Army, as notified in advance to the Committee;
+
+(f) arms and related materiel, as well as technical training and assistance, solely in support of the implementation of the terms of the peace agreement, as approved in advance by the Committee;
+
+(g) other sales or supply of arms and related materiel, or provision of assistance or personnel, as approved in advance by the Committee.
+
+## Article 2a
+
+1\. Member States shall inspect, in accordance with their national authorities and legislation and consistent with international law, all cargo to South Sudan in their territory, including seaports and airports, if they have information that provides reasonable grounds to believe that the cargo contains items whose supply, sale, transfer or export is prohibited under Article 1.
+
+2\. Member States shall, upon discovery, seize and dispose of (such as through destruction, rendering inoperable, storage or transferring to a State other than the originating or destination States for disposal) items the supply, sale, transfer or export of which is prohibited under Article 1.
+
+## Article 3
+
+1\. Member States shall take the measures necessary to prevent the entry into, or transit through, their territories of persons:
+
+(a) designated by the Security Council or by the Committee in accordance with paragraphs 6, 7, 8 and 9 of UNSCR 2206 (2015) and with paragraph 14 of UNSCR 2428 (2018), as listed in Annex I to this Decision;
+
+(b) not covered by point (a), obstructing the political process in South Sudan, including by acts of violence or violations of ceasefire agreements, as well as persons responsible for serious violations of human rights in South Sudan, and persons associated with them, as listed in Annex II.
+
+2\. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+## Article 4
+
+1\. This Article applies to the persons listed in Annex I.
+
+2\. Article 3(1) shall not apply where:
+
+(a) travel is justified on the grounds of humanitarian need, including religious obligation, as determined by the Committee on a case-by-case basis;
+
+(b) entry or transit is necessary for the fulfilment of a judicial process;
+
+(c) travel would further the objectives of peace and national reconciliation in South Sudan and stability in the region, as determined by the Committee on a case-by-case basis.
+
+## Article 5
+
+1\. This Article applies to the persons listed in Annex II.
+
+2\. Article 3(1) shall be without prejudice to the cases where a Member State is bound by an obligation of international law, namely:
+
+(a) as a host country of an international intergovernmental organisation;
+
+(b) as a host country to an international conference convened by, or under the auspices of, the UN;
+
+(c) under a multilateral agreement conferring privileges and immunities; or
+
+(d) under the 1929 Treaty of Conciliation (Lateran Pact) concluded by the Holy See (Vatican City State) and Italy.
+
+3\. Paragraph 2 shall be considered as applying also in cases where a Member State is host country to the Organisation for Security and Cooperation in Europe (OSCE).
+
+4\. The Council shall be duly informed in all cases where a Member State grants an exemption pursuant to paragraph 2 or 3.
+
+5\. Member States may grant exemptions from the measures imposed under Article 3(1) where travel is justified on grounds of urgent humanitarian need, or on grounds of attending intergovernmental meetings and meetings promoted or hosted by the EU or hosted by a Member State holding the Chairmanship in office of the OSCE, where a political dialogue is conducted that directly promotes the policy objectives of restrictive measures, including democracy, human rights and the rule of law in South Sudan.
+
+6\. A Member State wishing to grant exemptions referred to in paragraph 5 shall notify the Council in writing. The exemption shall be deemed to be granted unless one or more of the Council members raise an objection in writing within two working days of receiving notification of the proposed exemption. Should one or more of the Council members raise an objection, the Council, acting by a qualified majority, may decide to grant the proposed exemption.
+
+7\. Where, pursuant to paragraphs 2, 3, 5 and 6, a Member State authorises the entry into, or transit through, its territory of persons listed in Annex II, the authorisation shall be strictly limited to the purpose for which it is given and to the persons directly concerned thereby.
+
+## Article 6
+
+1\. All funds and economic resources belonging to, owned, held or controlled by, directly or indirectly,
+
+(a) persons and entities designated by the Security Council or by the Committee in accordance with paragraphs 6, 7, 8 and 12 of UNSCR 2206 (2015) and with paragraph 14 of UNSCR 2428 (2018), as listed in Annex I to this Decision;
+
+(b) persons obstructing the political process in South Sudan, including by acts of violence or violations of ceasefire agreements, as well as persons responsible for serious violations of human rights in South Sudan, and natural or legal persons, entities or bodies associated with them, as listed in Annex II,
+
+shall be frozen.
+
+2\. No funds or economic resources shall be made available directly or indirectly to or for the benefit of the natural or legal persons, entities or bodies listed in Annex I or II.
+
+## Article 7
+
+1\. This Article applies to the persons and entities listed in Annex I.
+
+2\. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary for basic expenses, including payment for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) exclusively for payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) fees or service charges for routine holding or maintenance of frozen funds and economic resources.
+
+The Member State concerned shall notify the Committee in advance of the intention to authorise, where appropriate, the release of certain frozen funds or economic resources. Authorisations may be granted in the absence of a negative decision by the Committee within five working days of such notification.
+
+3\. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are necessary for extraordinary expenses, provided that such determination has been notified by the Member State concerned to the Committee and has been approved by the Committee.
+
+4\. By way of derogation from Article 6(1), the competent authorities of a Member State may also authorise the release of certain frozen funds or economic resources, provided that the Member State concerned has determined that the funds or economic resources are the subject of a judicial, administrative or arbitral lien or judgment and that the funds or economic resources will be used exclusively to satisfy that lien or judgment, provided that the lien was entered into or the judgment delivered prior to the date of the adoption of UNSCR 2206 (2015), namely 3 March 2015, is not for the benefit of a natural or legal person, entity or body listed in Annex I or II, and has been notified by the Member State concerned to the Committee.
+
+5\. Article 6(1) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts; or
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in Article 6,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in Article 6(1).
+
+6\. Article 6 shall not prevent a listed natural or legal person, entity or body from making a payment due under a contract entered into prior to the date on which such natural or legal person, entity or body was listed in Annex I, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a natural or legal person, entity or body listed in Annex I or II and after notification by the Member State concerned to the Committee of the intention to make or receive such payments or to authorise, where appropriate, the release of funds, other financial assets or economic resources for this purpose, 10 working days prior to such authorisation.
+
+7\. Article 6 shall not apply to the provision, processing or payment of funds, other financial assets or economic resources or to the provision of goods and services, which are necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Committee.
+
+## Article 8
+
+1\. This Article applies to the persons and entities listed in Annex II.
+
+2\. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of the persons listed in Annex II and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources; or
+
+(d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+3\. By way of derogation from Article 6(1), the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 6(1) was listed in Annex II, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I or II; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under this paragraph.
+
+4\. Article 6(1) shall not prevent a listed natural or legal person, entity or body from making a payment due under a contract entered into prior to the date on which such natural or legal person, entity or body was listed in Annex II, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a natural or legal person, entity or body listed in Annex I or II.
+
+5\. Article 6(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in Article 6; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in Article 6(1).
+
+6\. Article 6 shall not apply to the provision, processing or payment of funds, other financial assets or economic resources or to the provision of goods and services, which are necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Council.
+
+## Article 9
+
+1\. Where the Security Council or the Committee lists a person or entity, the Council shall include such person or entity in Annex I.
+
+2\. The Council, acting upon a proposal by a Member State or the High Representative of the Union for Foreign Affairs and Security Policy, shall decide to establish and amend the list in Annex II.
+
+3\. The Council shall communicate its decisions referred to in paragraphs 1 and 2, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, entity or body with an opportunity to present observations.
+
+4\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decisions and inform the natural or legal person, entity or body concerned accordingly.
+
+## Article 10
+
+1\. Annexes I and II shall include the grounds for listing the persons and entities referred to in Articles 3(1) and 6(1), as provided by the Security Council or by the Committee with regard to Annex I, and the Council with regard to Annex II.
+
+2\. Annexes I and II shall also contain, where available, the information necessary to identify the persons and entities concerned, as provided by the Security Council or by the Committee with regard to Annex I, and the Council with regard to Annex II. With regard to persons, such information may include names, including aliases, date and place of birth, nationality, passport and identity card numbers, gender, address if known, and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business. Annexes I and II shall also include the date of designation.
+
+## Article 11
+
+In order to maximise the impact of the measures set out in this Decision, the Union shall encourage third States to adopt restrictive measures similar to those provided for in this Decision.
+
+## Article 12
+
+1\. This Decision shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met and in the light of relevant decisions of the Security Council.
+
+2\. The measures referred to in point (b) of Article 3(1) and point (b) of Article 6(1) shall be reviewed at regular intervals and at least every 12 months. They shall cease to apply in respect of the persons and entities concerned if the Council determines, in accordance with the procedure referred to in Article 9, that the conditions for their application are no longer met.
+
+## Article 13
+
+Decision 2014/449/CFSP is hereby repealed.
+
+## Article 14
+
+This Decision shall enter into force on the date following that of its publication in the Official Journal of the European Union.
+
+## ANNEX I
+
+**LIST OF PERSONS AND ENTITIES REFERRED TO IN POINT (a) OF ARTICLE 3(1) AND POINT (a) OF ARTICLE 6(1).**
+
+**A. PERSONS**
+
+**1\. Gabriel JOK RIAK MAKOL (alias: a) Gabriel Jok b) Jok Riak c) Jock Riak)**
+
+Title: Lieutenant General
+
+Designation: a) Former Sudan People's Liberation Army's (SPLA) Sector One Commander; b) Chief of Defence Forces
+
+Date of Birth: 1 Jan. 1966
+
+Place of Birth: Bor, Sudan/South Sudan
+
+Nationality: South Sudan
+
+Passport no: South Sudan number D00008623
+
+National identification no: M6600000258472
+
+Address: a) Unity State, South Sudan b) Wau, Western Bahr El Ghazal, South Sudan
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: Appointed as Chief of Defence Forces on 2 May 2018. Commanded SPLA Sector One, which operates primarily within Unity State, since January 2013. In his position as the SPLA Sector One commander, he has expanded or extended the conflict in South Sudan through breaches of the Cessation of Hostilities Agreement. The SPLA is a South Sudanese military entity that has engaged in actions that have extended the conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities Agreement and the May 9, 2014 Agreement to Resolve the Crisis in South Sudan, which was a re-commitment to the CoHA and has obstructed the activities of IGAD's Monitoring and Verification Mechanism. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879060
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Gabriel Jok Riak was listed on 1 July 2015 pursuant to paragraphs 7(a), 7(f) and 8 of resolution 2206 (2015) for, ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘the obstruction of the activities of international peacekeeping, diplomatic, or humanitarian missions in South Sudan, including IGAD's Monitoring and Verification Mechanism or of the delivery or distribution of, or access to, humanitarian assistance’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Gabriel Jok Riak is the commander of the Sudan People's Liberation Army's (SPLA) Sector One, a South Sudanese military entity that has engaged in actions that have extended the conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities Agreement (CoHA) and the May 9, 2014 Agreement to Resolve the Crisis in South Sudan (May Agreement), which was a re-commitment to the CoHA.
+
+Jok Riak has commanded SPLA Sector One, which operates primarily within Unity State, since January 2013. SPLA Divisions Three, Four, and Five are subordinate to Sector One and its commander, Jok Riak.
+
+Jok Riak and SPLA Sector One and Three forces under his overall command engaged in several actions, as detailed below, that violated the January 2014 CoHA's commitments to cease all military actions aimed at opposing forces, as well as other provocative actions, freeze forces in their current locations, and refrain from activities such as movement of forces or ammunition resupply that could lead to military confrontation.
+
+SPLA forces under Jok Riak's overall command breached the CoHA agreement several times through outright hostilities.
+
+On January 10, 2014, an SPLA force under the overall command of Sector One commander Jok Riak captured Bentiu, which had previously been under Sudan People's Liberation Army in Opposition (SPLM-IO) control since December 20, 2013. SPLA Division Three ambushed and shelled SPLM-IO fighters near Leer soon after the signing of the January 2014 CoHA and in mid-April 2014 captured Mayom and killed more than 300 SPLM-IO troops.
+
+On May 4, 2014, an SPLA force led by Jok Riak again recaptured Bentiu. On state television in Juba, an SPLA spokesman said that the government army commanded by Jok Riak had captured Bentiu at four in the afternoon, adding that Division Three and a special SPLA taskforce were involved. Hours after the May Agreement was announced, SPLA Third and Fourth Division forces engaged and repelled opposition fighters who had earlier attacked SPLA positions near Bentiu and in the northern oil regions of South Sudan.
+
+Also after the signing of the May Agreement, SPLA Division Three troops recaptured Wang Kai, and the division commander, Santino Deng Wol, authorized his forces to kill anyone carrying weapons or hiding in homes, and ordered them to burn any homes containing opposition forces.
+
+In late April and May 2015, SPLA Sector One forces led by Jok Riak conducted a full-scale military offensive against opposition forces in Unity State from Lakes State.
+
+In violation of the terms of the CoHA as detailed above, Jok Riak reportedly sought to have tanks repaired and modified for use against opposition forces in early September 2014. In late October 2014, at least 7 000 SPLA troops and heavy weapons from the Third and Fifth Divisions were redeployed to reinforce Fourth Division troops bearing the brunt of an opposition attack near Bentiu. In November 2014, the SPLA brought new military equipment and weaponry, including armored personnel carriers, helicopters, artillery guns, and ammunition into Sector One's area of responsibility, likely in preparation for fighting against the opposition. In early February 2015, Jok Riak reportedly ordered armored personnel carriers to be sent to Bentiu, possibly to respond to recent ambushes by the opposition.
+
+Subsequent to the April and May 2015 offensive in Unity State, SPLA Sector One denied requests by the Intergovernmental Authority on Development Monitoring and Verification Team (IGAD-MVM) in Bentiu to investigate this violation of the CoHA; thereby denying the IGAD-MVM freedom of movement to carry out its mandate.
+
+Additionally, in April 2014, Jok Riak expanded the conflict in South Sudan by reportedly assisting in arming and mobilizing as many as 1 000 Dinka youths to supplement traditional SPLA forces.
+
+**2\. Simon Gatewech DUAL (alias a.k.a.: a) Simon Gatwich Dual b) Simon Getwech Dual c) Simon Gatwec Duel d) Simon Gatweach e) Simon Gatwick f) Simon Gatwech g) Simon Garwich h) General Gaduel i) Dhual**
+
+Title: Major General
+
+Designation: Chief of General Staff, SPLA in Opposition
+
+Date of Birth: 1953
+
+Place of Birth: a) Akobo, Jonglei State, Sudan/South Sudan b) Uror County, Jonglei State, Sudan/South Sudan
+
+Address: Jonglei State, Sudan/South Sudan
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: Is the SPLM-IO Chief of General Staff and was previously the commander of opposition forces in Jonglei State. His forces conducted an early February 2015 attack in Jonglei State, and as of March 2015, he had tried to destroy the peace in Jonglei State through attacks on the civilian population. Photograph available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879066
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Simon Gatwech Dual was listed on 1 July 2015 pursuant to paragraphs 6, 7(a), 7(d), and 8 of resolution 2206 (2015) as, ‘responsible for or complicit in, or having engaged in, directly or indirectly, actions or policies that threaten the peace, security or stability of South Sudan’; ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘the targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Simon Gatwech Dual (Gatwech Dual) has engaged in actions or policies that threaten the peace, security or stability of South Sudan and is a leader of the Sudan People's Liberation Movement in Opposition (SPLM-IO), an entity that has engaged in: actions that threaten the peace, security or stability of South Sudan; and targeted civilians, including women and children, through the commission of acts of violence.
+
+Gatwech Dual is the SPLM-IO Chief of General Staff and was previously the commander of opposition forces in Jonglei State.
+
+In 2014 to 2015, Gatwech Dual had a large number of troops under his command and operated somewhat autonomously in leading attacks. Gatwech Dual oversees the deployment of SPLM-IO and likely the deployment of some White Army (a Nuer youth militia) forces as well.
+
+In late April 2014, forces under Gatwech Dual's overall command were gaining territory in Jonglei State as they marched on the state capital of Bor. Gatwech Dual may have used the news of the April 17, 2014 attack on Nuer internally displaced persons at the UN compound in Bor to incite his troops to seek revenge. The IGAD Monitoring and Verification Mechanism in Upper Nile, Unity and Jonglei states also cited forces under Gatwech Dual in its August 14, 2014 summary of ceasefire violations.
+
+Gatwech Dual's forces conducted an early February 2015 attack in Jonglei State. As of March 2015, Gatwech Dual had tried to destroy the peace in Jonglei State through attacks on the civilian population.
+
+In late April 2015, Gatwech Dual was involved in planning and coordinating surprise attacks against South Sudanese government forces in Upper Nile State. The IGAD Monitoring and Verification Mechanism summary report of cessation of hostilities violations from May 12-31, 2015 lists breaches by opposition forces under Gatwech's control, including an attack on government forces in Ayod.
+
+SPLM-IO forces under Gatwech Dual's command targeted women, children and civilians. Gatwech Dual reportedly ordered units under his command to kill Dinka prisoners of war (POWs), women, and children, and officers under his command stated that opposition forces should not make any distinctions between different Dinka tribes and should kill all of them.
+
+**3\. James Koang CHUOL (alias: a) James Koang Chol Ranley b) James Koang Chol c) Koang Chuol Ranley d) James Koang Chual**
+
+Title: Major General
+
+Date of Birth: 1961
+
+Nationality: South Sudan Passport no: R00012098, South Sudan
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: Appointed commander of the Sudan People's Liberation Army in Opposition (SPLAIO) Special Division in December 2014. His forces have been engaged in attacks against civilians. In February 2014, forces under his command attacked United Nations camps, hospitals, churches, and schools, engaging in widespread rape, torture, and the destruction of property, in an attempt to flush out civilians, soldiers, and policemen allied with the government. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879069
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+James Koang Chuol (Koang) was listed on 1 July 2015 pursuant to paragraphs 6, 7(a), 7(d) and 8 of resolution 2206 (2015) as, ‘responsible for or complicit in, or having engaged in, directly or indirectly, actions or policies that threaten the peace, security or stability of South Sudan’; ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+James Koang Chuol (Koang) has threatened the peace, security, or stability of South Sudan in his position as a leader of anti-government forces in Unity State, South Sudan, whose members targeted civilians, including women and children, with killing, sexual violence, and committed attacks on schools, hospitals, religious sites, and locations where civilians were seeking refuge.
+
+Koang defected from his position as the Sudan People's Liberation Army (SPLA) Fourth Division commander in December 2013. Taking orders from Koang, defecting soldiers executed as many as 260 of their on-base counterparts before targeting and killing civilians in the state capital of Bentiu.
+
+Koang was appointed commander of the Sudan People's Liberation Army in Opposition (SPLA-IO) Special Division in December 2014. In his new position, Koang led attacks on government forces in Upper Nile State's Renk and Maban counties in January 2015 that were cited by the Intergovernmental Authority on Development Monitoring and Verification Mechanism as violations of the CoHA.
+
+In February 2014, after Koang was given command of anti-government forces in Unity State, those forces attacked United Nations camps, hospitals, churches, and schools, engaging in widespread rape, torture, and the destruction of property, in an attempt to flush out civilians, soldiers, and policemen allied with the government. On April 14-15, 2014, Koang's forces captured Bentiu after heavy fighting and engaged in attacks against civilians. In separate incidents at a Bentiu mosque, church, and abandoned food compound, forces separated civilians who were taking shelter by their ethnicity and nationality before engaging in targeted killings, leaving at least 200 dead and 400 wounded. In mid-September 2014, Koang reportedly ordered his forces to target Dinka civilians during an attack in Upper Nile State.
+
+**4\. Santino Deng WOL (Alias: a) Santino Deng Wuol b) Santino Deng Kuol**
+
+Title: Major General
+
+Designation: Commander of the SPLA's Third Division
+
+Date of Birth: 9 Nov. 1962
+
+Place of Birth: Aweil, Sudan/South Sudan
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: Has led and directed military actions against opposition forces and conducted confrontational troop movements in violation of the CoHA. During May 2015, forces under his command killed children, women and old men, burned property, and stole livestock as they advanced through Unity State towards Thorjath oil field. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879071
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Santino Deng Wol was listed on 1 July 2015 pursuant to paragraphs 7(a), 7(d) and 8 of resolution 2206 (2015) for, ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘the targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Santino Deng Wol (Deng Wol) is a Sudan People's Liberation Army (SPLA) Major General and commander of the SPLA's Third Division, a South Sudanese military entity that has engaged in actions that have extended the conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities Agreement (CoHA) and the May 9, 2014 Agreement to Resolve the Crisis in South Sudan (May Agreement), which was a re-commitment to the CoHA.
+
+Deng Wol led and directed military actions against opposition forces and conducted confrontational troop movements in violation of the CoHA.
+
+Soon after negotiators from both sides agreed to cease hostilities, DENG WOL prepared his forces to advance on the Unity State town of Leer. They subsequently ambushed and shelled rebel fighters near Leer.
+
+In mid-April 2014, Deng Wol's forces reportedly prepared to recapture Bentiu from anti-government forces. Later that month, Deng Wol's forces captured Mayom following a fierce battle in which they killed over 300 opposition forces. Then, in early May 2014, Deng Wol's forces captured Tor Abyad, killing opposition forces in the process. Shortly thereafter, SPLA forces, including Deng Wol's forces, attacked and recaptured the Unity State town of Wang Kai. Deng Wol authorized his forces to kill anyone carrying weapons or hiding in homes, and ordered them to burn any homes containing opposition supporters.
+
+Deng Wol's SPLA Third Division participated in the April-May 2015 offensive in Unity State, during which the SPLA launched a coordinated offensive to take opposition strongholds in Mayom, Guit, Koch, Mayendit, and Leer counties. Deng Wol's forces killed children, women and old men, burned property, and stole livestock as they advanced through Unity State towards Thorjath oil field during May 2015. Additionally, early that month, Deng Wol reportedly pushed for the execution of captured opposition soldiers.
+
+**5\. Marial Chanuong Yol MANGOK (Alias: a) Marial Chinuong b) Marial Chan c) Marial Chanoung Yol d) Marial Chinoum**
+
+Designation: a) Sudan People's Liberation Army Major General b) Commander, Presidential Guard Unit
+
+Date of Birth: 1 Jan. 1960
+
+Place of Birth: Yirol, Lakes State
+
+Nationality: South Sudan, Passport no: R00005943, South Sudan
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: His Presidential Guard led the slaughter of Nuer civilians in and around Juba, many who were buried in mass graves. One such grave was purported to contain 200-300 civilians. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/72684667
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Marial Chanuong Yol Mangok was listed on 1 July 2015 pursuant to paragraphs 7(a), 7(c), 7(d) and 8 of resolution 2206 (2015) for, ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘planning, directing, or committing acts that violate applicable international human rights law or international humanitarian law, or acts that constitute human rights abuses, in South Sudan’; ‘targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Mangok is the commander of the South Sudanese Government's Presidential Guard, which led the operations in Juba following the fighting that began December 15, 2013. He executed orders to disarm Nuer soldiers and then ordered the use of tanks to target political figures in Juba, killing 22 unarmed bodyguards of opposition leader Riek Machar and seven bodyguards of former Minister of the Interior Gier Chuang Aluong.
+
+In the initial operations in Juba, by numerous and credible accounts, Mangok's Presidential Guard led the slaughter of Nuer civilians in and around Juba, many who were buried in mass graves. One such grave was purported to contain 200-300 civilians.
+
+**6\. Peter GADET (alias: a) Peter Gatdet Yaka b) Peter Gadet Yak c) Peter Gadet Yaak d) Peter Gatdet Yaak e) Peter Gatdet f) Peter Gatdeet Yaka**
+
+Title: a) General b) Major General
+
+Date of Birth: Between 1957 and 1959
+
+Place of Birth: a) Mayom County Unity State b) Mayan, Unity State
+
+Date of UN designation: 1 Jul. 2015
+
+Other information: Appointed the SPLA-IO's Deputy Chief of Staff for Operations on December 21, 2014. Forces under his command targeted civilians, including women, in April 2014 during an assault on Bentiu, including targeted killings on the basis of ethnicity. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5879076
+
+Peter Gadet was listed on 1 July 2015 pursuant to paragraphs 7(a), 7(d), 7(e) and 8 of resolution 2206 (2015) for, ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘the targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; ‘the recruitment of children by armed groups or armed forces in the context of the armed conflict in South Sudan’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Additional information
+
+Peter Gadet is the commander of Sudan People's Liberation Army in Opposition (SPLA-IO) forces that have engaged in actions that have extended the conflict in South Sudan, including breaches of the January 2014 Cessation of Hostilities Agreement (CoHA).
+
+Forces led by Gadet attacked and captured Kaka, Upper Nile State from the Sudan People's Liberation Army (SPLA) in late March 2014. Gadet was subsequently transferred from Jonglei State to Bentiu, where he was named military governor of Unity State, to assist the anti-government forces' efforts to mobilize the predominantly Bol Nuer population. Subsequently, Gadet led SPLA-IO attacks in Unity State. Gadet's forces were responsible for damaging a partially constructed oil refinery in Unity State being built by a Russian firm. Gadet's forces also took control of the Tor Abyad and Kilo 30 areas in Unity State's oil fields.
+
+As of mid-April 2014, 50 000 anti-government forces troops surrounded Malakal in preparation for an assault on Bentiu. On April 15, 2014, Gadet's forces attacked and took control of Bentiu, before subsequently losing control of the city. Forces led by Gadet targeted civilians, including women, in April 2014 during the assault on Bentiu, including targeted killings on the basis of ethnicity.
+
+In June 2014, Peter Gadet issued a directive to SPLA-IO commanders to recruit youths in all of the rebel-held counties.
+
+From October 25-29, 2014, forces under Gadet's command surrounded and attacked Bentiu and Rubkona, briefly seizing the city of Bentiu on October 29 before withdrawing.
+
+On December 21, 2014, Gadet was appointed the SPLA-IO's Deputy Chief of Staff for Operations. Subsequent to this appointment, SPLA-IO forces were cited by the IGAD Monitoring and Verification Mechanism for multiple violations of the CoHA in Unity, Upper Nile, and Jonglei States.
+
+**7\. Malek REUBEN RIAK RENGU (alias: a) Malek Ruben)**
+
+Title: Lieutenant General
+
+Designation: a) Deputy Chief of General Staff for Logistics; b) Deputy Chief of Defence Staff and Inspector General of the Army
+
+Date of birth: 1 Jan. 1960
+
+Place of birth: Yei, South Sudan
+
+Nationality: South Sudan
+
+Date of UN designation: 13 July 2018
+
+Other information: As SPLA Deputy Chief of Staff for Logistics, Riak was one of the senior officials of the Government of South Sudan who planned and oversaw an offensive in Unity state in 2015 that resulted in widespread destruction and large population displacement.
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Malek Ruben Riak was listed on 13 July 2018 pursuant to paragraphs 6, 7 (a), and 8 of resolution 2206 (2015), as reaffirmed in resolution 2418 (2018), for ‘actions or policies that threaten the peace, security or stability of South Sudan’; ‘Actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan …,’ and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7,’ and pursuant to paragraph 14 (e) of this resolution for ‘planning, directing, or committing acts involving sexual and gender-based violence in South Sudan’.
+
+According to the report by the Panel of Experts on South Sudan in January 2016 (S/2016/70), Riak was one of a group of senior security officials who planned a Unity state offensive against the SPLM-IO beginning in January 2015, and subsequently oversaw its execution from late April 2015 onwards. The Government of South Sudan began arming Bul Nuer youth in early 2015 to facilitate their participation in the offensive. Most Bul Nuer youth already had access to AK-pattern automatic rifles, but ammunition was critical to sustaining their operations. The Panel of Experts reported evidence, including testimony from military sources, that ammunition was supplied to youth groups by SPLA headquarters specifically for the offensive. Riak was the SPLA Deputy Chief of Staff for Logistics at the time. The offensive resulted in systematic destruction of villages and infrastructure, the forced displacement of the local population, the indiscriminate killing and torturing of civilians, the widespread use of sexual violence, including against the elderly and children, the abduction and recruitment of children as soldiers, and large population displacement. Following the destruction of much of the southern and central parts of the state, numerous media and humanitarian organisations, as well as the United Nations Mission in South Sudan (UNMISS) published reports about the scale of the abuses that were perpetrated.
+
+**8\. Paul MALONG AWAN ANEI (alias: a) Paul Malong Awan Anei, b) Paul Malong, c) Bol Malong)**
+
+Title: General
+
+Designation: a) Former Chief of Staff of the Sudan People's Liberation Army (SPLA), b) Former Governor, Northern Bahr el-Ghazal State
+
+Date of birth: a) 1962, b) 4 Dec. 1960, c) 12 Apr. 1960, d) 1 January 1962
+
+Place of birth: a) Malualkon, South Sudan, b) Kotido, Uganda
+
+Nationality: a) South Sudan, b) Uganda
+
+Passport no: a) South Sudan number S00004370, b) South Sudan number D00001369, c) Sudan number 003606, d) Sudan number 00606, e) Sudan number B002606, f) Uganda number DA025963
+
+Date of UN designation: 13 July 2018
+
+Other information: As Chief of General Staff of the SPLA, Malong expanded or extended the conflict in South Sudan through breaches of the Cessation of Hostilities Agreement and breaches of the 2015 Agreement on the Resolution of the Conflict in South Sudan (ARCSS). He reportedly directed efforts to kill opposition leader Riek Machar. He ordered SPLA units to prevent the transport of humanitarian supplies. Under Malong's leadership, the SPLA attacked civilians, schools and hospitals; forced the displacement of civilians; carried out enforced disappearances; arbitrarily detained civilians; and conducted acts of torture, and rape. He mobilised the Mathiang Anyoor Dinka tribal militia, which uses child soldiers. Under his leadership, the SPLA restricted UNMISS, the Joint Monitoring and Evaluation Commission (JMEC), and CTSAMM access to sites to investigate and document abuses.
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Paul Malong Awan was listed on 13 July 2018 pursuant to paragraphs 6, 7 (a), 7 (b), 7 (c), 7 (d), 7 (f), and 8 of resolution 2206 (2015), as reaffirmed in resolution 2418 (2018), for ‘actions or policies that have the purpose or effect of expanding or extending the conflict in South Sudan or obstructing reconciliation or peace talks or processes, including breaches of the Cessation of Hostilities Agreement’; ‘actions or policies that threaten transitional agreements or undermine the political process in South Sudan’; ‘the targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge, or through conduct that would constitute a serious abuse or violation of human rights or a violation of international humanitarian law’; ‘planning, directing, or committing acts that violate applicable international human rights law or international humanitarian law, or acts that constitute human rights abuses, in South Sudan’; ‘The use or recruitment of children by armed groups or armed forces in the context of the armed conflict in South Sudan’; ‘the obstruction of the activities of international peacekeeping, diplomatic, or humanitarian missions in South Sudan, including IGAD's Monitoring and Verification Mechanism or of the delivery or distribution of, or access to, humanitarian assistance’; and as a leader ‘of any entity, including any South Sudanese government, opposition, militia, or other group, that has, or whose members have, engaged in any of the activities described in paragraphs 6 and 7’.
+
+Malong served as Chief of General Staff of the SPLA from April 23, 2014, to May 2017. In his former position as the Chief of General Staff, he expanded or extended the conflict in South Sudan through breaches of the Cessation of Hostilities Agreement and breaches of the 2015 Agreement on the Resolution of the Conflict in South Sudan (ARCSS). As of early August 2016, Malong reportedly directed efforts to kill South Sudanese opposition leader Riek Machar. Malong, knowingly countermanding President Salva Kiir's orders, ordered the 10 July 2016 tank, helicopter gunship, and infantry assaults on Machar's residence and the Sudan Peoples' Liberation Movement in Opposition (SPLM-IO)'s ‘Jebel’ base. Malong personally oversaw efforts from SPLA headquarters to intercept Machar. As of early August 2016, Malong wanted the SPLA to attack Machar's suspected position immediately and informed SPLA commanders that Machar was not to be taken alive. In addition, in early 2016 information indicates that Malong ordered SPLA units to prevent the transport of humanitarian supplies across the Nile River, where tens of thousands of civilians were facing hunger, claiming that food aid would be diverted from civilians to militia groups. As a result of Malong's orders, food supplies were blocked from crossing the Nile for at least two weeks.
+
+Throughout his tenure as Chief of General Staff of the SPLA, Malong has been responsible for the SPLA and its allied forces' perpetration of serious abuses including attacks on civilians, forced displacement, enforced disappearances, arbitrary detentions, torture, and rape. Under Malong's leadership, the SPLA launched attacks directed against the civilian population and intentionally killed unarmed and fleeing civilians. In the Yei area alone, the UN documented 114 killings of civilians by the SPLA and its allied forces between July 2016 and January 2017. The SPLA intentionally attacked schools and hospitals. In April 2017, Malong allegedly ordered the SPLA to clear all people, including civilians from the area around Wau. Malong reportedly did not discourage the killing of civilians by the SPLA troops, and persons suspected of hiding rebels were considered legitimate targets.
+
+According to a 15 October 2014 African Union Commission of Inquiry on South Sudan report, Malong was responsible for the mass mobilisation of Mathiang Anyoor Dinka tribal militia, which Ceasefire and Transitional Security Arrangements Monitoring Mechanism (CTSAMM) documented use child soldiers.
+
+Under Malong's leadership of the SPLA, the government forces regularly restricted United Nations Mission in South Sudan (UNMISS), Joint Monitoring and Evaluation Commission (JMEC), and CTSAMM's access when they tried to investigate and document abuses. For example, on April 5, 2017, a joint UN and CTSAMM patrol tried to access Pajok but was turned back by SPLA soldiers.
+
+**B. ENTITIES**
+
+## ANNEX II
+
+**List of persons and entities referred to in point (b) of Article 3(1) and point (b) of Article 6(1)**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Statement of Reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>Michael MAKUEI LUETH</td><td>DOB: 1947 POB: Bor, South Sudan; Bor, Sudan  Gender: male </td><td>Michael Makuei Lueth held the position of Minister for Information and Broadcasting in the Revitalised Transitional Government of National Unity in South Sudan from 2013 to November 2025. Since November 2025, he holds the position of Minister of Justice and Constitutional Affairs of South Sudan. He was also the public spokesman for the government delegation to the Intergovernmental Authority on Development peace talks from 2014 to 2015 and from 2016 to 2018. Michael Makuei Lueth has obstructed, in particular through inflammatory public statements, the implementation of the Agreement on the Resolution of the Conflict in South Sudan (ARCSS) of August 2015 (replaced in September 2018 by the ‘Revitalised ARCSS’ (R-ARCSS)), the work of the ARCSS Joint Monitoring and Evaluation Commission (JMEC, renamed ‘Reconstituted JMEC’ under R-ARCSS), the establishment of the ARCSS Transitional Justice Institutions (also provided for in R-ARCSS), and the operations of the United Nations’ Regional Protection Force.  In addition, Michael Makuei Lueth is involved in the systematic curtailment of political and democratic space and in the repression of media, including through regular threats against journalists and support to media censorship, which hinders democratisation and sustainable peace in South Sudan.  Since the beginning of 2025, Michael Makuei Lueth has publicly dismissed calls for dialogue, using confrontational and inflammatory rhetoric in an increasingly tense environment. Michael Makuei Lueth has also defended the arrests against First Vice-President Riek Machar and his allies, hampering efforts to deescalate the situation.  Therefore, Michael Makuei Lueth has been obstructing the political process in South Sudan and is responsible for serious violations of human rights, in particular freedom of expression. </td><td>3.2.2018</td></tr>
+</tbody>
+</table>

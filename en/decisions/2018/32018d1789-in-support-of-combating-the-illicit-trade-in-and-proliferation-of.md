@@ -1,0 +1,267 @@
+---
+title: "Council Decision (CFSP) 2018/1789 of 19 November 2018 in support of combating the illicit trade in and proliferation of small arms and light weapons in the Member States of the League of Arab States"
+identifier: "32018D1789"
+eli: "http://data.europa.eu/eli/dec/2018/1789/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2018-11-19
+entry_into_force: 2018-11-19
+last_amended: 2020-12-17
+consolidated_version: "02018D1789-20201217"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018D1789-20201217"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2018/1789 of 19 November 2018 in support of combating the illicit trade in and proliferation of small arms and light weapons in the Member States of the League of Arab States
+
+**COUNCIL DECISION (CFSP) 2018/1789**
+
+**of 19 November 2018**
+
+**in support of combating the illicit trade in and proliferation of small arms and light weapons in the Member States of the League of Arab States**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2020/2142 of 17 December 2020 </td><td> L 430</td><td>25</td><td>18.12.2020</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2018/1789**
+
+**of 19 November 2018**
+
+**in support of combating the illicit trade in and proliferation of small arms and light weapons in the Member States of the League of Arab States**
+
+## Article 1
+
+1\. With a view to supporting the LAS Member States with their national implementation of the UN PoA and the International Tracing Instrument (ITI), the Union will pursue the following objectives:
+
+— sustainably build the national capacity of LAS Member States to combat the illicit proliferation of SALW, combat terrorism and enhance security in post-conflict situations while fully respecting international human rights standards,
+
+— sustainably build the regional capacity of the LAS to address the same challenges,
+
+— strengthen LAS Member States' national control over SALW at key stages of their life cycle,
+
+— enhance the exchange of best practices and lessons learned.
+
+2\. In order to achieve the objectives referred to in paragraph 1, the Union shall, by means of this Decision, support actions in the following areas:
+
+— international SALW transfer control (combating illicit arms flows),
+
+— identification and disruption of sources of illicit small arms (capacity-building for law-enforcement agencies),
+
+— other measures related to small-arms control, including stockpile management, control of related supplies and security,
+
+— disarmament, demobilisation and reintegration (DDR),
+
+— provision of information relevant to illicit SALW and enhanced SALW control.
+
+3\. A detailed description of the project referred to in paragraphs 1 and 2 is set out in the Annex to this Decision.
+
+## Article 2
+
+1\. The High Representative shall be responsible for the implementation of this Decision.
+
+2\. The technical implementation of the project referred to in Article 1 shall be carried out by the Small Arms Survey (‘SAS’), represented by the Graduate Institute of International and Development Studies, with the assistance of the International Criminal Police Organisation (Interpol) and the World Customs Organisation (WCO) and in close cooperation with the LAS Secretariat.
+
+3\. SAS, assisted by Interpol and the WCO, shall perform its tasks under the responsibility of the High Representative. For that purpose, the High Representative shall enter into the necessary arrangements with SAS.
+
+## Article 3
+
+1\. The financial reference amount for the implementation of the project financed by the Union referred to in Article 1 shall be EUR 2 858 550 .
+
+2\. The expenditure financed by the reference amount set out in paragraph 1 shall be managed in accordance with the procedures and rules applicable to the Union budget.
+
+3\. The Commission shall supervise the proper management of the expenditure referred to in paragraph 2. For that purpose, it shall conclude the necessary agreement with SAS. The agreement shall stipulate that SAS has to ensure the visibility of the Union's contribution, appropriate to its size.
+
+4\. The Commission shall endeavour to conclude the agreement referred to in paragraph 3 as soon as possible after the entry into force of this Decision. It shall inform the Council of any difficulties in that process and of the date of conclusion of the agreement.
+
+## Article 4
+
+1\. The High Representative shall report to the Council on the implementation of this Decision on the basis of regular quarterly reports prepared by SAS. Those reports shall form the basis of the evaluation carried out by the Council.
+
+2\. The Commission shall report on the financial aspects of the project referred to in Article 1.
+
+## Article 5
+
+1\. This Decision shall enter into force on the date of its adoption.
+
+2\. This Decision shall expire 30 months after the date of the conclusion of the agreement referred to in Article 3(3).
+
+## ANNEX
+
+**Combating the illicit trade in and proliferation of small arms and light weapons in the Member States of the League of Arab States (2018-2020)**
+
+**1\. Background and rationale for CFSP support**
+
+This project will build on earlier efforts undertaken by the League of Arab States (LAS) and the Union to assist LAS Member States in combating illicit small arms and light weapons (‘SALW’) in the Arab region. The eradication of illicit small arms in the Arab region is crucial to reducing all forms of violence and promoting sustainable development and prosperity in line with the United Nations (UN) Sustainable Development Goals (SDGs) — both in the Arab region and in neighbouring regions, including Europe.
+
+More specifically, the project aims at strengthening the capacity of LAS Member States to implement the UN Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects (PoA) and the International Tracing Instrument (ITI) according to the priorities and needs identified by LAS Member States. The normative framework for the project also comprises the 2030 Agenda for Sustainable Development, in particular target 16.4. Depending on the preferences of the host LAS Member State, the UN Firearms Protocol and the Arms Trade Treaty could also serve as reference points for project-related capacity-building efforts (export/import control, diversion prevention, etc.).
+
+**2\. Project objectives and long-term sustainability**
+
+The underlying goal of the project is to sustainably strengthen the capacity of LAS Member States to implement the PoA and the ITI, including for the purpose of combating illicit small arms and terrorism, according to the priorities and needs identified by LAS Member States. To achieve this goal, the project has the following main objectives:
+
+(a) sustainably build the national capacity of LAS Member States to combat the illicit proliferation of SALW, combat terrorism and enhance security in post-conflict situations;
+
+(b) sustainably build the regional capacity of the LAS to address the same challenges;
+
+(c) strengthen LAS Member States' national control over SALW at key stages of their life cycle;
+
+(d) enhance the exchange of best practices and lessons learned.
+
+Consultations with LAS Member States indicate that they seek assistance and support in specific areas, with an overriding focus on the building of national capacity to combat illicit arms flows (see section 3 for further details). All of the project's components, including those relating to needs assessment and post-implementation evaluation, are in fact designed to ensure that the project imparts sustainable capacity to its intended beneficiaries, namely government institutions and officials in LAS Member States, as well as the LAS Secretariat (Arms Control and Disarmament Department).
+
+**3\. Description of action**
+
+The Union project to combat the illicit trade in and proliferation of SALW in LAS Member States (2018-2020) is designed to respond to the needs that LAS Member States have expressed in the following priority areas:
+
+**Area 1:**
+
+**International SALW transfer control (combating illicit arms flows)**
+
+1.1. Export/import/transit licensing and control (risk assessment, etc.)
+
+1.2. Preventing the diversion of SALW to unauthorised recipients
+
+1.3. Detecting SALW and their parts during the inspection of transported goods and cargo (inspection methods, techniques and equipment, etc.)
+
+**Area 2:**
+
+**Identification and disruption of sources of illicit small arms (capacity-building for law-enforcement agencies)**
+
+2.1. Control of land, air and maritime borders, including technology transfer
+
+2.2. Marking, record-keeping and tracing
+
+2.3. Additional techniques and methods for arms investigation and inspection (use of ballistics information, identification/disruption of smuggling routes and methods, etc.)
+
+**Area 3:**
+
+**Other small-arms control measures**
+
+3.1. Stockpile management and security
+
+**Area 4:**
+
+**Disarmament, demobilisation and reintegration (DDR)**
+
+4.1. Exchanging DDR expertise, best practices and lessons learned
+
+4.2. Assistance in designing national DDR programmes
+
+4.3. Other forms of support to LAS Member States during a post-conflict phase
+
+Note that this component, while requested by some LAS Member States, received less interest overall than the other areas listed in this section. For this reason, it is not the focus of the project.
+
+**Area 5:**
+
+**Provision of information relevant to illicit SALW and enhanced SALW control:**
+
+5.1. Evaluation of the laws and regulations of LAS Member States; advising on possible amendments and revisions.
+
+5.2. Translation of relevant research, published studies and other documents into Arabic
+
+In responding to the above needs, the project will comprise the following elements:
+
+1\. Regional coordination: Cairo inception meeting
+
+2\. Subregional coordination: subregional workshops
+
+3\. Assessment missions
+
+4\. In-country training
+
+5\. Legislative assistance
+
+6\. Provision of information in Arabic
+
+7\. Regional coordination: wrap-up meeting in Cairo
+
+8\. Project monitoring and evaluation (including a financial audit)
+
+**3.1. Regional coordination: Cairo inception meeting**
+
+3.1.1. Objective: Raise awareness of the project, initiate contact with LAS Member States and begin to identify specific country needs (initial needs assessment) (priority areas 1 to 5).
+
+3.1.2. Activities: One-week inception meeting in Cairo, covering all aspects of the project (priority areas 1 to 5), aimed at senior LAS Member State officials, as well as LAS staff responsible for project-related issues.
+
+3.1.3. Results of the action: establishment of contact with LAS Member States; identification of specific country needs; production of summary meeting report.
+
+**3.2. Subregional coordination: subregional workshops**
+
+3.2.1. Objective: At subregional level, allow LAS Member States to share experiences and good practices and identify implementation priorities in areas relating to the project (priority areas 1 to 4).
+
+3.2.2. Activities: One-week workshops held, approximately midway through the project, in three different subregions (tentatively: Maghreb, Arab Sahel and Eastern Africa; Mashreq; Arabian Peninsula and Iraq) (three weeks total). The LAS Member States participating in each of the workshops would be determined at the Cairo inception meeting (point 3.1) or shortly thereafter.
+
+3.2.3. Results of the action: exchange of experiences and good practices in areas relating to the project; identification of implementation priorities; production of summary workshop report.
+
+**3.3. Assessment missions**
+
+3.3.1. Objective: Ascertain specific country needs and prepare for follow-up in-country training and assistance (priority areas 1 to 5).
+
+3.3.2. Activities: Field visits to LAS Member States requesting assistance.
+
+3.3.3. Results of the action: Completion of assessment missions; production of a short report for each mission, confidential to the host LAS Member State, aimed at determining its specific needs (identification of existing policies and measures, normative or other gaps, and barriers to addressing such gaps).
+
+**3.4. In-country training**
+
+3.4.1. Objective: Build sustainable capacity for small-arms control in the host LAS Member State according to that State's interests and needs (priority areas 1 to 4).
+
+3.4.2. Activities
+
+In-country training sessions for LAS Member States requesting assistance. The training sessions could benefit all 22 LAS Member States (one week per State) or a smaller number of LAS Member States (multiple visits to those States, e.g. two weeks of training for 11 LAS Member States).
+
+Each one-week training session will involve: (a) an opening day introducing senior government officials to all aspects of the project that are of interest/relevance to the LAS Member State; (b) two days' training of front-line managers (project experts working in parallel on the issue areas of interest/relevance to the LAS Member State); (c) two days' practical training of field personnel (project experts working in parallel on the issue areas of interest/relevance to the LAS Member State).
+
+In the case of multiple visits, the project would seek to enhance national ownership by expanding and strengthening training provided during the first visit, especially in the areas identified by the host LAS Member State as top priorities.
+
+3.4.3. Results of the action: The impact of the training sessions would be assessed in order to determine the extent to which project capacity-building objectives have been met.
+
+**3.5. Legislative assistance**
+
+3.5.1. Objective: Assess small-arms-related legislation in LAS Member States requesting such assistance; identify possible legislative amendments and revisions (priority areas 1 to 4).
+
+3.5.2. Activities: desk-based research and liaison with the requesting LAS Member State; field visit (one-week); and follow-up report and liaison with the requesting LAS Member State.
+
+3.5.3. Results of the action: Production of a short report, confidential to the host LAS Member State, identifying possible legislative amendments and revisions.
+
+**3.6. Provision of information in Arabic**
+
+3.6.1. Objective: Meet the needs of LAS Member States for independent and reliable information on small arms and armed violence in Arabic (priority area 5)
+
+3.6.2. Activities: Translation of key publications and documents into Arabic (published reports, best-practice guidelines, etc.). Examples could include the Small Arms Survey's Guide to the UN Small Arms Process and its Physical Security and Stockpile Management (PSSM) Matrix.
+
+3.6.3. Results of the action: Specific outputs would include the translation of important books, reports and briefing papers, as well as the production of podcasts and blog posts in Arabic. This action would result in a significant increase in the availability of independent and reliable Arabic-language information on small arms and armed violence.
+
+**3.7. Regional coordination: wrap-up meeting in Cairo**
+
+3.7.1. Objective: Evaluate the project and plan for future cooperation (priority areas 1 to 5).
+
+3.7.2. Activities: Two-day meeting held in Cairo at the end of the project, aimed at senior LAS Member State officials and LAS staff responsible for project-related issues.
+
+3.7.3. Results of the action: Discussion and evaluation of the project; elaboration of plans for future cooperation on small-arms control; production of a summary meeting report.
+
+**3.8. Project monitoring and evaluation**
+
+3.8.1. Objective: To ensure that the project has met its substantive objectives, and that project expenditures have been made in accordance with the agreed budget.
+
+3.8.2. Activities: In order to measure the impacts of the various project components, the project will include both an internal and an external monitoring mechanism. The internal monitoring mechanism will be led by the resident results-based management (RBM) specialist, supported by project staff. The external evaluation will involve the recruitment of an external evaluation team that will travel to the two-day meeting in Cairo at the end of the project, selected participating LAS Member States (up to 8) and the headquarters of the main project implementers — the Small Arms Survey, the International Criminal Police Organization and the World Customs Organization. The project will also include a financial audit in line with Union requirements.
+
+3.8.3. Results of the action: Completion of an assessment of project impacts; completion of the financial audit.
+
+**4\. Implementing agencies and partnerships**
+
+The Small Arms Survey (‘SAS’), a research centre located at the Graduate Institute of International and Development Studies in Geneva, Switzerland, will be the lead implementing agency. In implementing the project, SAS will draw, in particular, on the contributions of the International Criminal Police Organisation (Interpol) and the World Customs Organisation (WCO). Interpol will have primary responsibility for priority areas 2.2 and 2.3 (capacity-building for law-enforcement agencies), the WCO for priority areas 1 and 2.1 (international transfer controls, including border controls).
+
+As necessary, SAS will subcontract other organisations to assist with other components of the project (possibly including the component on stockpile management and security). Depending on the needs and preferences of participating LAS Member States, other organisations, including civil-society organisations, as well as certain LAS specialised agencies, could also contribute to the implementation of the project.
+
+The implementing agencies will also coordinate with governmental and non-governmental organisations working in LAS Member States, as well as any Union programmes with a presence there, in order to ensure that all of the activities undertaken within the framework of the project complement and build upon existing initiatives.
+
+SAS and its implementing partners will also take appropriate measures to ensure project visibility in line with Union guidelines.
+
+**5\. Duration**
+
+A duration of 24 months is envisaged for the project. Depending on LAS Member State interest and available funding, an extension of the project beyond the initial two-year period would allow for the continuation and consolidation of the capacity-building efforts undertaken in the project's initial phase. For example, training provided to a given LAS Member State in the initial phase could be repeated, expanded and tested, involving a broader range of personnel, in order to ensure sustainability. LAS Member States that did not receive all of the training or legislative assistance they sought in the first phase of the project could receive it in the second. LAS Member States that identified new arms-control needs or priorities — building, for example, on capacities acquired in the first phase of the project — could receive assistance in these areas in the second phase.

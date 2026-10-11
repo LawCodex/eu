@@ -1,0 +1,213 @@
+---
+title: "Council Decision 2014/119/CFSP of 5 March 2014 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Ukraine"
+identifier: "32014D0119"
+eli: "http://data.europa.eu/eli/dec/2014/119(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2014-03-05
+entry_into_force: 2014-03-06
+last_amended: 2026-03-03
+consolidated_version: "02014D0119-20260303"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014D0119-20260303"
+retrieved: 2026-10-11
+---
+
+# Council Decision 2014/119/CFSP of 5 March 2014 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Ukraine
+
+**COUNCIL DECISION 2014/119/CFSP**
+
+**of 5 March 2014**
+
+**concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Ukraine**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL IMPLEMENTING DECISION 2014/216/CFSP of 14 April 2014 </td><td> L 111</td><td>91</td><td>15.4.2014</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2015/143 of 29 January 2015 </td><td> L 24</td><td>16</td><td>30.1.2015</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2015/364 of 5 March 2015 </td><td> L 62</td><td>25</td><td>6.3.2015</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2015/876 of 5 June 2015 </td><td> L 142</td><td>30</td><td>6.6.2015</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2015/1781 of 5 October 2015 </td><td> L 259</td><td>23</td><td>6.10.2015</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2016/318 of 4 March 2016 </td><td> L 60</td><td>76</td><td>5.3.2016</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2017/381 of 3 March 2017 </td><td> L 58</td><td>34</td><td>4.3.2017</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2018/333 of 5 March 2018 </td><td> L 63</td><td>48</td><td>6.3.2018</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2019/354 of 4 March 2019 </td><td> L 64</td><td>7</td><td>5.3.2019</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2020/373 of 5 March 2020 </td><td> L 71</td><td>10</td><td>6.3.2020</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2021/394 of 4 March 2021 </td><td> L 77</td><td>29</td><td>5.3.2021</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/376 of 3 March 2022 </td><td> L 70</td><td>7</td><td>4.3.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/1507 of 9 September 2022 </td><td> L 235</td><td>32</td><td>12.9.2022</td></tr>
+<tr><td> M14</td><td> COUNCIL DECISION (CFSP) 2023/457 of 2 March 2023 </td><td> L 67</td><td>47</td><td>3.3.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/828 of 4 March 2024 </td><td> L 828</td><td>1</td><td>5.3.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/437 of 28 February 2025 </td><td> L 437</td><td>1</td><td>3.3.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2026/490 of 26 February 2026 </td><td> L 490</td><td>1</td><td>2.3.2026</td></tr>
+</table>
+
+C1
+
+C2
+
+**COUNCIL DECISION 2014/119/CFSP**
+
+**of 5 March 2014**
+
+**concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Ukraine**
+
+## Article 1
+
+1\. All funds and economic resources belonging to, owned, held or controlled by persons having been identified as responsible for the misappropriation of Ukrainian State funds and persons responsible for human rights violations in Ukraine, and natural or legal persons, entities or bodies associated with them, as listed in the Annex, shall be frozen.
+
+For the purpose of this Decision, persons identified as responsible for the misappropriation of Ukrainian State funds include persons subject to investigation by the Ukrainian authorities:
+
+(a) for the misappropriation of Ukrainian public funds or assets, or being an accomplice thereto; or
+
+(b) for the abuse of office as a public office-holder in order to procure an unjustified advantage for him- or herself or for a third party, and thereby causing a loss to Ukrainian public funds or assets, or being an accomplice thereto.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in the Annex.
+
+3\. The competent authority of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of the natural persons listed in the Annex and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources; or
+
+(d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph.
+
+4\. By way of derogation from paragraph 1, the competent authorities of a Member State may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 1 was listed in the Annex, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in the Annex; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under this paragraph.
+
+5\. Paragraph 1 shall not prevent a listed natural or legal person, entity or body from making a payment due under a contract entered into prior to the date on which such person, entity or body was listed in the Annex, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a person, entity or body referred to in paragraph 1.
+
+6\. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1 and 2; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in paragraph 1.
+
+## Article 2
+
+1\. The Council, acting upon a proposal by a Member State or the High Representative of the Union for Foreign Affairs and Security Policy, shall decide to establish and amend the list in the Annex.
+
+2\. The Council shall communicate the decision referred to in paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing such person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the person, entity or body concerned accordingly.
+
+## Article 3
+
+1\. The Annex shall include the grounds for listing the natural and legal persons, entities and bodies referred to in Article 1(1).
+
+2\. The Annex shall also contain, where available, the information necessary to identify the natural and legal persons, entities or bodies concerned. With regard to natural persons, such information may include names, including aliases, date and place of birth, nationality, passport and identity card numbers, gender, address if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 4
+
+In order to maximise the impact of the measures referred to in Article 1(1) and (2), the Union shall encourage third States to adopt restrictive measures similar to those provided for in this Decision.
+
+## Article 5
+
+This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+This Decision shall apply until 6 March 2027  .
+
+This Decision shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met.
+
+## ANNEX
+
+**A. List of persons, entities and bodies referred to in Article 1**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Statement of reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Vitalii Yuriyovych Zakharchenko (Вiталiй Юрiйович Захарченко),  Vitaliy Yurievich Zakharchenko  (Виталий Юрьевич Захарченко) </td><td>born on 20 January 1963 in Kostiantynivka (Donetsk oblast), former Minister of Internal Affairs.</td><td>Person subject to criminal proceedings by the Ukrainian authorities for the misappropriation of public funds or assets and in connection with the misuse of office by a public office-holder to procure an unjustified advantage for himself or a third party thereby causing a loss to the Ukrainian public budget or assets.</td><td>6.3.2014</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>6.</td><td>Viktor Ivanovych Ratushniak (Вiктор Iванович Ратушняк) </td><td>born on 16 October 1959, former Deputy Minister of Internal Affairs</td><td>Person subject to criminal proceedings by the Ukrainian authorities for the misappropriation of public funds or assets and for being an accomplice thereto.</td><td>6.3.2014</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>12.</td><td>Serhiy Vitalyovych Kurchenko (Сергiй Вiталiйович Курченко)</td><td>Born on 21 September 1985 in Kharkiv, businessman</td><td>Person subject to criminal proceedings by the Ukrainian authorities for the misappropriation of public funds or assets and for the abuse of office in order to procure an unjustified advantage for himself or for a third party and thereby causing a loss to Ukrainian public funds or assets.</td><td>6.3.2014</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+</tbody>
+</table>
+
+**B. Rights of defence and right to effective judicial protection**
+
+**The rights of defence and the right to effective judicial protection under the Code of Criminal Procedure of Ukraine**
+
+Article 42 of the Code of Criminal Procedure of Ukraine (‘Code of Criminal Procedure’) provides that every person who is suspected or accused in criminal proceedings enjoys rights of defence and the right to effective judicial protection. These include: the right to be informed of the criminal offence of which he has been suspected or accused; the right to be informed, expressly and promptly, of his rights under the Code of Criminal Procedure; the right to have, when first requested, access to a defence lawyer; the right to present petitions for procedural actions; and the right to challenge decisions, actions and omissions by the investigator, the public prosecutor and the investigating judge.
+
+Article 303 of the Code of Criminal Procedure distinguishes between decisions and omissions that can be challenged during the pre-trial proceedings (first paragraph) and decisions, acts and omissions that can be considered in court during preparatory proceedings (second paragraph). Article 306 of the Code of Criminal Procedure provides that complaints against decisions, acts or omissions of the investigator or public prosecutor must be considered by an investigating judge of a local Court in the presence of the complainant or his defence lawyer or legal representative. Article 308 of the Code of Criminal Procedure provides that complaints regarding failure by the investigator or public prosecutor to respect reasonable time during the pre-trial investigation may be lodged with a superior public prosecutor and must be considered within three days of being lodged. In addition, Article 309 of the Code of Criminal Procedure specifies the decisions of investigating judges that may be challenged on appeal, and that other decisions may be subject to judicial review in the course of preparatory proceedings in Court. Moreover, a number of procedural investigating actions are only possible subject to a ruling by the investigating judge or a Court (e.g. seizure of property under Articles 167-175, and measures of detention under Articles 176-178, of the Code of Criminal Procedure).
+
+**Application of the rights of defence and the right to effective judicial protection of each of the listed persons**
+
+**2\. Vitalii Yuriyovych Zakharchenko**
+
+The criminal proceedings relating to the misappropriation of public funds or assets are still ongoing.
+
+The information on the Council’s file shows that the rights of defence and the right to effective judicial protection of Mr Zakharchenko, including the fundamental right to have his case heard within a reasonable time by an independent and impartial tribunal, were respected in the criminal proceedings on which the Council relied. This is demonstrated in particular by the decisions of the investigating judge of 19 April 2021 ordering detention in custody of Mr Zakharchenko as well as the ruling of the Pecherskyi District Court of Kyiv dated 10 August 2021 granting permission to carry out a special pre-trial investigation in criminal proceeding No 42016000000002929. Those decisions of the investigating judges confirm the status of suspect of Mr Zakharchenko and highlight that the suspect is hiding from the investigation to avoid criminal liability.
+
+Moreover, the Council has information that the Ukrainian authorities took measures to search for Mr Zakharchenko. On 12 February 2020, the investigating body decided to put Mr Zakharchenko on the international wanted list and forwarded a request to the Department of International Police Cooperation of the National Police of Ukraine for entry into the Interpol database. Additionally, on 11 May 2021 Ukraine sent a request for international legal assistance to the Russian Federation to establish the whereabouts of Mr Zakharchenko, which was rejected by Russia on 31 August 2021.
+
+The Council has information that on 9 February 2022 the pre-trial investigation in criminal proceeding No 42016000000002929 was completed and on 5 August 2022, following the fulfilment of the requirements of the Criminal Procedure Code of Ukraine, the Prosecutor General’s Office sent an indictment to the Pecherskyi District Court of Kyiv City for the consideration of the merits of the case. Additionally, on 2 May 2023 the Sviatoshynskyi District Court of Kyiv granted the request of the prosecutor and arranged a trial as part of the special judicial proceedings (in absentia) in the absence of the accused. The Council was informed that the court hearings are ongoing, with twelve court hearings scheduled in 2024 and fourteen court hearings scheduled in 2025. Some of those court hearings did not take place, for reasons including allowing the newly appointed defence counsel of Mr Zakharchenko to familiarise himself with the case materials and because of a power outage in the court building following a missile attack. In parallel, the court is examining documents that constitute evidence in relation to the case.
+
+Based on the information provided by the Ukrainian authorities, Mr Zakharchenko has not involved a defence counsel in the criminal proceedings in Ukraine but an assigned defence counsel has been representing his interests. No violation of the rights of defence and the right to effective judicial protection can be ascertained in the circumstances where the defence is not exercising those rights.
+
+In accordance with the case-law of the European Court of Human Rights, the Council considers that the periods during which Mr Zakharchenko has been avoiding investigation must be excluded from the calculation of the period relevant for the assessment of respect for the right to a trial within a reasonable time. The Council therefore considers that the circumstances described above attributed to Mr Zakharchenko have significantly contributed to the length of the investigation.
+
+**6\. Viktor Ivanovych Ratushniak**
+
+The criminal proceedings relating to the misappropriation of public funds or assets are still ongoing.
+
+The information on the Council’s file shows that the rights of defence and the right to effective judicial protection of Mr Ratushniak, including the fundamental right to have his case heard within a reasonable time by an independent and impartial tribunal, were respected in the criminal proceedings on which the Council relied. This is demonstrated in particular by the decisions of the investigating judge of 19 April 2021 ordering detention in custody of Mr Ratushniak as well as the ruling of the Pecherskyi District Court of Kyiv dated 10 August 2021 granting permission to carry out a special pre-trial investigation in criminal proceeding No 42016000000002929. Those decisions of the investigating judges confirm the status of suspect of Mr Ratushniak and highlight that the suspect is hiding from the investigation to avoid criminal liability.
+
+The Council has information that the Ukrainian authorities took measures to search for Mr Ratushniak. On 12 February 2020, the investigating body decided to put Mr Ratushniak on the international wanted list and forwarded a request to the Department of International Police Cooperation of the National Police of Ukraine for entry into the Interpol database. Additionally, on 11 May 2021 Ukraine sent a request for international legal assistance to the Russian Federation to establish the whereabouts of Mr Ratushniak, which was rejected by Russia on 31 August 2021.
+
+The Council has information that on 9 February 2022 the pre-trial investigation in criminal proceeding No 42016000000002929 was completed and on 5 August 2022, following the fulfilment of the requirements of the Criminal Procedure Code of Ukraine, the Prosecutor General’s Office sent an indictment to the Pecherskyi District Court of Kyiv City for the consideration of the merits of the case. Additionally, on 2 May 2023 the Sviatoshynskyi District Court of Kyiv granted the request of the prosecutor and arranged a trial as part of the special judicial proceedings (in absentia) in the absence of the accused. The Council was informed that the court hearings are ongoing, with twelve court hearings scheduled in 2024 and fourteen court hearings scheduled in 2025. Some of those court hearings did not take place, for reasons including a power outage in the court building following a missile attack. In parallel, the court is examining documents that constitute evidence in relation to the case.
+
+Based on the information provided by the Ukrainian authorities, Mr Ratushniak has not involved a defence counsel in the criminal proceedings in Ukraine but an assigned defence counsel has been representing his interests. No violation of the rights of defence and the right to effective judicial protection can be ascertained in the circumstances where the defence is not exercising those rights.
+
+In accordance with the case-law of the European Court of Human Rights, the Council considers that the periods during which Mr Ratushniak has been avoiding investigation must be excluded from the calculation of the period relevant for the assessment of respect for the right to a trial within a reasonable time. The Council therefore considers that the circumstances described above attributed to Mr Ratushniak have significantly contributed to the length of the investigation.
+
+**12\. Serhiy Vitalyovych Kurchenko**
+
+The criminal proceedings relating to the misappropriation of public funds or assets are still ongoing.
+
+The information on the Council’s file shows that the rights of defence and the right to effective judicial protection of Mr Kurchenko, including the fundamental right to have his case heard within a reasonable time by an independent and impartial tribunal, were respected in the criminal proceedings on which the Council relied. This is demonstrated in particular by the fact that the defence was notified about the completion of the pre-trial investigation in criminal proceeding No 42016000000003393 on 28 March 2019 and was provided access to the materials for familiarisation. On 11 October 2021, the National Anti-Corruption Bureau of Ukraine additionally informed the defence lawyers of Mr Kurchenko about the completion of the pre-trial investigation and the provision of access to the materials of the pre-trial investigation for familiarisation. The Council received information that the National Anti-Corruption Bureau of Ukraine filed a motion to establish a term for the review by the defence party in order to address the delay of the defence party in reviewing the materials of the pre-trial investigation. The Council was informed that the High Anti-Corruption Court of Ukraine in its decision dated 27 June 2022 set a time limit until 1 December 2022 for the defence party to complete the familiarisation process, after which they are considered to have exercised their right to access the materials. On 7 December 2022, the Specialised Anti-Corruption Prosecutor’s Office sent an indictment to the High Anti-Corruption Court of Ukraine for the consideration of the merits of the case. On 30 March 2023, the court held a preliminary hearing and decided to arrange a trial. On the same date, the court also granted the request of the prosecutor to conduct special court proceedings (in absentia) against the accused. The Council was informed that the court hearings are ongoing and that the written evidence of the prosecution is being examined by the court. The defence counsel of Mr Kurchenko participates in the trial.
+
+In relation to criminal proceeding No 12014160020000076, in its decision of 18 September 2020 the Odessa Court of Appeal granted the appeal by the prosecutor and imposed a preventive measure of detention in custody on Mr Kurchenko. The court also stated that Mr Kurchenko departed Ukraine in 2014 and that his location cannot be established. The court concluded that Mr Kurchenko is hiding from the pre-trial investigation bodies in order to avoid criminal liability. On 20 December 2021, the Kyivskyi District Court of Odesa City granted permission to carry out a special pre-trial investigation in absentia. Furthermore, on 20 October 2021 the Kyivskyi District Court of Odesa City dismissed the appeal by Mr Kurchenko’s lawyers to cancel the resolution of the prosecutor on the suspension of the pre-trial investigation dated 27 July 2021.
+
+The Council has information that the Ukrainian authorities took measures to search for Mr Kurchenko. On 13 May 2021, the Main Department of the National Police in Odessa Region forwarded a request to the Ukrainian Bureau of Interpol and Europol to publish a Red Notice concerning Mr Kurchenko, which is under consideration. The Council was informed that on 29 April 2020 the Ukrainian authorities sent a request for international legal assistance to the Russian Federation, which was returned on 28 July 2020 without execution.
+
+The Council was informed that on 6 May 2022 the pre-trial investigation in criminal proceeding No 12014160020000076 was completed and on 1 August 2022 the Odessa Region Prosecutor’s Office sent an indictment to the Prymorskyi District Court of Odesa City for the consideration of the merits of the case. On 18 April 2023, the court granted the request of the prosecutor to conduct special court proceedings (in absentia) against the accused. The Council was informed that the court hearings are ongoing, with numerous dates scheduled in 2024 and 2025. For example, at the court hearing on 25 January 2024, the accused’s defence counsel filed an application for the disqualification of the judge, which was considered on 21 March 2024 and rejected. Another hearing on 22 May 2024 did not take place due to the defence counsel’s application for the disqualification of the judge, which was considered on 3 April 2025 and rejected. The Council was also informed that the written evidence of the prosecution is being examined by the court.
+
+The defence counsel of Mr Kurchenko participates in each court hearing.
+
+In accordance with the case-law of the European Court of Human Rights, the Council considers that the periods during which Mr Kurchenko has been avoiding investigation must be excluded from the calculation of the period relevant for the assessment of respect for the right to a trial within a reasonable time. The Council therefore considers that the circumstances described in the decision of the Odessa Court of Appeal attributed to Mr Kurchenko as well as the non-execution of the request for international legal assistance have significantly contributed to the length of the investigation.

@@ -1,0 +1,150 @@
+---
+title: "2010/205/: Commission Decision of 31 March 2010 concerning the reporting questionnaire relating to Regulation (EC) No 166/2006 of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (notified under document C(2010) 1955) (Text with EEA relevance)"
+identifier: "32010D0205"
+eli: "http://data.europa.eu/eli/dec/2010/205/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2010-03-31
+entry_into_force: 2010-11-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010D0205"
+retrieved: 2026-10-11
+---
+
+# 2010/205/: Commission Decision of 31 March 2010 concerning the reporting questionnaire relating to Regulation (EC) No 166/2006 of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (notified under document C(2010) 1955) (Text with EEA relevance)
+
+**COMMISSION DECISION**
+
+**of 31 March 2010**
+
+**concerning the reporting questionnaire relating to Regulation (EC) No 166/2006 of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC**
+
+**(notified under document C(2010) 1955)**
+
+**(Text with EEA relevance)**
+
+**(2010/205/EU)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (1), and in particular Article 16 thereof,
+
+Having regard to Council Directive 91/692/EEC of 23 December 1991 on standardising and rationalising reports on the implementation of certain Directives relating to the environment (2),
+
+Whereas:
+
+(1) Article 16(1) of Regulation (EC) No 166/2006 requires a report on the implementation of the Regulation, based on the information from the last three reporting years, to be established in accordance with the procedure laid down in Article 16(2) of Regulation (EC) No 166/2006.
+
+(2) Article 16(2) of Regulation (EC) No 166/2006 requires that the report be drawn up on the basis of a questionnaire drafted by the Commission with the assistance of the Committee set up in Article 19(1) of the Regulation.
+
+(3) The first report covers the period 2007 to 2009 inclusive.
+
+(4) The measures envisaged by this Decision are in agreement with the opinion expressed by the Committee in accordance with Article 19 of the Regulation,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Member States shall use the reporting questionnaire set up in Annex to this Decision as a basis for drawing up the report to be submitted to the Commission pursuant to Article 16(1) of Regulation (EC) No 166/2006.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 31 March 2010.
+
+For the Commission
+
+Janez POTOČNIK
+
+Member of the Commission
+
+(1) OJ L 33, 4.2.2006, p. 1.
+
+(2) OJ L 377, 31.12.1991, p. 48.
+
+## ANNEX
+
+**REPORTING QUESTIONNAIRE**
+
+**Additional information to be reported by Member States according to Article 16 of Regulation (EC) No 166/2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC**
+
+General notes:
+
+This questionnaire contains questions Member States are required to answer regarding the implementation of the E-PRTR Regulation during the last three reporting years.
+
+The responses to the questionnaire shall be made available by Member States in an electronic format.
+
+**1\. GENERAL DESCRIPTION**
+
+Provide brief information on the process by which this report has been prepared, including information on the type of public authorities that have contributed.
+
+**2\. LEGAL MEASURES ESTABLISHING THE PRTR SYSTEM (ARTICLES 5, 20)**
+
+List legislative, regulatory and other measures establishing the integrated pollutant release and transfer register.
+
+In particular, describe the measures adopted by Member States according to the provisions of Article 20 to ensure that the rules on penalties are effective, proportionate and dissuasive and what was the experience of their application.
+
+**3\. REPORTING REQUIREMENTS, IDENTIFICATION OF FACILITIES, COMPETENT AUTHORITIES AND DATA TO BE REPORTED (ARTICLE 5)**
+
+List legislative, regulatory and other measures which establish the reporting requirements for PRTR.
+
+In particular, describe the competent authorities designed to identify E-PRTR facilities and collect information on releases of pollutant from point sources. Please describe the reporting requirements and indicate the pathway of PRTR data collection in your country, listing the type of institutions involved and which part of the validation operations they are responsible for using the table below:
+
+Institution Pathway Validation by this institution
+
+Facility: …
+
+Local Authorities: …
+
+Regional authority: …
+
+National authority: …
+
+Ministry of the Environment: …
+
+**4\. PRTR REPORTING PRACTICE (ARTICLE 5)**
+
+For each reporting cycle since the last reporting questionnaire, please indicate:
+
+(a) Deadlines for reporting to the competent authority;
+
+(b) Difficulties in meeting reporting deadlines, whether the various deadlines for reporting by facilities and for having the information publicly accessible on the register were met in practice; and if they were delayed, the reasons for this;
+
+(c) Proportion of electronic reporting compared to data delivered by operators on paper and description of reporting and tools available for both operators and competent authorities;
+
+(d) Main difficulties for operators and for competent authorities regarding reporting of PRTR data (please answer from the point of view of the authorities).
+
+**5\. DATA QUALITY ASSURANCE AND ASSESSMENT (ARTICLE 9(1), (2) AND (3))**
+
+Describe the rules, procedures and measures ensuring the quality of the data reported under E-PRTR and what these revealed about the quality of the reported data.
+
+In particular, provide information on:
+
+(a) Assessment of the competent authorities on completeness, consistency and credibility of data provided by the operators;
+
+(b) Methodologies and procedures adopted by competent authorities, which resulted in submission of higher quality data.
+
+**6\. PUBLIC ACCESS TO PRTR DATA (ARTICLE 10(2))**
+
+Describe the way(s) in which public access to the information contained in the register is facilitated.
+
+In particular, provide information on:
+
+Where the information contained in the European PRTR register is not easily accessible to the public by direct electronic means, which measure has been taken to facilitate access to the register in publicly accessible locations.
+
+**7\. CONFIDENTIALITY (ARTICLE 7(2), 11)**
+
+Where any information is kept confidential, give an indication of the types of information, the reason for and the frequency with which it has been withheld. In particular briefly outline:
+
+(a) Which type of data have been kept confidential;
+
+(b) The main reasons given for confidentiality claim;
+
+(c) The number of facilities per Annex-I-Activity with confidential data and the total number of reporting facility per Annex I-Activity.
+
+Please provide comments on practical experience and challenges encountered with respect to dealing with confidentiality claims in accordance with Article 4 of the Directive 2003/4/EC of the European Parliament and of the Council, in particular with respect to information on releases and transfers as defined by Annex III.

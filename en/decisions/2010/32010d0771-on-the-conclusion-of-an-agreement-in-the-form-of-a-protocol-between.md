@@ -1,0 +1,759 @@
+---
+title: "Council Decision of 10 November 2009 on the conclusion of an Agreement in the form of a Protocol between the European Community and its Member States and the Republic of Lebanon establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part"
+identifier: "32010D0771"
+eli: "http://data.europa.eu/eli/dec/2010/771/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2009-11-10
+entry_into_force: 2010-04-07
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010D0771"
+retrieved: 2026-10-11
+---
+
+# Council Decision of 10 November 2009 on the conclusion of an Agreement in the form of a Protocol between the European Community and its Member States and the Republic of Lebanon establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part
+
+**COUNCIL DECISION**
+
+**of 10 November 2009**
+
+**on the conclusion of an Agreement in the form of a Protocol between the European Community and its Member States and the Republic of Lebanon establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part**
+
+**(2010/771/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with the first sentence of the first subparagraph of Article 300(2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) On 24 February 2006, the Council authorised the Commission to open negotiations with its partners from the Mediterranean region in order to establish a dispute settlement mechanism related to trade provisions.
+
+(2) Negotiations have been conducted by the Commission in consultation with the Committee established by Article 133 of the Treaty and within the framework of the negotiating directives issued by the Council.
+
+(3) The Commission has finalised negotiations for the conclusion of an Agreement in the form of a Protocol establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part (1).
+
+(4) This Agreement should be approved,
+
+HAS DECIDED AS FOLLOWS:
+
+#### Article 1
+
+The Agreement in the form of a Protocol between the European Community and the Republic of Lebanon establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part, is hereby approved on behalf of the Community.
+
+The text of the Agreement is attached to this Decision.
+
+#### Article 2
+
+The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement in the form of a Protocol in order to bind the Community.
+
+Done at Brussels, 10 November 2009.
+
+For the Council
+
+The President
+
+A. BORG
+
+(1) OJ L 143, 30.5.2006, p. 2.
+
+**PROTOCOL**
+
+**between the European Community and the Republic of Lebanon establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part**
+
+THE EUROPEAN COMMUNITY,
+
+hereinafter referred to as ‘the Community’,
+
+of the one part, and
+
+THE REPUBLIC OF LEBANON,
+
+hereinafter referred to as ‘Lebanon’,
+
+of the other part,
+
+HAVE DECIDED AS FOLLOWS:
+
+## CHAPTER I — OBJECTIVE AND SCOPE
+
+#### Article 1 — Objective
+
+The objective of this Protocol is to avoid and settle any trade dispute between the Parties with a view to arriving at, where possible, a mutually agreed solution.
+
+#### Article 2 — Application of the Protocol
+
+The provisions of this Protocol apply with respect to any dispute concerning the interpretation and application of the provisions of Title II (with the exception of Articles 23, 24 and 25) of the Euro-Mediterranean Agreement establishing an Association between the European Community and its Members States, of the one part, and the Republic of Lebanon, of the other part (hereinafter referred to as the ‘Association Agreement’), except as otherwise expressly provided (1). Article 82 of the Association Agreement applies to disputes relating to the application and interpretation of other provisions of the Association Agreement.
+
+## CHAPTER II — CONSULTATIONS AND MEDIATION
+
+#### Article 3 — Consultations
+
+1\. The Parties shall endeavour to resolve any difference regarding the interpretation and application of the provisions referred to in Article 2 by entering in good faith into consultations under the auspices of the Association Council with the aim of reaching a prompt, equitable, and mutually agreed solution.
+
+2\. A Party shall seek consultations by means of a written request to the other Party, copied to the subcommittee on industry, trade and services, identifying any measure at issue and the provisions of the Association Agreement that it considers applicable.
+
+3\. Consultations shall be held within 30 days of the date of receipt of the request and shall take place, unless the Parties agree otherwise, on the territory of the Party complained against. The consultations shall be deemed concluded within 60 days of the date of receipt of the request, unless both Parties agree to continue consultations. Consultations, in particular all information disclosed and positions taken by the Parties during these proceedings, shall be confidential, and without prejudice to the rights of either Party in any further proceedings.
+
+4\. Consultations on matters of urgency, including those regarding perishable or seasonal goods, shall be held within 15 days of the date of receipt of the request, and shall be deemed concluded within 30 days of the date of receipt of the request.
+
+5\. If the Party to which the request for consultations is made does not respond to the request within 10 working days of the date of its receipt, or if consultations are not held within the timeframes laid down in paragraph 3 or paragraph 4 respectively, or if consultations have been concluded and no agreement has been reached on a mutually agreed solution, the complaining Party may request the establishment of an arbitration panel in accordance with Article 5.
+
+#### Article 4 — Mediation
+
+1\. If consultations fail to produce a mutually agreed solution, the Parties may, by mutual agreement, seek recourse to a mediator. Any request for mediation must be made in writing to the subcommittee on industry, trade and services and state any measure which has been the subject of consultations as well as the mutually agreed terms of reference for the mediation. Each Party undertakes to accord sympathetic consideration to requests for mediation.
+
+2\. Unless the Parties agree on a mediator within five working days of the date of receipt of the request for mediation, the chairpersons of the subcommittee on industry, trade and services, or the chairpersons’ delegate, shall draw by lot a mediator from the names on the lists referred to in Article 19 who is not a national of either Party. The selection shall be made within 10 working days of the date of receipt of the request for mediation. The mediator shall convene a meeting with the Parties no later than 30 days after having been selected. The mediator shall receive the submissions of each Party no later than 15 days before the meeting and may request additional information from the Parties or from experts or technical advisors as she or he deems necessary. Any information obtained in this manner must be disclosed to each of the Parties and submitted for their comments. The mediator shall deliver an opinion no later than 45 days after having been selected.
+
+3\. The mediator’s opinion may include recommendations on how to resolve the dispute consistent with the provisions referred to in Article 2. The mediator’s opinion is non-binding.
+
+4\. The Parties may agree to amend the time limits referred to in paragraph 2. The mediator may also decide to amend these time limits upon request of any of the Parties or on his own initiative, given the particular difficulties experienced by the Party concerned or the complexities of the case.
+
+5\. The proceedings involving mediation, in particular the mediator’s opinion and all information disclosed and positions taken by the Parties during these proceedings, shall be confidential, and without prejudice to the rights of either Party in any further proceeding.
+
+6\. If the Parties agree, a procedure for mediation may continue while the arbitration procedure proceeds.
+
+7\. Replacement of a mediator shall take place only for the reasons and according to the procedures detailed in Rules 17 to 20 of the Rules of Procedure.
+
+## CHAPTER III — DISPUTE SETTLEMENT PROCEDURES
+
+### SECTION I — Arbitration procedure
+
+#### Article 5 — Initiation of the arbitration procedure
+
+1\. Where the Parties fail to resolve the dispute by recourse to consultations as provided for in Article 3, or by recourse to mediation as provided for in Article 4, the complaining Party may request the establishment of an arbitration panel.
+
+2\. The request for the establishment of an arbitration panel shall be made in writing to the Party complained against and the subcommittee on industry, trade and services. The complaining Party shall identify in its request the specific measure at issue, and it shall explain how such measure constitutes a breach of the provisions referred to in Article 2. The establishment of an arbitration panel shall be requested no later than 18 months from the date of receipt of the request for consultations, without prejudice to the rights of the complaining Party to request new consultations on the same matter in the future.
+
+#### Article 6 — Establishment of the arbitration panel
+
+1\. An arbitration panel shall be composed of three arbitrators.
+
+2\. Within 10 working days of the date of receipt by the Party complained against of the request for the establishment of an arbitration panel, the Parties shall consult in order to reach an agreement on the composition of the arbitration panel.
+
+3\. In the event that the Parties are unable to agree on its composition within the time frame laid down in paragraph 2, either party may request the chairpersons of the subcommittee on industry, trade and services, or the chairpersons’ delegate, to draw by lot all three members of the arbitration panel from the list established under Article 19; one name shall be drawn among the individuals proposed by the complaining Party, one shall be drawn among the individuals proposed by the Party complained against and one shall be drawn among the individuals selected by the Parties to act as chairperson. Where the Parties agree on one or two of the members of the arbitration panel, the remaining members shall be selected by the same procedure.
+
+4\. The chairpersons of the subcommittee on industry, trade and services, or the chairpersons’ delegate, shall select the arbitrators within five working days of the request referred to in paragraph 3.
+
+5\. The date of establishment of the arbitration panel shall be the date on which the three arbitrators are selected.
+
+6\. Replacement of arbitrators shall take place only for the reasons and according to the procedures detailed in Rules 17 to 20 of the Rules of Procedure.
+
+#### Article 7 — Interim panel report
+
+The arbitration panel shall issue an interim report to the Parties setting out the findings of fact, the applicability of relevant provisions and the basic rationale behind any findings and recommendations that it makes, no later than 120 days from the date of establishment of the arbitration panel. Either Party may submit a written request for the arbitration panel to review precise aspects of the interim report within 15 days of its notification. The findings of the final arbitration panel ruling shall include a discussion of the arguments made at the interim review stage.
+
+#### Article 8 — Arbitration panel ruling
+
+1\. The arbitration panel shall notify its ruling to the Parties and to the subcommittee on industry, trade and services within 150 days from the date of establishment of the arbitration panel. Where the chairperson of the arbitration panel considers that this deadline cannot be met, he or she shall notify the Parties and the subcommittee on industry, trade and services in writing, stating the reasons for the delay and the date on which the arbitration panel plans to conclude its work. Under no circumstances should the ruling be notified later than 180 days from the date of establishment of the arbitration panel.
+
+2\. In cases of urgency, including those involving perishable or seasonal goods, the arbitration panel shall make every effort to notify its ruling within 75 days from the date of its establishment. Under no circumstances should the ruling be notified later than 90 days from the date of its establishment. The arbitration panel shall give a preliminary ruling within 10 days of its establishment on whether it deems the case to be urgent.
+
+3\. The arbitration panel shall, at the request of both Parties, suspend its work at any time for a period agreed by the Parties not exceeding 12 months and shall resume its work at the end of this agreed period at the request of the complaining Party. If the complaining Party does not request the resumption of the arbitration panel’s work before the expiry of the agreed suspension period, the procedure shall be terminated. The suspension and termination of the arbitration panel’s work are without prejudice to the rights of either Party in another proceeding on the same matter.
+
+### SECTION II — Compliance
+
+#### Article 9 — Compliance with the arbitration panel ruling
+
+Each Party shall take any measure necessary to comply with the arbitration panel ruling, and the Parties shall endeavour to agree on the period of time to comply with the ruling.
+
+#### Article 10 — The reasonable period of time for compliance
+
+1\. No later than 30 days after the receipt of the notification of the arbitration panel ruling by the Parties, the Party complained against shall notify the complaining Party and the subcommittee on industry, trade and services of the time it will require for compliance (reasonable period of time), if immediate compliance is not possible.
+
+2\. In the event of disagreement between the Parties on the reasonable period of time with which to comply with the arbitration panel ruling, the complaining Party shall, within 20 days of the receipt of the notification made under paragraph 1 by the Party complained against, request in writing the arbitration panel to determine the length of the reasonable period of time. Such request shall be notified simultaneously to the other Party and to the subcommittee on industry, trade and services. The arbitration panel shall notify its ruling to the Parties and to the subcommittee on industry, trade and services within 30 days from the date of submission of the request.
+
+3\. The reasonable period of time may be extended by mutual agreement of the Parties.
+
+#### Article 11 — Review of any measure taken to comply with the arbitration panel ruling
+
+1\. The Party complained against shall notify the other Party and the subcommittee on industry, trade and services before the end of the reasonable period of time of any measure that it has taken to comply with the arbitration panel ruling.
+
+2\. In the event of disagreement between the Parties concerning the existence of any measure notified under paragraph 1 or its consistency with the provisions referred to in Article 2, the complaining Party may request in writing the arbitration panel to rule on the matter. Such request shall identify the specific measure at issue and shall explain how such measure is inconsistent with the provisions referred to in Article 2. The arbitration panel shall notify its ruling within 90 days of the date of submission of the request. In cases of urgency, including those involving perishable or seasonal goods, the arbitration panel shall notify its ruling within 45 days of the date of submission of the request.
+
+#### Article 12 — Temporary remedies in case of non-compliance
+
+1\. If the Party complained against fails to notify any measure taken to comply with the arbitration panel ruling before the expiry of the reasonable period of time, or if the arbitration panel rules that the measure notified under Article 11(1) is inconsistent with that Party’s obligations under the provisions referred to in Article 2, the Party complained against shall, if so requested by the complaining Party, present an offer for temporary compensation.
+
+2\. If no agreement on compensation is reached within 30 days of the end of the reasonable period of time or of notification of the arbitration panel ruling under Article 11 that the measure taken to comply is inconsistent with the provisions referred to in Article 2, the complaining Party shall be entitled, upon notification to the other Party and to the subcommittee on industry, trade and services, to suspend obligations arising from any provision referred to in Article 2 at a level equivalent to the nullification or impairment caused by the violation. The complaining Party may implement the suspension 10 working days after the date of receipt of the notification by the Party complained against, unless the Party complained against has requested arbitration under paragraph 3.
+
+3\. If the Party complained against considers that the level of suspension is not equivalent to the nullification or impairment caused by the violation, it may request in writing the arbitration panel to rule on the matter. Such request shall be notified to the other Party and to the subcommittee on industry, trade and services before the expiry of the 10-working-day period referred to in paragraph 2. The arbitration panel, having sought, if appropriate, the opinion of experts, shall notify its ruling on the level of the suspension of obligations to the Parties and to the subcommittee on industry, trade and services within 30 days of the date of submission of the request. Obligations shall not be suspended until the arbitration panel has delivered its ruling, and any suspension shall be consistent with the arbitration panel ruling.
+
+4\. The suspension of obligations shall be temporary and shall be applied only until any measure found to be inconsistent with the provisions referred to in Article 2 has been withdrawn or amended so as to bring it into conformity with those provisions, as established under Article 13, or until the Parties have settled the dispute.
+
+#### Article 13 — Review of any measure taken to comply after the suspension of obligations
+
+1\. The Party complained against shall notify the other Party and the subcommittee on industry, trade and services of any measure it has taken to comply with the ruling of the arbitration panel and of its request for an end to the suspension of obligations applied by the complaining Party.
+
+2\. If the Parties do not reach an agreement on the compatibility of the notified measure with the provisions referred to in Article 2 within 30 days of the date of receipt of the notification, the complaining Party shall request in writing the arbitration panel to rule on the matter. Such request shall be notified simultaneously to the other Party and to the subcommittee on industry, trade and services. The arbitration panel ruling shall be notified to the Parties and to the subcommittee on industry, trade and services within 45 days of the date of submission of the request. If the arbitration panel rules that any measure taken to comply is in conformity with the provisions referred to in Article 2, the suspension of obligations shall be terminated.
+
+### SECTION III — Common provisions
+
+#### Article 14 — Mutually agreed solution
+
+The Parties may reach a mutually agreed solution to a dispute under this Protocol at any time. They shall notify the subcommittee on industry, trade and services and the arbitration panel of any such solution. Upon notification of the mutually agreed solution, the arbitration panel shall terminate its work and the procedure shall be terminated.
+
+#### Article 15 — Rules of procedure
+
+1\. Dispute settlement procedures under Chapter III shall be governed by the Rules of Procedure annexed to this Protocol.
+
+2\. Any meeting of the arbitration panel shall be open to the public in accordance with the Rules of Procedure, unless the Parties agree otherwise.
+
+#### Article 16 — Information and technical advice
+
+1\. Upon its own initiative or at the request of a Party, the arbitration panel may obtain information from any source, including the Parties, which it deems appropriate for the arbitration panel proceeding. In particular, the arbitration panel has the right to seek the relevant opinion of experts as it deems appropriate. The panel shall consult the Parties before choosing such experts. The panel shall not be bound by the Parties’ opinion on the experts. Any information obtained in this manner must be disclosed to each of the Parties and submitted for their comments.
+
+2\. Interested natural or legal persons established in the Parties are authorised to submit amicus curiae briefs to the arbitration panel in accordance with the Rules of Procedure. Such briefs shall be limited to the factual aspects of the dispute and shall not address points of law.
+
+#### Article 17 — Rules of interpretation
+
+Any arbitration panel shall interpret the provisions referred to in Article 2 in accordance with customary rules of interpretation of public international law, including those set out in the Vienna Convention on the Law of Treaties. The rulings of the arbitration panel cannot add to or diminish the rights and obligations provided in the provisions referred to in Article 2.
+
+#### Article 18 — Arbitration panel rulings
+
+1\. The arbitration panel shall make every effort to make its rulings by consensus. Where, nevertheless, a ruling cannot be made by consensus, the matter at issue shall be decided by majority vote.
+
+2\. Any ruling of the arbitration panel shall be binding on the Parties and shall not create any rights or obligations to physical or legal persons. The ruling shall set out the findings of fact, the applicability of the relevant provisions of the Association Agreement and the basic rationale behind any findings and conclusions that it makes. The subcommittee on industry, trade and services shall make the arbitration panel ruling publicly available in its entirety unless it decides not to do so in order to ensure the confidentiality of confidential business information.
+
+## CHAPTER IV — GENERAL PROVISIONS
+
+#### Article 19 — Lists of arbitrators
+
+1\. The subcommittee on industry, trade and services shall, no later than 6 months after the entry into force of this Protocol, establish a list of at least 15 individuals who are willing and able to serve as arbitrators. Each of the Parties shall propose at least five individuals to serve as arbitrators. The two Parties shall also select at least five individuals who are not nationals of either Party to act as chairperson. The subcommittee on industry, trade and services will ensure that the list is always maintained at this level.
+
+2\. The arbitrators must have specialised knowledge or experience of law and international trade. They shall be independent, serve in their individual capacities and not take instructions from any organisation or government, or be affiliated with the government of any of the Parties, and shall comply with the Code of Conduct annexed to this Protocol.
+
+3\. The subcommittee on industry, trade and services may establish additional lists of at least 15 individuals having a sectoral expertise in specific matters covered by the Association Agreement, or with experience in mediation. When recourse is made to the selection procedure of Article 6(2), the chairpersons of the subcommittee on industry, trade and services may use such sectoral list upon agreement of both Parties.
+
+#### Article 20 — Relation with WTO obligations
+
+1\. Recourse to the dispute settlement provisions of this Protocol shall be without prejudice to any action in the WTO framework, including dispute settlement action.
+
+2\. However, where a Party has, with regard to a particular measure, instituted a dispute settlement proceeding, either under this Protocol or under the WTO Agreement, it may not institute a dispute settlement proceeding regarding the same measure in the other forum until the first proceeding has ended. In addition, a Party shall not seek redress for the breach of an obligation which is identical under the Association Agreement and under the WTO Agreement in the two forums. In such case, once a dispute settlement proceeding has been initiated, the Party shall not bring a claim seeking redress for the breach of the identical obligation under the other agreement to the other forum, unless the forum selected fails, for procedural or jurisdictional reasons, to make findings on that claim.
+
+3\. For purposes of paragraph 2:
+
+— dispute settlement proceedings under the WTO Agreement are deemed to be initiated by a Party’s request for the establishment of a panel under Article 6 of the Understanding on Rules and Procedures Governing the Settlement of Disputes of the WTO (DSU) and are deemed to be ended when the Dispute Settlement Body adopts the panel’s report, and the Appellate Body’s report as the case may be, under Articles 16 and 17(14) of the DSU,
+
+— dispute settlement proceedings under this Protocol are deemed to be initiated by a Party’s request for the establishment of an arbitration panel under Article 5(1) and are deemed to be ended when the arbitration panel notifies its ruling to the Parties and to the subcommittee on industry, trade and services under Article 8.
+
+4\. Nothing in this Protocol shall preclude a Party from implementing the suspension of obligations authorised by the Dispute Settlement Body of the WTO. The WTO Agreement shall not be invoked to preclude a Party from suspending its obligations under this Protocol.
+
+#### Article 21 — Time limits
+
+1\. All time limits laid down in this Protocol, including the limits for the arbitration panels to notify their rulings, shall be counted in calendar days from the day following the act or fact to which they refer, unless otherwise specified.
+
+2\. Any time limit referred to in this Protocol may be modified by mutual agreement of the Parties. The Parties undertake to accord sympathetic consideration to requests for extensions of any time limit by reason of difficulties faced by any Party in complying with the procedures of this Protocol. Upon request of a Party, the arbitration panel may modify the time limits applicable in the proceedings, taking into account the different level of development of the Parties.
+
+#### Article 22 — Review and modification of the Protocol
+
+1\. The Association Council may review the implementation of this Protocol and its Annexes, with a view to deciding on their continuation, modification or termination.
+
+2\. The Association Council may decide to modify this Protocol and its annexes. Any such modification may be subject to the fulfilment of the internal legal requirements of each Party.
+
+#### Article 23 — Entry into force
+
+This Protocol shall be approved by the Parties in accordance with their own procedures. It shall enter into force on the first day of the second month following the date on which the Parties notify each other that the procedures referred to in this Article have been completed.
+
+Done at Brussels, 11 November 2010, in duplicate, in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish and Arabic languages, each of these texts being equally authentic.
+
+За Европейския съюз
+
+Por la Unión Europea
+
+Za Evropskou unii
+
+For Den Europæiske Union
+
+Für die Europäische Union
+
+Euroopa Liidu nimel
+
+Για την Ευρωπαϊκή Ένωση
+
+For the European Union
+
+Pour l'Union européenne
+
+Per l'Unione europea
+
+Eiropas Savienības vārdā
+
+Europos Sajungos vardu
+
+Az Európai Unió részéről
+
+Għall-Unjoni Ewropea
+
+Voor de Europese Unie
+
+W imieniu Unii Europejskiej
+
+Pela União Europeia
+
+Pentru Uniunea Europeană
+
+Za Európsku úniu
+
+Za Evropsko unijo
+
+Euroopan unionin puolesta
+
+För Europeiska unionen
+
+[image]
+
+[image]
+
+За Релублика Ливан
+
+Por la República Libanesa
+
+Za Libanonskou republiku
+
+For Den Libanesiske Republik
+
+Für die Libanesische Republik
+
+Liibanoni Vabariigi nimel
+
+Για τη Δημοκρατία του Λιβάνου
+
+For the Republic of Lebanon
+
+Pour la République libanaise
+
+Per la Repubblica libanese
+
+Libānas Republikas vārdā
+
+Libano Respublikos vardu
+
+A Libanoni Köztársaság részéről
+
+Għar-repubblika tal-Libanu
+
+Voor de Republiek Libanon
+
+W imieniu Republiki Libańskiej
+
+Pela República do Líbano
+
+Pentru Republica Libaneză
+
+Za Libanonskú republiku
+
+Za Republiko Libanon
+
+Libanonin tasavallan puolesta
+
+För Republiken Libanon
+
+[image]
+
+[image]
+
+(1) The provisions of this Protocol are without prejudice to Article 33 of the Protocol concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation.
+
+**ANNEXES**
+
+| ANNEX I | : | RULES OF PROCEDURE FOR ARBITRATION |
+| --- | --- | --- |
+| ANNEX II | : | CODE OF CONDUCT FOR MEMBERS OF ARBITRATION PANELS AND MEDIATORS |
+
+## ANNEX I
+
+**RULES OF PROCEDURE FOR ARBITRATION**
+
+**General provisions**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>In this Protocol and under these Rules:<table><tbody><tr><td>(a)</td><td>‘adviser’ means a person retained by a Party to advise or assist that Party in connection with the arbitration panel proceeding;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>‘complaining Party’ means the Party that requests the establishment of an arbitration panel under Article 5 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>‘Party complained against’ means the Party that is alleged to be in violation of the provisions referred to in Article 2 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(d)</td><td>‘arbitration panel’ means a panel established under Article 6 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(e)</td><td>‘representative of a Party’ means an employee or any person appointed by a government department or government agency or any other public entity of a Party;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(f)</td><td>‘day’ means a calendar day, unless otherwise specified.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 2. | The Party complained against shall be in charge of the logistical administration of dispute settlement proceedings, in particular the organisation of hearings, unless otherwise agreed. However, the Community shall bear the expenses derived from organisational matters, with the exception of the remuneration and expenses to be paid to the arbitrators and mediators, which shall be shared. |
+| --- | --- | --- |
+
+**Notifications**
+
+|  | 3. | The Parties and the arbitration panel shall transmit any request, notice, written submission or other document by facsimile transmission, with an electronic copy submitted on the same day by e-mail. Unless proven otherwise, a message shall be deemed to be received on the day it is sent. |
+| --- | --- | --- |
+
+|  | 4. | At the latest on the entry into force of this Protocol, the Parties shall inform each other of the designated point of contact for all notifications. |
+| --- | --- | --- |
+
+|  | 5. | Minor errors of a clerical nature in any request, notice, written submission or other document related to the arbitration panel proceeding may be corrected by delivery of a new document clearly indicating the changes. |
+| --- | --- | --- |
+
+|  | 6. | If the last day for delivery of a document falls on an official holiday or legal rest day in Lebanon or in the Community, the document may be delivered on the next working day. The Parties shall exchange a list of their official holidays and rest days on the first Monday of every December for the following year. No documents, notifications or requests of any kind shall be deemed to be received on an official holiday or rest day. |
+| --- | --- | --- |
+
+|  | 7. | Depending on the object of the provisions under dispute, all requests and notifications addressed to the subcommittee on industry, trade and services in accordance with this Protocol shall also be copied to the other relevant sub-committees established under the Association Agreement. |
+| --- | --- | --- |
+
+**Commencing the arbitration**
+
+<table>
+<tbody><tr><td></td><td>8.</td><td><table><tbody><tr><td>(a)</td><td>Where, pursuant to Article 6 of this Protocol or to Rules 18, 19 or 48 of these Rules of Procedure, the members of the arbitration panel are drawn by lot, representatives of both Parties shall be present when lots are drawn.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>Unless the Parties agree otherwise, they shall meet the arbitration panel within seven working days of its establishment in order to determine such matters that the Parties or the arbitration panel deem appropriate, including the remuneration and expenses to be paid to the arbitrators, which must be in accordance with WTO standards. Members of the arbitration panel and representatives of the Parties may take part in this meeting via telephone or video conference.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>9.</td><td><table><tbody><tr><td>(a)</td><td>Unless the Parties agree otherwise, within five working days of the date of the selection of the arbitrators, the terms of reference of the arbitration panel shall be: ‘to examine, in the light of the relevant provisions of the Association Agreement, the matter referred to in the request for establishment of the arbitration panel, to rule on the compatibility of the measure in question with the provisions referred to in Article 2 of the Protocol and to make a ruling in accordance with Article 8 of the Protocol on Dispute Settlement.’. </td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>The Parties must notify the agreed terms of reference to the arbitration panel within three working days of their agreement.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**Initial submissions**
+
+|  | 10. | The complaining Party shall deliver its initial written submission no later than 20 days after the date of establishment of the arbitration panel. The Party complained against shall deliver its written counter-submission no later than 20 days after the date of delivery of the initial written submission. |
+| --- | --- | --- |
+
+**Working of arbitration panels**
+
+|  | 11. | The chairperson of the arbitration panel shall preside at all its meetings. An arbitration panel may delegate to the chairperson authority to take administrative and procedural decisions. |
+| --- | --- | --- |
+
+|  | 12. | Unless otherwise provided in this Protocol, the arbitration panel may conduct its activities by any means, including telephone, facsimile transmission or computer links. |
+| --- | --- | --- |
+
+|  | 13. | Only arbitrators may take part in the deliberations of the arbitration panel, but the arbitration panel may permit its assistants to be present at its deliberations. |
+| --- | --- | --- |
+
+|  | 14. | The drafting of any ruling shall remain the exclusive responsibility of the arbitration panel and must not be delegated. |
+| --- | --- | --- |
+
+|  | 15. | Where a procedural question arises that is not covered by the provisions of this Protocol and its Annexes, the arbitration panel, after consulting the Parties, may adopt any appropriate procedure that is compatible with those provisions. |
+| --- | --- | --- |
+
+|  | 16. | When the arbitration panel considers that there is a need to modify any time limit applicable in the proceedings or to make any other procedural or administrative adjustment, it shall inform the Parties in writing of the reasons for the modification or adjustment and of the period or adjustment needed. The arbitration panel may adopt such modification or adjustment after having consulted the Parties. The time limits of Article 8(2) of this Protocol shall not be modified. |
+| --- | --- | --- |
+
+**Replacement**
+
+|  | 17. | If an arbitrator is unable to participate in the proceeding, withdraws, or must be replaced, a replacement shall be selected in accordance with Article 6(3). |
+| --- | --- | --- |
+
+|  | 18. | Where a Party considers that an arbitrator does not comply with the requirements of the Code of Conduct and for this reason must be replaced, that Party shall notify the other Party within 15 days from the time at which it came to know of the circumstances underlying the arbitrator’s serious violation of the Code of Conduct. Where a Party considers that an arbitrator other than the chairperson does not comply with the requirements of the Code of Conduct, the Parties shall consult and, if they so agree, shall dismiss the arbitrator and select a replacement following the procedure set out in Article 6(3) of this Protocol. If the Parties fail to agree on the need to replace an arbitrator, any Party may request that such matter be referred to the chairperson of the arbitration panel, whose decision shall be final. If the chairperson finds that an arbitrator does not comply with the requirements of the Code of Conduct, she or he shall draw a new arbitrator by lot from the names on the list referred to in Article 19(1) of this Protocol and on which the original arbitrator was included. If the original arbitrator was chosen by the Parties pursuant to Article 6(2) of this Protocol, the replacement shall be drawn by lot from the individuals proposed by the complaining Party and by the Party complained against under Article 19(1) of this Protocol. The selection of the new arbitrator shall be made within five working days of the date of submission of the request to the chairperson of the arbitration panel. |
+| --- | --- | --- |
+
+|  | 19. | Where a Party considers that the chairperson of the arbitration panel does not comply with the requirements of the Code of Conduct, the Parties shall consult and, if they so agree, shall dismiss the chairperson and select a replacement following the procedure set out in Article 6(3) of this Protocol. If the Parties fail to agree on the need to replace the chairperson, any Party may request that such matter be referred to one of the remaining members of the list of individuals selected to act as chairperson under Article 19(1) of this Protocol. Her or his name shall be drawn by lot by the chairpersons of the subcommittee on industry, trade and services, or the chairpersons’ delegate. The decision by this person on the need to replace the chairperson shall be final. If this person decides that the original chairperson does not comply with the requirements of the Code of Conduct, she or he shall draw a new chairperson by lot among the remaining names on the list referred to in Article 19(1) of this Protocol to act as chairperson. The selection of the new chairperson shall be made within five working days of the date of submission of the request referred to in this paragraph. |
+| --- | --- | --- |
+
+|  | 20. | The arbitration panel proceedings shall be suspended for the period taken to carry out the procedures provided for in Rules 17, 18 and 19. |
+| --- | --- | --- |
+
+**Hearings**
+
+|  | 21. | The chairperson shall fix the date and time of the hearing in consultation with the Parties and the other members of the arbitration panel, and confirm this in writing to the Parties. This information shall also be made publicly available by the Party in charge of the logistical administration of the proceeding if the hearing is open to the public. Unless a Party disagrees, the arbitration panel may decide not to convene a hearing. |
+| --- | --- | --- |
+
+|  | 22. | Unless the Parties agree otherwise, the hearing shall be held in Brussels if the complaining Party is Lebanon and in Beirut if the complaining Party is the Community. |
+| --- | --- | --- |
+
+|  | 23. | The arbitration panel may convene one additional hearing only in exceptional circumstances. No additional hearing shall be convened for the procedures established under Articles 10(2), 11(2), 12(3) and 13(2) of this Protocol. |
+| --- | --- | --- |
+
+|  | 24. | All arbitrators must be present during the entirety of the hearings. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>25.</td><td>The following persons may attend the hearing, irrespective of whether the proceedings are open to the public or not:<table><tbody><tr><td>(a)</td><td>representatives of the Parties;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>advisers to the Parties;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>administrative staff, interpreters, translators and court reporters; and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(d)</td><td>arbitrators’ assistants.</td></tr>
+</tbody>
+</table>
+ Only the representatives and advisers of the Parties may address the arbitration panel. </td></tr>
+</tbody>
+</table>
+
+|  | 26. | No later than five working days before the date of a hearing, each Party shall deliver to the arbitration panel a list of the names of persons who will make oral arguments or presentations at the hearing on behalf of that Party, as well as a list of other representatives or advisers who will be attending the hearing. |
+| --- | --- | --- |
+
+|  | 27. | The hearings of the arbitration panels shall be open to the public, unless the Parties decide otherwise. If the Parties decide that the hearing is closed to the public, part of the hearing may, however, be open to the public if the arbitration panel, on application by the Parties, so decides. However, the arbitration panel shall meet in closed session where the submission and arguments of a Party contain confidential business information. |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>28.</td><td>The arbitration panel shall conduct the hearing in the following manner:<table><tbody><tr><td></td><td>Arguments:<table><tbody><tr><td>(a)</td><td>arguments of the complaining Party;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>arguments of the Party complained against.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Rebuttal Arguments:<table><tbody><tr><td>(a)</td><td>arguments of the complaining Party;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>counter-reply of the Party complained against.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 29. | The arbitration panel may direct questions to either Party at any time during the hearing. |
+| --- | --- | --- |
+
+|  | 30. | The arbitration panel shall arrange for a transcript of each hearing to be prepared and delivered as soon as possible to the Parties. |
+| --- | --- | --- |
+
+|  | 31. | Each Party may deliver a supplementary written submission concerning any matter that arose during the hearing within 10 working days of the date of the hearing. |
+| --- | --- | --- |
+
+**Questions in writing**
+
+|  | 32. | The arbitration panel may at any time during the proceeding address questions in writing to one or both Parties. Each of the Parties shall receive a copy of any questions put by the arbitration panel. |
+| --- | --- | --- |
+
+|  | 33. | Each Party shall also provide the other Party with a copy of its written response to the questions of the arbitration panel. Each Party shall be given the opportunity to provide written comments on the other Party’s reply within five working days of the date of receipt. |
+| --- | --- | --- |
+
+**Confidentiality**
+
+|  | 34. | The Parties shall maintain the confidentiality of the arbitration panel hearings where the hearings are held in closed session, in accordance with Rule 27. Each Party shall treat as confidential any information submitted by the other Party to the arbitration panel which that Party has designated as confidential. Where a Party submits a confidential version of its written submissions to the arbitration panel, it shall also, upon request of the other Party, provide a non-confidential summary of the information contained in its submissions that could be disclosed to the public. That summary shall be notified no later than 15 days after the date of either the request or the notification of its submission, whichever is later. Nothing in these Rules shall preclude a Party from disclosing statements of its own positions to the public. |
+| --- | --- | --- |
+
+**Ex parte contacts**
+
+|  | 35. | The arbitration panel shall not meet or contact a Party in the absence of the other Party. |
+| --- | --- | --- |
+
+|  | 36. | No member of the arbitration panel may discuss any aspect of the subject matter of the proceedings with one or both Parties in the absence of the other arbitrators. |
+| --- | --- | --- |
+
+**Amicus curiae submissions**
+
+|  | 37. | Unless the Parties agree otherwise within 5 days of the date of establishment of the arbitration panel, the arbitration panel may receive unsolicited written submissions, provided that they are made within 10 days of the date of establishment of the arbitration panel, that they are concise and in no case longer than 15 typed pages, including any annexes, and that they are directly relevant to the factual issue under consideration by the arbitration panel. |
+| --- | --- | --- |
+
+|  | 38. | The submission shall contain a description of the person making the submission, whether natural or legal, including the nature of that person’s activities and the source of that person’s financing, and specify the nature of the interest that that person has in the arbitration proceeding. It shall be drafted in the languages chosen by the Parties in accordance with Rules 42 and 43 of these Rules of Procedure. |
+| --- | --- | --- |
+
+|  | 39. | The arbitration panel shall list in its ruling all the submissions it has received that conform to the above Rules. The arbitration panel shall not be obliged to address in its ruling the arguments made in such submissions. Any submission obtained by the arbitration panel under this Rule shall be submitted to the Parties for their comments. |
+| --- | --- | --- |
+
+**Urgent cases**
+
+|  | 40. | In cases of urgency referred to in this Protocol, the arbitration panel, after consulting the Parties, shall adjust the time limits referred to in these Rules as appropriate and shall notify the Parties of such adjustments. |
+| --- | --- | --- |
+
+**Translation and interpretation**
+
+|  | 41. | During the consultations referred to in Article 6(2) of this Protocol, and no later than the meeting referred to in Rule 8(b) of these Rules of Procedure, the Parties shall endeavour to agree on a common working language for the proceedings before the arbitration panel. |
+| --- | --- | --- |
+
+|  | 42. | If the Parties are unable to agree on a common working language, each Party shall arrange for, and bear the costs of, the translation of its written submissions into the language chosen by the other Party. |
+| --- | --- | --- |
+
+|  | 43. | The Party complained against shall arrange for the interpretation of oral submissions into the languages chosen by the Parties. |
+| --- | --- | --- |
+
+|  | 44. | Arbitration panel rulings shall be notified in the language or languages chosen by the Parties. |
+| --- | --- | --- |
+
+|  | 45. | Any Party may provide comments on any translated version of a document drawn up in accordance with these Rules. |
+| --- | --- | --- |
+
+**Calculation of time limits**
+
+|  | 46. | Where, by reason of the application of Rule 6 of these Rules of Procedure, a Party receives a document on a date other than the date on which this document is received by the other Party, any period of time that is calculated on the basis of the date of receipt shall be calculated from the last date of receipt of that document. |
+| --- | --- | --- |
+
+**Other procedures**
+
+|  | 47. | These Rules of Procedure are also applicable to procedures established under Articles 10(2), 11(2), 12(3) and 13(2) of this Protocol. However, the time limits laid down in these Rules of Procedure shall be adjusted in line with the special time limits provided in those Rules for the adoption of a ruling by the arbitration panel. |
+| --- | --- | --- |
+
+|  | 48. | In the event of the original arbitration panel, or some of its members, being unable to reconvene for the procedures established under Articles 10(2), 11(2), 12(3) and 13(2) of this Protocol, the procedures set out in Article 6 of this Protocol shall apply. The time limit for the notification of the ruling shall be extended by 15 days. |
+| --- | --- | --- |
+
+## ANNEX II
+
+**CODE OF CONDUCT FOR MEMBERS OF ARBITRATION PANELS AND MEDIATORS**
+
+**Definitions**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>In this Code of Conduct:<table><tbody><tr><td>(a)</td><td>‘member’ or ‘arbitrator’ means a member of an arbitration panel effectively established under Article 6 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>‘mediator’ means a person who conducts a mediation in accordance with Article 4 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>‘candidate’ means an individual whose name is on the list of arbitrators referred to in Article 19 of this Protocol and who is under consideration for selection as a member of an arbitration panel under Article 6 of this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(d)</td><td>‘assistant’ means a person who, under the terms of appointment of a member, assists the member in his research or supports him in his duties;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(e)</td><td>‘proceeding’, unless otherwise specified, means an arbitration panel proceeding under this Protocol;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(f)</td><td>‘staff’, in respect of a member, means persons under the direction and control of the member, other than assistants.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**Responsibilities to the process**
+
+|  | 2. | Every candidate and member shall avoid impropriety and the appearance of impropriety, shall be independent and impartial, shall avoid direct and indirect conflicts of interests and shall observe high standards of conduct so that the integrity and impartiality of the dispute settlement mechanism is preserved. Former members must comply with the obligations established in paragraphs 15, 16, 17 and 18 of this Code of Conduct. |
+| --- | --- | --- |
+
+**Disclosure obligations**
+
+|  | 3. | Prior to confirmation of her or his selection as a member of the arbitration panel under this Protocol, that candidate shall disclose any interest, relationship or matter that is likely to affect his or her independence or impartiality or that might reasonably create an appearance of impropriety or bias in the proceeding. To this end, a candidate shall make all reasonable efforts to become aware of any such interests, relationships and matters. |
+| --- | --- | --- |
+
+|  | 4. | A candidate or member shall only communicate matters concerning actual or potential violations of this Code of Conduct to the subcommittee on industry, trade and services for consideration by the Parties. |
+| --- | --- | --- |
+
+|  | 5. | Once selected, a member shall continue to make all reasonable efforts to become aware of any interests, relationships or matters referred to in paragraph 3 of this Code of Conduct and shall disclose them. The disclosure obligation is a continuing duty which requires a member to disclose any such interests, relationships or matters that may arise during any stage of the proceeding. The member shall disclose such interests, relationships or matters by informing the subcommittee on industry, trade and services, in writing, for consideration by the Parties. |
+| --- | --- | --- |
+
+**Duties of members**
+
+|  | 6. | Upon selection, a member shall perform her or his duties thoroughly and expeditiously throughout the course of the proceeding, and shall do so with fairness and diligence. |
+| --- | --- | --- |
+
+|  | 7. | A member shall consider only those issues raised in the proceeding and which are necessary for a ruling and shall not delegate this duty to any other person. |
+| --- | --- | --- |
+
+|  | 8. | A member shall take all appropriate steps to ensure that his or her assistant and staff are aware of, and comply with, paragraphs 2, 3, 4, 5, 16, 17 and 18 of this Code of Conduct. |
+| --- | --- | --- |
+
+|  | 9. | A member shall not engage in ex parte contacts concerning the proceeding. |
+| --- | --- | --- |
+
+**Independence and impartiality of members**
+
+|  | 10. | A member must be independent and impartial and avoid creating an appearance of bias or impropriety and shall not be influenced by self-interest, outside pressure, political considerations, public clamour, loyalty to a Party or fear of criticism. |
+| --- | --- | --- |
+
+|  | 11. | A member shall not, directly or indirectly, incur any obligation or accept any benefit that would in any way interfere, or appear to interfere, with the proper performance of her or his duties. |
+| --- | --- | --- |
+
+|  | 12. | A member may not use her or his position on the arbitration panel to advance any personal or private interests and shall avoid actions that may create the impression that others are in a special position to influence her or him. |
+| --- | --- | --- |
+
+|  | 13. | A member may not allow financial, business, professional, family or social relationships or responsibilities to influence her or his conduct or judgement. |
+| --- | --- | --- |
+
+|  | 14. | A member must avoid entering into any relationship or acquiring any financial interest that is likely to affect her or his impartiality or that might reasonably create an appearance of impropriety or bias. |
+| --- | --- | --- |
+
+**Obligations of former members**
+
+|  | 15. | All former members must avoid actions that may create the appearance that they were biased in carrying out their duties or derived advantage from the ruling of the arbitration panel. |
+| --- | --- | --- |
+
+**Confidentiality**
+
+|  | 16. | No member or former member shall at any time disclose or use any non-public information concerning a proceeding or acquired during a proceeding, except for the purposes of that proceeding, and shall not, in any case, disclose or use any such information to gain personal advantage or advantage for others or to adversely affect the interest of others. |
+| --- | --- | --- |
+
+|  | 17. | No member shall disclose an arbitration panel ruling or parts thereof prior to its publication in accordance with this Protocol. |
+| --- | --- | --- |
+
+|  | 18. | No member or former member shall at any time disclose the deliberations of an arbitration panel, or any member’s view, whatever it may be. |
+| --- | --- | --- |
+
+**Expenses**
+
+|  | 19. | Each member shall keep a record and render a final account of the time devoted to the procedure and of the expenses incurred. |
+| --- | --- | --- |
+
+**Mediators**
+
+|  | 20. | The rules described in this Code of Conduct as applying to members or former members shall apply, mutatis mutandis, to mediators. |
+| --- | --- | --- |
+
+**Joint Declaration**
+
+**by the European Union and the Republic of Lebanon**
+
+**on the occasion of the signature of the Agreement in the form of a Protocol establishing a dispute settlement mechanism applicable to disputes under the trade provisions of the Euro-Mediterranean Agreement establishing an association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part**
+
+As a consequence of the entry into force of the Treaty of Lisbon on 1 December 2009, the European Union has replaced and succeeded the European Community and from that date the European Union exercises all rights and assumes all obligations of the European Community.
+
+Therefore, references to ‘the European Community’ in the text of the aforementioned Agreement, signed today, are, where appropriate, to be read as ‘the European Union’.
+
+**Déclaration conjointe**
+
+**de I’Union européenne et de la République libanaise**
+
+**à l’occasion de la signature de l’accord sous forme de protocole instituant un mécanisme de règlement des différends relatifs aux dispositions commerciales de l’accord euroméditerranéen instituant une association entre la Communauté européenne et ses États membres, d’une part, et la République libanaise, d’autre part**
+
+À la suite de l’entrée en vigueur du traité de Lisbonne, le 1er décembre 2009, I’Union européenne s’est substituée et a succédé à la Communauté européenne et, à compter de cette date, exerce tous les droits et assume toutes les obligations de la Communauté européenne.
+
+Par conséquent les références à «la Communauté européenne» dans le texte de l’accord signé ce jour s’entendent, le cas échéant, comme faites à «l’Union européenne».
+
+[image]
+
+Done at Brussels on 11 November 2010
+
+Fait à Bruxelles, le 11 novembre 2010
+
+[image]
+
+For the European Union
+
+Pour 1’Union européenne
+
+[image]
+
+[image]
+
+For the Republic of Lebanon
+
+Pour la République libanaise
+
+[image]
+
+[image]

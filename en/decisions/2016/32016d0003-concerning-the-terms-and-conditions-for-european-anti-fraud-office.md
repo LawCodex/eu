@@ -1,0 +1,125 @@
+---
+title: "Decision (EU) 2016/456 of the European Central Bank of 4 March 2016 concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union (recast) (ECB/2016/3)"
+identifier: "32016D0003"
+eli: "http://data.europa.eu/eli/dec/2016/456/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2016-03-04
+entry_into_force: 2016-10-11
+last_amended: 2026-02-01
+consolidated_version: "02016D0003-20260201"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016D0003-20260201"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2016/456 of the European Central Bank of 4 March 2016 concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union (recast) (ECB/2016/3)
+
+**DECISION (EU) 2016/456 OF THE EUROPEAN CENTRAL BANK**
+
+**of 4 March 2016**
+
+**concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union (ECB/2016/3)**
+
+**(recast)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2026/86 OF THE EUROPEAN CENTRAL BANK of 19 December 2025 </td><td> L 86</td><td>1</td><td>13.1.2026</td></tr>
+</table>
+
+**DECISION (EU) 2016/456 OF THE EUROPEAN CENTRAL BANK**
+
+**of 4 March 2016**
+
+**concerning the terms and conditions for European Anti-Fraud Office investigations of the European Central Bank, in relation to the prevention of fraud, corruption and any other illegal activities affecting the financial interests of the Union (ECB/2016/3)**
+
+**(recast)**
+
+## Article 1 — Scope of application
+
+This Decision applies to:
+
+— members of the ECB’s decision-making bodies or any other body established by Regulation (EU) No 1024/2013 or by the ECB, in matters related to their function as members of these ECB decision-making bodies or other bodies,
+
+— members of the governing bodies or any member of staff of the national central banks or national competent authorities, who participate in the ECB’s decision-making bodies or other bodies as alternates and/or accompanying persons in matters related to that function
+
+(hereinafter jointly referred to as ‘participants in the decision-making and other bodies’), and
+
+— permanent or temporary ECB members of staff, who are subject to the ECB conditions of employment, and
+
+— persons participating in the exercise of the functions of the ECB, other than participants in the decision-making bodies and other bodies or permanent or temporary ECB members of staff, in matters related to their participation in the exercise of the functions of the ECB
+
+(hereinafter jointly referred to as ‘relevant persons’).
+
+## Article 2 — Duty to cooperate with the Office
+
+Without prejudice to the relevant provisions of the Treaties, Protocol No 7 on the privileges and immunities of the European Union, the Statute of the ESCB and the Staff Regulations, with full respect for human rights, fundamental freedoms and the general principles common to the Member States and subject to the procedures laid down in Regulation (EU, Euratom) No 883/2013 and to the rules laid down in this Decision, participants in the decision-making and other bodies and relevant persons shall cooperate with and supply information to the Office, while ensuring the confidentiality of an internal investigation.
+
+## Article 3 — Duty to report any information about illegal activity
+
+1\. Relevant persons who become aware of information that gives rise to a suspicion of the existence of possible cases of fraud, corruption or any other illegal activity affecting the Union’s financial interests shall without delay provide such information to either (a) the Director Internal Audit, or (b) the senior manager in charge of their business area, or (c) the member of the Executive Board to whom their business area reports. Where the information is provided to the persons referred to in point (b) or (c), they shall without delay transmit the information to the Director Internal Audit. Relevant persons must in no way suffer inequitable or discriminatory treatment as a result of having communicated the information referred to in this Article.
+
+2\. When the Director Internal Audit receives information in accordance with paragraph 1, they shall follow up as follows:
+
+(a) If the information refers to any participant in the decision-making and other bodies as a person to whom a breach is attributed or with whom that person is associated, the Director Internal Audit shall transmit the information without delay to the Director-General Secretariat.
+
+(b) In all other cases, the Director Internal Audit shall, subject to Article 4 and following the outcome of a preliminary assessment in accordance with the ECB’s internal investigation framework, transmit the information received without delay to the Office and inform, where appropriate, the President.
+
+3\. When the Director-General Secretariat receives information in accordance with paragraph 2, the Director-General Secretariat shall, subject to Article 4, transmit it without delay to the Office and inform the Director Internal Audit and, where appropriate, the President.
+
+4\. Participants in the decision-making and other bodies who become aware of information as referred to in paragraph 1 shall without delay provide the Director-General Secretariat or the President with such information. If the President receives the information, the President shall transmit the information without delay to the Director-General Secretariat.
+
+The Director-General Secretariat shall initiate the appropriate follow-up according to the criteria and in compliance with the provisions laid down in paragraphs 2 and 3, thereby also ensuring that in all cases that do not relate to any participant in the decision-making and other bodies as a person to whom a breach is attributed or with whom that person is associated, the information received is transmitted without delay to the Director Internal Audit.
+
+5\. In cases in which a participant in the decision-making and other bodies or a relevant person has concrete information supporting the possible existence of a case of fraud, corruption or any other illegal activity within the meaning of paragraph 1, and, at the same time, has justified reasons to consider that the procedure provided for in the above paragraphs would prevent in that specific case the proper reporting of such information to the Office, they may report such information directly to the Office without being subject to Article 4.
+
+## Article 4 — Cooperation with the Office with regard to sensitive information
+
+1\. In exceptional cases, in which the circulation of certain information outside the ECB could seriously undermine the ECB's functioning, the decision on whether to grant the Office access to such information or to transmit such information to it shall be taken by the Executive Board. This shall apply to: information concerning monetary policy decisions, or operations related to the management of foreign reserves and interventions on foreign exchange markets, provided that such information is less than one year old; information concerning the tasks conferred upon the ECB by Regulation (EU) No 1024/2013; data received by the ECB from the national competent authorities regarding the stability of the financial system or individual credit institutions; and information concerning the euro banknotes' security features and technical specifications.
+
+2\. Any such decision of the Executive Board shall take all relevant factors into account, such as the degree of sensitivity of the information required by the Office for the investigation, its importance for the investigation and the seriousness of the suspicion as presented by the Office, by the participant in the decision-making and other bodies or the relevant person to the President, and the degree of risk for the ECB's future functioning. If access is not granted, the decision shall state the reasons for this. With regard to data that the ECB receives on the stability of the financial system or individual credit institutions, the Executive Board may decide not to grant the Office access if it or the relevant national competent authority considers that disclosing the information concerned would place the stability of the financial system or the individual credit institution at risk.
+
+3\. In very exceptional cases that concern information related to a particular area of ECB activity, of equivalent sensitivity to the categories of information referred to in paragraph 1, the Executive Board may provisionally decide not to grant the Office access to such information. Paragraph 2 shall apply to such decisions, which shall be valid for a maximum of six months. Thereafter, the Office shall be granted access to the information concerned, unless the Governing Council has in the meantime amended the present Decision by adding the category of information concerned to the categories covered by paragraph 1.
+
+## Article 5 — Assistance from the ECB in internal investigations
+
+1\. When initiating an internal investigation of the ECB, the Office's agents shall be granted access to the ECB's premises by the manager in charge of ECB security upon production of a written authorisation issued by the Director-General of the Office, which indicates the following:
+
+(a) the agents' identity and job title in the Office;
+
+(b) the subject matter and purpose of the investigation;
+
+(c) the legal bases for conducting the investigation and the investigative powers arising from those bases.
+
+The President, the Vice-President and the Director Internal Audit shall be informed immediately.
+
+2\. The Directorate Internal Audit shall assist the Office in the practical organisation of investigations.
+
+3\. Participants in the decision-making and other bodies and relevant persons shall supply any requested information to the Office's agents who are conducting an investigation, unless the requested information could be sensitive within the meaning of Article 4, in which case the Executive Board shall decide whether or not the information should be provided. The Directorate Internal Audit shall record all information supplied.
+
+## Article 6 — Informing interested parties
+
+1\. Where the possible implication of a participant in the decision-making and other bodies or a relevant person in fraud, corruption and any other illegal activity within the meaning of Article 3(1) emerges, the interested party shall be informed rapidly provided that this will not be harmful to the investigation ( 1 ). In any event, conclusions referring by name to a participant in the decision-making or other bodies or a relevant person may not be drawn without the interested party being given the opportunity to express their views on all the facts relating to them, including any evidence existing against them. Interested parties have the right to remain silent, to refrain from incriminating themselves and to seek personal legal assistance.
+
+2\. In cases necessitating the maintenance of absolute secrecy for the purpose of the investigation and/or requiring the use of investigative procedures falling within the remit of a national judicial authority, compliance with the obligation to invite a participant in the decision-making or other bodies or a relevant person to express their views may be deferred for a limited period in agreement with the President or Vice-President.
+
+## Article 7 — Information on the closing of an investigation with no further action taken
+
+If, following an internal investigation, no case can be made against a participant in the decision-making and other bodies or a relevant person against whom allegations have been made, the internal investigation shall be closed, with no further action taken, by decision of the Director-General of the Office, who shall inform the participant in the decision-making and other bodies or relevant person thereof in writing.
+
+## Article 8 — Waiver of immunity
+
+Any request from a national police or judicial authority for waiver of applicable immunity from judicial proceedings of a participant in the decision-making and other bodies or a relevant person in possible cases of fraud, corruption and any other illegal activity affecting the financial interests of the Union shall be transmitted to the Director-General of the Office for his opinion. The Governing Council shall decide on any relevant waiver as far as participants in the decision-making and other bodies are concerned, and the Executive Board shall decide on any relevant waiver as far as relevant persons are concerned.
+
+## Article 9 — Entry into force and repeal
+
+1\. This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. Decision ECB/2004/11 is repealed with effect from the twentieth day following the publication of this Decision in the Official Journal of the European Union.
+
+3\. References to Decision ECB/2004/11 shall be construed as references to this Decision.
+
+( 1 ) Article 20 of Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1) applies to any restriction on information to be given to data subjects in the event of data processing.

@@ -1,0 +1,396 @@
+---
+title: "Commission Implementing Decision (EU) 2017/253 of 13 February 2017 laying down procedures for the notification of alerts as part of the early warning and response system established in relation to serious cross-border threats to health and for the information exchange, consultation and coordination of responses to such threats pursuant to Decision No 1082/2013/EU of the European Parliament and of the Council (Text with EEA relevance. )"
+identifier: "32017D0253"
+eli: "http://data.europa.eu/eli/dec_impl/2017/253/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-02-13
+entry_into_force: 2017-12-14
+last_amended: 2026-02-19
+consolidated_version: "02017D0253-20260219"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017D0253-20260219"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2017/253 of 13 February 2017 laying down procedures for the notification of alerts as part of the early warning and response system established in relation to serious cross-border threats to health and for the information exchange, consultation and coordination of responses to such threats pursuant to Decision No 1082/2013/EU of the European Parliament and of the Council (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2017/253**
+
+**of 13 February 2017**
+
+**laying down procedures for the notification of alerts as part of the early warning and response system established in relation to serious cross-border threats to health and for the information exchange, consultation and coordination of responses to such threats pursuant to Decision No 1082/2013/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2021/858 of 27 May 2021 </td><td> L 188</td><td>106</td><td>28.5.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2021/1212 of 22 July 2021 </td><td> L 263</td><td>32</td><td>23.7.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/220 of 29 January 2026 </td><td> L 220</td><td>1</td><td>30.1.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2017/253**
+
+**of 13 February 2017**
+
+**laying down procedures for the notification of alerts as part of the early warning and response system established in relation to serious cross-border threats to health and for the information exchange, consultation and coordination of responses to such threats pursuant to Decision No 1082/2013/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — EWRS competent authorities
+
+1\. The Commission shall grant to the EWRS competent authorities, designated in accordance with Article 15(1)(b) of Decision No 1082/2013/EU, access to the early warning and response system established pursuant to Article 8 of Decision No 1082/2013/EU.
+
+2\. Member States shall ensure that effective communication channels are established between the EWRS competent authorities and any other relevant competent authorities within their jurisdiction in order to promptly identify serious cross-border threats to health fulfilling the criteria laid down in Article 9(1) and (2) of Decision No 1082/2013/EU.
+
+## Article 1a — Definitions
+
+For the purposes of this Decision, the following definitions apply:
+
+(a) ‘passenger locator form’ (‘PLF’) means a form completed on the request of public health authorities that collects at least the passengers’ data specified in Annex I and that assists those authorities in managing a public health event by enabling them to trace passengers crossing borders who may have been exposed to a SARS-CoV-2 infected person;
+
+(b) ‘passenger locator form data’ (‘PLF data’) means personal data collected through a PLF;
+
+(c) ‘digital entry point’ means a single digital location to which EWRS competent authorities can securely connect their national digital PLF systems to the PLF exchange platform;
+
+(d) ‘journey’ means the cross-border travel by a person, by means of collective transport with pre-assigned seats, having regard to the place of that person’s initial departure and final destination, with one or more legs.
+
+(e) ‘leg’ means a cross-border single travel of a passenger with no connections or changes of flight, train, vessel or vehicle;
+
+(f) ‘infected passenger’ means a passenger who fulfils the laboratory criterion for SARS-CoV-2 infection;
+
+(g) ‘exposed person’ means a passenger or another person who has been in close contact to an infected passenger;
+
+(h) ‘alert’ means a notification using the Early Warning and Response System (EWRS), following Article 9 of Decision 1082/2013/EC.
+
+## Article 2a — Platform for the exchange of PLF data
+
+1\. A platform for the secure exchange of PLF data of infected passengers and of exposed persons for the sole purpose of SARS-CoV-2 contact tracing of exposed persons by the EWRS competent authorities (‘PLF exchange platform’) is established under the EWRS as a complement of the selective messaging functionality existing within that system.
+
+The PLF exchange platform shall provide a digital entry point for EWRS competent authorities to securely connect their national digital PLF systems or connect through the common European Union digital Passenger Locator Form System (‘EUdPLF’), in order to enable the exchange of data collected through PLFs.
+
+The EWRS competent authorities shall be able to use the PLF exchange platform for the exchange of additional data, that is to say epidemiological data for the sole purpose of SARS-CoV-2 contact tracing of exposed persons, in accordance with Article 2b(5).
+
+2\. The PLF exchange platform shall be operated by the ECDC.
+
+3\. In order to fulfil their obligations under Article 2 to notify serious cross-border threats to health that are identified in the context of the collection of PLF data, the EWRS competent authorities of the Member States requiring the completion of PLF shall exchange a set of PLF data, as detailed in Article 2b, through the PLF exchange platform.
+
+4\. The EWRS competent authorities may continue to fulfil their obligations under Article 9(1) and 9(3) of Decision 1082/2013/EU to notify serious cross-border threats to health that are identified in the context of the collection of PLF data through the other existing communication channels referred to in Article 1(2) of this Decision, on a temporary basis and provided that that choice does not compromise the purpose of contact tracing.
+
+5\. The PLF exchange platform shall not store the PLF and the additional epidemiological data. It shall only allow EWRS competent authorities to receive data that were sent to them by other EWRS competent authorities for the sole purpose of SARS-CoV-2 contact tracing. The ECDC shall only access the data for ensuring the good functioning of the PLF exchange platform.
+
+6\. The EWRS competent authorities shall not retain the PLF and epidemiological data received through the PLF exchange platform for longer than the retention period applicable in the context of their national SARS-CoV-2 contact tracing activities.
+
+7\. The Commission shall cooperate with the ECDC in the fulfilment of the tasks entrusted to it under this Decision, in particular as regards technical and organisational measures relating to the deployment, implementation, operation, maintenance and further development of the PLF exchange platform.
+
+8\. Processing of personal data in the PLF exchange platform for the sole purpose of SARS-CoV-2 contact tracing shall be performed until 31 May 2022 or until the Director-General of the World Health Organization has declared, in accordance with the International Health Regulations, that the public health emergency of international concern caused by SARS-CoV-2 has ended, whichever is the earliest.
+
+## Article 2b — Data to be exchanged
+
+1\. When notifying an alert in the PLF exchange platform, the EWRS competent authorities of the Member State where the infected passenger is identified shall transmit the following PLF data to the EWRS competent authorities of the Member State of the infected passenger’s initial departure, or residence where the place of residence is different from the place of initial departure, or to the Member State of the infected passenger’s last departure, where the Member State only requires the completion of a PLF for the last leg of a journey:
+
+(a) first name;
+
+(b) last name;
+
+(c) date of birth;
+
+(d) phone number (landline and/or mobile);
+
+(e) e-mail address;
+
+(f) address of residence.
+
+1a. The EWRS competent authorities shall also transmit, through the PLF exchange platform, the PLF data referred to in paragraph 1 of exposed persons to the EWRS competent authorities of the Member States of initial departure or residence of those persons, or to the Member State of the infected passenger’s last departure where the Member State only requires the completion of a PLF for the last leg of a journey, provided that such data were collected in the context of contact tracing measures carried out following the identification of an infected passenger, and provided that their transmission is necessary for the purpose of contact tracing.
+
+1b. The EWRS competent authorities transmitting the data referred to in paragraphs 1 and 1a shall indicate whether they refer to an infected passenger or to an exposed person.
+
+2\. The EWRS competent authorities of the Member State of initial or last departure of the infected passenger or of the exposed person may transmit the PLF data received to a Member State of departure other than the one declared in the PLF as Member State of departure, where they have additional information pointing to the Member State that should perform the contact tracing.
+
+3\. If necessary to identify exposed persons, when notifying an alert in the PLF exchange platform, the EWRS competent authorities of the Member State where the infected passenger is identified shall transmit the following PLF data, in relation to each available leg of that passenger’s journey, to the EWRS competent authorities of all Member States:
+
+(a) place of departure of each concerned transport, unless the place can be identified through the information under point (e);
+
+(b) place of arrival of each concerned transport, unless the place can be identified through the information under point (e);
+
+(c) date of departure of each concerned transport;
+
+(d) type of each concerned transport (e.g. plane, train, coach, ferry, ship);
+
+(e) identification number of each concerned transport (e.g. flight number, train number, coach’s number plate, ferry or ship name);
+
+(f) seat/cabin number in each concerned transport;
+
+(g) time of departure of each concerned transport, unless the time can be identified through the information under point (e).
+
+4\. Where the EWRS competent authorities of the Member State notifying the alert can identify the Member States concerned based on information at their disposal, they shall transmit the data listed in paragraph 3 only to the EWRS competent authorities of those Member States.
+
+5\. The EWRS competent authorities shall be able to provide the following epidemiological data, where this is necessary in order to perform effective contact tracing:
+
+(a) type of test performed;
+
+(b) variant of SARS-CoV-2 virus;
+
+(c) date of sampling;
+
+(d) date of symptom onset.
+
+6\. Where the national PLF system of a Member State is temporarily unavailable, the EWRS competent authorities of the Member State that collected the personal data referred to in paragraphs 1, 3 and 5 from the transport carriers, from the infected passenger or from the exposed person on the basis of national law may transmit such data through the PLF exchange platform for contact tracing purposes, during the period of temporary unavailability.
+
+## Article 2c — Responsibilities of the EWRS competent authorities and of ECDC in the processing of PLF data
+
+1\. The EWRS competent authorities exchanging PLF data and the data in Article 2b(5) shall be joint controllers for the entry and transmission, until receipt, of those data through the PLF exchange platform. The respective responsibilities of the joint controllers shall be allocated in accordance with Annex II. Each Member State wishing to participate in the cross-border exchange of PLF data through the PLF exchange platform shall notify the ECDC, prior to joining, of its intention, and of its EWRS competent authority that has been designated as the responsible controller.
+
+2\. The ECDC shall be the processor of data exchanged through the PLF exchange platform. It shall provide the PLF exchange platform and ensure the security of processing, including of the transmission, of data exchanged through the PLF exchange platform, and shall comply with the obligations of a processor laid down in Annex III.
+
+3\. The effectiveness of the technical and organisational measures for ensuring the security of processing of PLF data exchanged through the PLF exchange platform shall be regularly tested, assessed and evaluated by the ECDC and by the EWRS competent authorities authorised to access the PLF exchange platform.
+
+4\. The ECDC shall engage the Commission as a sub-processor and shall ensure that the same data protection obligations set out in this Decision apply to the Commission.
+
+## Article 3 — Other Union rapid alert and information systems
+
+1\. The alert notification referred to in Article 2(1) shall specify whether the threat identified has previously been notified through other alert or information systems at Union level or under the Euratom Treaty.
+
+2\. Where a serious cross-border threat to health is communicated through more than one Union alert or information system, the Commission shall indicate through the EWRS the lead system for the specific type of information exchange.
+
+3\. For the purposes of this Article, other alert and information systems at Union level or under the Euratom Treaty shall include the systems set out in Annex IV  .
+
+## Article 7 — Repeal of Decision 2000/57/EC
+
+1\. Decision 2000/57/EC is repealed.
+
+2\. References to the repealed Decision shall be construed as references to this Decision.
+
+## Article 8 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX I — MINIMUM SET OF PLF DATA TO BE COLLECTED THROUGH THE NATIONAL PLF
+
+The PLF shall contain at least the following PLF data:
+
+(1) first name;
+
+(2) last name;
+
+(3) date of birth;
+
+(4) phone number (landline and/or mobile);
+
+(5) E-mail address;
+
+(6) address of residence;
+
+(8) the following information for each leg of a journey for which the Member State requires the completion of a PLF:
+
+(a) place of departure, unless the place can be identified through the information under sub-point (f);
+
+(b) place of arrival, unless the place can be identified through the information under sub-point (f);
+
+(c) date of departure;
+
+(d) type of transport (e.g. plane, train, coach, ferry, ship);
+
+(e) time of departure, unless the time can be identified through the information under sub-point (f);
+
+(f) identification number of the transport (e.g. flight number, train number, coach’s number plate, ferry or ship name);
+
+(g) seat/cabin number.
+
+## ANNEX II
+
+**RESPONSIBILITIES OF THE PARTICIPATING MEMBER STATES AS JOINT CONTROLLERS FOR THE PLF EXCHANGE PLATFORM**
+
+**SECTION 1**
+
+**Division of responsibilities**
+
+(1) Each EWRS competent authorities shall ensure that the processing of PLF data and of the additional epidemiological data exchanged through the PLF exchange platform is carried out in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council ( 1 ). In particular, it shall ensure that the data it enters and transmits through the PLF exchange platform are accurate and limited to the data laid down in Article 2b of this Decision.
+
+(2) Each EWRS competent authority remains the sole controller for the collection, use, disclosure and any other processing of PLF data and additional epidemiological data, carried out outside the PLF exchange platform. Each EWRS competent authority shall ensure that the transmission of the data is carried out in accordance with the technical specifications stipulated for the PLF exchange platform.
+
+(3) Instructions to the processor shall be sent by any of the joint controllers’ contact point, in agreement with the other joint controllers.
+
+(4) Only persons authorised by the EWRS competent authorities may access PLF data and additional epidemiological data exchanged through the PLF exchange platform.
+
+(5) Each EWRS competent authority shall set up a contact point with a functional mailbox that will serve for communication between the joint controllers and between the joint controllers and the processor. The decisions making process of the Joint Controllers is governed by the EWRS Health Security Committee Working Group.
+
+(6) Each EWRS competent authority shall cease to be joint controller from the date of withdrawal of its participation in the PLF exchange platform. It shall however remain responsible for the collection and transmission of PLF data and additional epidemiological data through the PLF exchange platform that occurred prior to its withdrawal.
+
+(7) Each EWRS competent authority shall maintain a record of the processing activities under its responsibility. The joint controllership may be indicated in the record.
+
+**SECTION 2**
+
+**Responsibilities and roles for handling requests of and informing data subjects**
+
+(1) Each EWRS competent authority requiring a PLF shall provide the cross-border passengers (‘the data subjects’) with information about the circumstances of the exchange of their PLF and epidemiological data through the PLF exchange platform for the purpose of contact tracing, in accordance with Articles 13 and 14 of Regulation (EU) 2016/679.
+
+(2) Each EWRS competent authority shall act as the contact point for the data subjects and shall handle the requests relating to the exercise of their rights in accordance with Regulation (EU) 2016/679, submitted by them or by their representatives. Each EWRS competent authority shall designate a specific contact point dedicated to requests received from data subjects. If a EWRS competent authority receives a request from a data subject, which does not fall under its responsibility, it shall promptly forward it to the responsible EWRS competent authority and inform the ECDC. If requested, the EWRS competent authorities shall assist each other in handling data subjects’ requests relating to the joint controllership and shall reply to each other without undue delay and at the latest within 15 days from receiving a request for assistance.
+
+(3) Each EWRS competent authority shall make available to the data subjects the content of this Annex including the arrangements laid down in points 1 and 2.
+
+**SECTION 3**
+
+**Management of security incidents, including personal data breaches**
+
+(1) The EWRS competent authorities as joint controllers shall assist each other in the identification and handling of any security incidents, including personal data breaches, linked to the processing of PLF and epidemiological data exchanged through the PLF exchange platform.
+
+(2) In particular, they shall notify each other and the ECDC of the following:
+
+(a) any potential or actual risks to the availability, confidentiality and/or integrity of the PLF and epidemiological data undergoing processing in the PLF exchange platform;
+
+(b) any personal data breach, the likely consequences of the data breach and the assessment of the risk to the rights and freedoms of natural persons, and any measures taken to address the personal data breach and mitigate the risk to the rights and freedoms of natural persons;
+
+(c) any breach of the technical and/or organisational safeguards of the processing operation in the PLF exchange platform.
+
+(3) The EWRS competent authorities shall communicate any data breaches with regard to the processing operation in the PLF exchange platform to the ECDC, to the competent supervisory authorities and, where required, to the data subjects, in accordance with Articles 33 and 34 of Regulation (EU) 2016/679 or following notification by the ECDC.
+
+(4) Each EWRS competent authority shall implement appropriate technical and organisational measures, designed to:
+
+(a) ensure and protect the security, integrity and confidentiality of the personal data jointly processed;
+
+(b) protect against any unauthorised or unlawful processing, loss, use, disclosure or acquisition of or access to any personal data in its possession;
+
+(c) ensure that access to the personal data is not disclosed or allowed to anyone other than the recipients or processors.
+
+**SECTION 4**
+
+**Data Protection Impact Assessment**
+
+If a controller, in order to comply with its obligations specified in Articles 35 and 36 of Regulation (EU) 2016/679, needs information from another controller, it shall send a specific request to the functional mailbox referred to in Subsection 1(5) of Section 1. The latter shall use its best efforts to provide such information.
+
+## ANNEX III — RESPONSIBILITIES OF THE ECDC AS DATA PROCESSOR FOR THE PLF EXCHANGE PLATFORM
+
+(1) The ECDC shall set up and ensure a secure and reliable communication infrastructure that interconnects EWRS competent authorities of the Member States participating in the PLF exchange platform.
+
+The processing by the ECDC of the PLF exchange platform entails the following:
+
+(a) define the minimum set of technical requirements to allow a smooth and secure on-boarding and off-boarding of national PLF databases;
+
+(b) ensure interoperability of national PLF databases in a secure and automated fashion.
+
+(2) To fulfil its obligations as data processor of the PLF exchange platform, the ECDC shall engage the Commission as a sub-processor and shall ensure that the same data protection obligations, as set out in this Decision, apply to the Commission.
+
+The ECDC may authorise the Commission to engage third parties as further sub-processors.
+
+If the Commission engages sub-processors, the ECDC shall:
+
+(a) ensure that the same data protection obligations, as set out in this Decision, apply to these sub-processors;
+
+(b) inform the controllers of any intended changes concerning the addition or replacement of other sub-processors, thereby giving the controllers the opportunity to object by simple majority to such changes.
+
+(3) The ECDC shall:
+
+(a) set up and ensure a secure and reliable communication infrastructure that interconnects EWRS competent authorities of the Member States participating in the PLF exchange platform;
+
+(b) process the PLF and additional epidemiological data, only based on documented instructions from the controllers, unless required to do so by Union law; in such a case, the ECDC shall inform the controllers of that legal requirement before processing, unless that law prohibits submitting such information on important grounds of public interest.
+
+(c) put in place a security plan, a business continuity and a disaster recovery plan.
+
+(d) take the necessary measures to preserve the integrity of the PLF and additional epidemiological data processed;
+
+(e) take all state of the art organisational, physical and electronic security measures to maintain the PLF exchange platform; to this end, the ECDC shall:
+
+(i) designate a responsible entity for security management at the level of the PLF exchange platform, communicate its contact information to the controllers and ensure its availability to react to security threats;
+
+(ii) assume the responsibility for the security of the PLF exchange platform;
+
+(iii) ensure that all individuals that are granted access to the PLF exchange platform are subject to contractual, professional or statutory obligation of confidentiality;
+
+(f) take all necessary security measures to avoid compromising the smooth operational functioning of the PLF exchange platform; to this end, the ECDC shall put in place specific procedures related to the functioning of the PLF exchange platform and the connection from the backend servers to the PLF exchange platform; this includes:
+
+(i) a risk assessment procedure, to identify and estimate potential threats to the system;
+
+(ii) an audit and review procedure to:
+
+1) check the correspondence between the implemented security measures and the applicable security policy;
+
+2) control on a regular basis the integrity of system files, security parameters and granted authorisations;
+
+3) detect and monitor security breaches and intrusions;
+
+4) implement changes to mitigate existing security weaknesses;
+
+5) allow for, including at the request of controllers, and contribute to, the performance of independent audits, including inspections, and reviews on security measures, subject to conditions that respect Protocol (No 7) to the TFEU on the Privileges and Immunities of the European Union (2);
+
+(iii) changing the control procedure to document and measure the impact of a change before its implementation and keep the controllers informed of any changes that can affect the communication with and/or the security of their infrastructures;
+
+(iv) laying down a maintenance and repair procedure to specify the rules and conditions to be respected when maintenance and/or repair of equipment should be performed;
+
+(v) laying down a security incident procedure to define the reporting and escalation scheme, inform without delay the controllers for them to notify the national data protection supervisory authorities of any personal data breach, and define a disciplinary process to deal with security breaches;
+
+(g) take state of the art physical and/or electronic security measures for the facilities hosting the PLF exchange platform equipment and for the controls of data and security access; to this end, ECDC shall:
+
+(i) enforce physical security to establish distinct security perimeters and allow detection of breaches;
+
+(ii) control access to the facilities and maintain a visitor register for tracing purposes;
+
+(iii) ensure that external people granted access to the premises are escorted by duly authorised staff;
+
+(iv) ensure that equipment cannot be added, replaced or removed without prior authorisation of the designated responsible bodies;
+
+(v) control access from and to the national PLF systems to the PLF exchange platform;
+
+(vi) ensure that individuals who access the PLF exchange platform are identified and authenticated;
+
+(vii) review the authorisation rights related to the access to the PLF exchange platform in case of a security breach affecting this infrastructure;
+
+(viii) implement technical and organisational security measures to prevent unauthorised access to PLF and epidemiological data;
+
+(ix) implement, whenever necessary, measures to block unauthorised access to the PLF exchange platform from the domain of the national authorities (i.e.: block a location/IP address);
+
+(h) take steps to protect its domain, including the severing of connections, in the event of substantial deviation from the principles and concepts for quality or security;
+
+(i) maintain a risk management plan related to its area of responsibility;
+
+(j) monitor – in real time – the performance of all the service components of the PLF exchange platform, produce regular statistics and keep records;
+
+(k) make sure that the service is available 24/7, with the acceptable downtime for maintenance purposes;
+
+(l) provide support for all PLF exchange platform services in English, via phone, mail or Web Portal and accept calls from authorised callers: the PLF exchange platform’s coordinators and their respective helpdesks, Project Officers and designated persons from ECDC;
+
+(m) assist the controllers by appropriate technical and organisational measures, insofar as it is possible, for the fulfilment of the controller’s obligation to respond to requests for exercising the data subject’s rights laid down in Chapter III of Regulation (EU) 2016/679;
+
+(n) support the controllers by providing information concerning the PLF exchange platform, in order to implement the obligations pursuant to Articles 32, 35 and 36 of Regulation (EU) 2016/679;
+
+(o) ensure that PLF and epidemiological data transmitted through the PLF exchange platform is unintelligible to any person who is not authorised to access it, in particular by applying strong encryption;
+
+(p) take all relevant measures to prevent that the PLF exchange platform’s operators have unauthorised access to transmitted PLF and epidemiological data;
+
+(q) take measures in order to facilitate the interoperability and the communication between the PLF exchange platform’s designated controllers;
+
+(r) maintain a record of processing activities carried out on behalf of the controllers in accordance with Article 31(2) of Regulation (EU) 2018/1725 of the European Parliament and of the Council.
+
+## ANNEX IV
+
+**Non-exhaustive list of alert and Information Systems at union level to be progressively linked with EWRS**
+
+This Annex lists rapid alert and information systems which are currently in place at Union level or under the Euratom Treaty and which may be relevant for receiving alerts of and information on events which are or may pose a serious cross border threat to health:
+
+— Animal Disease Notification System (ADNS), to register and document the situation of important infectious animal diseases;
+
+— Commission's cross sectoral warning system (ARGUS), a Commission internal Rapid Alert System allowing all Commission Directorate-Generals to share key information in the event of an emergency/crisis and to enable internal coordination;
+
+— Common Emergency Communication and Information System (CECIS), for civil protection and marine pollution accidents;
+
+— European Community Urgent Radiological Information Exchange (ECURIE), to notify counter-measures to protect against the effects of a radiological or nuclear accident;
+
+— Major Accident Reporting System (EMARS), to facilitate the exchange of lessons learned from accidents and near misses involving dangerous substances in order to improve chemical accident prevention and mitigation of potential consequences;
+
+— European Notification System for Plant Health Interceptions (EUROPHYT), dealing with interceptions for plant health reasons of consignments of plants and plant products imported into the Union or being traded within the Union;
+
+— Rapid Alert for Blood and Blood Components (RAB), for the exchange of information to prevent or contain cross-border incidents linked to blood transfusions;
+
+— Rapid Alert System for Non-food Dangerous Products (RAPEX), for the exchange of information on products posing a risk to health and safety of consumers;
+
+— Rapid Alert System for Food and Feed (RASFF) platform, for the notification of risks to human health deriving from food or feed;
+
+— Rapid Alert for Tissues and Cells (RATC) platform for the exchange of information and measures related to human tissues or cells transferred across borders for patients;
+
+— European Information Network on Drugs and Drug Addiction (Reitox), to collect and report information on the drug phenomenon across Europe.
+
+( 1 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (OJ L 119, 4.5.2016, p. 1).

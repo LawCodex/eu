@@ -1,0 +1,104 @@
+---
+title: "Council Decision 2014/265/CFSP of 12 May 2014 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine"
+identifier: "32014D0265"
+eli: "http://data.europa.eu/eli/dec/2014/265/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2014-05-12
+entry_into_force: 2014-05-12
+last_amended: 2014-05-12
+consolidated_version: "02014D0265-20140512"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014D0265-20140512"
+retrieved: 2026-10-11
+---
+
+# Council Decision 2014/265/CFSP of 12 May 2014 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**COUNCIL DECISION 2014/265/CFSP**
+
+**of 12 May 2014**
+
+**amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine**
+
+**COUNCIL DECISION 2014/265/CFSP**
+
+**of 12 May 2014**
+
+**amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Whereas:
+
+(1) On 17 March 2014, the Council adopted Decision 2014/145/CFSP ( 1 ).
+
+(2) In view of the gravity of the situation in Ukraine, the restrictions on admission and the freezing of funds and economic resources should apply to natural persons responsible for, actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine, or stability or security in Ukraine, or which obstruct the work of international organisations in Ukraine, and natural or legal persons, entities or bodies associated with them, or legal persons, entities or bodies in Crimea or Sevastopol whose ownership has been transferred contrary to Ukrainian law, or legal persons, entities or bodies which have benefited from such a transfer. The beneficiaries of the transfer of ownership are to be understood as legal persons, entities or bodies that have become the owners of assets transferred contrary to Ukrainian law following the annexation of Crimea and Sevastopol.
+
+(3) In addition, the Council considers that additional persons and entities should be added to the list of persons, entities and bodies subject to restrictive measures as set out in the Annex to Decision 2014/145/CFSP.
+
+(4) Further action by the Union is needed in order to implement certain measures.
+
+(5) Decision 2014/145/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Decision 2014/145/CFSP is hereby amended as follows:
+
+(1) Article 1(1) is replaced by the following:
+
+‘1. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of the natural persons responsible for, actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine, or stability or security in Ukraine, or which obstruct the work of international organisations in Ukraine, and of natural persons associated with them, as listed in the Annex.’.
+
+(2) Article 2(1) is replaced by the following:
+
+‘1. All funds and economic resources belonging to, owned, held or controlled by natural persons responsible for, actively supporting or implementing, actions or policies which undermine or threaten the territorial integrity, sovereignty and independence of Ukraine, or stability or security in Ukraine, or which obstruct the work of international organisations in Ukraine, and natural or legal persons, entities or bodies associated with them, or legal persons, entities or bodies in Crimea or Sevastopol whose ownership has been transferred contrary to Ukrainian law, or legal persons, entities or bodies which have benefited from such a transfer, as listed in the Annex, shall be frozen.’.
+
+(3) Article 3(1) is replaced by the following:
+
+‘1. The Council, acting by unanimity upon a proposal by a Member State or the High Representative of the Union for Foreign Affairs and Security Policy, shall decide to establish and amend the list in the Annex.’.
+
+## Article 2
+
+The Annex to Decision 2014/145/CFSP is amended as follows:
+
+(a) the heading ‘Persons’ is inserted after the existing heading ‘List of persons, entities and bodies referred to in Articles 1 and 2’;
+
+(b) after the existing list of persons, the heading of a new Section entitled ‘Entities’ is inserted;
+
+(c) the persons and entities listed in the Annex to this Decision shall be added to the relevant Section of the Annex to Decision 2014/145/CFSP.
+
+## Article 3
+
+This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+## ANNEX — List of persons and entities referred to in Article 2.
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1. | Vyacheslav Viktorovich VOLODIN | Born 4 February 1964 in Alekseevka, Saratov region. | First Deputy Chief of Staff of the Presidential Administration of Russia. Responsible for overseeing the political integration of the annexed Ukrainian region of Crimea into the Russian Federation. | 12.5.2014 |
+| 2. | Vladimir SHAMANOV | Born 15.02.1954 in Barnaul. | Commander of the Russian Airborne Troops, Colonel-General. In his senior position holds responsibility for the deployment of Russian airborne forces in Crimea. | 12.5.2014 |
+| 3. | Vladimir Nikolaevich PLIGIN | Born 19.05.1960 in Ignatovo, Vologodsk Oblast, USSR. | Chair of the Duma Constitutional Law Committee. Responsible for facilitating the adoption of legislation on the annexation of Crimea and Sevastopol into the Russian Federation. | 12.5.2014 |
+| 4. | Petr Grigorievich JAROSH |  | Acting Head of the Federal Migration Service office for Crimea. Responsible for the systematic and expedited issuance of Russian passports for the residents of Crimea. | 12.5.2014 |
+| 5. | Oleg Grigorievich KOZYURA | Born 19.12.1962 in Zaporozhye | Acting Head of the Federal Migration Service office for Sevastopol. Responsible for the systematic and expedited issuance of Russian passports for the residents of Crimea. | 12.5.2014 |
+| 6. | Viacheslav PONOMARIOV |  | Self-declared mayor of Slaviansk. Ponomarev called on Vladimir Putin to send in Russian troops to protect the city and later asked him to supply weapons. Ponomarev's men are involved in kidnappings (they captured Ukrainian reporter Irma Krat and Simon Ostrovsky, a reporter for Vice News, both were later released, they detained military observers under OSCE Vienna Document). | 12.5.2014 |
+| 7. | Igor Mykolaiovych BEZLER | Born in 1965 | One of the leaders of self-proclaimed militia of Horlivka. He took control of the Security Service of Ukraine's Office in Donetsk region building and afterwards seized the Ministry of Internal Affairs' district station in the town of Horlivka. He has links to Ihor Strielkov under which command he was involved in the murder of Peoples' Deputy of the Horlivka's Municipal Council Volodymyr Rybak according to the SBU. | 12.5.2014 |
+| 8. | Igor KAKIDZYANOV |  | One of the leaders of armed forces of the self-proclaimed ‘Donetsk People's Republic’. The aim of the forces is to ‘protect the people of Donetsk People's Republic and territorial integrity of the republic’ according to Pushylin, one of the leaders of the ‘Donetsk People's Republic’. | 12.5.2014 |
+| 9. | Oleg TSARIOV |  | Member of the Rada. Publicly called for the creation of the Federal Republic of Novorossia, composed of South Eastern Ukrainian regions. | 12.5.2014 |
+| 10. | Roman LYAGIN |  | Head of the ‘Donetsk People's Republic’ Central Electoral Commission. Actively organised the referendum on 11 May on the self-determination of the ‘Donetsk People's Republic’. | 12.5.2014 |
+| 11. | Aleksandr MALYKHIN |  | Head of the ‘Lugansk People's Republic’ Central Electoral Commission. Actively organised the referendum on 11 May on the self-determination of the ‘Lugansk People's Republic’. | 12.5.2014 |
+| 12. | Natalia Vladimirovna POKLONSKAYA | Born 18.03.1980 in Eupatoria. | Prosecutor of Crimea. Actively implementing Russia's annexation of Crimea. | 12.5.2014 |
+| 13. | Igor Sergeievich SHEVCHENKO |  | Acting Prosecutor of Sevastopol. Actively implementing Russia's annexation of Sevastopol. | 12.5.2014 |
+
+**Entities:**
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1. | PJSC CHERNOMORNEFTEGAZ |  | On 17.03.2014 the ‘Parliament of Crimea’ adopted a resolution declaring the appropriation of assets belonging to Chernomorneftegaz enterprise on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. | 12.5.2014 |
+| 2. | FEODOSIA |  | On 17.03.2014 the ‘Parliament of Crimea’ adopted a resolution declaring the appropriation of assets belonging to Feodosia enterprise on behalf of the ‘Republic of Crimea’. The enterprise is thus effectively confiscated by the Crimean ‘authorities’. | 12.5.2014 |
+
+( 1 ) Council Decision 2014/145/CFSP of 17 March 2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L 78, 17.3.2014, p. 16).

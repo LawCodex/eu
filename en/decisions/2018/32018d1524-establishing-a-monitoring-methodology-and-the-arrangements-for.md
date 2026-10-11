@@ -1,0 +1,342 @@
+---
+title: "Commission Implementing Decision (EU) 2018/1524 of 11 October 2018 establishing a monitoring methodology and the arrangements for reporting by Member States in accordance with Directive (EU) 2016/2102 of the European Parliament and of the Council on the accessibility of the websites and mobile applications of public sector bodies (notified under document C(2018) 6560) (Text with EEA relevance.)"
+identifier: "32018D1524"
+eli: "http://data.europa.eu/eli/dec_impl/2018/1524/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-10-11
+entry_into_force: 2018-11-01
+last_amended: 2018-10-12
+consolidated_version: "02018D1524-20181012"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018D1524-20181012"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2018/1524 of 11 October 2018 establishing a monitoring methodology and the arrangements for reporting by Member States in accordance with Directive (EU) 2016/2102 of the European Parliament and of the Council on the accessibility of the websites and mobile applications of public sector bodies (notified under document C(2018) 6560) (Text with EEA relevance.)
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2018/1524**
+
+**of 11 October 2018**
+
+**establishing a monitoring methodology and the arrangements for reporting by Member States in accordance with Directive (EU) 2016/2102 of the European Parliament and of the Council on the accessibility of the websites and mobile applications of public sector bodies**
+
+**(Text with EEA relevance)**
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2018/1524**
+
+**of 11 October 2018**
+
+**establishing a monitoring methodology and the arrangements for reporting by Member States in accordance with Directive (EU) 2016/2102 of the European Parliament and of the Council on the accessibility of the websites and mobile applications of public sector bodies**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+This Decision establishes a methodology for monitoring the conformity of websites and mobile applications of public sector bodies with the accessibility requirements laid down in Article 4 of Directive (EU) 2016/2102.
+
+This Decision establishes the arrangements for reporting on the outcome of the monitoring, including the measurement data, by Member States to the Commission.
+
+## Article 2 — Definitions
+
+For the purposes of this Decision, the following definitions shall apply:
+
+(1) ‘accessible format’ means an electronic document complying with the accessibility requirements provided for in Article 4 of Directive (EU) 2016/2102;
+
+(2) ‘monitoring period’ means the period of time within which Member States shall execute the monitoring activities to verify compliance or non-compliance with the accessibility requirements of the websites and mobile applications in the sample. The monitoring period may also include the definition of the samples, the analysis of the monitoring results and arrangements for reporting to the Commission.
+
+## Article 3 — Periodicity of the monitoring
+
+1\. Member States shall monitor the compliance of websites and mobile applications of public sector bodies with the accessibility requirements provided for in Article 4 of Directive (EU) 2016/2102 on the basis of the methodology set out in this Decision.
+
+2\. The first monitoring period for websites shall be between 1 January 2020 and 22 December 2021. After the first monitoring period the monitoring shall be carried out annually.
+
+3\. The first monitoring period for mobile applications shall be between 23 June 2021 and 22 December 2021. In the first monitoring period, the monitoring of mobile applications shall include results based on a reduced sample for mobile applications. Member States shall use their reasonable efforts to monitor at least one third of the number established in point 2.1.5 of Annex I.
+
+4\. After the first monitoring period the monitoring of mobile applications shall be carried out annually, on a sample established in point 2.1.5 of Annex I.
+
+5\. Following the first monitoring period, the annual monitoring period for both websites and mobile applications shall be between 1 January and 22 December.
+
+## Article 4 — Scope and baseline of monitoring
+
+1\. Member States shall monitor the compliance of websites and mobile applications of public sector bodies with the accessibility requirements provided for in Article 4 of Directive (EU) 2016/2102 on the grounds of requirements identified in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102.
+
+2\. Where accessibility requirements in the provisions of the legislation of a Member State exceed the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102, the monitoring shall be conducted in a way that provides results that distinguish between compliance with the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102 and the requirements exceeding those.
+
+## Article 5 — Methods of monitoring
+
+Member States shall monitor the conformity of websites and mobile applications of public sector bodies with the accessibility requirements provided for in Article 4 of Directive (EU) 2016/2102 using:
+
+(a) an in-depth monitoring method to verify compliance, conducted in accordance with the requirements laid down in point 1.2 of Annex I;
+
+(b) a simplified monitoring method to detect non-compliance, conducted in accordance with the requirements laid down in point 1.3 of Annex I.
+
+## Article 6 — Sampling of the websites and mobile applications
+
+Member States shall ensure that the sampling of the websites and mobile applications to be monitored is done in accordance with the requirements laid down in points 2 and 3 of Annex I.
+
+## Article 7 — Information on the monitoring results
+
+If deficiencies have been identified, Member States shall ensure that the public sector bodies are provided with data and information on compliance with the accessibility requirements in relation to the deficiencies of their respective websites and mobile applications, within a reasonable time and in a format helping public sector bodies to correct them.
+
+## Article 8 — Format of the report
+
+1\. Member States shall submit the report referred to in Article 8(4) of Directive (EU) 2016/2102 to the Commission in an accessible format in an official language of the European Union.
+
+2\. The report shall include the outcome of the monitoring relating to the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102. Results related to requirements exceeding those requirements may also be included in the report and, in case they are included, shall be presented separately.
+
+## Article 9 — Content of the report
+
+1\. The report referred to in Article 8(4) of Directive (EU) 2016/2102 shall contain:
+
+(a) the detailed description of how the monitoring was conducted;
+
+(b) a mapping, in the form a correlation table, demonstrating how the applied monitoring methods relate to the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102, including also any significant changes in the methods;
+
+(c) the outcome of the monitoring of each monitoring period, including measurement data;
+
+(d) the information required in Article 8(5) of Directive (EU) 2016/2102.
+
+2\. In their reports, Member States shall provide the information specified in the instructions set out in Annex II.
+
+## Article 10 — Periodicity of the reporting
+
+1\. The first report shall cover the first monitoring period for websites and mobile applications as set out in Articles 3(2) and (3).
+
+2\. Thereafter, the reports shall cover the monitoring periods for websites and mobile applications between the previous and the following reporting deadlines established in Article 8(4) of Directive (EU) 2016/2102.
+
+## Article 11 — Further arrangements for reporting
+
+Member States shall make the report public in an accessible format.
+
+## Article 12 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX I
+
+**MONITORING**
+
+**1\. MONITORING METHODS**
+
+1.1. The following monitoring methods do not add, replace or supersede any requirements identified in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102. The methods are independent of any specific tests, accessibility assessment tools, operating systems, web browsers or specific assistive technologies.
+
+1.2. In-depth monitoring
+
+1.2.1. Member States shall apply an in-depth monitoring method that thoroughly verifies whether a website or mobile application satisfies all the requirements identified in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102.
+
+1.2.2. The in-depth monitoring method shall verify all the steps of the processes in the sample, following at least the default sequence for completing the process.
+
+1.2.3. The in-depth monitoring method shall evaluate at least the interaction with forms, interface controls and dialogue boxes, the confirmations for data entry, the error messages and other feedback resulting from user interaction when possible, as well as the behaviour of the website or mobile application when applying different settings or preferences.
+
+1.2.4. The in-depth monitoring method may include, where appropriate, usability tests such as observing and analysing how users with disabilities perceive the content of the website or mobile application and how complex it is for them to use interface components like navigation menus or forms.
+
+1.2.5. The monitoring body may use, fully or in part, evaluation results provided by the public sector body under the following cumulative conditions:
+
+(a) the public sector body has provided the most recent detailed evaluation report at its disposal;
+
+(b) such evaluation was conducted not earlier than 3 years before the time of monitoring and was conducted in accordance with points 1.2.1 to 1.2.4 and point 3 of this Annex;
+
+(c) the monitoring body considers the evaluation report valid for use in the in-depth monitoring, based on:
+
+(i) the results of the application of the simplified monitoring method to the website or mobile application; and
+
+(ii) if the evaluation was conducted earlier than 1 year before the time of monitoring, an analysis of the report, adjusted to its characteristics, such as age and level of detail.
+
+1.2.6. Member States shall ensure that, subject to any relevant legal provisions imposing certain conditions for the protection of confidentiality, including for reasons of national security, access to extranet or intranet websites be granted to the monitoring body for the purpose of the monitoring. If access cannot be granted but evaluation results are provided by the public sector body, the monitoring body may use, fully or in part, such evaluation results under the following cumulative conditions:
+
+(a) the public sector body has provided the most recent detailed evaluation report at its disposal;
+
+(b) such evaluation was conducted not earlier than 3 years before the time of monitoring and was conducted in accordance with points 1.2.1 to 1.2.4 and point 3 of this Annex.
+
+1.3. Simplified monitoring
+
+1.3.1. Member States shall apply a simplified monitoring method to websites that detects instances of non-compliance with a sub-set of the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102.
+
+1.3.2. The simplified monitoring method shall include tests related to each of the requirements of perceivability, operability, understandability and robustness referred to in Article 4 of Directive (EU) 2016/2102. The tests shall inspect the websites for non-compliance. The simplified monitoring shall aim to cover the following user accessibility needs to the maximum extent it is reasonably possible with the use of automated tests:
+
+(a) usage without vision;
+
+(b) usage with limited vision;
+
+(c) usage without perception of colour;
+
+(d) usage without hearing;
+
+(e) usage with limited hearing;
+
+(f) usage without vocal capability;
+
+(g) usage with limited manipulation or strength;
+
+(h) the need to minimise photosensitive seizure triggers;
+
+(i) usage with limited cognition.
+
+Member States may also use tests other than automated ones in the simplified monitoring.
+
+1.3.3. After each deadline to submit a report, as established in Article 8(4) of Directive (EU) 2016/2102, Member States shall review the test rules for the simplified monitoring method.
+
+**2\. SAMPLING OF THE WEBSITES AND MOBILE APPLICATIONS**
+
+**2.1. Size of the sample**
+
+2.1.1. The number of websites and mobile applications to be monitored in each monitoring period shall be calculated based on the population of the Member State.
+
+2.1.2. In the first and second monitoring period, the minimum sample size for the simplified monitoring of websites shall be two per 100 000 inhabitants plus 75 websites.
+
+2.1.3. In the subsequent monitoring periods, the minimum sample size for the simplified monitoring of websites shall be three per 100 000 inhabitants plus 75 websites.
+
+2.1.4. The sample size for the in-depth monitoring of websites shall be at least 5 % of the minimum sample size for the simplified monitoring as set out in point 2.1.2 plus 10 websites.
+
+2.1.5. The minimum sample size for the in-depth monitoring of mobile applications shall be one per 1 000 000 inhabitants plus six mobile applications.
+
+2.1.6. If the number of websites in a Member State is less than the number required to monitor, the Member State shall monitor at least 75 % of all the websites.
+
+2.1.7. If the number of mobile applications in a Member State is less than the number required to monitor, the Member State shall monitor at least 50 % of all the mobile applications.
+
+**2.2. Selection of the sample for websites**
+
+2.2.1. The selection of the sample for websites shall aim for a diverse, representative and geographically balanced distribution.
+
+2.2.2. The sample shall cover websites from the different levels of administration existing in the Member States. Taking as reference the Nomenclature of Territorial Units for Statistics (NUTS) and the Local Administrative Units (LAU) set out in the NUTS, the sample shall include the following, where they exist:
+
+(a) state websites;
+
+(b) regional websites (NUTS1, NUTS2, NUTS3);
+
+(c) local websites (LAU1, LAU2);
+
+(d) websites of bodies governed by public law not belonging to categories (a) to (c).
+
+2.2.3. The sample shall include websites representing as much as possible the variety of services provided by the public sector bodies, in particular the following: social protection, health, transport, education, employment and taxes, environmental protection, recreation and culture, housing and community amenities and public order and safety.
+
+2.2.4. Member States shall consult national stakeholders, in particular organisations representing persons with disabilities, on the composition of the sample of the websites to be monitored, and give due consideration to the stakeholders' opinion regarding specific websites to be monitored.
+
+**2.3. Selection of the sample for mobile applications**
+
+2.3.1. The selection of the sample for mobile applications shall aim for a diverse and representative distribution.
+
+2.3.2. Frequently downloaded mobile applications shall be considered in the sample.
+
+2.3.3. Different operating systems shall be taken into account when selecting mobile applications for the sample. For sampling purposes, versions of a mobile application created for different operating systems are to be considered as distinct mobile applications.
+
+2.3.4. Only the most recent version of a mobile application shall be included in the sample, except for cases where the most recent version of a mobile application is not compatible with an old, but still supported, operating system. In that case, one of those previous versions of the mobile application may also be included in the sample.
+
+2.3.5. Member States shall consult national stakeholders, in particular organisations representing persons with disabilities, on the composition of the sample of the mobile applications to be monitored, and give due consideration to the stakeholders' opinion regarding specific mobile applications to be monitored.
+
+**2.4. Recurring sample**
+
+Starting with the second monitoring period, if the number of existing websites or mobile applications allows it, the sample shall include at least 10 % of websites and mobile applications monitored in the previous monitoring period and at least 50 % that were not monitored in the previous period.
+
+**3\. SAMPLING OF THE PAGES**
+
+3.1. For the purposes of this Annex, ‘page’ means a web page or a screen in a mobile application.
+
+3.2. For the in-depth monitoring method the following pages and documents, if existing, shall be monitored:
+
+(a) the home, login, sitemap, contact, help and legal information pages;
+
+(b) at least one relevant page for each type of service provided by the website or mobile application and any other primary intended uses of it, including the search functionality;
+
+(c) the pages containing the accessibility statement or policy and the pages containing the feedback mechanism;
+
+(d) examples of pages having a substantially distinct appearance or presenting a different type of content;
+
+(e) at least one relevant downloadable document, where applicable, for each type of service provided by the website or mobile application and any other primary intended uses of it;
+
+(f) any other page deemed relevant by the monitoring body;
+
+(g) randomly selected pages amounting to at least 10 % of the sample established by points (a) to (f) of point 3.2.
+
+3.3. If any of the pages in the sample selected according to point 3.2 include a step in a process, all the steps of the process shall be verified, as provided for in point 1.2.2.
+
+3.4. For the simplified monitoring method, a number of pages appropriate to the estimated size and the complexity of the website shall be monitored in addition to the home page.
+
+## ANNEX II
+
+**INSTRUCTIONS FOR REPORTING**
+
+**1\. EXECUTIVE SUMMARY OF THE REPORT**
+
+The report shall include a summary of its content.
+
+**2\. DESCRIPTION OF THE MONITORING ACTIVITIES**
+
+The report shall describe the monitoring activities carried out by the Member State, clearly separating websites and mobile applications, and shall include the following information:
+
+**2.1. General information**
+
+(a) the dates when the monitoring was performed within each monitoring period;
+
+(b) the identification of the body in charge of the monitoring;
+
+(c) the description of the representativeness and distribution of the sample as set out in points 2.2 and 2.3 of Annex I.
+
+**2.2. Composition of the sample**
+
+(a) the total number of websites and mobile applications included in the sample;
+
+(b) the number of websites monitored using the simplified monitoring method;
+
+(c) the number of websites and mobile applications monitored using the in-depth monitoring method;
+
+(d) the numbers of websites monitored, from each of the four categories listed in point 2.2.2 of Annex I;
+
+(e) the distribution of the sample for websites demonstrating the public services coverage (as required by point 2.2.3 of Annex I);
+
+(f) the distribution of the sample for mobile applications across the different operating systems (as required by point 2.3.3 of Annex I);
+
+(g) the number of websites and mobile applications monitored in the monitoring period that were also included in the previous monitoring period (the recurring sample described in point 2.4 of Annex I).
+
+**2.3. Correlation with the standards, technical specifications and tools used for monitoring**
+
+(a) a mapping, in the form of a correlation table, demonstrating how the monitoring methods, including the tests applied, verify the compliance with the requirements identified in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102;
+
+(b) the details on the tools used, checks performed and whether usability tests were involved.
+
+**3\. OUTCOME OF THE MONITORING**
+
+The report shall detail the outcome of the monitoring carried out by the Member State.
+
+**3.1. Detailed outcome**
+
+For each monitoring method applied (in-depth and simplified, for websites and mobile applications), the report shall provide the following:
+
+(a) a comprehensive description of the outcome of the monitoring, including measurement data;
+
+(b) a qualitative analysis of the outcome of the monitoring, including:
+
+(i) the findings regarding frequent or critical non-compliance with the requirements identified in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102;
+
+(ii) where possible, the developments, from one monitoring period to the next, in the overall accessibility of the websites and mobile applications monitored.
+
+**3.2. Additional content (optional)**
+
+The report may include the following information:
+
+(a) the outcome of the monitoring of websites or mobile applications of public sector bodies outside of the scope of Directive (EU) 2016/2102;
+
+(b) details on how the different technologies used by the websites and mobile applications monitored performed in terms of accessibility;
+
+(c) monitoring results of any requirements beyond the requirements in the standards and technical specifications referred to in Article 6 of Directive (EU) 2016/2102;
+
+(d) lessons learnt from the feedback sent by the monitoring body to the public sector bodies monitored;
+
+(e) any other relevant aspect on the monitoring of the accessibility of websites and mobile applications of public sector bodies that goes beyond the requirements of Directive (EU) 2016/2102;
+
+(f) summary of the outcome of the consultation with the stakeholders and the list of those consulted;
+
+(g) details on the use of the disproportionate burden derogation provided for in Article 5 of Directive (EU) 2016/2102.
+
+**4\. USE OF THE ENFORCEMENT PROCEDURE AND END-USER FEEDBACK**
+
+The report shall detail the use and description of the enforcement procedure set up by the Member States.
+
+Member States may include in the report any qualitative or quantitative data on the feedback received by the public sector bodies through the feedback mechanism established in Article 7(1)(b) of Directive (EU) 2016/2102.
+
+**5\. CONTENT RELATED TO ADDITIONAL MEASURES**
+
+The report shall contain the content required by Article 8(5) of Directive (EU) 2016/2102.

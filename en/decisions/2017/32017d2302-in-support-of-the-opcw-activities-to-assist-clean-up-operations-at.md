@@ -1,0 +1,211 @@
+---
+title: "Council Decision (CFSP) 2017/2302 of 12 December 2017 in support of the OPCW activities to assist clean-up operations at the former chemical weapons storage site in Libya in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction"
+identifier: "32017D2302"
+eli: "http://data.europa.eu/eli/dec/2017/2302/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2017-12-12
+entry_into_force: 2017-12-12
+last_amended: 2019-06-26
+consolidated_version: "02017D2302-20190626"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017D2302-20190626"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2017/2302 of 12 December 2017 in support of the OPCW activities to assist clean-up operations at the former chemical weapons storage site in Libya in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction
+
+**COUNCIL DECISION (CFSP) 2017/2302**
+
+**of 12 December 2017**
+
+**in support of the OPCW activities to assist clean-up operations at the former chemical weapons storage site in Libya in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2019/1092 of 26 June 2019 </td><td> L 173</td><td>47</td><td>27.6.2019</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2017/2302**
+
+**of 12 December 2017**
+
+**in support of the OPCW activities to assist clean-up operations at the former chemical weapons storage site in Libya in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction**
+
+## Article 1
+
+1\. The Union shall support the OPCW in the complete destruction of Libya's chemical weapons stockpile subject to the verification measures provided for in the CWC.
+
+2\. The project supported through this Council Decision shall contribute to costs associated with the clean-up operations of the OPCW at the former chemical weapons storage site Ruwagha in Libya.
+
+A detailed description of the project is set out in the Annex.
+
+## Article 2
+
+1\. The High Representative of the Union for Foreign Affairs and Security Policy (HR) shall be responsible for the implementation of this Decision.
+
+2\. The technical implementation of the activities referred to in Article 1(2) shall be entrusted to the OPCW. It shall perform this task under the responsibility of the HR. For this purpose, the HR shall enter into the necessary arrangements with the OPCW.
+
+## Article 3
+
+1\. The financial reference amount for the implementation of the project referred to in Article 1(2) shall be EUR 3 035 590,80 .
+
+2\. The expenditure financed by the amount set out in paragraph 1 shall be managed in accordance with the procedures and rules applicable to the Union budget.
+
+3\. The Commission shall supervise the proper management of the expenditure referred to in paragraph 1. For this purpose, it shall conclude a financing agreement with the OPCW. The financing agreement shall stipulate that the OPCW is to ensure visibility of the Union's contribution, appropriate to its size.
+
+4\. The Commission shall endeavour to conclude the financing agreement referred to in paragraph 3 as soon as possible after the entry into force of this Decision. It shall inform the Council of any difficulties in that process and of the date of conclusion of the financing agreement.
+
+## Article 4
+
+1\. The HR shall report to the Council on the implementation of this Decision on the basis of regular reports prepared by the OPCW. Those reports shall form the basis for the evaluation by the Council.
+
+2\. The Commission shall provide the Council with information on the financial aspects of the implementation of the project referred to in Article 1(2).
+
+## Article 5
+
+1\. This Decision shall enter into force on the date of its adoption.
+
+2\. It shall expire 32 months after the date of the conclusion of the financing agreement between the Commission and the OPCW referred to in Article 3(3), or it shall expire six months after its entry into force if that financing agreement has not been concluded by that time.
+
+## ANNEX
+
+**1\. Background**
+
+In February 2014, Libya completed the destruction of Category 1 chemical weapons (CW) at the Ruwagha facility, Al Jufra province. The destruction process resulted in the filling of 24 transport containers with toxic waste and the filling of three containers with brine solutions. In 2016, Libya was able to decant Category 2 Chemical Weapons (precursors), which were stored in 45 deteriorating tanks, into new International Standards Organisation (ISO) containers. In accordance with an OPCW Executive Council decision (EC-M-52/DEC.2, dated 27 July, 2016), the new ISO containers were transported to the Misrata Harbour for shipment to Germany for disposal at a specialised facility. During the decanting, one tank experienced an exothermic reaction. Due to the unknown nature and high viscosity of the material remaining in the tank, German authorities could not consent to accept the tank for destruction. The original 45 decanted tanks are still stored at the Ruwagha facility. These tanks are in various states of decay, and many still contain remnants of the chemicals that are clinging to the walls or that were unable to be completely pumped. In addition, approximately 350 tons of effluents from the hydrolysis of HD (distilled sulphur mustard) are also stored at the Ruwagha site. Many of the containers are believed to have been filled with reaction mass containing highly acidic and hazardous chemicals that had not been stabilised. Several of the containers are leaking and corroded and require additional treatment for proper disposal.
+
+In the report of its 83rd Session (dated 11 November 2016), the OPCW Executive Council requested the OPCW Technical Secretariat to take samples when the security situation in Libya allowed, but the security situation has not allowed this to happen to date. A sampling of the area could be adapted to the security situation through a live video feed.
+
+In its Decision EC-M-53/DEC.1, dated 26 August 2016, the OPCW Executive Council -- in operative paragraph 2, where it was welcoming voluntary financial contributions and pledges from a variety of States Parties in support of destruction operations -- acknowledged that the European Union, pending approval within the Union, had notified the Technical Secretariat of its intent to provide funding for the destruction of the remaining decanted tanks and environmental clean-up at Ruwagha. The Union's attention to this timely issue will allow Libya to divest itself fully from the past chemical weapons programmes in an environmentally appropriate manner, thus highlighting the Union's contribution to the region with both short and long term effects.
+
+**2\. Overall Objectives**
+
+The overall objective of the Action is to contribute to the elimination and complete destruction of chemical weapons stockpile in Libya.
+
+The specific objectives are as follows:
+
+— to complete the full clean-up operations at the former chemical weapons storage site at Ruwagha (Al Jufra province), in an environmentally compliant manner, subject to the verification measures provided for in the Chemical Weapons Convention (CWC);
+
+— to increase the capacity of the Libyan National Authority (LNA), as designated pursuant to Article VII(4) of the CWC, and those engaged in destruction, decontamination, and disposal of chemical materials in Libya.
+
+— to train those engaged in these efforts to collect, record, and transport soil samples in and around the Ruwagha tank farm in accordance with OPCW standards, with the use of live video feeds and sealed OPCW cameras, for compliance with the report of the Eighty-Third Session of the Executive Council.
+
+**3\. Description of activities**
+
+The OPCW Technical Secretariat will provide assistance to the Libyan National Authority, which will hold the end-responsibility for the full completion of clean-up operations.
+
+The OPCW Technical Secretariat will establish a Contribution Agreement with the United Nations Office of Project Services (UNOPS) to hire a Libyan expert company to implement the project and to provide payment to the Libyan firm. The OPCW, in partnership with the Libyan National Authority, will oversee and validate the work being performed.
+
+**Activity 1: Coordination meetings between the OPCW Technical Secretariat, Libyan National Authority, Consultants and experts as well as technical visits**
+
+Planned activities are as follows:
+
+— Technical consultation meetings between the OPCW Technical Secretariat, Libyan representatives, and the technical project advisor to the Libyan National Authority. Due to security restrictions, meetings will be held in Tunisia;
+
+— Visits by representatives of UNOPS and Libya to manufacturing companies, transportation, sales and service companies.
+
+Timeline: throughout the duration of the project.
+
+**Activity 2: Contracting of Services**
+
+Planned activities are as follows:
+
+— Engagement of a technical consultant for the Libyan National Authority;
+
+— Contracting with an engineering company for the design of evaporation lagoon;
+
+— Contracting of local staff for clean-up activities;
+
+— Communication equipment in support of live video feeds for sampling.
+
+Timeline: Months 1 through 6 of the project.
+
+**Activity 3: Technical and Sampling Training for Libyan National Authority**
+
+Planned activities are as follows:
+
+— Training of Libyan representatives by OPCW inspector training teams on sample collection, sealing and chain of custody;
+
+— Delivery and training of Libyan representatives on camera and live video feeds in Tunis. On-site training cannot be done due to lack of United Nations Department of Safety and Security support as well as high costs of insurance for contracted individuals in a hazard zone;
+
+— Conduct of sampling by the trained Libyan representatives.
+
+Timeline: Months 1 through 3 of the project.
+
+**Activity 4: Rental and procurement of equipment and materials, including replacement, maintenance and repair cost**
+
+Rental and procurement of equipment in support of building of the evaporation lagoons. All efforts will be made to rent equipment to the extent possible, rather than take title to it; however some equipment will be considered contaminated and not returnable. As such, at the conclusion of the project, title to that equipment will vest with the Libyan National Authority, which will retain the equipment. Chemicals for the neutralisation process as well as piping and tubing will be a part of the consumables of the project. All equipment needed for the major construction; e.g. cranes, bulldozers, forklifts, will be rented.
+
+Procurement and rental of equipment and materials from Libyan companies will be conducted by UNOPS. However, some items, dependent upon expediency and cost, may be procured by the OPCW.
+
+Timeline: throughout the duration of the project, as and when equipment and services are required.
+
+**Activity 5: Procurement of Protective equipment and detection systems as well as medical supplies and support**
+
+Personnel protective equipment (PPE) is required for use around hazardous chemicals. It is expected that all PPE will be contaminated and must be destroyed in country. Unused equipment will become the property of the Libyan National Authority to the Chemical Weapons Convention.
+
+Procurement of the equipment and materials will be specified between OPCW and UNOPS.
+
+Timeline: throughout the duration of the project.
+
+**Activity 6: Project Implementation**
+
+The OPCW Technical Secretariat will provide program management oversight; this is to include development of milestones, internal reviews, oversight of contractual agreements, and financial management. Funds will not be released by UNOPS to Libyan firms until the Libyan National Authority confirms in writing to the OPCW program manager that the work has been completed to its satisfaction. Anticipated activities include:
+
+— Procurement of external services or Special Services Agreement for technical assistance in implementing the project.
+
+— Payment of management fees for procurement and contracting services conducted by the United Nations Office for Project Services.
+
+Timeline: throughout the duration of the project.
+
+**4\. Indicative Action Plan**
+
+The activities to be implemented in this Action will consist of a preparatory phase followed by three operational phases.
+
+Preparatory Phase:
+
+An expert company will be hired to provide training to the Libyan National Authority on sampling and to provide technical advice and support throughout the duration of the project. A Contribution Agreement will be established between the OPCW and UNOPS for the hiring of local companies for the design of an evaporation lagoon, for the provision of medical emergency support, for the procurement and rental of the required goods and for execution of the clean-up work.
+
+**Phase 1:**
+
+The soil around the leaking containers will be sampled with real time video monitoring. This will include a live feed to the operations centre for OPCW inspectors to monitor the sample collection, and packaging. The containers that were previously decanted prior to shipment of the chemicals will be rinsed with decontaminant and water, followed by shipment of the empty containers to a smelter for destruction. The rinsing water will be collected in containers already available on-site while awaiting the construction of the evaporation lagoon.
+
+**Phase 2:**
+
+Two evaporation lagoons will be designed and built for receiving of the material collected from Phase 1 and the previously neutralised contents of Tank 24 for natural evaporation of water and land burial of non-hazardous salts. The tanks used for neutralisation of the content of the 24 contaminated tanks will be transported to a smelter for destruction.
+
+**Phase 3:**
+
+Approximately 350 tons of effluent from the hydrolysis of HD (distilled sulphur mustard) currently stored at the Ruwagha site will be analysed and treated as necessary, and then pumped into the lagoons for neutralization, stabilization, evaporation and land burial.
+
+**5\. Expected results**
+
+The expected results of the Action are as follows:
+
+— Complete the elimination of the Libyan chemical weapons programme;
+
+— Deliver a full clean-up of the former chemical weapons storage facility at Ruwagha, Libya, including through the full destruction of the 45 decanted containers to include shipment to a smelter and stabilisation and destruction of the 350 tons of HD effluent;
+
+— Deliver technical and sample training to the Libyan CWC National Authority;
+
+— Completion, under the direction of the OPCW, of sampling and shipment of the soil around the leaking containers.
+
+**6\. Estimated duration**
+
+The duration of the project is envisaged to be 32 months.
+
+**7\. Union Visibility**
+
+Visibility of EU Funding at OPCW events or meetings: the financial support of the European Union will be acknowledged in reports of the OPCW Director-General and of the Executive Council referring to activities in Libya. An EU flag will be displayed on all project documentation.
+
+Visibility of EU Funding on equipment: the OPCW will request the Libyan National Authority to display appropriate acknowledgement on all equipment purchased using EU funds that is not consumable, including the display of the EU logo. The OPCW will also request the UNOPS to apply such provisions regarding visibility of the financial support of the European Union. Where such display could jeopardise the OPCW privileges and immunities or the safety of the Organisation's staff or of the final beneficiaries, appropriate alternative arrangements will be made.
+
+**8\. Steering Committee**
+
+The Steering Committee for this project will be composed of representatives of the EEAS and of the OPCW. The Steering Committee will review the implementation of this Decision regularly, at least once every 6 months, including by the use of electronic means of communication.
+
+**9\. Reporting**
+
+The OPCW will provide a narrative progress report every six months to review progress towards the completion of project results. The OPCW will submit a final narrative and financial report within six months of the end of the implementation period.

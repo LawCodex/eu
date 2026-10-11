@@ -1,0 +1,396 @@
+---
+title: "Decision No 445/2014/EU of the European Parliament and of the Council of 16 April 2014 establishing a Union action for the European Capitals of Culture for the years 2020 to 2033 and repealing Decision No 1622/2006/EC"
+identifier: "32014D0445"
+eli: "http://data.europa.eu/eli/dec/2014/445(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2014-04-16
+entry_into_force: 2014-08-13
+last_amended: 2021-01-01
+consolidated_version: "02014D0445-20210101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014D0445-20210101"
+retrieved: 2026-10-11
+---
+
+# Decision No 445/2014/EU of the European Parliament and of the Council of 16 April 2014 establishing a Union action for the European Capitals of Culture for the years 2020 to 2033 and repealing Decision No 1622/2006/EC
+
+**DECISION No 445/2014/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 April 2014**
+
+**establishing a Union action for the European Capitals of Culture for the years 2020 to 2033 and repealing Decision No 1622/2006/EC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2017/1545 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2017 </td><td> L 237</td><td>1</td><td>15.9.2017</td></tr>
+<tr><td></td><td> DECISION (EU) 2020/2229 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 December 2020 </td><td> L 437</td><td>116</td><td>28.12.2020</td></tr>
+</table>
+
+**DECISION No 445/2014/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 April 2014**
+
+**establishing a Union action for the European Capitals of Culture for the years 2020 to 2033 and repealing Decision No 1622/2006/EC**
+
+## Article 1 — Establishment of the action
+
+A Union action entitled ‘European Capitals of Culture’ is hereby established for the years 2020 to 2033 (‘the action’).
+
+## Article 2 — Objectives
+
+1\. The general objectives of the action are:
+
+(a) to safeguard and promote the diversity of cultures in Europe and to highlight the common features they share as well as to increase citizens' sense of belonging to a common cultural area;
+
+(b) to foster the contribution of culture to the long-term development of cities in accordance with their respective strategies and priorities.
+
+2\. The specific objectives of the action are:
+
+(a) to enhance the range, diversity and European dimension of the cultural offering in cities, including through transnational cooperation;
+
+(b) to widen access to and participation in culture;
+
+(c) to strengthen the capacity of the cultural sector and its links with other sectors;
+
+(d) to raise the international profile of cities through culture.
+
+## Article 3 — Access to the action
+
+1\. The competition for the title shall be open to cities, which may involve their surrounding areas.
+
+2\. The number of cities holding the title in a given year (‘the year of the title’) shall not exceed three.
+
+The title shall be awarded each year to a maximum of one city in each of the two Member States appearing in the calendar set out in the Annex (‘the calendar’) and, in the relevant years, to one city from a European Free Trade Association country which is party to the Agreement on the European Economic Area (‘EFTA/EEA country’), a candidate country or a potential candidate, or to one city from a country that accedes to the Union in the circumstances set out in paragraph 5. However, a maximum of one city in each of the three Member States appearing in the calendar shall hold the title in 2023.
+
+3\. Cities in Member States shall be entitled to hold the title for one year in accordance with the order of the Member States appearing in the calendar. The cities holding the title in 2020 may continue to hold the title until 30 April 2021, without the year of designation being changed.
+
+4\. Cities in EFTA/EEA countries, in candidate countries and in potential candidates which participate in the Creative Europe Programme or in the subsequent Union programmes supporting culture at the date of publication of the call for submission of applications referred to in Article 10(2), may apply for the title for one year in the framework of an open competition organised in accordance with the calendar set out in the Annex.
+
+Cities in EFTA/EEA countries, in candidate countries and in potential candidates shall only be allowed to participate in one competition during the period from 2020 to 2033.
+
+Each EFTA/EEA country, candidate country or potential candidate shall only be allowed to host the title once during the period from 2020 to 2033.
+
+5\. Where a country accedes to the Union after 4 May 2014 but before 1 January 2027, it shall be entitled to host the title seven years after its accession in accordance with the rules and procedures applicable to Member States. The calendar shall be updated accordingly. Where a country accedes to the Union on or after 1 January 2027, it shall not be entitled to participate in the action as a Member State.
+
+However, in years where there are already three cities holding the title in accordance with the calendar, cities in countries referred to in the first subparagraph shall only be entitled to hold the title in the next available year in the calendar, in the order of accession of those countries.
+
+If a city from a country referred to in the first subparagraph has previously participated in a competition for candidate countries and potential candidates, it may not participate in any subsequent competition for Member States. Where, during the period from 2020 to 2033, a city from such a country has been designated to hold the title in accordance with paragraph 4, that country shall not be entitled, after its accession, to organise a competition as a Member State during that period.
+
+If more than one country accedes to the Union on the same date and if there is no agreement on the order of participation in the action between those countries, the Council shall organise a draw.
+
+## Article 4 — Application
+
+1\. A common application form based on the criteria laid down in Article 5 shall be prepared by the Commission and used by all candidate cities.
+
+Where a candidate city involves its surrounding area, the application shall be made under the name of that city.
+
+2\. Every application shall be based on a cultural programme with a strong European dimension.
+
+The cultural programme shall cover the year of the title and shall be created specifically for the title, in accordance with the criteria laid down in Article 5. However, the cities holding the title in 2020 may continue to implement their cultural programme until 30 April 2021.
+
+## Article 5 — Criteria
+
+The criteria for the assessment of applications (‘the criteria’) shall be divided into the categories ‘contribution to the long-term strategy’, ‘European dimension’, ‘cultural and artistic content’, ‘capacity to deliver’, ‘outreach’ and ‘management’ as follows:
+
+(1) as regards the ‘contribution to the long-term strategy’ category, the following factors shall be taken into account:
+
+(a) that a cultural strategy for the candidate city, which covers the action and includes plans for sustaining the cultural activities beyond the year of the title, is in place at the time of its application;
+
+(b) the plans to strengthen the capacity of the cultural and creative sectors, including developing long-term links between the cultural, economic and social sectors in the candidate city;
+
+(c) the envisaged long-term cultural, social and economic impact, including urban development, that the title would have on the candidate city;
+
+(d) the plans for monitoring and evaluating the impact of the title on the candidate city and for disseminating the results of the evaluation;
+
+(2) as regards the ‘European dimension’ category, the following factors shall be assessed:
+
+(a) the scope and quality of activities promoting the cultural diversity of Europe, intercultural dialogue and greater mutual understanding between European citizens;
+
+(b) the scope and quality of activities highlighting the common aspects of European cultures, heritage and history, as well as European integration and current European themes;
+
+(c) the scope and quality of activities featuring European artists, cooperation with operators or cities in different countries, including, where appropriate, cities holding the title, and transnational partnerships;
+
+(d) the strategy to attract the interest of a broad European and international public;
+
+(3) as regards the ‘cultural and artistic content’ category, the following factors shall be assessed:
+
+(a) a clear and coherent artistic vision and strategy for the cultural programme;
+
+(b) the involvement of local artists and cultural organisations in the conception and implementation of the cultural programme;
+
+(c) the range and diversity of the activities proposed and their overall artistic quality;
+
+(d) the capacity to combine local cultural heritage and traditional art forms with new, innovative and experimental cultural expressions;
+
+(4) as regards the ‘capacity to deliver’ category, the candidate cities shall demonstrate that:
+
+(a) the application has broad and strong political support and a sustainable commitment from the local, regional and national authorities;
+
+(b) the candidate city has or will have an adequate and viable infrastructure to hold the title;
+
+(5) as regards the ‘outreach’ category, the following factors shall be assessed:
+
+(a) the involvement of the local population and civil society in the preparation of the application and the implementation of the action;
+
+(b) the creation of new and sustainable opportunities for a wide range of citizens to attend or participate in cultural activities, in particular young people, volunteers and the marginalised and disadvantaged, including minorities, with special attention being given to persons with disabilities and the elderly as regards the accessibility of those activities;
+
+(c) the overall strategy for audience development, and in particular the link with education and the participation of schools;
+
+(6) as regards the ‘management’ category, the following factors shall be assessed:
+
+(a) the feasibility of the fund-raising strategy and proposed budget, which includes, where appropriate, plans to seek financial support from Union programmes and funds, and covers the preparation phase, the year of the title, the evaluation and provisions for the legacy activities, and contingency planning;
+
+(b) the envisaged governance and delivery structure for the implementation of the action which provides, inter alia, for appropriate cooperation between the local authorities and the delivery structure, including the artistic team;
+
+(c) the procedures for the appointment of the general and artistic directors and their fields of action;
+
+(d) that the marketing and communication strategy is comprehensive and highlights that the action is a Union action;
+
+(e) that the delivery structure has staff with appropriate skills and experience to plan, manage and deliver the cultural programme for the year of the title.
+
+## Article 6 — Expert panel
+
+1\. A panel of independent experts (‘the panel’) shall be established to carry out the selection and monitoring procedures.
+
+2\. The panel shall consist of 10 experts appointed by Union institutions and bodies (‘the European experts’) in accordance with paragraph 3.
+
+3\. After organising an open call for expressions of interest, the Commission shall propose a pool of potential European experts.
+
+The European Parliament, the Council and the Commission shall select three experts each from that pool and appoint them in accordance with their respective procedures.
+
+The Committee of the Regions shall select one expert from the pool and appoint that expert in accordance with its procedures.
+
+When selecting European experts, each of those Union institutions and bodies shall seek to ensure complementarity of the competences, a balanced geographical distribution and gender balance in the overall composition of the panel.
+
+4\. In addition to the European experts, for the selection and monitoring of a city from a Member State, the Member State concerned shall be entitled to appoint up to two experts to the panel in accordance with its own procedures and in consultation with the Commission.
+
+5\. All experts shall:
+
+(a) be citizens of the Union;
+
+(b) be independent;
+
+(c) have substantial experience and expertise in:
+
+(i) the cultural sector;
+
+(ii) the cultural development of cities; or
+
+(iii) the organisation of a European Capital of Culture event or an international cultural event of similar scope and scale;
+
+(d) be in a position to devote an appropriate number of working days per year to the panel.
+
+6\. The panel shall designate its chairperson.
+
+7\. The European experts shall be appointed for a period of three years.
+
+Notwithstanding the first subparagraph, as regards the first establishment of the panel, the European Parliament shall appoint its experts for three years, the Commission for two years and the Council and the Committee of the Regions for one year.
+
+8\. All experts shall declare any actual or potential conflict of interest in respect of a specific candidate city. In the event of such a declaration, or if such a conflict of interest comes to light, the expert concerned shall resign and the relevant Union institution or body or Member State shall replace that expert for the remainder of the mandate, in accordance with the relevant procedure.
+
+## Article 7 — Submission of applications in the Member States
+
+1\. Each Member State shall be responsible for the organisation of the competition between its cities in accordance with the calendar.
+
+2\. The Member States concerned shall publish a call for submission of applications at least six years before the year of the title.
+
+By way of derogation from the first subparagraph, the Member States entitled to designate a city to hold the title in 2020 shall publish such a call as soon as possible after 4 May 2014.
+
+Each call for submission of applications shall contain the application form referred to in Article 4(1).
+
+The deadline for submitting applications by candidate cities under each call for submission of applications shall be scheduled at the earliest 10 months after its publication.
+
+3\. The Member States concerned shall notify the applications to the Commission.
+
+## Article 8 — Pre-selection in the Member States
+
+1\. Each Member State concerned shall convene the panel for a pre-selection meeting with the candidate cities no later than five years before the year of the title.
+
+By way of derogation from the first subparagraph, the Member States entitled to designate the cities to hold the title for the year 2020 may extend that deadline for a maximum of one year.
+
+2\. The panel, after assessing the applications in accordance with the criteria, shall agree on a shortlist of candidate cities and shall issue a pre-selection report on all the applications, providing, inter alia, recommendations to the short-listed candidate cities.
+
+3\. The panel shall submit the pre-selection report to the Member States concerned and to the Commission.
+
+4\. Each Member State concerned shall formally approve the shortlist based on the report of the panel.
+
+## Article 9 — Selection in the Member States
+
+1\. The shortlisted candidate cities shall complete and revise their applications with a view to complying with the criteria as well as taking into account the recommendations contained in the pre-selection report, and shall submit them to the Member State concerned, which shall then transmit them to the Commission.
+
+2\. Each Member State concerned shall convene the panel for a selection meeting with the shortlisted candidate cities no later than nine months after the pre-selection meeting.
+
+Where necessary, the Member State concerned, in consultation with the Commission, may extend that nine-month deadline for a reasonable period.
+
+3\. The panel shall assess the completed and revised applications.
+
+4\. The panel shall issue a selection report on the applications of the shortlisted candidate cities with a recommendation for the designation of a maximum of one city in the Member State concerned.
+
+The selection report shall also contain recommendations to the city concerned regarding the progress to be made by the year of the title.
+
+The panel shall submit the selection report to the Member State concerned and to the Commission.
+
+5\. Notwithstanding paragraph 4, if none of the candidate cities fulfils all the criteria, the panel may recommend that the title not be awarded for the year in question.
+
+## Article 10 — Pre-selection and selection in EFTA/EEA countries, candidate countries and potential candidates
+
+1\. The Commission shall be responsible for the organisation of the competition between cities in EFTA/EEA countries, in candidate countries and in potential candidates.
+
+2\. The Commission shall publish in the Official Journal of the European Union a call for submission of applications at least six years before the year of the title.
+
+Each call for submission of applications shall contain the application form referred to in Article 4(1).
+
+The deadline for submitting applications under each call for submission of applications shall be scheduled at the earliest 10 months after its publication.
+
+3\. The pre-selection of the cities shall be carried out by the panel at least five years before the year of the title, on the basis of their respective applications. No meeting with the candidate cities shall be organised.
+
+The panel, after assessing the applications in accordance with the criteria, shall agree on a shortlist of candidate cities and shall issue a pre-selection report on all the applications, providing, inter alia, recommendations to the shortlisted candidate cities.
+
+The panel shall submit the pre-selection report to the Commission.
+
+4\. The shortlisted candidate cities shall complete and revise their applications with a view to complying with the criteria as well as taking into account the recommendations contained in the pre-selection report, and submit them to the Commission.
+
+The Commission shall convene the panel for a selection meeting with the shortlisted candidate cities no later than nine months after the pre-selection meeting.
+
+Where necessary, the Commission may extend that nine-month deadline for a reasonable period.
+
+5\. The panel shall assess the completed and revised applications.
+
+6\. The panel shall issue a selection report on the applications of the shortlisted candidate cities together with a recommendation for the designation of a maximum of one city in one EFTA/EEA country, candidate country or potential candidate.
+
+The selection report shall also contain recommendations to the city concerned regarding the progress to be made by the year of the title.
+
+The panel shall submit the selection report to the Commission.
+
+7\. Notwithstanding paragraph 6, if none of the candidate cities fulfils all the criteria, the panel may recommend that the title not be awarded for the year in question.
+
+## Article 11 — Designation
+
+1\. Each Member State concerned shall designate one city to hold the title, on the basis of the recommendations contained in the selection report of the panel, and shall notify, no later than four years before the year of the title, the European Parliament, the Council, the Commission and the Committee of the Regions of that designation.
+
+By way of derogation from the first subparagraph, the Member States entitled to designate the cities to hold the title for the year 2020 may extend that deadline for a maximum of one year.
+
+2\. In the case of EFTA/EEA countries, candidate countries and potential candidates, the Commission shall designate one city to hold the title in the relevant years, on the basis of the recommendations contained in the selection report of the panel, and shall notify, no later than four years before the year of the title, the European Parliament, the Council and the Committee of the Regions of that designation.
+
+3\. The designations referred to in paragraphs 1 and 2 shall be accompanied by a justification based on the reports of the panel.
+
+4\. Where a city involves its surrounding area, the designation shall apply to the city.
+
+5\. Within two months of notification of designations, the Commission shall publish the list of the cities designated as European Capitals of Culture in the C series of the Official Journal of the European Union.
+
+## Article 12 — Cooperation between designated cities
+
+Cities designated for the same year shall seek to develop links between their cultural programmes and such cooperation may be considered in the framework of the monitoring procedure laid down in Article 13.
+
+## Article 13 — Monitoring
+
+1\. The panel shall monitor the preparation of the designated cities for the year of the title and provide them with support and guidance from the time of their designation to the beginning of the year of the title.
+
+2\. To that end, the Commission shall convene three monitoring meetings which shall be attended by the panel and the designated cities, as follows:
+
+(a) three years before the year of the title;
+
+(b) 18 months before the year of the title;
+
+(c) two months before the year of the title.
+
+The Member State, EFTA/EEA country, candidate country or potential candidate concerned may nominate an observer to attend those meetings.
+
+The designated cities shall submit progress reports to the Commission six weeks before each monitoring meeting.
+
+During the monitoring meetings, the panel shall take stock of the preparations and give advice with a view to helping the designated cities to develop a high-quality cultural programme and an effective strategy. The panel shall pay special attention to the recommendations laid down in the selection report and in any preceding monitoring reports referred to in paragraph 3.
+
+3\. After each monitoring meeting, the panel shall issue a monitoring report on the state of preparations and any steps to be taken.
+
+The panel shall transmit its monitoring reports to the Commission, to the designated cities and their Member States, as well as to the designated cities and the relevant EFTA/EEA country, candidate country or potential candidate.
+
+4\. In addition to the monitoring meetings, the Commission may organise visits by the panel to the designated cities whenever necessary.
+
+## Article 14 — Prize
+
+1\. The Commission may award a pecuniary prize in honour of Melina Mercouri (‘the prize’) to a designated city, subject to the funding made available under the relevant multiannual financial framework.
+
+The legal and financial aspects of the prize shall be dealt with in the framework of the respective Union programmes supporting culture.
+
+2\. The prize money shall be paid by the end of March of the year of the title, provided that the designated city concerned continues to honour the commitments it made at the application stage, complies with the criteria and takes into account the recommendations contained in the selection and monitoring reports.
+
+The commitments made at the application stage shall be deemed to have been honoured by the designated city where no substantial change has been made to the programme and the strategy between the application stage and the year of the title, in particular where:
+
+(a) the budget has been maintained at a level capable of delivering a high-quality cultural programme in line with the application and the criteria;
+
+(b) the independence of the artistic team has been appropriately respected;
+
+(c) the European dimension has remained sufficiently strong in the final version of the cultural programme;
+
+(d) the marketing and communication strategy and the communication material used by the designated city clearly reflects the fact that the action is a Union action;
+
+(e) the plans for the monitoring and evaluation of the impact of the title on the designated city are in place.
+
+## Article 15 — Practical arrangements
+
+The Commission shall in particular:
+
+(a) ensure the overall coherence of the action;
+
+(b) ensure coordination between the Member States and the panel;
+
+(c) in the light of the objectives referred to in Article 2 and of the criteria, establish guidelines to assist with the selection and monitoring procedures in close cooperation with the panel;
+
+(d) provide technical support to the panel;
+
+(e) publish, on its website, all reports of the panel;
+
+(f) make public all relevant information and contribute to the visibility of the action at the European and international levels;
+
+(g) foster the exchange of experience and of good practices between past, present and future cities holding the title, as well as candidate cities, and promote wider dissemination of the cities' evaluation reports and lessons learned.
+
+## Article 16 — Evaluation
+
+1\. Each city concerned shall be responsible for the evaluation of the results of its year as a European Capital of Culture.
+
+The Commission shall establish common guidelines and indicators for the cities concerned based on the objectives referred to in Article 2 and on the criteria in order to ensure a coherent approach to the evaluation procedure.
+
+The cities concerned shall draw up their evaluation reports and transmit them to the Commission by 31 December of the year following the year of the title. However, the cities holding the title in 2020 shall draw up their evaluation reports and transmit them to the Commission by 30 April 2022.
+
+The Commission shall publish the evaluation reports on its website.
+
+2\. In addition to the cities' evaluations, the Commission shall ensure that external and independent evaluations of the results of the action are produced on a regular basis.
+
+The external and independent evaluations shall focus on placing all past European Capitals of Culture in a European context, allowing comparisons to be drawn and useful lessons to be learned for future European Capitals of Culture, as well as for all European cities. Those evaluations shall include an assessment of the action as a whole, including the efficiency of the processes involved in running it, its impact and ways in which it could be improved.
+
+The Commission shall present to the European Parliament, the Council and the Committee of the Regions the following reports based on those evaluations, accompanied, if appropriate, by relevant proposals:
+
+(a) an initial interim report by 31 December 2024;
+
+(b) a second interim report by 31 December 2029;
+
+(c) an ex post report by 31 December 2034.
+
+## Article 17 — Repeal and transitional provision
+
+Decision No 1622/2006/EC is hereby repealed. It shall however continue to apply in the case of cities which have been designated or are in the process of being designated as European Capitals of Culture for the years from 2013 to 2019.
+
+## Article 18 — Entry into force
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX — CALENDAR
+
+| 2020 | Croatia | Ireland |  |
+| --- | --- | --- | --- |
+| 2021 |  |  |  |
+| 2022 | Lithuania | Luxembourg | Candidate country or potential candidate |
+| 2023 | Hungary | Romania | Greece |
+| 2024 | Estonia | Austria | EFTA/EEA country, candidate country or potential candidate |
+| 2025 | Slovenia | Germany |  |
+| 2026 | Slovakia | Finland |  |
+| 2027 | Latvia | Portugal |  |
+| 2028 | Czechia | France | EFTA/EEA country, candidate country or potential candidate |
+| 2029 | Poland | Sweden |  |
+| 2030 | Cyprus | Belgium | EFTA/EEA country, candidate country or potential candidate |
+| 2031 | Malta | Spain |  |
+| 2032 | Bulgaria | Denmark |  |
+| 2033 | Netherlands | Italy | EFTA/EEA country, candidate country or potential candidate |

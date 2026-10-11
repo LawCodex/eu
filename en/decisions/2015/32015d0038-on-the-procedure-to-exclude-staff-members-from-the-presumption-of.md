@@ -1,0 +1,179 @@
+---
+title: "Decision (EU) 2015/2218 of the European Central Bank of 20 November 2015 on the procedure to exclude staff members from the presumption of having a material impact on a supervised credit institution's risk profile (ECB/2015/38)"
+identifier: "32015D0038"
+eli: "http://data.europa.eu/eli/dec/2015/2218/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2015-11-20
+entry_into_force: 2014-11-10
+last_amended: 2022-03-24
+consolidated_version: "02015D0038-20220324"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015D0038-20220324"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2015/2218 of the European Central Bank of 20 November 2015 on the procedure to exclude staff members from the presumption of having a material impact on a supervised credit institution's risk profile (ECB/2015/38)
+
+**DECISION (EU) 2015/2218 OF THE EUROPEAN CENTRAL BANK**
+
+**of 20 November 2015**
+
+**on the procedure to exclude staff members from the presumption of having a material impact on a supervised credit institution's risk profile (ECB/2015/38)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2022/368 OF THE EUROPEAN CENTRAL BANK of 18 February 2022 </td><td> L 69</td><td>117</td><td>4.3.2022</td></tr>
+</table>
+
+**DECISION (EU) 2015/2218 OF THE EUROPEAN CENTRAL BANK**
+
+**of 20 November 2015**
+
+**on the procedure to exclude staff members from the presumption of having a material impact on a supervised credit institution's risk profile (ECB/2015/38)**
+
+## Article 1 — Scope
+
+This Decision lays down the procedural requirements for the request for prior approval that supervised credit institutions shall submit to the ECB in order to exclude staff members or categories of staff from the presumption of being identified staff based on the quantitative criteria established in Article 6 of Commission Delegated Regulation (EU) 2021/923 ( 1 ).
+
+## Article 2 — Definitions
+
+For the purposes of this Decision:
+
+(1) ‘supervised credit institution’ means a significant supervised entity as defined in Article 2(16) of Regulation (EU) No 468/2014 (ECB/2014/17) or significant supervised group as defined in Article 2(22) of Regulation (EU) No 468/2014 (ECB/2014/17);
+
+(2) ‘ECB supervisory decision’ has the same meaning as defined in Article 2(26) of Regulation (EU) No 468/2014 (ECB/2014/17);
+
+(3) ‘identified staff’ means: (a) all staff members and categories of staff of a supervised credit institution whose professional activities have a material impact on the credit institution's risk profile and who are specified in points (a) to (c) of Article 92(3) of Directive 2013/36/EU; and (b) all other staff members and categories of staff who are not expressly specified in points (a) to (c) of Article 92(3) of Directive 2013/36/EU and whose professional activities have an impact on a supervised credit institution’s risk profile that is comparably as material as that of the staff members or categories of staff identified in accordance with Article 4 of Delegated Regulation (EU) 2021/923.
+
+## Article 3 — General information to be provided to the ECB
+
+1\. A request for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 shall contain the following information for the end of the preceding financial year and for the current financial year:
+
+(a) the reference date;
+
+(b) the legal entity identifier (LEI) of the supervised credit institution;
+
+(c) the number of full-time equivalent employees;
+
+(d) the number of identified staff;
+
+(e) the number of identified staff based on the qualitative criteria established in points (a) and (b) of Article 92(3) of Directive 2013/36/EU and in Article 5 of Delegated Regulation (EU) 2021/923;
+
+(f) the number of identified staff based exclusively on the quantitative criteria established in Article 92(3)(c) of Directive 2013/36/EU and in Article 6 of Delegated Regulation (EU) 2021/923, together with an indication of which of the categories specified in Article 92(3)(c) of Directive 2013/36/EU or in Article 6(1)(a) or (b) of Delegated Regulation (EU) 2021/923 each identified staff member belongs to;
+
+(g) the number of identified staff exclusively based on additional criteria set forth by the supervised credit institution.
+
+2\. A request for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 shall contain the following information for each staff member for whom the application of Article 6(2) of Delegated Regulation (EU) 2021/923 is requested:
+
+(a) the staff member's name, entity, business unit, department, job title and reporting line together with the number of full-time equivalent employees under the staff member's management;
+
+(b) whether the staff member belongs to any risk taking or risk control function and if so, what is the threshold in millions of euro of risk positions that the function is allowed to take;
+
+(c) whether the staff member is a member of any committee and if so, the name of the committee, its reporting level and its degree of authority to take risk decisions expressed as a percentage of Common Equity Tier 1 capital;
+
+(d) the total amount of remuneration in euro and the variable to fixed remuneration ratio awarded to the staff member in the reference year;
+
+(e) the key performance indicators for the staff member's variable remuneration;
+
+(f) the quantitative criteria on the basis of which the staff member was assessed as being identified staff (Article 6(1)(a) or (b) of Delegated Regulation (EU) 2021/923);
+
+(g) the criteria on the basis of which the prior approval under Article 6(3) of Delegated Regulation (EU) 2021/923 is requested with respect to the staff member (Article 6(2)(a) or (b) of Delegated Regulation (EU) 2021/923).
+
+3\. A request for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 shall contain the annual internal or external audit assessment report on the identification process of identified staff and its results in respect of each staff member for whom a prior approval under Article 6(3) of Delegated Regulation (EU) 2021/923 is requested.
+
+## Article 4 — Documentation required to substantiate that the staff member or category of staff only carries out professional activities in and only has authorities in a business unit that is not a material business unit
+
+1\. When requesting prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923, supervised credit institutions shall submit to the ECB the following documentation in order to substantiate that a staff member, or the category of staff to which the staff member belongs, only carries out professional activities and has authorities in a business unit which is not a material business unit, as referred to in Article 6(2)(a) of Delegated Regulation (EU) 2021/923:
+
+(a) a detailed and comprehensive description of the duties and responsibilities of the relevant staff member or the category of staff to which the staff member belongs;
+
+(b) an organisational chart of the relevant business unit that shows the hierarchical structure and reporting lines, including the relevant staff member or category of staff to which the staff member belongs;
+
+(c) a detailed description of the internal capital allocation to the relevant business unit according to Article 73 of Directive 2013/36/EU for the current and the 2 preceding financial years;
+
+(d) an overview of the internal capital allocation to all business units in accordance with Article 73 of Directive 2013/36/EU for the current and the 2 preceding financial years;
+
+(da) a statement justifying why the business unit is not otherwise considered to have a material impact on the supervised credit institution’s internal capital;
+
+(e) a statement explaining why the supervised credit institution awarded the staff member, or category of staff to which the staff member belongs, a remuneration that meets the criteria established in Article 6(1) of Delegated Regulation (EU) 2021/923 even though the staff member, or the category of staff to which the staff member belongs, carries out professional activities in a non-material business unit;
+
+(f) a reasoned statement explaining why the staff member, or category of staff to which the staff member belongs, does not meet the qualitative criteria established in points (a) and (b) of Article 92(3) of Directive 2013/36/EU and in Article 5 of Delegated Regulation (EU) 2021/923;
+
+(g) a detailed and comprehensive statement explaining why the business unit is not a core business line as defined in point (36) of Article 2(1) of Directive 2014/59/EU of the European Parliament and of the Council ( 2 ) or as defined in any delegated act which the Commission is empowered to adopt pursuant to Article 2(2) of that Directive.
+
+2\. If the definition of business units within the supervised credit institution has changed within the current and the 2 preceding financial years, the supervised credit institution shall provide the reasons for this change.
+
+3\. The ECB may require the supervised credit institution to submit further information to substantiate the application.
+
+## Article 5 — Documentation required to substantiate that the professional activities of the staff member or category of staff have no significant impact on the risk profile of a material business unit
+
+1\. When requesting prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923, supervised credit institutions shall submit the following documentation to the ECB in order to substantiate that the professional activities of a staff member, or the category of staff to which the staff member belongs, have no significant impact on the risk profile of a material business unit, as referred to in Article 6(2)(b) of Delegated Regulation (EU) 2021/923:
+
+(a) a detailed and comprehensive description of the duties and responsibilities of the relevant staff member or category of staff to which the staff member belongs;
+
+(b) an organisational chart of the relevant business unit that shows the hierarchical structure and reporting lines, including the relevant staff member or category of staff to which the staff member belongs;
+
+(c) a detailed description of the criteria established in Article 3 of Delegated Regulation (EU) 2021/923 that have been used to assess that the professional activities of the relevant staff member, or the category of staff to which the staff member belongs, have no significant impact on the risk profile of a material business unit, specifying how these criteria have been applied and how all relevant risk and performance indicators used for internal risk measurement purposes have been taken into account;
+
+(d) a statement explaining why the supervised credit institution awarded the staff member, or category of staff to which the staff member belongs, a remuneration that meets the criteria established in Article 6(1) of Delegated Regulation (EU) 2021/923 even though the staff member has no significant impact on the risk profile of a material business unit;
+
+(e) a reasoned statement explaining why the relevant staff member, or category of staff to which the staff member belongs, does not meet the qualitative criteria established in points (a) and (b) of Article 92(3) of Directive 2013/36/EU and in Article 5 of Delegated Regulation (EU) 2021/923.
+
+2\. The ECB may require the supervised credit institution to submit further information to substantiate the application.
+
+## Article 6 — Supplementary documentation to substantiate applications for staff members awarded a total remuneration of EUR 1 000 000 or more
+
+1\. When requesting prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 in respect of a staff member who was awarded a total remuneration of EUR 1 000 000 or more in or for the preceding financial year, supervised credit institutions shall submit the following documentation to the ECB in order to substantiate the exceptional circumstances referred to in Article 6(4) of Delegated Regulation (EU) 2021/923:
+
+(a) a detailed description of the exceptional circumstances linked to the professional activity of the relevant staff member and their impact on the risk profile of the supervised credit institution. A highly competitive situation shall not be considered an exceptional circumstance;
+
+(b) a detailed description of any exceptional circumstances linked to the relevant staff member that explains why the supervised credit institution awarded the staff member remuneration of EUR 1 000 000 or more, even though the staff member reportedly does not have a material impact on the risk profile of the supervised credit institution.
+
+2\. The ECB may require the supervised credit institution to submit further information to substantiate the application.
+
+## Article 8 — Period for submitting requests for prior approval
+
+Requests for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 shall be submitted without delay, and at the latest within 6 months from the end of the preceding financial year.
+
+## Article 9 — Assessment by the ECB
+
+1\. Based on the information contained in a request for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923, the ECB shall assess:
+
+(a) the completeness of the documentation;
+
+(b) the basis on which the supervised credit institution has determined that the staff member concerned, or the category of staff to which the staff member belongs, meets one of the conditions laid down in Article 6(2) of Delegated Regulation (EU) 2021/923;
+
+(c) whether the staff member, or the category of staff to which the staff member belongs, has no material impact on the risk profile of a material business unit through the professional activities carried out by verifying:
+
+(i) whether the supervised credit institution has duly taken into account the condition set out in Article 6(2)(a) of Delegated Regulation (EU) 2021/923 or set out in Article 6(2)(b) of Delegated Regulation (EU) 2021/923, as applicable; and
+
+(ii) whether the supervised credit institution has demonstrated that the staff member concerned, or the category of staff to which the staff member belongs, for whom the request for prior approval as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923 is submitted, does not have an impact on the supervised credit institution’s risk profile comparably as material as that of those categories of staff specified in points (a), (b) or (c) of Article 92(3) of Directive 2013/36/EU;
+
+(d) with regard to the requests for prior approval for staff members awarded a total remuneration of EUR 1 000 000 or more, whether exceptional circumstances apply. In such cases the ECB shall inform the European Banking Authority of the results of the initial assessment prior to taking any decision.
+
+2\. The ECB shall issue a decision within 3 months of receipt of the complete documentation.
+
+## Article 10 — Duration of prior approval granted
+
+1\. A prior approval granted by the ECB, as referred to in Article 6(3) of Delegated Regulation (EU) 2021/923, shall be limited to the performance of the staff member during the financial year following the year in which the ECB supervisory decision containing the approval was notified to the supervised credit institution.
+
+2\. In the case of a first application for a relevant staff member, the approval shall be granted for the performance of the staff member during the financial year in which the ECB supervisory decision containing the approval was notified to the supervised credit institution and also for the performance of the staff member during the following financial year. This provision shall only be applicable in reference to the applications submitted after the entry into force of this Decision.
+
+## Article 11 — Transitional provisions
+
+1\. This Decision shall apply to the filing of notifications pursuant to Article 4(4) or applications for prior approval pursuant to Article 4(5) of Delegated Regulation (EU) No 604/2014 submitted after the entry into force of this Decision.
+
+2\. Exceptionally, filing of notifications pursuant to Article 4(4) or applications for prior approval pursuant to Article 4(5) of Delegated Regulation (EU) No 604/2014 based on 2014 information shall be made by 31 December 2015.
+
+3\. The approvals granted by the ECB pursuant to Article 4(5) of Delegated Regulation (EU) No 604/2014 under these transitional provisions shall apply to the performance of the staff member during the financial years 2015 and 2016.
+
+## Article 12 — Entry into force
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+( 1 ) Commission Delegated Regulation (EU) 2021/923 of 25 March 2021 supplementing Directive 2013/36/EU of the European Parliament and of the Council with regard to regulatory technical standards setting out the criteria to define managerial responsibility, control functions, material business units and a significant impact on a material business unit’s risk profile, and setting out criteria for identifying staff members or categories of staff whose professional activities have an impact on the institution’s risk profile that is comparably as material as that of staff members or categories of staff referred to in Article 92(3) of that Directive (OJ L 203, 9.6.2021, p. 1).
+
+( 2 ) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).

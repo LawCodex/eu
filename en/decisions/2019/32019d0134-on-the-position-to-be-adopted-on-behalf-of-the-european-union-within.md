@@ -1,0 +1,177 @@
+---
+title: "Council Decision (EU) 2019/134 of 21 January 2019 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee, concerning the amendment of Annex IX (Financial Services) to the EEA Agreement (Text with EEA relevance.)"
+identifier: "32019D0134"
+eli: "http://data.europa.eu/eli/dec/2019/134/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2019-01-21
+entry_into_force: 2019-12-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019D0134"
+retrieved: 2026-10-11
+---
+
+# Council Decision (EU) 2019/134 of 21 January 2019 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee, concerning the amendment of Annex IX (Financial Services) to the EEA Agreement (Text with EEA relevance.)
+
+**COUNCIL DECISION (EU) 2019/134**
+
+**of 21 January 2019**
+
+**on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee, concerning the amendment of Annex IX (Financial Services) to the EEA Agreement**
+
+**(Text with EEA relevance)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 in conjunction with Article 218(9) thereof,
+
+Having regard to Council Regulation (EC) No 2894/94 of 28 November 1994 concerning arrangements for implementing the Agreement on the European Economic Area (1), and in particular Article 1(3) thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) The Agreement on the European Economic Area (2) (‘the EEA Agreement’) entered into force on 1 January 1994.
+
+(2) Pursuant to Article 98 of the EEA Agreement, the EEA Joint Committee may decide to amend, inter alia, Annex IX to that Agreement, which contains provisions on financial services.
+
+(3) Regulation (EU) No 909/2014 of the European Parliament and of the Council (3) is to be incorporated into the EEA Agreement.
+
+(4) Annex IX to the EEA Agreement should therefore be amended accordingly.
+
+(5) The position of the Union within the EEA Joint Committee should therefore be based on the attached draft decision,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The position to be adopted, on behalf of the Union, within the EEA Joint Committee on the proposed amendment of Annex IX (Financial Services) to the EEA Agreement, shall be based on the draft decision of the EEA Joint Committee attached to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the date of its adoption.
+
+Done at Brussels, 21 January 2019.
+
+For the Council
+
+The President
+
+F. MOGHERINI
+
+(1) OJ L 305, 30.11.1994, p. 6.
+
+(2) OJ L 1, 3.1.1994, p. 3.
+
+(3) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+DRAFT
+
+**DECISION OF THE EEA JOINT COMMITTEE No …**
+
+**of …**
+
+**amending Annex IX (Financial services) to the EEA Agreement**
+
+THE EEA JOINT COMMITTEE,
+
+Having regard to the Agreement on the European Economic Area (‘the EEA Agreement’), and in particular Article 98 thereof,
+
+Whereas:
+
+(1) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (1), as corrected by OJ L 349, 21.12.2016, p. 8, is to be incorporated into the EEA Agreement.
+
+(2) Annex IX to the EEA Agreement should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Annex IX to the EEA Agreement shall be amended as follows:
+
+1\. The following indent is added in points 16b (Directive 98/26/EC of the European Parliament and of the Council) and 31ba (Directive 2014/65/EU of the European Parliament and of the Council):
+
+‘— 32014 R 0909: Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 (OJ L 257, 28.8.2014, p. 1), as corrected by OJ L 349, 21.12.2016, p. 8.’
+
+2\. The following is added in point 29f (Regulation (EU) No 236/2012 of the European Parliament and of the Council:
+
+‘, as amended by:
+
+— 32014 R 0909: Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 (OJ L 257, 28.8.2014, p. 1), as corrected by OJ L 349, 21.12.2016, p. 8.’
+
+3\. The following point is inserted after point 31bea (Commission Implementing Regulation (EU) No 594/2014):
+
+‘31bf. 32014 R 0909: Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1), as corrected by OJ L 349, 21.12.2016, p. 8.
+
+The provisions of the Regulation shall, for the purposes of this Agreement, be read with the following adaptations:
+
+(a) Notwithstanding the provisions of Protocol 1 to this Agreement, and unless otherwise provided for in this Agreement, the term “Member State(s)” and “competent authorities” shall be understood to include, in addition to their meaning in the Regulation, the EFTA States and their competent authorities, respectively.
+
+(b) References to “members of the ESCB” or to “central banks” shall be understood to include, in addition to their meaning in the Regulation, the national central banks of the EFTA States.
+
+(c) Liechtenstein may allow third-country CSDs already providing services referred to in Article 25(2) to financial intermediaries in Liechtenstein or already having set up a branch in Liechtenstein to continue to provide the services referred to in Article 25(2) for a period not exceeding 5 years after the date of entry into force of Decision of the EEA Joint Committee No …/… of … [this Decision].
+
+(d) In Article 1(3), the words “Union law” shall be replaced by the words “the EEA Agreement”.
+
+(e) In Article 12(3), the words “Union currencies” shall be replaced by the words “official currencies of the Contracting Parties to the EEA Agreement”.
+
+(f) In Article 13 and in the first subparagraph of Article 14(1), the words “, the EFTA Surveillance Authority” shall be inserted after the words “relevant authorities”.
+
+(g) In Articles 19(3), 33(3), 49(4), 52(2) and 53(3), the words “ESMA, which” shall be replaced by the words “ESMA. ESMA or, as the case may be, the EFTA Surveillance Authority”.
+
+(h) In Article 24(5):
+
+(i) in the first and second subparagraphs, the words “and, in cases concerning an EFTA State, the EFTA Surveillance Authority” shall be inserted after the word “ESMA”;
+
+(ii) in the third subparagraph, the words “ESMA, which” shall be replaced by the words “ESMA. ESMA or, as the case may be, the EFTA Surveillance Authority”.
+
+(i) In Article 34(8), the words “Union competition rules” shall be replaced by the words “competition rules applicable pursuant to the EEA Agreement”.
+
+(j) In Article 38(5), the words “17 September 2014” shall be replaced by the words “the date of entry into force of Decision of the EEA Joint Committee No …/… of … [this decision]”.
+
+(k) In Article 49(1), as regards the EFTA States, the words “by 18 December 2014” shall read “within three months of the date of entry into force of Decision of the EEA Joint Committee No …/… of … [this decision]”.
+
+(l) In Article 55:
+
+(i) in paragraphs 5 and 6, the words “Union law” shall be replaced by the words “the EEA Agreement”;
+
+(ii) in paragraph 6, the words “or the EFTA Surveillance Authority, as the case may be,” shall be inserted after the word “ESMA”.
+
+(m) In Articles 58(3) and 69(1), as regards the EFTA States, the words “by 16 December 2014” shall read “within three months of the date of entry into force of Decision of the EEA Joint Committee No …/… of … [this decision]”.
+
+(n) In Article 61(1), as regards the EFTA States, the words “by 18 September 2016” shall read “within one year of the date of entry into force of Decision of the EEA Joint Committee No …/… of … [this decision]”.
+
+(o) In Article 69(2) and (5), as regards the EFTA States, the words “in the EEA” shall be inserted after the words “entry into force”.
+
+(p) In Article 76, as regards the EFTA States:
+
+(i) in paragraphs 4, 5 and 6, the words “the decision of the EEA Joint Committee containing” shall be inserted after the words “entry into force of”;
+
+(ii) in paragraph 5, the words “until 13 June 2017” are replaced by the words “within sixth months from the date of entry into force of a decision of the EEA Joint Committee containing Directive 2014/65/EU and Regulation (EU) No 600/2014”;
+
+(iii) in paragraph 7, the words “3 January 2017” shall read “these acts apply in the EEA”’.
+
+## Article 2
+
+The text of Regulation (EU) No 909/2014, as corrected by OJ L 349, 21.12.2016, p. 8, in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.
+
+## Article 3
+
+This Decision shall enter into force on […], provided that all the notifications under Article 103(1) of the EEA Agreement have been made (*1).
+
+## Article 4
+
+This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the Official Journal of the European Union.
+
+Done at Brussels,
+
+For the EEA Joint Committee
+
+The President
+
+The Secretaries to the EEA Joint Committee
+
+(1) OJ L 257, 28.8.2014, p. 1.
+
+(*1) [No constitutional requirements indicated.] [Constitutional requirements indicated.]

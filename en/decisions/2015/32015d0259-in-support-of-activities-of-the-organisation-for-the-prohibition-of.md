@@ -1,0 +1,597 @@
+---
+title: "Council Decision (CFSP) 2015/259 of 17 February 2015 in support of activities of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction"
+identifier: "32015D0259"
+eli: "http://data.europa.eu/eli/dec/2015/259/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2015-02-17
+entry_into_force: 2015-10-12
+last_amended: 2018-02-26
+consolidated_version: "02015D0259-20180226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015D0259-20180226"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2015/259 of 17 February 2015 in support of activities of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction
+
+**COUNCIL DECISION (CFSP) 2015/259**
+
+**of 17 February 2015**
+
+**in support of activities of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2018/294 of 26 February 2018 </td><td> L 55</td><td>58</td><td>27.2.2018</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2015/259**
+
+**of 17 February 2015**
+
+**in support of activities of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction**
+
+## Article 1
+
+1\. For the purpose of giving immediate and practical application to some elements of the EU Strategy, the Union shall support activities of the OPCW, with the following objectives:
+
+— to enhance the capacities of State Parties in fulfilling their obligations under the CWC,
+
+— to enhance the preparedness of State Parties to prevent and respond to attacks involving toxic chemicals,
+
+— to enhance international cooperation in the field of chemical activities,
+
+— to support the ability of the OPCW to adapt to developments in the field of science and technology,
+
+— to promote universality by encouraging States not Parties to join the CWC.
+
+2\. In this context, the Union-supported activities of the projects of the OPCW, which are in compliance with the measures of the EU Strategy, shall be the following:
+
+**Project I: National Implementation, Verification and Universality**
+
+Activities:
+
+— Regional Training Course for Customs Authorities of State Parties on Technical Aspects of the CWC's Transfers' Regime
+
+— Updating e-learning tools for national authorities/associated stakeholders
+
+— Support for Development of ‘Advocacy’ Plans for raising awareness on the national implementation of the CWC
+
+— National Implementation Capacity Assessment for National Authorities
+
+— Mentorship Programme
+
+— Legal workshop for Caribbean and Central American State Parties
+
+— Strengthening Training Capabilities for OPCW Technical Secretariat inspectors and experts
+
+— Modernisation of the Information Management Systems for the OPCW Verification Division
+
+— Visits of Executive Council representatives and Observers of State Parties with developing economies to chemical weapons destruction facilities
+
+— Implementing the lessons arising from the Syria mission
+
+**Project II: International Cooperation**
+
+Activities:
+
+— Analytical skills development course
+
+— Industry Outreach
+
+— Chemical Safety and Security Management Workshops
+
+**Project III: Science and Technology**
+
+Activities:
+
+— Chemical informatics for facilitating international collaboration
+
+— Assessment of developments in science and technology
+
+— Multiple uses of chemistry: understanding the security aspects of technological developments
+
+— Support for Temporary Working Groups (TWGs) of the OPCW's Scientific Advisory Board (SAB)
+
+— The development of standardised analytical methods for the analysis of biological toxins
+
+**Project IV: Preparedness of State Parties to prevent and respond to attacks involving chemicals**
+
+Activities:
+
+— Regional Assistance and Protection Training — Central Asia
+
+— Regional Coordination Exercise on Assistance Delivery
+
+— Regional Assistance and Protection Workshops
+
+— Table Top Exercises
+
+**Project V: Universality and outreach**
+
+— Translation and dissemination of education and outreach tools and materials
+
+— Production of an OPCW exhibition
+
+— Youth outreach
+
+— Universality Facilitation for Non-State Parties to join the CWC
+
+— Support for NGO participation in OPCW activities
+
+— Support for development and promotion of ‘Fires’ video documentary series
+
+**Project VI: Africa Programme**
+
+— Regional National Authority Stakeholders Forum
+
+— Regional Training Course for Customs Authorities of State Parties on Technical Aspects of the CWC's Transfers' Regime
+
+— Provision of Academic/Informative Materials on CWC
+
+— Synergies and Partnership for effective implementation
+
+— Analytical Skills Development Courses
+
+— Industry Outreach
+
+— Chemical Safety and Security Management
+
+A detailed description of the Union-supported activities of the OPCW referred to above is set out in the Annex.
+
+## Article 2
+
+1\. The High Representative of the Union for Foreign Affairs and Security Policy (HR) shall be responsible for the implementation of this Decision.
+
+2\. Technical implementation of the projects referred to in Article 1(2) shall be carried out by the OPCW Technical Secretariat (the ‘Technical Secretariat’). It shall perform this task under the responsibility and the control of the HR. For this purpose, the HR shall enter into the necessary arrangements with the Technical Secretariat.
+
+## Article 3
+
+1\. The financial reference amount for the implementation of the projects referred to in Article 1(2) shall be EUR 2 528 069 .
+
+2\. The expenditure financed by the amount set out in paragraph 1 shall be managed in accordance with the procedures and rules applicable to the general budget of the European Union.
+
+3\. The Commission shall supervise the proper management of the expenditure referred to in paragraph 1. For this purpose, it shall conclude a financing agreement with the Technical Secretariat. The agreement shall stipulate that the Technical Secretariat is to ensure visibility of the Union contribution, commensurate with its size and specify measures facilitating developing synergies and avoiding duplication of activities.
+
+4\. The Commission shall endeavour to conclude the financing agreement referred to in paragraph 3 as soon as possible after 17 February 2015. It shall inform the Council of any difficulties in that process and of the date of conclusion of the agreement.
+
+## Article 4
+
+The HR shall report to the Council on the implementation of this Decision on the basis of regular reports prepared by the Technical Secretariat. The HR reports shall form the basis for the evaluation carried out by the Council. The Commission shall provide information on the financial aspects of the projects referred to in Article 1(2).
+
+## Article 5
+
+1\. This Decision shall enter into force on the date of its adoption.
+
+2\. It shall expire 45 months after the date of the conclusion of the financing agreement referred to in Article 3(3).
+
+## ANNEX
+
+**Union support for OPCW activities in the framework of the implementation of the EU Strategy against Proliferation of Weapons of Mass Destruction**
+
+**Project I — National implementation and Verification**
+
+**Objectives**
+
+— To enhance the capacity of State Parties in fulfilling their obligations under the CWC
+
+— To support non-proliferation of chemical weapons, through the application of the verification and implementation measures provided for in the CWC
+
+— To advance and ensure the elimination of chemical weapons stockpiles and production facilities subject to the verification measures provided for in the CWC.
+
+**Purposes**
+
+Purpose 1 (National Implementation)
+
+— Enhanced capacity of State Parties for effective national implementation
+
+— Increased number of State Parties able to conduct effective national implementation at quantitative and qualitative level
+
+— Enhanced understanding and awareness of National Authorities (NAs) on CWC-related matters for good cooperation and support.
+
+— Increased number of State Parties able to process and draft legislation for subsequent approval
+
+— Effective function of customs authorities in the control and monitoring of the chemical trade.
+
+Purpose 2 (Verification)
+
+— Enhanced efficiency and full-value services of training courses delivered for OPCW inspectors and experts
+
+— Business processes and quality of information of the Information Management System of the OPCW Verification Division improved, and ability to employ contemporary information analysis techniques gained
+
+— State Parties are able to monitor progress made towards achieving complete destruction of chemical weapons stockpiles and can identify and address problems to achieve destruction at an early stage, and are more confident that tangible and concrete steps are undertaken for the complete destruction of chemical weapons by their possessors
+
+— Improved OPCW adaptability in face of situations similar to the Syria mission in the future, enhancements to the verification regime and activities, improved relations with partner international organisations.
+
+**Results**
+
+Results 1 (National implementation)
+
+— Customs officials have improved their understanding and ability for effective handling of the duties regarding import/export of scheduled chemicals and coordination with National Authorities
+
+— National Authorities personnel and associated stakeholders have correct and up-to-date information in electronic format for effective learning available
+
+— National Authorities have systematic planning tools for effective implementation of the national efforts available
+
+— National Authorities have comprehensive information on the current situation and specific needs and make progress towards capacity-building for planning effective national implementation
+
+— Mentored State Parties have enhanced capacity for national implementation and work in coordination with the mentor State Party
+
+— State Parties have enhanced understanding and knowledge of proper processes on national legislation in fulfilling national obligations under the CWC.
+
+Results 2 (Verification)
+
+— Level of expertise and know-how of OPCW inspectors and experts on handling of schedule 1 chemicals is maintained at proper standards
+
+— Contemporary capabilities of the Information Management System of the OPCW Verification Division are acquired and disconnected legacy systems are decommissioned
+
+— State Parties have an enhanced understanding of the problems and technical difficulties related to the destruction of chemical weapons, and have increased confidence that tangible and concrete steps are undertaken for the complete destruction of chemical weapon stockpiles
+
+— OPCW has improved its understanding of the Syria mission, assessed the implications for the CWC regime and incorporated the lessons learned into internal operating procedures and practices.
+
+**Activities**
+
+1\. Regional Training Course for Customs Authorities of State Parties on Technical Aspects of the CWC's Transfers' Regime
+
+Support to customs officials has been provided under Joint Action 2005/913/CFSP, Joint Action 2007/185/CFSP, Decision 2009/569/CFSP, and Decision 2012/166/CFSP. On the basis of experience gained, outreach to customs officials through training courses will be undertaken with a view to improving the collection and transmission of data on imports and exports of scheduled chemicals to national authorities. Training undertaken will offer practical hands-on demonstrations and exercises, and will incorporate an element covering ‘train the trainers’. The training will be carried out by the Technical Secretariat's Implementation Support Branch, with technical expertise from the Declarations Branch, in the Africa region.
+
+2\. Updating the e-learning tool for national authorities/associated stakeholders
+
+Support for the development of an e-learning tool for national authorities/associated stakeholders has been provided under Decision 2012/166/CFSP. State Parties have been able to access and use e-learning modules since 2013. To ensure that the information and materials remain relevant and useful, an assessment of users' feedback and recommendations will be conducted, and the findings used for updating and improving the tool. It is expected that e-learning will be more widely used by State Parties. The Technical Secretariat is considering making the e-learning compulsory for some training provided by the OPCW.
+
+3\. Support development of ‘advocacy’ plans
+
+Several National Authorities have advised they have found it difficult to obtain the right level of cooperation and support from some stakeholder institutions. This is mainly due to a lack of understanding and awareness of the CWC, its obligations and commitments placed on the State Parties. This lack of skills, knowledge and experience in ‘advocacy’ means that when it is undertaken it is not often effective. There is a need to develop/improve the existing advocacy plans, to make them more practical and useful. The advocacy plans will include: education and outreach activities, production of publicity materials, information kits as well as draft action plans. Guidelines and strategies for effective education and outreach at the national and regional level will be drafted and the pilot States will use them as a reference in drafting advocacy plans for their respective States. Pilot projects will be developed in all regions: Asia, Latin America and Caribbean, Africa and Eastern Europe.
+
+4\. National Implementation Capacity Assessment
+
+National Authorities should be able to effectively implement the CWC. Some National Authorities require assistance to ensure they are able to fulfil their role effectively. There are several factors that can affect their performance. In order for the Technical Secretariat to provide timely and effective support, it is essential to assess their national capacity to better understand their needs. Assessment programmes will be implemented in all regions. Specifically, the capacity assessment will be conducted jointly by the Technical Secretariat and the respective National Authority. Desk review of a State's situation regarding the CWC implementation will be conducted by relevant Divisions of the Technical Secretariat before a State visit for an actual assessment. During the visit, the team will hold meetings and consultations with relevant agencies. Each visit will result in a report, outlining milestone developments and a follow-up action plan for capacity building.
+
+5\. Mentorship Programme
+
+The National Authority Mentorship Programme is designed to create a partnership between a National Authority which has been more successful and efficient in the implementation of its obligations under the CWC with another at a lower level of implementation. This enhances the functioning of the latter National Authority. The programme has been implemented by the OPCW for a number of years and has proved very useful. Mentorship programmes will be implemented in Africa, Asia and Caribbean and Latin America.
+
+6\. Legal workshop for Caribbean and Central American State Parties
+
+These workshops form part of the Technical Secretariat efforts to promote the quicker adoption of national implementing legislation by State Parties in the Caribbean and Central America. The main aim is to provide practical assistance to participating State Parties on legal issues surrounding the national implementation of the CWC. These workshops also seek to support State Parties in finalising their respective drafts, and provide an opportunity for the invited State Parties to consult directly with representatives from the Implementation Support Branch of the OPCW regarding the drafting of national implementing legislation as well as the provision of any other legal assistance, such as the development of subsidiary regulations and rules.
+
+7\. Strengthening Training Capabilities for Technical Secretariat inspectors and experts
+
+Training courses involving the handling of schedule 1 chemicals represent one of the crucial elements of the effort to maintain the level of expertise and accumulated know-how of the OPCW. Observance of strict technical standards is crucial for the efficiency and full-value services of training courses being delivered for Technical Secretariat inspectors and experts. At the same time it will increase chemical- and bio- safety and enhance preparedness to prevent and respond to attacks involving toxic chemicals. The activity will include procurement of necessary equipment, appliances and materials, resulting in better performance of the laboratories involved.
+
+8\. Modernisation of the Information Management Systems for the OPCW Verification Division
+
+The OPCW Verification Division currently uses various legacy information systems, some of which are heavily customised. These impede the efficient and effective processing of information.
+
+These include:
+
+— disconnected systems,
+
+— legacy systems lacking contemporary capabilities,
+
+— heavy customisation of the systems and inability to make improvements in a timely and resource-efficient way,
+
+— unavailability of contemporary functionality such as full-text search capabilities and digital processing,
+
+— no possibilities for user-driven workflow process management.
+
+This activity aims to modernise the information management systems of the OPCW Verification Division by replacing these bespoke systems with an enterprise document management solution with contemporary capabilities. The expected benefits will be increased efficiency in the processing of information, a reduction in manual work effort, improvements in data quality and extended analytical capabilities.
+
+9\. Visits of Executive Council representatives and Observers of State Parties with developing economies to chemical weapons destruction facilities
+
+To date, eight visits have taken place — four in the United States of America, three in the Russian Federation and one in China (Abandoned Chemical Weapons Destruction Facilities), with funding provided under Joint Action 2007/185/CFSP, Decision 2009/569/CFSP, and Decision 2012/166/CFSP. The visits conducted so far have proved to be valuable as a means of addressing questions or concerns about a possessor State Party's programme for fulfilling its obligations on the destruction of its chemical weapons. All State Parties will benefit from these visits which will help enhance transparency and build confidence that progress is being made for the complete destruction of the remaining chemical weapons in accordance with the provisions of the CWC and under the verification of the Technical Secretariat. The project should encourage broader participation in such visits by State Parties while taking into account the appropriate financial criteria and taking steps to ensure the adequate rotation of participants.
+
+10\. Implementing the lessons arising from the Syria mission
+
+With the anticipated end of the programme to eliminate Syria's chemical weapons programme, the OPCW will conduct a review of its involvement in this unprecedented operation. In addition, the OPCW is already participating in a lessons learned exercise being conducted by the United Nations (UN) Office for Disarmament Affairs (UNODA) in the framework of the investigation into the use of chemical weapons in Syria in 2013. Therefore, many of the lessons arising from the UN investigation and the mission to eliminate Syrian chemical weapons should be identified during the course of 2014.
+
+The lessons identified will need to be implemented and incorporated into OPCW procedures and activities. In order to do this most effectively, it is proposed that the Secretariat hold an internal workshop to review and analyse the lessons learnt and to implement them as early as possible. The outcomes of this workshop should include identifying and implementation relevant training programmes as well as purchase recommended equipment as identified in the workshop.
+
+**Project II — International Cooperation**
+
+**Objectives**
+
+— To enhance the economic and technological development through international cooperation in the field of chemistry for activities whose purposes are not prohibited under the CWC
+
+— To promote the OPCW mission and CWC objectives through stronger engagement of State Parties in international cooperation initiatives for the peaceful use of chemistry.
+
+**Purposes**
+
+— To enhance capacity of the publicly funded laboratories in State Parties with developing economies or economies in transition to implement the CWC in the field of peaceful uses of chemistry
+
+— To assist State Parties with developing economies or economies in transition in enhancing chemical safety and security management approaches in chemical industry enterprises of small and medium size.
+
+**Results**
+
+— Enhanced level of technical competence in publicly funded laboratories in State Parties with developing economies or economies in transition to analyse chemicals related to national implementation of the CWC and in the peaceful application of chemistry using modern analytical methods especially gas chromatography (GC) and gas chromatography/mass spectrometry (GC-MS)
+
+— Upgraded levels of competence and understanding by the personnel of small and medium enterprises, representatives of industry associations and the national authorities/ governmental institutions of State Parties with developing economies or economies in transition regarding process safety and security management practices.
+
+**Activities**
+
+1\. Analytical skills development courses
+
+These courses take place over two weeks, during which participants receive theoretical training and hands-on experience in GC and GC-MS. Topics covered include: hardware; system validation and optimisation; troubleshooting; preparation of environmental samples; and GC/GC-MS analyses of such samples for chemicals related to the CWC. Participants also receive intensive hands-on training in the preparation of different sample matrices to be analysed by GC with element-selective detectors and by GC-MS in electron impact and chemical-ionisation modes. Finally, participants are introduced to a range of extraction, clean-up, and derivatisation procedures. The courses are implemented with the support of Verifin, renowned institution selected through a transparent tender process, with which OPCW has entered into a five-year agreement.
+
+2\. Industry Outreach —Chemical Safety and Security Management Workshops
+
+These workshops are conducted over two-and-a-half days. They cover, inter alia, safety and security issues in chemical industry, chemical management strategies, chemical-process safety management, industry best practices and an introduction to Responsible Care®.
+
+An overview of the CWC and of international cooperation programmes is also presented at the opening session. Cooperation and coordination will be ensured with other actors with experience in this area, as appropriate.
+
+One workshop will be addressed to the North Africa, Middle East and Gulf sub-regions and will take place in Arabic.
+
+**Project III — Science and technology**
+
+**Objectives**
+
+To enable the Director-General of the OPCW (‘Director General’) to provide advice and make recommendations to the Conference of State Parties, the Executive Council of the OPCW or the State Parties on areas of science and technology relevant to the CWC.
+
+**Purposes**
+
+— Setting the direction for science and technology related activities at the OPCW in the interim period between the Fourth and Fifth Review Conferences-
+
+— To enable the Director-General to render special advice to the OPCW policymaking organs and to the State Parties in the areas of science and technology relevant to the CWC
+
+— To draw upon a larger pool of scientific experts available for the OPCW, and improved mechanisms for keeping aware of developments in chemical monitoring technologies and informatics tools for analysis of complex data sets containing chemical information
+
+— Building and maintaining a network of non-technical stakeholders who can compliment scientific experts available to the OPCW in assessing all aspects of new science and technology to provide more complete advice on science and technology and its impact
+
+— To enable a number of off-site laboratories to analyse toxins in support of the CWC.
+
+**Results**
+
+— Expanding network of scientific expertise available to OPCW that will enhance ongoing science and technology monitoring efforts and increase presence and visibility of the CWC in the scientific community
+
+— Relationships with scientific expertise involved in new science and technology development relevant to the CWC built and maintained
+
+— Creation of opportunities to bring non-technical stakeholders into productive discussions regarding science and technology development with technical experts for assessment of security impact and risk
+
+— Advice and recommendations on areas of science and technology relevant to the CWC produced by the OPCW' s Scientific Advisory Board (SAB) and received by State Parties
+
+— Raised awareness of the need for the analysis of toxins relevant to the CWC.
+
+**Activities**
+
+1\. Chemical informatics for facilitating international collaboration
+
+This activity aims at creating a working group of scientists to collaboratively source, collate, and analyse data with unique chemical signatures. It seeks to compile data collected from a broad range of routine chemical monitoring activities that contain chemical signatures (e.g. data collected from atmospheric monitoring, environmental sample collection, water testing, and more). The intent is to connect chemical and information scientists from different regions of the world to create a hub in which the information can be disseminated to the collaborators for visualisation and informative analysis of global and regional chemistry. This work is intended to facilitate engagement of the Technical Secretariat with the scientific community. Main output will be a data collation centre serving as a hub for collating and reducing data into formats compatible with the analytical tools used by the collaborating researchers. The hub, located in one of the participating universities, will support the network of collaborating scientists and build its capacity to expand beyond the implementation period.
+
+2\. Assessment of developments in science and technology
+
+A series of expert workshops — involving members of the SAB, experts associate with the International Union of Pure and Applied Chemistry, and other experts — to assess the impact of current and potential future developments in science and technology on the implementation of the CWC.
+
+This work will support the SAB in developing their report on developments in science and technology for the Fourth Review Conference of the CWC.
+
+Possible partnerships with other International Organisations to implement this activity will be explored.
+
+3\. Multiple uses of chemistry: understanding the security aspects of technology developments
+
+A series of workshops for regional centres of excellence and university departments which are involved in WMD security issues. The purpose is to help those who are concerned about implications of technology developments to understand the process by which technologies are conceived, developed, adapted, and brought to life.
+
+Workshop attendees will gain skills and understanding of:
+
+— converging scientific disciplines (especially, but not limited to, the convergence between chemistry and biology), which are a strong enabling force for new technologies and can drive applications and approaches in general technology development,
+
+— best practices for technology monitoring,
+
+— how to better assess risks of new and changing technologies, and
+
+— how to recognise how the adaptation of new technologies is a critical aspect of effective security management.
+
+This work will create more insight into how science and technology support effective implementation of multilateral security and WMD treaties — using the CWC as an example.
+
+4\. Temporary Working Groups (TWGs) of the SAB
+
+Support meetings of the TWGs, which will enable to the SAB to render specialised technical advice to the Director-General on the implementation of the CWC. This will in turn enable the Director-General to advise the policymaking organs and State Parties on policy matters, underpinned by sound scientific advice.
+
+5\. Toward the development of standardised analytical methods for the analysis of biological toxins
+
+Biological toxins are regulated under the Biological Weapons Convention (‘BWC’). Two biological toxins (ricin and saxitoxin) are also listed in the CWC as chemical weapons and are closely regulated. Other biological toxins may also fall under the CWC's general purpose criteria against the use of toxic agents in warfare.
+
+The robust verification regime of the CWC is absent in the BWC. Under the CWC, inspectors are empowered to take samples and perform on-site analysis (if possible; often not possible for biological toxins) or send them to off-site laboratories. Off-site laboratory analysis requires sophisticated analytical equipment as well as methods and either reference materials or data.
+
+For this project, the OPCW Laboratory and partner laboratories will:
+
+— prepare/acquire reference materials,
+
+— conduct round-robin exercises,
+
+— write and validate recommended operating procedures (ROPs) for the analysis of biological toxins,
+
+— collect reference data from partner laboratories,
+
+— share ROPs and reference data with partner laboratories and the scientific community,
+
+— evaluate analytical procedures/detection kits that can be used on-site to guide decisions on off-site analysis and as a protective component for inspectors on-site.
+
+**Project IV — Preparedness of State Parties to prevent and respond to attacks involving chemicals**
+
+**Objectives**
+
+Contribute to developing the capacity of State Parties in the prevention of, preparedness for and response to a terrorist attack using chemical weapons and to improve their response to requests for assistance in the event of the use or threat of use of chemicals.
+
+**Purposes**
+
+— Enhance State Parties' awareness of the importance of submitting timely and full declarations on national programmes related to protective purposes
+
+— Increase State Parties' contribution to the preparedness of OPCW to respond to requests for assistance
+
+— Encourage State Parties to foster the creation of regional networks in their regions or sub-regions to improve their coordinated response to a chemical weapons attack
+
+— Encourage State Parties to establish coordination and cooperation between the sub-regions in the chemical emergency response
+
+— Build the capacity of State Parties to further disseminate knowledge and skills acquired during the training courses
+
+— Exercise and evaluate the national prevention of, preparedness for and response to a chemical incident and to increase awareness of further steps to be taken to enhance the level of preparedness
+
+— Exercise and evaluate the coordination of the international community in the prevention and response to a chemical incident.
+
+**Results**
+
+— Pre-conditions for the formation of a regional network of emergency response personnel created
+
+— State Parties are aware of the importance of submitting timely and full declarations on national programmes related to protective purposes
+
+— State Parties are better positioned to make offers of assistance to the OPCW in response to a request of assistance
+
+— Increased awareness of State Parties regarding the need to promote cooperation in relation to chemical weapons emergencies in case of an attack
+
+— A team of instructors from Central Asian State Parties that can support the chemical emergency response plan by training their first responders
+
+— Enhanced emergency response plans for handling incidents involving toxic chemicals of the implicated State Parties by incorporating the transfer of knowledge and practices.
+
+**Activities**
+
+1\. Regional Assistance and Protection Training
+
+A full-cycle training package for Central Asian State Parties to include Basic and Advanced training courses in Assistance and Protection. The courses would be followed by a confirmatory exercise where participants would use the knowledge acquired in a practical, field training scenario. This training cycle will result in increased resilience against and improved national and regional capacity to respond to the misuse of toxic chemicals. The first responders from the region who will benefit from this training, will be subsequently considered for OPCW-funded ‘train-the-trainer’ courses to assist them in the further dissemination of the knowledge and skills acquired.
+
+2\. Regional Coordination Exercise on Assistance Delivery
+
+In line with paragraph 7 of Article X of the CWC, the proposed exercise is a follow-up of the Assistance Coordination workshop held in Argentina in October 2013 and will be aimed at testing delivery assistance mechanisms between two or three State Parties from the Latin America region that share the same border, and will include participation with diverse tasks, of the rest of the State Parties from the region.
+
+3\. Regional Assistance and Protection Workshops
+
+Support for this activity has been provided under Decision 2009/569/CFSP, and Decision 2012/166/CFSP. This activity is designed as a forum for managers and planners who are involved in the protection of their civilian populations against chemical weapons, or who would be responsible for the provision of emergency assistance under Article X of the CWC. Workshops provide information on the implementation of Article X; national and international projects being carried out by the OPCW, regional approaches to assistance and protection, and challenges and new opportunities in the field of assistance and protection against chemical weapons and other toxic chemicals. Furthermore, they are intended to foster discussion and analysis of several assistance and protection-related issues, with special focus on areas such as rights and obligations of State Parties under Article X of the CWC, submissions of declarations of protective programmes, and analysis of weaknesses and problem areas. They also provide an overview of assistance and protection activities in the concerned region. Participants give presentations in order to share experiences, lessons learnt, and ideas in the field of assistance and protection and emergency response against threats related to misuse of toxic chemicals. Targeted regions will be Latin America and Asia.
+
+4\. Table Top Exercises
+
+Support for this activity has been provided under Decision 2009/569/CFSP, and Decision 2012/166/CFSP. The project Table Top Exercises is a follow-up and builds on the lessons learnt from the Table Top exercise (TTX) held in August 2013 in Indonesia (funded under Decision 2012/166/CFSP). One of the results of the exercise was development of the TTX module that can be used for capacity-building activities in other regions. The exercises will examine cross-government decision-making, and promote information exchange and provision of assistance between relevant national and international organisations in order to mitigate the risks and the impact of an attack with toxic chemicals. The project complements other OPCW programmes, in particular those regarding assistance and protection as mandated by Article X of the CWC as well as the OPCW's efforts to support State Parties in the adoption of national implementation measures and the project on ‘OPCW as a platform for enhancing security at chemical plants’ (funded under Decision 2012/166/CFSP). Under the provisions of Article X, State Parties can receive expert advice and assistance from the OPCW regarding the development and improvement of their protective capacity against chemical weapons.
+
+**Project V — Universality and outreach**
+
+**Objectives**
+
+— To encourage States not party to the CWC to better understand the benefits of joining the CWC and in getting more involved in OPCW activities
+
+— To raise awareness about the OPCW and CWC, particularly among a broad public audience and certain target groups in the educational sector, such as students and teachers of chemistry and chemical engineering at secondary and tertiary level.
+
+**Purposes**
+
+— To raise awareness and knowledge of the OPCW and CWC amongst students and teachers and other groups as appropriate
+
+— To raise the visibility of the OPCW and to explain its activities to a broad public audience
+
+— To improve means of reaching to the widest possible audience, especially among the non-technical or non-specialists
+
+— To raise awareness of the OPCW and CWC among a young audience in selected States or regions
+
+— States not party to the CWC get more involved in OPCW activities and increase their understanding of the CWC and its benefits
+
+— To broaden engagement with stakeholders on substantive issues facing the OPCW during a period of institutional transition.
+
+**Results**
+
+— Dissemination of the educational materials produced by national, regional and international associations and use in schools and universities of the educational materials
+
+— Increased public engagement with the OPCW and CWC through the use of the exhibition at multiple events around the world
+
+— Increased interaction with the OPCW by young audiences in selected States or regions and development of social media tools and their use by OPCW partners
+
+— Ultimate increased number of new State Parties
+
+— Enhanced input by civil society to the OPCW policymaking process, including the opportunity to present their views on substantive issues directly to delegates in special plenary sessions of the Conference of State Parties
+
+— Documentary material, including OPCW corporate video material for all purposes, available for dissemination and sensitisation of the mainstream audience.
+
+**Activities**
+
+1\. Translation and dissemination of education-and-outreach tools and materials
+
+During 2013 and 2014, the Technical Secretariat (supported in part by Decision 2012/166/CFSP) has produced several education and outreach tools in English. In order to maximise the use of such materials by a broad range of stakeholders in as many State Parties as possible, the materials need to be translated into the other five official OPCW languages and into other widely-spoken languages. The translated materials will also need to be widely disseminated.
+
+2\. Production of an OPCW exhibition
+
+Production of a professional physical and online exhibition on the OPCW and CWC for use at relevant meetings, conferences, etc., in collaboration with science and peace museums.  Some work has already been carried out by the OPCW together with the Nobel Peace Centre, Museon in The Hague and others but, under this project, a professionally-designed exhibition will be produced, for reuse by the OPCW as necessary.
+
+3\. Youth outreach
+
+Outreach aimed at young audiences (ages 15-25) to both raise awareness of the OPCW and the CWC and to engage youth in exploring opportunities for future careers in fields and sectors on the international level. This will involve outreach through video blogging and the development of communication materials targeting young audiences.
+
+4\. Universality facilitation for non-State Parties to join the CWC
+
+With few States not Party to the CWC, and in order to promote adherence to the CWC as a state's commitment to disarmament and international co-operation, the OPCW Technical Secretariat will focus on bilateral and outreach meetings with States not Party and sponsorship of participants from States not Party to the CWC to take part in OPCW events.
+
+5\. Support for NGO participation in OPCW activities
+
+The number of NGOs that have registered for and attended OPCW conferences has grown steadily and significantly since 2008, peaking with the 3rd Review Conference in April 2013 when 70 NGOs representing all regions were approved to attend. In addition, for the first time ever, NGOs actively participated in OPCW conferences by addressing delegates in special plenary sessions of the 3rd Review Conference and the 18th Conference of States Party. This proposal will provide basic travel and lodging support for NGO representatives from States with developing economies or economies in transition to attend each of the Conferences of State Parties in 2015, 2016, 2017 and 2018.
+
+6\. Support for development and promotion of ‘Fires’ video documentary series
+
+The Fires project has been developed by the Media and Public Affairs branch of the OPCW. They produced four episodes running in length from 5 to 20 min each, including the original episode A Teacher's Mission which was strongly endorsed by the SAB Temporary Working group on Education and Outreach of the OPCW as an effective teaching tool. The latest episode, Ich Liebe Dich, has generated even more enthusiasm among stakeholders for the project, with expressions of material support and collaboration in producing future episodes from several State Parties. The Union funding will ensure the production of at least three further episodes.
+
+**Project VI — Africa Programme**
+
+**Objective**
+
+To enhance the capacity of African State Parties in fulfilling their obligations under the CWC.
+
+**Purposes**
+
+Purpose 1 (National implementation):
+
+— Enhanced capacity of African State Parties for effective national implementation
+
+— Increased number of African State Parties able to conduct effective national implementation at quantitative and qualitative level
+
+— Enhanced understanding and awareness of National Authorities of African State Parties on CWC-related matters for good cooperation and support
+
+— Effective function of custom authorities in control and monitoring of the chemical trade
+
+— Strengthened inter-agency collaboration in support of effective national implementation of the CWC under the leadership of the National Authority.
+
+Purpose 2 (Peaceful use of chemistry):
+
+— Enhancing the capacity of publicly funded laboratories in African State Parties whose economies are developing or in transition to implement the CWC in the field of peaceful uses of chemistry
+
+— Enhancing chemical safety management approaches in chemical industry enterprises of small and medium size in African State Parties whose economies are developing or in transition.
+
+**Results**
+
+Results 1 (National implementation)
+
+— Relevant stakeholders have improved understanding and awareness on the CWC and have enhanced their role and involvement in national implementation efforts
+
+— Customs Officials from African State Parties have improved their understanding and ability for effective handling of the duties regarding import/export of scheduled chemicals and coordination with National Authorities
+
+— Relevant stakeholders have correct and up-to-date information for effective learning available
+
+— Potential stakeholder agencies/bodies in supporting the implementation of the CWC have agreed on a short-term agenda to establish synergies between themselves.
+
+Results 2 (Peaceful use of chemistry)
+
+— Publicly funded laboratories in African State Parties have enhanced level of technical competence to analyse chemicals related to national implementation of the CWC and in the peaceful application of chemistry using modern analytical methods especially GC and GC-MS
+
+— Personnel of small and medium enterprises, representatives of industry associations and the national authorities/governmental institutions of African State Parties have upgraded levels of competence and understanding regarding process safety management practices.
+
+**Activities**
+
+1\. Regional National Authority Stakeholders Forum
+
+National Authorities have specific and important roles and responsibilities for effective implementation. They have to develop and maintain very close and good cooperation with other concerned stakeholders at the State level. The cooperation is not always effective as there are still gaps and lack of good understanding among each other. The proposed Regional Stakeholder Forum aims at bringing together the key stakeholders and the National Authorities representatives to meet, know and understand each other better. It will also provide a good opportunity to share experiences and exchange views and concerns for effective cooperation. This is proposed as a pilot for the African region.
+
+2\. Regional Training Course for Customs Authorities of State Parties on Technical Aspects of the CWC's Transfers' Regime
+
+Support for customs officials has been provided under Joint Action 2005/913/CFSP, Joint Action 2007/185/CFSP, Decision 2009/569/CFSP and Decision 2012/166/CFSP. On the basis of experience gained, outreach to customs officials through training courses will be undertaken with a view to improving the collection and transmission of data on imports and exports of scheduled chemicals to national authorities. Training undertaken will offer practical hands-on demonstrations and exercises and will incorporate an element covering ‘train the trainers’. The training will be carried out by the Technical Secretariat's Implementation Support Branch with technical expertise from the Declarations Branch in the African region.
+
+3\. Provision of Academic/Informative Materials on CWC
+
+To promote understanding and awareness of CWC in an African State Party, informative materials will be prepared and provided to the library of universities' chemistry departments through the relevant National Authorities. In its first phase, the activity will aim at providing information, but the second phase will lead to the introduction of the CWC in the training/teaching curriculum of the universities. It is proposed to be a pilot in the African region.
+
+4\. Synergies and Partnership for effective implementation
+
+The activity aims at strengthening the CWC National Authorities' abilities to reach out to national stakeholders, and at promoting the engagement of the stakeholder agencies/bodies in supporting the implementation of the CWC. These are national industry associations, regional/subregional organisations, customs training institutions, laboratories and academic institutions. The activity will facilitate sharing of practices amongst States Parties from the Africa region and encourage State-to-State support. Participants from African States Parties will be sponsored to take part in a meeting of National Authorities at OPCW HQ in The Hague.
+
+5\. Analytical skills development courses
+
+These courses take place over two weeks, during which participants receive theoretical training and hands-on experience in GC and GC-MS. Topics covered include: hardware; system validation and optimisation; troubleshooting; preparation of environmental samples; and GC/GC-MS analyses of such samples for chemicals related to the CWC. Participants also receive intensive hands-on training in the preparation of different sample matrices to be analysed by GC with element-selective detectors and by GC-MS in electron impact and chemical-ionisation modes. Finally, participants are introduced to a range of extraction, clean-up, and derivatisation procedures. The courses are implemented with the support of Verifin, a renowned institution selected through a transparent tender process, with which OPCW has entered into a 5-year agreement, and with the support of the National Institute for Research-Physical and Chemical Analysis (INRAP) of Tunisia.
+
+6\. Industry Outreach — CWC and Chemical Process Safety Workshops
+
+These workshops are conducted over two-and-a-half days. They cover, inter alia, safety and security issues in the chemical industry; chemical management strategies; chemical-process safety management; industry best practices; and an introduction to Responsible Care®.
+
+An overview of the CWC and of international cooperation programmes is also presented at the opening session.

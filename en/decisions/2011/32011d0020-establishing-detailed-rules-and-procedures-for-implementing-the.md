@@ -1,0 +1,239 @@
+---
+title: "2011/789/EU: Decision of the European Central Bank of 16 November 2011 establishing detailed rules and procedures for implementing the eligibility criteria for central securities depositories to access TARGET2-Securities services (ECB/2011/20)"
+identifier: "32011D0020"
+eli: "http://data.europa.eu/eli/dec/2011/789/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2011-11-16
+entry_into_force: 2010-12-13
+last_amended: 2019-07-10
+consolidated_version: "02011D0020-20190710"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D0020-20190710"
+retrieved: 2026-10-11
+---
+
+# 2011/789/EU: Decision of the European Central Bank of 16 November 2011 establishing detailed rules and procedures for implementing the eligibility criteria for central securities depositories to access TARGET2-Securities services (ECB/2011/20)
+
+**DECISION OF THE EUROPEAN CENTRAL BANK**
+
+**of 16 November 2011**
+
+**establishing detailed rules and procedures for implementing the eligibility criteria for central securities depositories to access TARGET2-Securities services**
+
+**(ECB/2011/20)**
+
+**(2011/789/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2019/1006 OF THE EUROPEAN CENTRAL BANK of 7 June 2019 </td><td> L 163</td><td>103</td><td>20.6.2019</td></tr>
+</table>
+
+**DECISION OF THE EUROPEAN CENTRAL BANK**
+
+**of 16 November 2011**
+
+**establishing detailed rules and procedures for implementing the eligibility criteria for central securities depositories to access TARGET2-Securities services**
+
+**(ECB/2011/20)**
+
+**(2011/789/EU)**
+
+## Article 1 — Definitions
+
+For the purposes of this Decision:
+
+(1) ‘assessment report’ means written documentation containing: (a) a report drawn up by the relevant competent authorities assessing a CSD’s compliance with CSD access criterion 2; and (b) a CSD self-assessment of its compliance with CSD access criteria 1, 3, 4 and 5;
+
+(2) ‘central bank (CB)’ means the European Central Bank, the national central banks (NCBs) of the Member States whose currency is the euro, the NCBs of the Member States whose currency is not the euro (hereinafter ‘non-euro area NCBs’), any European Economic Area (EEA) central bank or relevant competent authority (hereinafter ‘EEA central bank’) and any central bank or relevant competent authority of a country outside the EEA (hereinafter ‘other central bank’), where the currency of such a non-euro area NCB, EEA or other central bank is considered eligible in accordance with Article 18 of Guideline ECB/2010/2;
+
+(3) ‘CSD access criterion 1’ means the criterion laid down in Article 15(1)(a) of Guideline ECB/2010/2, i.e. that CSDs are eligible for access to T2S services provided that they have been notified to the European Securities and Markets Authority pursuant to Article 10 of Directive 98/26/EC or, in the case of a CSD from a non-EEA country, they operate under a legal and regulatory framework that is equivalent to that in force in the Union;
+
+(4) ‘CSD access criterion 2’ means the criterion laid down in Article 15(1)(b) of Guideline ECB/2012/13 ( 1 ), i.e. that CSDs are eligible for access to T2S services provided that they have been positively assessed by the competent authorities against (i) Regulation (EU) No 909/2014 of the European Parliament and of the Council ( 2 ), for CSDs located in a European Economic Area (EEA) country, or (ii) the Principles for Financial Market Infrastructures of the Committee on Payment and Market Infrastructures and the International Organisation of Securities Commissions ( 3 ) or a legal framework implementing those principles, for CSDs located in a non-EEA country;
+
+(5) ‘CSD access criterion 3’ means the criterion laid down in Article 15(1)(c) of Guideline ECB/2010/2, i.e. that CSDs are eligible for access to T2S services provided that they make each security/International Securities Identification Number for which they are an issuer CSD, or technical issuer CSD, available to other CSDs in T2S upon request;
+
+(6) ‘CSD access criterion 4’ means the criterion laid down in Article 15(1)(d) of Guideline ECB/2010/2, i.e. that CSDs are eligible for access to T2S services provided that they commit to offer to other CSDs in T2S basic custody service on a non-discriminatory basis;
+
+(7) ‘CSD access criterion 5’ means the criterion laid down in Article 15(1)(e) of Guideline ECB/2010/2, i.e. that CSDs are eligible for access to T2S services provided that they commit towards other CSDs in T2S to carry out their central bank money settlement in T2S if the currency is available in T2S;
+
+(8) ‘relevant competent authorities’ means the CBs and the regulators with oversight and/or supervisory competence over a specific CSD and responsible for assessing CSDs against applicable recognised standards;
+
+(9) ‘directly connected party’ means a T2S Party with a technical facility allowing it to access T2S and use its securities settlement services without the need for a CSD to act as a technical interface;
+
+(10) ‘T2S Party’ means a legal entity or, in some markets, an individual, that has a contractual relationship with a CSD in T2S for the processing of its settlement-related activities in T2S, and does not necessarily hold a securities account with the CSD;
+
+(11) ‘Market Infrastructure Board’ or ‘MIB’ means the Eurosystem governance body established pursuant to Decision (EU) 2019/166 of the European Central Bank (ECB/2019/3) ( 4 );
+
+(12) ‘Advisory Group on Market Infrastructures for Securities and Collateral’ or ‘AMI SeCo’ has the same meaning as in point (25) of Article 2 of Guideline ECB/2012/13;
+
+(13) ‘Currency Participation Agreement (CPA)’ means an agreement to be entered into by the Eurosystem and a non-euro area NCB, or an authority responsible for a currency other than the euro, for the purpose of settling securities transaction in central bank money in currencies other than the euro.
+
+## Article 2 — Subject matter and scope
+
+1\. The five criteria determining the eligibility of CSDs to access T2S services laid down in Article 15 of Guideline ECB/2010/2 (hereinafter the ‘five CSD access criteria’) shall be implemented in accordance with the procedures laid down in Articles 3 to 5 of this Decision and the rules in the Annex.
+
+2\. This Decision shall not apply to directly connected parties having a legal relationship with the CSDs.
+
+## Article 3 — Application procedure
+
+1\. To apply for T2S services, a CSD shall submit: (a) an application to the Governing Council; and (b) at the time of its migration to T2S, a self-assessment report  .
+
+2\. The self-assessment report  shall provide evidence that the CSD complies with the five CSD access criteria at the time of its migration to T2S, and state the degree of implementation of each CSD access criterion according to the following categories: compliant, partly compliant and not applicable, and shall set out the CSD’s reasons, explanations and relevant evidence.
+
+3\. The MIB  shall submit a proposal to the Governing Council, based on the abovementioned documentation, on a CSD’s application to access T2S services. To prepare its proposal, the MIB  may request clarifications from or submit questions to the applying CSD.
+
+4\. Following submission of the proposal by the MIB  , the Governing Council shall make a decision on a CSD’s application and communicate it in writing to that CSD no later than 2 months following: (a) the date of receipt of the application; or (b) the date of receipt of the reply to any request for clarifications or submission of questions by the MIB  under paragraph 3. Where the Governing Council rejects an application, it shall give reasons for doing so.
+
+## Article 4 — Procedure for obtaining a derogation from CSD access criterion 5
+
+1\. A CSD may submit a request for a derogation from CSD access criterion 5 based on its specific operational or technical situation.
+
+2\. For a derogation request to be assessed, the CSD shall submit a request to the MIB  and provide evidence of the following:
+
+(a) the derogation is for a very limited amount of settlement volume as a proportion of the total average daily delivery-versus-payment instructions received over a month at the CSD, and the cost of settling these operations in T2S would be excessive for the CSD;
+
+(b) the CSD has set technical and operational safeguards ensuring that the derogation will remain within the threshold set out in point (a);
+
+(c) the CSD has made every effort to meet CSD access criterion 5.
+
+3\. Following receipt of such request for a derogation:
+
+(a) the MIB  shall submit the CSD’s request and its pre-assessment to the AMI SeCo  ;
+
+(b) the AMI SeCo  shall provide the MIB  with advice on the request without delay and in due time for it to be considered;
+
+(c) following receipt of advice from the AMI SeCo  , the MIB  shall prepare a final assessment and submit it, together with the entire set of documents, to the Governing Council;
+
+(d) the Governing Council shall issue a reasoned decision on the request for a derogation;
+
+(e) the MIB  shall inform the CSD and the AMI SeCo  in writing of the Governing Council’s reasoned decision.
+
+4\. A CSD designated by a CB that has signed a CPA and has opted for settlement of its monetary policy transactions in central bank money outside T2S, shall submit a request for a derogation in order to be able to settle such monetary policy transactions in central bank money outside T2S. In such case, a derogation shall be granted provided that: (a) the Eurosystem has received all relevant information on the technical functioning of such settlement; and (b) such settlement does not require changes to or negatively affect T2S functionality. The designating CB should be invited to provide its opinion on such request for a derogation.
+
+5\. A CSD with a derogation shall provide a monthly report to the MIB  proving that it continues to comply with the derogation, including the agreed threshold set out in paragraph 2(a). A CSD with a derogation pursuant to paragraph 4 shall provide a monthly report to the MIB  on the situation.
+
+6\. Where a CSD with a derogation consistently exceeds the agreed threshold set out in paragraph 2(a) within a 6-month period, the Governing Council shall withdraw the derogation due to non-compliance with CSD access criterion 5 and the MIB  shall notify the CSD accordingly.
+
+7\. Following the withdrawal of a derogation, a CSD may submit a new request for a derogation in accordance with the procedure laid down in this Article.
+
+8\. Where there is a crisis situation that could impact the financial stability of a country or the relevant CB’s task to safeguard the integrity of its currency and has led the CB of the country concerned to move to a contingency type settlement as part of its crisis management plan, a CSD designated by that CB shall submit a request to the MIB  for a temporary derogation from CSD access criterion 5, and may temporarily carry out settlement by other means. The Governing Council shall issue a reasoned decision on such request taking into account the relevant CB’s opinion on the situation warranting the temporary derogation from CSD access criterion 5. The relevant CB shall provide the MIB  with a report, at least on a monthly basis, on its evaluation of the situation.
+
+## Article 5 — Ongoing compliance with the five CSD access criteria
+
+1\. A CSD with access to T2S services shall comply, after it has migrated to T2S, with the five CSD access criteria on an ongoing basis and shall:
+
+(a) ensure, in particular, through a reliable self-assessment conducted each year and supported by relevant documentation that it continues to comply with CSD access criteria 1, 3, 4 and 5;
+
+(b) promptly provide the MIB with the most recent outcome of the assessment conducted by the relevant competent authority against Regulation (EU) No 909/2014, the Principles for Financial Market Infrastructures of the Committee on Payment and Market Infrastructures and the International Organisation of Securities Commissions (PFMI) or a legal framework implementing the PFMI. If the above outcome of the assessment is not available, the CSD shall submit a self-attestation based on the relevant documentation;
+
+(c) request a new assessment by the relevant competent authorities of its compliance with Regulation (EU) No 909/2014, the PFMI or a legal framework implementing the PFMI in the event of material changes to the CSD's system;
+
+(d) notify the MIB without undue delay where a relevant competent authority assessment or a self-assessment has established non-compliance with any of the five CSD access criteria;
+
+(e) following a request from the MIB, provide an assessment report demonstrating that the CSD still complies with the five CSD access criteria.
+
+2\. The MIB may carry out its own evaluation and monitor compliance with the five CSD access criteria or request information from a CSD. Where the MIB decides that a CSD does not comply with one of the five CSD access criteria, it shall initiate the procedure laid down in the contracts with the CSDs pursuant to Article 16 of Guideline ECB/2012/13.
+
+## Article 6 — Entry into force
+
+This Decision shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+## ANNEX
+
+**DETAILED IMPLEMENTATION RULES FOR THE FIVE CENTRAL SECURITIES DEPOSITARY ACCESS CRITERIA**
+
+For the purposes of this Annex:
+
+— ‘basic custody services’ means the holding and administration of securities and other financial instruments owned by a third party by an entity entrusted with such tasks. Such services include the safekeeping of securities, the distribution of interest and dividends on the securities in safekeeping and the processing of corporate actions on such securities,
+
+— ‘investor CSD’ means, in the context of central securities depositary (CSD) links, a CSD that opens an account in another CSD (the issuer CSD) to enable the cross-CSD settlement of securities transactions,
+
+— ‘issuer CSD’ means the CSD in which the securities have been issued and distributed on behalf of the issuer. The issuer CSD is responsible for processing corporate actions in the name of the issuer. The issuer CSD maintains accounts in its books in the name of investor CSDs for the transfer of securities to the investor CSDs,
+
+— ‘technical issuer CSD’ means an investor CSD that holds securities with an issuer CSD not participating in T2S and is considered an issuer CSD for the functioning of T2S with respect to such securities,
+
+— ‘investment fund shares’ means portions of ownership of an investment fund’s net assets that investors receive in return for their investments of capital.
+
+**I. Implementation details for CSD access criterion 1**
+
+In order to receive a positive assessment against this criterion:
+
+(a) for a CSD located in a European Economic Area (EEA) country, the CSD must be included on the list of designated systems maintained in accordance with Article 10 of Directive 98/26/EC; and
+
+(b) for a CSD located in a non-EEA country, a legal opinion, as updated from time to time when there are material changes that might have an impact on the legal opinion or when requested by the MIB  , from a firm approved by the MIB  must be submitted, confirming that the CSD operates under a legal and regulatory framework equivalent to the relevant one in force in the Union.
+
+**II. Implementation details for CSD access criterion 2**
+
+A CSD shall provide the following documentation in the context of its assessment against this criterion:
+
+(a) for a CSD located in an EEA country, the outcome of its assessment or proof of its authorisation (whichever is the most recent) by the relevant competent authorities against Regulation (EU) No 909/2014 of the European Parliament and of the Council ( 5 ); if no proof of compliance with that Regulation is available, the CSD shall submit a self-attestation consistent with the assessment and/or authorisation; or
+
+(b) for a CSD located in a non-EEA country, the outcome of its assessment or proof of its authorisation (whichever is the most recent) by the relevant competent authorities against the Principles for Financial Market Infrastructures of the Committee on Payment and Market Infrastructures and the International Organisation of Securities Commissions (PFMI) ( 6 ) or a legal framework implementing the PFMI, as applicable. If no proof of compliance with a legal framework implementing the PFMI is available, the CSD shall submit a self-attestation consistent with the assessment and/or authorisation.
+
+Where shortcomings have been identified by the relevant competent authorities as regards the CSD's compliance with Regulation (EU) No 909/2014, the PFMI or a legal framework implementing the PFMI, the respective CSD shall inform the MIB of the relevant details and provide explanations and evidence regarding those shortcomings. The CSD shall also provide the MIB with the conclusions of the relevant competent authorities, as contained in the assessment.
+
+Any shortcomings identified by the relevant competent authorities as regards the CSD's compliance with Regulation (EU) No 909/2014, the PFMI or a legal framework implementing the PFMI must not endanger, in the assessment of the Governing Council, the safe and efficient provision of T2S services.
+
+The above information will be processed in accordance with the relevant application procedures for access to T2S services and ongoing compliance with the five CSD access criteria.
+
+A CSD will fulfil this CSD access criterion where:
+
+(a) a CSD located in an EEA country has been authorised under Regulation (EU) No 909/2014 or positively assessed against Regulation (EU) No 909/2014 in the most recent assessment conducted by the relevant competent authorities; or
+
+(b) a CSD located in a non-EEA country has been positively assessed against the PFMI or a legal framework implementing the PFMI in the most recent assessment conducted by the relevant competent authorities.
+
+If the CSD is authorised under/assessed against a legal framework other than the PFMI or Regulation (EU) No 909/2014, the CSD must provide evidence satisfactory to the MIB and the Governing Council that it has been assessed against a legal framework of a level and nature comparable with that of the PFMI or Regulation (EU) No 909/2014.
+
+Where the relevant competent authorities' assessment contains confidential information, the CSD must provide a general summary or the assessment conclusion to show its level of compliance.
+
+**III. Implementation details for CSD access criterion 3**
+
+A CSD with access to T2S services is not required to hold all its accounts and balances in T2S for every security/ISIN it issues or for which it acts as technical issuer CSD. However, it must make a security/ISIN available at no additional cost, without delay, and with a contract that does not impose unreasonable conditions on requests by the users of the investor CSD in T2S. Some investment fund shares may not be automatically available to the investor CSD opening an account with the issuer CSD due to legal restrictions on cross-border distributions applicable to the investment fund share issuers.
+
+An issuer CSD is required to comply with the national regulatory framework, but may not pass on costs resulting from the application of this framework to other CSDs in T2S. This requirement ensures that the costs of complying with the national regulatory framework stay local and that there is reciprocity among CSDs in T2S. In addition, this requirement promotes a harmonised settlement processes in T2S to the extent possible.
+
+An issuer CSD is required to comply with the national regulatory framework, but it must support an investor CSD requesting access and it may not apply an additional settlement cost. Any delay caused by compliance with the national regulatory framework must apply equally to all parties.
+
+The investor CSD may request a security/ISIN that is not yet available in T2S from the respective issuer CSD or technical issuer CSD. Upon receiving such a request, the issuer CSD or technical issuer CSD enters all the security’s reference data in T2S and makes them accessible within the time-frame defined in the Manual of Operational Procedures to be provided by the Eurosystem to the CSDs and the CBs.
+
+Provided the investor CSD has signed the required contractual terms, the issuer CSD opens, without undue delay, at least one securities account for a specific security/ISIN for the investor CSD. Refusal by an issuer CSD to open a securities account and provide the investor CSD with access to the issuer CSD’s securities constitutes non-compliance with CSD access criterion 3.
+
+The investor CSD must report to the MIB  every case of non-compliance with CSD access criterion 3 by an issuer CSD. Depending on the nature and occurrence of non-compliance, the MIB  will determine if the issuer CSD shows a consistent failure to comply, in which case the procedure provided for in the contracts with the CSDs, pursuant to Article 16 of Guideline ECB/2010/2, will apply.
+
+**IV. Implementation details for CSD access criterion 4**
+
+This CSD access criterion conforms to the Access and Interoperability Guideline ( 7 ) which states that investor CSDs shall have access to issuer CSD services based on the same terms and conditions as provided to any other standard participant of the issuer CSD.
+
+In order for an investor CSD to provide settlement services for securities issued by an issuer CSD, the investor CSD must also provide its participants with basic custody services in relation to those securities. T2S offers core cash and securities settlement in central bank money, where the basic custody services are provided outside T2S.
+
+The issuer CSD must comply with the T2S Corporate Actions Subgroup Standards ( 8 ) and all relevant T2S standards or market practices.
+
+The investor CSD must be treated as any other issuer CSD client. An issuer CSD may not impose technical barriers or offer preferential conditions to investor CSDs to access basic custody services.
+
+**V. Implementation details for CSD access criterion 5**
+
+A level playing field must be maintained between direct and indirect holding markets in implementing CSD access criterion 5. A CSD from a direct holding market may in principle migrate to T2S either by integrating all its securities accounts into T2S or by using the layered model with technical participant accounts in T2S and the end-investor accounts remaining on the local CSD platform. CSD access criterion 5 is fully met where a direct holding market chooses to fully integrate and maintain all its securities accounts in T2S. However, where a direct holding market chooses to migrate to T2S with the layered model, the MIB’s  evaluation of the associated processes inside and outside T2S, taking into account the essence of CSD access criterion 5, must indicate whether the market needs to request a derogation from CSD access criterion 5.
+
+**VI. General Provision**
+
+Where a CSD with access to T2S services no longer complies with one of the five CSD access criteria, the MIB will initiate the procedure provided for in the contracts with the CSDs.
+
+( 1 ) Guideline ECB/2012/13 of 18 July 2012 on TARGET2-Securities (OJ L 215, 11.8.2012, p. 19).
+
+( 2 ) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+( 3 ) CPMI-IOSCO, Principles for Financial Market Infrastructures (April 2012).
+
+( 4 ) Decision (EU) 2019/166 of the European Central Bank of 25 January 2019 on the Market Infrastructure Board and repealing Decision ECB/2012/6 on the establishment of the TARGET2-Securities Board (ECB/2019/3) (OJ L 32, 4.2.2019, p. 14).
+
+( 5 ) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+( 6 ) CPMI-IOSCO, Principles for Financial Market Infrastructures (April 2012).
+
+( 7 ) The Access and Interoperability Guideline of 28 June 2007, defining the principles and conditions for access and interoperability in line with the Code of Conduct, available on the European Commission’s website at: http://ec.europa.eu
+
+( 8 ) Available on the European Central Bank’s website at: www.ecb.europa.eu

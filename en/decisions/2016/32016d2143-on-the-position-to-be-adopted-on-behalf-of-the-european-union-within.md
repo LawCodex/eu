@@ -1,0 +1,107 @@
+---
+title: "Council Decision (EU) 2016/2143 of 1 December 2016 on the position to be adopted on behalf of the European Union within the CARIFORUM-EU Trade and Development Committee of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, as regards the establishment of a Special Committee on Agriculture and Fisheries"
+identifier: "32016D2143"
+eli: "http://data.europa.eu/eli/dec/2016/2143/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2016-12-01
+entry_into_force: 2016-12-30
+last_amended: 2016-12-07
+consolidated_version: "02016D2143-20161207"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016D2143-20161207"
+retrieved: 2026-10-11
+---
+
+# Council Decision (EU) 2016/2143 of 1 December 2016 on the position to be adopted on behalf of the European Union within the CARIFORUM-EU Trade and Development Committee of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, as regards the establishment of a Special Committee on Agriculture and Fisheries
+
+**COUNCIL DECISION (EU) 2016/2143**
+
+**of 1 December 2016**
+
+**on the position to be adopted on behalf of the European Union within the CARIFORUM-EU Trade and Development Committee of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, as regards the establishment of a Special Committee on Agriculture and Fisheries**
+
+**COUNCIL DECISION (EU) 2016/2143**
+
+**of 1 December 2016**
+
+**on the position to be adopted on behalf of the European Union within the CARIFORUM-EU Trade and Development Committee of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, as regards the establishment of a Special Committee on Agriculture and Fisheries**
+
+### Article 1
+
+The position to be adopted on behalf of the Union within the CARIFORUM-EU Trade and Development Committee of the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, with regard to the establishment of a Special Committee on Agriculture and Fisheries shall be based on the draft Decision of the CARIFORUM-EU Trade and Development Committee attached to this Decision.
+
+Technical changes to the draft Decision may be agreed to by the representatives of the Union in the CARIFORUM-EU Trade and Development Committee without further decision of the Council.
+
+### Article 2
+
+This Decision shall enter into force on the date of its adoption.
+
+DRAFT
+
+## DECISION No…/2016 OF THE CARIFORUM–EU TRADE AND DEVELOPMENT COMMITTEE
+
+## of …
+
+## established by the Economic Partnership Agreement between the CARIFORUM States, of the one part, and the European Community and its Member States, of the other part, concerning the establishment of a Special Committee on Agriculture and Fisheries
+
+### Article 1
+
+1\. The CARIFORUM-EU Special Committee on Agriculture and Fisheries is hereby established to carry out the functions set out in Article 2.
+
+2\. The CARIFORUM-EU Special Committee on Agriculture and Fisheries shall also be a forum for the Parties to exchange experiences, information and best practices and to consult on all issues related to the objectives set out in Chapter 5 of Title I of Part II of the Agreement and relevant to trade between the Parties.
+
+### Article 2
+
+The Special Committee on Agriculture and Fisheries shall:
+
+(a) generally keep under review all aspects of Chapter 5 — Agriculture and Fisheries — of Title I of Part II, of the Agreement;
+
+(b) generally keep under review all other aspects of the Agreement that relate to agriculture and fisheries, including the following areas of Title I of Part II — Trade in goods:
+
+(i) Chapter 1 — All matters relating to trade in agricultural and fisheries goods, including tariffs;
+
+(ii) Chapter 3 — Article 28 — Agricultural export subsidies;
+
+(iii) Chapter 6 — Technical barriers to trade, as it relates to agricultural and fisheries goods; and
+
+(iv) Chapter 7 — Sanitary and phytosanitary measures, as it relates to agricultural and fisheries goods;
+
+(c) generally keep under review all aspects of Title IV, Chapter 2 — Innovation and Intellectual Property, as it relates to agriculture and fisheries goods, including Article 145 — Geographical indications and Article 149 — Plant varieties;
+
+(d) engage in dialogue on matters relating to agriculture and fisheries, including in the following areas:
+
+(i) agriculture production, consumption and trade and on the respective market developments for agricultural and fisheries products;
+
+(ii) the promotion of investment in and knowledge transfer to CARIFORUM agricultural, food and fisheries sectors, including small-scale activities;
+
+(iii) agriculture, rural development and fisheries policies, laws and regulations;
+
+(iv) the policy and institutional changes needed to underpin the transformation of the agricultural and fisheries sectors as well as the formulation and implementation of regional policies on agriculture, food, rural development and fisheries in pursuit of regional integration;
+
+(v) new technologies, research and innovation as well as policies and measures related to quality; and
+
+(vi) trade policy developments concerning commodities and traditional agricultural products, including bananas, rum, rice and sugar;
+
+(e) assist the CARIFORUM-EU Trade and Development Committee with regard to the following functions:
+
+(i) to supervise and be responsible for the implementation and proper application of the provisions of the Agreement relating to agriculture and fisheries and to discuss and recommend priorities for cooperation in this regard;
+
+(ii) to oversee the further elaboration of the provisions of the Agreement  relating to agriculture and fisheries and evaluate the application thereof;
+
+(iii) to undertake action to avoid disputes and to resolve disputes that may arise regarding the interpretation or application of provisions of the Agreement relating to agriculture and fisheries, in accordance with the provisions of Part III thereof;
+
+(iv) to discuss and undertake actions that may facilitate trade, investment and business opportunities in the agricultural and fisheries sectors between the Parties; and
+
+(v) to discuss any matters pertaining to the agriculture and fisheries provisions of the Agreement and any issue liable to affect the attainment of its objectives;
+
+(f) make recommendations to the CARIFORUM-EU Trade and Development Committee with a view to enhancing the implementation and operation of the agriculture and fisheries provisions of the Agreement.
+
+### Article 3
+
+The Special Committee on Agriculture and Fisheries shall be composed of representatives of the Commission, of the one part, and of representatives of the CARIFORUM Directorate and the Signatory CARIFORUM States, of the other part.
+
+### Article 4
+
+This Decision shall enter into force on …

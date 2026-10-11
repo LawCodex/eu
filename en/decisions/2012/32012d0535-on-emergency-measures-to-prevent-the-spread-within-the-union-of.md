@@ -1,0 +1,512 @@
+---
+title: "2012/535/EU: Commission Implementing Decision of 26 September 2012 on emergency measures to prevent the spread within the Union of Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (the pine wood nematode) (notified under document C(2012) 6543)"
+identifier: "32012D0535"
+eli: "http://data.europa.eu/eli/dec_impl/2012/535/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-09-26
+entry_into_force: 2012-04-06
+last_amended: 2018-04-23
+consolidated_version: "02012D0535-20180423"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012D0535-20180423"
+retrieved: 2026-10-11
+---
+
+# 2012/535/EU: Commission Implementing Decision of 26 September 2012 on emergency measures to prevent the spread within the Union of Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (the pine wood nematode) (notified under document C(2012) 6543)
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 26 September 2012**
+
+**on emergency measures to prevent the spread within the Union of Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (the pine wood nematode)**
+
+**(notified under document C(2012) 6543)**
+
+**(2012/535/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2015/226 of 11 February 2015 </td><td> L 37</td><td>21</td><td>13.2.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2017/427 of 8 March 2017 </td><td> L 64</td><td>109</td><td>10.3.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2018/618 of 19 April 2018 </td><td> L 102</td><td>17</td><td>23.4.2018</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION**
+
+**of 26 September 2012**
+
+**on emergency measures to prevent the spread within the Union of Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (the pine wood nematode)**
+
+**(notified under document C(2012) 6543)**
+
+**(2012/535/EU)**
+
+## Article 1 — Definitions
+
+For the purposes of this Decision, the following definitions shall apply:
+
+(a) ‘susceptible plants’ means plants (other than fruit and seeds) of Abies Mill., Cedrus Trew, Larix Mill., Picea A. Dietr., Pinus L., Pseudotsuga Carr. and Tsuga Carr.;
+
+(b) ‘susceptible wood’ means wood of conifers (Coniferales) which falls under one of the following points:
+
+(i) wood within the meaning of Article 2(2) of Directive 2000/29/EC;
+
+(ii) wood which has not retained its round surface;
+
+(iii) wood in the form of beehives and bird nesting boxes.
+
+Susceptible wood does not mean sawn wood and logs of Taxus L. and Thuja L., and wood which has undergone processing eliminating the risk of hosting PWN;
+
+(c) ‘susceptible bark’ means bark of conifers (Coniferales);
+
+(d) ‘place of production’ means any premises operated as a single production unit. This may include production sites which are separately managed for phytosanitary purposes;
+
+(e) ‘vector’ means beetles belonging to the genus Monochamus Megerle in Dejean, 1821;
+
+(f) ‘flight season of the vector’ means the period from 1 April to 31 October, except where there is technical-scientific justification for a different duration of the flight season of the vector, taking into account a safety margin of four additional weeks at the beginning and at the end of the expected flight season;
+
+(g) ‘wood packaging material’ means wood or wood products used in supporting, protecting or carrying a commodity, in the form of packing cases, boxes, crates, drums and similar packings, pallets, box pallets and other load boards, pallet collars and dunnage, whether or not actually in use in the transport of objects. Processed wood produced by glue, heat or pressure or a combination thereof and packaging material entirely composed of wood of 6 mm of thickness or less are excluded;
+
+(h) ‘plant affected by fire or storm’ means any susceptible plant which is damaged by fire or storm in a way which allows oviposition by the vector.
+
+## Article 2 — Surveys in areas in which PWN is not known to occur
+
+1\. Member States shall annually conduct surveys for Bursaphelenchus xylophilus (Steiner et Buhrer) Nickle et al. (the pine wood nematode), hereinafter ‘PWN’, on susceptible plants, susceptible wood and bark and on the vector, and determine whether there is any evidence of the presence of PWN in their territory in areas in which PWN was previously not known to occur.
+
+Those surveys shall consist of the collection and laboratory testing of samples of susceptible plants, susceptible wood and bark and vectors. The number of samples shall be determined in accordance with sound scientific and technical principles.
+
+2\. Member States shall communicate to the Commission a description of the surveys referred to in paragraph 1 setting out the number of survey sites, the areas to be surveyed and the number of samples to be subjected to laboratory testing each year. That description shall indicate the scientific and technical principles on which those surveys are based.
+
+That description shall be communicated to the Commission by 1 March of the year in which the surveys are to be conducted.
+
+3\. Each Member State shall communicate the results of the surveys referred to in paragraph 1 to the Commission and to the other Member States by 1 March of the year following the year in which the surveys were conducted.
+
+## Article 3 — Laboratory testing
+
+Laboratory testing for the presence of PWN in susceptible plants, susceptible wood and bark and vectors shall be carried out according to the diagnostic protocol for Bursaphelenchus xylophilus provided in EPPO Standard PM7/4(2) ( 1 ). The methods in that standard may be supplemented or replaced with scientifically validated molecular diagnostic methods shown to have at least a sensitivity and reliability equal to those in the EPPO standard.
+
+## Article 4 — Contingency plans
+
+1\. By 31 December 2013 each Member State shall establish a plan setting out the actions to be taken in its territory in accordance with Articles 5 to 16, in case of a confirmed presence or a suspicion of the presence of PWN, hereinafter ‘the contingency plan’.
+
+2\. The contingency plan shall set out the following:
+
+(a) a specific section providing a summary information on the assessment of the risk of PWN for the Member State concerned, including background information on the biology of PWN, expected symptoms and affected hosts, as well as detection methods, main pathways for entry and further spread, including recommendations of how the risk of entry, establishment and spread can be reduced;
+
+(b) the roles and responsibilities of the bodies involved in the execution of the plan in the event of an officially confirmed or suspected presence of PWN, as well as the chain of command and procedures for the coordination of actions to be taken by responsible official bodies, other public authorities, delegated bodies or natural persons involved, laboratories and operators;
+
+(c) the conditions of access of responsible official bodies to the premises of operators and other persons;
+
+(d) the conditions of access of responsible official bodies, where necessary, to laboratories, equipment, personnel, external expertise and resources necessary for the rapid and effective eradication or, where appropriate, containment of PWN;
+
+(e) the measures to be taken concerning the provision of information to the Commission, the other Member States, the operators concerned and the public as regards the presence of PWN and the measures taken against PWN in the event that its presence is officially confirmed or suspected;
+
+(f) the arrangements for recording findings of the presence of PWN;
+
+(g) the protocols describing the methods of visual examinations, sampling and laboratory testing;
+
+(h) the procedures, and persons responsible, for the coordination framework with neighbouring Member States and, where applicable, neighbouring third countries.
+
+The content of the contingency plan shall take into account the risk that the specified organism poses to the Member State concerned.
+
+3\. Member States shall provide for the evaluation and review of their contingency plans.
+
+4\. Member States shall communicate their contingency plans to the Commission at its request.
+
+## Article 5 — Demarcated areas
+
+1\. Where the results of an annual survey, as provided for in Article 2(1), show the presence of PWN in a susceptible plant in a part of the territory of a Member State in which it was previously not known to occur, or where there is evidence of such a presence by other means, that Member State shall without delay demarcate an area in accordance with paragraph 2, hereinafter ‘the demarcated area’.
+
+Where the presence of PWN is found in the vector or in a consignment of susceptible wood, susceptible bark or in wood packaging material, the Member State concerned shall conduct an investigation in the proximity of where the vector was caught or where the susceptible wood, the susceptible bark or the wood packaging material were at the time of the finding. Where the results of that investigation show the presence of PWN in a susceptible plant, subparagraph 1 shall also apply.
+
+2\. The demarcated area shall consist of a zone in which PWN was found to be present, hereinafter ‘the infested zone’, and of a zone surrounding the infested zone, hereinafter ‘the buffer zone’. The buffer zone shall be of a width of at least 20 km.
+
+Where eradication measures in accordance with Article 6 are applied, the Member State concerned may decide to reduce the width of the buffer zone to no less than 6 km provided that that reduction does not jeopardise eradication.
+
+3\. Where PWN is found to be present in a buffer zone, a new demarcated area shall, without delay, be established in accordance with paragraph 1 to take into account that finding.
+
+The existing demarcated area may, instead, be amended to take into account that finding where that area is subject to eradication measures in accordance with Article 6.
+
+Any evidence of presence of PWN in a buffer zone shall be notified immediately to the Commission and the other Member States.
+
+4\. Where PWN is found to be present in the territory of a Member State and the demarcated area would extend into the territory of one or more other Member States, the other Member State or Member States shall, in accordance with paragraph 1, establish a demarcated area or demarcated areas which complete the buffer zone by a buffer zone or buffer zones whose width correspond to the width of the buffer zone in the Member State of the finding.
+
+5\. Member States shall communicate the demarcated areas in their territory to the Commission and the other Member States within one month from the date on which PWN was found to be present in the area concerned.
+
+That communication shall include a description of the demarcated areas, their location and the names of the administrative entities concerned by the demarcation, accompanied by a map indicating the location of each demarcated area, infested zone and buffer zone.
+
+Member States shall communicate amendments to the demarcated areas in their territory to the Commission and the other Member States within one month of that amendment.
+
+6\. Where the annual surveys of the susceptible plants and the vector, as set out in point 6 of Annex I, show that no PWN has been found to be present in the demarcated area concerned for the preceding four years, the Member State concerned may decide that that area is no longer demarcated. A Member State in the situation referred to in point 5 of Annex I may decide that the area is no longer demarcated in case the absence of PWN is confirmed by the sampling and testing referred to in point 7 of that Annex.
+
+It shall inform the Commission and the other Member States about that decision within one month.
+
+7\. The Commission shall establish a list of the demarcated areas and communicate that list to the Member States.
+
+That list shall be updated according to the communications received by the Commission pursuant to paragraphs 5 and 6.
+
+## Article 6 — Eradication
+
+1\. Member States shall take measures, as set out in Annex I, to eradicate PWN present in demarcated areas in their territory.
+
+PWN shall be considered as eradicated where the annual surveys of the susceptible plants and the vector, as set out in point 6 of Annex I, show that in the demarcated area concerned no PWN has been found for the preceding four years, or in case the absence of PWN is confirmed by the sampling and testing referred to in the third subparagraph of point 7 of Annex I.
+
+2\. Member States shall ensure that the measures referred to in paragraph 1 are carried out by technically qualified personnel of the responsible official bodies or by any other technically qualified persons acting under the supervision of the responsible official bodies.
+
+## Article 7 — Containment
+
+1\. Where the annual surveys of the susceptible plants and the vector, as set out in point 6 of Annex I, show the presence of PWN in a demarcated area during a period of at least four consecutive years and the experience gathered shows that, in the situation concerned, it is impossible to eradicate PWN, the Member State concerned may instead decide to contain PWN within that area.
+
+The Member State concerned may, however, before the end of that period, decide to contain PWN, instead of eradicating it, in cases where the diameter of the infested zone exceeds 20 km, there is evidence of the presence of PWN throughout the infested zone and the experience gathered shows that, in the situation concerned, it is impossible to eradicate PWN in that area.
+
+Containment measures shall be taken, as set out in Annex II.
+
+2\. Where a Member State decides in accordance with paragraph 1 to apply containment measures instead of eradication measures, it shall inform the Commission of that decision setting out its reasons.
+
+Where the second subparagraph of paragraph 1 applies, the Commission shall carry out investigations in that Member State to verify whether the conditions provided for in that subparagraph are fulfilled.
+
+3\. Demarcated areas subject to containment measures in accordance with paragraph 1 shall be marked as such in the list referred to in Article 5(7). Member States may only apply containment measures in demarcated areas that have been marked in that list as subject to containment of PWN.
+
+4\. Member States shall ensure that the measures referred to in paragraph 1 are carried out by technically qualified personnel of the responsible official bodies or by any other technically qualified persons acting under the supervision of the responsible official bodies.
+
+## Article 8 — Information of the operators and the public
+
+Where eradication measures in accordance with Article 6 or containment measures in accordance with Article 7 are applied, the Member States concerned shall provide for measures for the information of the operators concerned and of the public.
+
+## Article 9 — Communication on national measures
+
+1\. Member States shall, within one month of the notification provided for in the first subparagraph of Article 16(1) of Directive 2000/29/EC of the appearance of PWN in a part of its territory in which its presence was previously unknown, communicate to the Commission and the other Member States the measures that they have taken and those that they have decided to take for the eradication of PWN in accordance with Article 6.
+
+2\. Where a Member State takes measures for the eradication of PWN in accordance with Article 6, the communication of the measures referred to in paragraph 1 shall include the measures concerning the felling, sampling, testing, removal and disposal of susceptible plants, as set out in points 2, 3, 4, 5, 7, 8 and 9 of Annex I, and the design and organisation of the surveys including the number of inspections, samples to be taken and laboratory tests to be carried out, as set out in point 6 of Annex I.
+
+Where a Member State takes measures for the containment of PWN in accordance with Article 7, the communication of the measures referred to in paragraph 1 shall include the measures concerning the felling, sampling, testing, removal and disposal of susceptible plants and the design and organisation of the surveys including the number of inspections, samples to be taken and laboratory tests to be carried out, as set out in points 2 and 3 of Annex II.
+
+That communication of the measures shall also include a description of the measures for the information of the operators concerned and the public pursuant to Article 8 and of the checks to be carried out pursuant to Article 11(1).
+
+3\. Member States shall communicate to the Commission and the other Member States by 30 April of each year a report on the results of the measures taken pursuant to Articles 6 and 7 between 1 April of the preceding year and 31 March of the year of the communication.
+
+That report shall include all of the following elements:
+
+(a) number and locations of findings of the presence of PWN, including maps, identified respectively for the infested zone and buffer zone;
+
+(b) number of dead plants, plants in poor health or affected by fire or storm that were identified, with specification of the number of plants which were completely destroyed by forest fires or storm;
+
+(c) number of dead plants, plants in poor health or affected by fire or storm that were sampled;
+
+(d) number of samples taken on dead plants, plants in poor health or affected by fire or storm and tested for the presence of PWN;
+
+(e) number of samples tested positive for PWN;
+
+(f) number of dead plants and plants in poor health or affected by fire or storm which have been eliminated, with specification of the number of plants which were identified before the start of the relevant period;
+
+(g) number and location of traps and monitoring period, as well as the number of vectors trapped, the species concerned, number of vectors analysed for the presence of PWN, number of samples analysed for the presence of PWN in the buffer and infested zones respectively, including the number of samples tested positive for PWN, if any.
+
+Member States shall collect the information referred to in points (b) and (f) during the following periods: 1 January to 31 March, 1 April to 31 October and 1 November to 31 December of the preceding year and 1 January to 31 March of the year of the communication.
+
+When communicating that information, Member States shall make reference to the collection period concerned.
+
+4\. Member States shall, by 1 March of each year following the notification referred to in paragraph 1, communicate to the Commission and the other Member States the measures that they have decided to take in that year for the eradication of PWN in accordance with Article 6.
+
+5\. Where a Member State decides to contain PWN in a demarcated area in accordance with Article 7(1), it shall immediately communicate to the Commission and the other Member States an accordingly revised version of the communication of the measures referred to in paragraph 1.
+
+That communication of the measures may cover a period of up to five years in the case of a demarcated area subject to containment measures in accordance with Article 7. Where the communication covers more than one year, the Member States concerned shall communicate to the Commission and the other Member States a revised version of that communication of the measures by 31 October of the year of its expiration.
+
+When significant changes to the containment measures are decided, that communication of the measures shall be revised and communicated to the Commission and the other Member States without delay.
+
+## Article 10 — Movement of susceptible plants and susceptible wood and bark within the Union
+
+1\. Susceptible plants and susceptible wood and bark shall only be moved from demarcated areas into areas other than demarcated areas and from infested zones into buffer zones if the conditions, as set out in Section 1 of Annex III, are fulfilled.
+
+2\. Susceptible plants and susceptible wood and bark shall only be moved within infested zones subject to eradication measures if the conditions, as set out in Section 2 of Annex III, are fulfilled.
+
+3\. Member States may restrict the movement of susceptible plants and susceptible wood and bark within infested zones subject to containment measures.
+
+## Article 11 — Checks concerning movements from demarcated areas to areas other than demarcated areas and from infested zones to buffer zones
+
+1\. Member States shall carry out frequent random checks on susceptible plants and susceptible wood and bark being moved from demarcated areas situated in their territory to areas other than demarcated areas and from infested zones situated in their territory to buffer zones.
+
+When deciding in a specific case where to carry out the checks, Member States shall base their decision on the risk that the plants or wood and bark to be checked carry live PWN, taking into account the provenance of the consignments, the degree of susceptibility of the plants and wood and bark concerned, and past compliance with this Decision and Decision 2006/133/EC by the operator responsible for the movement.
+
+Checks of the susceptible plants and the susceptible wood and bark shall be carried out in the following places:
+
+(a) at the points where they are moved from infested zones into buffer zones;
+
+(b) at the points where they are moved from buffer zones into non-demarcated areas;
+
+(c) at their place of destination in the buffer zone; and
+
+(d) at their place of origin in the infested zone, such as sawmills, from which they are moved out of the infested zone.
+
+Member States may decide to carry out checks additionally in other places than those referred to in points (a) to (d).
+
+Those checks shall include a documentary check as regards the requirements laid down in Section 1 of Annex III, an identity check and, in the case of non-compliance or a suspicion of non-compliance with those requirements, a plant health check which includes testing for the presence of PWN.
+
+2\. Member States shall carry out random checks on susceptible plants and susceptible wood and bark being moved from demarcated areas situated outside their territory into areas in their territory other than demarcated areas.
+
+These checks shall include a documentary check as regards the requirements laid down in Section 1 of Annex III, an identity check and a plant health check which includes testing for the presence of PWN.
+
+3\. Member States shall, by 30 April of each year, communicate to the other Member States and the Commission the time and results of the checks referred to in paragraphs 1 and 2 carried out during the preceding year.
+
+Where those checks show that PWN is present in susceptible plants or susceptible wood or bark, the Member State shall immediately notify the Commission and the other Member States of that finding.
+
+## Article 12 — Measures in case of non-compliance with Article 10
+
+Where the checks referred to in Article 11 show that Section 1 or 2 of Annex III is not complied with, the Member State which carried out those checks shall immediately subject the non-compliant material to one of the following measures:
+
+(a) destruction;
+
+(b) movement under official supervision to a treatment facility specifically authorised for this purpose, where it is subjected to a heat treatment to achieve a minimum temperature of 56 °C for at least 30 minutes throughout the susceptible wood and bark ensuring freedom from live PWNs and live vectors;
+
+(c) where the non-compliant material consists of wood packaging material actually in use in the transport of objects, and without prejudice to Annex III, return under official supervision to the place of dispatch, or a location nearby the location of the interception, for repackaging of those objects and destruction of that wood packaging material, while avoiding any risk of spreading of PWN.
+
+## Article 13 — Authorisation of treatment facilities
+
+1\. Member States in whose territory there is a demarcated area shall authorise treatment facilities adequately equipped to carry out one or more of the following tasks, as set out in Annex III:
+
+(a) treatment of susceptible wood and bark, as set out in point 2(a) of Section 1 of that Annex and point (c) of the first subparagraph of point 2 of Section 2 of that Annex;
+
+(b) issuing of plant passports referred to in Commission Directive 92/105/EEC ( 2 ) for susceptible wood and bark treated by the treatment facility concerned in accordance with point (a) of this paragraph, as set out in point 2(b) of Section 1 of Annex III and point (b) of the second subparagraph of point 2 of Section 2 of that Annex;
+
+(c) treatment of wood packaging material, as set out in point 3(a) of Section 1 of that Annex and point 3 of Section 2 of that Annex; and
+
+(d) marking in accordance with Annex II to the FAO International Standard for Phytosanitary Measures No 15, as set out in points 2(b) and 3(b) of Section 1 of Annex III and point 3 of Section 2 of that Annex, of beehives, bird nesting boxes and wood packaging material treated by the treatment facility concerned in accordance with, respectively, points (a) and (c).
+
+Those facilities are referred to hereinafter as ‘authorised treatment facilities’.
+
+2\. Authorised treatment facilities shall ensure the traceability of the treated susceptible wood, bark and wood packaging material.
+
+## Article 14 — Marking authorisation
+
+1\. Member States in whose territory there is a demarcated area shall authorise producers of wood packaging material, beehives and bird nesting boxes adequately equipped to mark, in accordance with Annex II to the FAO International Standard for Phytosanitary Measures No 15, the wood packaging material, beehives and bird nesting boxes they assemble from wood treated by an authorised treatment facility and accompanied by the plant passport referred to in Directive 92/105/EEC.
+
+Those producers are referred to hereinafter as ‘authorised wood packaging material producers’.
+
+2\. Authorised wood packaging material producers shall exclusively use wood from treatment facilities specifically authorised for this purpose and accompanied by the plant passport referred to in Directive 92/105/EEC for the production of wood packaging material and shall ensure that the wood used for that purpose can be traced back to those treatment facilities.
+
+## Article 15 — Supervision of authorised treatment facilities and authorised wood packaging material producers
+
+Member States shall supervise the authorised treatment facilities and the authorised wood packaging material producers to ensure that they correctly perform their tasks, as set out in their authorisation.
+
+Member States shall ensure that that supervision is carried out by technically qualified personnel of the responsible official bodies or by any other technically qualified persons acting under the supervision of the responsible official bodies.
+
+## Article 16 — Withdrawal of authorisations of authorised treatment facilities and authorised wood packaging material producers
+
+1\. Where the Member State which granted the authorisation becomes aware of the presence of PWN in susceptible wood, bark or wood packaging material treated by an authorised treatment facility, it shall immediately withdraw that authorisation.
+
+Where the Member State which granted the authorisation becomes aware of the presence of PWN in susceptible wood packaging material marked by an authorised wood packaging material producer, it shall immediately withdraw that authorisation.
+
+2\. Without prejudice to paragraph 1, where the Member State which granted the authorisation becomes aware of the fact that an authorised treatment facility or an authorised wood packaging material producer does not correctly perform its tasks, as set out in its authorisation, it shall take the necessary measures to ensure that Articles 13 and 14 are complied with.
+
+## Article 17 — List of authorised treatment facilities and authorised wood packaging material producers
+
+1\. Member States shall inform the Commission when they authorise a treatment facility in accordance with Article 13 or a wood packaging material producer in accordance with Article 14 and when they withdraw such an authorisation.
+
+2\. The Commission shall establish a list of the authorised treatment facilities and authorised wood packaging material producers and shall transmit that list to the Member States. Part A of that list shall set out the authorised treatment facilities. Part B of that list shall set out the authorised wood packaging material producers. That list shall be updated on the basis of the information received from the Member States.
+
+## Article 18 — Repeal
+
+Decision 2006/133/EC is repealed.
+
+## Article 19 — Review
+
+This Decision shall be reviewed by 31 July 2015 at the latest.
+
+## Article 20 — Date of application
+
+The second sentence of point 2(a) of Section 1 of Annex III and the second sentence of point 2(c) of Section 2 of that Annex shall apply from 1 January 2013.
+
+## Article 21 — Addressees
+
+This Decision is addressed to the Member States.
+
+## ANNEX I
+
+**Eradication measures provided for in Article 6**
+
+1\. Member States shall in accordance with Article 6 take measures in the demarcated areas to eradicate PWN, as set out in points 2 to 10.
+
+Member States shall include a detailed description of those measures in the communication provided for in Article 9(1).
+
+2\. When establishing a demarcated area, the Member State concerned shall immediately, in that area, create a zone with a minimum radius of 500 m around each susceptible plant in which PWN has been found to be present, hereinafter ‘the clear-cut zone’. The actual radius of that zone shall be determined, for each susceptible plant in which PWN has been found to be present, based on the risk of transmission of PWN by the vector further than 500 m away from that susceptible plant.
+
+In the clear-cut zone all susceptible plants shall be felled, removed and disposed of. The felling and destruction of those plants shall be carried out from the outside of the zone towards the centre. All necessary precautions shall be taken to avoid spreading PWN and its vector during felling.
+
+All plants which are dead or in poor health, and a number of healthy-looking plants selected based on the risk of spreading the PWN in the particular case, shall be sampled after felling. Sampling shall take place in several parts of each plant, including the crown, and in particular in those parts where signs of activity of insect vectors are visible. Samples shall also be taken from cut stems, cutting residues, and naturally occurring debris showing signs of activity of insect vectors, and located in parts of the demarcated areas where wilt symptoms of the susceptible plants are not expected to occur or are expected to occur at a later stage. Those samples shall be tested for the presence of PWN.
+
+3\. Where a Member State concludes that creation of a 500 m-radius clear-cut zone, as referred to in point 2, has unacceptable social or environmental impacts, the minimum radius of the clear-cut zone may be reduced to 100 m around each susceptible plant in which PWN has been found to be present.
+
+In exceptional cases of certain individual plants located within that clear-cut zone, where the Member State concludes that the felling of those plants is inappropriate, an alternative eradication measure may be applied to those plants only, offering the same level of protection against the spread of PWN. The reason for that conclusion and the description of that measure shall be notified to the Commission in the communication referred to in Article 9(1).
+
+4\. Where point 3 applies, each susceptible plant exempted from felling and located between 100 and 500 m from the susceptible plants in which PWN has been found to be present, shall be inspected before, during and after the flight season of the vectors, for signs or symptoms of the presence of PWN.
+
+In case those signs or symptoms are present, the plant shall be sampled and tested for the presence of PWN. The sampling of those susceptible plants shall be carried out in several parts of the plant including the crown. The Member State concerned shall, within the flight season, perform intensive surveys of the vectors by sampling and testing those vectors for the presence of PWN.
+
+Those measures shall apply until completion of eradication as provided for in Article 6(1) or until containment measures as provided for in Article 7(1) have been approved.
+
+5\. Where a Member State has evidence that the vector has not been present in the area concerned for the last 3 years, based on surveys carried out for the presence of the vector in accordance with FAO International Standard for Phytosanitary Measures No 4 ( 3 ) and taking into account the dispersal capacity of the vectors, the minimum radius of the clear-cut zone shall be 100 m around each susceptible plant in which PWN has been found to be present.
+
+That evidence shall be included in the communication provided for in Article 9(1).
+
+6\. Member States shall perform, during and outside the flight season of the vector, surveys of the susceptible plants in the demarcated areas by inspecting, sampling and testing those plants and the vector for the presence of PWN. They shall also perform surveys of the vector of PWN during its flight season. Those surveys shall give particular attention to susceptible plants which are dead, in poor health or affected by fire or storm. The sampling of those susceptible plants shall be carried out in several parts of each plant including the crown. Those surveys shall also be performed on cut stems, cutting residues, naturally occurring debris showing signs of activity of insect vectors and located in parts of the demarcated areas where wilt symptoms of the susceptible plants are not expected to occur or are expected to be delayed. The intensity of the surveys within a radius of 3 000 m around each susceptible plant in which PWN has been found shall be at least four times higher than from 3 000 m thereof to the outer limit of the buffer zone.
+
+7\. Member States shall, throughout the demarcated area, identify and fell all susceptible plants in which PWN has been found to be present, and those which are dead, in poor health or affected by fire or storm. They shall remove and dispose of plants felled and logging remains, taking all necessary precautions to avoid spreading of PWN and its vector until the end of felling. They shall respect the following conditions:
+
+(a) susceptible plants identified outside the flight season of the vector shall, before the next flight season, be felled and either destroyed on site or removed and their wood and bark treated, as set out in point 2(a) of Section 1 of Annex III, or processed, as set out in point 2(b) of Section 2 of Annex III;
+
+(b) susceptible plants identified during the flight season of the vector shall, immediately, be felled and either destroyed on site or removed and their wood and bark treated, as set out in point 2(a) of Section 1 of Annex III, or processed, as set out in point 2(b) of Section 2 of Annex III.
+
+Felled susceptible plants in which PWN has not already been found to be present shall be sampled and tested for the presence of PWN, according to a sampling scheme able to confirm with 99 % reliability that the level of presence of PWN in those susceptible plants is below 0,1 %.
+
+Where point 5 applies, Member States may, however, decide to sample and test for the presence of PWN the susceptible plants referred to in the first subparagraph without felling them, according to a sampling scheme able to confirm with 99 % reliability that the level of presence of PWN in those susceptible plants is below 0,1 %. The first sentence shall not apply to susceptible plants in which PWN has been found to be present.
+
+8\. As regards susceptible wood identified in the demarcated area during the flight season of the vector, as referred to in point 7(b), Member States shall strip logs of felled susceptible plants of their bark, or treat those logs with an insecticide known to be effective against the vector or cover those logs with an insect net drenched with such an insecticide immediately after felling. After stripping, treating or covering, the susceptible wood shall, under official supervision, immediately be moved to a storage place or to an authorised treatment facility. Wood, which was not stripped of its bark, shall, immediately, at its storage place or at the authorised treatment facility, once more, be treated with an insecticide known to be effective against the vector or covered with an insect net drenched in such an insecticide.
+
+Where the Member State concludes that stripping of the bark, treatment with an insecticide known to be effective against the vector and coverage with an insect net drenched in such an insecticide is inappropriate, the wood, which was not stripped of its bark, shall be immediately destroyed on site.
+
+Wood waste produced at the time of felling of susceptible plants which is left on site and wood not stripped of the bark which is destroyed on site shall be chipped into pieces less than 3 cm thick and less than 3 cm wide.
+
+8a. By way of derogation from point 7(b), where a Member State concludes that felling and removal of susceptible plants affected by fire or storm, during the flight season of the vector, is inappropriate, the Member State concerned may decide to proceed with the felling and removal of those plants before the start of the next flight season.
+
+Without prejudice to point 6, the Member State concerned shall, within the flight season, perform intensive surveys in the area affected by fire or storm by sampling and testing those vectors for the presence of PWN and, if confirmed, perform surveys of the susceptible plants located in the surrounding area, by inspecting, sampling and testing those plants which show signs or symptoms of the presence of PWN or its vectors.
+
+9\. Member States shall remove and dispose of all susceptible plants grown in places of production of plants for planting where PWN has been detected since the beginning of the last complete growing cycle, taking all necessary precautions to avoid spreading of PWN and its vector during those activities.
+
+9a. Member States shall, throughout the buffer zone, identify felled susceptible plants not covered by points 7, 8 and 9. They shall remove those plants and their logging remains, taking all necessary precautions to avoid that they act as attractants of PWN and its vector.
+
+10\. Member States shall provide for a hygiene protocol for all vehicles transporting forest products and machinery for processing forest products, to ensure that PWN cannot be spread with those vehicles and machinery.
+
+## ANNEX II
+
+**Containment measures provided for in Article 7**
+
+1\. Member States shall in accordance with Article 7 take measures in the demarcated areas, which shall have a buffer zone having a width of at least 20 km, to contain PWN, as set out in points 2 and 3.
+
+Member States shall include a detailed description of those measures in the communication provided for in Article 9(1).
+
+2\. Member States shall perform annual surveys of the susceptible plants and the vector in the infested zones by inspecting, sampling and testing those plants and the vector for the presence of PWN. Those surveys shall give particular attention to susceptible plants which are dead, in poor health or affected by fire or storm. They shall be focused on parts of the infested zone which are adjacent to the buffer zones, with the aim to preserve those zones. Member States shall fell all susceptible plants in which PWN is found to be present and remove and dispose of those plants and their logging remains, taking all necessary precautions to avoid spreading of PWN and its vectors.
+
+3\. Member States shall take the following measures in the buffer zones:
+
+(a) Member States shall perform, outside and during the flight season of the vector, surveys of the susceptible plants in the buffer zones by inspecting, sampling and testing those plants and the vector for the presence of PWN. They shall also perform surveys of the vector of PWN during its flight season. Those surveys shall give particular attention to susceptible plants which are dead, in poor health or affected by fire or storm, and to vectors which are situated in areas where PWN is likely to be present or where delayed expression of symptoms can be expected. The sampling of susceptible plants shall be carried out in several parts of each plant including the crown. Those surveys shall also be performed on cut stems, cutting residues, naturally occurring debris showing signs of activity of insect vectors and located in parts of the demarcated areas where wilt symptoms of the susceptible plants are not expected to occur.
+
+(b) Member States shall, throughout the buffer zones concerned, identify and fell all susceptible plants which are dead, in poor health or affected by fire or storm. They shall remove and dispose of plants felled and logging remains, taking all necessary precautions to avoid spreading of PWN and its vector before, during felling and until disposal of plants felled and logging remains, under the following conditions.
+
+(i) Susceptible plants identified outside the flight season of the vector shall, before the next flight season, be felled and destroyed on site, moved under official control into the infested zone or removed. In the last case the wood and bark of those plants shall either be treated, as set out in point 2(a) of Section 1 of Annex III, or processed, as set out in point 2(b) of Section 2 of Annex III.
+
+(ii) Susceptible plants identified during the flight season of the vector shall, immediately, be felled and destroyed on site, moved under official control into the infested zone or removed. In the last case the wood and bark of those plants shall either be treated, as set out in point 2(a) of Section 1 of Annex III, or processed, as set out in point 2(b) of Section 2 of Annex III.
+
+Where a Member State concludes that the felling, removal and disposal of susceptible plants identified during the flight season and affected by fire or storm is inappropriate, the Member State concerned may decide to proceed with the felling, removal and disposal of those plants before the start of the next flight season. During such felling and removal, the susceptible plants concerned shall be either destroyed on site or removed and their wood and bark treated, in accordance with point 2(a) of Section 1 of Annex III, or processed, in accordance with point 2(b) of Section 2 of Annex III. Where this derogation applies, and without prejudice to point (a), the Member State concerned shall, within the flight season, perform intensive surveys in the area affected by fire or storm by sampling and testing those vectors for the presence of PWN and, if confirmed, perform intensified surveys of the susceptible plants located in the surrounding area, by inspecting, sampling and testing those plants which show signs or symptoms of the presence of PWN.
+
+By way of derogation from points (i) and (ii), Portugal may decide to proceed with the felling, removal and disposal of the susceptible plants, which are officially designated by the responsible official body as being affected by fire in 2017, within a longer period, and at the latest by 31 March 2020. For the purpose of that felling, removal and disposal within that period, priority shall be given to the susceptible plants located in the following areas:
+
+— areas adjacent to the infested zone;
+
+— areas where there are signs of activity of insect vectors;
+
+— areas with an increased rate of declining trees indicating possible presence of PWN;
+
+— any other areas presenting the highest risk of PWN infestation.
+
+Those susceptible plants shall be felled and destroyed on site, moved under official control into the infested zone or removed. In that case, the wood and bark of those plants shall be either treated as set out in point 2(a) of Section 1 of Annex III, or processed as set out in point 2(b) of Section 2 of Annex III. The susceptible plants which cannot be used by the insect vector for the completion of its life cycle may be retained on the site without being destroyed.
+
+Portugal shall submit, by 31 May 2018, an annual action plan to the Commission and the Member States containing the maps indicating the location of the fire affected plants in the buffer zone, the location of the areas referred to in the second subparagraph and the justification for that selection, the measures to be implemented to mitigate the risk of PWN infestation while waiting for the felling, removal and disposal of those plants, including intensified survey activities of susceptible plants and the vectors for the early detection of the presence of PWN, the resources needed and the relevant deadlines to complete those measures. Portugal shall submit, by 31 May 2019, one more annual action plan with the same content.
+
+The level of risk posed by those plants shall be assessed on an annual basis and the action plan shall be updated as appropriate. The activities foreseen within that action plan shall be taken into account when preparing the general action plan referred to in Article 9.
+
+Portugal shall submit to the Commission and the Member States a report on the annual results, including the outcome of the intensified surveys on vectors, and any update of that action plan by 30 April of the year following the year concerned.
+
+Felled susceptible plants, other than plants completely destroyed by forest fires, shall be sampled and tested for the presence of PWN, according to a sampling scheme able to confirm with 99 % reliability that the level of presence of PWN in those susceptible plants is below 0,02 %.
+
+(c) As regards susceptible wood identified in the buffer zone during the flight season of the vector, as referred to in point (b), Member States shall strip logs of felled susceptible plants of their bark, or treat those logs with an insecticide known to be effective against the vector or cover those logs with an insect net drenched in such an insecticide immediately after felling.
+
+After stripping, treating or covering, the susceptible wood shall, under official supervision, immediately be moved to a storage place or to an authorised treatment facility. Wood, which was not stripped of its bark, shall, immediately, at its storage place or at the authorised treatment facility, once more, be treated with an insecticide known to be effective against the vector or covered with an insect net drenched in such an insecticide.
+
+Wood waste produced at the time of felling of susceptible plants which is left on site shall be chipped into pieces of less than 3 cm thickness and width.
+
+By way of derogation from the first subparagraph, where the Member State concludes that stripping of the bark, treatment with an insecticide known to be effective against the vector and coverage with an insect net drenched in such an insecticide are inappropriate, the wood, which was not stripped of its bark, shall be immediately destroyed on site. Where this derogation applies, wood waste produced at the time of felling of susceptible plants which is left on site and wood not stripped of its bark which is destroyed on site, shall be chipped into pieces less than 3 cm thick and less than 3 cm wide.
+
+3a. Member States shall, throughout the buffer zones, also identify felled susceptible plants other than those referred to in point 3(b). They shall remove those plants and their logging remains, taking all necessary precautions to avoid that they act as attractants of PWN and its vector.
+
+4\. Member States shall provide for a hygiene protocol for all vehicles transporting forest products and machinery for processing forest products, to ensure that PWN cannot be spread with those vehicles and machinery.
+
+## ANNEX III
+
+**Conditions for movement of susceptible plants and susceptible wood and bark within the Union, as provided for in Article 10**
+
+**SECTION 1**
+
+**Conditions for movement of susceptible plants and susceptible wood and bark from demarcated areas into areas other than demarcated areas and from infested zones into buffer zones**
+
+1\. Susceptible plants may be moved provided that those plants fulfil the following conditions:
+
+(a) they have been grown in places of production where no PWN or its symptoms have been observed since the beginning of the last complete growing cycle;
+
+(b) they have been grown throughout their life under complete physical protection ensuring that the vector cannot reach the plants;
+
+(c) they have been officially inspected, tested, and found free from PWN and the vector;
+
+(d) they are accompanied by a plant passport prepared and issued in accordance with Directive 92/105/EEC for destinations within the Union;
+
+(e) they are transported outside the flight season of the vector or in closed containers or packaging ensuring that infestation with PWN or the vector cannot occur.
+
+2\. Susceptible wood and bark, with exception of wood packaging material, may be moved provided that that wood or bark fulfils the following conditions:
+
+(a) It has undergone an appropriate heat treatment in an authorised treatment facility to achieve a minimum temperature of 56 °C for at least 30 minutes throughout that wood and bark ensuring freedom from live PWNs and live vectors. In the case of a composting heat treatment, the composting shall be carried out in accordance with a treatment specification approved in accordance with the procedure referred to in Article 18(2) of Directive 2000/29/EC.
+
+(b) It is accompanied by the plant passport referred to in Directive 92/105/EEC and issued by an authorised treatment facility; as regards susceptible wood in the form of beehives and bird nesting boxes, it is accompanied by that plant passport or it is marked in accordance with Annex II to the FAO International Standard for Phytosanitary Measures No 15.
+
+(c) If it is not free from bark, it is moved either outside the flight season of the vector or with a protective covering ensuring that infestation with PWN or the vector cannot occur.
+
+3\. Susceptible wood in the form of wood packaging material may be moved provided that that wood packaging material fulfils the following conditions:
+
+(a) it has been subjected in an authorised treatment facility to one of the approved treatments, specified in Annex I to the FAO International Standard for Phytosanitary Measures No 15 on Regulation of wood packaging material in international trade ( 4 ), ensuring freedom from live PWNs and live vectors;
+
+(b) it is marked in accordance with Annex II to that International Standard.
+
+4\. By way of derogation from points 2 and 3, susceptible wood may be moved out of the demarcated area, or out of the infested zone into the buffer zone, to the authorised treatment facility located at the shortest distance from that demarcated area or infested zone for immediate treatment where no appropriate treatment facility is located inside that area or zone.
+
+The derogation shall apply only if the following conditions are fulfilled:
+
+(a) the management, treatment, storage and transport of felled susceptible plants in accordance with points 8 and 10 of Annex I, and point 3(c) and point 4 of Annex II, ensure that the vector cannot be present on or escape from that wood;
+
+(b) the movements take place outside the flight season of the vector or with a protective covering ensuring that infestation of other plants, wood or bark with PWN or the vector cannot occur;
+
+(c) the movements are subject to regular on-site control by the competent authorities.
+
+5\. By way of derogation from points 2 and 3, susceptible wood and bark chipped into pieces of less than 3 cm thickness and width may be moved out of the demarcated area to the authorised treatment facility located at the shortest distance from that area, or out of the infested zone into the buffer zone, to be used as fuel, provided that points (b) and (c) of the second subparagraph of point 4 are fulfilled.
+
+**SECTION 2**
+
+**Conditions for movement of susceptible plants and susceptible wood and bark within infested zones subject to eradication measures**
+
+1\. Susceptible plants for planting may be moved provided that those plants fulfil the same conditions as set out in point 1 of Section 1.
+
+2\. Susceptible wood and bark may be moved in order for that wood or bark to be subjected to one of the following treatments:
+
+(a) It is to be destroyed by burning in a nearby location within the demarcated area designated for this purpose.
+
+(b) It is to be used in a processing facility as fuel or for other destructive purposes ensuring freedom from live PWNs and live vectors.
+
+(c) It is to undergo an appropriate heat treatment in an authorised treatment facility to achieve a minimum temperature of 56 °C for at least 30 minutes throughout that wood and bark ensuring freedom from live PWNs and live vectors. In the case of a composting heat treatment, the composting shall be carried out in accordance with a treatment specification approved in accordance with the procedure referred to in Article 18(2) of Directive 2000/29/EC.
+
+The following conditions shall apply to those movements:
+
+(a) the wood or bark is to be moved under official supervision and outside the flight season of the vector or with a protective covering ensuring that infestation of other plants, wood or bark with PWN or the vector cannot occur; or
+
+(b) wood or bark having undergone the treatment referred to in point (c) of the first paragraph may be moved, provided that it is accompanied by a plant passport issued by an authorised treatment facility.
+
+This point shall neither apply to wood packaging material nor to susceptible wood obtained from plants individually tested and found free from PWN.
+
+3\. Susceptible wood in the form of wood packaging material may be moved if it fulfils the conditions set out in point 3 of Section 1.
+
+( 1 ) EPPO Bulletin 39(3):344-353.
+
+( 2 ) OJ L 4, 8.1.1993, p. 22.
+
+( 3 ) Secretariat of the International Plant Protection Convention (1995), International Standard for Phytosanitary Measures 4: Requirements for the establishment of pest-free areas.
+
+( 4 ) Secretariat of the International Plant Protection Convention (2009), International Standard for Phytosanitary Measures 15: Regulation of wood packaging material in international trade.

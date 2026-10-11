@@ -1,0 +1,1067 @@
+---
+title: "Decision No 1313/2013/EU of the European Parliament and of the Council of 17 December 2013 on a Union Civil Protection Mechanism Text with EEA relevance"
+identifier: "32013D1313"
+eli: "http://data.europa.eu/eli/dec/2013/1313/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2013-12-17
+entry_into_force: 2013-11-11
+last_amended: 2023-12-18
+consolidated_version: "02013D1313-20231218"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013D1313-20231218"
+retrieved: 2026-10-11
+---
+
+# Decision No 1313/2013/EU of the European Parliament and of the Council of 17 December 2013 on a Union Civil Protection Mechanism Text with EEA relevance
+
+**DECISION No 1313/2013/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 December 2013**
+
+**on a Union Civil Protection Mechanism**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EU) 2018/1475 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 2 October 2018 </td><td> L 250</td><td>1</td><td>4.10.2018</td></tr>
+<tr><td></td><td> DECISION (EU) 2019/420 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2019 </td><td> L 77I</td><td>1</td><td>20.3.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/836 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2021 </td><td> L 185</td><td>1</td><td>26.5.2021</td></tr>
+<tr><td></td><td> DECISION (EU) 2023/2671 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L </td><td>1</td><td>28.11.2023</td></tr>
+</table>
+
+**DECISION No 1313/2013/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 December 2013**
+
+**on a Union Civil Protection Mechanism**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL AND SPECIFIC OBJECTIVES, SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — General objective and subject matter
+
+1\. The Union Civil Protection Mechanism ("the Union Mechanism") shall aim to strengthen the cooperation between the Union and the Member States and to facilitate coordination in the field of civil protection in order to improve the effectiveness of systems for preventing, preparing for and responding to natural and man-made disasters.
+
+2\. The protection to be ensured by the Union Mechanism shall cover primarily people, but also the environment and property, including cultural heritage, against all kinds of natural and man-made disasters, including the consequences of acts of terrorism, technological, radiological or environmental disasters, marine pollution, hydrogeological instability and acute health emergencies, occurring inside or outside the Union. In the case of the consequences of acts of terrorism or radiological disasters, the Union Mechanism may cover only preparedness and response actions.
+
+3\. The Union Mechanism shall promote solidarity between the Member States through practical cooperation and coordination, without prejudice to the Member States’ primary responsibility to protect people, the environment and property, including cultural heritage, on their territory against disasters and to provide their disaster-management systems with sufficient capabilities to enable them to prevent, and cope adequately and in a consistent manner with, disasters of a nature and magnitude that can reasonably be expected and prepared for.
+
+4\. This Decision lays down the general rules for the Union Mechanism and the rules for the provision of financial assistance under the Union Mechanism.
+
+5\. The Union Mechanism shall not affect obligations under existing relevant legal acts of the Union, under the Treaty establishing the European Atomic Energy Community or under existing international agreements.
+
+6\. This Decision shall not apply to the actions carried out under Regulation (EC) No 1257/96, Regulation (EC) No 1406/2002, Regulation (EC) No 1717/2006, Decision No 1082/2013/EU of the European Parliament and of the Council ( 1 ) or Union legislation concerning action programmes in the fields of health, home affairs and justice.
+
+### Article 2 — Scope
+
+1\. This Decision shall apply to cooperation in the field of civil protection. Such cooperation shall include:
+
+(a) prevention and preparedness actions inside the Union and, as far as Articles 5(2) and 13(3) and 28 are concerned, also outside the Union; and
+
+(b) actions to assist with the response to immediate adverse consequences of a disaster inside or outside the Union, including in the countries referred to in Article 28(1), following a request for assistance through the Union Mechanism.
+
+2\. This Decision shall take into account the special needs of isolated, outermost and other regions or islands of the Union in terms of prevention of, preparedness for and response to disasters as well as the special needs of the overseas countries and territories in terms of disaster response.
+
+### Article 3 — Specific objectives
+
+1\. The Union Mechanism shall support, complement and facilitate coordination of Member States’ action in pursuit of the following common specific objectives:
+
+(a) to achieve a high level of protection against disasters by preventing or reducing their potential effects, by fostering a culture of prevention and by improving cooperation between the civil protection and other relevant services;
+
+(b) to enhance preparedness at Member State and Union level to respond to disasters;
+
+(c) to facilitate rapid and efficient response in the event of disasters or imminent disasters, including by taking measures to mitigate the immediate consequences of disasters and encouraging Member States to work towards removing bureaucratic obstacles;
+
+(d) to increase public awareness and preparedness for disasters;
+
+(e) to increase the availability and use of scientific knowledge on disasters; and
+
+(f) to step up cooperation and coordination activities at cross-border level and between Member States prone to the same types of disasters.
+
+2\. Indicators shall be used for monitoring, evaluating and reviewing as appropriate the application of this Decision. Those indicators shall be:
+
+(a) progress in implementing the disaster prevention framework: measured by the number of Member States that have made available to the Commission the information referred to in point (d) of Article 6(1);
+
+(b) progress in increasing the level of readiness for disasters: measured by the quantity of response capacities included in the European Civil Protection Pool in relation to the capacity goals referred to in Article 11, the number of modules registered in the Common Emergency Communication and Information System (CECIS) and the number of rescEU capacities established to provide assistance in overwhelming situations;
+
+(c) progress in improving the response to disasters: measured by the speed of interventions under the Union Mechanism and the extent to which the assistance contributes to the needs on the ground; and
+
+(d) progress in increasing public awareness and preparedness for disasters: measured by the level of awareness of Union citizens of the risks in their region.
+
+### Article 4 — Definitions
+
+For the purpose of this Decision, the following definitions shall apply:
+
+1\. 'disaster' means any situation which has or may have a severe impact on people, the environment, or property, including cultural heritage;
+
+2\. 'response' means any action taken upon request for assistance under the Union Mechanism in the event of an imminent disaster, or during or after a disaster, to address its immediate adverse consequences;
+
+3\. 'preparedness' means a state of readiness and capability of human and material means, structures, communities and organisations enabling them to ensure an effective rapid response to a disaster, obtained as a result of action taken in advance;
+
+4\. 'prevention' means any action aimed at reducing risks or mitigating adverse consequences of a disaster for people, the environment and property, including cultural heritage;
+
+4a. 'Union disaster resilience goals' means non-binding objectives established in the area of civil protection to support prevention and preparedness actions for the purposes of improving the capacity of the Union and its Member States to withstand the effects of a disaster which causes or is capable of causing multi-country transboundary effects;
+
+5\. 'early warning' means the timely and effective provision of information that allows action to be taken to avoid or reduce risks and the adverse impacts of a disaster, and to facilitate preparedness for an effective response;
+
+6\. 'module' means a self-sufficient and autonomous predefined task- and needs-driven arrangement of Member States’ capabilities or a mobile operational team of the Member States, representing a combination of human and material means that can be described in terms of its capacity for intervention or by the task(s) it is able to undertake;
+
+7\. 'risk assessment' means the overall cross-sectoral process of risk identification, risk analysis, and risk evaluation undertaken at national or appropriate sub-national level;
+
+8\. 'risk management capability' means the ability of a Member State or its regions to reduce, adapt to or mitigate risks (impacts and likelihood of a disaster), identified in its risk assessments to levels that are acceptable in that Member State. Risk management capability is assessed in terms of the technical, financial and administrative capacity to carry out adequate:
+
+(a) risk assessments;
+
+(b) risk management planning for prevention and preparedness; and
+
+(c) risk prevention and preparedness measures;
+
+9\. 'host nation support' means any action undertaken in the preparedness and response phases by the country receiving or sending assistance, or by the Commission, to remove foreseeable obstacles to international assistance offered through the Union Mechanism. It includes support from Member States to facilitate the transiting of this assistance through their territory;
+
+10\. 'response capacity' means assistance that may be provided through the Union Mechanism upon request;
+
+11\. 'logistical support' means the essential equipment or services required for expert teams referred to in Article 17(1) to perform their tasks, inter alia communication, temporary accommodation, food or in-country transport;
+
+12\. 'participating State' means a third country participating in the Union Mechanism in accordance with Article 28(1).
+
+## CHAPTER II — PREVENTION
+
+### Article 5 — Prevention actions
+
+1\. To fulfil the prevention objectives and carry out prevention actions, the Commission shall:
+
+(a) take action to improve the knowledge base on disaster risks, and to better facilitate and promote cooperation and the sharing of knowledge, the results of scientific research and innovation, best practices and information, including among Member States that share common risks;
+
+(b) support and promote Member States' risk assessment and mapping activity through the sharing of good practices, and facilitate access to specific knowledge and expertise on issues of common interest;
+
+(c) establish and regularly update a cross-sectoral overview and map of natural and man-made disaster risks, including risks of disasters which cause or are capable of causing multi-country transboundary effects, the Union may face, by taking a coherent approach across different policy areas that may address or affect disaster prevention and taking due account of the likely impacts of climate change;
+
+(d) encourage an exchange of good practices on preparing national civil protection systems to cope with the impact of climate change;
+
+(e) promote and support the development and implementation of Member States' risk management activity through the sharing of good practices, and facilitate access to specific knowledge and expertise on issues of common interest;
+
+(f) compile and disseminate the information made available by Member States; organise an exchange of experiences about the assessment of risk management capability; and facilitate the sharing of good practices in prevention and preparedness planning, including through voluntary peer reviews;
+
+(g) report periodically, in accordance with the deadlines set out in point (d) of Article 6(1), to the European Parliament and to the Council on the progress made in the implementation of Article 6;
+
+(h) promote the use of various Union funds which may support sustainable disaster prevention and encourage the Member States and regions to exploit those funding opportunities;
+
+(i) highlight the importance of risk prevention, support the Member States in awareness-raising, public information and education, and support the Member States' efforts in the provision of public information on alert systems, by providing guidance on such systems, including on a cross-border level;
+
+(j) promote prevention measures in the Member States and third countries, referred to in Article 28, through the sharing of good practices, and facilitate access to specific knowledge and expertise on issues of common interest; and
+
+(k) in close consultation with Member States, take additional necessary supporting and complementary prevention action in order to achieve the objective specified in point (a) of Article 3(1).
+
+2\. At the request of a Member State, a third country or the United Nations or its agencies, the Commission may deploy an expert team on site to provide advice on prevention measures.
+
+### Article 6 — Risk management
+
+1\. In order to promote an effective and coherent approach to the prevention of and preparedness for disasters by sharing non- sensitive information, namely information disclosure of which would not be contrary to the essential interests of Member States' security, and to promote the exchange of best practices within the Union Mechanism, Member States shall:
+
+(a) further develop risk assessments at national or appropriate sub-national level;
+
+(b) further develop the assessment of risk management capability at national or appropriate sub-national level;
+
+(c) further develop and refine disaster risk management planning at national or the appropriate subnational level, including as regards cross-border collaboration, taking into account the Union disaster resilience goals referred to in paragraph 5, when established, and the risks related to disasters which cause or are capable of causing multi-country transboundary effects;
+
+(d) make available to the Commission a summary of the relevant elements of the assessments referred to in points (a) and (b), focusing on key risks. For key risks having cross-border impacts and risks related to disasters which cause or are capable of causing multi-country transboundary effects, as well as, where appropriate, for low probability risks with a high impact, Member States shall describe priority prevention and preparedness measures. The summary shall be provided to the Commission by 31 December 2020 and every three years thereafter, as well as whenever there are important changes;
+
+(e) participate, on a voluntary basis, in peer reviews on the assessment of risk management capability;
+
+(f) in line with international commitments, improve the collection of disaster loss data at national or the appropriate sub-national level to ensure evidence-based scenario building as referred to in Article 10(1) and the identification of gaps in disaster response capacities.
+
+2\. The Commission, in cooperation with Member States, may also establish specific consultation mechanisms to enhance appropriate prevention and preparedness planning and coordination among Member States that are prone to similar types of disasters, including for cross-border risks and low probability risks with a high impact identified under point (d) of paragraph 1.
+
+3\. The Commission shall further develop, together with the Member States, by 22 December 2019, guidelines on the submission of the summary referred to in point (d) of paragraph 1.
+
+4\. Where a Member State frequently requests the same type of assistance through the Union Mechanism for the same type of disaster, the Commission, following a careful analysis of the reasons and circumstances of the activation, and with the aim of supporting the Member State concerned to strengthen its level of prevention and preparedness, may:
+
+(a) request that Member State to provide additional information on specific prevention and preparedness measures related to the risk corresponding to that type of disaster; and
+
+(b) where appropriate, based on the information provided:
+
+(i) propose the deployment of an expert team on site to provide advice on prevention and preparedness measures; or
+
+(ii) make recommendations to strengthen the level of prevention and preparedness in the Member State concerned. The Commission and that Member State shall keep each other informed about any measures taken following such recommendations.
+
+In the event that a Member State requests the same type of assistance through the Union Mechanism for the same type of disaster three times within three consecutive years, points (a) and (b) shall apply unless a careful analysis of the reasons for and circumstances of the frequent activations demonstrate that it is not necessary.
+
+5\. The Commission, in cooperation with Member States, shall establish and develop Union disaster resilience goals in the area of civil protection, and adopt recommendations to define them as a non-binding common baseline to support prevention and preparedness actions in the event of disasters which cause or are capable of causing multi-country transboundary effects. Those goals shall be based on current and forward-looking scenarios, including the impacts of climate change on disaster risks, data on past events and cross-sectoral impact analysis, with particular attention given to vulnerable groups. When developing Union disaster resilience goals, the Commission shall take into account recurrent disasters that hit Member States and suggest that Member States take specific measures, including any measures to be implemented with the use of Union funds, to strengthen resilience to such disasters.
+
+## CHAPTER III — PREPAREDNESS
+
+### Article 7 — Emergency Response Coordination Centre
+
+1\. An Emergency Response Coordination Centre (ERCC) is hereby established. The ERCC shall ensure 24/7 operational capacity, and serve the Member States and the Commission in pursuit of the objectives of the Union Mechanism.
+
+The ERCC shall in particular coordinate, monitor and support in real-time the response to emergencies at Union level. The ERCC shall work in close contact with national civil protection authorities and relevant Union bodies to promote a cross-sectoral approach to disaster management.
+
+2\. The ERCC shall have access to operational, analytical, monitoring, information management and communication capabilities to address a broad range of emergencies within and outside the Union.
+
+### Article 8 — General preparedness actions of the Commission
+
+1\. The Commission shall carry out the following preparedness actions:
+
+(a) manage the ERCC;
+
+(b) manage CECIS to enable communication and sharing of information between the ERCC and the Member States’ contact points;
+
+(c) work with Member States:
+
+(i) to develop transnational detection and early warning systems of Union interest in order to mitigate the immediate effects of disasters;
+
+(ii) to better integrate existing transnational detection and early warning systems based on a multi-hazard approach, with a view to minimising the lead time to respond to disasters;
+
+(iii) to maintain and further develop situational awareness and analysis capability;
+
+(iv) to monitor disasters and, where relevant, climate change impacts, and provide advice based on scientific knowledge thereof;
+
+(v) to translate scientific information into operational information;
+
+(vi) to create, maintain and develop European scientific partnerships to cover natural and man-made hazards, which in turn should promote the linkage between national early warning and alert systems and the linkage of such systems with the ERCC and CECIS;
+
+(vii) to support the efforts of Member States and mandated international organisations with scientific knowledge, innovative technologies and expertise when Member States and such organisations further develop their early warning systems, including through the Union Civil Protection Knowledge Network referred to in Article 13;
+
+(d) establish and manage the capability to mobilise and dispatch expert teams, responsible for:
+
+(i) assessing the needs that can possibly be addressed under the Union Mechanism in the Member State or third country requesting assistance,
+
+(ii) facilitating, where necessary, the coordination of disaster response assistance on site and liaising with the competent authorities of the Member State or third country requesting assistance, and
+
+(iii) supporting the Member State or third country requesting assistance with expertise on prevention, preparedness or response actions;
+
+(e) establish and maintain the capability to provide logistical support to the expert teams referred to in point (d);
+
+(f) develop and maintain a network of trained experts of the Member States, who can be available at short notice to assist the ERCC in the monitoring of information and facilitating coordination;
+
+(g) facilitate the coordination of the Member States’ pre-positioning of disaster response capacities inside the Union;
+
+(h) support efforts to improve the interoperability of modules and other response capacities, taking into account best practices at the level of the Member States and at international level;
+
+(i) take, within its sphere of competence, the necessary actions to facilitate host nation support, including developing and updating, together with Member States, guidelines on host nation support, on the basis of operational experience;
+
+(j) support the creation of voluntary peer review assessment programmes for the Member States’ preparedness strategies, based on pre-defined criteria, which will enable recommendations to be formulated to strengthen the level of preparedness of the Union;
+
+(k) in close consultation with the Member States, take additional necessary supporting and complementary preparedness action to achieve the objective specified in point (b) of Article 3(1); and
+
+(l) support Member States, upon their request, in respect of disasters happening within their territories by providing the possibility of using European scientific partnerships for targeted scientific analysis. The resulting analyses may be shared via CECIS, with the agreement of the affected Member States.
+
+2\. At the request of a Member State, a third country or the United Nations or its agencies, the Commission may deploy an expert team on site to provide advice on preparedness measures.
+
+### Article 9 — General preparedness actions of the Member States
+
+1\. Member States shall, on a voluntary basis, work towards developing modules, in particular to meet priority intervention or support needs under the Union Mechanism.
+
+Member States shall identify, in advance, modules, other response capacities and experts within their competent services, in particular within their civil protection or other emergency services, which could be made available for intervention upon request through the Union Mechanism. They shall take into account that the composition of modules or other response capacities may depend on the type of disaster and on the disaster-related particular needs.
+
+2\. Modules shall be made up of the resources of one or more Member States and shall:
+
+(a) be able to perform pre-defined tasks in the areas of response in accordance with established international guidelines and therefore be able to:
+
+(i) be dispatched at very short notice following a request for assistance through the ERCC; and
+
+(ii) work self-sufficiently and autonomously for a given period of time;
+
+(b) be interoperable with other modules;
+
+(c) undertake training and exercises in order to meet the interoperability requirement;
+
+(d) be placed under the authority of a person who is responsible for the operation of modules; and
+
+(e) be able to cooperate with other Union bodies and/or international institutions, in particular the United Nations, as appropriate.
+
+3\. The Member States shall, on a voluntary basis, identify, in advance, experts that could be dispatched as members of expert teams, as specified in point (d) of Article 8.
+
+4\. The Member States shall consider providing, as required, other response capacities, which could be available from the competent services, or which may be provided by non-governmental organisations and other relevant entities.
+
+Other response capacities may comprise resources from one or more Member States and, where appropriate, shall:
+
+(a) be able to perform tasks in the areas of response in accordance with established international guidelines and therefore be able to:
+
+(i) be dispatched at very short notice following a request for assistance through the ERCC; and
+
+(ii) work self-sufficiently and autonomously where necessary for a given period of time;
+
+(b) be able to cooperate with other Union bodies and/or international institutions, in particular the United Nations, as appropriate.
+
+5\. Member States may, subject to appropriate security safeguards, provide information about relevant military capacities that could be used as a last resort as part of the assistance through the Union Mechanism, such as transport and logistical or medical support.
+
+6\. Member States shall provide to the Commission relevant information on the experts, modules and other response capacities that they make available for assistance through the Union Mechanism as referred to in paragraphs 1 to 5 and update this information when necessary.
+
+7\. Member States shall designate contact points, as referred to in point (b) of Article 8, and inform the Commission accordingly.
+
+8\. Member States shall take the appropriate preparedness actions to facilitate host nation support.
+
+9\. Member States, supported by the Commission in accordance with Article 23, shall take the appropriate measures to ensure the timely transport of assistance they offer.
+
+10\. When emergency services are provided by Galileo, Copernicus, GovSatCom, or other components of the Space Programme established by Regulation (EU) 2021/696 of the European Parliament and of the Council ( 2 ), each Member State may decide to use them.
+
+Where a Member State decides to use the emergency services provided by Galileo referred to in the first subparagraph, it shall identify and notify to the Commission the national authorities authorised to use those emergency services.
+
+### Article 10 — Scenario-building and disaster management planning
+
+1\. The Commission and the Member States shall work together to improve cross-sectoral disaster risk management planning at Union level, both for natural and man-made disasters which cause or are capable of causing multi-country transboundary effects, including the adverse effects of climate change. That planning shall include scenario-building at Union level for disaster prevention, preparedness and response, taking into account the work carried out in relation to the Union disaster resilience goals as referred to in Article 6(5) and the work by the Union Civil Protection Knowledge Network as referred to in Article 13, and based on:
+
+(i) the risk assessments referred to in point (a) of Article 6(1);
+
+(ii) the overview of risks referred to in point (c) of Article 5(1);
+
+(iii) Member States’ assessment of risk management capability referred to in point (b) of Article 6(1);
+
+(iv) available disaster loss data referred to in point (f) of Article 6(1);
+
+(v) the voluntary exchange of existing information on disaster risk management planning at national or the appropriate sub-national level;
+
+(vi) asset mapping; and
+
+(vii) the development of plans for the deployment of response capacities.
+
+2\. The Commission and the Member States shall identify and promote synergies between civil protection assistance and humanitarian aid funding provided by the Union and Member States in the planning of response operations for humanitarian crises outside the Union.
+
+### Article 11 — European Civil Protection Pool
+
+1\. A European Civil Protection Pool shall be established. It shall consist of a pool of voluntarily pre-committed response capacities of the Member States and include modules, other response capacities and categories of experts.
+
+1a. The assistance provided by a Member State through the European Civil Protection Pool shall be complementary to existing capacities in the requesting Member State, without prejudice to the primary responsibility of Member States for disaster prevention and response on their territory.
+
+2\. On the basis of identified risks, overall capacities and gaps and any existing scenario-building as referred to in Article 10(1), the Commission shall, by means of implementing acts, define the types and specify the number of key response capacities required for the European Civil Protection Pool (‘capacity goals’). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(2).
+
+The Commission, in cooperation with the Member States, shall monitor progress towards the capacity goals set out in the implementing acts referred to in the first subparagraph of this paragraph, and identify potentially significant response capacity gaps in the European Civil Protection Pool. Where such gaps have been identified, the Commission shall examine whether the necessary capacities are available to the Member States outside the European Civil Protection Pool. The Commission shall encourage Member States to address significant response capacity gaps in the European Civil Protection Pool. It may support Member States in this regard in accordance with Article 20 and point (i) of Article 21(1) and Article 21(2).
+
+3\. The Commission shall define quality requirements for the response capacities that Member States commit to the European Civil Protection Pool  . The quality requirements shall be based on established international standards, where such standards already exist. The Member States shall be responsible for ensuring the quality of their response capacities.
+
+4\. The Commission shall establish and manage a process for certification and registration of the response capacities that the Member States make available to the European Civil Protection Pool  .
+
+5\. Member States shall on a voluntary basis identify and register the response capacities which they commit to the European Civil Protection Pool  . The registration of multinational modules provided by two or more Member States shall be undertaken jointly by all the Member States concerned.
+
+6\. The response capacities that Member States make available for the European Civil Protection Pool  shall remain available for national purposes at all times.
+
+7\. Response capacities that Member States make available for the European Civil Protection Pool  shall be available for response operations under the Union Mechanism following a request for assistance through the ERCC. The ultimate decision on their deployment shall be taken by the Member States which registered the response capacity concerned. When domestic emergencies, force majeure or, in exceptional cases, serious reasons prevent a Member State from making those response capacities available in a specific disaster, that Member State shall inform the Commission as soon as possible by referring to this Article.
+
+8\. In the event of deployment, Member States' response capacities shall remain under their command and control and can be withdrawn when domestic emergencies, force majeure or, in exceptional cases, serious reasons prevent a Member State from keeping those response capacities available, in consultation with the Commission. The coordination among the different response capacities shall be facilitated where appropriate by the Commission through the ERCC in accordance with Articles 15 and 16.
+
+9\. Member States and the Commission shall ensure an appropriate public awareness of the interventions involving the European Civil Protection Pool  .
+
+### Article 12 — rescEU
+
+1\. rescEU shall be established to provide assistance in overwhelming situations where overall existing capacities at national level and those pre-committed by Member States to the European Civil Protection Pool are not, in the circumstances, able to ensure an effective response to the various kinds of disasters referred to in Article 1(2).
+
+In order to guarantee an effective response to disasters, the Commission and the Member States shall, where appropriate, ensure an adequate geographical distribution of rescEU capacities.
+
+2\. The Commission shall, by means of implementing acts, define the capacities rescEU shall consist of, based inter alia on any existing scenario-building as referred to in Article 10(1), taking into account identified and emerging risks and overall capacities and gaps at Union level, in particular in the areas of aerial forest-firefighting, chemical, biological, radiological and nuclear incidents, emergency medical response, as well as transport and logistics. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(2). The Commission shall regularly update the information on the type and number of rescEU capacities and make that information directly available to the European Parliament and the Council.
+
+3\. rescEU capacities shall be acquired, rented, leased or otherwise contracted by Member States.
+
+3a. rescEU capacities, as defined by means of implementing acts adopted in accordance with the examination procedure referred to in Article 33(2), may be rented, leased or otherwise contracted by the Commission to the extent necessary to address the gaps in the area of transport and logistics.
+
+3b. In duly justified cases of urgency, the Commission may acquire, rent, lease or otherwise contract capacities determined by means of implementing acts adopted in accordance with the urgency procedure referred to in Article 33(3). Such implementing acts shall:
+
+(i) determine the necessary type and quantity of material means and any necessary enabling support services, already defined as rescEU capacities; and/or
+
+(ii) define additional material means and any necessary enabling support services as rescEU capacities and determine the necessary type and quantity of those capacities.
+
+3c. Union financial rules shall apply where rescEU capacities are acquired, rented, leased or otherwise contracted by the Commission. Where rescEU capacities are acquired, rented, leased or otherwise contracted by Member States, direct grants may be awarded by the Commission to Member States without a call for proposals. The Commission and any Member States which so desire may engage in a joint procurement procedure conducted pursuant to Article 165 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 3 ) (the ‘Financial Regulation’) with a view to acquiring rescEU capacities.
+
+rescEU capacities shall be hosted by the Member States that acquire, rent, lease or otherwise contract those capacities.
+
+4\. The Commission shall define quality requirements for the response capacities forming part of rescEU, in consultation with the Member States. The quality requirements shall be based on established international standards, where such standards already exist.
+
+5\. A Member State that owns, rents or leases rescEU capacities shall ensure the registration of those capacities in CECIS, and the availability and deployability of those capacities for Union Mechanism operations.
+
+rescEU capacities may only be used for national purposes, as referred to in Article 23(4a), when not being used or needed for response operations under the Union Mechanism.
+
+rescEU capacities shall be used in accordance with implementing acts adopted under point (g) of Article 32(1) and with operational contracts between the Commission and the Member State owning, renting or leasing such capacities, which further specify the terms and conditions of deployment of rescEU capacities, including participating personnel.
+
+6\. rescEU capacities shall be available for response operations under the Union Mechanism following a request for assistance through the ERCC in accordance with Article 15 or Article 16(1) to (9) and (11), (12) and (13). The decision on their deployment and demobilisation, and any decision in the event of conflicting requests, shall be taken by the Commission in close coordination with the requesting Member State and the Member State owning, renting or leasing the capacity, in accordance with operational contracts as defined in the third subparagraph of paragraph 5 of this Article.
+
+The Member State on the territory of which rescEU capacities are deployed shall be responsible for directing response operations. In the event of deployments outside the Union, Member States hosting rescEU capacities shall be responsible for ensuring that rescEU capacities are fully integrated into the overall response.
+
+7\. In the event of deployment, the Commission through the ERCC shall agree with the requesting Member State on the operational deployment of rescEU capacities. The requesting Member State shall facilitate operational coordination of its own capacities and rescEU activities during operations.
+
+8\. The coordination of the different response capacities shall be facilitated, where appropriate, by the Commission through the ERCC in accordance with Articles 15 and 16.
+
+9\. Member States shall be informed of the operational status of rescEU capacities through CECIS.
+
+10\. If a disaster outside the Union could significantly affect one or more Member States or their citizens, rescEU capacities may be deployed in accordance with paragraphs 6 to 9 of this Article.
+
+When rescEU capacities are deployed in third countries, in specific cases, Member States may refuse to deploy their own personnel, in accordance with the implementing act adopted under point (g) of Article 32(1), and as further defined in the operational contracts referred to in the third subparagraph of paragraph 5 of this Article.
+
+### Article 13 — Union Civil Protection Knowledge Network
+
+1\. The Commission shall establish a Union Civil Protection Knowledge Network (the ‘Network’) to aggregate, process and disseminate knowledge and information relevant to the Union Mechanism, based on a multi-hazard approach and including relevant civil protection and disaster management actors, centres of excellence, universities and researchers.
+
+The Commission, through the Network, shall take due account of the expertise available in the Member States, at Union level, at the level of other international organisations and entities, at the level of third countries and at the level of organisations active on the ground.
+
+The Commission and the Member States shall promote gender-balanced participation in the establishment and the functioning of the Network.
+
+The Commission, through the Network, shall support coherence of planning and decision-making processes by facilitating the continuous exchange of knowledge and information involving all areas of activity under the Union Mechanism.
+
+To that end, the Commission, through the Network, shall inter alia:
+
+(a) set up and manage a training and exercises programme for civil protection and disaster management personnel on prevention of, preparedness for and response to disasters. The programme shall focus on and encourage the exchange of best practices in the field of civil protection and disaster management, including in relation to disasters originating from climate change, and include joint courses and a system for the exchange of expertise in the area of disaster management, including exchanges of professionals and experienced volunteers, and the secondment of Member State experts.
+
+The training and exercises programme shall aim to enhance the coordination, compatibility and complementarity of capacities referred to in Articles 9, 11 and 12, and to improve the competence of experts as referred to in points (d) and (f) of Article 8(1);
+
+(b) set up and manage a programme of lessons learnt from civil protection actions conducted within the framework of the Union Mechanism, including aspects from the entire disaster management cycle, in order to provide a broad basis for learning processes and knowledge development. The programme shall include:
+
+(i) monitoring, analysing and evaluating all the relevant civil protection actions within the Union Mechanism;
+
+(ii) promoting implementation of lessons learnt in order to obtain an experience-based foundation for the development of activities within the disaster management cycle; and
+
+(iii) developing methods and tools for gathering, analysing, promoting and implementing lessons learnt.
+
+That programme shall also include, where appropriate, lessons learnt from interventions outside the Union with regard to exploiting links and synergies between assistance provided under the Union Mechanism and humanitarian response;
+
+(c) stimulate research and innovation, and encourage the introduction and use of relevant new approaches or technologies or both for the purpose of the Union Mechanism;
+
+(d) set up and maintain an online platform serving the Network to support and facilitate the implementation of the different tasks referred to in points (a), (b) and (c).
+
+2\. When carrying out the tasks set out in paragraph 1, the Commission shall take particular account of the needs and interests of Member States facing disaster risks of a similar nature, as well as of the need to strengthen the protection of biodiversity and cultural heritage.
+
+3\. The Commission shall strengthen cooperation on training, and promote the sharing of knowledge and experience, between the Network and international organisations and third countries, in particular in order to contribute to meeting international commitments, particularly those in the Sendai Framework for Disaster Risk Reduction 2015-2030.
+
+## CHAPTER IV — RESPONSE
+
+### Article 14 — Notification of disasters within the Union
+
+1\. In the event of a disaster within the Union, or of an imminent disaster, which causes or is capable of causing multi-country transboundary effects or affects or is capable of affecting other Member States, the Member State in which the disaster occurs or is likely to occur shall, without delay, notify the potentially affected Member States and, where the effects are potentially significant, the Commission.
+
+The first subparagraph shall not apply where the obligation of notification has already been addressed under other Union legislation, under the Treaty establishing the European Atomic Energy Community or under existing international agreements.
+
+2\. In the event of a disaster within the Union, or of an imminent disaster, which is likely to result in a call for assistance from one or more Member States, the Member State in which the disaster occurs or is likely to occur shall, without delay, notify the Commission that a possible request for assistance through the ERCC can be expected, in order to enable the Commission, as appropriate, to inform the other Member States and to activate its competent services.
+
+3\. The notifications referred to in paragraphs 1 and 2 shall, as appropriate, be made through CECIS.
+
+### Article 15 — Responding to disasters within the Union
+
+1\. When a disaster occurs within the Union, or is imminent, the affected Member State may request assistance through the ERCC. The request shall be as specific as possible. A request for assistance shall lapse after a maximum period of 90 days, unless new elements justifying the need for continued or additional assistance are provided to the ERCC.
+
+2\. In exceptional situations of increased risk a Member State may also request assistance in the form of temporary pre-positioning of response capacities.
+
+3\. Upon receiving a request for assistance, the Commission shall, as appropriate and without delay:
+
+(a) forward the request to the contact points of other Member States;
+
+(b) collect and analyse validated information on the situation, in conjunction with the affected Member State, with the goal of generating common awareness of the situation and the response to the situation, and disseminate that information directly to the Member States;
+
+(c) make recommendations, in consultation with the requesting Member State, for the provision of assistance through the Union Mechanism, based on the needs on the ground and any relevant pre-developed plans, as referred to in Article 10(1), invite Member States to deploy specific capacities and facilitate the coordination of the required assistance; and
+
+(d) take additional action to facilitate the coordination of the response.
+
+4\. Any Member State to which a request for assistance is addressed through the Union Mechanism shall promptly determine whether it is in a position to render the assistance required and inform the requesting Member State of its decision through the CECIS, indicating the scope, terms and, where applicable, costs of the assistance it could render. The ERCC shall keep the Member States informed.
+
+5\. The requesting Member State shall be responsible for directing assistance interventions. The authorities of the requesting Member State shall lay down guidelines and, if necessary, define the limits of the tasks entrusted to the modules or other response capacities. The details of the execution of those tasks shall be left to the person in charge appointed by the Member State rendering assistance. The requesting Member State may also request the deployment of an expert team to support its assessment, facilitate coordination on site between Member States' teams or provide technical advice.
+
+6\. The requesting Member State shall take the appropriate actions to facilitate host nation support for the incoming assistance.
+
+7\. The role of the Commission referred to in this Article shall not affect the Member States’ competences and responsibility for their teams, modules and other support capacities, including military capacities. In particular, the support offered by the Commission shall not entail command and control over the Member States’ teams, modules and other support, which shall be deployed on a voluntary basis in accordance with the coordination at headquarters level and on site.
+
+### Article 16 — Promoting consistency in the response to disasters outside the Union
+
+1\. When a disaster occurs outside the Union, or is imminent, the affected country may request assistance through the ERCC. The assistance may also be requested through or by the United Nations and its agencies, or a relevant international organisation. A request for assistance shall lapse after a maximum period of 90 days, unless new elements justifying the need for continued or additional assistance are provided to the ERCC.
+
+2\. Interventions under this Article may be conducted either as an autonomous assistance intervention or as a contribution to an intervention led by an international organisation. The Union coordination shall be fully integrated with the overall coordination provided by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), and shall respect its leading role. In the case of man-made disasters or complex emergencies, the Commission shall ensure consistency with the European Consensus on Humanitarian Aid ( 4 ), and respect for humanitarian principles.
+
+3\. The Commission shall support the consistency in the delivery of the assistance through the following actions:
+
+(a) maintaining a dialogue with the Member States’ contact points in order to ensure an effective and coherent Union disaster response contribution through the Union Mechanism to the overall relief effort, in particular by:
+
+(i) informing Member States without delay of the full requests for assistance;
+
+(ii) supporting a common assessment of the situation and needs, providing technical advice and/or facilitating the coordination on site of assistance through the presence of a civil protection expert team on site;
+
+(iii) sharing relevant assessments and analyses with all relevant actors;
+
+(iv) providing an overview of assistance being offered by Member States and other actors;
+
+(v) advising on the type of assistance required in order to ensure that the assistance provided is consistent with the needs assessments; and
+
+(vi) assisting in overcoming any practical difficulties in the delivery of assistance in areas such as transit and customs;
+
+(b) immediately making recommendations, when possible in cooperation with the affected country, based on the needs on the ground and any relevant pre-developed plans, inviting Member States to deploy specific capacities and facilitating the coordination of the requested assistance;
+
+(c) liaising with the affected country on technical details, such as the precise needs for assistance, the acceptance of offers and the practical arrangements for the local reception and distribution of assistance;
+
+(d) liaising with or supporting OCHA, and cooperating with other relevant actors that contribute to the overall relief effort, in order to maximise synergies, seek complementarities and avoid duplication and gaps; and
+
+(e) liaising with all relevant actors, in particular in the closing phase of the assistance intervention under the Union Mechanism, to facilitate a smooth handover.
+
+4\. Without prejudice to the Commission's role, as defined in paragraph 3, and respecting the imperative for an immediate operational response through the Union Mechanism, the Commission shall upon activation of the Union Mechanism inform the European External Action Service to allow for consistency between the civil protection operation and the overall Union relations with the affected country. The Commission shall keep the Member States fully informed in accordance with paragraph 3.
+
+5\. On site, liaison shall be ensured as appropriate with the Union delegation for the latter to facilitate contacts with the government of the affected country. Where necessary, the Union delegation shall provide logistical support to the civil protection expert teams referred to in point (ii) of point (a) of paragraph 3.
+
+6\. Any Member State to which a request for assistance is addressed through the Union Mechanism shall promptly determine whether it is in a position to render the assistance required and inform the ERCC of its decision through the CECIS, indicating the scope and terms of any assistance it could render. The ERCC shall keep Member States informed.
+
+7\. The Union Mechanism may also be used to provide civil protection support to consular assistance to the citizens of the Union in disasters in third countries if requested by the consular authorities of the Member States concerned.
+
+8\. Pursuant to a request for assistance, the Commission may take additional necessary supporting and complementary action in order to ensure consistency in the delivery of the assistance.
+
+9\. Coordination through the Union Mechanism shall affect neither bilateral contacts between Member States and the affected country, nor cooperation between Member States and the United Nations and other relevant international organisations. Such bilateral contacts may also be used to contribute to the coordination through the Union Mechanism.
+
+10\. The role of the Commission referred to in this Article shall not affect the Member States’ competences and responsibility for their teams, modules and other support, including military capacities. In particular, the support offered by the Commission shall not entail command and control over Member States’ teams, modules and other support, which shall be deployed on a voluntary basis in accordance with the coordination at headquarters level and on site.
+
+11\. Synergies shall be sought with other instruments of the Union, in particular with actions financed under Regulation (EC) No 1257/96. The Commission shall ensure coordination between the instruments and, where appropriate, ensure that Member States' civil protection actions contributing to a wider humanitarian response are as far as possible financed under this Decision.
+
+12\. Whenever the Union Mechanism is activated, the Member States providing disaster assistance shall keep the ERCC fully informed of their activities.
+
+13\. Member States’ teams and modules participating on site in the intervention through the Union Mechanism shall liaise closely with the ERCC and the expert teams on site, as referred to in point (ii) of point (a) of paragraph 3.
+
+### Article 17 — Support on site
+
+1\. The Commission may select, appoint and dispatch an expert team composed of experts provided by Member States:
+
+(a) upon request for prevention expertise in accordance with Article 5(2);
+
+(b) upon request for preparedness expertise in accordance with Article 8(2);
+
+(c) in the event of a disaster within the Union as referred to in Article 15(5);
+
+(d) in the event of a disaster outside the Union as referred to in Article 16(3).
+
+Experts from the Commission and from other services of the Union may be integrated in the team in order to support the team and facilitate liaison with the ERCC. Experts dispatched by UN agencies or other international organisations may be integrated in the team in order to strengthen cooperation and facilitate joint assessments.
+
+Where operational effectiveness so requires, the Commission, in close cooperation with Member States, may facilitate the involvement of additional experts, through their deployment, and technical and scientific support, and reach back to specialist scientific, emergency medical and sectoral expertise.
+
+2\. The procedure for the selection and appointment of experts shall be the following:
+
+(a) Member States shall nominate experts, under their responsibility, who can be deployed as members of expert teams;
+
+(b) the Commission shall select the experts and the leader for those teams on the basis of their qualifications and experience, including the level of the Union Mechanism training undertaken, previous experience of missions under the Union Mechanism and other international relief work; the selection shall also be based on other criteria, including language skills, to ensure that the team as a whole has the skills needed in the specific situation;
+
+(c) the Commission shall appoint experts and team leaders for the mission in agreement with their nominating Member State.
+
+The Commission shall notify Member States of additional expert support provided in accordance with paragraph 1.
+
+3\. Where expert teams are dispatched, they shall facilitate coordination between Member States' intervention teams and liaise with the competent authorities of the requesting state as set out in Article 8(d). The ERCC shall maintain close contact with the expert teams and provide them with guidance and logistical support.
+
+### Article 18 — Transport and equipment
+
+1\. In the event of a disaster, either within or outside the Union, the Commission may support Member States in obtaining access to equipment or transport and logistical resources by:
+
+(a) providing and sharing information on equipment and on transport and logistical resources that can be made available by Member States, with a view to facilitating the pooling of such equipment or transport and logistical resources;
+
+(b) developing cartographical material for the swift deployment and mobilisation of resources, bearing in mind especially the particularities of cross-border regions for the purpose of multi-country transboundary risks;
+
+(c) assisting Member States to identify transport and logistical resources that may be available from other sources, including the commercial market, and facilitating their access to such resources; or
+
+(d) assisting Member States to identify equipment that may be available from other sources, including the commercial market.
+
+2\. The Commission may complement the transport and logistical resources provided by Member States by providing additional resources necessary for ensuring a rapid response to disasters.
+
+3\. The assistance requested by a Member State or a third country may consist only of transport and logistical resources in order to respond to disasters with relief items or equipment procured in a third country by the requesting Member State or third country.
+
+## CHAPTER V — FINANCIAL PROVISIONS
+
+### Article 19 — Budgetary resources
+
+1\. The financial envelope for the implementation of the Union Mechanism for the period 2014 to 2020 shall be EUR 574 028 000 in current prices.
+
+EUR 425 172 000 in current prices shall derive from Heading 3 "Security and Citizenship" of the multiannual financial framework and EUR 148 856 000 in current prices from Heading 4 "Global Europe".
+
+1a. The financial envelope for the implementation of the Union Mechanism for the period from 1 January 2021 to 31 December 2027 shall be EUR 1 263 000 000 in current prices.
+
+2\. Appropriations resulting from reimbursement made by the beneficiaries for disaster response actions shall constitute assigned revenue within the meaning of Article 21(5) of the Financial Regulation.
+
+3\. The financial allocation referred to in paragraphs 1 and 1a of this Article and in Article 19a may also cover expenses pertaining to preparatory, monitoring, control, audit and evaluation activities, which are required for the management of the Union Mechanism and the achievement of its objectives.
+
+Such expenditure may, in particular, cover studies, meetings of experts, information and communication actions, including corporate communication of the political priorities of the Union, as far as they are related to the general objectives of the Union Mechanism, expenses linked to IT networks focusing on information processing and exchange, including their interconnection with existing or future systems designed to promote cross-sectoral data exchange and related equipment, together with all other technical and administrative assistance expenses incurred by the Commission for the management of the programme.
+
+4\. The financial envelope referred to in paragraph 1a of this Article and the amount referred to in Article 19a(1) shall be allocated, over the period 2021-2027, according to the percentages and principles set out in Annex I.
+
+5\. The Commission shall assess the breakdown set out in Annex I in the light of the outcome of the evaluation referred to in Article 34(3).
+
+6\. Where necessary for disaster response on imperative grounds of urgency, or in the light of unexpected events affecting the budgetary execution or the establishment of rescEU capacities, the Commission shall be empowered to adopt delegated acts in accordance with Article 30 in order to amend Annex I within the available budgetary allocations and in accordance with the procedure provided for in Article 31.
+
+### Article 19a — Resources from the European Union Recovery Instrument
+
+1\. Measures referred to in points (d) and (e) of Article 1(2) of Council Regulation (EU) 2020/2094 ( 5 ) shall be implemented under this Decision through the expenditure of an amount of up to EUR 2 056 480 000 in current prices as referred to in point (a)(iii) of Article 2(2) of that Regulation in 2018 prices, subject to Article 3(3), (4), (7) and (9) of that Regulation.
+
+2\. The amount referred to in paragraph 1 of this Article shall constitute external assigned revenue as set out in Article 3(1) of Regulation (EU) 2020/2094.
+
+3\. Measures referred to in paragraph 1 of this Article shall be eligible for financial assistance in accordance with conditions set out in this Decision and shall be implemented in full respect of the objectives of Regulation (EU) 2020/2094.
+
+4\. Without prejudice to conditions of eligibility of actions in favour of third countries set out in this Decision, the financial assistance referred to in this Article may be granted to a third country only where that assistance is implemented in full respect of the objectives of Regulation (EU) 2020/2094, regardless of whether or not that third country participates in the Union Mechanism.
+
+### Article 20 — General eligible actions
+
+The following general actions shall be eligible for financial assistance to enhance prevention of, preparedness for and effective response to disasters:
+
+(a) studies, surveys, modelling and scenario building to facilitate the sharing of knowledge, best practices and information;
+
+(b) training, exercises, workshops, exchange of staff and experts, creation of networks, demonstration projects and technology transfer;
+
+(c) monitoring, assessment and evaluation actions;
+
+(d) public information, education and awareness raising and associated dissemination actions, so as to involve citizens in preventing and minimising the effects of disasters in the Union and to help Union citizens to protect themselves more effectively and in a sustainable manner;
+
+(e) establishment and running of a programme of lessons learnt from interventions and exercises in the context of the Union Mechanism, including on areas relevant to prevention and preparedness; and
+
+(f) communication actions and measures to raise awareness of the civil protection work of the Member States and of the Union in the areas of prevention of, preparedness for and response to disasters.
+
+### Article 20a — Visibility and awards
+
+1\. The recipients of Union funding, as well as the beneficiaries of the assistance delivered, shall acknowledge the origin of those funds and ensure the visibility of the Union funding, in particular when promoting the actions and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+
+Any funding or assistance provided under this Decision shall be given appropriate visibility in line with the specific guidance issued by the Commission for specific interventions. In particular, Member States shall ensure that public communication for operations funded under the Union Mechanism:
+
+(a) includes appropriate references to the Union Mechanism;
+
+(b) provides visual branding on the capacities funded or co-funded by the Union Mechanism;
+
+(c) delivers actions with the Union emblem;
+
+(d) proactively communicates details of the Union support to national media and stakeholders, as well as through their own communication channels; and
+
+(e) supports the Commission’s communication actions on the operations.
+
+Where rescEU capacities are used for national purposes as referred to in Article 12(5), Member States shall, by the same means as referred to in the first subparagraph of this paragraph, acknowledge the origin of those capacities and ensure the visibility of the Union funding used to acquire those capacities.
+
+2\. The Commission shall implement information and communication actions relating to this Decision, to actions taken pursuant to this Decision and to the results obtained, and support Member States in their communication actions. Financial resources allocated to this Decision shall also contribute to the corporate communication of the political priorities of the Union, insofar as those priorities are related to the objectives referred to in Article 3(1).
+
+3\. The Commission shall award medals in order to recognise and honour longstanding commitment and extraordinary contributions to the Union Mechanism.
+
+### Article 21 — Eligible prevention and preparedness actions
+
+1\. The following prevention and preparedness actions shall be eligible for financial assistance:
+
+(a) co-financing of projects, studies, workshops, surveys and similar actions and activities referred to in Article 5;
+
+(b) co-financing peer reviews, referred to in point (d) of Article 6 and point (j) of Article 8;
+
+(c) maintaining the functions provided by the ERCC, in accordance with point (a) of Article 8;
+
+(d) preparing for the mobilisation and dispatch of the expert teams referred to in point (d) of Article 8 and Article 17 and developing and maintaining a surge capacity through a network of trained experts of Member States, referred to in point (f) of Article 8;
+
+(e) establishing and maintaining the CECIS and tools to enable communication and sharing of information between the ERCC and the contact points of the Member States and of other participants in the context of the Union Mechanism;
+
+(f) contributing to the development of transnational detection, early warning and alert systems of European interest, in order to enable a rapid response as well as to promote the inter-linkage between national early warning and alert systems and their linkage to the ERCC and the CECIS. Those systems shall take into account and build upon existing and future information, monitoring or detection sources and systems;
+
+(g) developing disaster risk management planning, as referred to in Article 10;
+
+(h) supporting the preparedness activities described in Article 13;
+
+(i) developing the European Civil Protection Pool  , as referred to in Article 11, in accordance with paragraph 2 of this Article.
+
+(j) establishing, managing and maintaining rescEU capacities in accordance with Article 12;
+
+(k) ensuring the availability of logistical support for the expert teams referred to in Article 17(1);
+
+(l) facilitating the coordination of Member States' pre-positioning of disaster response capacities inside the Union in accordance with point (g) of Article 8; and
+
+(m) supporting the provision of advice on prevention and preparedness measures through the deployment of an expert team on site, upon the request of a Member State, third country, the United Nations or its agencies, as referred to in Article 5(2) and Article 13(3).
+
+2\. The eligibility for financial assistance for the action referred to in point (i) of paragraph 1 shall be limited to:
+
+(a) costs at Union level of setting up and managing the European Civil Protection Pool  and the associated processes set out in Article 11;
+
+(b) costs of obligatory training courses, exercises and workshops necessary for the certification of Member States' response capacities for the purposes of the European Civil Protection Pool  ("certification costs"). The certification costs may consist of unit costs or lump sums determined per type of capacity, covering up to 100 % of the eligible costs; and
+
+(c) costs necessary to upgrade or repair response capacities to a state of readiness and availability that makes them deployable as part of the European Civil Protection Pool, in accordance with the quality requirements of the European Civil Protection Pool and, where relevant, recommendations formulated in the certification process ("adaptation costs"). Those costs may include costs related to operability, interoperability of modules and other response capacities, autonomy, self-sufficiency, transportability, packaging, and other necessary costs, provided that they specifically relate to the capacities' participation in the European Civil Protection Pool.
+
+Adaptation costs may cover:
+
+(i) 75 % of the eligible costs in the event of an upgrade, provided that amount does not exceed 50 % of the average cost of developing the capacity; and
+
+(ii) 75 % of the eligible costs in the event of a repair.
+
+Response capacities benefitting from funding under points (i) and (ii) shall be made available as part of the European Civil Protection Pool for a minimum period that is linked to the received funding and ranges between 3 and 10 years starting from their effective availability as part of the European Civil Protection Pool, except where their economic lifespan is shorter.
+
+Adaptation costs may consist of unit costs or lump sums determined per type of capacity.
+
+3\. The financial assistance for the action referred to in point (j) of paragraph 1 shall cover all costs necessary to ensure the availability and deployability of rescEU capacities under the Union Mechanism in accordance with the second subparagraph of this paragraph. The categories of eligible costs necessary to ensure the availability and deployability of rescEU capacities shall be as set out in Annex Ia.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 30 to amend Annex Ia regarding the categories of eligible costs.
+
+3a. The financial assistance referred to in this Article may be implemented by multi-annual work programmes. For actions extending beyond one year, budgetary commitments may be broken down into annual instalments.
+
+5\. The costs referred to in paragraph 3 may consist of unit costs, lump sums or flat rates, determined per category or type of capacity, as appropriate.
+
+### Article 22 — Eligible response actions
+
+The following response actions shall be eligible for financial assistance:
+
+(a) dispatching expert teams referred to in Article 17(1) together with logistical support and dispatching experts referred to in points (d) and (e) of Article 8;
+
+(b) in the event of a disaster, supporting Member States in obtaining access to equipment and transport and logistical resources as specified in Article 23; and
+
+(c) pursuant to a request for assistance, taking additional necessary supporting and complementary action in order to facilitate the coordination of response in the most effective way.
+
+### Article 23 — Eligible actions linked to equipment and operations
+
+1\. The following actions shall be eligible for financial assistance in order to allow access to equipment and transport and logistical resources under the Union Mechanism:
+
+(a) providing and sharing information on equipment and on transport and logistical resources that Member States decide to make available, with a view to facilitating the pooling of such equipment or transport and logistical resources;
+
+(b) assisting Member States to identify transport and logistical resources that may be available from other sources, including the commercial market, and facilitating their access to such resources;
+
+(c) assisting Member States to identify equipment that may be available from other sources, including the commercial market;
+
+(d) financing transport and logistical resources necessary for ensuring a rapid response to disasters. Such actions shall be eligible for financial support only if the following criteria are met:
+
+(i) a request for assistance has been made under the Union Mechanism in accordance with Articles 15 and 16;
+
+(ii) the additional transport and logistical resources are necessary for ensuring the effectiveness of disaster response under the Union Mechanism;
+
+(iii) the assistance corresponds to the needs identified by the ERCC and is delivered in accordance with the recommendations given by the ERCC on the technical specifications, quality, timing and modalities for delivery;
+
+(iv) the assistance has been accepted by a requesting country, directly or through the United Nations or its agencies, or a relevant international organisation, under the Union Mechanism; and
+
+(v) the assistance complements, for disasters in third countries, any overall Union humanitarian response.
+
+1a. The amount of Union financial assistance for the transport of capacities not pre-committed to the European Civil Protection Pool and deployed in the event of a disaster or imminent disaster inside or outside the Union and for any other transport support needed to respond to a disaster shall not exceed 75 % of the total eligible cost.
+
+2\. The amount of Union financial assistance for capacities pre-committed to the European Civil Protection Pool shall not exceed 75 % of the costs of operating the capacities, including transport, in the event of a disaster or imminent disaster inside or outside the Union.
+
+4\. The Union financial assistance for transport and logistical resources may cover a maximum of 100 % of the total eligible costs specified in points (a) to (d), where this is necessary to make the pooling of Member States’ assistance operationally effective and where the costs relate to one of the following:
+
+(a) short-term rental of warehousing capacity to temporarily store the assistance from Member States with a view to facilitating their coordinated transport;
+
+(b) transport from the Member State offering the assistance to the Member State facilitating its coordinated transport;
+
+(c) repackaging of Member States’ assistance to make maximum use of available transport capacities or to meet specific operational requirements; or
+
+(d) local transport, transit and warehousing of pooled assistance with a view to ensuring a coordinated delivery at the final destination in the requesting country.
+
+4a. When rescEU capacities are used for national purposes in accordance with Article 12(5), all costs, including maintenance and repair costs, shall be covered by the Member State using the capacities.
+
+4b. In the event of deployment of rescEU capacities under the Union Mechanism, Union financial assistance shall cover 75 % of the operational costs.
+
+By way of derogation from the first subparagraph, Union financial assistance shall cover 100 % of the operational costs of rescEU capacities necessary for low probability disasters with a high impact, when those capacities are deployed under the Union Mechanism.
+
+4c. For deployments outside the Union, as referred to in Article 12(10), Union financial assistance shall cover 100 % of the operational costs.
+
+4d. When the Union financial assistance referred to in this Article does not cover 100 % of costs, the remaining amount of the costs shall be borne by the requester of the assistance, unless otherwise agreed with the Member State offering assistance or the Member State hosting the rescEU capacities.
+
+4e. For the deployment of rescEU capacities, Union financial assistance may cover 100 % of any direct costs necessary for the transport of cargo, logistical means and services, within the Union, and to the Union from third countries.
+
+5\. In the case of pooling of transport operations involving several Member States, a Member State may take the lead in requesting Union financial support for the entire operation.
+
+6\. When a Member State requests the Commission to contract transport services, the Commission shall request partial reimbursement of the costs according to the funding rates set out in paragraphs 1a, 2 and 4.
+
+6a. Without prejudice to paragraphs 1a and 2, Union financial support for the transport of assistance needed in environmental disasters in which the ‘polluter pays principle’ applies may cover a maximum of 100 % of the total eligible costs. The following conditions shall apply:
+
+(a) the Union financial support for the transport of assistance is requested by the affected or assisting Member State based on a duly justified needs assessment;
+
+(b) the affected or assisting Member State, as appropriate, takes all necessary steps to request and obtain compensation from the polluter, in accordance with all applicable international, Union or national legal provisions;
+
+(c) upon receiving compensation from the polluter, the affected or assisting Member State, as appropriate, shall immediately reimburse the Union.
+
+In the event of an environmental disaster as referred to in the first subparagraph which does not affect a Member State, the actions referred to in points (a), (b) and (c) shall be carried out by the assisting Member State.
+
+7\. The following costs shall be eligible for Union financial assistance for transport and logistical resources under this Article: all costs relating to the movement of transport and logistical resources, including the costs of all services, fees, logistical and handling costs, fuel and possible accommodation costs as well as other indirect costs such as taxes, duties in general and transit costs.
+
+8\. Transport costs may consist of unit costs, lump sums or flat rates, determined per category of cost.
+
+### Article 24 — Beneficiaries
+
+Grants awarded under this Decision may be awarded to legal persons, whether governed by private or public law.
+
+### Article 25 — Types of financial intervention and implementing procedures
+
+1\. The Commission shall implement the Union’s financial support in accordance with the Financial Regulation.
+
+2\. The Commission shall implement the Union’s financial support in direct management in accordance with the Financial Regulation or, where justified by the nature and content of the action concerned, in indirect management with the bodies referred to in point (c)(ii), (iv), (v) and (vi) of Article 62(1) of the Financial Regulation.
+
+3\. Financial support under this Decision may take any of the forms laid down in the Financial Regulation, in particular the form of grants, procurement or contributions to trust funds.
+
+4\. In accordance with point (a) of the second subparagraph of Article 193(2) of the Financial Regulation, taking into account the delayed entry into force of Regulation (EU) 2021/836 of the European Parliament and of the Council ( 6 ) and in order to ensure continuity, in duly justified cases specified in the financing decision and for a limited period, costs incurred in respect of actions supported under this Decision may be considered eligible as of 1 January 2021, even if they were incurred before the grant application was submitted.
+
+5\. In order to implement this Decision, the Commission shall adopt annual or multi-annual work programmes, by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(2). The annual or multi-annual work programmes shall set out the objectives pursued, the expected results, the method of implementation and their total amount. They shall also contain a description of actions to be financed, an indication of the amount allocated to each action and an indicative implementation timetable. With regard to the financial assistance referred to in Article 28(2), the annual or multi-annual work programmes shall describe the actions foreseen for countries referred to therein.
+
+No annual or multi-annual work programmes shall be required for actions falling under the disaster response laid down in Chapter IV, which cannot be provided for in advance.
+
+6\. For the purposes of transparency and predictability, the budgetary execution and the projected future allocations shall be presented and discussed on a yearly basis in the committee referred to in Article 33. The European Parliament shall be kept informed.
+
+7\. In addition to Article 12(4) of the Financial Regulation, commitment and payment appropriations that have not been used by the end of the financial year for which they were entered in the annual budget shall be automatically carried over and may be committed and paid up to 31 December of the following year. The carried-over appropriations shall be used solely for response actions. The carried-over appropriations shall be the first appropriations to be used in the following financial year.
+
+### Article 26 — Complementarity and consistency of Union action
+
+1\. Actions receiving financial assistance under this Decision shall not receive assistance from other Union financial instruments. However, in accordance with Article 191(1) of Regulation (EU, Euratom) 2018/1046 ( 7 ), financial assistance granted pursuant to Articles 21, 22 and 23 of this Decision shall not prevent financing from other Union instruments in accordance with the conditions established therein.
+
+The Commission shall ensure that applicants for financial assistance under this Decision, and beneficiaries of such assistance, provide it with information about financial assistance received from other sources, including the general budget of the Union, and about on-going applications for such assistance.
+
+2\. Synergies, complementarity and increased coordination shall be developed with other instruments of the Union such as those supporting cohesion, rural development, research, health, migration and security policies, as well as the European Union Solidarity Fund. In the case of a response to humanitarian crises in third countries, the Commission shall ensure the complementarity and coherence of actions financed under this Decision with actions financed under Regulation (EC) No 1257/96, and that those actions are implemented in line with the European Consensus on Humanitarian Aid.
+
+3\. When assistance under the Union Mechanism contributes to a Union humanitarian response, particularly in complex emergencies, actions receiving financial assistance under this Decision shall be based on identified needs and shall be consistent with the humanitarian principles as well as the principles on the use of civil protection and military resources as set out in the European Consensus on Humanitarian Aid.
+
+### Article 27 — Protection of the financial interests of the Union
+
+Where a third country participates in the Union Mechanism by means of a decision adopted pursuant to an international agreement or on the basis of any other legal instrument, the third country shall grant the necessary rights and access required for the authorising officer responsible, OLAF and the Court of Auditors to comprehensively exercise their respective competences. In the case of OLAF, such rights shall include the right to carry out investigations, including on-the-spot checks and inspections, as provided for in Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council ( 8 ).
+
+## CHAPTER VI — GENERAL PROVISIONS
+
+### Article 28 — Third countries and international organisations
+
+1\. The Union Mechanism shall be open to the participation of:
+
+(a) European Free Trade Association (EFTA) countries which are members of the European Economic Area (EEA), in accordance with the conditions laid down in the EEA Agreement, and other European countries when agreements and procedures so provide;
+
+(b) acceding countries, candidate countries and potential candidates, in accordance with the general principles and general terms and conditions for the participation of those countries in Union programmes established in the respective Framework Agreements and Association Council Decisions, or similar agreements.
+
+1a. Participation in the Union Mechanism shall include participation in its activities in accordance with the objectives, requirements, criteria, procedures and deadlines provided for in this Decision, and shall be in accordance with the specific conditions laid down in the agreements between the Union and the participating state.
+
+2\. Financial assistance referred to in Article 20 and points (a), (b), (f) and (h) of Article 21(1) may also be granted to candidate countries and potential candidates not participating in the Union Mechanism, as well as to countries that are part of the ENP, to the extent that that financial assistance complements funding available under a future Union legislative act relating to the establishment of the Instrument for Pre-Accession Assistance (IPA II) and a future Union legislative act relating to the establishment of a European Neighbourhood Instrument.
+
+3\. International or regional organisations, or countries that are part of the European Neighbourhood Policy may cooperate in activities under the Union Mechanism where relevant bilateral or multilateral agreements between those organisations or countries and the Union so allow.
+
+### Article 29 — Competent authorities
+
+For the purposes of applying this Decision, Member States shall appoint the competent authorities and inform the Commission accordingly.
+
+### Article 30 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 19(6) and in the second subparagraph of Article 21(3) shall be conferred on the Commission until 31 December 2027.
+
+4\. The delegation of power referred to in Article 19(6) and in the second subparagraph of Article 21(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+5\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+6\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+7\. A delegated act adopted pursuant to Article 19(6) or the second subparagraph of Article 21(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 31 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 30(5). In such a case, the Commission shall repeal the act without delay following the notification of the decision to object by the European Parliament or by the Council.
+
+### Article 32 — Implementing acts
+
+1\. The Commission shall adopt implementing acts on the following matters:
+
+(a) the interaction of the ERCC with Member States' contact points, as provided for in point (b) of Article 8, Article 15(3) and point (a) of Article 16(3); and the operational procedures for the response to disasters within the Union, as provided for in Article 15, as well as outside the Union, as provided for in Article 16, including identification of relevant international organisations;
+
+(b) the components of CECIS as well as the organisation of information sharing through CECIS, as provided for in point (b) of Article 8;
+
+(c) the process for deploying expert teams, as provided for in Article 17;
+
+(d) the identification of modules, other response capacities and experts as provided for in Article 9(1);
+
+(e) the operational requirements for the functioning and interoperability of modules, as provided for in Article 9(2), including their tasks, capacities, main components, self-sufficiency and deployment;
+
+(f) the capacity goals, the quality and interoperability requirements and the certification and registration procedure necessary for the functioning of the European Civil Protection Pool  , as provided for in Article 11, as well as the financial arrangements, as provided for in Article 21(2);
+
+(g) the establishment, management and maintaining of rescEU, as provided for in Article 12, including criteria for deployment decisions, operating procedures as well as the costs as referred to in Article 21(3);
+
+(h) the establishment and organisation of the Union Civil Protection Knowledge Network, as provided for in Article 13;
+
+(ha) the categories of low probability risks with a high impact and the corresponding capacities to manage them, as referred to in Article 21(4);
+
+(hb) the criteria and procedures for recognising long-standing commitment and extraordinary contributions to Union civil protection, as referred to in Article 20a; and
+
+(i) the organisation of support for transport and logistical resources, as provided for in Articles 18 and 23.
+
+2\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(2).
+
+### Article 33 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+### Article 34 — Evaluation
+
+1\. Actions receiving financial assistance shall be monitored regularly in order to follow their implementation.
+
+2\. Every two years, the Commission shall submit a report to the European Parliament and to the Council on operations and progress made under Article 6(5) and Articles 11 and 12. The report shall include information on progress made towards the Union disaster resilience goals, capacity goals and remaining gaps as referred to in Article 11(2), taking into account the establishment of rescEU capacities in accordance with Article 12. The report shall also provide an overview of the budgetary and cost developments relating to response capacities, and an assessment of the need for further development of those capacities.
+
+3\. By 31 December 2023 and every five years thereafter, the Commission shall evaluate the application of this Decision and submit a communication on the effectiveness, cost efficiency and continued implementation of this Decision, in particular as regards Article 6(4), rescEU capacities and the degree of coordination and synergies achieved with other Union policies, programmes and funds, including medical emergencies, to the European Parliament and to the Council. That communication shall be accompanied, where appropriate, by proposals for amendments to this Decision.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+### Article 35 — Transitional Provisions
+
+Until 31 December 2027  , Union financial assistance may be provided to cover 75 % of the costs necessary to ensure rapid access to national capacities corresponding to those defined in accordance with Article 12(2). For that purpose, direct grants may be awarded by the Commission to Member States without a call for proposals.
+
+The capacities referred to in the first paragraph shall be designated as rescEU capacities until the end of this transitional period.
+
+By way of derogation from Article 12(6), the decision on the deployment of the capacities referred to in the first paragraph shall be taken by the Member State that made them available as rescEU capacities. When domestic emergencies, force majeure or, in exceptional cases, serious reasons prevent a Member State from making those capacities available for a specific disaster, that Member State shall inform the Commission as soon as possible by referring to this Article.
+
+### Article 36 — Repeal
+
+Decision 2007/162/EC, Euratom and Decision 2007/779/EC, Euratom are repealed. References to the repealed Decisions shall be construed as references to this Decision and shall be read in accordance with the correlation table in Annex II to this Decision.
+
+### Article 37 — Entry into force
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union. It shall apply from 1 January 2014.
+
+## ANNEX I
+
+Percentages for allocation of the financial envelope for the implementation of the Union Mechanism referred to in Article 19(1a) and of the amount referred to in Article 19a for the period 2021 to 2027
+
+Prevention: 5 % +/- 4 percentage points
+
+Preparedness: 85 % +/- 10 percentage points
+
+Response: 10 % +/- 9 percentage points
+
+Principles
+
+When implementing this Decision, the Union target of contributing to overall climate objectives and to the ambition of mainstreaming biodiversity action in the Union’s policies shall be duly taken into account to the extent that the unpredictability and specific circumstances of disaster preparedness and response so allow.
+
+## ANNEX IA
+
+**Categories of eligible costs as referred to in Article 21(3)**
+
+1\. Equipment costs
+
+2\. Maintenance costs, including repair costs
+
+3\. Insurance costs
+
+4\. Training costs
+
+5\. Warehousing costs
+
+6\. Registration and certification costs
+
+7\. Cost of consumables
+
+8\. Cost of personnel required to ensure the availability and deployability of rescEU capacities.
+
+## ANNEX II
+
+**Correlation table**
+
+| Council Decision 2007/162 EC, Euratom | Council Decision 2007/779 EC, Euratom | This Decision |
+| --- | --- | --- |
+| Article 1 (1) |  | — |
+| Article 1 (2) |  | Article 1 (4) |
+| Article 1 (3) |  | — |
+| Article 1 (4) | Article 1(2) | Article 2 (2) |
+|  | Article 1 (1) | — |
+|  | Article 1 (2), first subparagraph | Article 1 (2) |
+|  | Article 1 (2), second subparagraph | Article 1 (5) |
+| Article 2 (1) |  | Article 2 (1), point (a) |
+| Article 2 (2) |  | Article 2 (1), point (b) |
+| Article 2 (3) |  | Article 1 (6) |
+|  | Article 2, point (1) | — |
+|  | Article 2, point (2) | Article 13 (1), point (a) |
+|  | Article 2, point (3) | Article 20, point (b) |
+|  | Article 2, point (4) | Article 8, point (d) |
+|  | Article 2, point (5) | Article 7 and Article 8, point (a) |
+|  | Article 2, point (6) | Article 8, point (b) |
+|  | Article 2, point (7) | Article 8, point (c) |
+|  | Article 2, point (8) | Article 18 (1) |
+|  | Article 2, point (9) | Article 18 (2) |
+|  | Article 2, point (10) | Article 16 (7) |
+|  | Article 2, point (11) | — |
+| Article 3 | Article 3 | Article 4 |
+| Article 4 (1) |  | Article 20 and Article 21 |
+| Article 4 (2), point (a) |  | Article 22, point (a) |
+| Article 4 (2), point (b) |  | Article 22, point (b), and Article 23 (1), points (a), (b) and (c) |
+| Article 4 (2), point (c) |  | Article 23 (1), point (d) |
+| Article 4 (3) |  | Article 23 (2) and (4) |
+| Article 4 (4) |  | Article 32 (1), point (i) |
+|  | Article 4(1) | Article 9 (1) |
+|  | Article 4 (2) | Article 9 (3) |
+|  | Article 4 (3) | Article 9 (1) and (2) |
+|  | Article 4 (4) | Article 9 (4) |
+|  | Article 4 (5) | Article 9 (5) |
+|  | Article 4 (6) | Article 9 (6) |
+|  | Article 4 (7) | Article 9 (9) |
+|  | Article 4 (8) | Article 9 (7) |
+| Article 5 |  | Article 24 |
+|  | Article 5, point (1) | Article 8, point (a) |
+|  | Article 5, point (2) | Article 8, point (b) |
+|  | Article 5, point (3) | Article 8, point (c) |
+|  | Article 5, point (4) | Article 8, point (d) |
+|  | Article 5, point (5) | Article 13 (1), point (a) |
+|  | Article 5, point (6) | — |
+|  | Article 5, point (7) | Article 13 (1), point (d) |
+|  | Article 5, point (8) | Article 13 (1), point (f) |
+|  | Article 5, point (9) | Article 18 |
+|  | Article 5, point (10) | Article 8, point (e) |
+|  | Article 5, point (11) | Article 8, point (g) |
+| Article 6 (1) |  | Article 25 (1) |
+| Article 6 (2) |  | Article 25 (2) |
+| Article 6 (3) |  | Article 25 (3), third and fourth sentences |
+| Article 6 (4) |  | — |
+| Article 6 (5) |  | Article 25 (3), first and second sentences |
+| Article 6 (6) |  | — |
+|  | Article 6 | Article 14 |
+| Article 7 |  | Article 28 (1) |
+|  | Article 7 (1) | Article 15 (1) |
+|  | Article 7 (2) | Article 15 (3) |
+|  | Article 7 (2), point (a) | Article 15 (3), point (a) |
+|  | Article 7 (2), point (c) | Article 15 (3), point (b) |
+|  | Article 7 (2), point (b) | Article 15 (3), point (c) |
+|  | Article 7 (3), first and third sentences | Article 15 (4) and Article 16 (6) |
+|  | Article 7 (4) | Article 15 (5) |
+|  | Article 7 (5) | — |
+|  | Article 7 (6) | Article 17 (3), first sentence |
+| Article 8 |  | Article 26 |
+|  | Article 8 (1) first subparagraph | Article 16 (1) |
+|  | Article 8 (1), second subparagraph | Article 16 (2), first sentence |
+|  | Article 8 (1), third subparagraph | — |
+|  | Article 8 (1), fourth subparagraph | — |
+|  | Article 8 (2) | Article 16 (4) |
+|  | Article 8 (3) | — |
+|  | Article 8 (4), point (a) | Article 16 (3), point (a) |
+|  | Article 8 (4), point (b) | Article 16 (3), point (c) |
+|  | Article 8 (4), point (c) | Article 16 (3), point (d) |
+|  | Article 8 (4), point (d) | Article 16 (3), point (e) |
+|  | Article 8 (5) | Article 16 (8) |
+|  | Article 8 (6), first subparagraph | Article 17 (1) and Article 17 (2), point (b) |
+|  | Article 8 (6), second subparagraph | Article 17 (3), second sentence |
+|  | Article 8 (7), first subparagraph | — |
+|  | Article 8 (7), second subparagraph | Article 16 (2), second sentence |
+|  | Article 8 (7), third subparagraph | Article 16 (9) |
+|  | Article 8 (7), fourth subparagraph | Article 16 (11) |
+|  | Article 8 (7), fifth subparagraph | — |
+|  | Article 8 (8) | Article 16 (10) |
+|  | Article 8 (9), point (a) | Article 16 (12) |
+|  | Article 8 (9), point (b) | Article 16 (13) |
+| Article 9 |  | Article 16 (2) |
+|  | Article 9 | Article 18 |
+| Article 10 |  | Article 19 (3) |
+|  | Article 10 | Article 28 |
+| Article 11 |  | — |
+|  | Article 11 | Article 29 |
+| Article 12 (1) |  | Article 27 (1) |
+| Article 12 (2) |  | — |
+| Article 12 (3) |  | — |
+| Article 12 (4) |  | — |
+| Article 12 (5) |  | — |
+|  | Article 12 (1) | Article 32 (1), point (e) |
+|  | Article 12 (2) | Article 32 (1), point (a) |
+|  | Article 12 (3) | Article 32 (1), point (b) |
+|  | Article 12 (4) | Article 32 (1), point (c) |
+|  | Article 12 (5) | Article 32 (1), point (h) |
+|  | Article 12 (6) | Article 32 (1), point (d) |
+|  | Article 12 (7) | — |
+|  | Article 12 (8) | — |
+|  | Article 12 (9) | Article 32 (1), second part of point (a) |
+| Article 13 | Article 13 | Article 33 |
+| Article 14 |  | Article 19 |
+| Article 15 | Article 14 | Article 34 |
+|  | Article 15 | Article 36 |
+| Article 16 |  | Article 37, second sentence |
+| Article 17 | Article 16 | Article 38 |
+
+( 1 ) Decision No 1082/2013/EU of the European Parliament and of the Council of 22 October 2013 on serious cross-border threats to health and repealing Decision No 2119/98/EC (OJ L 293, 5.11.2013, p. 1).
+
+( 2 ) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69).
+
+( 3 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 4 ) OJ C 25, 30.1.2008, p. 1.
+
+( 5 ) Council Regulation (EU) 2020/2094 of 14 December 2020 establishing a European Union Recovery Instrument to support the recovery in the aftermath of the COVID-19 crisis (OJ L 433 I, 22.12.2020, p. 23).
+
+( 6 ) Regulation (EU) 2021/836 of the European Parliament and of the Council of 20 May 2021 amending Decision No 1313/2013/EU on a Union Civil Protection Mechanism (OJ L 185, 26.5.2021, p. 1).
+
+( 7 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 8 ) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999, (OJ L 248, 18.9.2013, p. 1).

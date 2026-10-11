@@ -1,0 +1,393 @@
+---
+title: "Decision No 1080/2011/EU of the European Parliament and of the Council of 25 October 2011 granting an EU guarantee to the European Investment Bank against losses under loans and loan guarantees for projects outside the Union and repealing Decision No 633/2009/EC"
+identifier: "32011D1080"
+eli: "http://data.europa.eu/eli/dec/2011/1080/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2011-10-25
+entry_into_force: 2011-09-26
+last_amended: 2012-04-25
+consolidated_version: "02011D1080-20120425"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011D1080-20120425"
+retrieved: 2026-10-11
+---
+
+# Decision No 1080/2011/EU of the European Parliament and of the Council of 25 October 2011 granting an EU guarantee to the European Investment Bank against losses under loans and loan guarantees for projects outside the Union and repealing Decision No 633/2009/EC
+
+**DECISION No 1080/2011/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2011**
+
+**granting an EU guarantee to the European Investment Bank against losses under loans and loan guarantees for projects outside the Union and repealing Decision No 633/2009/EC**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DECISION of 8 February 2012 </td><td> L 110</td><td>38</td><td>24.4.2012</td></tr>
+</table>
+
+**DECISION No 1080/2011/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2011**
+
+**granting an EU guarantee to the European Investment Bank against losses under loans and loan guarantees for projects outside the Union and repealing Decision No 633/2009/EC**
+
+## Article 1 — EU guarantee
+
+1\. The European Union shall grant the European Investment Bank (EIB) an EU budgetary guarantee for financing operations carried out outside the Union (‘EU guarantee’). The EU guarantee shall be granted as a global guarantee in respect of payments not received by the EIB, but due to it, in connection with loans and loan guarantees for EIB investment projects that are eligible in accordance with paragraph 2. EIB financing activities shall comply with the general guiding principles, and contribute to the achievement of the objectives and policies, of Union external action. An objective for EIB financing in developing countries, as defined in the list of official development assistance (ODA) recipients established by the OECD, shall be to contribute indirectly to development objectives such as reducing poverty through inclusive growth and sustainable economic and social development.
+
+2\. The EIB loans and loan guarantees that are eligible for the EU guarantee shall be those granted for investment projects carried out in the countries listed in Annex III, granted in accordance with the EIB’s own rules and procedures, including the EIB’s statement on social and environmental standards, and in support of the relevant Union external policy objectives, where EIB financing has been granted in accordance with a signed agreement which has neither expired nor been cancelled (‘EIB financing operations’).
+
+3\. The EU guarantee shall be restricted to 65 % of the aggregate amount of credits disbursed and guarantees provided under EIB financing operations, less amounts reimbursed, plus all related amounts.
+
+4\. The EU guarantee shall cover EIB financing operations signed during the period from 1 February 2007 to 31 December 2013. EIB financing operations signed under Council Decisions 2006/1016/EC and 2008/847/EC ( 5 ) and under Decision No 633/2009/EC shall continue to benefit from the EU guarantee under this Decision.
+
+5\. If, on expiry of the period referred to in paragraph 4, the European Parliament and the Council have not adopted a decision granting a new EU guarantee to the EIB for its financing operations outside the Union in accordance with Article 16, that period shall be automatically extended by six months.
+
+## Article 2 — Mandate ceilings
+
+1\. The maximum ceiling of the EIB financing operations under EU guarantee throughout the period 2007-2013, less amounts cancelled, shall not exceed EUR 29 484 000 000 , broken down into two parts:
+
+(a) a General Mandate of EUR 27 484 000 000 ;
+
+(b) a Climate Change Mandate of EUR 2 000 000 000 .
+
+2\. The General Mandate shall be broken down into regional ceilings and sub-ceilings as laid down in Annex I. Within the regional ceilings, the EIB shall progressively ensure a balanced country distribution within the regions covered by the General Mandate.
+
+3\. The General Mandate shall cover only EIB financing operations pursuing the objectives set out in Article 3.
+
+4\. The Climate Change Mandate shall cover the EIB financing operations in all countries covered by this Decision, where such operations support the key Union policy objective of tackling climate change by supporting projects in climate change mitigation and adaptation which contribute to the overall objective of the United Nations Framework Convention on Climate Change, in particular by avoiding or reducing greenhouse gas emissions in the areas of renewable energy, energy efficiency and sustainable transport, or by increasing resilience to the adverse impacts of climate change on vulnerable countries, sectors and communities. The Climate Change Mandate shall be implemented in close cooperation with the Commission, combining where possible and appropriate EIB financing with Union budget funds.
+
+The Council may, where appropriate and on a proposal from the Commission, decide to restrict the eligibility of a country to receive EIB financing for climate-change mitigation under the EU guarantee. Any such restriction of eligibility under the Climate Change Mandate shall apply only to those EIB financing operations for which an EIB financing application is submitted after 30 October 2011 and which are signed after 1 January 2012.
+
+5\. For the Climate Change Mandate, the EIB shall endeavour to ensure a balanced distribution of financing operations signed across the regions covered by Annex III, by the end of the period referred to in Article 1(4). In particular, the EIB will ensure that the region referred to under point A of Annex III does not receive more than 40 % of the amount allocated to this Mandate; the region under point B not more than 50 %; the region under point C not more than 30 %; and the region under point D not more than 10 %. Generally, the Climate Change Mandate shall be used to finance projects that are closely related to the EIB’s core competences, that add value and that maximise the effect on adaptation and mitigation of climate change.
+
+6\. Both the General Mandate and the Climate Change Mandate shall be managed in accordance with the principles of sound banking practices.
+
+## Article 3 — General Mandate objectives
+
+1\. The EU guarantee shall be granted for EIB financing operations which support any of the following general objectives:
+
+(a) local private sector development, in particular support to SMEs;
+
+(b) development of social and economic infrastructure, including transport, energy, environmental infrastructure, and information and communication technology;
+
+(c) climate change mitigation and adaptation, as referred to in Article 2(4).
+
+2\. Within the core competences of the EIB, its financing operations carried out under this Decision shall contribute to the general principles guiding Union external action, as referred to in Article 21 TEU and shall contribute to the implementation of international environmental agreements to which the Union is a party.
+
+3\. Regional integration among partner countries, including economic integration between pre-accession countries, neighbourhood countries and the Union, shall be an underlying objective for EIB financing operations within areas covered by the general objectives listed in paragraph 1.
+
+4\. The EIB shall consider increasing its activity in support of health and education infrastructure when there is clear added value in doing so.
+
+## Article 4 — Countries covered
+
+1\. The list of countries potentially eligible for EIB financing under EU guarantee is set out in Annex II. The list of countries eligible for EIB financing under EU guarantee is set out in Annex III and shall include no countries other than those listed in Annex II. For countries not listed in Annex II, eligibility for EIB financing under EU guarantee shall be decided on a case-by-case basis in accordance with the ordinary legislative procedure.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 5 concerning amendments to Annex III. The Commission’s decisions shall be based on an overall economic and political assessment, including aspects related to the democracy, human rights and fundamental freedoms as well as the relevant European Parliament resolutions and Council decisions and conclusions. Delegated acts amending Annex III shall not affect the EU guarantee coverage of EIB financing operations signed before the entry into force of those delegated acts.
+
+3\. The EU guarantee shall cover only EIB financing operations carried out in eligible countries that have concluded a framework agreement with the EIB establishing the legal conditions under which such operations are to be carried out.
+
+4\. The EU guarantee shall not cover EIB financing operations in a specific country with which the agreement concerning such operations has been signed after that country’s accession to the Union.
+
+## Article 5 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4 shall be conferred on the Commission for an indeterminate period of time from 30 October 2011.
+
+3\. The delegation of power referred to in Article 4 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 4 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 6 — Contribution of EIB financing operations to Union policies
+
+1\. The Commission shall develop, together with the EIB, regional technical operational guidelines for EIB financing under this Decision.
+
+The regional technical operational guidelines, aiming at ensuring that EIB financing operations support Union policies, shall be consistent with the wider Union regional policy framework set out in Annex IV. In particular the regional technical operational guidelines will ensure that EIB financing under this Decision is complementary to corresponding Union assistance policies, programmes and instruments in the different regions.
+
+In drawing up these guidelines, the Commission and the EIB will consult with the EEAS on policy issues, as appropriate, and shall take into account relevant European Parliament resolutions and Council decisions and conclusions.
+
+The Commission shall transmit to the European Parliament and to the Council the guidelines, and any update thereof, as soon as they are established.
+
+Within the framework set out by the regional technical operational guidelines, the EIB shall define corresponding financing strategies and ensure their implementation.
+
+2\. The consistency of EIB financing operations with Union external policy objectives shall be monitored in accordance with Article 11. The EIB shall develop performance indicators in relation to development, environmental and human rights aspects of projects funded taking into account the relevant indicators under the Paris Declaration for Aid Effectiveness, in order to facilitate such monitoring. Indicators for environmental aspects of projects should include criteria for ‘clean technology’ which are oriented in principle at energy efficiency and technologies for reducing emissions.
+
+3\. An EIB financing operation shall not be covered by the EU guarantee in the event that the Commission delivers a negative opinion on such an operation within the framework of the procedure provided for in Article 19 of the Statute of the EIB.
+
+4\. In line with Union and international climate change objectives, the EIB shall, in cooperation with the Commission, present by 31 December 2012 a strategy on how to gradually and steadily increase under its external mandate the percentage of projects promoting the reduction of CO2 emissions and phase out financing projects detrimental to the achievement of Union climate objectives.
+
+5\. With a view to the additional requirements introduced by this Decision, the EIB governing bodies shall ensure that EIB resources, including staff, are gradually adjusted in order to adequately meet the requirements laid down in this Decision. Opportunities to further enhance efficiency and effectiveness should be exploited, and synergies should be actively pursued.
+
+## Article 7 — EIB assessment of development-related aspects of projects
+
+1\. The EIB shall carry out thorough due diligence and, where appropriate and in line with Union social and environmental principles, require the presence of appropriate local public consultation, on development-related aspects of projects covered by the EU guarantee.
+
+The EIB’s own rules and procedures shall include the necessary provisions on assessment of environmental and social impact of projects and of aspects related to human rights to ensure that only projects that are economically, financially, environmentally and socially sustainable are supported under this Decision.
+
+The Commission shall include on an aggregate basis in the annual report to the European Parliament and to the Council an assessment of the development dimension of the activities of the EIB, based on the due diligence carried out for projects.
+
+Where appropriate, the appraisal shall include an assessment of how the capacities of the beneficiaries of EIB financing can be reinforced throughout the project cycle with technical assistance.
+
+2\. In addition to the ex-ante assessment of development-related aspects, the EIB shall require the project promoters to carry out thorough monitoring during project implementation until completion, inter alia, on the development, environmental and human rights impact of the project. The EIB shall assess the information provided by the project promoters. The EIB monitoring shall include, where possible, monitoring of the performance of financial intermediaries in support of SMEs. The results of monitoring shall, where possible, be disclosed.
+
+3\. The EIB shall submit to the Commission annual reports assessing the estimated development impact of the operations financed during the year.
+
+The reports shall be based on the EIB performance indicators referred to in Article 6(2). The Commission shall present the development reports of the EIB to the European Parliament and to the Council in the framework of the annual reporting exercise provided for in Article 11 and make them publicly available so that interested stakeholders, including civil society and recipient countries, are also able to express their views on the matter.
+
+The European Parliament shall discuss the annual reports, taking into consideration the views of all interested parties.
+
+4\. The requirements referred to in this Article shall apply only to the EIB financing operations for which the EIB financing application is submitted after 30 October 2011 and which are signed after 1 January 2012.
+
+## Article 8 — Cooperation with the Commission and the EEAS
+
+1\. The consistency of EIB external actions with Union external policy objectives shall be strengthened, with a view to maximising synergies between EIB financing and Union budgetary resources, in particular through the establishment of the regional technical operational guidelines referred to in Article 6, as well as through regular and systematic dialogue and early exchange of information on:
+
+(a) strategic documents prepared by the Commission and/or the EEAS as appropriate, such as country and regional strategy papers, indicative programmes, action plans and pre-accession documents;
+
+(b) the EIB’s strategic planning documents and project pipelines;
+
+(c) other policy and operational aspects.
+
+2\. The cooperation shall be carried out on a region-by-region basis, taking into consideration the EIB’s role as well as the policies of the Union in each region.
+
+## Article 9 — Cooperation with other public financing institutions
+
+1\. EIB financing operations shall increasingly be carried out, where appropriate, in cooperation with other IFIs or EBFIs, in order to maximise synergies, cooperation and efficiency and to ensure prudent and reasonable sharing of risks and coherent project and sector conditionality, in order to minimise possible duplication of costs and unnecessary overlap.
+
+2\. The cooperation referred to in paragraph 1 shall be facilitated by coordination, carried out in particular in the context of memoranda of understanding or other Union regional cooperation frameworks, where appropriate, between the Commission, the EIB and the main IFIs and EBFIs operating in the different regions, whilst taking into account the competences of the EEAS.
+
+## Article 10 — Coverage and terms of the EU guarantee
+
+1\. For EIB financing operations entered into with a State, or guaranteed by a State, and for other EIB financing operations entered into with regional or local authorities, or government-owned and/or government-controlled public enterprises or institutions where such other EIB financing operations have an appropriate EIB credit risk assessment taking into account the credit risk situation of the country concerned, the EU guarantee shall cover all payments not received by the EIB, but due to it (‘Comprehensive Guarantee’).
+
+2\. For the purposes of paragraph 1, the West Bank and Gaza Strip is represented by the Palestinian Authority and Kosovo ( 6 ) is represented by the United Nations Mission in Kosovo or by an administration designated in the regional technical operational guidelines referred to in Article 6.
+
+3\. For EIB financing operations other than those indicated in paragraph 1, the EU guarantee shall cover all payments not received by the EIB, but due to it, where the non-receipt has been caused by the realisation of one of the following political risks (‘Political Risk Guarantee’):
+
+(a) non-transfer of currency;
+
+(b) expropriation;
+
+(c) war or civil disturbance;
+
+(d) denial of justice upon breach of contract.
+
+4\. The EIB shall, in consultation with the Commission, develop a clear and transparent allocation policy for deciding upon the source of financing of operations which are eligible both for coverage by the EU guarantee and for EIB own-risk financing.
+
+5\. When the EU guarantee is called, the EIB shall assign to the Union the relevant rights in accordance with the agreement referred to in Article 13(2).
+
+## Article 11 — Annual reporting and accounting
+
+1\. The Commission shall report annually to the European Parliament and to the Council on EIB financing operations carried out under this Decision. The report shall include an assessment of EIB financing operations at project, sector, country and regional levels, as well as an assessment of the contribution of those financing operations to the fulfilment of Union external policy and strategic objectives. The report shall provide an overview of ongoing projects at an aggregated level.
+
+The report shall in particular assess the compliance of EIB financing operations with this Decision, taking into account the regional technical operational guidelines referred to in Article 6, and shall include sections on added value for the achievement of Union policy objectives, on the assessment of the estimated development impact at an aggregated level and the extent to which the EIB has taken into account environmental and social sustainability in the design and monitoring of the projects financed, as well as on cooperation with the Commission and other IFIs and EBFIs, including co-financing.
+
+The report shall in particular include a breakdown of all Union financial resources used in combination with EIB financing and other donors, thus giving an overview of the financial exposure of financing operations carried out under this Decision. Moreover, it shall contain a specific section devoted to a detailed evaluation of the measures taken by the EIB to comply with Article 1(2).
+
+2\. The EIB shall continue to provide the European Parliament, the Council and the Commission with all its independent evaluation reports which assess the practical results achieved by the specific activities of the EIB under the external mandates.
+
+3\. For the purposes of paragraph 1, the EIB shall provide the Commission with yearly reports on EIB financing operations carried out under this Decision at project, sector, country and regional levels and on the fulfilment of Union external policy and strategic objectives, including cooperation with the Commission, other IFIs and EBFIs, as well as a development impact assessment report, as referred to in Article 7. Any memoranda of understanding between the EIB and other IFIs or EBFIs relating to carrying out financing operations under this Decision shall be made public or, where that is not possible, notified to the European Parliament and to the Council as part of the Commission’s annual reporting referred to in paragraph 1 of this Article.
+
+4\. The EIB shall provide the Commission with statistical, financial and accounting data on each of the EIB financing operations, as well as any additional information necessary to fulfil the Commission’s reporting duties or requests by the Court of Auditors and an auditor’s certificate on the outstanding amounts of the EIB financing operations.
+
+5\. For the purposes of the Commission’s accounting and reporting of the risks covered by the Comprehensive Guarantee, as defined in Article 10(1), the EIB shall provide the Commission with the EIB’s risk assessment and grading information concerning EIB financing operations with borrowers or guaranteed obligors other than States.
+
+6\. The EIB shall provide the information referred to in paragraphs 3, 4 and 5 at its own expense.
+
+7\. The EIB shall also make publicly available the information referred to in paragraphs 3 and 4, in general terms and excluding any confidential information.
+
+8\. Information on whether the project is covered by the EU guarantee shall be included in the ‘project summary’ disclosed on the EIB website after the approval stage.
+
+9\. The EIB shall include in its annual report a follow-up assessment of the functioning of the memorandum of understanding with the European Ombudsman in so far as that memorandum concerns EIB financing operations covered by this Decision.
+
+10\. Where appropriate, the requirements mentioned in paragraphs 1 and 3 shall apply only to EIB financing operations for which the EIB financing application is submitted after 30 October 2011 and which are signed after 1 January 2012.
+
+## Article 12 — Non-cooperative jurisdictions
+
+In its financing operations, the EIB shall not tolerate any activities carried out for illegal purposes, including money laundering, financing of terrorism, tax fraud and tax evasion. In particular the EIB shall not participate in any financing operation implemented in an eligible country through a foreign non-cooperative jurisdiction identified as such by the OECD, the Financial Action Task Force or other relevant international organisations.
+
+## Article 13 — Recovery of payments made by the Commission
+
+1\. Where the Commission makes any payment under the EU guarantee, the EIB shall, in the name and on behalf of the Commission, pursue the recovery of claims for the amounts paid.
+
+2\. No later than the date of conclusion of the guarantee agreement referred to in Article 14, the Commission and the EIB shall enter into an agreement laying down the detailed provisions and procedures relating to recovery of claims.
+
+3\. In the interests of transparency, the Commission shall make publicly available on its website specific information relating to all cases of recoveries under the guarantee agreement referred to in Article 14 unless confidentiality is necessary.
+
+## Article 14 — Guarantee agreement
+
+The Commission and the EIB shall enter into a guarantee agreement laying down the detailed provisions and procedures relating to the EU guarantee and shall inform the European Parliament accordingly.
+
+## Article 15 — Auditing by the Court of Auditors
+
+The EU guarantee and the payments and recoveries under it attributable to the general budget of the European Union shall be audited by the Court of Auditors.
+
+## Article 16 — Review
+
+The Commission shall present to the European Parliament and to the Council a proposal, as appropriate, for establishing the EU guarantee under the next multiannual financial framework.
+
+## Article 17 — Final reporting
+
+By 31 October 2014, the Commission shall present to the European Parliament and to the Council a final report on the application of this Decision.
+
+## Article 18 — Repeal
+
+Decision No 633/2009/EC is hereby repealed.
+
+## Article 19 — Entry into force
+
+This Decision shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+## ANNEX I
+
+**REGIONAL CEILINGS OF THE GENERAL MANDATE**
+
+A. Pre-accession countries : EUR 9 048 000 000
+
+B. Neighbourhood and Partnership countries :
+
+EUR 13 548 000 000 , broken down into the following indicative sub-ceilings:
+
+(i) Mediterranean countries: EUR 9 700 000 000 ;
+
+(ii) Eastern Europe, Southern Caucasus and Russia: EUR 3 848 000 000 ;
+
+C. Asia and Latin America :
+
+EUR 3 952 000 000 , broken down into the following indicative sub-ceilings:
+
+(i) Latin America: EUR 2 912 000 000 ;
+
+(ii) Asia (including central Asia): EUR 1 040 000 000 ;
+
+D. Republic of South Africa : EUR 936 000 000 .
+
+Within the overall ceiling of the General Mandate, the EIB governing bodies may decide to reallocate an amount of up to 10 % of the regional ceilings within and between regions.
+
+## ANNEX II
+
+**POTENTIALLY ELIGIBLE REGIONS AND COUNTRIES**
+
+**A. Pre-accession countries**
+
+**1\. Candidates**
+
+Croatia, Iceland, the former Yugoslav Republic of Macedonia, Montenegro, Turkey
+
+**2\. Potential candidates**
+
+Albania, Bosnia and Herzegovina, Kosovo ( 7 ), Serbia
+
+**B. Neighbourhood and Partnership countries**
+
+**1\. Mediterranean countries**
+
+Algeria, Egypt, the West Bank and the Gaza Strip, Israel, Jordan, Lebanon, Libya, Morocco, Syria, Tunisia
+
+**2\. Eastern Europe, Southern Caucasus and Russia**
+
+Eastern Europe: Belarus, Republic of Moldova, Ukraine
+
+Southern Caucasus: Armenia, Azerbaijan, Georgia
+
+Russia
+
+**C. Asia and Latin America**
+
+**1\. Latin America**
+
+Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela
+
+**2\. Asia**
+
+Asia (excluding central Asia): Afghanistan, Bangladesh, Bhutan, Brunei, Cambodia, China (including Hong Kong and Macao Special Administrative Regions), India, Indonesia, Iraq, Laos, Malaysia, Maldives, Mongolia, Nepal, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Taiwan, Thailand, Vietnam, Yemen
+
+Central Asia: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan
+
+**D. South Africa**
+
+Republic of South Africa
+
+## ANNEX III
+
+**ELIGIBLE REGIONS AND COUNTRIES**
+
+**A. Pre-accession countries**
+
+**1\. Candidates**
+
+Croatia, Iceland, the former Yugoslav Republic of Macedonia, Montenegro, Turkey
+
+**2\. Potential candidates**
+
+Albania, Bosnia and Herzegovina, Kosovo ( 8 ), Serbia
+
+**B. Neighbourhood and Partnership countries**
+
+**1\. Mediterranean countries**
+
+Algeria, Egypt, the West Bank and the Gaza Strip, Israel, Jordan, Lebanon, Libya, Morocco, Syria,  Tunisia
+
+**2\. Eastern Europe, Southern Caucasus and Russia**
+
+Eastern Europe: Republic of Moldova, Ukraine
+
+Southern Caucasus: Armenia, Azerbaijan, Georgia
+
+Russia
+
+**C. Asia and Latin America**
+
+**1\. Latin America**
+
+Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela
+
+**2\. Asia**
+
+Asia (excluding central Asia): Bangladesh, Brunei, Cambodia, China (including Hong Kong and Macao Special Administrative Regions), India, Indonesia, Iraq, Laos, Malaysia, Maldives, Mongolia, Nepal, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Thailand, Vietnam, Yemen
+
+Central Asia: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan
+
+**D. South Africa**
+
+Republic of South Africa
+
+## ANNEX IV
+
+**REGIONAL POLICY FRAMEWORK**
+
+EIB activity in partners participating in the pre-accession process takes place in the framework established in the Accession and European Partnerships which set out the priorities for candidates and potential candidates with a view to making progress in moving closer to the Union, and which provide a framework for Union assistance. The Stabilisation and Association Process is the Union policy framework for the western Balkans. It is based on progressive partnership, in which the Union offers trade concessions, economic and financial assistance and contractual relationships through Stabilisation and Association Agreements. Pre-accession financial assistance, through the IPA, helps the candidates and potential candidates prepare for the obligations and challenges of membership of the Union. This assistance supports the reform process, including preparations for eventual membership. It focuses on institution-building, alignment with the acquis of the Union, preparation for Union policies and instruments and promotion of measures to achieve economic convergence.
+
+EIB activity in neighbourhood countries takes place in the framework of the European Neighbourhood Policy, under which the Union aims to develop a special relationship with neighbourhood countries with a view to establishing an area of prosperity and good neighbourliness, founded on the values of the Union, such as democracy, the rule of law, good governance and respect for human rights, and characterised by close and peaceful relations based on cooperation in accordance with performance-driven differentiation. In the framework of this cooperation, EIB financing under this Decision will also be targeted at policies promoting inclusive growth and job creation contributing to social stability in line with an incentive-based approach supporting Union external policy objectives, including in relation to migration issues.
+
+In order to achieve these objectives the Union and its partners implement jointly agreed bilateral action plans defining a set of priorities including on political and security issues, trade and economic matters, environmental and social concerns and integration of transport and energy networks.
+
+The Union for the Mediterranean, the Union Strategy for the Danube Region, the Union Strategy for the Baltic Sea Region, the Eastern Partnership and the Black Sea Synergy are multilateral and regional initiatives complementary to the European Neighbourhood Policy aimed at fostering cooperation between the European Union and the respective group of neighbourhood partner countries facing common challenges and/or sharing a common geographical environment. The Union for the Mediterranean aims to relaunch the Euro-Mediterranean integration process by supporting mutual economic, social and environmental development on both sides of the Mediterranean and supports improved socioeconomic development, solidarity, regional integration, sustainable development and knowledge building, underlining the need to increase financial cooperation to support regional and trans-national projects. The Union for the Mediterranean supports, in particular, the creation of maritime and land highways, the de-pollution of the Mediterranean, the Mediterranean solar energy plan, the Mediterranean Business Development Initiative, civil protection initiatives and the Euro-Mediterranean university. The Union Strategy for the Baltic Sea Region supports a sustainable environment and optimal economic and social development in the Baltic Sea region. The Union Strategy for the Danube Region supports, in particular, the development of transport, energy connections and security, sustainable environment and socioeconomic development in the Danube region. The Eastern Partnership aims to create the necessary conditions to accelerate political association and further economic integration between the Union and eastern partner countries. The Russian Federation and the Union have a wide-ranging strategic partnership, distinct from the European Neighbourhood Policy and expressed through the Common Spaces and Roadmaps. These are complemented at multilateral level by the Northern Dimension which provides a framework for cooperation between the Union, Russia, Norway and Iceland.
+
+EIB activity in Latin America takes place in the framework of the Union, Latin America and the Caribbean Strategic Partnership. As highlighted in the September 2009 Commission Communication ‘The European Union and Latin America: Global Players in Partnership’, the Union’s priorities in the field of cooperation towards Latin America are the promotion of regional integration and the eradication of poverty and social inequality in order to promote sustainable economic and social development. These policy objectives will be fostered taking into account the different level of development of Latin America countries. Bilateral dialogue will be pursued in areas of common interest for the Union and Latin America, including environment, climate change, disaster risk reduction and energy, science, research, higher education, technology and innovation.
+
+The EIB is encouraged to be active in Asia both in dynamic emerging economies and in less prosperous countries. In this diverse region, the Union is deepening its strategic partnerships with China and India and negotiations are progressing on new partnership and free trade agreements with south-east Asian countries. At the same time, development cooperation remains high on the Union’s agenda with Asia; the Union development strategy for the Asian region aims at eradicating poverty by supporting broad-based sustainable economic growth, promoting a conducive environment and conditions for trade and integration within the region, enhancing governance, increasing political and social stability, and supporting the achievement of the 2015 Millennium Development Goals. Policies are being put in place jointly to address common challenges, such as climate change, sustainable development, security and stability, governance and human rights, as well as the prevention of, and response to, natural and human disasters. The Union Strategy for a new partnership with central Asia adopted by the European Council in June 2007 has strengthened regional and bilateral dialogue and Union cooperation with central Asian countries on major issues facing the region, such as poverty reduction, sustainable development and stability. The implementation of the strategy has brought about important advances in the fields of human rights, the rule of law, good governance and democracy, education, economic development, trade and investment, energy and transport and environmental policies.
+
+EIB activity in South Africa takes place in the framework of the EU Country Strategy Paper for South Africa. The focal areas identified in that Strategy Paper are employment creation and capacity development for service delivery and social cohesion. EIB activities in South Africa have taken place in high complementarity with the Commission’s development cooperation programme, namely through the EIB focus on private sector support and investments in expansion of infrastructure and social services (housing, electric power, drinking water purification and municipal infrastructure). The mid-term review of the EU Country Strategy Paper for South Africa has proposed the strengthening of actions in the area of climate-change through activities supporting the creation of green jobs.
+
+( 1 ) Position of the European Parliament of 17 February 2011 (not yet published in the Official Journal) and position of the Council at first reading of 20 September 2011 (not yet published in the Official Journal). Position of the European Parliament of 13 October 2011.
+
+( 2 ) OJ L 190, 22.7.2009, p. 1.
+
+( 3 ) OJ L 145, 10.6.2009, p. 10.
+
+( 4 ) OJ L 414, 30.12.2006, p. 95.
+
+( 5 ) Council Decision 2008/847/EC of 4 November 2008 on the eligibility of central Asian countries under Decision 2006/1016/EC granting a Community guarantee to the European Investment Bank against losses under loans and loan guarantees for projects outside the Community (OJ L 301, 12.11.2008, p. 13).
+
+( 6 ) Under United Nations Security Council Resolution 1244 (1999).
+
+( 7 ) Under United Nations Security Council Resolution 1244 (1999).
+
+( 8 ) Under United Nations Security Council Resolution 1244 (1999).

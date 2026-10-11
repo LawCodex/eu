@@ -1,0 +1,474 @@
+---
+title: "2010/670/EU: Commission Decision of 3 November 2010 laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO 2 as well as demonstration projects of innovative renewable energy technologies under the scheme for greenhouse gas emission allowance trading within the Community established by Directive 2003/87/EC of the European Parliament and of the Council (notified under document C(2010) 7499)"
+identifier: "32010D0670"
+eli: "http://data.europa.eu/eli/dec/2010/670/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2010-11-03
+entry_into_force: 2010-01-09
+last_amended: 2017-11-22
+consolidated_version: "02010D0670-20171122"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010D0670-20171122"
+retrieved: 2026-10-11
+---
+
+# 2010/670/EU: Commission Decision of 3 November 2010 laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO 2 as well as demonstration projects of innovative renewable energy technologies under the scheme for greenhouse gas emission allowance trading within the Community established by Directive 2003/87/EC of the European Parliament and of the Council (notified under document C(2010) 7499)
+
+**COMMISSION DECISION**
+
+**of 3 November 2010**
+
+**laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO2 as well as demonstration projects of innovative renewable energy technologies under the scheme for greenhouse gas emission allowance trading within the Community established by Directive 2003/87/EC of the European Parliament and of the Council**
+
+**(notified under document C(2010) 7499)**
+
+**(2010/670/EU)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DECISION (EU) 2015/191 of 5 February 2015 </td><td> L 31</td><td>31</td><td>7.2.2015</td></tr>
+<tr><td></td><td> COMMISSION DECISION (EU) 2017/2172 of 20 November 2017 </td><td> L 306</td><td>24</td><td>22.11.2017</td></tr>
+</table>
+
+**COMMISSION DECISION**
+
+**of 3 November 2010**
+
+**laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO2 as well as demonstration projects of innovative renewable energy technologies under the scheme for greenhouse gas emission allowance trading within the Community established by Directive 2003/87/EC of the European Parliament and of the Council**
+
+**(notified under document C(2010) 7499)**
+
+**(2010/670/EU)**
+
+## Article 1 — Subject matter
+
+This Decision lays down rules and criteria for the following:
+
+(1) the selection of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO2 (‘CCS demonstration projects’) and demonstration projects of innovative renewable energy technologies (‘RES demonstration projects’) referred to in Directive 2003/87/EC;
+
+(2) the monetisation of the allowances referred to in Directive 2003/87/EC for the support of CCS and RES demonstration projects, and the management of the related revenues;
+
+(3) the disbursement of revenues and the implementation of CCS and RES demonstration projects.
+
+This Decision, including the provisions in relation to the monetisation of allowances, shall be without prejudice to other implementing acts adopted pursuant to Directive 2003/87/EC.
+
+## Article 2 — Principles
+
+1\. The number of allowances in the new entrants’ reserve referred to in Article 10a(8) of Directive 2003/87/EC shall be 300 million.
+
+2\. Selection of CCS and RES demonstration projects for funding under this Decision shall take place through two rounds of calls for proposals organised by the Commission and addressed to Member States, covering the equivalent of 200 million allowances for the first round of call for proposals, and the equivalent of 100 million allowances and the remaining allowances from the first round of calls for proposals for the second round of calls for proposals.
+
+3\. Subject to the fourth sentence in the fourth subparagraph of Article 10a(8) of Directive 2003/87/EC, financing under this Decision shall be 50 % of the relevant costs. Where the total request for public funding is less than 50 % of the relevant costs, the total request for public funding shall be financed under this Decision.
+
+However, where financing under this Decision is combined with financing from the European Energy Programme for Recovery (EEPR), the financing under this Decision shall be reduced by the amount of financing received from the EEPR.
+
+4\. Any non-disbursed revenues from the first round of calls for proposals shall be available to support first-of-a-kind innovative, replicable and ready to demonstrate at scale CCS and RES demonstration projects, using relevant financial instruments managed by the European Investment Bank Group, with a priority given to the InnovFin EDP Facility and the Debt Instrument in the sector of transport under Connecting Europe Facility.
+
+The preceding paragraph, Articles 6, 8, 11(1) to (5), the first and second subparagraphs of Article 11(6) and Article 13 shall not apply to the use of these revenues.
+
+The Commission shall report sufficiently in advance to the Climate Change Committee on the development of the relevant Delegation Agreements between the Commission and the European Investment Bank, in particular as regards the related eligibility criteria, implementation of the relevant financial instruments, especially the build-up of the project pipeline, assessment of the project applications and finally on the use of the redeployed revenues, and take appropriate account of the views of Member States.
+
+## Article 3 — Relevant costs
+
+1\. For the purposes of Article 2(3), the rules in paragraphs 2 to 5 of this Article shall apply.
+
+2\. The relevant costs of CCS demonstration projects shall be those investment costs which are borne by the project due to the application of CCS net of the net present value of the best estimate of operating benefits and costs arising due to the application of CCS during the first 10 years of operation.
+
+3\. Relevant costs of RES demonstration projects shall be those extra investment costs which are borne by the project as a result of the application of an innovative renewable energy technology net of the net present value of the best estimate of operating costs and benefits arising during the first 5 years compared to a conventional production with the same capacity in terms of effective production of energy.
+
+4\. The investment costs referred to in paragraphs 2 and 3 shall cover the cost of investment in land, plant and equipment.
+
+Investment costs may also relate to investment in technology transfer and operating licenses of know-how (hereinafter ‘intangible assets’) where the following conditions are fulfilled:
+
+(a) the intangible asset can be considered as a depreciable asset;
+
+(b) the intangible asset is purchased on market terms at the lowest price possible;
+
+(c) the intangible asset remains in the establishment of the recipient for at least 5 years.
+
+If the intangible asset is sold before the expiry of the 5-year period referred to in point (c) of the second subparagraph, the yield from the sale shall be deducted from the relevant costs.
+
+5\. The net operating costs and benefits referred to in paragraphs 2 and 3 shall be based on the best estimate of operating expenses borne by the project regarding production costs and take into account any additional benefits resulting from support schemes even if they do not constitute State aid within the meaning of Article 107(1) of the Treaty, avoided costs and existing tax incentive measures.
+
+## Article 4 — Role of the EIB
+
+The European Investment Bank (EIB) shall perform its tasks under this Decision on request of, on behalf of and for the account of the Commission. The Commission shall be responsible with regard to third parties.
+
+The EIB shall be reimbursed for the performance of those tasks from income generated from its management of the revenues.
+
+The Commission and the EIB shall enter into an agreement laying down the specific terms and conditions under which the EIB shall perform its tasks.
+
+## Article 5 — Selection procedure
+
+1\. The calls for proposals shall be published in the Official Journal of the European Union.
+
+2\. Member States shall collect funding applications for projects that are intended to take place on their territory.
+
+However, where a project is intended to take place on the territory of several Member States (hereinafter a ‘transboundary project’), the Member State receiving the funding application shall inform the other Member States concerned thereof and shall cooperate with the other Member States with a view to reaching a common decision on the submission of the project by the Member State receiving the funding application.
+
+3\. Member States shall assess whether a project meets the eligibility criteria referred to in Article 6. Where this is the case and where the Member State supports the project, that Member State shall submit the proposal to the EIB and inform the Commission thereof.
+
+When submitting proposals for funding, the Member State shall provide the following information for each project:
+
+(a) the relevant costs, in euro, referred to in Article 2(3);
+
+(b) the total request for public funding in euro, which is the relevant costs minus any contribution to those costs from the operator;
+
+(c) the best estimate of the net present value of additional benefits resulting from support schemes as calculated according to Article 3(5);
+
+(d) for CCS demonstration projects, the total projected amount of CO2 stored in the first 10 years of operation, or, for RES demonstration projects, the total projected amount of energy produced in the first 5 years of operation.
+
+Member States shall also notify the Commission of any financing for the project involving State aid pursuant to Article 108(3) of the Treaty so as to allow coordination of the selection procedure with the State aid assessment.
+
+4\. On the basis of the proposals submitted pursuant to paragraph 3 of this Article, the EIB shall perform an assessment of the financial and technical viability (financial and technical due diligence) of the project in accordance with Article 7.
+
+Where that assessment has been concluded positively, the EIB shall, in accordance with Article 8, make recommendations for award decisions to the Commission.
+
+5\. On the basis of the recommendations referred to in paragraph 4, after reconsulting the Member States concerned to confirm, where appropriate, the value and structure of the total public funding contribution, and following an opinion from the Climate Change Committee pursuant to Article 3 of Council Decision 1999/468/EC ( 1 ), the Commission shall adopt award decisions addressed to the relevant Member States, indicating the awarded funding for the projects concerned in euro.
+
+## Article 6 — Eligibility criteria
+
+1\. A project shall be eligible for funding where the following criteria are fulfilled:
+
+(a) the project must fall into one of the categories set out in Part A of Annex I;
+
+(b) the project must comply with the requirements set out in Part B of Annex I;
+
+(c) the projects listed in Part A.II of Annex I must be innovative in nature. Existing, proven technologies are ineligible.
+
+2\. Where a Member State is not in a position to submit proposals for projects falling under any of the subcategories specified in Part A.II of Annex I which meet the relevant thresholds to the EIB pursuant to Article 5(3), proposals for projects below the relevant thresholds for any of the subcategories concerned may be submitted by this Member State and shall be considered eligible for the award of financing by way of derogation from paragraph 1.
+
+## Article 7 — Financial and technical due diligence
+
+The EIB shall perform the due diligence assessment of any proposed project in accordance with specifications laid down in the calls for proposals referred to in Article 5(1) and shall cover at least the following aspects:
+
+(1) technical scope;
+
+(2) costs;
+
+(3) financing;
+
+(4) implementation;
+
+(5) operation;
+
+(6) environmental impact;
+
+(7) procurement procedures.
+
+## Article 8 — Project selection
+
+1\. Eight projects falling under Part A.I of Annex I and one project in each project subcategory specified in Part A.II of Annex I shall be funded.
+
+However, where resources allow, further projects may be funded while maintaining the balance between CCS and RES demonstration projects.
+
+Where no more than two proposals are submitted in a given subcategory, the Commission shall assess the possible impact of the limited number of proposals on the competition for selection under this Decision, and may, where appropriate, decide to postpone award decisions in the relevant subcategory to the second round of calls for proposals.
+
+2\. Projects shall be ranked in order of increasing cost-per-unit performance. CCS demonstration projects shall be ranked as a single group. RES demonstration projects shall be ranked within each of the subcategories specified in Part A.II of Annex I.
+
+For the purposes of the first subparagraph, cost-per-unit performance shall be calculated as the sum of the amounts specified in Article 5(3)(b) and (c), divided by the total projected amount of CO2 stored in the first 10 years of operation for CCS demonstration projects, or, the total projected amount of energy produced in the first 5 years of operation for the RES demonstration projects.
+
+Where the relevant Member States confirm, pursuant to Article 5(5), that there is a sufficient public funding for CCS demonstration projects, the highest ranked projects shall be selected in order of their ranking, provided all the following criteria are met:
+
+(a) at least one project and at most three projects are selected in each project category;
+
+(b) at least three projects with hydrocarbon reservoir storage are selected;
+
+(c) at least three projects with saline aquifer storage are selected.
+
+Where those criteria are not met, the project under consideration for selection shall not be selected, and the next highest ranked project shall be considered for selection. The procedure shall be repeated until eight projects are selected.
+
+Where the relevant Member States confirm, pursuant to Article 5(5), that there is a sufficient public funding for RES demonstration projects, the highest ranked project in each subcategory shall be selected. Where, in either of the rounds for calls for proposals there are no eligible and financially and technically viable projects in one or more project subcategories, a corresponding number of additional projects shall be funded in other subcategories of the same project category. Details shall be specified in the call for proposals pursuant to Article 5(1).
+
+The selected CCS demonstration projects shall collectively constitute ‘the CCS group’ and the selected RES demonstration projects shall collectively constitute ‘the RES group’.
+
+3\. By way of derogation from paragraph 1, where the total request for funding under this Decision is higher than the available funds, the number of selected projects shall be reduced so that the request for funding is reduced in the same proportion in each of the groups referred to in the third and fifth subparagraphs of paragraph 2.
+
+For each of the groups, the project representing the highest cost-per-unit performance shall be deselected first, the project representing the highest cost-per-unit performance in another category shall be deselected next. The procedure shall be repeated until the requested funding is covered by the available funds.
+
+4\. Subject to the availability of proposals submitted to the EIB pursuant to Article 5(3) and recommended by the EIB for award decisions to the Commission pursuant to Article 5(4), at least one and no more than three projects shall be funded within one Member State.
+
+However, the first subparagraph shall not apply to transboundary projects.
+
+## Article 9 — Award decisions
+
+Award decisions shall be conditional upon all relevant national permits in accordance with relevant requirements under Union law being issued, approval by the Commission of any State aid in respect of a project being granted, and final investment decisions being reached by the sponsors, within 48 months  of adoption of the award decisions.
+
+With regard to CCS demonstration projects, with saline aquifer storage, award decisions shall be conditional upon all relevant national permits in accordance with relevant requirements under Union law being issued, approval by the Commission of any State aid in respect of a project being granted, and final investment decisions being reached by the sponsors, within 60 months  of adoption of the award decisions.
+
+Award decisions shall cease to have legal effect where the conditions referred to in the first or second paragraph are not met.
+
+## Article 10 — Monetisation of allowances and management of revenues
+
+1\. For the purposes of monetisation of allowances and management of revenues, the Commission shall act on behalf of Member States.
+
+2\. The Member States and the Commission shall ensure that the 300 million allowances referred to in Article 2(1) shall be transferred to the EIB for monetisation and management of the revenues.
+
+3\. The EIB shall sell the allowances for the first round of calls for proposals before the award decisions are adopted by the Commission for each round of calls for proposals referred to in Article 5(1).
+
+The EIB shall manage the revenues and shall pass them to Member States as required for disbursement pursuant to Article 11.
+
+## Article 11 — Disbursement of revenues and use of non-disbursed revenues
+
+1\. Member States shall disburse the revenues to project sponsors on the basis of legally binding instruments which shall set out at least the following:
+
+(a) the project and the awarded funding in euro;
+
+(b) the date of entry into operation;
+
+(c) the requirements for knowledge-sharing pursuant to Article 12;
+
+(d) requirements regarding disbursement of the revenues pursuant to paragraphs 2 to 6 of this Article;
+
+(e) requirements for reporting pursuant to Article 13;
+
+(f) the information on conditions of applicability of the decision referred to in Article 9.
+
+For the first round of calls for proposals referred to in Article 5(1), the date of entry into operation referred to in point (b) of the first subparagraph of this paragraph shall be 31 December 2017  at the latest except where the respective award decision is adopted after 31 December 2011, in which case the date of entry into operation shall be no later than 6 years  from the date of the award decision.
+
+Where the project has not entered into operation by the date of entry into operation set for that project that date is automatically extended by 1 year.
+
+Award decisions shall cease to have legal effect where the project has not entered into operation by the date of entry into operation applicable pursuant to the third subparagraph. In this case, any funding disbursed or received for the purpose of disbursement shall be returned.
+
+2\. Disbursement shall take place annually. The disbursed amount shall be, for CCS demonstration projects, the amount of CO2 stored in the relevant year as monitored, reported and verified pursuant to Articles 14 and 15 of Directive 2003/87/EC multiplied by the funding rate, and for RES demonstration projects, the amount of energy produced multiplied by the funding rate.
+
+The funding rate shall be calculated by dividing the awarded funding by 75 % of the projected total amount of stored CO2 in the first 10 years of operation in case of CCS demonstration projects, or 75 % of the projected total amount of energy produced in the first 5 years of operation in the case of RES demonstration projects.
+
+3\. Disbursement for a given year shall take place only where the knowledge-sharing requirements are met for that year.
+
+4\. Disbursement shall be limited to a period of 10 years from the date referred to in paragraph (1)(b) in the case of CCS demonstration projects, and to a period of 5 years from that date in the case of RES demonstration projects. The total funds disbursed shall not exceed the awarded funding referred to in paragraph 1(a).
+
+5\. Where the Member State concerned guarantees that any funding which exceeds the funding determined pursuant to paragraphs 2, 3, and 4 will be returned to the EIB, part or all of the funding for a project may be disbursed prior to the entry into operation of that project in accordance with specifications set out in the award decision.
+
+6\. Without prejudice to the second paragraph of Article 4, revenues which are not disbursed to projects and income generated from the management of revenues shall be used to co-finance further demonstration projects under this Decision until 31 December 2015.
+
+Member States shall return revenues which are not disbursed to the EIB.
+
+After 31 December 2015, any remaining funds shall accrue to the Member States. At the end of disbursement, these funds shall be passed on to the Member States in accordance with the principles laid down in Article 10a(7) of Directive 2003/87/EC.
+
+## Article 12 — Knowledge-sharing
+
+Member States shall ensure that all project operators, consortium members, suppliers and subcontractors who receive substantial benefit regarding the development of their product or service from the public finance provided, share the information on the elements set out in Annex II with other project operators, public authorities, research institutes, non-governmental organisations and the public in accordance with the further specifications set out in the calls for proposals referred to in Article 5(1).
+
+Information shall be shared on an annual basis and shall comprise all information generated and processed in a given year.
+
+## Article 13 — Reporting by Member States
+
+During the periods referred to in Article 11(4), Member States shall, by 31 December of each year, submit reports on the implementation of the projects to the Commission.
+
+Those reports shall include at least the following information for each project:
+
+(1) the amount of CO2 stored or clean energy produced;
+
+(2) the funds disbursed;
+
+(3) any significant problems with project implementation.
+
+## Article 14 — Reporting by the Commission
+
+After completion of the first round of calls for proposals, the Commission shall report to the Climate Change Committee on the implementation of that round of calls for proposals, indicating whether any amendment to this Decision is necessary with the view to ensuring geographical and technical balance in the second round of calls for proposals.
+
+The Commission shall report regularly to the Climate Change Committee on the use of the revenues referred to in Article 2(4), including upfront information on the planned support for projects and the part of support to be made available in the form of grants, geographical distribution of projects, scale of projects and technological coverage, ex-post information on the progress of realization of projects, avoidance of CO2 emissions, financial leverage, awareness-raising and lessons learned, as appropriate.
+
+## Article 15 — Addressees
+
+This Decision is addressed to the Member States.
+
+## ANNEX I
+
+**ELIGIBILITY CRITERIA**
+
+**A. PROJECT CATEGORIES**
+
+**I. CCS demonstration project categories (with minimum capacity thresholds ( 2 ))**
+
+— power generation: pre-combustion 250 MW,
+
+— power generation: post-combustion 250 MW,
+
+— power generation: oxyfuel 250 MW,
+
+— industrial applications implementing: (a) CCS on refineries with 500 kilotonnes per year (kt/y) stored CO2 from one or more sources within the refinery; (b) CCS application to cement kiln with 500 kt/y stored CO2; (c) CCS application for primary production routes in iron and steel production with 500 kt/y stored CO2; or (d) CCS application for primary production routes in aluminium production with 500 kt/y stored CO2.
+
+**II. Innovative RES demonstration project categories (with minimum size thresholds)**
+
+— Bioenergy – project subcategories:
+
+— Lignocellulose to intermediate solid, liquid or slurry bioenergy carriers via pyrolysis with capacity 40 kt/y of the final product.
+
+— Lignocellulose to intermediate solid, liquid or slurry bioenergy carriers via torrefaction with capacity 40 kt/y of the final product.
+
+— Lignocellulose to Synthetic Natural Gas or synthesis gas and/or to power via gasification with capacity 40 million normal cubic metres per year (MNm3/y) of the final product or 100 GWh/y of electricity.
+
+— Lignocellulose to biofuels or bioliquids and/or to power including via directly heated gasification with capacity 15 million litres per year (Ml/y) of the final product or 100 GWh/y of electricity. Production of Synthetic Natural Gas is excluded under this subcategory.
+
+— Lignocellulosic raw material, such as black liquor and/or products from pyrolysis or torrefaction, via entrained flow gasification to any biofuels with capacity 40 Ml/y of the final product.
+
+— Lignocellulose to electricity with 48 % efficiency based on lower heating value (50 % moisture) with capacity 40 MWe or higher.
+
+— Lignocellulose to ethanol and higher alcohols via chemical and biological processes with capacity 40 Ml/y of the final product.
+
+— Lignocellulose and/or household waste to biogas, biofuels or bioliquids via chemical and biological processes with capacity 6 MNm3/y of Methane or 10 Ml/y of the final product.
+
+— Algae and/or micro-organisms to biofuels or bioliquids via biological and/or chemical processes with capacity 40 Ml/y of the final product.
+
+Note: sustainability criteria as provided in Directive 2009/28/EC of the European Parliament and of the Council ( 3 ) on the promotion of the use of energy from renewable sources shall be met for biofuels and bioliquids within the meaning of that Directive.
+
+— Concentrated solar power – project subcategories:
+
+— Parabolic trough or Fresnel system using molten salts or other environmentally-benign heat transfer fluid with nominal capacity 30 MW.
+
+— Parabolic trough or Fresnel system based on Direct Steam Generation with nominal capacity 30 MW. Direct steam solar temperature to be above 500 °C.
+
+— Tower system using superheated steam cycle (either multi-tower or combination liner collectors – tower) with nominal capacity 50 MW.
+
+— Tower system using pressurised air with temperature above 750 °C and solar hybrid gas turbine with nominal capacity 30 MW.
+
+— Large-scale Stirling dish power plants with solar to electric efficiency of over 20 % and nominal capacity of at least 25 MW.
+
+Note: Dry cooling, hybridisation and (advanced) heat storage solution may be included in the demonstration plants.
+
+— Photovoltaics – project subcategories:
+
+— Large-scale concentrator photovoltaics power plants with nominal capacity 20 MW.
+
+— Large-scale multi-junction Si-thin-film photovoltaics power plants with nominal capacity 40 MW.
+
+— Large-scale Copper indium gallium (di)selenide (CIGS)-based photovoltaics power plants with nominal capacity 40 MW.
+
+— Geothermal – project subcategories:
+
+— Enhanced geothermal systems in tensional stress fields with nominal capacity 5 MWe.
+
+— Enhanced geothermal systems in compressional stress fields with nominal capacity 5 MWe.
+
+— Enhanced geothermal systems in areas with deep compact sedimentary and granite rocks and other crystalline structures with nominal capacity 5 MWe.
+
+— Enhanced geothermal systems in deep limestone with nominal capacity 5 MWe.
+
+Note: Combined Heat and Power (CHP) applications with the same electricity thresholds are equally eligible.
+
+— Wind – project subcategories:
+
+— Off-shore wind (minimum turbines size 6 MW) with nominal capacity 40 MW.
+
+— Off-shore wind (minimum turbines size 8 MW) with nominal capacity 40 MW.
+
+— Off-shore wind (minimum turbines size 10 MW) with nominal capacity 40 MW.
+
+— Floating off-shore wind systems with nominal capacity 25 MW.
+
+— On-shore wind turbines optimised for complex terrains (such as forested terrains or mountainous areas): with nominal capacity 25 MW.
+
+— On-shore wind turbines optimised for cold climates (compatible with temperature lower than – 30 °C and severe icing conditions) with nominal capacity 25 MW.
+
+— Ocean – project subcategories:
+
+— Wave energy devices with nominal capacity 5 MW.
+
+— Marine/tidal currents energy devices with nominal capacity 5 MW.
+
+— Ocean thermal energy conversion (OTEC) with nominal capacity 10 MW.
+
+— Hydropower – project subcategories:
+
+— Power generation with High Temperature Superconducting Generators: 20 MW.
+
+— Distributed Renewable Management (smart grids) – project subcategories:
+
+— Renewable energy management and optimisation for small and medium-scale Distributed Generators in rural environment with predominant solar generation: 20 MW on Low Voltage (LV) network + 50 MW on Medium Voltage (MV) network.
+
+— Renewable energy management and optimisation for small and medium-scale Distributed Generators in rural environment with predominant wind generation: 20 MW on LV network + 50 MW on MV network.
+
+— Renewable energy management and optimisation for small and medium-scale Distributed Generators in urban environment: 20 MW on LV network + 50 MW on MV network.
+
+Note: The use of active loads (electric heaters/heat pumps etc.) shall not be excluded.
+
+**B. PROJECT REQUIREMENTS**
+
+**I. Common requirements**
+
+— The capacity thresholds laid down in Part A must be met.
+
+— With regard to the first round of calls for proposals, projects must demonstrate a reasonable expectation of entry into operation by 31 December 2015 on the basis of the adoption of the respective award decision by 31 December 2011.
+
+— All relevant national permits for the project must be in place and in line with relevant requirements under Union legislation or the relevant permit procedures under way and sufficiently advanced to ensure start-up of commercial operation could take place by 31 December 2015 for the first round on the basis of the adoption of the respective award decision by 31 December 2011.
+
+— The project operator has to make a binding commitment to knowledge-sharing pursuant to the requirements laid down in Article 12.
+
+— Projects shall be located in the territories of the Member States, their exclusive economic zones and their continental shelves.
+
+**II. CCS demonstration projects**
+
+— Each project has to implement the full chain (capture, transport and storage).
+
+— Each demonstration project must implement heat integration for the capture component of the process.
+
+— The capture rate has to be at least 85 % of CO2 from the flue gases to which capture is applied.
+
+— Each project has to contain an independent research block related to safety of storage sites and improvement of monitoring technologies especially in the field of brine migration, its possible pathways and impacts.
+
+## ANNEX II
+
+**KNOWLEDGE-SHARING REQUIREMENTS**
+
+**A. Technical set-up and performance**
+
+— reliability,
+
+— CO2 captured,
+
+— performance at different levels, including differences between expected and real performance,
+
+— increase in fuel demand; electricity, heat and cooling demand,
+
+— key inputs and outputs and design,
+
+— future identified Research and Development issues,
+
+**B. Cost level**
+
+— capital and operating costs,
+
+— totals and costs per unit performance (tonne CO2 stored, clean MWh produced),
+
+**C. Project management**
+
+— legislation/permitting,
+
+— stakeholder management, including interaction with Governments,
+
+— planning,
+
+— project organisation,
+
+**D. Environmental impact**
+
+— effectiveness: reduction of CO2 emissions per unit energy,
+
+— other environmental impacts at undisturbed operation,
+
+**E. Health and safety**
+
+— incidents and near misses occurred (disturbed operation),
+
+— monitoring and resolution systems to track safety,
+
+— health issues in undisturbed operation,
+
+**F. CCS storage site performance**
+
+— models and simulations (development CO2 plume – pressure front),
+
+— history match results and adjustments (assessment to be made: normal within a deviation range or significant irregularity that needs action),
+
+— behaviour of displaced brine through CO2 injection.
+
+( 1 ) OJ L 184, 17.7.1999, p. 23.
+
+( 2 ) CCS power thresholds are expressed as gross electrical output before capture.
+
+( 3 ) OJ L 140, 5.6.2009, p. 16.

@@ -1,0 +1,391 @@
+---
+title: "Decision (EU) 2017/1324 of the European Parliament and of the Council of 4 July 2017 on the participation of the Union in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA) jointly undertaken by several Member States"
+identifier: "32017D1324"
+eli: "http://data.europa.eu/eli/dec/2017/1324/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2017-07-04
+entry_into_force: 2017-12-14
+last_amended: 2024-05-09
+consolidated_version: "02017D1324-20240509"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017D1324-20240509"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2017/1324 of the European Parliament and of the Council of 4 July 2017 on the participation of the Union in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA) jointly undertaken by several Member States
+
+**DECISION (EU) 2017/1324 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2017**
+
+**on the participation of the Union in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA) jointly undertaken by several Member States**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2024/1167 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1167</td><td>1</td><td>19.4.2024</td></tr>
+</table>
+
+**DECISION (EU) 2017/1324 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 July 2017**
+
+**on the participation of the Union in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA) jointly undertaken by several Member States**
+
+## Article 1 — Participation in PRIMA
+
+1\. The Union shall participate in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA), an institutionalised European partnership as referred to in Article 10(1), point (c), of Regulation (EU) 2021/695 of the European Parliament and of the Council ( 1 ) (Horizon Europe), jointly undertaken by Bulgaria, Croatia, Cyprus, France, Germany, Greece, Israel, Italy, Luxembourg, Malta, Portugal, Slovenia, Spain, Tunisia and Turkey (Participating States), in accordance with the conditions laid down in this Decision and upon notification of their participation in the activities of PRIMA by signing a letter of commitment.
+
+2\. Algeria, Egypt, Jordan, Lebanon and Morocco shall continue to be Participating States for the purposes of the activities of PRIMA funded under Article 3(1), point (a) For the purpose of their participation in activities of PRIMA funded under Article 3(1), point (b), they shall be considered to be Participating States only upon the conclusion of an agreement, in the form of Exchange of Letters, amending and supplementing the existing international agreements for scientific and technological cooperation with the Union and setting out the new terms and conditions of their participation in PRIMA.
+
+3\. Any Member State and any third country associated to Horizon 2020 or Horizon Europe, other than those listed in paragraph 1 of this Article, may participate in PRIMA, provided that they fulfil the condition laid down in Article 4(1), point (c) and comply, in particular, with Article 11(5). They shall sign a letter of commitment confirming the terms and conditions of their participation in PRIMA with regard to Horizon 2020 or Horizon Europe as applicable.
+
+Member States and third countries associated to Horizon 2020 or Horizon Europe that fulfil the conditions set out in the first subparagraph shall be considered to be Participating States for the purposes of this Decision.
+
+4\. Any third country not associated to Horizon 2020 or Horizon Europe, other than those listed in paragraph 2 of this Article, may participate in PRIMA provided that:
+
+(a) it fulfils the condition laid down in Article 4(1), point (c) and complies, in particular, with Article 11(5);
+
+(b) the implementation structure for PRIMA (PRIMA-IS) approves its participation in PRIMA after examining the relevance of its participation towards achieving the objectives of PRIMA; and
+
+(c) it concludes an international agreement for scientific and technological cooperation with the Union setting out the terms and conditions of its participation in PRIMA.
+
+Third countries that fulfil the conditions set out in the first subparagraph shall be considered to be Participating States for the purposes of this Decision.
+
+## Article 2 — Objectives of PRIMA
+
+1\. PRIMA shall contribute to the general and specific objectives of Regulation (EU) 2021/695, and in particular Article 3 thereof, and shall deliver on the general objectives of building research and innovation capacities and developing knowledge and common innovative solutions for agro-food systems, making them sustainable, and for integrated water provision and management in the Mediterranean area, in order to make them, their management and their provision more climate resilient, efficient, cost-effective and environmentally and socially sustainable, and to enhance their contribution to solving water scarcity, food security, nutrition, health, well-being and migration problems upstream.
+
+2\. In order to contribute to the general objectives set out in paragraph 1, PRIMA shall fulfil the following specific objectives:
+
+(a) the formulation of a long-term, common, strategic agenda in the area of agro-food systems, to make them sustainable, and in the area of integrated water provision and management;
+
+(b) the orientation of relevant national research and innovation programmes towards the implementation of the strategic agenda;
+
+(c) the involvement of all relevant public and private sector actors in implementing the strategic agenda by pooling knowledge and financial resources to achieve the necessary critical mass;
+
+(d) the strengthening of the research and innovation funding capacities and of the implementation capabilities of all actors involved including SMEs, academia, non-governmental organisations and local research centres.
+
+## Article 3 — Union financial contribution to PRIMA
+
+1\. The Union financial contribution to PRIMA, including EEA appropriations, shall be equal to the Participating States’ contributions. The Union financial contribution shall be up to EUR 325 000 000 and shall be distributed as follows:
+
+(a) up to EUR 220 000 000 from Horizon 2020;
+
+(b) up to EUR 105 000 000 from Horizon Europe.
+
+The amount of the Union financial contribution from Horizon Europe may be increased by contributions from third countries associated to Horizon Europe in accordance with Article 16(5) of Regulation (EU) 2021/695, provided that the total increase in the Union financial contribution is at least matched by the contribution from the Participating States referred to in Article 1(1) of this Decision.
+
+2\. The Union financial contribution referred to in paragraph 1, point (a), of this Article shall be paid from the appropriations in the general budget of the Union allocated to the relevant parts of the specific programme implementing Horizon 2020, established by Council Decision 2013/743/EU, and in particular from Part II ‘Industrial leadership’ and Part III ‘Societal challenges’, in accordance with Article 57 of Regulation (EU) 2021/695 and Article 62(1), point (c)(vii), of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council ( 2 ).
+
+2a. The Union financial contribution referred to in paragraph 1, point (b), of this Article shall be paid from the appropriations in the general budget of the Union allocated to the relevant parts of the specific programme implementing Horizon Europe, established by Council Decision (EU) 2021/764 ( 3 ), specifically from Pillar II ‘Global challenges and European Industrial Competitiveness’, cluster (vi) ‘Food, Bioeconomy, Natural Resources, Agriculture and Environment’, in accordance with Article 62(1), point (c)(vii), of Regulation (EU, Euratom) 2018/1046.
+
+3\. The Union financial contribution referred to in paragraph 1 of this Article shall be used by PRIMA-IS to:
+
+(a) fund the activities referred to in point (a) of Article 6(1);
+
+(b) cover PRIMA-IS administrative costs, up to a maximum of 6 % of the Union financial contribution referred to in paragraph 1 of this Article.
+
+## Article 4 — Conditions for the Union financial contribution to PRIMA
+
+1\. The Union financial contribution referred to in Article 3(1) shall be conditional upon the following:
+
+(a) the demonstration by the Participating States that PRIMA is set up in accordance with this Decision;
+
+(b) the designation by the Participating States, or by organisations designated by the Participating States, of an entity with legal personality, as referred to in Article 62(1), point (c)(vii), of Regulation (EU, Euratom) 2018/1046, as PRIMA-IS, which shall be responsible for implementing PRIMA efficiently, for receiving, allocating and monitoring the Union financial contribution referred to in Article 3(1) of this Decision as well as the Participating States’ contributions, where appropriate, and for ensuring that all necessary actions are undertaken to achieve the objectives of PRIMA;
+
+(c) the commitment by the Participating States to contribute to the financing of PRIMA with a contribution from national resources relevant to the objectives of PRIMA that is at least equal to the Union financial contribution;
+
+(d) the demonstration by PRIMA-IS of its capacity to implement PRIMA, including receiving, allocating and monitoring the Union financial contribution referred to in Article 3(1) of this Decision in the framework of indirect management of the Union budget in accordance with Articles 62 and 154 of Regulation (EU, Euratom) 2018/1046;
+
+(e) the establishment of an efficient governance model for PRIMA in accordance with Article 12;
+
+(f) the adoption by PRIMA-IS, after obtaining approval from the Commission, of the common principles referred to in Article 6(9).
+
+2\. During the implementation of PRIMA, the Union financial contribution referred to in Article 3(1) shall also be conditional upon the following:
+
+(a) the implementation by PRIMA-IS of the objectives set out in Article 2, and of the activities referred to in Article 6;
+
+(b) the maintenance of an appropriate and efficient governance model in accordance with Article 12;
+
+(c) the compliance by PRIMA-IS with the reporting requirements set out in Article 155 of Regulation (EU, Euratom) 2018/1046;
+
+(d) the fulfilment by the Participating States of the commitments referred to in point (c) of paragraph 1 of this Article.
+
+3\. The Commission shall assess, on an ongoing basis, the fulfilment of commitments undertaken by the Participating States and, following that assessment, may involve Participating States and PRIMA-IS as necessary and take appropriate measures including those provided for in Article 9.
+
+## Article 5 — Participating States' contributions to PRIMA
+
+1\. The Participating States shall make, or arrange for their national funding bodies to make, contributions, whether financial or in kind, of at least EUR 325 000 000 from 7 August 2017 until 31 December 2031.
+
+2\. The Participating States' contributions shall consist of the following:
+
+(a) where appropriate, financial contributions to PRIMA-IS in view of funding indirect actions referred to in point (a) of Article 6(1);
+
+(b) financial or in-kind contributions in implementing activities referred to in point (b) of Article 6(1); and
+
+(c) financial or in-kind contributions to the administrative budget of PRIMA-IS not covered by the Union financial contribution as set out in point (b) of Article 3(3).
+
+3\. In-kind contributions referred to in point (b) of paragraph 2 of this Article shall consist of costs incurred by the Participating States in implementing activities referred to in point (b) of Article 6(1), less any direct or indirect Union financial contribution to those costs.
+
+4\. In-kind contributions referred to in point (c) of paragraph 2 shall consist of costs incurred by the Participating States in relation to the administrative budget of PRIMA-IS, less any direct or indirect Union financial contribution to those costs.
+
+5\. For the purpose of valuing the in-kind contributions referred to in points (b) and (c) of paragraph 2, the costs shall be determined in accordance with the usual accounting practices of the Participating States or the national funding bodies concerned, the applicable accounting standards of the Participating State where the national funding bodies concerned are established and the applicable International Accounting Standards and International Financial Reporting Standards. The costs shall be certified by an independent auditor appointed by the Participating States or the national funding bodies concerned. Should there be any uncertainty arising from the certification, the valuation method may be verified by PRIMA-IS. In the event of remaining uncertainties, the valuation method may be audited by PRIMA-IS.
+
+6\. The Participating States’ contributions referred to in paragraph 2 of this Article shall be made after the adoption of the annual work programme. Where the annual work programme is adopted during the reference year referred to in Article 6(2), the contributions referred to in paragraph 2, point (c), of this Article that count as contributions from Participating States included in the annual work programme may include contributions made from 1 January of that year. However, the contributions referred to in paragraph 2, point (c), of this Article that count as contributions from Participating States included in the first annual work programme may include contributions made after 7 August 2017.
+
+## Article 6 — Activities and implementation of PRIMA
+
+1\. PRIMA shall support a wide range of research and innovation activities, as described in its annual work programme, by means of:
+
+(a) indirect actions within the meaning of Regulations (EU) No 1290/2013 and (EU) No 2021/695 funded by PRIMA-IS in accordance with Article 7 of this Decision, mainly in the form of grants following transnational open, transparent and competitive calls for proposals organised by PRIMA-IS, including:
+
+(i) research and innovation actions, as well as innovation actions;
+
+(ii) coordination and support actions focusing on dissemination and outreach to promote PRIMA and maximise its impact;
+
+(b) activities funded by the Participating States without the Union financial contribution referred to in Article 3(1) that contribute to the objectives of PRIMA or that are directly linked to the uptake of results from projects under PRIMA and that consist of:
+
+(i) activities selected following transnational open, transparent and competitive calls for proposals organised by PRIMA-IS, managed by the national funding bodies under the national programmes of the Participating States, providing financial support mainly in the form of grants;
+
+(ii) activities under the national programmes of the Participating States including transnational projects.
+
+2\. PRIMA shall be implemented on the basis of annual work programmes covering activities to be undertaken from 1 January to 31 December in a given year (reference year). PRIMA-IS shall adopt the annual work programmes by 31 March of the reference year, after obtaining approval from the Commission. In adopting the annual work programmes, both PRIMA-IS and the Commission shall act without undue delay. PRIMA-IS shall make the annual work programme publicly available.
+
+3\. Activities referred to in paragraph 1, points (a) and (b), may be launched only in the reference year and only after the adoption of the annual work programme for that year.
+
+4\. If the annual work programme is adopted during the reference year, the Union financial contribution referred to in Article 3(1) may be used to reimburse the administrative costs of PRIMA-IS incurred from 1 January of that reference year in line with the annual work programme concerned. However, the Union financial contribution referred to in Article 3(1) may reimburse the administrative costs of PRIMA-IS as incurred from 7 August 2017 in line with the first annual work programme.
+
+5\. Activities may be funded under PRIMA only if they are set out in the annual work programme. The annual work programme shall distinguish between the activities referred to in paragraph 1, point (a), of this Article, the activities referred to in paragraph 1, point (b), of this Article and the administrative costs of PRIMA-IS. It shall provide for their corresponding expenditure estimates as well as for the budget allocation to activities funded with the Union financial contribution referred to in Article 3(1) and to activities funded by the Participating States without the Union financial contribution referred to in Article 3(1). The annual work programme shall also include the estimated value of the Participating States’ in-kind contributions referred to in Article 5(2), point (b).
+
+6\. Amended annual work programmes for a reference year and annual work programmes for subsequent reference years shall take into account the results of previous calls for proposals. They shall endeavour to address insufficient coverage of scientific topics, in particular those initially addressed in activities under paragraph 1, point (b) that could not be adequately funded.
+
+7\. The final activities to be funded, including the final calls for proposals under the relevant annual work programmes shall be launched by 31 December 2027. In duly justified cases, they may be launched by 31 December 2028.
+
+8\. Activities to be funded by the Participating States without the Union financial contribution referred to in Article 3(1) may be included in the annual work programme only following the positive outcome of their external independent evaluation by international peer review with regard to the objectives of PRIMA, as organised by PRIMA-IS.
+
+9\. Activities included in the annual work programme that are funded by the Participating States in accordance with paragraph 1, point (b), of this Article shall be implemented in compliance with common principles to be adopted by PRIMA-IS, after obtaining approval from the Commission. The common principles shall take into account the principles set out in this Decision, in Title VIII of Regulation (EU, Euratom) 2018/1046 and in Chapter II of Regulation (EU) 2021/695. PRIMA-IS shall also adopt, after obtaining approval from the Commission, the reporting requirements of the Participating States to PRIMA-IS, including with regard to indicators inserted into each of those activities.
+
+10\. The activities referred to in paragraph 1, point (b)(i), shall, in addition to the common principles referred to in paragraph 9, comply with the following conditions:
+
+(a) the proposals shall be for transnational projects, with a minimum participation of at least three independent legal entities, which are established in three different countries that are considered to be Participating States in accordance with this Decision by the submission deadline under the relevant call for proposals, of which:
+
+(i) at least one is established in a Member State or third country associated to Horizon 2020 or Horizon Europe, as applicable, and does not fall under point (ii); and
+
+(ii) at least one is established in a third country listed in Article 1(2), or in a third country bordering the Mediterranean Sea;
+
+(b) the proposals shall be selected following transnational calls for proposals and shall be evaluated by at least three independent experts, on the basis of the following award criteria: excellence, impact, and quality and efficiency of implementation;
+
+(c) the proposals shall be ranked according to the results of the evaluation referred to in point (b), the selection shall be made by PRIMA-IS and follow that ranking, and the Participating States shall agree on an adequate funding mode that allows for maximising the number of proposals above threshold to be funded on the basis of that ranking, in particular, by providing reserve amounts to the national contributions for calls for proposals.
+
+With regard to the ranking referred to in point (c), in the event that one or more projects cannot be funded, the projects following directly in the ranking may be selected.
+
+11\. PRIMA-IS shall monitor and report annually to the Commission on the implementation of all activities included in the annual work programme.
+
+12\. Any communication or publication relating to the activities of PRIMA, and performed in cooperation with PRIMA, whether undertaken by PRIMA-IS, a Participating State, the national funding bodies of a Participating State, or participants in an activity, shall be labelled or co-labelled as follows: “[name of the activity] is part of PRIMA co-funded by the European Union”.
+
+## Article 7 — Rules for participation and dissemination
+
+1\. PRIMA-IS shall be considered to be a funding body as defined in Article 2, point (11), of Regulation (EU) No 1290/2013 and in Article 2, point (14), of Regulation (EU) 2021/695, as applicable, and shall provide financial support to indirect actions referred to in Article 6(1), point (a), of this Decision in accordance with the rules set out in the relevant Regulations and subject to the derogations set out in this Article.
+
+2\. In accordance with Article 17(2) of Regulation (EU) 2021/695 and by way of derogation from Article 9(1), point (b), of Regulation (EU) No 1290/2013, and from Article 22(2) of Regulation (EU) 2021/695, the minimum number of participants shall be three legal entities established in three different countries considered to be Participating States by the submission deadline under the relevant call for proposals, of which at least one is established:
+
+(a) in a Member State or in a third country associated to Horizon 2020 or Horizon Europe, as applicable, which does not fall under point (b) of this Article;
+
+(b) in a third country listed in Article 1(2), or in a third country bordering the Mediterranean Sea.
+
+3\. By way of derogation from Article 9(3) of Regulation (EU) No 1290/2013 and from Article 22(2) of Regulation (EU) 2021/695, in duly justified cases provided for in the annual work programme, the minimum condition shall be the participation of one legal entity established in a Participating State by the submission deadline under the relevant call for proposals.
+
+4\. By way of derogation from Article 10(1) and (2) of Regulation (EU) No 1290/2013 and from Article 23(1) and (2) of Regulation (EU) 2021/695, the following participants shall be eligible for funding by PRIMA-IS:
+
+(a) any legal entity established in a Participating State or created pursuant to Union law;
+
+(b) any international European interest organisation, as defined in Article 2(1), point (12), of Regulation (EU) No 1290/2013 for activities of PRIMA funded under Article 3(1), point (a), of this Decision or any international European research organisation, as defined in Article 2, point (15), of Regulation (EU) 2021/695 for activities of PRIMA funded under Article 3(1), point (b), of this Decision.
+
+5\. In the case of a participating international organisation or of a participating legal entity established in a country that is not a Participating State, neither of which is eligible for funding in accordance with paragraph 4, funding by PRIMA-IS may be granted provided that at least one of the following conditions is fulfilled:
+
+(a) participation of the international organisation or legal entity concerned is deemed to be essential by PRIMA-IS for implementing the action;
+
+(b) participation of such entities is foreseen in the annual work programme and the possibility of such funding is provided for under a bilateral scientific and technological agreement or under any other arrangement that ensures the protection of the financial interests of the Union, which is concluded between the Union and the international organisation or, for an entity established in a country that is not a Participating State, the country in which that legal entity is established.
+
+6\. Without prejudice to Regulation (EU, Euratom) 2018/1046, the applicable model grant agreement may lay down that legal entities established in countries which are not Participating States and which receive funding from PRIMA-IS shall also provide appropriate financial guarantees.
+
+7\. The Union shall conclude agreements with third countries that provide for the protection of the financial interests of the Union.
+
+## Article 8 — Agreements between the Union and PRIMA-IS
+
+1\. Subject to a positive ex ante assessment of PRIMA-IS in accordance with Article 154(3) of Regulation (EU, Euratom) 2018/1046 and the provision of adequate financial guarantees in accordance with Article 62(1), point (c)(vi), of that Regulation, the Commission, on behalf of the Union, shall conclude a Financial Framework Partnership agreement and contribution agreements with PRIMA-IS.
+
+2\. The Financial Framework Partnership agreement referred to in paragraph 1 of this Article shall be concluded in accordance with Article 130 of Regulation (EU, Euratom) 2018/1046. It shall also set out, inter alia, the following:
+
+(a) the requirements for PRIMA-IS contribution regarding the performance indicators set out in Annex II to Decision 2013/743/EU;
+
+(b) the requirements for PRIMA-IS contribution to the monitoring referred to in Annex III to Decision 2013/743/EU;
+
+(c) the specific performance indicators related to the functioning of PRIMA-IS;
+
+(d) the requirements for PRIMA-IS regarding the provision of information on administrative costs and of detailed figures concerning the implementation of PRIMA;
+
+(e) the arrangements regarding the provision of data necessary to ensure that the Commission is able to meet its dissemination and reporting obligations;
+
+(f) the arrangements for the approval or rejection by the Commission of the draft annual work plan, the common principles referred to in Article 6(9) and the reporting requirements of the Participating States, before they are adopted by PRIMA-IS; and
+
+(g) provisions for the publication of calls for proposals by PRIMA-IS, in particular on the single portal for participants, as well as through other Horizon 2020 electronic means of dissemination managed by the Commission.
+
+## Article 9 — Termination, reduction or suspension of the Union financial contribution
+
+1\. If PRIMA is not implemented or is implemented inadequately, partially or late, the Commission may terminate, proportionally reduce or suspend the Union financial contribution referred to in Article 3(1) in line with the actual implementation of PRIMA.
+
+2\. If the Participating States do not contribute, or contribute partially or late, to the financing of PRIMA the Commission may terminate, proportionally reduce or suspend the Union financial contribution referred to in Article 3(1), taking into account the amount of funding allocated by the Participating States to implement PRIMA.
+
+3\. The Commission’s decision to terminate, proportionally reduce or suspend the Union financial contribution shall not hinder the reimbursement of eligible costs already incurred by the Participating States before the decision is notified to PRIMA-IS.
+
+## Article 10 — Ex-post audits
+
+1\. PRIMA-IS shall carry out ex post audits of expenditure on indirect action under Regulation (EU) No 1291/2013 in accordance with Article 29 of that Regulation.
+
+1a. PRIMA-IS shall carry out audits of expenditure on indirect actions under Regulation (EU) 2021/695 in accordance with Article 53 of Regulation (EU) 2021/695 as part of the Horizon Europe programme indirect actions, in particular in accordance with the audit strategy referred to in Article 53(2) of that Regulation.
+
+2\. The Commission may decide to carry out the audits referred to in paragraph 1 itself. In such cases, it shall do so in accordance with the applicable rules, in particular the provisions of Regulations (EU, Euratom) No 966/2012, (EU) No 1290/2013 and (EU) No 1291/2013.
+
+## Article 11 — Protection of the financial interests of the Union
+
+1\. The Commission shall take appropriate measures to ensure that, when actions financed under this Decision are implemented, the financial interests of the Union are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and, if irregularities are detected, by the recovery of the amounts wrongly paid and, where appropriate, by effective, proportionate and dissuasive administrative sanctions.
+
+2\. PRIMA-IS shall grant Commission staff and other persons authorised by the Commission, as well as the Court of Auditors, access to its sites and premises and to all the information, including information in electronic format, that is needed in order to conduct their audits.
+
+3\. The European Anti-Fraud Office (OLAF) may carry out investigations, including on-the-spot checks and inspections, in accordance with the provisions and procedures laid down in Council Regulation (Euratom, EC) No 2185/96 ( 4 ) and Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council ( 5 ) with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant agreement or grant decision or a contract funded, directly or indirectly, in accordance with this Decision.
+
+3a. The European Public Prosecutor’s Office (EPPO) is empowered, in accordance with Council Regulation (EU) 2017/1939 ( 6 ), to investigate and prosecute criminal offences affecting the financial interests of the Union as set out in Article 4 of that Regulation.
+
+4\. Without prejudice to paragraphs 1 to 3a, contracts, grant agreements and grant decisions, resulting from the implementation of this Decision shall contain provisions expressly empowering the Commission, PRIMA-IS, the Court of Auditors, the EPPO and OLAF to conduct such audits and investigations in accordance with their respective competences. Where the implementation of an action is outsourced or sub-delegated, in whole or in part, or where it requires the award of a procurement contract or financial support to a third party, the contract, grant agreement or grant decision shall include the contractor’s or beneficiary’s obligation to impose on any third party involved explicit acceptance of those powers of the Commission, PRIMA-IS, the Court of Auditors, EPPO and OLAF.
+
+4a. PRIMA-IS shall grant each Participating States’ national court of auditors, on their request, access to all the information related to the national contributions of the relevant Participating State, including information in electronic format, needed in order to conduct their audits.
+
+5\. In implementing PRIMA, the Participating States shall take the legislative, regulatory, administrative and other measures necessary for protecting the Union’s financial interests, in particular to ensure full recovery of any amounts due to the Union in accordance with Regulation (EU, Euratom) 2018/1046.
+
+## Article 11a — Access to results and information on proposals
+
+1\. PRIMA-IS shall provide the Commission and, where applicable, the authorities of the Participating States with access to all information related to the indirect actions it funds. Such information shall include contributions and results of beneficiaries participating in indirect actions, or any other information deemed necessary for developing, implementing, monitoring and evaluating Union or where applicable Participating States’ policies or programmes. Such access rights shall be limited to non-commercial and non-competitive use and shall comply with applicable confidentiality rules.
+
+2\. For the purpose of developing, implementing, monitoring and evaluating Union policies or programmes, PRIMA-IS shall provide the Commission with the information included in submitted proposals. That requirement shall apply mutatis mutandis to Participating States regarding proposals which include applicants established in their respective territories.
+
+## Article 12 — Governance of PRIMA
+
+1\. The bodies of PRIMA-IS shall include:
+
+(a) a Board of Trustees, which shall have a Chair and a Co-Chair;
+
+(b) a Steering Committee;
+
+(c) a Secretariat, headed by a Director;
+
+(d) a Scientific Advisory Committee.
+
+2\. PRIMA-IS shall be governed by a Board of Trustees. All Participating States shall be represented on the Board of Trustees. The Board of Trustees shall be the decision-making body of PRIMA-IS.
+
+The Board of Trustees, after obtaining approval from the Commission, shall adopt the following:
+
+(a) PRIMA’s annual work programme;
+
+(b) the common principles referred to in Article 6(9);
+
+(c) the requirements for Participating States to report to PRIMA-IS.
+
+The Board of Trustees shall verify that the conditions set out in Article 1(3) and Article 4(1), point (c), are fulfilled and shall inform the Commission accordingly.
+
+The Board of Trustees shall approve the participation in PRIMA of any third country not associated to Horizon 2020 or Horizon Europe other than those listed in Article 1(2), after examining the relevance of that third country’s participation to achieving the objectives of PRIMA.
+
+Each Participating State shall have one vote in the Board of Trustees. Decisions shall be taken by consensus. Where no consensus is reached, the Board of Trustees shall adopt its decisions by a majority of at least 75 % of the valid votes cast.
+
+The Union, represented by the Commission, shall be invited to all the meetings of the Board of Trustees as an observer and may take part in its discussions. To that end, it shall receive all necessary documents.
+
+3\. The Board of Trustees shall determine the number of Steering Committee members, which shall not be less than five. The Board of Trustees shall appoint the members of the Steering Committee. The Steering Committee shall monitor the work of the director and shall advise the Board of Trustees on the implementation of PRIMA by the Secretariat. In particular, it shall provide guidance on the implementation of the annual budget and on the annual work programme.
+
+4\. The Board of Trustees shall establish the Secretariat of PRIMA-IS as the executive body of PRIMA.
+
+The Secretariat shall:
+
+(a) implement the annual work programme;
+
+(b) provide support to the other bodies of PRIMA-IS;
+
+(c) monitor and report on the implementation of PRIMA;
+
+(d) manage the Union financial contribution referred to in Article 3(1) and the Participating States’ financial contributions and report on their use;
+
+(e) increase the visibility of PRIMA by means of advocacy and communication;
+
+(f) liaise with the Commission in accordance with the financial framework partnership agreement referred to in Article 8;
+
+(g) ensure the transparency of PRIMA’s activities.
+
+5\. The Board of Trustees shall appoint a Scientific Advisory Committee consisting of renowned independent experts, competent in areas relevant to PRIMA. The Board of Trustees shall establish the number of Scientific Advisory Committee members, and the arrangements for their appointment in accordance with Article 49 of Regulation (EU) 2021/695.
+
+The Scientific Advisory Committee shall:
+
+(a) advise the Board of Trustees on strategic priorities and needs;
+
+(b) advise the Board of Trustees on the content and scope of the draft annual work programme from a scientific and technical standpoint;
+
+(c) review the scientific and technical aspects of the implementation of PRIMA and deliver an opinion on its annual report.
+
+## Article 13 — Communication of information
+
+1\. At the request of the Commission, PRIMA-IS shall provide the Commission with any information necessary for the preparation of the reports referred to in Article 14.
+
+2\. The Participating States shall submit to the Commission, through PRIMA-IS, any information requested by the European Parliament, by the Council or by the Court of Auditors concerning the financial management of PRIMA.
+
+3\. The Commission shall include the information referred to in paragraph 2 of this Article in the reports referred to in Article 14.
+
+## Article 14 — Monitoring and Evaluation
+
+1\. The activities of PRIMA, including their efficiency and transparency, as well as their success rates, shall be continuously monitored and subject to periodic reviews to ensure the highest impact, scientific excellence and the most effective and efficient use of resources. The outcome of the monitoring and of the periodic reviews shall feed into the monitoring of European partnerships as part of the Horizon Europe evaluations pursuant to Articles 50 and 52 of Regulation (EU) 2021/695.
+
+2\. PRIMA-IS shall organise the continuous monitoring and reporting of the management and the implementation of their activities and the periodic reviews of the outputs, results and impact of the funded indirect actions implemented in accordance with Article 50 of Regulation (EU) 2021/695 and Annex III to that Regulation.
+
+3\. The Commission shall carry out an interim evaluation of PRIMA by 31 December 2025 and a final evaluation by 31 December 2031 in the framework of the Horizon Europe evaluations pursuant to Article 52 of Regulation (EU) 2021/695, with the assistance of external independent experts selected on the basis of an open and transparent process. The Commission shall prepare reports on the basis of those evaluations, which shall include conclusions of the evaluations and the Commission’s observations. The Commission shall submit its report on the final evaluation to the European Parliament and to the Council by 30 June 2032.
+
+4\. The interim and final evaluations referred to in paragraph 3 shall examine the success rates and the participation rates, including of the Southern Mediterranean Participating States, and PRIMA’s fulfilment of its mission and objectives, and shall cover all its activities and evaluate its European added value, effectiveness, efficiency, including its openness and transparency, the relevance of the activities pursued, including in industry and by SMEs, non-governmental organisations and in civil society, and their consistency and complementarity with relevant regional, national and Union policies, including synergies with other parts of Horizon Europe, such as other partnerships, missions, clusters and thematic or specific programmes. The evaluations shall take into account the views of a wide range of stakeholders, at Union and national level. They shall include, where relevant, an assessment of the most effective policy intervention mode for any future action, as well as the relevance and coherence of any possible renewal of PRIMA, given the overall policy priorities and the research and innovation support landscape, including the positioning against other initiatives supported through Horizon Europe.
+
+When carrying out those evaluations, the Commission shall fully consider and seek to reduce the administrative impact on PRIMA and shall ensure that the evaluation process is kept simple and fully transparent.
+
+5\. The Commission shall publish and disseminate the results and conclusions of the evaluations referred to in paragraph 3.
+
+## Article 14a — Confidentiality
+
+Without prejudice to Article 11a, PRIMA-IS shall ensure the protection of confidential information, the disclosure of which beyond the Union institutions, bodies, offices or agencies, has the potential to damage the interests of PRIMA-IS, its members or of the participants in the activities of PRIMA. Such confidential information shall include personal, commercial, sensitive non-classified and classified information.
+
+## Article 14b — Conflicts of interest
+
+1\. PRIMA-IS, its bodies, members and staff shall avoid any conflict of interest in carrying out their activities.
+
+2\. PRIMA-IS shall adopt rules for the prevention, avoidance and management of conflicts of interest in respect of its staff, the members and other persons serving in any of its bodies or groups of PRIMA-IS, in accordance with Article 61 of Regulation (EU, Euratom) 2018/1046.
+
+3\. PRIMA-IS shall establish a code of conduct for the members of its bodies, which shall include the publication of declarations of professional activities, financial interests and conflicts of interest in accordance with data protection rules.
+
+## Article 14c — Ongoing actions, activities and commitments
+
+Actions or activities of PRIMA-IS or commitments by the Participating States referred to in this Decision initiated or undertaken under Regulation (EU) No 1291/2013 shall continue to be governed by that Regulation except where otherwise provided for in this Decision.
+
+## Article 15 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+## Article 16 — Addressees
+
+This Decision is addressed to the Member States.
+
+( 1 ) Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021establishing Horizon Europe — the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1).
+
+( 2 ) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+( 3 ) Council Decision (EU) 2021/764 of 10 May 2021establishing the Specific Programme implementing Horizon Europe — the Framework Programme for Research and Innovation, and repealing Decision 2013/743/EU (OJ L 167 I, 12.5.2021, p. 1).
+
+( 4 ) Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities (OJ L 292, 15.11.1996, p. 2).
+
+( 5 ) Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1).
+
+( 6 ) Council Regulation (EU) 2017/1939 of 12 October 2017implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1).

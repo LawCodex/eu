@@ -1,0 +1,137 @@
+---
+title: "Decision (EU) 2017/2098 of the European Central Bank of 3 November 2017 on procedural aspects concerning the imposition of corrective measures for non-compliance with Regulation (EU) No 795/2014 (ECB/2017/33)"
+identifier: "32017D0033"
+eli: "http://data.europa.eu/eli/dec/2017/2098/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2017-11-03
+entry_into_force: 2017-12-19
+last_amended: 2021-05-25
+consolidated_version: "02017D0033-20210525"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017D0033-20210525"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2017/2098 of the European Central Bank of 3 November 2017 on procedural aspects concerning the imposition of corrective measures for non-compliance with Regulation (EU) No 795/2014 (ECB/2017/33)
+
+**DECISION (EU) 2017/2098 OF THE EUROPEAN CENTRAL BANK**
+
+**of 3 November 2017**
+
+**on procedural aspects concerning the imposition of corrective measures for non-compliance with Regulation (EU) No 795/2014 (ECB/2017/33)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2021/729 OF THE EUROPEAN CENTRAL BANK of 29 April 2021 </td><td> L 157</td><td>5</td><td>5.5.2021</td></tr>
+</table>
+
+**DECISION (EU) 2017/2098 OF THE EUROPEAN CENTRAL BANK**
+
+**of 3 November 2017**
+
+**on procedural aspects concerning the imposition of corrective measures for non-compliance with Regulation (EU) No 795/2014 (ECB/2017/33)**
+
+## Article 1 — Definitions
+
+For the purposes of this Decision:
+
+(1) ‘competent authority’ means a competent authority as defined in point (5) of Article 2 of Regulation (EU) No 795/2014 (ECB/2014/28);
+
+(2) ‘SIPS operator’ means a SIPS operator as defined in point (4) of Article 2 of Regulation (EU) No 795/2014 (ECB/2014/28);
+
+(3) ‘corrective measure’ means a corrective measure as defined in point (44) of Article 2 of Regulation (EU) No 795/2014 (ECB/2014/28);
+
+(4) ‘non-compliance’ means any infringement of Regulation (EU) No 795/2014 (ECB/2014/28);
+
+(5) ‘suspected non-compliance’ means reasonable grounds for suspecting that a SIPS operator has not fulfilled one or more of the requirements of Regulation (EU) No 795/2014 (ECB/2014/28), based on the information and documentation (including a self-assessment provided by the SIPS operator) available to the competent authority;
+
+(6) ‘ongoing non-compliance’ means any infringement of Regulation (EU) No 795/2014 (ECB/2014/28) that has been confirmed by an assessment but has not been rectified by a SIPS operator in accordance with an action plan agreed with the competent authority within a time limit specified by that authority;
+
+(7) ‘draft assessment’ means a report that has not yet been endorsed by the decision-making body of a competent authority, which provides a preliminary analysis of the SIPS' rules, procedures and operations, and of incidents, or any other matter that is considered of importance to the operation of the SIPS, and identifies a suspected non-compliance with the oversight requirements laid down in Regulation (EU) No 795/2014 (ECB/2014/28);
+
+(8) ‘assessment’ means, where the European Central Bank (ECB) acts as the competent authority, a report that has been endorsed by the Governing Council, or, where a national central bank (NCB) acts as the competent authority, a report that has been endorsed by the relevant decision-making body of that NCB, and which states the SIPS operator's level of compliance with the oversight requirements laid down in Regulation (EU) No 795/2014 (ECB/2014/28).
+
+## Article 2 — General principles
+
+1\. Corrective measures shall be imposed on SIPS operators in accordance with Article 22 of Regulation (EU) No 795/2014 (ECB/2014/28) and the procedure laid down in this Decision.
+
+1a. Where two Eurosystem central banks are designated as competent authorities in relation to a given SIPS for the purposes of Regulation (EU) No 795/2014 (ECB/2014/28), and unless otherwise specifically provided for in the decision pursuant to Article 1(2) of that Regulation that identifies the relevant payment system as a SIPS, the following principles shall apply:
+
+(a) the powers and rights of a competent authority as set out in this Decision may be exercised either individually by either one of the two Eurosystem central banks designated as competent authorities or jointly by both;
+
+(b) any obligation of the competent authority to act in a prescribed manner or undertake a certain action in relation to a given procedure to impose a corrective measure as set out in this Decision shall be an obligation of the Eurosystem central bank that initiates the given procedure or, where a given procedure has been initiated by both Eurosystem central banks as designated competent authorities jointly, shall be an obligation of each of them;
+
+(c) the two Eurosystem central banks designated as competent authorities shall coordinate between themselves any interactions with, and any requests addressed to, the operator of the SIPS concerned;
+
+(d) any obligation of a SIPS operator to a competent authority pursuant to this Decision shall be an obligation to each of the two Eurosystem central banks designated as competent authorities, and a response to any request of either or both of them pursuant to this Decision shall be submitted to each of them.
+
+2\. Competent authorities may initiate the procedure to impose a corrective measure in the following scenarios:
+
+(a) in case of non-compliance that has been confirmed by an assessment;
+
+(b) in case of ongoing non-compliance, where no corrective measure has been previously imposed on the SIPS operator;
+
+(c) where a draft assessment gives grounds to the competent authority to suspect non-compliance that is serious and requires immediate action.
+
+3\. The formulation of corrective measures shall be sufficiently specific to allow a SIPS operator to undertake action without undue delay to remedy or avoid a repetition of its non-compliance.
+
+## Article 3 — Notice to the SIPS operator
+
+1\. In accordance with Article 22(1) of Regulation (EU) No 795/2014 (ECB/2014/28) and based on the findings of a draft assessment or an assessment, the competent authority shall give written notice to a SIPS operator which may include requesting additional information or explanations to be provided.
+
+2\. The written notice shall specify the nature of the non-compliance or suspected non-compliance, as well as the facts, information, assessments or legal grounds supporting the finding of non-compliance or suspected non-compliance. It shall state the corrective measure(s) that the competent authority considers imposing. It shall further state whether the case is considered serious and whether immediate action is required under Article 4(2).
+
+3\. For cases of ongoing non-compliance, the written notice shall also specify the lack of progress or inadequacy of the progress made by the SIPS operator with regard to the implementation of the action plan agreed with the competent authority.
+
+## Article 4 — Organisation of the hearing phase
+
+1\. A SIPS operator shall be given the opportunity to be heard through commenting in writing on the facts, information, assessment or legal grounds supporting the finding of non-compliance or suspected non-compliance, and the corrective measure(s) being considered, as set out in the written notice, within a time limit specified by the competent authority of a minimum of 14 calendar days following receipt of the written notice. A SIPS operator may request an extension of the time limit and the competent authority shall have discretion to decide whether an extension is granted.
+
+2\. In relation to non-compliance that is considered serious enough to require immediate action, in accordance with Article 22(3) of Regulation (EU) No 795/2014 (ECB/2014/28), a SIPS operator shall be given the opportunity to be heard and provide explanations within a time limit, specified by the competent authority, which shall typically not exceed three business days following receipt of the written notice.
+
+3\. A SIPS operator may request the provision of explanation or documents from the competent authority concerning the non-compliance or suspected non-compliance. Competent authorities shall endeavour to provide the relevant explanations or documents to SIPS operators in a timely manner.
+
+4\. If the competent authority deems it appropriate or at the request of the SIPS operator, the SIPS operator may be given the opportunity to comment on the facts, information, assessment or legal grounds supporting the finding of non-compliance or suspected non-compliance in a meeting. The SIPS operator may be supported in the meeting by a third party, including external legal counsel.
+
+5\. The competent authority shall prepare written minutes of any meeting with a SIPS operator. After having been given sufficient time to review the minutes and include any remarks or changes deemed necessary, the SIPS operator shall sign the minutes and the competent authority shall provide the SIPS operator with a copy of them.
+
+6\. A SIPS operator shall provide comments, documentation, explanations and any other information to the competent authority in the Union language chosen by the SIPS operator, unless another language for communications is agreed in advance with the competent authority.
+
+## Article 5 — Access to the file
+
+1\. SIPS operators shall be entitled, after the initiation of the procedure for the imposition of corrective measures, to have access to the competent authority's file, subject to the legitimate interest of legal and natural persons other than the SIPS operators themselves. The right of access to the file shall not extend to confidential information.
+
+2\. The SIPS operators shall forward to the competent authority, without undue delay, any request related to access to the file.
+
+3\. The file consists of all of the documents obtained, produced or assembled by the competent authority during the procedure for the imposition of corrective measures.
+
+4\. For the purpose of this Article, confidential information may include internal documents of the competent authority and correspondence between the competent authority and any persons involved in preparing the assessment.
+
+## Article 6 — Imposition of corrective measures
+
+1\. In accordance with Article 22(2) and (3) of Regulation (EU) No 795/2014 (ECB/2014/28), the competent authority may impose corrective measures on a SIPS operator, after taking into account the information provided by the latter. For the avoidance of doubt, where the procedure to impose a corrective measure has been initiated on the basis of suspected non-compliance, a corrective measure shall be imposed only after the relevant decision-making body of the competent authority has endorsed the report identifying non-compliance.
+
+2\. Where the ECB acts as a competent authority, a decision to impose corrective measures shall be endorsed by the Governing Council. The decision shall specify the time limit within which the SIPS operator has to implement the corrective measures.
+
+3\. Where an NCB acts as a competent authority, a decision to impose corrective measures shall be endorsed by the NCB's decision-making body. The decision shall specify the time limit within which the SIPS operator has to implement the corrective measures. The NCB shall submit a copy of the decision to the Governing Council for information without undue delay.
+
+4\. Where both the ECB and an NCB are designated as competent authorities pursuant to Article 1(2) of Regulation (EU) No 795/2014 (ECB/2014/28), a decision to impose corrective measures shall be endorsed by the decision-making body of either the ECB or the NCB, as the case may be, who as a designated competent authority initiated the particular procedure to impose a corrective measure or, where the procedure was initiated by both the competent authorities jointly, by the decision-making bodies of each of them. The decision shall specify the time limit within which the SIPS operator concerned must implement the corrective measures.
+
+## Article 7 — Time limits
+
+The right of a competent authority to impose corrective measures in respect of non-compliance that has been confirmed in an assessment shall expire two years after the finalisation of this assessment.
+
+## Article 8 — Notification of the decision to impose corrective measures
+
+The competent authority shall notify a SIPS operator in writing, including electronically, of any decision to impose corrective measures within seven calendar days of taking the decision.
+
+## Article 9 — Failure to implement corrective measures
+
+A failure by a SIPS operator to implement corrective measures within the indicated time limit may be treated as a separate ground for the imposition of a sanction by the ECB, provided that a sanction has not already been imposed for the same infringement.
+
+## Article 10 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
