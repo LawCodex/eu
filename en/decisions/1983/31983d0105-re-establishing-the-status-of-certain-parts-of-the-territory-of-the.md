@@ -1,0 +1,84 @@
+---
+title: "83/105/EEC: Commission Decision of 4 March 1983 re- establishing the status of certain parts of the territory of the Federal Republic of Germany with regard to classical swine fever"
+identifier: "31983D0105"
+eli: "http://data.europa.eu/eli/dec/1983/105/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1983-03-04
+entry_into_force: 1983-08-02
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31983D0105"
+retrieved: 2026-10-11
+---
+
+# 83/105/EEC: Commission Decision of 4 March 1983 re- establishing the status of certain parts of the territory of the Federal Republic of Germany with regard to classical swine fever
+
+*****
+
+COMMISSION DECISION
+
+of 4 March 1983
+
+re-establishing the status of certain parts of the territory of the Federal Republic of Germany with regard to classical swine fever
+
+(83/105/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine (1), as last amended by Directive 82/893/EEC (2), and in particular Article 4c (1) (c) thereof,
+
+Having regard to Council Directive 72/461/EEC of 12 December 1972 on health problems affecting intra-Community trade in fresh meat (3), as last amended by Directive 82/893/EEC, and in particular Article 13a (2) thereof,
+
+Whereas Council Decision 82/838/EEC (4) recognizes certain parts of the territory of the Federal Republic of Germany as being either officially swine-fever-free or swine-fever-free;
+
+Whereas outbreaks of classical swine fever have been recorded in some of the parts of the territory of the Federal Republic of Germany referred to in Annexes I and II to Decision 82/838/EEC;
+
+Whereas by Decision 83/28/EEC (5), the Commission has suspended for a period of 15 days the status of official freedom from swine fever or of freedom from swine fever of affected parts of German territory;
+
+Whereas, taking account of the epidemiological evolution of the disease, the Commission, by Decision 83/68/EEC (6), temporarily prolonged this period of suspension for certain regions;
+
+Whereas, since that time, study of the epidemiological situation leads to the conclusion that the disease has been eradicated in certain districts and it is consequently suitable to re-establish the status of officially swine-fever-free in these districts;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The status of those parts of the territory of the Federal Republic of Germany constituted by the regions set out in Annex I, as areas recognized to be officially swine-fever-free within the meaning of Article 4c (1) (c) of Directive 64/432/EEC, is hereby re-established for the regions listed in the Annex to this Decision.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 4 March 1983.
+
+For the Commission
+
+Poul DALSAGER
+
+Member of the Commission
+
+(1) OJ No 121, 29. 7. 1964, p. 1977/64.
+
+(2) OJ No L 378, 31. 12. 1982, p. 57.
+
+(3) OJ No L 302, 31. 12. 1972, p. 24.
+
+(4) OJ No L 352, 14. 12. 1982, p. 27.
+
+(5) OJ No L 31, 2. 2. 1983, p. 24.
+
+(6) OJ No L 47, 19. 2. 1983, p. 21.
+
+## ANNEX
+
+Regions of the Federal Republic of Germany for which the official swine-fever-free status is re-established
+
+The Regierungsbezirke Stuttgart and Mittelfranken.

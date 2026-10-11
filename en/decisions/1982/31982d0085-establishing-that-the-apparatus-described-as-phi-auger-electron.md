@@ -1,0 +1,68 @@
+---
+title: "82/85/EEC: Commission Decision of 23 December 1981 establishing that the apparatus described as 'PHI-Auger electron spectrometer, model 5000, with Leed electron optics unit, model 15-120 and Leed electronics system, model 11-020' may not be imported free of Common Customs Tariff duties"
+identifier: "31982D0085"
+eli: "http://data.europa.eu/eli/dec/1982/85/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1981-12-23
+entry_into_force: 1982-06-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982D0085"
+retrieved: 2026-10-11
+---
+
+# 82/85/EEC: Commission Decision of 23 December 1981 establishing that the apparatus described as 'PHI-Auger electron spectrometer, model 5000, with Leed electron optics unit, model 15-120 and Leed electronics system, model 11-020' may not be imported free of Common Customs Tariff duties
+
+*****
+
+COMMISSION DECISION
+
+of 23 December 1981
+
+establishing that the apparatus described as 'PHI-Auger electron spectrometer, model 5000, with Leed electron optics unit, model 15-120 and Leed electronics system, model 11-020' may not be imported free of Common Customs Tariff duties
+
+(82/85/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1798/75 of 10 July 1975 on the importation free of Common Customs Tariff duties of educational, scientific and cultural materials (1), as amended by Regulation (EEC) No 1027/79 (2),
+
+Having regard to Commission Regulation (EEC) No 2784/79 of 12 December 1979 laying down provisions for the implementation of Regulation (EEC) No 1798/75 (3), and in particular Article 7 thereof,
+
+Whereas, by letter dated 15 June 1981, the Federal Republic of Germany has requested the Commission to invoke the procedure provided for in Article 7 of Regulation (EEC) No 2784/79 in order to determine whether or not the apparatus described as 'PHI-Auger electron spectrometer, model 500, with Leed electron optics unit, model 15-120 and Leed electronics system, model 11-020', to be used for research in electron spin polarization on ferromagnetic surfaces, should be considered to be a scientific apparatus and, where the reply is in the affirmative, whether apparatus of equivalent scientific value is currently being manufactured in the Community;
+
+Whereas, in accordance with the provisions of Article 7 (5) of Regulation (EEC) No 2784/79, a group of experts composed of representatives of all the Member States met on 15 December 1981 within the framework of the Committee on Duty-Free Arrangements to examine the matter;
+
+Whereas this examination showed that the apparatus in question is a spectrometer; whereas its objective technical characteristics such as the great precision during the measurements and the use to which it is put make it specially suited to scientific research; whereas, moreover, apparatus of the same kind are principally used for scientific activities; whereas it must therefore be considered to be a scientific apparatus;
+
+Whereas, however, on the basis of information received from Member States, apparatus of scientific value equivalent to the said apparatus, capable of being used for the same purposes, are currently being manufactured in the Community; whereas this applies, in particular, to the apparatus 'ASC 2000' manufactured by Riber, 22 Bis, boulevard de l'Hôpital Stell, 92505 Rueil Malmaison, France and the apparatus '640 RFA' and '850 CMA', manufactured by VG Scientific Ltd, the Birches Industrial Estate, Imberhorne Lane, East Grinstead, Sussex RH19 1UB, England,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The apparatus described as 'PHI-Auger electron spectrometer, model 5000, with Leed electron optics unit, model 15-120 and Leed electronics system, model 11-020', which is the subject of an application by the Federal Republic of Germany of 15 June 1981, may not be imported free of Common Customs Tariff duties.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 23 December 1981.
+
+For the Commission
+
+Karl-Heinz NARJES
+
+Member of the Commission
+
+(1) OJ No L 184, 15. 7. 1975, p. 1.
+
+(2) OJ No L 134, 31. 5. 1979, p. 1.
+
+(3) OJ No L 318, 13. 12. 1979, p. 32.

@@ -1,0 +1,53 @@
+---
+title: "82/77/EEC: Council Decision of 27 June 1980 concerning the signature and deposit of a declaration of provisional application of the Food Aid Convention 1980"
+identifier: "31982D0077"
+eli: "http://data.europa.eu/eli/dec/1982/77/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1980-06-27
+entry_into_force: 1982-02-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982D0077"
+retrieved: 2026-10-11
+---
+
+# 82/77/EEC: Council Decision of 27 June 1980 concerning the signature and deposit of a declaration of provisional application of the Food Aid Convention 1980
+
+COUNCIL DECISION of 27 June 1980 concerning the signature and deposit of a declaration of provisional application of the Food Aid Convention 1980 (82/77/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the recommendation from the Commission,
+
+Whereas the Food Aid Convention 1980 (hereinafter referred to as "the Convention") encourages international cooperation and contributes to the realization of the objectives of the Community, notably in the field of its policy of cooperation with developing countries;
+
+Whereas it is desirable that the Community should provisionally apply the Convention and should deposit a declaration to this effect,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The European Economic Community shall provisionally apply the terms of the Food Aid Convention 1980 with effect from the date of deposit of the declaration shown in the Annex hereto.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the person empowered to sign the declaration shown in the Annex and to deposit it with the Government of the United States of America.
+
+Done at Luxembourg, 27 June 1980.
+
+For the Council
+
+The President
+
+A. SARTI
+
+ANNEX Declaration of provisional application of the Food Aid Convention 1980, the text of which was established by the Conference held for that purpose in London on 6 March 1980
+
+It will not be possible for the European Economic Community to complete by 30 June 1980 the institutional procedures provided for in Article XIV of the Food Aid Convention 1980.
+
+Therefore, in accordance with Article XV of the Food Aid Convention 1980, the Community makes this declaration of provisional application of the Convention. By depositing such a declaration, the Community considers itself to be provisionally a party to the Convention with all the rights and obligations which derive therefrom until such time as the Council of the European Communities shall have taken a final decision on the matter.
+
+On behalf of the Council of the European Communities

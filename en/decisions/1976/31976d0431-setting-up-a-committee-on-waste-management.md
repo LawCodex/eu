@@ -1,0 +1,128 @@
+---
+title: "76/431/EEC: Commission Decision of 21 April 1976 setting up a Committee on Waste Management"
+identifier: "31976D0431"
+eli: "http://data.europa.eu/eli/dec/1976/431/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1976-04-21
+entry_into_force: 1976-05-01
+last_amended: 2007-01-01
+consolidated_version: "01976D0431-20070101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01976D0431-20070101"
+retrieved: 2026-10-11
+---
+
+# 76/431/EEC: Commission Decision of 21 April 1976 setting up a Committee on Waste Management
+
+**COMMISSION DECISION**
+
+**of 21 April 1976**
+
+**setting up a Committee on Waste Management**
+
+**(76/431 /EEC)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1792/2006 of 23 October 2006 </td><td> L 362</td><td>1</td><td>20.12.2006</td></tr>
+</table>
+
+| A1 | ACT concerning the conditions of accession of the Hellenic Republic and the adjustments to the Treaties | L 291 | 17 | 19.11.1979 |
+| --- | --- | --- | --- | --- |
+| A2 | ACT concerning the conditions of accession of the Kingdom of Spain and the Portuguese Republic and the adjustments to the Treaties | L 302 | 23 | 15.11.1985 |
+| A3 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
+
+**COMMISSION DECISION**
+
+**of 21 April 1976**
+
+**setting up a Committee on Waste Management**
+
+**(76/431 /EEC)**
+
+## Article 1
+
+There shall be attached to the Commission a Committee on Waste Management (hereinafter called ‘the committee’).
+
+## Article 2
+
+The task of the committee shall be to supply the Commission with opinions, either at the request of the Commission or on its own initiative, on all matters relating to:
+
+(a) the formulation of a policy for waste management having regard to the need to ensure the best use of resources and the safe and effective disposal of waste;
+
+(b) the different technical, economic, administrative and legal measures which could prevent the production of wastes or ensure their re-use, recycling or disposal;
+
+(c) the implementation of Directives on waste management and the formulation of fresh proposals for Directives in this field.
+
+## Article 3
+
+1\. The committee shall consist of 56 members.
+
+2\. Seats on the committee shall be apportioned as follows
+
+to the Commission, two;
+
+to each Member State, two.
+
+## Article 4
+
+The members of the committee shall be appointed by the Commission. For each seat to be filled which is appositioned to the Member States, the Commission, after consulting the Member States concerned, shall appoint the members from among top level national experts who are competent in the fields referred to in Article 2.
+
+## Article 5
+
+The term of office for members of the committee shall be three years. Their appointments may be renewed. After the expiry of the three years members of the committee shall remain in office until they are replaced or until their appointments are renewed.
+
+A member's term of office may be terminated before the expiry of the three years by resignation or death.
+
+A person shall be appointed, in the manner provided in Article 4, to replace such member for the remainder of the term of office.
+
+Members shall not be remunerated for their services.
+
+## Article 6
+
+A list of members of the committee shall be published by the Commission, for information purposes, in the Official Journal of the European Communities.
+
+## Article 7
+
+The chairman of the committee shall be a representative of the Commission.
+
+## Article 8
+
+The chairman may invite any person with special qualifications in any subject on the agenda to take part in an expert capacity in the deliberation of the committee or the working parties referred to in Article 9.
+
+Experts shall take part in discussions only of those questions on account of which they were invited.
+
+## Article 9
+
+The committee may set up working parties.
+
+## Article 10
+
+1\. The committee and working parties shall be convened by the chairman of the committee and shall meet at the Commission headquarters.
+
+2\. Representatives of the Commission departments concerned shall take part in meetings of the committee and its working parties.
+
+3\. Secretarial services for the committee and its working parties shall be provided by the Commission.
+
+## Article 11
+
+No vote shall be taken on the discussions of the committee.
+
+The Commission may, when seeking the opinion of the committee, set a time limit within which such opinions must be given.
+
+## Article 12
+
+Without prejudice to the provisions of Article 214 of the Treaty, when the chairman of the committee informs them that the opinion requested or the question raised is on a matter of a confidential nature, members of the committee shall be under an obligation not to disclose information which has come to their knowledge through the work of the committee or its working parties.
+
+In such cases only committee members and representatives of the Commission departments concerned may be present at the meetings.
+
+## Article 13
+
+This Decision shall enter into force on 1 May 1976.
+
+( 1 ) OJ No C 112, 20. 12. 1973, p. 28.
+
+( 2 ) OJ No C 168, 25. 7. 1975, p. 2.

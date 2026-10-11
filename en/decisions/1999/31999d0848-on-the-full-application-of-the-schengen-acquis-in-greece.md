@@ -1,0 +1,63 @@
+---
+title: "1999/848/EC: Council Decision of 13 December 1999 on the full application of the Schengen acquis in Greece"
+identifier: "31999D0848"
+eli: "http://data.europa.eu/eli/dec/1999/848/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1999-12-13
+entry_into_force: 1999-06-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999D0848"
+retrieved: 2026-10-11
+---
+
+# 1999/848/EC: Council Decision of 13 December 1999 on the full application of the Schengen acquis in Greece
+
+COUNCIL DECISION
+
+of 13 December 1999
+
+on the full application of the Schengen acquis in Greece
+
+(1999/848/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to Article 2(2) of the Protocol integrating the Schengen acquis into the framework of the European Union,
+
+Having regard to the Decision of the Executive Committee of 16 September 1998 setting up the Standing Committee on the implementation of Schengen,
+
+Having regard to the Decision adopted by the Permanent Representatives Committee on 30 June 1999 setting up the Ad Hoc Committee for Greece,
+
+Taking into account the Decisions of the Schengen Executive Committee of 7 October 1997 (SCH/Com-ex(97)29 rev 2) and of 16 December 1998 (SCH/Com-ex(98)49 rev 3),
+
+(1) Whereas visits have been made to check whether the requirements relating to manpower levels and material resources, the training of border control and surveillance services and coordination between the departments concerned have been satisfied;
+
+(2) Whereas the conditions for lifting controls on persons at the internal borders with Greece as from 1 January 2000 have been met,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+Controls on persons at internal borders between Greece and the Member States which fully apply the Schengen acquis shall be lifted in the period from 1 January 2000 to 26 March 2000. This Decision shall apply from 1 January 2000 to internal maritime traffic in ports.
+
+As regards border controls for internal flights from and to Greece, the dates for their abolition shall be agreed between Greece and any other Member State concerned as from 1 January 2000 in those airports where this is technically possible. Controls shall in any case be abolished by 26 March 2000 at the latest. The Member States concerned shall inform the Council and the Commission before 1 April 2000 of the measures they have taken to implement this Decision.
+
+## Article 2
+
+In 2000 the Schengen Evaluation Working Party shall examine the full application of the Schengen acquis to Greece and shall study the measures that prove necessary.
+
+## Article 3
+
+1\. This Decision shall enter into force on the day of its adoption.
+
+2\. It shall be published in the Official Journal of the European Communities.
+
+Done at Brussels, 13 December 1999.
+
+For the Council
+
+The President
+
+S. HASSI

@@ -1,0 +1,51 @@
+---
+title: "92/477/EEC: Council Decision of 21 September 1992 on the conclusion of the Agreement in the form of an exchange of letters concerning the provisional application of the Protocol defining, for the period 21 May 1992 to 20 May 1995, the fishing opportunities and the financial contribution provided for by the Agreement between the European Communtiy and the Government of the Democratic Republic of Madagascar on fishing off Madagascar"
+identifier: "31992D0477"
+eli: "http://data.europa.eu/eli/dec/1992/477/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1992-09-21
+entry_into_force: 1993-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992D0477"
+retrieved: 2026-10-11
+---
+
+# 92/477/EEC: Council Decision of 21 September 1992 on the conclusion of the Agreement in the form of an exchange of letters concerning the provisional application of the Protocol defining, for the period 21 May 1992 to 20 May 1995, the fishing opportunities and the financial contribution provided for by the Agreement between the European Communtiy and the Government of the Democratic Republic of Madagascar on fishing off Madagascar
+
+COUNCIL DECISION of 21 September 1992 on the conclusion of the Agreement in the form of an exchange of letters concerning the provisional application of the Protocol defining, for the period 21 May 1992 to 20 May 1995, the fishing opportunities and the financial contribution provided for by the Agreement between the European Community and the Government of the Democratic Republic of Madagascar on fishing off Madagascar (92/477/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to the Agreement between the European Economic Community and the Government of the Democratic Republic of Madagascar on fishing off Madagascar (1),
+
+Having regard to the proposal from the Commission,
+
+Whereas the Community and the Democratic Republic of Madagascar held negotiations to determine the amendments or additions to be made to the Agreement on fishing off Madagascar at the end of the period of application of the first Protocols;
+
+Whereas, as a result of these negotiations a new Protocol was initialled on 14 May 1992;
+
+Whereas, under this Protocol, Community fishermen enjoy fishing opportunities in the waters falling within the sovereignty or jurisdiction of the Democratic Republic of Madagascar for the period 21 May 1992 to 20 May 1995;
+
+Whereas, in order to avoid interruption of fishing activities by Community vessels, it is essential that the Protocol in question be approved as quickly as possible; whereas both parties have therefore initialled an Agreement in the form of an exchange of letters providing for the provisional application of the initialled Protocol from the day following the date of expiry of the Protocols previously in force; whereas the Agreement in the form of an exchange of letters should be concluded, subject to a definitive decision under Article 43 of the Treaty,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement in the form of an exchange of letters concerning the provisional application of the Protocol defining for the period 21 May 1992 to 20 May 1995 the fishing opportunities and the financial contribution provided for by the Agreement between the European Community and the Government of the Democratic Republic of Madagascar on fishing off Madagascar is hereby approved on behalf of the Community.
+
+The text of the Agreement in the form of an exhange of letters is attached to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the persons empowered to sign the Agreement in the form of an exchange of letters in order to bind the Community. Done at Brussels, 21 September 1992. For the Council
+
+The President
+
+J. GUMMER
+
+(1) OJ No L 73, 18. 3. 1986, p. 26.

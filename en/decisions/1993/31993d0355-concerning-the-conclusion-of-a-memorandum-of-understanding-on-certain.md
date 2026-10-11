@@ -1,0 +1,65 @@
+---
+title: "93/355/EEC: Council Decision of 8 June 1993 concerning the conclusion of a Memorandum of understanding on certain oil seeds between the European Economic Community and the United States of America within the framework of the GATT"
+identifier: "31993D0355"
+eli: "http://data.europa.eu/eli/dec/1993/355/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1993-06-08
+entry_into_force: 1993-03-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993D0355"
+retrieved: 2026-10-11
+---
+
+# 93/355/EEC: Council Decision of 8 June 1993 concerning the conclusion of a Memorandum of understanding on certain oil seeds between the European Economic Community and the United States of America within the framework of the GATT
+
+COUNCIL DECISION of 8 June 1993 concerning the conclusion of a Memorandum of understanding on certain oil seeds between the European Economic Community and the United States of America within the framework of the GATT
+
+(93/355/EEC)THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the recommendation from the Commission,
+
+Whereas a GATT panel found that a consequence of the Community's support scheme for oil seeds was an impairment of the value of the tariff concession which the Community had granted to the United States in 1962;
+
+Whereas the GATT panel consequently recommended that the Community should act quickly to eliminate this impairment;
+
+Whereas a mutually satisfactory agreement was reached in the negotiations initiated with the United States of America and took the form of a Memorandum of Understanding;
+
+Whereas this Memorandum of Understanding should be quickly given effect, so that the deadlines contained therein can be met,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Memorandum of Understanding between the European Economic Community and the United States of America on oil seeds in the framework of the General Agreement on Tariffs and Trade is hereby approved on behalf of the European Economic Community.
+
+The text of the said Memorandum is attached to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the person empowered to sign the Memorandum of Understanding in order to bind the Community.
+
+This Decision shall be published in the Official Journal of the European Communities.
+
+Done at Luxembourg, 8 June 1993.
+
+For the Council
+
+The President
+
+N. HELVEG PETERSEN
+
+## ANNEX
+
+EC-12 oil seed separate base area system (1) (Soya beans, rape and colza seeds and sunflower seeds)
+
+/* Tables: see OJ */
+
+(1) Figures to be reduced to reflect the annual set aside rate for arable crops.
+
+(2) The term 1994/95 refers to the Community marketing year, i.e. oil seeds (both winter and spring sown) for harvest in 1994.
+
+(3) It is understood that, should the membership of the Community be expanded, this Agreement will be amended to reflect an increase in the separate base area in an amount no more than the average level of production area of the acceding member in the three years immediately preceding such accession.

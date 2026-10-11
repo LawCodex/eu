@@ -1,0 +1,77 @@
+---
+title: "96/91/EC: Council Decision of 22 January 1996 concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts"
+identifier: "31996D0091"
+eli: "http://data.europa.eu/eli/dec/1996/91/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1996-01-22
+entry_into_force: 1996-02-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996D0091"
+retrieved: 2026-10-11
+---
+
+# 96/91/EC: Council Decision of 22 January 1996 concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts
+
+**COUNCIL DECISION**
+
+**of 22 January 1996**
+
+**concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts**
+
+**(96/91/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 43, in conjunction with the first subparagraph of Article 228 (3) thereof,
+
+Having regard to the proposal from the Commission (1),
+
+Having regard to the opinion of the European Parliament (2),
+
+Whereas the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts, signed in Gdansk on 13 September 1973, was amended by the Protocol to the Conference of the representatives of the State Parties to the Convention, signed in Warsaw on 11 November 1982;
+
+Whereas the Community acceded to the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts on 18 March 1984 (3);
+
+Whereas negotiations have taken place during the 20th Session of the International Baltic Sea fishery Commission with a view to amending Article VII of that Convention, to establish a closer link between the financial contributions of the Contracting Parties and the size of the fishery resources allocated to them pursuant to the Convention;
+
+Wheras the proposed amendment will enter into force 90 days after the Depository Government has received notification of acceptance of that amendment from all Contracting Parties;
+
+Whereas, in the light of the fishing possibilities accruing to the Community under the Convention, it is in the Community's interest to approve the proposed amendment,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts is hereby approved by the Community.
+
+The text of the amendment is annexed to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the person empowered to notify the Depository Government of the Community's approval in accordance with Article XVI of the Convention.
+
+Done at Brussels, 22 January 1996.
+
+For the Council
+
+The President
+
+W. LUCCHETTI
+
+(1) OJ No C 252, 28. 9. 1995, p. 8.
+
+(2) Opinion delivered on 15 December 1995 (not yet published in the Official Journal).
+
+(3) OJ No L 237, 26. 8. 1983, p. 4.
+
+## ANNEX
+
+Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts is amended as follows:
+
+‘The total amount of the budget including any supplementary budget shall be contributed to by the Contracting Parties according to the following formula:
+
+(a) one-third of the budget shall be divided equally among the Contracting Parties;
+
+(b) two-thirds of the budget shall be divided in proportion to the TACs available to the Contracting Parties in accordance with the financial regulations for the Commission.’

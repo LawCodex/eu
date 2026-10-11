@@ -1,0 +1,61 @@
+---
+title: "1999/457/EC: Council Decision of 22 April 1999 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the system of ecopoints to be applied to Slovenian transit traffic through Austria as from 1 January 1997"
+identifier: "31999D0457"
+eli: "http://data.europa.eu/eli/dec/1999/457/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1999-04-22
+entry_into_force: 1999-06-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999D0457"
+retrieved: 2026-10-11
+---
+
+# 1999/457/EC: Council Decision of 22 April 1999 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the system of ecopoints to be applied to Slovenian transit traffic through Austria as from 1 January 1997
+
+COUNCIL DECISION
+
+of 22 April 1999
+
+concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the system of ecopoints to be applied to Slovenian transit traffic through Austria as from 1 January 1997
+
+(1999/457/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing to European Community, and in particular Article 75 in conjunction with Article 228(2), first sentence and (3), first subparagraph thereof,
+
+Having regard to the proposal from the Commission(1),
+
+Having regard to the opinion of the European Parliament(2),
+
+Whereas the additional Protocol to the Agreement between the European Economic Community and the Republic of Slovenia in the field of transport(3), and in particular Article 1 thereof, establishes that a system of ecopoints equivalent to that laid down by Article 11 of Protocol 9 to the 1994 Act of Accession is to apply, with effect from 1 January 1997;
+
+Whereas an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia establishing the method of calculation and the detailed rules and procedures for the management and control of the ecopoints should be approved,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the system of ecopoints to be applied to Slovenian transit traffic through Austria as from 1 January 1997 is hereby approved on behalf of the Community.
+
+The text of the Agreement in the form of an Exchange of Letters is attached to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorised to designate the person empowered to sign the Agreement in the form of an Exchange of Letters in order to bind the Community.
+
+Done at Luxembourg, 22 April 1999.
+
+For the Council
+
+The President
+
+W. MÜLLER
+
+(1) OJ C 342, 10.11.1998, p. 7.
+
+(2) OJ C 150, 28.5.1999, p. 163.
+
+(3) OJ L 351, 23.12.1997, p. 62.

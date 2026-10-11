@@ -1,0 +1,51 @@
+---
+title: "94/48/EC: Council Decision of 20 December 1993 on the conclusion of the Additional Protocol to the Interim Agreement on trade and trade-related matters between the European Economic Community and the European Coal and Steel Community, of the one part, and Romania, of the other part, and to the Europe Agreement between the European Communities and their Member States, of the one part, and Romania, of the other part"
+identifier: "31994D0048"
+eli: "http://data.europa.eu/eli/dec/1994/48(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1993-12-20
+entry_into_force: 1994-12-31
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994D0048"
+retrieved: 2026-10-11
+---
+
+# 94/48/EC: Council Decision of 20 December 1993 on the conclusion of the Additional Protocol to the Interim Agreement on trade and trade-related matters between the European Economic Community and the European Coal and Steel Community, of the one part, and Romania, of the other part, and to the Europe Agreement between the European Communities and their Member States, of the one part, and Romania, of the other part
+
+COUNCIL DECISION of 20 December 1993 on the conclusion of the Additional Protocol to the Interim Agreement on trade and trade-related matters between the European Economic Community and the European Coal and Steel Community, of the one part, and Romania, of the other part, and to the Europe Agreement between the European Communities and their Member States, of the one part, and Romania, of the other part (94/48/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with Article 228 (2) thereof,
+
+Having regard to the conclusions of the European Council which took place in Copenhagen on 21 and 22 June 1993,
+
+Having regard to the proposal from the Commission,
+
+Whereas the Commission has negotiated on behalf of the Communities an Additional Protocol to the Interim Agreement on trade and trade-related matters and to the Europe Agreement with Romania;
+
+Whereas it is necessary to approve this Additional Protocol,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Additional Protocol to the Interim Agreement on trade and trade-related matters between the European Economic Community and the European Coal and Steel Community, of the one part, and Romania, of the other part, and to the Europe Agreement between the European Communities and their Member States, of the one part, and Romania, of the other part, is hereby approved on behalf of the European Community.
+
+The text of the Additional Protocol is attached to this decision.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the person empowered to sign the Additional Protocol on behalf of the European Community.
+
+The President of the Council shall give the notification provided for in Article 8 of the Additional Protocol on behalf of the European Community.
+
+Done at Brussels, 20 December 1993.
+
+For the Council
+
+The President
+
+W. CLAES

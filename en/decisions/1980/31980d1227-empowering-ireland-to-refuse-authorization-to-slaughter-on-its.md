@@ -1,0 +1,54 @@
+---
+title: "80/1227/EEC: Commission Decision of 12 December 1980 empowering Ireland to refuse authorization to slaughter on its territory certain sheep originating in the United Kingdom (Only the English text is authentic)"
+identifier: "31980D1227"
+eli: "http://data.europa.eu/eli/dec/1980/1227/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1980-12-12
+entry_into_force: 1980-12-31
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980D1227"
+retrieved: 2026-10-11
+---
+
+# 80/1227/EEC: Commission Decision of 12 December 1980 empowering Ireland to refuse authorization to slaughter on its territory certain sheep originating in the United Kingdom (Only the English text is authentic)
+
+COMMISSION DECISION of 12 December 1980 empowering Ireland to refuse authorization to slaughter on its territory certain sheep originating in the United Kingdom (Only the English text is authentic) (80/1227/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1837/80 of 27 June 1980 on the common organization of the market in sheepmeat and goatmeat (1), and in particular Article 9 (4) thereof,
+
+Whereas Article 9 (3) of Regulation (EEC) No 1837/80 lays down that, in the event of payment of the variable slaughter premium for sheep, an amount equivalent to that premium is to be charged on products referred to in Article 1 (a) of that Regulation as they leave the territory of the Member State which grants the said premium;
+
+Whereas the United Kingdom, which grants the said premium, and Ireland have a common land frontier ; whereas it is possible to send animals which have qualified for the premium in the United Kingdom across the said frontier fraudulently and to have them slaughtered in Ireland without paying the amount referred to above ; whereas this problem cannot be resolved by the usual means;
+
+Whereas, in order to limit the said risk of fraud, it is accordingly necessary to make provision for the Irish authorities to refuse the slaughter on their territory of animals in respect of which no proof is provided that the abovementioned amount had been paid when the said animals left the territory of the United Kingdom, in accordance with Commission Regulation (EEC) No 2661/80 (2);
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Management Committee for Sheep and Goats,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Where sheep originating in the United Kingdom and marked pursuant to Article 2 (1) of Regulation (EEC) No 2661/80 are presented for slaughter in Ireland and no proof to the satisfaction of the competent authorities is provided that the amount referred to in Article 4 of the said Regulation has been paid or a security for that amount provided as laid down in paragraph 2 of the same Article, the Irish authorities shall refuse to authorize slaughter of the said animals on their territory.
+
+## Article 2
+
+The competent Irish authorities shall inform the competent authorities of the United Kingdom and the Commission of cases where slaughter has been refused pursuant to this Decision.
+
+## Article 3
+
+This Decision is addressed to Ireland.
+
+Done at Brussels, 12 December 1980.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President (1)OJ No L 183, 16.7.1980, p. 1. (2)OJ No L 276, 20.10.1980, p. 19.

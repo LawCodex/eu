@@ -1,0 +1,50 @@
+---
+title: "76/811/EEC: Commission Decision of 5 October 1976 on the refusal to accept the scientific character of an apparatus known as 'Integrated 100/300 Unit'"
+identifier: "31976D0811"
+eli: "http://data.europa.eu/eli/dec/1976/811/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1976-10-05
+entry_into_force: 1976-04-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976D0811"
+retrieved: 2026-10-11
+---
+
+# 76/811/EEC: Commission Decision of 5 October 1976 on the refusal to accept the scientific character of an apparatus known as 'Integrated 100/300 Unit'
+
+COMMISSION DECISION of 5 October 1976 on the refusal to accept the scientific character of an apparatus known as "Integrated 100/300 Unit" (76/811/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1798/75 of 10 July 1975 on the importation free of Common Customs Tariff duties of educational, scientific and cultural materials (1),
+
+Having regard to Commission Regulation (EEC) No 3195/75 of 2 December 1975 laying down provisions for the implementation of Regulation (EEC) No 1798/75 (2), and in particular Article 5 thereof,
+
+Whereas, by letter dated 12 May 1976, the French Government requested the Commission to determine whether or not the apparatus known as "Integrated 100/300 Unit" should be considered to be a scientific apparatus;
+
+Whereas, in accordance with Article 4 (5) of Regulation (EEC) No 3195/75, a group of experts composed of representatives of all of the Member States met on 16 September 1976 within the Committee on Duty-Free Arrangements to examine this particular case;
+
+Whereas this examination shows that the apparatus concerned is intended to create a vacuum in an oven of 2 800 ºC in order to prepare rare earth monocrystals for examination by electronic microscope ; whereas the absence of any special device to allow of its specific use for scientific purposes does not permit it to be distinguished from standard laboratory equipment materials used for commercial and industrial purposes ; whereas pursuant to the provisions of Article 3 (4) of Regulation (EEC) No 1798/75, this apparatus cannot be considered to be a scientific apparatus,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The apparatus known as "Integrated 100/300 Unit" is not hereby considered to be a scientific apparatus.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 5 October 1976.
+
+For the Commission
+
+Finn GUNDELACH
+
+Member of the Commission (1)OJ No L 184, 15.7.1975, p. 1. (2)OJ No L 316, 6.12.1975, p. 17.

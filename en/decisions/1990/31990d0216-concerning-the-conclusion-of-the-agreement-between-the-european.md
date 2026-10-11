@@ -1,0 +1,55 @@
+---
+title: "90/216/EEC: Council Decision of 23 April 1990 concerning the conclusion of the Agreement between the European Economic Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods"
+identifier: "31990D0216"
+eli: "http://data.europa.eu/eli/dec/1990/216/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1990-04-23
+entry_into_force: 1990-05-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990D0216"
+retrieved: 2026-10-11
+---
+
+# 90/216/EEC: Council Decision of 23 April 1990 concerning the conclusion of the Agreement between the European Economic Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods
+
+**COUNCIL DECISION**
+
+**of 23 April 1990**
+
+**concerning the conclusion of the Agreement between the European Economic Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods**
+
+**(90/216/EEC)**
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas the conclusion of the Agreement between the European Economic Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods must make it possible to improve the flow of traffic across the frontiers between the contracting parties; whereas it is therefore advisable to approve that Agreement,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement between the European Economic Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods is hereby approved on behalf of the Community.
+
+The text of the Agreement is attached to this Decision.
+
+## Article 2
+
+The Community shall be represented on the joint committee provided for in Article 15 of the Agreement by the Commission, assisted by the representatives of the Member States.
+
+## Article 3
+
+The President of the Council shall carry out the notification provided for in Article 22 of the Agreement.
+
+Done at Luxembourg, 23 April 1990.
+
+For the Council
+
+The President
+
+A. REYNOLDS

@@ -1,0 +1,92 @@
+---
+title: "85/543/EEC: Council Decision of 9 December 1985 concerning a Community loan in favour of the Hellenic Republic"
+identifier: "31985D0543"
+eli: "http://data.europa.eu/eli/dec/1985/543/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1985-12-09
+entry_into_force: 1985-02-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985D0543"
+retrieved: 2026-10-11
+---
+
+# 85/543/EEC: Council Decision of 9 December 1985 concerning a Community loan in favour of the Hellenic Republic
+
+*****
+
+COUNCIL DECISION
+
+of 9 December 1985
+
+concerning a Community loan in favour of the Hellenic Republic
+
+(85/543/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 682/81 of 16 March 1981 adjusting the Community loan mechanism designed to support the balance of payments of Member States (1), as amended by Regulation (EEC) No 1131/85 (2), and in particular Article 2 thereof,
+
+Having regard to the proposal from the Commission, submitted after consultation of the Monetary Committee,
+
+Whereas examination by the Commission, in collaboration with the Monetary Committee, of the economic situation of Greece has shown a marked deterioration in the balance of payments, a fall in the foreign exchange reserves and a rapid increase in external indebtedness; whereas these difficulties, because of their persistence are liable to jeopardize the proper functioning of the common market;
+
+Whereas the Greek Government has applied for a medium-term loan under the Community loan mechanism designed to support the balance of payments of Member States; whereas the granting of such a loan is an appropriate measure, within the framework of mutual assistance, to facilitate the adjustment of the Greek economy;
+
+Whereas the main reasons for the deterioration in the balance of payments of Greece are the absence of control over domestic factors, notably a sharp acceleration of inflation, a rapid rise in labour costs, a marked deterioration in the situation of the productive sector and a substantial over-run of domestic budgetary and monetary targets;
+
+Whereas the Greek authorities have adopted an economic recovery programme and have presented this programme at the same time as their application for a loan; whereas the Commission has addressed to the Greek Government a recommendation on the measures which it suggests should be adopted; whereas the Greek authorities have approved the terms of the said recommendation;
+
+Whereas the Greek Government, in implementing this recovery programme, undertakes to pursue, over a period of two years, and if necessary taking the appropriate corrective measures during the period, the following objectives:
+
+1\. a slowdown of inflation, so that the annual rate of price increase is brought down to 15 % at the end of 1986 and to under 10 % by mid-1987, excluding the effects of the introduction of value added tax from 1 January 1987;
+
+2\. a very appreciable slowdown in the upward movement of labour costs, through a lasting adjustment of the wage indexation mechanism based on an advance inflation norm and excluding from wage adjustments rises in import prices;
+
+3\. a reduction in the public sector borrowing requirement of 4 percentage points of the Gross Domestic Product in 1986 and of a similar amount in 1987;
+
+4\. a progressive but substantial reduction in domestic credit expansion to 17 % in 1986 and to 11 % in 1987 compared with 25 % in 1985 and a significant reduction in the proportion of the public sector borrowing requirement covered by monetary resources;
+
+5\. a reduction in the current account deficit so that as early as 1988 the external public debt can be stabilized in terms of absolute value;
+
+Whereas the implementation of this programme is to give priority, within a medium-term perspective, to strengthening and modernizing productive structures; whereas as a result the conditions for the recovery of productive investment are to be established;
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Community shall grant the Hellenic Republic, under Regulation (EEC) No 682/81, a loan of 1 750 million ECU or the equivalent amount in other currencies.
+
+## Article 2
+
+The loan shall be made available to the Hellenic Republic in two equal instalments:
+
+- the first instalment as soon as the borrowing operations are completed,
+
+- the second instalment within one year of the payment of the first instalment, and, in any case, not before 1 January 1987, the Commission shall release the second instalment in the light of the examination, made in collaboration with the Monetary Committee of the evolution of the economic situation of the beneficiary Member State and the results obtained in the execution of the economic recovery programme, as implemented.
+
+## Article 3
+
+1\. The loan shall be granted on the basis of the decision taken by the beneficiary Member State to implement the economic recovery programme which it has presented, the objectives of which are set out in the recitals to this Decision.
+
+2\. The Commission, in collaboration with the Monetary Committee, shall examine at regular intervals the evolution of the economic situation of the beneficiary Member State and the execution of the economic recovery programme, as implemented.
+
+## Article 4
+
+This Decision is addressed to the Hellenic Republic.
+
+Done at Brussels, 9 December 1985.
+
+For the Council
+
+The President
+
+J. SANTER
+
+(1) OJ No L 73, 19. 3. 1981, p. 1.
+
+(2) OJ No L 118, 1. 5. 1985, p. 59.

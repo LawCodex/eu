@@ -1,0 +1,66 @@
+---
+title: "76/963/EEC: Commission Decision of 7 December 1976 on the implementation of the reform of agricultural structures in the French Republic pursuant to Title I of Directive 72/161/EEC (Only the French text is authentic)"
+identifier: "31976D0963"
+eli: "http://data.europa.eu/eli/dec/1976/963/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1976-12-07
+entry_into_force: 1976-04-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976D0963"
+retrieved: 2026-10-11
+---
+
+# 76/963/EEC: Commission Decision of 7 December 1976 on the implementation of the reform of agricultural structures in the French Republic pursuant to Title I of Directive 72/161/EEC (Only the French text is authentic)
+
+COMMISSION DECISION of 7 December 1976 on the implementation of the reform of agricultural structures in the French Republic pursuant to Title I of Directive 72/161/EEC (Only the French text is authentic) (76/963/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/161/EEC of 17 April 1972 concerning the provision of socio-economic guidance for and the acquisition of occupational skills by persons engaged in agriculture (1), and in particular Article 11 (3) thereof,
+
+Whereas on 4 August 1976 the French Government, pursuant to Article 10 (4) of Directive 72/161/EEC, notified the following provisions for the implementation of socio-economic guidance in application of Title I of the said Directive: - decree No 76-518 of 10 June 1976 supplementing decree No 68-395 of 30 April 1968 laying down the conditions for administering the National Agricultural Development Fund,
+
+- the order of 8 January 1976 establishing a certificate of professional competence for socio-economic counsellors,
+
+- circular No 2811 of 20 May 1976 implementing Title I of Directive 72/161/EEC;
+
+Whereas under Article 11 (3) of Directive 72/161/EEC the Commission must decide whether, having regard to the objectives of the said Directive and to the need for a proper connection between the various measures, the provisions notified comply with the Directive and thus satisfy the conditions for financial contribution by the Community;
+
+Whereas it is a basic aim of Title I thereof to enable persons engaged in agriculture, and in particular those persons who must fundamentally alter the nature of their activity, to take decisions on their future occupations and those of their children with full knowledge of the opportunities available and of the consequences of their choice;
+
+Whereas to that and the Member States are therefore required: - under Articles 2 (a) and 3 thereof, to create and develop services providing socio-economic guidance, such services to be either public or expressly appointed and approved for that purpose by Member States, or to create and develop within services already existing special departments for the provision of such guidance,
+
+- under Articles 2 (b) and 4, to introduce appropriate basic and advanced training programmes for socio-economic counsellors and to bear the cost of training such counsellors;
+
+Whereas, under the first indent of Article 12 (2) thereof, the Guidance Section of the EAGGF is to refund to Member States 25 % of a standard amount of 7 500 units of account in respect of each counsellor beginning his duties for the first time and providing socio-economic guidance within the meaning of Article 3 thereof;
+
+Whereas, under the second indent of the said Article 12 (2) thereof, the Guidance Section of the EAGGF is to refund to Member States 25 % of the cost of training within the meaning of Article 4 thereof up to an overall amount of 4 500 units of account for each counsellor trained who provides socio-economic guidance within the meaning of Article 3 thereof;
+
+Whereas the provisions as to the number, activity and training of the socio-economic counsellors provided for, as notified by the French Government conform with the objectives of Title I of Directive 72/161/EEC;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the provisions of this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structures, (1)OJ No L 96, 23.4.1972, p. 15.
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The schemes for the provision of socio-economic guidance for the agricultural Community as notified by the French Government on 4 August 1976, satisfy the conditions for financial contribution from the Community to common measures as referred to in Article 8 of Directive 72/161/EEC.
+
+## Article 2
+
+This Decision is addressed to the French Republic.
+
+Done at Brussels, 7 December 1976.
+
+For the Commission
+
+P.J. LARDINOIS
+
+Member of the Commission

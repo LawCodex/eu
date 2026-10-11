@@ -1,0 +1,64 @@
+---
+title: "98/280/EC: Commission Decision of 8 April 1998 amending the boundaries of the mountain areas in France within the meaning of Council Regulation (EC) No 950/97 (Only the French text is authentic)"
+identifier: "31998D0280"
+eli: "http://data.europa.eu/eli/dec/1998/280/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1998-04-08
+entry_into_force: 1998-07-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31998D0280"
+retrieved: 2026-10-11
+---
+
+# 98/280/EC: Commission Decision of 8 April 1998 amending the boundaries of the mountain areas in France within the meaning of Council Regulation (EC) No 950/97 (Only the French text is authentic)
+
+COMMISSION DECISION of 8 April 1998 amending the boundaries of the mountain areas in France within the meaning of Council Regulation (EC) No 950/97 (Only the French text is authentic) (98/280/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 950/97 of 20 May 1997 on improving the efficiency of agricultural structures (1), and in particular Article 21(3) thereof,
+
+Whereas Council Directive 75/271/EEC (2), as last amended by Commission Decision 97/158/EC (3), concerning the Community list of less-favoured farming areas within the meaning of Regulation (EC) No 950/97 (France), lists the areas in France defined as mountain areas within the meaning of Article 23 of Regulation (EC) No 950/97 and the specific criteria which resulted in their being so defined;
+
+Whereas the French Government notified the Commission, in accordance with Article 21(3) of Regulation (EC) No 950/97, of new areas likely to be included on the Community list of mountain areas and provided information on their characteristics; whereas, furthermore, the special aid scheme existing in the mountain areas will be extended to the new areas;
+
+Whereas, as the above notification indicates, some areas meet criteria and indices in Council Directive 76/401/EEC (4) used to identify the areas covered by Article 23 of Regulation (EC) No 950/97; whereas the areas in question must therefore be included in the Community list of mountain areas within the meaning of Article 23 of Regulation (EC) No 950/97;
+
+Whereas these amendments do not increase the utilised agricultural area of the less-favoured areas in France by more than 1,5 % because the areas are already classed as less-favoured pursuant to Article 24 of Regulation (EC) No 950/97;
+
+Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee on Agricultural Structures and Rural Development,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Community list of mountain areas in France in the Annex to Directive 75/271/EEC is supplemented by the list in the Annex to this Decision.
+
+## Article 2
+
+This Decision is addressed to the French Republic.
+
+Done at Brussels, 8 April 1998.
+
+For the Commission
+
+Franz FISCHLER
+
+Member of the Commission
+
+(1) OJ L 142, 2. 6. 1997, p. 1.
+
+(2) OJ L 128, 19. 5. 1975, p. 33.
+
+(3) OJ L 60, 1. 3. 1997, p. 64.
+
+(4) OJ L 108, 26. 4. 1976, p. 22.
+
+## ANNEX
+
+>TABLE>

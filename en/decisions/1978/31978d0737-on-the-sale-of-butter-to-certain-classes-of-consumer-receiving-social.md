@@ -1,0 +1,78 @@
+---
+title: "78/737/EEC: Commission Decision of 18 August 1978 on the sale of butter to certain classes of consumer receiving social assistance"
+identifier: "31978D0737"
+eli: "http://data.europa.eu/eli/dec/1978/737/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1978-08-18
+entry_into_force: 1978-11-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0737"
+retrieved: 2026-10-11
+---
+
+# 78/737/EEC: Commission Decision of 18 August 1978 on the sale of butter to certain classes of consumer receiving social assistance
+
+COMMISSION DECISION of 18 August 1978 on the sale of butter to certain classes of consumer receiving social assistance (78/737/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organization of the market in milk and milk products (1), as last amended by Regulation (EEC) No 1761/78 (2), and in particular Articles 12 (3) and 28 thereof,
+
+Whereas, under Council Regulation (EEC) No 1762/78 of 25 July 1978 on the sale of butter at reduced prices to persons receiving social assistance (3), aid may be granted for the purchase of butter at reduced prices by persons receiving social assistance;
+
+Whereas, in order to ensure that the butter in fact reaches those for whom it is intended, provision should be made for it to be sold only upon presentation of documentary evidence of the purchaser's entitlement to the butter, and a maximum monthly quantity per consumer should be fixed;
+
+Whereas the aid provided for in Regulation (EEC) No 1762/78 is granted in addition to the price reductions on butter sold for direct consumption pursuant to other Community measures and in particular pursuant to Commission Regulation (EEC) No 649/78 of 31 March 1978 on the sale at reduced prices of intervention butter for direct consumption as concentrated butter (4), and to Commission Regulation (EEC) No 1901/78 of 4 August 1978 on the sale of butter at a reduced price during the 1978/79 milk year for direct consumption in the Community (5);
+
+Whereas the Member States should inform the Commission of the arrangements proposed by them and of the quantities of butter sold pursuant to this Decision;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Management Committee for Milk and Milk Products,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+1\. The aid provided for in Regulation (EEC) No 1762/78 shall be granted only to individual consumers belonging to the classes defined by the Member State concerned and who, because of their economic situation, receive social assistance from a public authority in the Member State concerned.
+
+2\. The butter may be obtained only: - on presentation of a document establishing entitlement to it, issued by the competent authority designated by the Member State concerned, and
+
+- subject to a maximum of 750 grams per person per month.
+
+However, the Member State concerned may increase this maximum quantity to one kilogram per month if, in that country, the average consumption of butter per head of population during the previous year was at least 12 kilograms.
+
+3\. The aid shall be paid to suppliers of butter upon presentation of the document referred to in paragraph 2, collected by them at the time of sale to the consumers concerned.
+
+This document must be submitted, on penalty of refusal of payment, within 12 months from the expiry date set by the Member State concerned for the document in question.
+
+## Article 2
+
+The Member States which avail themselves of the authorization provided for in Regulation (EEC) No 1762/78 shall take all appropriate measures to ensure that: (a) the distribution of butter and the granting of aid takes place according to the conditions specified in Article 1 of this Decision; (1)OJ No L 148, 28.6.1968, p. 13. (2)OJ No L 204, 28.7.1978, p. 6. (3)OJ No L 204, 28.7.1978, p. 7. (4)OJ No L 86, 1.4.1978, p. 33. (5)OJ No L 216, 5.8.1978, p. 43.
+
+(b) the consumers concerned can also buy under the conditions of this Decision butter already on sale at reduced prices for direct consumption pursuant to other Community measures.
+
+## Article 3
+
+Member States shall notify the Commission which shall then inform the other Member States of: (a) the criteria envisaged for determining the classes of consumers referred to in Article 1 (1), the number of potential recipients and the corresponding monthly quantities of butter to be distributed;
+
+(b) the measures taken in accordance with Article 2;
+
+(c) before the end of the first month of each quarter of the calendar year and in respect of the previous quarter: - the quantities of butter corresponding to the documents issued by the competent authority in accordance with Article 1 (2),
+
+- the quantities of butter in respect of which aid has been paid in accordance with Article 1 (3).
+
+## Article 4
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 18 August 1978.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President

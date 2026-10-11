@@ -1,0 +1,100 @@
+---
+title: "78/995/EEC: Commission Decision of 23 November 1978 on approval of the programme to accelerate drainage operations in the less-favoured areas of the west of Ireland pursuant to Directive 78/628/EEC (Only the English text is authentic)"
+identifier: "31978D0995"
+eli: "http://data.europa.eu/eli/dec/1978/995/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1978-11-23
+entry_into_force: 1978-02-22
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31978D0995"
+retrieved: 2026-10-11
+---
+
+# 78/995/EEC: Commission Decision of 23 November 1978 on approval of the programme to accelerate drainage operations in the less-favoured areas of the west of Ireland pursuant to Directive 78/628/EEC (Only the English text is authentic)
+
+COMMISSION DECISION of 23 November 1978 on approval of the programme to accelerate drainage operations in the lessfavoured areas of the west of Ireland pursuant to Directive 78/628/EEC (Only the English text is authentic) (78/995/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 78/628/EEC of 19 June 1978 on a programme to accelerate drainage operations in the less-favoured areas of the west of Ireland (1), and in particular Article 2 (3) thereof,
+
+Whereas on 20 October 1978 the Irish Government notified: - the programme for the acceleration of drainage in the west of Ireland pursuant to Directive 78/628/EEC,
+
+- provisions on the procedure followed by the Department of Agriculture in the payment of grants for field drainage,
+
+- a scheme to accelerate drainage operations in the less-favoured areas of the west of Ireland,
+
+- a circular addressed to the Advisory Service,
+
+- a circular addressed to agricultural cooperatives;
+
+Whereas, as regards the public arterial drainage works provided for in the programme: - the programme notified contains all the information specified in Article 3 (a) of Directive 78/628/EEC,
+
+- the cost-benefit analysis for each catchment area shows that the measures provided for will be sufficiently profitable;
+
+Whereas, as regards the field drainage works provided for in the programme: - the programme notified contains all the information and necessary provisions and measures specified in Article 3 (b) of Directive 78/628/EEC,
+
+- the programme and the provisions and measures referred to above guarantee that the conditions laid down in Article 3 (b) of that Directive will be complied with to the extent required and that the objectives of the common measure provided for in Directive 78/628/EEC can therefore be attained;
+
+Whereas the Irish Government has also demonstrated sufficiently the complementary nature of the Community contribution;
+
+Whereas it is necessary to determine in agreement in Ireland the manner in which information is to be provided periodically on the progress of the programme ; whereas agreement with Ireland on this has now been reached;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The programme submitted by the Irish Government on 20 October 1978 for the acceleration of drainage in the west of Ireland pursuant to Directive 78/628/EEC is hereby approved.
+
+## Article 2
+
+The Irish Government shall, before 1 May each year, report on the progress of the programme referred to in the preceding Article.
+
+The report shall contain the following information: (a) Arterial drainage: - for each catchment area, length of the main rivers and tributaries, where deepening and widening has been completed,
+
+- for each catchment area, length of the main rivers and tributaries where deepening and widening is in progress,
+
+- number of hectares which have been drained by the arterial drainage schemes already completed,
+
+- number of hectares which will be drained by the arterial drainage schemes still in progress. (1)OJ No L 206, 29.7.1978, p. 5.
+
+(b) Field drainage: (1) Within the catchment areas: - number of hectares per catchment area which have been drained under the field drainage programme,
+
+- of these, the number of hectares per catchment area which have been drained under group drainage schemes,
+
+- number of farms per catchment area whose land has been drained under the field drainage programme,
+
+- total cost of the field drainage operations still in progress per catchment area,
+
+- total amount of aid granted per catchment area for field drainage operations still in progress,
+
+- number of hectares per catchment area for which field drainage has been approved and where the field drainage operations have not yet been completed, and number of farms affected.
+
+(2) Outside the catchment areas: - the same information as for field drainage within the catchment areas.
+
+(3) Machinery: - number of agricultural cooperatives,
+
+- total cost of machinery purchased by cooperatives,
+
+- total aid paid to cooperatives for machinery purchases.
+
+## Article 3
+
+This Decision is addressed to Ireland.
+
+Done at Brussels, 23 November 1978.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President

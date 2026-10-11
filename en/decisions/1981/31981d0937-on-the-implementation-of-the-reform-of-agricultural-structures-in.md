@@ -1,0 +1,54 @@
+---
+title: "81/937/EEC: Commission Decision of 10 November 1981 on the implementation of the reform of agricultural structures in Italy pursuant to Title II of Council Directive 75/268/EEC (Only the Italian text is authentic)"
+identifier: "31981D0937"
+eli: "http://data.europa.eu/eli/dec/1981/937/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1981-11-10
+entry_into_force: 1981-06-16
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981D0937"
+retrieved: 2026-10-11
+---
+
+# 81/937/EEC: Commission Decision of 10 November 1981 on the implementation of the reform of agricultural structures in Italy pursuant to Title II of Council Directive 75/268/EEC (Only the Italian text is authentic)
+
+COMMISSION DECISION of 10 November 1981 on the implementation of the reform of agricultural structures in Italy pursuant to Title II of Council Directive 75/268/EEC (Only the Italian text is authentic) (81/937/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 75/268/EEC of 28 April 1975 on mountain and hill farming and farming in certain less-favoured areas (1), as last amended by Directive 80/666/EEC (2), and in particular Article 13 thereof,
+
+Whereas on 2 September 1981 the Italian Government has communicated Article 5 of the Law No 423 of 1 August 1981 "Agricultural measures";
+
+Whereas pursuant to Article 13 of Directive 75/268/EEC in conjunction with Article 18 (3) of Directive 72/159/EEC the Commission has to decide whether, having regard to Article 5 of the Law No 423 notified, the existing provisions in Italy for the implementation of Title II of Directive 75/268/EEC continue to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 13 of Directive 75/268/EEC;
+
+Whereas the said Article 5 of the Law No 423 of 1 August 1981 satisfy the conditions and are consistent with the objectives of Title II of the said Directive;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The provisions existing in Italy for the implementation of the reform of agricultural structures pursuant to Title II of Directive 75/268/EEC continue, having regard to Article 5 of the Law No 423 of 1 August 1981 "Agricultural measures", notified on 2 September 1981, to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 of Directive 72/159/EEC and Article 13 of Directive 75/268/EEC.
+
+## Article 2
+
+This Decision is addressed to the Italian Republic.
+
+Done at Brussels, 10 November 1981.
+
+For the Commission
+
+Poul DALSAGER
+
+Member of the Commission
+
+(1) OJ No L 128, 19.5.1975, p. 1. (2) OJ No L 180, 14.7.1980, p. 34.

@@ -1,0 +1,84 @@
+---
+title: "84/321/EEC: Commission Decision of 12 June 1984 establishing that the six apparatus described as 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI' may be imported free of Common Customs Tariff duties"
+identifier: "31984D0321"
+eli: "http://data.europa.eu/eli/dec/1984/321/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1984-06-12
+entry_into_force: 1983-12-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31984D0321"
+retrieved: 2026-10-11
+---
+
+# 84/321/EEC: Commission Decision of 12 June 1984 establishing that the six apparatus described as 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI' may be imported free of Common Customs Tariff duties
+
+*****
+
+COMMISSION DECISION
+
+of 12 June 1984
+
+establishing that the six apparatus described as 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI' may be imported free of Common Customs Tariff duties
+
+(84/321/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1798/75 of 10 July 1975 on the importation free of Common Customs Tariff duties of educational, scientific and cultural materials (1), as last amended by Regulation (EEC) No 608/82 (2),
+
+Having regard to Commission Regulation (EEC) No 2784/79 of 12 December 1979 laying down provisions for the implementation of Regulation (EEC) No 1798/75 (3), and in particular Article 7 thereof,
+
+Whereas, by letter dated 30 November 1983, the Federal Republic of Germany requested the Commission to invoke the procedure provided for in Article 7 of Regulation (EEC) No 2784/79 in order to determine whether or not the apparatus described as:
+
+1\. 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI', ordered on 27 October 1982 and intended to be used for biomechanical and functional analysis of sportive movements,
+
+2\. 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI', ordered on 2 November 1982 and intended to be used for research on the injection of gas into molten metal,
+
+3\. 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI', ordered on 14 December 1982 and intended to be used for the study on the oil slot filling in friction bearings and the tendency to foaming and cavitation in the oils,
+
+4\. 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI', ordered on 20 December 1982 and intended to be used for the evaluation of high-frequency analyses,
+
+5\. 'LW - Photo-Optical Analyzer 16 mm, model 224-AMK VI', ordered on 28 April 1983 and intended to be used for the analysis of processes of incrustation and dissolution of particles in deep-bed filters,
+
+6\. 'LW - Photo-Optical Data Anaylzer 16 mm, model 224-AMK VI', ordered on 15 July 1983 and intended to be used for the evaluation of microcinematographic photographs,
+
+should be considered to be scientific apparatus and, where the reply is in the affirmative, whether apparatus of equivalent scientific value are currently being manufactured in the Community;
+
+Whereas, in accordance with the provisions of Article 7 (5) of Regulation (EEC) No 2784/79, a group of experts composed of representatives of all the Member States met on 14 May 1984 within the framework of the Committee on Duty-Free Arrangements to examine the matter;
+
+Whereas this examination showed that the apparatus in question are projectors; whereas their objective technical characteristics, such as the high shutter speed, and the use to which they are put make them specially suited to scientific research; whereas, moreover, apparatus of the same kind are principally used for scientific activities; whereas they must therefore be considered to be scientific apparatus;
+
+Whereas, on the basis of information received from Member States, apparatus of equivalent scientific value capable of use for the same purpose are not currently manufactured in the Community; whereas, therefore, duty-free admission of these apparatus is justified,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The apparatus described as 'LW - Photo-Optical Data Analyzer 16 mm, model 224-AMK VI' ordered on: 1. 27 October 1982, 2. 2 November 1982, 3. 14 December 1982, 4. 20 December 1982, 5. 28 April 1983, 6. 15 July 1983, which are the subject of an
+
+application by the Federal Republic of Germany of 30 November 1983 may be imported free of Common Customs Tariff duties.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 12 June 1984.
+
+For the Commission
+
+Karl-Heinz NARJES
+
+Member of the Commission
+
+(1) OJ No L 184, 15. 7. 1975, p. 1.
+
+(2) OJ No L 74, 18. 3. 1982, p. 4.
+
+(3) OJ No L 318, 13. 12. 1979, p. 32.

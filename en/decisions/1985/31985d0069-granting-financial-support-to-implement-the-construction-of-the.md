@@ -1,0 +1,120 @@
+---
+title: "85/69/EEC: Commission Decision of 21 December 1984 granting financial support to implement the construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway project (Only the French text is authentic)"
+identifier: "31985D0069"
+eli: "http://data.europa.eu/eli/dec/1985/69/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1984-12-21
+entry_into_force: 1985-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985D0069"
+retrieved: 2026-10-11
+---
+
+# 85/69/EEC: Commission Decision of 21 December 1984 granting financial support to implement the construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway project (Only the French text is authentic)
+
+*****
+
+COMMISSION DECISION
+
+of 21 December 1984
+
+granting financial support to implement the construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway project
+
+(Only the French text is authentic)
+
+(85/69/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 3620/84 of 19 December 1984 on the granting of limited support in the field of transport infrastructure (1),
+
+Whereas the Luxembourg Government has applied to the Community for financial support towards the cost of the construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway project;
+
+Whereas all the conditions required for the Community to grant financial support have been satisfied,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Financial support totalling five million ECU is hereby granted to finance the work to implement the construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway project.
+
+The specifications for the work and the terms and conditions of payment are set out in the Annex.
+
+## Article 2
+
+This Decision is addressed to the Grand Duchy of Luxembourg.
+
+Done at Brussels, 21 December 1984.
+
+For the Commission
+
+Giorgios CONTOGEORGIS
+
+Member of the Commission
+
+(1) OJ No L 333, 21. 12. 1984, p. 58.
+
+## ANNEX
+
+Terms and conditions attached to the award of Community assistance towards the completion of the project: 'Construction of the Potaschbierg - German border section of the Luxembourg-Treves motorway
+
+1\. Location of the project
+
+The project that is the subject of this Decision concerns section III: Potaschbierg - German border of the Treves motorway which extends from Luxembourg to the German border north of Wasserbillig.
+
+2\. Description of the project
+
+The project concerns the construction of a 10,4 km section of motorway having two carriage-ways with two lanes of 3,50 m each. Three large constructions are necessary to cross the valleys of the Syr, the Serningerbaach and the Sure. The section has two junctions.
+
+3\. Timetable for the project
+
+The work started in 1984. Scheduled completion is for 1987.
+
+4\. Payment schedule
+
+4.1. The Community agree to contribute towards the completion of the project to a maximum of five million ECU, the amount of financial support not exceeding 25 % of the total cost of the project. The total cost of the project is estimated at Lfrs 3 086 million francs (67,7 million ECU at 31 May 1984 exchange rate).
+
+The payment schedule shall be as follows:
+
+Payment 1:
+
+The Commission will authorize an advance payment of not more than 30 % of the total grant.
+
+Payment 2:
+
+Upon receipt by the Commission of certified evidence that work equivalent to 70 % of the project, as defined below, has been completed, the Commission shall pay or cause to be paid a sum equivalent to 45 % of the total grant.
+
+In order to qualify for the second payment the Commission will require evidence that the actual certified payments for the project have equalled or exceeded seventy percent (70 %) of the total cost noted above.
+
+Payment 3:
+
+Upon receipt of certified evidence that the project has been completed, the Commission shall pay or cause to be paid the remainder of the sum outstanding.
+
+4.2. Prior to making the first payment (payment 1), the Commission will require the Luxembourg Government to apply Directives 71/305/EEC and 72/277/EEC notably with respect to advertising appropriate works.
+
+5\. Maintenance of accounts
+
+The Commission requires that the Luxembourg authorities responsible maintain accounts and all other information required by the Commission for the effective control over the expenditure on the project. The Commission reserves the right to require written evidence to be supplied during the course of the work of progress and to inspect the site of the works. The accounts of the project are to be maintained for at least four years after the completion of the works. 6. Certification of payments and control of the works
+
+In respect of each payment the Commission will require from the responsible authorities:
+
+- a statement of the works undertaken sufficient to monitor progress. This statement is to be signed by the official responsible for the project to the Luxembourg authorities,
+
+- a certified statement of the payments that have been made. Upon receipt of all payments from the Commission pursuant to this Decision the Commission will require a receipt to be issued.
+
+7\. Responsible officials
+
+The responsible authority for the execution of this Decision in Luxembourg is the Ministry of Public Works, Grand Duchy of Luxembourg.
+
+For the Commission, the Head of Division 'Infrastructure Planning and Development', Directorate-General for Transport, is responsible for the implementation.
+
+8\. Publicity
+
+The responsible authority is required to advertise assistance from the Community by erecting site notices.

@@ -1,0 +1,54 @@
+---
+title: "81/844/EEC: Commission Decision of 8 October 1981 establishing that the apparatus described as 'Hitachi electron microscope, model H-300' may not be imported free of Common Customs Tariff duties"
+identifier: "31981D0844"
+eli: "http://data.europa.eu/eli/dec/1981/844/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1981-10-08
+entry_into_force: 1981-12-17
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31981D0844"
+retrieved: 2026-10-11
+---
+
+# 81/844/EEC: Commission Decision of 8 October 1981 establishing that the apparatus described as 'Hitachi electron microscope, model H-300' may not be imported free of Common Customs Tariff duties
+
+COMMISSION DECISION of 8 October 1981 establishing that the apparatus described as "Hitachi electron microscope, model H-300" may not be imported free of Common Customs Tariff duties (81/844/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1798/75 of 10 July 1975 on the importation free of Common Customs Tariff duties of educational, scientific and cultural materials (1), as amended by Regulation (EEC) No 1027/79 (2),
+
+Having regard to Commission Regulation (EEC) No 2784/79 of 12 December 1979 laying down provisions for the implementation of Regulation (EEC) No 1798/75 (3), and in particular Article 7 thereof,
+
+Whereas, by letter dated 3 April 1981, Italy has requested the Commission to invoke the procedure provided for in Article 7 of Regulation (EEC) No 2784/79 in order to determine whether or not the apparatus described as "Hitachi electron microscope, model H-300", to be used for simultaneous ultrastructural transmission analysis and three-dimensional reconstruction on various organs of domestic mammalia, should be considered to be a scientific apparatus and, where the reply is in the affirmative, whether apparatus of equivalent scientific value is currently being manufactured in the Community;
+
+Whereas, in accordance with the provisions of Article 7 (5) of Regulation (EEC) No 2784/79, a group of experts composed of representatives of all the Member States met on 9 July 1981 within the framework of the Committee on Duty-Free Arrangements to examine the matter;
+
+Whereas this examination showed that the apparatus in question is an electron microscope;
+
+Whereas its objective technical characteristics such as the high enlarging power and the use to which it is put make it specially suited to scientific research ; whereas, moreover, apparatus of the same kind are principally used for scientific activities ; whereas it must therefore be considered to be a scientific apparatus;
+
+Whereas, however, on the basis of information received from Member States, apparatus of scientific value equivalent to the said apparatus, capable of being used for the same purposes, are currently being manufactured in the Community ; whereas this applies, in particular, to the apparatus "EM 400", manufactured by Philips Nederland BV, Boschdijk 525, NL-Eindhoven, and to the apparatus "Camebax", manufactured by Cameca, 103, Boulevard St Denis, F-92400 Courbevoie,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The apparatus described as "Hitachi electron microscope, model H-300", which is the subject of an application by Italy of 3 April 1981, may not be imported free of Common Customs Tariff duties.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 8 October 1981.
+
+For the Commission
+
+Karl-Heinz NARJES
+
+Member of the Commission (1) OJ No L 184, 15.7.1975, p. 1. (2) OJ No L 134, 31.5.1979, p. 1. (3) OJ No L 318, 13.12.1979, p. 32.

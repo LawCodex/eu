@@ -1,0 +1,132 @@
+---
+title: "89/620/EEC: Commission Decision of 30 November 1989 concerning measures to assist the Belgian inland waterway fleet contained in the plan to restructure the Belgian inland waterway fleet (Only the French and Dutch texts are authentic)"
+identifier: "31989D0620"
+eli: "http://data.europa.eu/eli/dec/1989/620/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1989-11-30
+entry_into_force: 1989-10-18
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989D0620"
+retrieved: 2026-10-11
+---
+
+# 89/620/EEC: Commission Decision of 30 November 1989 concerning measures to assist the Belgian inland waterway fleet contained in the plan to restructure the Belgian inland waterway fleet (Only the French and Dutch texts are authentic)
+
+*****
+
+COMMISSION DECISION
+
+of 30 November 1989
+
+concerning measures to assist the Belgian inland waterway fleet contained in the plan to restructure the Belgian inland waterway fleet
+
+(Only the French and Dutch texts are authentic)
+
+(89/620/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular the first paragraph of Article 93 (2) thereof,
+
+Having given notice to the interested parties to submit their comments in accordance with the abovementioned Article,
+
+Whereas,
+
+I
+
+The Belgian Government is considering introducing, for the period 1987 to 1991, an aid regime for its inland waterway fleet under a plan to restructure the Belgian inland waterway fleet.
+
+This regime provides for state aid in the form of interest relief on loans for boat-building, buying second-hand vessels and modernization; it also provides for boat-scrapping premiums, social benefits for early retirement or leaving the industry, and certain other benefits of a fiscal nature. An overall budget of Bfrs 775 million has been provided for, which does not, however, include the cost of financing the social measures.
+
+Having been notified of this regime, the Commission proceeded to examine it under Article 92 of the EEC Treaty, as a result of which it decided that the aid in question, essentially aimed at renewing and modernizing the Belgian inland waterway fleet, without requiring of its recipients any definite reciprocation in terms of restructuring the sector, would consitute aid likely to affect trade and distort competition in a manner incompatible with the common market, and did not seem to meet the conditions for any of the derogations in Article 92 (3) of the EEC Treaty. Consequently, the Commission decided to open the procedure provided for in the first paragraph of Article 93 (2), and to this end gave the Belgian Government notice to submit its comments in letter SG(88)D O3370 of 15 March 1988; the other Member States were informed on 25 April 1988 and other interested parties on 29 April 1988.
+
+II
+
+In letter P11/91/553/12.688 of 29 September 1988 from its Permanent Representative, the Belgian Government submitted its comments under the procedure provided for in Article 93 (2) of the EEC Treaty.
+
+According to the Belgian Government the planned restructuring of the fleet was only to prevent its further decline so that the Belgian fleet could improve its competitiveness vis-à-vis the fleets of other Member States. This aid was indispensable to the sector's survival; the decline in both the quantity and quality of the Belgian fleet, which had deteriorated further since the plan was presented to the Commission, proved this.
+
+The Belgian Government also stated that it was abandoning aid for building new boats and redirecting the sums earmarked for this to bolstering other types of aid envisaged in the plan. The plan's other components remained unchanged.
+
+During the procedure, some Member States and a trade organization submitted their comments to the Commission, which then transmitted them to the Belgian Government.
+
+III
+
+The plan to restructure the Belgian inland waterway fleet would enable it, according to the Belgian Government, to become more competitive vis-à-vis other Member States' fleets operating in the same transport markets. The Belgian fleet's position in relation to its competitors was to be improved by modernizing existing vessels. This modernization would raise the productivity of these vessels, leading to an increase in capacity.
+
+It should be noted that the inland waterway market is afflicted by a pronounced structural imbalance between transport supply and demand, due mainly to an overcapacity estimated at 20 % of the deadweight tonnage of the Member States' fleets. Moreover, the evolution of the market shows that, despite measures taken at national level by the countries affected, the current imbalance is not being corrected. It must be said also that the existing overcapacity is economically damaging to inland waterway freight carriers. Aid for modernization should also be assessed in terms of the system introduced by Council Regulation (EEC) No 1101/89 of 27 April 1989 on structural improvements in inland waterway transport (1). This Regulation is aimed at reducing structural overcapacity by coordinating scrapping schemes in Belgium, Germany, France and the Netherlands and includes provisions to prevent existing overcapacity increasing or extra overcapacity entering service. With regard to this last aspect of the Regulation, modernizing measures are incompatible with the Community Regulation if they increase capacity. Since 28 April 1989 any carrier increasing capacity has been obliged to scrap an equivalent tonnage or to pay a special contribution to one of the national scrapping funds.
+
+With regard to the interest subsidies for the purchase of second-hand vessels by Belgian carriers, this aid constitutes a distortion of competition detrimental to other Member States' carriers, because they are operating in the same transport markets as Belgian boatmen.
+
+In view of these considerations, the aid in question is likely to affect trade between Member States and to distort competition, within the meaning of Article 92 (1) of the EEC Treaty, by discriminating against the other fleets concerned and in favour of the Belgian fleet.
+
+IV
+
+The plan submitted by the Belgian Government envisages measures to scrap inland waterway vessels which should in principle lead to a reduction in current overcapacity. However, this reduction is not guaranteed because the plan includes no measures to prevent the effects of scrapping being cancelled out by increases in capacity.
+
+The scrapping schemes provided for in Regulation (EEC) No 1101/89, include procedures different from those envisaged by the Belgian Government. They will become operational from 1 January 1990 and Regulation (EEC) No 1101/89 imposes their cost on the carriers themselves. In view of this, financing scrapping schemes by State aid will be incompatible with the provisions of the abovementioned Regulation after 1 January.
+
+V
+
+Article 92 (1) of the EEC Treaty states that in principle, certain types of aid are incompatible with the common market. The derogations from this principle enumerated in Article 92 (2) of the Treaty are not applicable to this case in view of the nature and purpose of the aid envisaged.
+
+Under Article 92 (3) of the Treaty, aid which may be considered to be compatible with the common market shall be assessed in terms of the Community and not of an individual Member State. In the interests of the sound working of the common market and taking into account the principles stated in Article 3 (f) of the Treaty, derogations from the principle of Article 92 (1) of the EEC Treaty enumerated in the third paragraph of that Article must be interpreted restrictively when any aid scheme or individual aid measure is being examined.
+
+In particular, derogations can only by permitted if the Commission recognizes that the free play of market forces alone, in the absence of aid, is insufficient to prompt the aid's potential recipients to act to achieve the desired objectives.
+
+Applying these derogations in cases where they do not contribute to such an objective or where they are not essential to its achievement, would give unfair advantages to industries or firms in some Member States, who would find their financial position artificially bolstered and would affect trade between Member States and distort competition, without being justified by the common interest referred to in Article 92 (3).
+
+The Belgian Government has been unable to furnish, and the Commission unable to discern, any reason for classing the aid in question under any of the categories of derogations listed in Article 92 (3) of the EEC Treaty.
+
+With regard to the derogations under Article 92 (3) (b), it is evident that the aid in question is not designed to promote a project of common European interest or to remedy a serious disturbance in the Belgian economy.
+
+The Belgian Government has not even attempted to invoke such motives to justify the aid in question.
+
+With regard to derogation under (c), the aid planned by the Belgian Government is not such that it would facilitate the development of certain economic areas within the meaning of this provision.
+
+Finally, as regards the derogation provided for under Article 92 (3) (c), for aid to facilitate the development of certain economic activities, it should be borne in mind that the aid in question, although facilitating the development of the Belgian fleet, does not facilitate the development of the inland waterway sector of Community
+
+level and affects trade within the Community in a manner contrary to the common interest given that sector's current overcapacity.
+
+To be covered by this derogation, restructuring of the Belgian fleet to meet the requirements of the inland waterway market should only involve measures guaranteeing that this restructuring would be accompanied by a reduction in current overcapacity. No such guarantee is to be found in the present plan.
+
+Furthermore, it should be added that Regulation (EEC) No 1101/89 on structural improvements in inland waterway transport envisages a common European approach to remedy the present overcapacity in the inland waterway sector, and that the Belgian plan is incompatible with the Regulation's provisions concerning the financing of scrapping.
+
+VI
+
+The plan submitted by the Belgian authorities also included aid for cessation of activity for boatmen who are at least 55 years of age and renounce all activity, both direct and indirect, in the industry. This aid could be paid, until the legal retirement age, in the form of a monthly allowance with a ceiling of Bfrs 30 000 per month, minus any early retirement pension. This measure of a social nature, even taken in isolation, is admissible on the basis of the derogation in Article 92 (3) (c), of the EEC Treaty. In effect, the cessation of activity by some boatmen, who will no longer be competing within the industry, could be regarded as contributing to the general improvement of conditions in the sector at both national and Community level.
+
+The aid in question would not adversely affect trading conditions in a manner contrary to the common interest. Moreover, the social measures envisaged by the Belgian Government are covered by the provisions of Regulation (EEC) No 1101/89 concerning the measures which Member States may take to make it easier for inland waterway carriers leaving the industry to obtain an early retirement pension or transfer to another economic activity.
+
+To conclude, the aid for Belgian boatmen envisaged in the plan to restructure the Belgian inland waterway fleet is, except for aid to leaving the occupation, incompatible with the common market and cannot be implemented,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Kingdom of Belgium shall not implement the plan to restructure the Belgian inland waterway fleet, this plan being incompatible with the common market under Article 92 of the EEC Treaty.
+
+## Article 2
+
+The aid for the cessation of activity of certain categories of Belgian boatmen, contained in the said plan, may nevertheless be regarded as compatible with the common market. This aid may therefore be implemented in isolation.
+
+## Article 3
+
+The Belgian Government shall inform the Commission within two months of the date of this Decision at the latest of the measures taken to comply with it.
+
+## Article 4
+
+This Decision is addressed to the Kingdom of Belgium.
+
+Done at Brussels, 30 November 1989.
+
+For the Commission
+
+Karel VAN MIERT
+
+Member of the Commission
+
+(1) OJ No L 116, 28. 4. 1989, p. 25.

@@ -1,0 +1,54 @@
+---
+title: "79/47/EEC: Commission Decision of 8 December 1978 on the implementation of the reform of agricultural structures in Italy (region of Campania) pursuant to Directives 72/159/EEC and 75/268/EEC (Only the Italian text is authentic)"
+identifier: "31979D0047"
+eli: "http://data.europa.eu/eli/dec/1979/47/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1978-12-08
+entry_into_force: 1979-06-12
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979D0047"
+retrieved: 2026-10-11
+---
+
+# 79/47/EEC: Commission Decision of 8 December 1978 on the implementation of the reform of agricultural structures in Italy (region of Campania) pursuant to Directives 72/159/EEC and 75/268/EEC (Only the Italian text is authentic)
+
+COMMISSION DECISION of 8 December 1978 on the implementation of the reform of agricultural structures in Italy (region of Campania) pursuant to Directives 72/159/EEC and 75/268/EEC (Only the Italian text is authentic) (79/47/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (1), as amended by Directives 76/837/EEC (2) and 77/390/EEC (3), and in particular Article 18 (3) thereof,
+
+Having regard to Council Directive 75/268/EEC of 28 April 1975 on mountain and hill farming and farming in certain less-favoured areas (4), and in particular Article 13 thereof,
+
+Whereas on 20 September 1978 the Italian Government notified the Law of the region of Campania of 27 July 1978 "Aids for farming in mountain and hill areas and in less-favoured areas, pursuant to Law No 352 of 10 May 1976";
+
+Whereas, pursuant to Article 18 (3) of Directive 72/159/EEC and Article 13 of Directive 75/268/EEC, the Commission has to decide whether, having regard to the Law notified, the existing Italian provisions implementing Directive 72/159/EEC and Titles III and IV of Directive 75/268/EEC continue to satisfy the conditions for financial contribution by the Community and whether the said Law satisfies the conditions for financial contribution by the Community to the measures defined in Title II of Directive 75/268/EEC;
+
+Whereas the abovementioned Law satisfies the conditions of Title II and Article 12 of Directive 75/268/EEC;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+1\. The existing Italian provisions implementing Directive 72/159/EEC and Titles III and IV of Directive 75/268/EEC, having regard to the Law of the region of Campania of 27 July 1978 "Aids for farming in mountain and hill areas and in less-favoured areas pursuant to Law No 352 of 10 May 1976", notified on 20 September 1978, continue to satisfy the conditions for financial contribution by the Community to the common measures referred to in Article 15 of Directive 72/159/EEC and Article 13 of Directive 75/268/EEC.
+
+2\. The abovementioned Law of the region of Campania of 27 July 1978 satisfies the conditions for financial contribution by the Community to the common measures referred to in Article 13 of Directive 75/268/EEC.
+
+## Article 2
+
+This Decision is addressed to the Italian Republic.
+
+Done at Brussels, 8 December 1978.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President (1)OJ No L 96, 23.4.1972, p. 1. (2)OJ No L 302, 4.11.1976, p. 19. (3)OJ No L 145, 13.6.1977, p. 43. (4)OJ No L 128, 19.5.1975, p. 1.

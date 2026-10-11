@@ -1,0 +1,78 @@
+---
+title: "75/315/EEC: Commission Decision of 30 April 1975 on the reform of agricultural structures in the Federal Republic of Germany in implementation of Title II of Directive No 72/161/EEC (Only the German text is authentic)"
+identifier: "31975D0315"
+eli: "http://data.europa.eu/eli/dec/1975/315/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1975-04-30
+entry_into_force: 1975-12-23
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0315"
+retrieved: 2026-10-11
+---
+
+# 75/315/EEC: Commission Decision of 30 April 1975 on the reform of agricultural structures in the Federal Republic of Germany in implementation of Title II of Directive No 72/161/EEC (Only the German text is authentic)
+
+COMMISSION DECISION of 30 April 1975 on the reform of agricultural structures in the Federal Republic of Germany in implementation of Title II of Directive No 72/161/EEC (Only the German text is authentic) (75/315/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community;
+
+Having regard to Council Directive No 72/161/EEC (1) of 17 April 1972, concerning the provision of socio-economic guidance for and the acquisition of occupational skills by persons engaged in agriculture, and in particular Article 11 (3) thereof;
+
+Whereas on 16 January 1975 the Government of the Federal Republic of Germany, acting in pursuance of Article 10 (4) of Directive No 72/161/EEC, forwarded the texts of the following provisions of the German Länder implementing Title II of the said Directive (on the acquisition of occupational skills by persons engaged in agriculture): - Bavaria : provisions of 17 July 1974;
+
+- Baden-Württemberg : provisions of 8 August 1974;
+
+- Hessen : provisions of 10 June 1974;
+
+- Rhineland-Palatinate : provisions of 2 July 1974;
+
+- Saarland : provisions of 1 July 1974;
+
+- North Rhine-Westphalia : provisions of 1 July. 1974;
+
+- Lower Saxony : provisions of 22 July 1974;
+
+- Schleswig-Holstein : provisions of 8 May 1974;
+
+- Hamburg : provisions of 29 October 1974;
+
+- Bremen : provisions of 8 July 1974;
+
+Whereas, under Article 11 (3) of Directive No 72/161/EEC, the Commission must decide whether, having regard to the objectives of the Directive and to the need for a proper connection between the various measures, the provisions forwarded comply with the Directive and thus satisfy the conditions for financial contribution by the Community;
+
+Whereas it is a basic aim of Title II of Directive No 72/161/EEC to enable persons aged 18 or over engaged in agriculture to have the opportunity to acquire, new agricultural skills, or to improve those which they already possess, so that they are in a position to be able to integrate into modern agriculture;
+
+Whereas, to that end, the Member States are therefore required under Articles 5 (1) and 6 (1) of Directive No 72/161/EEC to introduce, in addition to the normal agricultural training provided in their country, measures designed to give farmers and hired and family agricultural workers further training of a general, technical and economic nature;
+
+Whereas under the third indent of Article 12 (2) of Directive No 72/161/EEC the Guidance Section of the EAGGF is to refund to Member States 25 % of the expenditure incurred in respect of such measures, up to a maximum of 1 500 units of account for each person engaged in agriculture having completed a course of basic or advanced vocational training;
+
+Whereas the abovementioned implementing provisions are in conformity with Title II of the Directive and provide for basic and advanced training courses which satisfy the requirements imposed in respect of complete courses designed to enable persons engaged in agriculture generally to improve their occupational skills or to acquire new ones;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the measures provided for in this Decision are in accordance with the Opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The provisions of the Federal Länder providing for the acquisition of occupational skills by persons engaged in agriculture in implementation of Title II of Directive No 72/161/EEC forwarded by the Government of the Federal Republic of Germany on 16 January 1975 satisfy the conditions for financial (1)OJ No L 96, 23.4.1972, p. 15.
+
+contribution by the Community to the common measures referred to in Article 8 of Directive No 72/161/EEC.
+
+## Article 2
+
+This Decision is addressed to the Federal Republic of Germany.
+
+Done at Brussels, 30 April 1975.
+
+For the Commission
+
+P.J. LARDINOIS
+
+Member of the Commission

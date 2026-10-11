@@ -1,0 +1,57 @@
+---
+title: "75/199/EEC: Council Decision of 18 March 1975 concluding an international convention on the simplification and harmonization of customs procedures and accepting the Annex thereto concerning customs warehouses"
+identifier: "31975D0199"
+eli: "http://data.europa.eu/eli/dec/1975/199/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1975-03-18
+entry_into_force: 1975-12-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0199"
+retrieved: 2026-10-11
+---
+
+# 75/199/EEC: Council Decision of 18 March 1975 concluding an international convention on the simplification and harmonization of customs procedures and accepting the Annex thereto concerning customs warehouses
+
+**COUNCIL DECISION**
+
+**of 18 March 1975**
+
+**concluding an international convention on the simplification and harmonization of customs procedures and accepting the Annex thereto concerning customs warehouses**
+
+**(75/199/EEC)**
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing European Economic Community;
+
+Having regard to the recommendation from the Commission;
+
+Whereas the international convention on the simplification and harmonization of customs procedures negotiated within the Customs Cooperation Council can effectively contribute to the development of international trade;
+
+Whereas, in accordance with Article 11 of that convention, each Contracting Party must, when concluding the convention, also accept one of the Annexes thereto; whereas the Community should therefore accept the Annex concerning customs warehouses;
+
+Whereas that convention should therefore be concluded and that Annex thereto be accepted,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The international convention on the simplification and harmonization of customs procedures and the Annex thereto concerning customs warehouses are hereby respectively concluded and accepted on behalf of the Community.
+
+The texts of the convention and of the Annex are contained in the Annex to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorized to designate the persons empowered to sign the convention referred to in Article 1 and to accept the Annex also referred to in Article 1 and to confer on them the powers required to bind the Community.
+
+These persons shall also inform the Secretary-General of the Customs Cooperation Council that, for the application of the aforesaid Annex, the customs territories of the Member States of the European Economic Community are to be considered as a single territory.
+
+Done at Brussels, 18 March 1975.
+
+For the Council
+
+The President
+
+R. RYAN

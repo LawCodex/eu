@@ -1,0 +1,166 @@
+---
+title: "90/197/EEC: Commission Decision of 4 October 1989 on an aid granted in France to cereal farmers and producers, financed by the reimbursement of specific fiscal and parafiscal charges (Only the French text is authentic)"
+identifier: "31990D0197"
+eli: "http://data.europa.eu/eli/dec/1990/197/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1989-10-04
+entry_into_force: 1990-05-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31990D0197"
+retrieved: 2026-10-11
+---
+
+# 90/197/EEC: Commission Decision of 4 October 1989 on an aid granted in France to cereal farmers and producers, financed by the reimbursement of specific fiscal and parafiscal charges (Only the French text is authentic)
+
+*****
+
+COMMISSION DECISION
+
+of 4 October 1989
+
+on an aid granted in France to cereal farmers and producers, financed by the reimbursement of specific fiscal and parafiscal charges
+
+(Only the French text is authentic)
+
+(90/197/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular the first subparagraph of Article 93 (2) thereof,
+
+Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organization of the market in pigmeat (1), as last amended by Regulation (EEC) No 1249/89 (2), and in particular Article 21 thereof,
+
+Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (3), as last amended by Regulation (EEC) No 571/89 (4), and in particular Article 24 thereof,
+
+Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organization of the market in poultrymeat (5), as last amended by Regulation (EEC) No 1235/89 (6), and in particular Article 23 thereof,
+
+Having given notice to the parties concerned, in accordance with Article 93 (2) of the Treaty, to submit their comments (7),
+
+Whereas:
+
+I
+
+Following a complaint, the Commission learned of a system under which French livestock farmers who also grow cereals can obtain the reimbursement of specific fiscal charges (solidarity contributions, Bapsa (supplementary budget for agricultural social benefits) contributions) paid on the delivery of cereals to a recognized collector (amending financial law for 1982 of 30 December 1982); whereas two decrees of 26 October 1983 extended the arrangements to cover parafiscal charges (FASC and FNDA (National Agricultural Development Fund) contributions).
+
+The system allows French livestock farmers who also grow cereals to obtain the reimbursement of the charges paid on a quantity of cereals, not exceeding 300 tonnes par marketing year, corresponding to the amount of products of the same type contained in feedingstuffs purchased for their holding.
+
+II
+
+1\. By letter of 29 November 1988 addressed to the French Government the Commission stated that it had decided, in regard to the aid, to initiate the procedure provided of in Article 93 (2) of the EEC Treaty.
+
+2\. In that letter the Commission informed the French authorities that it considered the aid to be an operating aid with no lasting effect on the development of the sector concerned, the effects of which would disappear with the measure itself. The Commission considers such measures to be as a matter of principle incompatible with the common market.
+
+There is in any case already a complete and exhaustive set of Community rules for the livestock sectors that debars the Member States from additional action to support producers' incomes.
+
+This aid is therefore an infringement of the Community provisions in question.
+
+3\. Under the procedure the Commission gave notice to the French Government to submit its comments.
+
+The Commission also gave the other Member States and other interested parties notice to submit their comments.
+
+III
+
+By letter of 1 March 1989 the French Government replied to the Commission's letter of notice.
+
+According to the French authorities the system does not provide an aid but merely livestock/cereal farmers who do not have the necessary processing equipment from being treated differently from those who process their own crops and so do not pay the charges levied on the marketing of cereals, and so affords equality of treatment to all French livestock/cereal farmers.
+
+These authorities consider that the system is covered by the Court of Justice's finding on respect for the general principle of equality, as for instance in Case 300/86 (1).
+
+Moreover they consider that the position of livestock farmers who grow cereals cannot be compared with that of livestock farmers not growing cereals.
+
+These points were argued and developed by the French authorities at a meeting with the Commission on 25 April 1989.
+
+IV
+
+The following points must be made in response to the arguments advanced by the French authorities:
+
+- the reimbursement of these charges to livestock/cereal producers must be considered aid granted through State resources as mentioned in Article 92 of the EEC Treaty, the Court having found that 'a measure adopted by the public authority and favouring certain undertakings or products so as not lose the character of a gratuitous advantage by the fact that it is wholly or partially financed by contributions imposed by the public authority and levied on the undertakings concerned' (1);
+
+- whilst it is true that in Case 300/86 the Court of Justice invalidated the second subparagraph of Article 1 (2) of Commission Regulation No 2040/80 (2), as amended by Commission Regulation No 2512/86 (3), 'in so far as it exempts from the co-responsibility levy the first-stage processing of cereals carried out on the producer's own agricultural holding by means of the machinery of the farm, provided that the products of the processing are used on that holding, but does not provide for such exemption for first-stage processing carried out off the producer's agricultural holding or by means of machinery which does not form part of the agricultural installations of the farm, where the products of the processing are used on that farm', the principle does not apply to the case in hand since a Community arrangement for exemption under certain conditions from a charge of compulsory and uniform application throughout the Community cannot properly be compared with a national arrangement for reimbursement of national charges in a Member State. Moreover, the purpose of the Community rules on the co-responsibility leby is to restrict structural surpluses of cereals on the market, which is not the case with the French measure;
+
+- lastly, livestock/cereal farmers and livestock farmers not producing cereals are in competition as regards the products of stockfarming.
+
+Given the foregoing the arguments put forward by the French authorities cannot be accepted.
+
+V
+
+1\. Articles 92, 93 and 94 of the EEC Treaty apply to the production and marketing of the products covered by the aid in question, under the terms of the various common organizations of markets mentioned above.
+
+The aid affords a specific advantage to certain French livestock farmers who also grow cereals, viz. a reduction in their livestock production costs. The significant proportion (50 to 70 %) of the selling price of meat accounted for by feed costs should be noted. In consequence competition between these farmers and others, in both France and the other Member States, who do not receive the reimbursement is distorted.
+
+By its nature the measure is, since it reduces production costs and relates to products in which there is substantial trade, liable to affect intra-Community trade. The figures (in thousands of tonnes) for trade in the products in question between France and the other countries of the Community in 1987 may be summarized as follows:
+
+(in thousand tonnes)
+
+1.2.3.4 // // // // // // Imports from EEC // Export from EEC // Self-sufficiency // // // // // Beef/veal // 294 // 209 // 121,24 % // // // // // Pigmeat // 424 // 97 // 81 % // // // // // Poultrymeat // 40 // 138 // 136,57 % // // // //
+
+Because of the measure operators in other Member States see their exports curbed since merchants have a wider offer of animals of French origin as a result of the granting of the aid, and, moreover, the quantities offered for export are increased.
+
+The aid therefore satisfies the criteria of Article 92 (1) of the EEC Treaty and is therefore incompatible with the common market.
+
+2\. The exceptions to such incompatibility set out in Article 92 (2) are clearly not applicable to the aid in question, nor have they been invoked by the French authorities. Those set out in Article 92 (3) relate to objectives pursued in the Community's interest and not only in the interest of individual sectors of the national economy. These exceptions are to be strictly interpreted when examining any regional or sectoral aid or any case of individual application of general aid schemes.
+
+Exceptions can be granted only in cases where the Commission can establish that the aid is necessary for achievement of one of the objectives set out in these provisions. To allow such exceptions in resepct of aid which does not offer such guarantees would amount ot allowing trade between Member States to be affected and comeptition to be distorted without justification from the point of view of the Community interest and would give an unfair advantage to certain Member States.
+
+In the case in point, the aid does not offer such guarantees. The French Government was unable to provide any justification, and the Commission could find none, showing that the aid in question met the conditions required for the application of one of the exceptions set out in Article 92 (3) of the Treaty.
+
+This is not a measure intended to promote a project of common European interest as mentioned in Article 92 (3) (b) nor a measure intended to remedy a serious disturbance in the economy of the Member State in question, as also mentined in that provision.
+
+As far as the derogations provided for in Article 92 (3) (a) and (c) in the case of aid to promote or facilitate the economic development of areas or to facilitate the development of certain activities mentioned in the said point (c) are concerned, it should be noted that the aid cannot durably improve the conditions pertaining in the economic sector in which it is granted.
+
+By possibly bringing about an increase in deliveries of meat to intervention, the aid may also bring about an increase in European Agricultural Guidance and Guarantee Fund expenditure. On that account it must be considered as against the common interest.
+
+In consequence, the aid is to be considered as an operational aid, a type which the Commission has always opposed as a matter of principle since the terms of such aid do not bring it within the scope of one of the exceptions provided for in Article 92 (3) (a) and (c) of the Treaty.
+
+3\. In the case of livestock products the market in which is subject to a common organization there are restrictions of the right of Member States to intervene directly in the operation of those organizations with a common price structure, which fall within the exclusive competence of the Community.
+
+The granting of aid of this type ignores the principle that Member States no longer have the right to act independently in the matter of farmers' incomes within the framework of a common organization of the market by the granting of such aid.
+
+Even if it had been possible to envisage an exception under Article 92 (3) of the Treaty, the fact that the aid infringes the common organizations of the markets in question makes it impossible to apply any such exception.
+
+4\. In consequence, the aid is incompatible with the common market within the meaning of Article 92 of the Treaty and may no longer be granted, HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The French Government shall discontinue the aid to livestock farmers who also grow cereals in the form of reimbursement of specific fiscal and parafiscal charges paid on a quantity of cereals, not exceeding 300 tonnes per marketing year, corresponding to the amount of products of the same type contained in feedingstuffs purchased for their holding.
+
+## Article 2
+
+The French Government shall inform the Commission, within two months from notification of this Decision, of the measures it has taken to comply with this Decision.
+
+## Article 3
+
+This Decision is addressed to the French Republic.
+
+Done at Brussels, 4 October 1989.
+
+For the Commission
+
+Ray MAC SHARRY
+
+Member of the Commission
+
+(1) OJ No L 282, 1. 11. 1975, p. 1.
+
+(2) OJ No L 129, 11. 5. 1989, p. 12.
+
+(3) OJ No L 148, 28. 6. 1968, p. 24.
+
+(4) OJ No L 61, 4. 3. 1989, p. 43.
+
+(5) OJ No L 282, 1. 11. 1975, p. 77.
+
+(6) OJ No L 128, 11. 5. 1989, p. 29.
+
+(7) OJ No C 35, 11. 2. 1989, p. 17.
+
+(1) Landschoot v. Mera: Judgment of the Court of 29 June 1988 (not yet published in the Official Journal).
+
+(2) Case 78/76, Steinike und Weinlig v. Germany, [1977] ECR 595.
+
+(3) OJ No L 173, 1. 7. 1986, p. 65.
+
+(4) OJ No L 229, 15. 8. 1986, p. 25.

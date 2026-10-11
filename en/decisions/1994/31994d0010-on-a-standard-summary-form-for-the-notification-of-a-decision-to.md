@@ -1,0 +1,52 @@
+---
+title: "94/10/EC: Commission Decision of 21 December 1993 on a standard summary form for the notification of a decision to award the Community eco-label"
+identifier: "31994D0010"
+eli: "http://data.europa.eu/eli/dec/1994/10(1)/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1993-12-21
+entry_into_force: 1994-12-16
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994D0010"
+retrieved: 2026-10-11
+---
+
+# 94/10/EC: Commission Decision of 21 December 1993 on a standard summary form for the notification of a decision to award the Community eco-label
+
+COMMISSION DECISION of 21 December 1993 on a standard summary form for the notification of a decision to award the Community eco-label (94/10/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 880/92 of 23 March 1992 on a Community eco-label award scheme (1), and in particular Article 10 (3) thereof,
+
+Whereas Article 10 (3) of Regulation (EEC) No 880/92 provides that the decision to award an eco-label shall be made by the competent body of a Member State after assessment of the product; whereas it is further provided that such decision shall be notified to the Commission enclosing the full results of the said assessment together with a summary thereof;
+
+Whereas a standard summary form should contribute to the transparency of the product assessment and award procedures;
+
+Whereas the measures set out in this Decision are in accordance with the opinion of the Committee set up under Article 7 of Regulation (EEC) No 880/92,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The standard summary form referred to in Article 10 (3) of Regulation (EEC) No 880/92 is hereby established, in the form set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 21 December 1993.
+
+For the Commission
+
+Yannis PALEOKRASSAS
+
+Member of the Commission
+
+(1) OJ No L 99, 11. 4. 1992, p. 1.
+
+## ANNEX

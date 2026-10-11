@@ -1,0 +1,50 @@
+---
+title: "79/429/EEC: Commission Decision of 17 April 1979 on the implementation of the reform of agricultural structures in the Kingdom of the Netherlands pursuant to Directive 72/159/EEC (Only the Dutch text is authentic)"
+identifier: "31979D0429"
+eli: "http://data.europa.eu/eli/dec/1979/429/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1979-04-17
+entry_into_force: 1979-06-12
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979D0429"
+retrieved: 2026-10-11
+---
+
+# 79/429/EEC: Commission Decision of 17 April 1979 on the implementation of the reform of agricultural structures in the Kingdom of the Netherlands pursuant to Directive 72/159/EEC (Only the Dutch text is authentic)
+
+COMMISSION DECISION of 17 April 1979 on the implementation of the reform of agricultural structures in the Kingdom of the Netherlands pursuant to Directive 72/159/EEC (Only the Dutch text is authentic) (79/429/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (1), and in particular Article 18 (3) thereof,
+
+Whereas on 26 February 1979 the Government of the Netherlands notified, pursuant to Article 17 (4) of Directive 72/159/EEC, the fixing of the comparable income for 1979 within the meaning of Article 4 of the abovementioned Directive;
+
+Whereas Article 18 (3) of Directive 72/159/EEC requires the Commission to determine whether, having regard to the abovementioned communication, the existing provisions in the Netherlands for the implementation of Directive 72/159/EEC continue to satisfy the conditions for financial contribution by the Community towards common measures within the meaning of Article 15 of Directive 72/159/EEC;
+
+Whereas the fixing of the comparable income for 1979 meets the requirements of Directive 72/159/EEC, and in particular Article 4 (1) thereof;
+
+Whereas the Decision is in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Having regard to the fixing of the comparable income for 1979, the provisions for the implementation of Directive 72/159/EEC in the Netherlands continue to satisfy the conditions for a Community financial contribution towards common measures within the meaning of Article 15 of Directive 72/159/EEC.
+
+## Article 2
+
+This Decision is addressed to the Kingdom of the Netherlands.
+
+Done at Brussels, 17 April 1979.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President (1)OJ No L 96, 23.4.1972, p. 1.

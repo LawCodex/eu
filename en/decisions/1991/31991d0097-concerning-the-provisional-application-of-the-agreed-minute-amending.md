@@ -1,0 +1,45 @@
+---
+title: "91/97/EEC: Council Decision of 21 December 1990 concerning the provisional application of the agreed minute amending the Agreement between the European Economic Community and the Republic of Poland on trade in textile products"
+identifier: "31991D0097"
+eli: "http://data.europa.eu/eli/dec/1991/97/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1990-12-21
+entry_into_force: 1991-03-20
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991D0097"
+retrieved: 2026-10-11
+---
+
+# 91/97/EEC: Council Decision of 21 December 1990 concerning the provisional application of the agreed minute amending the Agreement between the European Economic Community and the Republic of Poland on trade in textile products
+
+COUNCIL DECISION of 21 December 1990 concerning the provisional application of the Agreed Minute amending the Agreement between the European Economic Community and the Republic of Poland on trade in textile products (91/97/EEC)
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas, pursuant to Decision 87/300/EEC(1), the Agreement between the European Economic Community and the Republic of Poland on trade in textile products, initialled on 27 July 1986, has been provisionally applied, in so far as it affects the Community, since 1 January 1987, pending completion of the procedures necessary for its conclusion;
+
+Whereas that Agreement includes provision for consultations;
+
+Whereas Poland accepted the Community's offer to integrate into the Agreement for 1991 provisions for the reimport of textile products after processing, manufacturing or working in that country, in accordance with the relevant Community legislation;
+
+Whereas it was agreed that the Agreed Minute of the consultations that took place on that matter will be applied provisionally as from 1 January 1991 pending the completion of the procedures necessary for its conclusion, provided that there is a reciprocal provisional application on the part of the other Contracting Party,
+
+HAS DECIDED AS FOLLOWS:
+
+## Sole Article
+
+The Agreed Minute amending the Agreement between the European Economic Community and the Republic of Poland on trade in textile products shall be applied provisionally as from 1 January 1991 pending its formal conclusion, providing that there is a reciprocal provisional application by the other Contracting Party.
+
+The text of the Agreed Minute is attached to this Decision.
+
+Done at Brussels, 21 December 1990.
+
+For the Council The President A. RUBERTI
+
+(1)OJ N° L 156, 16. 6. 1987, p. 40.

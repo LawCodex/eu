@@ -1,0 +1,74 @@
+---
+title: "82/657/EEC: Commission Decision of 10 September 1982 granting authorization to the Kingdom of Belgium to alter the number of pig places pursuant to Council Regulation (EEC) No 1945/81 (Only the French and Dutch texts are authentic)"
+identifier: "31982D0657"
+eli: "http://data.europa.eu/eli/dec/1982/657/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1982-09-10
+entry_into_force: 1982-02-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31982D0657"
+retrieved: 2026-10-11
+---
+
+# 82/657/EEC: Commission Decision of 10 September 1982 granting authorization to the Kingdom of Belgium to alter the number of pig places pursuant to Council Regulation (EEC) No 1945/81 (Only the French and Dutch texts are authentic)
+
+*****
+
+COMMISSION DECISION
+
+of 10 September 1982
+
+granting authorization to the Kingdom of Belgium to alter the number of pig places pursuant to Council Regulation (EEC) No 1945/81
+
+(Only the Dutch and French texts are authentic)
+
+(82/657/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 1945/81 of 30 June 1981 restricting investment aids for pig production (1), and in particular Article 1 thereof,
+
+Having regard to Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (2), as last amended by Directive 81/528/EEC (3), and in particular Article 18 (3) thereof,
+
+Whereas the Belgian Government has applied for the authorization provided for in Article 1 (1) of Regulation (EEC) No 1945/81;
+
+Whereas the application contains all the information specified in Article 3 of Commission Regulation (EEC) No 2180/81 of 30 July 1981 laying down rules implementing restrictions on investment aids for pig production (4), showing that the conditions for authorization pursuant to Article 1 of Regulation (EEC) No 1945/81 are met;
+
+Whereas such authorization does not affect the decision to be adopted by the Commission pursuant to Article 18 of Directive 72/159/EEC concerning the provisions adopted by Belgium in applying the authorization;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structures,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Kingdom of Belgium is hereby authorized to alter the number of pig places laid down in Article 1 (1) of Regulation (EEC) No 1945/81, subject to the limits and conditions laid down in that Article and in Regulation (EEC) No 2180/81.
+
+## Article 2
+
+This Decision is addressed to the Kingdom of Belgium.
+
+Done at Brussels, 10 September 1982.
+
+For the Commission
+
+Poul DALSAGER
+
+Member of the Commission
+
+(1) OJ No L 197, 20. 7. 1981, p. 31.
+
+(2) OJ No L 96, 23. 4. 1972, p. 1.
+
+(3) OJ No L 197, 20. 7. 1981, p. 41.
+
+(4) OJ No L 211, 31. 7. 1981, p. 28.

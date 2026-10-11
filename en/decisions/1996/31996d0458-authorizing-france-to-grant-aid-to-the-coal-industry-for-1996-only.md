@@ -1,0 +1,116 @@
+---
+title: "96/458/ECSC: Commission Decision of 30 April 1996 authorizing France to grant aid to the coal industry for 1996 (Only the French text is authentic)"
+identifier: "31996D0458"
+eli: "http://data.europa.eu/eli/dec/1996/458/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1996-04-30
+entry_into_force: 1996-06-05
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996D0458"
+retrieved: 2026-10-11
+---
+
+# 96/458/ECSC: Commission Decision of 30 April 1996 authorizing France to grant aid to the coal industry for 1996 (Only the French text is authentic)
+
+COMMISSION DECISION of 30 April 1996 authorizing France to grant aid to the coal industry for 1996 (Only the French text is authentic) (96/458/ECSC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Coal and Steel Community,
+
+Having regard to Commission Decision No 3632/93/ECSC of 28 December 1993 establishing Community rules for State aid to the coal industry (1), and in particular Articles 2 (1) and 9 thereof,
+
+Having regard to Decision 95/465/ECSC of 19 July 1995 approving the French coal industry's activity-reduction plan (2),
+
+Whereas:
+
+I
+
+Pursuant to Article 9 (1) of Decision No 3632/93/ECSC, France notified the Commission, by letter of 12 February 1996, of the financial aid which it proposes to grant to the coal industry for 1996.
+
+Pursuant to Decision No 3632/93/ECSC, the Commission must give a ruling, for 1996, on the following financial measures:
+
+- aid to reduce activity, amounting to FF 569 million, to cover operating losses,
+
+- aid for research and development, amounting to FF 15 million,
+
+- aid to cover exceptional costs, amounting to FF 3 831 million.
+
+The financial measures envisaged by France in favour of its coal industry are in line with Article 1 of Decision No 3632/93/ECSC and pursuant to Article 9 have to be approved by the Commission, which gives a ruling in particular on the basis of the general objectives and criteria laid down in Article 2 and the specific criteria set out in Articles 4, 5 and 6 of the said Decision. When examining the measures, the Commission, pursuant to Article 9 (6) of the said Decision, assesses the conformity of the measures with the activity-reduction plans which have been approved by the Commission.
+
+II
+
+The sum of FF 569 million which France is proposing to grant the coal industry under Article 4 of Decision No 3632/93/ECSC, is aimed at partially compensating Charbonnages de France for operating losses. This aid is part of the undertaking's activity-reduction plan, total cessation of activities being planned for the year 2005. Given the exceptional social and regional consequences which the reduction of activity by this undertaking will entail, the French Government, in agreement with the social partners, has decided to phase the closures up to the year 2005. Pursuant to Article 3 (1) of the Decision, the Commission has checked that, for 1996, the aid notified per tonne does not exceed for each production unit the difference between production costs and foreseeable revenue.
+
+Pursuant to the second indent of Article 2 (1), this aid contributes to solving the social and regional problems created by total or partial reductions in the activity of production units.
+
+In the light of the above and on the basis of information provided by France, the aid planned for 1996 is compatible with the objectives of Decision No 3632/93/ECSC and with the proper functioning of the common market.
+
+III
+
+The sum of FF 15 million which France is planning to grant Charbonnages de France under Article 6 of the Decision is aimed at supporting the undertaking's research and development efforts. This aid, which is less than 20 % of all expenditure earmarked by the undertaking for mining research and development, is focused, as regards mines, mainly on improving performance both in face workings and drivages. It is also aimed at improving safety and working conditions (especially research activities in the ergonomic field, ventilation and fire damp safety), the extension of remote control, monitoring and data transmission methods, and the environment. As regards the utilization of coal, it is focused on the behaviour of coal, upgrading of ash, the analysis of gaseous pollutants and the development of fluidized bed combustion.
+
+This aid, which contributes, as regards its mining aspects, to an improvement of mining technology and hence to a reduction in production costs, enables the aid to be degressive to a certain extent. In its examination of the aid, the Commission made sure that the aid complied with the Community rules on State aid for research and development.
+
+In the light of the above and on the basis of the information provided by France, the aid planned for 1996 is compatible with the objectives of Decision No 3632/93/ECSC and with the proper functioning of the common market.
+
+IV
+
+The aid amounting to FF 3 831 million which France is proposing to grant to its coal industry is aimed at covering exceptional costs arising from the modernization, rationalization and restructuring of the coal industry, which are not related to current production (inherited liabilities).
+
+Pursuant to Article 5 of Decision No 3632/93/ECSC, this aid covers costs which are explicitly referred to in the Annex to the Decision, namely:
+
+- FF 516 million towards the cost of paying social-welfare benefits resulting from the pensioning-off of workers before they reach statutory retirement age,
+
+- FF 155 million as other exceptional expenditure on workers who lose their jobs as a result of restructuring and rationalization,
+
+- FF 72 million as payment towards residual costs resulting from administrative, legal or tax provisions,
+
+- FF 189 million towards additional work resulting from restructuring,
+
+- FF 22 million towards mining damage attributable to pits previously in service,
+
+- FF 35 million towards exceptional intrinsic depreciation resulting from the restructuring of the industry,
+
+- FF 2 842 million towards the increase in the contributions, outside the statutory system, to cover social security costs as a result of the drop, following restructuring, in the number of contributors.
+
+This aid may be regarded as compatible with the common market if it does not exceed costs. Having checked the data communicated, the Commission concludes that this condition has been fulfilled. Given the above and on the basis of information provided by France, the aid planned for 1996 is compatible with the objectives of Decision No 3632/93/ECSC and with the proper functioning of the common market.
+
+V
+
+Pursuant to the second indent of Article 3 (1) and Article 9 (2) and (3) of Decision No 3632/93/ECSC, the Commission has to check that the aid authorized for current production corresponds solely to the purposes set out in Articles 4 and 6 of the Decision. To this end, it must be informed of the amounts of such payments and the way in which they are broken down,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+France is authorized to apply the following measures in favour of its coal industry for 1996:
+
+- aid for the reduction of activity, amounting to FF 569 million, aimed at covering ooperating losses,
+
+- aid for research and development, amounting to FF 15 million,
+
+- aid to cover exceptional costs, amounting to FF 3 831 million.
+
+## Article 2
+
+France shall communicate the amounts of aid actually paid under this Decision for 1996 by 30 September 1997 at the latest.
+
+## Article 3
+
+This Decision is addressed to the French Republic.
+
+Done at Brussels, 30 April 1996.
+
+For the Commission
+
+Christos PAPOUTSIS
+
+Member of the Commission
+
+(1) OJ No L 329, 30. 12. 1993, p. 12.
+
+(2) OJ No L 267, 9. 11. 1995, p. 46.

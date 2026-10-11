@@ -1,0 +1,640 @@
+---
+title: "1999/799/EC: Commission Decision of 29 October 1999 fixing a new Community programme of statistical tables to be stored in the Tabular Data Bank (BDT) of the Eurofarm system (notified under document number C(1999) 3455)"
+identifier: "31999D0799"
+eli: "http://data.europa.eu/eli/dec/1999/799/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1999-10-29
+entry_into_force: 1999-06-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999D0799"
+retrieved: 2026-10-11
+---
+
+# 1999/799/EC: Commission Decision of 29 October 1999 fixing a new Community programme of statistical tables to be stored in the Tabular Data Bank (BDT) of the Eurofarm system (notified under document number C(1999) 3455)
+
+COMMISSION DECISION
+
+of 29 October 1999
+
+fixing a new Community programme of statistical tables to be stored in the Tabular Data Bank (BDT) of the Eurofarm system
+
+(notified under document number C(1999) 3455)
+
+(1999/799/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 571/88 of 29 February 1988 on the organisation of Community surveys on the structure of agricultural holdings(1), as last amended by Commission Decision 98/377/EC(2) and in particular the second indent of point 2 of Annex II thereof,
+
+Whereas:
+
+(1) By Decision 97/341/EC(3), the Commission established the Community programme of tables for the Tabular Data Bank (BDT) of the Europafarm system; whereas major changes to the list of characteristics to be surveyed were fixed in Commission Decision 98/377/EC in respect of the exhaustive Community structure surveys to be carried out 1999/2000; whereas a new Community programme of tables for the Tabular Data Bank (BDT) should therefore be established;
+
+(2) The programme of tables should comply with point 13 of Annex II to Regulation (EEC) No 571/88, which states that the tables contained in the BDT must not allow direct or indirect identification of holdings;
+
+(3) The programme of tables has to take into account the growing neds of the users for data better reflecting their information needs;
+
+(4) The tables for the various levels of aggregation should be designed in a way which takes into account the statistical reliability of the survey results;
+
+(5) In the framework of the reform of the common agricultural policy, long time series of comparable data are needed to be able to follow the tendency of the development of the farm structure; such data must be easily and quickly accesible for the user. It is therefore necessary to make the results of the Community farm structure surveys, which were carried out in the period 1988 to 1997, available in the BDT tabular database also in the format of the new table programme.
+
+(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+1\. For the 1999/2000 exhaustive agricultural sturcture surveys, the Community programme of tables for the Tabular Data Bank (BDT) of the Eurofarm system, as provided for in Annex II to Regulation (EEC) No 571/88, shall be as set out in the Annex of this Decision.
+
+2\. For the purpose of providing long time series of comparable data, the afore mentioned new table programme is also applied to the data which were collected in the framework of the Community surveys on the structure of agricultural holdings in 1989/90, 1993, 1995 and 1997. These additional tables for preceding surveys are an integral part of the new BDT table programme and will be also included into the BDT tabular database of the Eurofarm system.
+
+## Article 2
+
+1\. The statistical information stored in the Tabular Data Bank (BDT) shall not be made available to users before the Statistical Office of the European Communities, in conjunction with the Member States, has established that it complies with the criteria and rules governing statistical confidentiality and reliability to be established jointly with the Member States.
+
+2\. The tables mentioned in Article 1 and the ad hoc tables defined in point 15 of Annex II to Regulation (EEC) No 571/88 shall be stored initially in a special field of the Tabular Data Bank (BDT), access to which is restricted to the Statistical Office of the European Communities and the statistical services of the Member States for the tables concerning their own countries.
+
+3\. The ad hoc tables, for which the competent services of the Member States have ensured the confidentiality and statistical reliability, can be also introduced into the Tabular Data Bank (BDT) if they are of general interest.
+
+## Article 3
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 29 October 1999.
+
+For the Commission
+
+Pedro SOLBES MIRA
+
+Member of the Commission
+
+(1) OJ L 56, 2.3.1988, p. 1.
+
+(2) OJ L 168, 13.6.1998, p. 29.
+
+(3) OJ L 149, 6.6.1997, p. 1.
+
+## ANNEX
+
+>PIC FILE= "L_1999320EN.000302.EPS">
+
+>PIC FILE= "L_1999320EN.000401.EPS">
+
+>PIC FILE= "L_1999320EN.000501.EPS">
+
+>PIC FILE= "L_1999320EN.000601.EPS">
+
+>PIC FILE= "L_1999320EN.000701.EPS">
+
+>PIC FILE= "L_1999320EN.000801.EPS">
+
+>PIC FILE= "L_1999320EN.000901.EPS">
+
+>PIC FILE= "L_1999320EN.001001.EPS">
+
+>PIC FILE= "L_1999320EN.001101.EPS">
+
+>PIC FILE= "L_1999320EN.001201.EPS">
+
+>PIC FILE= "L_1999320EN.001301.EPS">
+
+>PIC FILE= "L_1999320EN.001401.EPS">
+
+>PIC FILE= "L_1999320EN.001501.EPS">
+
+>PIC FILE= "L_1999320EN.001601.EPS">
+
+>PIC FILE= "L_1999320EN.001701.EPS">
+
+>PIC FILE= "L_1999320EN.001801.EPS">
+
+>PIC FILE= "L_1999320EN.001901.EPS">
+
+>PIC FILE= "L_1999320EN.002001.EPS">
+
+>PIC FILE= "L_1999320EN.002101.EPS">
+
+>PIC FILE= "L_1999320EN.002201.EPS">
+
+>PIC FILE= "L_1999320EN.002301.EPS">
+
+>PIC FILE= "L_1999320EN.002401.EPS">
+
+>PIC FILE= "L_1999320EN.002501.EPS">
+
+>PIC FILE= "L_1999320EN.002601.EPS">
+
+>PIC FILE= "L_1999320EN.002701.EPS">
+
+>PIC FILE= "L_1999320EN.002801.EPS">
+
+>PIC FILE= "L_1999320EN.002901.EPS">
+
+>PIC FILE= "L_1999320EN.003001.EPS">
+
+>PIC FILE= "L_1999320EN.003101.EPS">
+
+>PIC FILE= "L_1999320EN.003201.EPS">
+
+>PIC FILE= "L_1999320EN.003301.EPS">
+
+>PIC FILE= "L_1999320EN.003401.EPS">
+
+>PIC FILE= "L_1999320EN.003501.EPS">
+
+>PIC FILE= "L_1999320EN.003601.EPS">
+
+>PIC FILE= "L_1999320EN.003701.EPS">
+
+>PIC FILE= "L_1999320EN.003801.EPS">
+
+>PIC FILE= "L_1999320EN.003901.EPS">
+
+>PIC FILE= "L_1999320EN.004001.EPS">
+
+>PIC FILE= "L_1999320EN.004101.EPS">
+
+>PIC FILE= "L_1999320EN.004201.EPS">
+
+>PIC FILE= "L_1999320EN.004301.EPS">
+
+>PIC FILE= "L_1999320EN.004401.EPS">
+
+>PIC FILE= "L_1999320EN.004501.EPS">
+
+>PIC FILE= "L_1999320EN.004601.EPS">
+
+>PIC FILE= "L_1999320EN.004701.EPS">
+
+>PIC FILE= "L_1999320EN.004801.EPS">
+
+>PIC FILE= "L_1999320EN.004901.EPS">
+
+>PIC FILE= "L_1999320EN.005001.EPS">
+
+>PIC FILE= "L_1999320EN.005101.EPS">
+
+>PIC FILE= "L_1999320EN.005201.EPS">
+
+>PIC FILE= "L_1999320EN.005301.EPS">
+
+>PIC FILE= "L_1999320EN.005401.EPS">
+
+>PIC FILE= "L_1999320EN.005501.EPS">
+
+>PIC FILE= "L_1999320EN.005601.EPS">
+
+>PIC FILE= "L_1999320EN.005701.EPS">
+
+>PIC FILE= "L_1999320EN.005801.EPS">
+
+>PIC FILE= "L_1999320EN.005901.EPS">
+
+>PIC FILE= "L_1999320EN.006001.EPS">
+
+>PIC FILE= "L_1999320EN.006101.EPS">
+
+>PIC FILE= "L_1999320EN.006201.EPS">
+
+>PIC FILE= "L_1999320EN.006301.EPS">
+
+>PIC FILE= "L_1999320EN.006401.EPS">
+
+>PIC FILE= "L_1999320EN.006501.EPS">
+
+>PIC FILE= "L_1999320EN.006601.EPS">
+
+>PIC FILE= "L_1999320EN.006701.EPS">
+
+>PIC FILE= "L_1999320EN.006801.EPS">
+
+>PIC FILE= "L_1999320EN.006901.EPS">
+
+>PIC FILE= "L_1999320EN.007001.EPS">
+
+>PIC FILE= "L_1999320EN.007101.EPS">
+
+>PIC FILE= "L_1999320EN.007201.EPS">
+
+>PIC FILE= "L_1999320EN.007301.EPS">
+
+>PIC FILE= "L_1999320EN.007401.EPS">
+
+>PIC FILE= "L_1999320EN.007501.EPS">
+
+>PIC FILE= "L_1999320EN.007601.EPS">
+
+>PIC FILE= "L_1999320EN.007701.EPS">
+
+>PIC FILE= "L_1999320EN.007801.EPS">
+
+>PIC FILE= "L_1999320EN.007901.EPS">
+
+>PIC FILE= "L_1999320EN.008001.EPS">
+
+>PIC FILE= "L_1999320EN.008101.EPS">
+
+>PIC FILE= "L_1999320EN.008201.EPS">
+
+>PIC FILE= "L_1999320EN.008301.EPS">
+
+>PIC FILE= "L_1999320EN.008401.EPS">
+
+>PIC FILE= "L_1999320EN.008501.EPS">
+
+>PIC FILE= "L_1999320EN.008601.EPS">
+
+>PIC FILE= "L_1999320EN.008701.EPS">
+
+>PIC FILE= "L_1999320EN.008801.EPS">
+
+>PIC FILE= "L_1999320EN.008901.EPS">
+
+>PIC FILE= "L_1999320EN.009001.EPS">
+
+>PIC FILE= "L_1999320EN.009101.EPS">
+
+>PIC FILE= "L_1999320EN.009201.EPS">
+
+>PIC FILE= "L_1999320EN.009301.EPS">
+
+>PIC FILE= "L_1999320EN.009401.EPS">
+
+>PIC FILE= "L_1999320EN.009501.EPS">
+
+>PIC FILE= "L_1999320EN.009601.EPS">
+
+>PIC FILE= "L_1999320EN.009701.EPS">
+
+>PIC FILE= "L_1999320EN.009801.EPS">
+
+>PIC FILE= "L_1999320EN.009901.EPS">
+
+>PIC FILE= "L_1999320EN.010001.EPS">
+
+>PIC FILE= "L_1999320EN.010101.EPS">
+
+>PIC FILE= "L_1999320EN.010201.EPS">
+
+>PIC FILE= "L_1999320EN.010301.EPS">
+
+>PIC FILE= "L_1999320EN.010401.EPS">
+
+>PIC FILE= "L_1999320EN.010501.EPS">
+
+>PIC FILE= "L_1999320EN.010601.EPS">
+
+>PIC FILE= "L_1999320EN.010701.EPS">
+
+>PIC FILE= "L_1999320EN.010801.EPS">
+
+>PIC FILE= "L_1999320EN.010901.EPS">
+
+>PIC FILE= "L_1999320EN.011001.EPS">
+
+>PIC FILE= "L_1999320EN.011101.EPS">
+
+>PIC FILE= "L_1999320EN.011201.EPS">
+
+>PIC FILE= "L_1999320EN.011301.EPS">
+
+>PIC FILE= "L_1999320EN.011401.EPS">
+
+>PIC FILE= "L_1999320EN.011501.EPS">
+
+>PIC FILE= "L_1999320EN.011601.EPS">
+
+>PIC FILE= "L_1999320EN.011701.EPS">
+
+>PIC FILE= "L_1999320EN.011801.EPS">
+
+>PIC FILE= "L_1999320EN.011901.EPS">
+
+>PIC FILE= "L_1999320EN.012001.EPS">
+
+>PIC FILE= "L_1999320EN.012101.EPS">
+
+>PIC FILE= "L_1999320EN.012201.EPS">
+
+>PIC FILE= "L_1999320EN.012301.EPS">
+
+>PIC FILE= "L_1999320EN.012401.EPS">
+
+>PIC FILE= "L_1999320EN.012501.EPS">
+
+>PIC FILE= "L_1999320EN.012601.EPS">
+
+>PIC FILE= "L_1999320EN.012701.EPS">
+
+>PIC FILE= "L_1999320EN.012801.EPS">
+
+>PIC FILE= "L_1999320EN.012901.EPS">
+
+>PIC FILE= "L_1999320EN.013001.EPS">
+
+>PIC FILE= "L_1999320EN.013101.EPS">
+
+>PIC FILE= "L_1999320EN.013201.EPS">
+
+>PIC FILE= "L_1999320EN.013301.EPS">
+
+>PIC FILE= "L_1999320EN.013401.EPS">
+
+>PIC FILE= "L_1999320EN.013501.EPS">
+
+>PIC FILE= "L_1999320EN.013601.EPS">
+
+>PIC FILE= "L_1999320EN.013701.EPS">
+
+>PIC FILE= "L_1999320EN.013801.EPS">
+
+>PIC FILE= "L_1999320EN.013901.EPS">
+
+>PIC FILE= "L_1999320EN.014001.EPS">
+
+>PIC FILE= "L_1999320EN.014101.EPS">
+
+>PIC FILE= "L_1999320EN.014201.EPS">
+
+>PIC FILE= "L_1999320EN.014301.EPS">
+
+>PIC FILE= "L_1999320EN.014401.EPS">
+
+>PIC FILE= "L_1999320EN.014501.EPS">
+
+>PIC FILE= "L_1999320EN.014601.EPS">
+
+>PIC FILE= "L_1999320EN.014701.EPS">
+
+>PIC FILE= "L_1999320EN.014801.EPS">
+
+>PIC FILE= "L_1999320EN.014901.EPS">
+
+>PIC FILE= "L_1999320EN.015001.EPS">
+
+>PIC FILE= "L_1999320EN.015101.EPS">
+
+>PIC FILE= "L_1999320EN.015201.EPS">
+
+>PIC FILE= "L_1999320EN.015301.EPS">
+
+>PIC FILE= "L_1999320EN.015401.EPS">
+
+>PIC FILE= "L_1999320EN.015501.EPS">
+
+>PIC FILE= "L_1999320EN.015601.EPS">
+
+>PIC FILE= "L_1999320EN.015701.EPS">
+
+>PIC FILE= "L_1999320EN.015801.EPS">
+
+>PIC FILE= "L_1999320EN.015901.EPS">
+
+>PIC FILE= "L_1999320EN.016001.EPS">
+
+>PIC FILE= "L_1999320EN.016101.EPS">
+
+>PIC FILE= "L_1999320EN.016201.EPS">
+
+>PIC FILE= "L_1999320EN.016301.EPS">
+
+>PIC FILE= "L_1999320EN.016401.EPS">
+
+>PIC FILE= "L_1999320EN.016501.EPS">
+
+>PIC FILE= "L_1999320EN.016601.EPS">
+
+>PIC FILE= "L_1999320EN.016701.EPS">
+
+>PIC FILE= "L_1999320EN.016801.EPS">
+
+>PIC FILE= "L_1999320EN.016901.EPS">
+
+>PIC FILE= "L_1999320EN.017001.EPS">
+
+>PIC FILE= "L_1999320EN.017101.EPS">
+
+>PIC FILE= "L_1999320EN.017201.EPS">
+
+>PIC FILE= "L_1999320EN.017301.EPS">
+
+>PIC FILE= "L_1999320EN.017401.EPS">
+
+>PIC FILE= "L_1999320EN.017501.EPS">
+
+>PIC FILE= "L_1999320EN.017601.EPS">
+
+>PIC FILE= "L_1999320EN.017701.EPS">
+
+>PIC FILE= "L_1999320EN.017801.EPS">
+
+>PIC FILE= "L_1999320EN.017901.EPS">
+
+>PIC FILE= "L_1999320EN.018001.EPS">
+
+>PIC FILE= "L_1999320EN.018101.EPS">
+
+>PIC FILE= "L_1999320EN.018201.EPS">
+
+>PIC FILE= "L_1999320EN.018301.EPS">
+
+>PIC FILE= "L_1999320EN.018401.EPS">
+
+>PIC FILE= "L_1999320EN.018501.EPS">
+
+>PIC FILE= "L_1999320EN.018601.EPS">
+
+>PIC FILE= "L_1999320EN.018701.EPS">
+
+>PIC FILE= "L_1999320EN.018801.EPS">
+
+>PIC FILE= "L_1999320EN.018901.EPS">
+
+>PIC FILE= "L_1999320EN.019001.EPS">
+
+>PIC FILE= "L_1999320EN.019101.EPS">
+
+>PIC FILE= "L_1999320EN.019201.EPS">
+
+>PIC FILE= "L_1999320EN.019301.EPS">
+
+>PIC FILE= "L_1999320EN.019401.EPS">
+
+>PIC FILE= "L_1999320EN.019501.EPS">
+
+>PIC FILE= "L_1999320EN.019601.EPS">
+
+>PIC FILE= "L_1999320EN.019701.EPS">
+
+>PIC FILE= "L_1999320EN.019801.EPS">
+
+>PIC FILE= "L_1999320EN.019901.EPS">
+
+>PIC FILE= "L_1999320EN.020001.EPS">
+
+>PIC FILE= "L_1999320EN.020101.EPS">
+
+>PIC FILE= "L_1999320EN.020201.EPS">
+
+>PIC FILE= "L_1999320EN.020301.EPS">
+
+>PIC FILE= "L_1999320EN.020401.EPS">
+
+>PIC FILE= "L_1999320EN.020501.EPS">
+
+>PIC FILE= "L_1999320EN.020601.EPS">
+
+>PIC FILE= "L_1999320EN.020701.EPS">
+
+>PIC FILE= "L_1999320EN.020801.EPS">
+
+>PIC FILE= "L_1999320EN.020901.EPS">
+
+>PIC FILE= "L_1999320EN.021001.EPS">
+
+>PIC FILE= "L_1999320EN.021101.EPS">
+
+>PIC FILE= "L_1999320EN.021201.EPS">
+
+>PIC FILE= "L_1999320EN.021301.EPS">
+
+>PIC FILE= "L_1999320EN.021401.EPS">
+
+>PIC FILE= "L_1999320EN.021501.EPS">
+
+>PIC FILE= "L_1999320EN.021601.EPS">
+
+>PIC FILE= "L_1999320EN.021701.EPS">
+
+>PIC FILE= "L_1999320EN.021801.EPS">
+
+>PIC FILE= "L_1999320EN.021901.EPS">
+
+>PIC FILE= "L_1999320EN.022001.EPS">
+
+>PIC FILE= "L_1999320EN.022101.EPS">
+
+>PIC FILE= "L_1999320EN.022201.EPS">
+
+>PIC FILE= "L_1999320EN.022301.EPS">
+
+>PIC FILE= "L_1999320EN.022401.EPS">
+
+>PIC FILE= "L_1999320EN.022501.EPS">
+
+>PIC FILE= "L_1999320EN.022601.EPS">
+
+>PIC FILE= "L_1999320EN.022701.EPS">
+
+>PIC FILE= "L_1999320EN.022801.EPS">
+
+>PIC FILE= "L_1999320EN.022901.EPS">
+
+>PIC FILE= "L_1999320EN.023001.EPS">
+
+>PIC FILE= "L_1999320EN.023101.EPS">
+
+>PIC FILE= "L_1999320EN.023201.EPS">
+
+>PIC FILE= "L_1999320EN.023301.EPS">
+
+>PIC FILE= "L_1999320EN.023401.EPS">
+
+>PIC FILE= "L_1999320EN.023501.EPS">
+
+>PIC FILE= "L_1999320EN.023601.EPS">
+
+>PIC FILE= "L_1999320EN.023701.EPS">
+
+>PIC FILE= "L_1999320EN.023801.EPS">
+
+>PIC FILE= "L_1999320EN.023901.EPS">
+
+>PIC FILE= "L_1999320EN.024001.EPS">
+
+>PIC FILE= "L_1999320EN.024101.EPS">
+
+>PIC FILE= "L_1999320EN.024201.EPS">
+
+>PIC FILE= "L_1999320EN.024301.EPS">
+
+>PIC FILE= "L_1999320EN.024401.EPS">
+
+>PIC FILE= "L_1999320EN.024501.EPS">
+
+>PIC FILE= "L_1999320EN.024601.EPS">
+
+>PIC FILE= "L_1999320EN.024701.EPS">
+
+>PIC FILE= "L_1999320EN.024801.EPS">
+
+>PIC FILE= "L_1999320EN.024901.EPS">
+
+>PIC FILE= "L_1999320EN.025001.EPS">
+
+>PIC FILE= "L_1999320EN.025101.EPS">
+
+>PIC FILE= "L_1999320EN.025201.EPS">
+
+>PIC FILE= "L_1999320EN.025301.EPS">
+
+>PIC FILE= "L_1999320EN.025401.EPS">
+
+>PIC FILE= "L_1999320EN.025501.EPS">
+
+>PIC FILE= "L_1999320EN.025601.EPS">
+
+>PIC FILE= "L_1999320EN.025701.EPS">
+
+>PIC FILE= "L_1999320EN.025801.EPS">
+
+>PIC FILE= "L_1999320EN.025901.EPS">
+
+>PIC FILE= "L_1999320EN.026001.EPS">
+
+>PIC FILE= "L_1999320EN.026101.EPS">
+
+>PIC FILE= "L_1999320EN.026201.EPS">
+
+>PIC FILE= "L_1999320EN.026301.EPS">
+
+>PIC FILE= "L_1999320EN.026401.EPS">
+
+>PIC FILE= "L_1999320EN.026501.EPS">
+
+>PIC FILE= "L_1999320EN.026601.EPS">
+
+>PIC FILE= "L_1999320EN.026701.EPS">
+
+>PIC FILE= "L_1999320EN.026801.EPS">
+
+>PIC FILE= "L_1999320EN.026901.EPS">
+
+>PIC FILE= "L_1999320EN.027001.EPS">
+
+>PIC FILE= "L_1999320EN.027101.EPS">
+
+>PIC FILE= "L_1999320EN.027201.EPS">
+
+>PIC FILE= "L_1999320EN.027301.EPS">
+
+>PIC FILE= "L_1999320EN.027401.EPS">
+
+>PIC FILE= "L_1999320EN.027501.EPS">
+
+>PIC FILE= "L_1999320EN.027601.EPS">
+
+>PIC FILE= "L_1999320EN.027701.EPS">
+
+>PIC FILE= "L_1999320EN.027801.EPS">
+
+>PIC FILE= "L_1999320EN.027901.EPS">
+
+>PIC FILE= "L_1999320EN.028001.EPS">
+
+>PIC FILE= "L_1999320EN.028101.EPS">

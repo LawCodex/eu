@@ -1,0 +1,50 @@
+---
+title: "80/400/EEC: Commission Decision of 20 March 1980 on the implementation pursuant to Directive 72/159/EEC of the reform of agricultural structures in the United Kingdom (Only the English text is authentic)"
+identifier: "31980D0400"
+eli: "http://data.europa.eu/eli/dec/1980/400/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1980-03-20
+entry_into_force: 1980-02-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31980D0400"
+retrieved: 2026-10-11
+---
+
+# 80/400/EEC: Commission Decision of 20 March 1980 on the implementation pursuant to Directive 72/159/EEC of the reform of agricultural structures in the United Kingdom (Only the English text is authentic)
+
+COMMISSION DECISION of 20 March 1980 on the implementation pursuant to Directive 72/159/EEC of the reform of agricultural structures in the United Kingdom (Only the English text is authentic) (80/400/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (1), and in particular Article 18 (3) thereof,
+
+Whereas on 8 January 1980 the Government of the United Kingdom notified provisions determining for 1980 the comparable earned income and indicating its rate of growth;
+
+Whereas Article 18 (3) of Directive 72/159/EEC requires the Commission to determine whether, having regard to the abovementioned notification, the existing provisions in the United Kingdom for the implementation of the Directive continue to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 thereof;
+
+Whereas the comparable income for 1980 and its rate of growth as indicated in the abovementioned provisions correspond to the objectives of Article 4 of the Directive;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The provisions for the implementation of Directive 72/159/EEC, as notified by the Government of the United Kingdom on 22 May 1974, continue, having regard to the provisions notified on 8 January 1980 specifying the comparable income for 1980 and indicating its rate of growth, to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 of Directive 72/159/EEC.
+
+## Article 2
+
+This Decision is addressed to the United Kingdom.
+
+Done at Brussels, 20 March 1980.
+
+For the Commission
+
+Finn GUNDELACH
+
+Vice-President (1)OJ No L 96, 23.4.1972, p. 1.

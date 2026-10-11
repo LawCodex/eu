@@ -1,0 +1,98 @@
+---
+title: "85/25/EEC: Commission Decision of 5 December 1984 on the implementation of the reform of agricultural structures in France pursuant to Council Directives 72/159/EEC and 75/268/EEC (Only the French text is authentic)"
+identifier: "31985D0025"
+eli: "http://data.europa.eu/eli/dec/1985/25/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1984-12-05
+entry_into_force: 1985-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31985D0025"
+retrieved: 2026-10-11
+---
+
+# 85/25/EEC: Commission Decision of 5 December 1984 on the implementation of the reform of agricultural structures in France pursuant to Council Directives 72/159/EEC and 75/268/EEC (Only the French text is authentic)
+
+*****
+
+COMMISSION DECISION
+
+of 5 December 1984
+
+on the implementation of the reform of agricultural structures in France pursuant to Council Directives 72/159/EEC and 75/268/EEC
+
+(Only the French text is authentic)
+
+(85/25/EEC)
+
+THE COMMISSION OF THE EUROPEAN
+
+COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (1), as last amended by Directive 84/513/EEC (2), and in particular Article 18 (3) thereof,
+
+Having regard to Council Directive 75/268/EEC of 28 April 1975 on mountain and hill farming and farming in certain less-favoured areas (3), as last amended by Directive 82/786/EEC (4), and in particular Article 13 thereof,
+
+Whereas the French Government forwarded, pursuant to Article 17 (4) of Directive 72/159/EEC the following provisions:
+
+- Decree No 83/442 of 1 June 1983 on the modernization of farms,
+
+- Ministerial Order of 1 June 1983 on skill and competence in agriculture,
+
+- Ministerial Order of 1 June 1983 on the interest rates on special modernization loans granted by regional agricultural credit banks,
+
+- Ministerial Order of 1 June 1983 on the amounts of aids and ceilings,
+
+- Ministerial Order of 1 June 1983 on the amounts of the reduced interest loans,
+
+- Circular DIAME/SSME/N.83 of 15 June 1983 on the development plans,
+
+- Circular DIAME/SSME/C.83 on investment aids for the modernization of farms, development plans and other aids, modernization aids,
+
+- Circular DIAME/SSME/C.83 No 5016 of 10 June 1983 on the subsidies for livestock buildings - pig farming,
+
+- Circular DIAME No 5006 of 9 February 1982 on investment aids for farms - situation of the GAEC;
+
+Whereas Article 18 (3) of Directive 72/159/EEC and Article 13 of Directive 75/268/EEC require the Commission to determine whether, having regard to the abovementioned submission, the existing provisions in France for the implementation of Directive 72/159/EEC and of Titles III and IV of Directive 75/268/EEC continue to satisfy the conditions for financial contribution by the Community;
+
+Whereas the abovementioned regulations and administrative provisions meet the requirements of Directives 72/159/EEC and 75/268/EEC as well as the requirements of Council Regulations (EEC) No 1945/81 (5) and (EEC) No 1946/81 (6) of 30 June 1981 restricting investment aids for pig and milk production, with the exception of those provided for in Circular DIAME No 5006 of 9 February 1982 for multiplying the ceilings laid down in Regulations (EEC) No 1945/81 and (EEC) No 1946/81, in so far as this circular deals with joint farming ventures established from a single farm;
+
+Whereas, however, the preceding remark does not justify a negative decision as regards the eligibility of the various measures envisaged;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structure,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Having regard to the regulations and administrative provisions set out in the recitals, the existing provisions for the implementation of Directive 72/159/EEC and Titles III and IV of Directive 75/268/EEC in France continue to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 of Directive 72/159/EEC, with the exception of the provisions in Circular DIAME No 5006 of 9 February 1982 relating to milk and pig production, in so far as this circular deals with the joint farming ventures established from a single farm.
+
+## Article 2
+
+This Decision is addressed to the French Republic.
+
+Done at Brussels, 5 December 1984.
+
+For the Commission
+
+Poul DALSAGER
+
+Member of the Commission
+
+(1) OJ No L 96, 23. 4. 1972, p. 1.
+
+(2) OJ No L 285, 30. 10. 1984, p. 13.
+
+(3) OJ No L 128, 19. 5. 1975, p. 1.
+
+(4) OJ No L 327, 24. 11. 1982, p. 19.
+
+(5) OJ No L 197, 20. 7. 1981, p. 31.
+
+(6) OJ No L 197, 20. 7. 1981, p. 32.

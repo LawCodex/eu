@@ -1,0 +1,50 @@
+---
+title: "76/482/EEC: Commission Decision of 21 April 1976 on the implementation of the reform of agricultural structures in the United Kingdom pursuant to Directive 72/159/EEC (Only the English text is authentic)"
+identifier: "31976D0482"
+eli: "http://data.europa.eu/eli/dec/1976/482/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1976-04-21
+entry_into_force: 1976-04-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31976D0482"
+retrieved: 2026-10-11
+---
+
+# 76/482/EEC: Commission Decision of 21 April 1976 on the implementation of the reform of agricultural structures in the United Kingdom pursuant to Directive 72/159/EEC (Only the English text is authentic)
+
+COMMISSION DECISION of 21 April 1976 on the implementation of the reform of agricultural structures in the United Kingdom pursuant to Directive 72/159/EEC (Only the English text is authentic) (76/482/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Directive 72/159/EEC on the modernization of farms (1), and in particular Article 18 (3) thereof,
+
+Whereas on 14 January 1976 the Government of the United Kingdom notified certain provisions redetermining for 1976 the comparable earned income and indicating its rate of growth;
+
+Whereas Article 18 (3) of Directive 72/159/EEC requires the Commission to determine whether, having regard to the abovementioned provisions, the existing provisions for the implementation in the United Kingdom of Directive 72/159/EEC, which form the subject of Commission Decisions 75/5/EEC of 27 November 1974 (2) and 75/434/EEC of 8 July 1975 (3) on the reform of agricultural structures in the United Kingdom pursuant to Directive 72/159/EEC, continue to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 of Directive 72/159/EEC;
+
+Whereas the comparable income for 1976 and its rate of increase as indicated in the abovementioned provisions correspond to the objectives of Article 4 of Directive 72/159/EEC;
+
+Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Structures,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The provisions for the implementation of Directive 72/159/EEC, as notified by the Government of the United Kingdom on 22 May 1974, as now applicable in the light of the provisions notified on 14 January 1976 specifying the comparable income for 1976 and indicating its rate of growth, continue to satisfy the conditions for financial contribution by the Community to common measures within the meaning of Article 15 of Directive 72/159/EEC.
+
+## Article 2
+
+This Decision is addressed to the United Kingdom.
+
+Done at Brussels, 21 April 1976.
+
+For the Commission
+
+P.J. LARDINOIS
+
+Member of the Commission (1)OJ No L 96, 23.4.1972, p. 1. (2)OJ No L 2, 4.1.1975, p. 27. (3)OJ No L 192, 24.7.1975, p. 31.

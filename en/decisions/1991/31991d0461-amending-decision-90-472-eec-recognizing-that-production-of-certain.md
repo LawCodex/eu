@@ -1,0 +1,48 @@
+---
+title: "91/461/EEC: Commission Decision of 13 August 1991 amending Decision 90/472/EEC recognizing that production of certain quality wines produced in specified regions is, because of their qualitative features, far below demand (Only the German text is authentic)"
+identifier: "31991D0461"
+eli: "http://data.europa.eu/eli/dec/1991/461/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1991-08-13
+entry_into_force: 1991-09-03
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991D0461"
+retrieved: 2026-10-11
+---
+
+# 91/461/EEC: Commission Decision of 13 August 1991 amending Decision 90/472/EEC recognizing that production of certain quality wines produced in specified regions is, because of their qualitative features, far below demand (Only the German text is authentic)
+
+COMMISSION DECISION of 13 August 1991 amending Decision 90/472/EEC recognizing that production of certain quality wines produced in specified regions is, because of their qualitative features, far below demand (Only the German text is authentic) (91/461/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community,
+
+Having regard to Council Regulation (EEC) No 822/87 of 16 March 1987 on the common organization of the market in wine (1), as last amended by Regulation (EEC) No 1734/91 (2), and in particular Article 6 (4) thereof,
+
+Whereas pursuant to Article 6 (1) of Regulation (EEC) No 822/87 all new plantings of wines are prohibited until 31 August 1996; whereas, however, that provision allows Member States for the 1990/91 wine year to authorize new plantings in the case of quality wines psr for which the Commission has recognized that production, because of their qualitative features, is far below demand;
+
+Whereas requests to apply that provision to certain quality wines psr were submitted by the German Government on 31 May 1990 and on 11 July 1990; whereas Commission Desision 90/472/EEC was adopted as a result (3);
+
+Whereas owing to a mistake the table in the Annex to Decision 90/472/EEC is incorrect as regards 'Rheinhessen'; whereas the figure in question should be rectified;
+
+Whereas the Management Committee for Wine has not delivered an opinion within the time limit set by its chairman,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+In the Annex to Decision 90/472/EEC the figure relating to area for Rheinhessen quality wines psr is replaced by '780 ha'.
+
+## Article 2
+
+This Decision is addressed to the Federal Republic of Germany. Done at Brussels, 13 August 1991. For the Commission
+
+Ray MAC SHARRY
+
+Member of the Commission
+
+(1) OJ No L 84, 27. 3. 1987, p. 1. (2) OJ No L 163, 26. 6. 1991, p. 6. (3) OJ No L 256, 20. 9. 1990, p. 30.

@@ -1,0 +1,172 @@
+---
+title: "94/634/EC: Commission Decision of 29 July 1994 on the adoption of the single programming document for Community structural assistance in the region of Réunion concerned by Objective 1 in France (Only the French text is authentic)"
+identifier: "31994D0634"
+eli: "http://data.europa.eu/eli/dec/1994/634/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1994-07-29
+entry_into_force: 1994-07-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994D0634"
+retrieved: 2026-10-11
+---
+
+# 94/634/EC: Commission Decision of 29 July 1994 on the adoption of the single programming document for Community structural assistance in the region of Réunion concerned by Objective 1 in France (Only the French text is authentic)
+
+COMMISSION DECISION of 29 July 1994 on the adoption of the single programming document for Community structural assistance in the region of Réunion concerned by Objective 1 in France (Only the French text is authentic) (94/634/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 4253/88 of 19 December 1988 laying down provisions for implementing Regulation (EEC) No 2052/88 as regards coordination of the activities of the different Structural Funds between themselves and with the operations of the European Investment Bank and the other existing financial instruments (1), as amended by Regulation (EEC) No 2082/93 (2), and in particular Article 10 (1) last subparagraph thereof,
+
+After consultation of the Advisory Committee on the Development and Conversion of Regions, the Committee referred to in Article 124 of the Treaty, the Management Committee on Agricultural Structures and Rural Development and the Standing Management Committee on Fisheries Structures,
+
+Whereas the programming procedure for structural assistance under Objective 1 is defined in Article 8 (4) to (7) of Council Regulation (EEC) No 2052/88 of 24 June 1988 on the tasks of the Structural Funds and their effectiveness and on coordination of their activities between themselves and with the operations of the European Investment Bank and the other existing financial instruments (3), as amended by Regulation (EEC) No 2081/93 (4); whereas, however, the last subparagraph of Article 5 (2) of Regulation (EEC) No 4253/88 foresees that in order to simplify and to speed up programming procedures, Member States may submit in a single programming document the information required for the regional development plan referred to in Article 8 (4) of Regulation (EEC) No 2052/88 and the information required at Article 14 (2) of Regulation (EEC) No 4253/88; whereas Article 10 (1) last subparagraph of Regulation (EEC) No 4253/88 foresees that in that case the Commission adopts a single decision in a single document covering the points referred to in Article 8 (3) and the assistance from the Funds referred to in the last subparagraph of Article 14 (3);
+
+Whereas the French Government submitted to the Commission on 21 December 1993 the single programming document referred to in Article 5 (2) of Regulation (EEC) No 4253/88 for the region of Réunion; whereas this document contains the elements referred to in Article 8 (4) and (7) and in Article 10 of Regulation (EEC) No 2052/88;
+
+Whereas the single programming document submitted by the Member State includes a description of the priorities selected and the applications for assistance from the European Regional Development Fund (ERDF), the European Social Fund (ESF), the European Agricultural Guidance and Guarantee Fund (EAGGF), Guidance Section, the Financial Instrument for Fisheries Guidance (FIFG), as well as an indication of the planned use of the assistance available from the European Investment Bank (EIB) and the other financial instruments in implementing the single programming document;
+
+Whereas, in accordance with Article 3 of Regulation (EEC) No 4253/88, the Commission is charged with ensuring, within the framework of the partnership, coordination and consistency between assistance from the Funds and assistance provided by the EIB and the other financial instruments, including the European Coal and Steel Community (ECSC) and the other actions for structural purposes;
+
+Whereas the EIB has been involved in the drawing up of the single programming document in accordance with the provisions of Article 8 (1) of Regulation (EEC) No 4253/88, applicable by analogy in the establishment of the single programming document; whereas it has declared itself prepared to contribute to the implementation of this document on the basis of the forecast loan packages shown in this Decision and in conformity with its statutory provisions;
+
+Whereas Article 2 second subparagraph of Commission Regulation (EEC) No 1866/90 of 2 July 1990 on arrangements for using the ecu for the purpose of the budgetary management of the Structural Funds (5), as amended by Regulation (EC) No 402/94 (6), stipulates that in the Commission decisions approving a single programming document, the Community assistance available for the entire period and the annual breakdown thereof shall be set out in ecus at prices for the year in which each decision is taken and shall be subject to indexation; whereas this annual breakdown must be compatible with the progressive increase in the commitment appropriations shown in Annex II to Regulation (EEC) No 2052/88; whereas indexation is based on a single rate per year, corresponding to the rates applied annually to budget appropriations on the basis of the mechanism for the technical adjustment of the financial perspectives;
+
+Whereas Article 1 of Council Regulation (EEC) No 4254/88 of 19 December 1988 laying down provisions for implementing Regulation (EEC) No 2052/88 as regards the European Regional Development Fund (7), as amended by Regulation (EEC) No 2083/93 (8), defines the measures for which the ERDF may provide financial support, referring specifically to the measures eligible pursuant to Objective 1;
+
+Whereas Article 1 of Council Regulation (EEC) No 4255/88 of 19 December 1988 laying down provisions for implementing Regulation (EEC) No 2052/88 as regards the European Social Fund (9), as amended by Regulation (EEC) No 2084/93 (10), defines the measures for which the ESF may provide financial support;
+
+Whereas Article 1 of Council Regulation (EEC) No 4256/88 of 19 December 1988 laying down provisions for implementing Regulation (EEC) No 2052/88 as regards the EAGGF Guidance Section (11), as amended by Regulation (EEC) No 2085/93 (12), defines the measures for which the EAGGF Guidance Section may provide financial support for the implementation of measures pursuant to Objective 1;
+
+Whereas Article 1 of Council Regulation (EEC) No 2080/93 of 20 July 1993 laying down provisions for implementing Regulation (EEC) No 2052/88 as regards the Financial Instrument of Fisheries Guidance (13), defines the measures for which the FIFG may provide financial support;
+
+Whereas the single programming document has been established in agreement with the Member State concerned through the partnership defined in Article 4 of Regulation (EEC) No 2052/88;
+
+Whereas certain measures planned under this single programming document include the part-financing of aid schemes which have not been approved by the Commission; whereas the financial commitments should be reduced by the amounts corresponding to the said measures until the aid schemes are approved by the Commission;
+
+Whereas the present assistance satisfies the conditions laid down in Article 13 of Regulation (EEC) No 4253/88, and so should be implemented by means of an integrated approach involving finance from more than one Fund and the FIFG;
+
+Whereas Article 1 of the Financial Regulation of 21 December 1977 applicable to the general budget of the European Communities (14), as last amended by Regulation (Euratom, ECSC, EEC) No 610/90 (15), states that the legal commitments entered into for measures extending over more than one financial year must contain a time limit for implementation which must be specified to the recipient in due form when the aid is granted;
+
+Whereas all the other conditions laid down for the grant of aid from the ERDF, the ESF, the EAGGF, Guidance Section, and the FIFG, have been complied with;
+
+Whereas it has been agreed in the partnership to reserve an amount of the appropriations allocated to technical assistance for actions to be undertaken at the initiative of the Commission; whereas, therefore, this amount should be deducted from the total amount of assistance allocated under this single programming document,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The single programming document for Community structural assistance in the region of Réunion concerned by Objective 1 in France, covering the period 1 January 1994 to 31 December 1999, is hereby approved.
+
+## Article 2
+
+The single programming document includes the following essential information:
+
+(a) a statement of the main priorities for joint action, their specific quantified objectives, an appraisal of their expected impact and their consistency with economic, social and regional policies in Réunion;
+
+the main priorities are:
+
+1\. Development of productive sectors and of the factors of competitiveness;
+
+2\. Opening-up of the region;
+
+3\. Environment and infrastructure supporting development;
+
+4\. Implementation of Objective 5a an development of the food sector;
+
+5\. Diversification and development of agricultural production;
+
+6\. Support for agricultural and rural development;
+
+7\. Development of fisheries and aquaculture;
+
+8\. Qualification and development of human resources;
+
+9\. Technical assistance and regional cooperation;
+
+(b) the assistance from the Structural Funds and the FIFG as referred to in Article 4;
+
+(c) the detailed provisions for implementing the single programming document comprising:
+
+- the procedures for monitoring and evaluation,
+
+- the financial implementation provisions,
+
+- the rules for compliance with Community policies;
+
+(d) the procedures for verifying additionality and an initial evaluation of the latter;
+
+(e) the arrangements for associating the environmental authorities with the implementation of the single programming document.
+
+## Article 3
+
+For the purpose of indexation, the annual breakdown of the global maximal allocation foreseen for the assistance from the Structural Funds and the FIFG is as follows:
+
+"ECU million (1994 prices) "" ID="1">1994 > ID="2">90,71 "> ID="1">1995 > ID="2">97,95 "> ID="1">1996 > ID="2">104,88 "> ID="1">1997 > ID="2">112,41 "> ID="1">1998 > ID="2">122,05 "> ID="1">1999 > ID="2">132,00 "> ID="1">Total > ID="2">660,00">
+
+## Article 4
+
+The assistance from the Structural Funds and the FIFG granted to the single programming document amounts to a maximum of ECU 659,70 million, after deduction of an amount of ECU 300 000 reserved for technical assistance on the initiative of the Commission.
+
+The procedure for granting the financial assistance, including the financial contribution from the Funds to the various priorities and measures which the single programming document comprises, is set out in the financing plan annexed to this Decision (16).
+
+The national financial contribution as indicated in the financing plan may be met in part by Community loans from the European Investment Bank and other types of loans. In indicative terms, EIB loans could reach ECU 150 million for all Objective 1 regions in France.
+
+## Article 5
+
+1\. The breakdown among the Structural Funds and the FIFG of the total Community assistance available is as follows:
+
+- ERDFECU 320,20 million
+
+- ESFECU 183,00 million
+
+- EAGGF, Guidance SectionECU 149,00 million
+
+- FIFGECU 7,50 million.
+
+2\. The budgetary commitment for the first instalment is as follows:
+
+- ERDFECU 35,35 million
+
+- ESFECU 25,14 million
+
+- EAGGF, Guidance SectionECU 20,51 million
+
+- FIFGECU 1,01 million.
+
+Commitments of subsequent instalments will be based on the financing plan for the single programming document and on progress in its implementation.
+
+## Article 6
+
+The breakdown among the Structural Funds and the FIFG and the procedure for the grant of the assistance may be altered subsequently, subject to the availability of funds and the budgetary rules, in the light of reprogramming decided according to the procedure laid down in Article 25 (5) of Regulation (EEC) No 4253/88.
+
+## Article 7
+
+This Decision is without prejudice to the Commission's position on the aid schemes in the measures 1.2 and 5 of Subprogramme 1, 'Development of productive sectors and of the factors of competitiveness'; In accordance with Articles 92 and 93 of the Treaty, the aid schemes must be approved by the Commission and hence the financial commitments shall be reduced by the amounts corresponding to the said measures until the aid schemes are approved by the Commission.
+
+## Article 8
+
+The Community aid concerns expenditure on operations under the single programming document which, in the Member State concerned, are the subject of legally binding commitments and for which the requisite finance has been specifically allocated no later than 31 December 1999. The final date for taking account of expenditure on these measures is 31 December 2001.
+
+## Article 9
+
+The single programming document shall be implemented in accordance with Community law, and in particular Articles 7, 30, 48, 52 and 59 of the EC Treaty and the Community directives on the coordination of procedures for the award of contracts.
+
+## Article 10
+
+This Decision is addressed to French Republic.
+
+Done at Brussels, 29 July 1994.
+
+For the Commission
+
+Bruce MILLAN
+
+Member of the Commission
+
+(1) OJ No L 374, 31. 12. 1988, p. 1.(2) OJ No L 193, 31. 7. 1993, p. 20.(3) OJ No L 185, 15. 7. 1988, p. 9.(4) OJ No L 193, 31. 7. 1993, p. 5.(5) OJ No L 170, 3. 7. 1990, p. 36.(6) OJ No L 54, 25. 2. 1994, p. 9.(7) OJ No L 374, 31. 12. 1988, p. 15.(8) OJ No L 193, 31. 7. 1993, p. 34.(9) OJ No L 374, 31. 12. 1988, p. 21.(10) OJ No L 193, 31. 7. 1993, p. 39.(11) OJ No L 374, 31. 12. 1988, p. 25.(12) OJ No L 193, 31. 7. 1993, p. 44.(13) OJ No L 193, 31. 7. 1993, p. 1.(14) OJ No L 356, 31. 12. 1977, p. 1.(15) OJ No L 70, 16. 3. 1990, p. 1.(16) Annex not published in the Official Journal.

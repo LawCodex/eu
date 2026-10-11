@@ -1,0 +1,68 @@
+---
+title: "75/644/EEC: Commission Decision of 17 October 1975 on implementing the reform of agricultural structures in the Kingdom of Denmark under Title I of Directive No 72/161/EEC (Only the Danish text is authentic)"
+identifier: "31975D0644"
+eli: "http://data.europa.eu/eli/dec/1975/644/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 1975-10-17
+entry_into_force: 1975-08-12
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31975D0644"
+retrieved: 2026-10-11
+---
+
+# 75/644/EEC: Commission Decision of 17 October 1975 on implementing the reform of agricultural structures in the Kingdom of Denmark under Title I of Directive No 72/161/EEC (Only the Danish text is authentic)
+
+COMMISSION DECISION of 17 October 1975 on implementing the reform of agricultural structures in the Kingdom of Denmark under Tide I of Directive No 72/161/EEC (Only the Danish text is authentic) (75/644/EEC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community;
+
+Having regard to Council Directive No 72/161/EEC (1) of 17 April 1972 concerning the provision of socio-economic guidance for and the acquisition of occupational skills by persons engaged in agriculture, and in particular Article 11 (3) thereof;
+
+Whereas on 18 July 1975 the Government of the Kingdom of Denmark, under Article 10 (4) thereof, forwarded its: - Law No 225 of 12 June 1975 amending the law on subsidies for the work of agricultural counsellors;
+
+- Ministry of Agriculture Regulation of 26 June 1975 concerning the provision of socio-economic guidance for persons engaged in agriculture;
+
+Whereas, under Article 11 (3) thereof, the Commission must decide whether, having regard to the objectives of the said Directive and to the need for a proper connection between the various measures, the provisions forwarded comply with the said Directive and thus satisfy the conditions for financial contribution by the Community;
+
+Whereas it is a basic aim of Title I thereof to enable persons engaged in agriculture, and in particular those persons who must fundamentally alter the nature of their activity, to take decisions on their future occupations and those of their children with full knowledge of the opportunities available and of the consequences of their choice;
+
+Whereas, to that end, the Member States are therefore required: - under Articles 2 (a) and 3 thereof, to create and develop services providing socio-economic guidance, such services to be either public or expressly appointed and approved for that purpose by Member States, or to create and develop within services already existing special departments for the provision of such guidance;
+
+- under Articles 2 (b) and 4, to introduce appropriate basic and advanced training programmes for socio-economic counsellors and to bear the cost of training such counsellors;
+
+Whereas, under the first indent of Article 12 (2) thereof, the Guidance Section of the EAGGF is to refund to Member States 25 % of a standard amount of 7 500 units of account in respect of each counsellor beginning his duties for the first time and providing socio-economic guidance within the meaning of Article 3 thereof; (1)OJ No L 96, 23.4.1972, p. 15.
+
+Whereas, under the second indent of Article 12 (2) thereof, the Guidance Section of the EAGGF is to refund to Member States 25 % of the cost of training within the meaning of Article 4 thereof up to an overall amount of 4 500 units of account for each counsellor trained who provides socio-economic guidance within the meaning of Article 3 thereof;
+
+Whereas, having regard to the particular structural situation in Denmark, the number, activity and training of the full-time socio-economic counsellors provided for in the Kingdom of Denmark in the above communication can be considered to be compatible with the objectives of Title I thereof for a trial period;
+
+Whereas the EAGGF Committee has been consulted on the financial aspects;
+
+Whereas the provisions of this Decision are in accordance with the Opinion of the Standing Committee on Agricultural Structures,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Law No 225 of 12 June 1975 and Ministry of Agriculture Regulation of 26 June 1975 on socio-economic guidance for persons employed in agriculture satisfy the conditions for a financial contribution from the Community to the common measures referred to in Article 8 of Directive No 72/161/EEC.
+
+## Article 2
+
+In accordance with Article 12 (2) of the said Directive the financial contribution by the Community shall be limited to the cost of the appointment and training of counsellors who are occupied full-time in socio-economic guidance activities.
+
+## Article 3
+
+This Decision is addressed to the Kingdom of Denmark.
+
+Done at Brussels, 17 October 1975.
+
+For the Commission
+
+P.J. LARDINOIS
+
+Member of the Commission

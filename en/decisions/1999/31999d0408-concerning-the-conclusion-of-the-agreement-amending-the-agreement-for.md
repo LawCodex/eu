@@ -1,0 +1,67 @@
+---
+title: "1999/408/EC: Council Decision of 29 April 1999 concerning the conclusion of the Agreement amending the Agreement for Scientific and Technological Cooperation between the European Community and Canada"
+identifier: "31999D0408"
+eli: "http://data.europa.eu/eli/dec/1999/408/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 1999-04-29
+entry_into_force: 1999-06-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31999D0408"
+retrieved: 2026-10-11
+---
+
+# 1999/408/EC: Council Decision of 29 April 1999 concerning the conclusion of the Agreement amending the Agreement for Scientific and Technological Cooperation between the European Community and Canada
+
+COUNCIL DECISION
+
+of 29 April 1999
+
+concerning the conclusion of the Agreement amending the Agreement for Scientific and Technological Cooperation between the European Community and Canada
+
+(1999/408/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 130M, in conjunction with Article 228(2), first sentence, and the first subparagraph of Article 228(3) thereof,
+
+Having regard to the proposal from the Commission(1),
+
+Having regard to the opinion of the European Parliament(2),
+
+(1) Whereas by its Decision of 26 February 1996(3) the Council approved the conclusion of the Agreement for Scientific and Technological Cooperation between the European Community and Canada;
+
+(2) Whereas by its Decision of 22 June 1998 the Council authorised the Commission to negotiate an amendment of the abovementioned Agreement only as far as the areas for cooperation, mentioned under Article 4 of that Agreement, are concerned, in accordance with the procedure laid down in Article 12(b) of that Agreement;
+
+(3) Whereas by its Decision of 13 December 1998 the Council authorised the signature of the amending Agreement;
+
+(4) Whereas the amending Agreement was signed on 17 December 1998;
+
+(5) Whereas the amending Agreement should be approved,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement amending the Agreement for Scientific and Technological Cooperation between the European Community and Canada is hereby approved.
+
+The text of the amending Agreement is attached to this Decision.
+
+## Article 2
+
+Pursuant to Article 12 of the Agreement for Scientific and Technological Cooperation between the European Community and Canada, the President of the Council shall give notification that the procedures for entry into force of the attached amending Agreement have been completed on the part of the Community.
+
+Done at Luxembourg, 29 April 1999.
+
+For the Council
+
+The President
+
+W. MÜLLER
+
+(1) OJ C 400, 22.12.1998, p. 27.
+
+(2) Opinion delivered on 13 April 1999 (not yet published in the Official Journal).
+
+(3) OJ L 74, 22.3.1996, p. 25.
