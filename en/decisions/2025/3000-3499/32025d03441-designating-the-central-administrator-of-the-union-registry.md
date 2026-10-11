@@ -1,0 +1,63 @@
+---
+title: "Commission Decision of 23 June 2025 designating the Central Administrator of the Union Registry"
+identifier: "32025D03441"
+eli: "http://data.europa.eu/eli/C/2025/3441/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2025-06-23
+entry_into_force: 2025-12-18
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025D03441"
+retrieved: 2026-10-11
+---
+
+# Commission Decision of 23 June 2025 designating the Central Administrator of the Union Registry
+
+**COMMISSION DECISION**
+
+**of 23 June 2025**
+
+**designating the Central Administrator of the Union Registry**
+
+(C/2025/3441)
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC (1), and in particular Article 20(1) thereof,
+
+Having regard to Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council as regards the functioning of the Union Registry (2), and in particular Article 4(1) thereof,
+
+Whereas:
+
+(1) The Union Registry is a standardised electronic database containing common data elements to track the issue, holding, transfer and cancellation, as applicable, of allowances, and to provide for public access and confidentiality, as appropriate. The Union Registry holds allowances for the execution of processes pertaining to the maintenance of the holding of accounts opened in Member States.
+
+(2) According to Directive 2003/87/EC, the Commission should designate a Central Administrator to operate and maintain the Union Registry, including its technical infrastructure.
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Director-General of the Directorate-General for Climate Action is designated as the Central Administrator of the Union Registry.
+
+## Article 2
+
+This Decision shall apply from the day of its adoption.
+
+Done at Brussels, 23 June 2025.
+
+For the Commission
+
+Wopke HOEKSTRA
+
+Member of the Commission
+
+(1) OJ L 275, 25.10.2003, p. 32, ELI: http://data.europa.eu/eli/dir/2003/87/oj.
+
+(2) Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council as regards the functioning of the Union Registry (OJ L 177, 2.7.2019, p. 3,ELI: http://data.europa.eu/eli/reg_del/2019/1122/oj).
+
+ELI: http://data.europa.eu/eli/C/2025/3441/oj
+
+ISSN 1977-091X (electronic edition)

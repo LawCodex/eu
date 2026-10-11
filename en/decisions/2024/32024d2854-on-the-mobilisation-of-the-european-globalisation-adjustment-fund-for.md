@@ -1,0 +1,83 @@
+---
+title: "Decision (EU) 2024/2854 of the European Parliament and of the Council of 23 October 2024 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2024/001 BE/Match-Smatch"
+identifier: "32024D2854"
+eli: "http://data.europa.eu/eli/dec/2024/2854/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2024-10-23
+entry_into_force: 2024-12-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024D2854"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2024/2854 of the European Parliament and of the Council of 23 October 2024 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2024/001 BE/Match-Smatch
+
+**DECISION (EU) 2024/2854 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2024**
+
+**on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2024/001 BE/Match-Smatch**
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2021/691 of the European Parliament and of the Council of 28 April 2021 on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013 (1), and in particular Article 15(1), first subparagraph, thereof,
+
+Having regard to the Interinstitutional Agreement of 16 December 2020 between the European Parliament, the Council of the European Union and the European Commission on budgetary discipline, on cooperation in budgetary matters and on sound financial management, as well as on new own resources, including a roadmap towards the introduction of new own resources (2), and in particular point 9 thereof,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) The European Globalisation Adjustment Fund for Displaced Workers (EGF) aims to demonstrate solidarity and promote decent and sustainable employment in the Union by providing support for workers made redundant and self-employed persons whose activity has ceased in the case of major restructuring events and assisting them in returning to decent and sustainable employment as soon as possible.
+
+(2) The EGF is not to exceed a maximum annual amount of EUR 30 million (in 2018 prices), as laid down in Article 8 of Council Regulation (EU, Euratom) 2020/2093 (3), amended by Council Regulation (EU, Euratom) 2024/765 (4), and Article 16 of Regulation (EU) 2021/691.
+
+(3) On 3 June 2024, Belgium submitted an application to mobilise the EGF in accordance with Article 8(1) of Regulation (EU) 2021/691, in respect of worker’s displacements in Match-Smatch (Match SA. and Profi SA.) in Belgium. It was supplemented by additional information provided in accordance with Article 8(5) of Regulation (EU) 2021/691. That application is considered to comply with the conditions for providing a financial contribution from the EGF as laid down in Article 13 of Regulation (EU) 2021/691, on the basis of the assessment made by the Commission in the Proposal for a mobilisation decision of the European Parliament and of the Council (5).
+
+(4) The EGF should, therefore, be mobilised in order to provide a financial contribution of EUR 2 661 564 in respect of the application submitted by Belgium.
+
+(5) In order to minimise the time taken to mobilise the EGF, this Decision should apply from the date of its adoption,
+
+HAVE ADOPTED THIS DECISION:
+
+## Article 1
+
+For the general budget of the Union for the financial year 2024, the European Globalisation Adjustment Fund for Displaced Workers shall be mobilised to provide the amount of EUR 2 661 564 in commitment and payment appropriations.
+
+## Article 2
+
+This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 23 October 2024.
+
+Done at Strasbourg, 23 October 2024.
+
+For the European Parliament
+
+The President
+
+R. METSOLA
+
+For the Council
+
+The President
+
+ZSIGMOND B. P.
+
+(1) OJ L 153, 3.5.2021, p. 48.
+
+(2) OJ L 433 I, 22.12.2020, p. 28.
+
+(3) Council Regulation (EU, Euratom) 2020/2093 of 17 December 2020 laying down the multiannual financial framework for the years 2021 to 2027 (OJ L 433 I, 22.12.2020, p. 11).
+
+(4) Council Regulation (EU, Euratom) 2024/765 of 29 February 2024 amending Regulation (EU, Euratom) 2020/2093 laying down the multiannual financial framework for the years 2021 to 2027 (OJ L, 2024/765, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/765/oj).
+
+(5) COM(2024) 275.
+
+ELI: http://data.europa.eu/eli/dec/2024/2854/oj
+
+ISSN 1977-0677 (electronic edition)

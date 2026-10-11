@@ -1,0 +1,87 @@
+---
+title: "Council Decision (CFSP) 2022/2376 of 5 December 2022 amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses"
+identifier: "32022D2376"
+eli: "http://data.europa.eu/eli/dec/2022/2376/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2022-12-05
+entry_into_force: 2022-10-17
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022D2376"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2022/2376 of 5 December 2022 amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses
+
+**COUNCIL DECISION (CFSP) 2022/2376**
+
+**of 5 December 2022**
+
+**amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 7 December 2020, the Council adopted Decision (CFSP) 2020/1999 (1).
+
+(2) The measures set out in Articles 2 and 3 of Decision (CFSP) 2020/1999 apply as regards the natural or legal persons, entities and bodies listed in the Annex to that Decision until 8 December 2022.
+
+(3) On the basis of a review of the Annex to Decision (CFSP) 2020/1999, the measures set out in Articles 2 and 3 of that Decision as regards the natural or legal persons, entities and bodies listed in that Annex should be extended until 8 December 2023. The entries concerning six natural persons and two entities included in that Annex should be updated.
+
+(4) Decision (CFSP) 2020/1999 should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Decision (CFSP) 2020/1999 is amended as follows:
+
+(1) in Article 10, in the second sentence, the date ‘8 December 2022’ is replaced by the date ‘8 December 2023’;
+
+(2) the Annex is amended as set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+Done at Brussels, 5 December 2022.
+
+For the Council
+
+The President
+
+M. KUPKA
+
+(1) Council Decision (CFSP) 2020/1999 of 7 December 2020 concerning restrictive measures against serious human rights violations and abuses (OJ L 410 I, 7.12.2020, p. 13).
+
+## ANNEX
+
+The Annex to Decision (CFSP) 2020/1999 (‘List of natural and legal persons, entities and bodies referred to in Articles 2 and 3’) is amended as follows:
+
+(1) in section A, the entries for the following six natural persons are replaced by the following:
+
+A. Natural persons
+
+|  | Names (Transliteration into Latin script) | Names | Identifying information | Reasons for listing | Date of listing |
+| --- | --- | --- | --- | --- | --- |
+| ‘1. | Alexander (Alexandr) Petrovich KALASHNIKOV | Aлександр Петрович КАЛАШНИКОВ (Russian spelling) | Position(s): Former director of the Russian Federal Penitentiary Service (FSIN) DOB: 27.1.1964 POB: Tatarsk, Novosibirsk Region/Oblast, Russian SFSR (now Russian Federation) Nationality: Russian Gender: male | Alexander Kalashnikov was the director of the Russian Federal Penitentiary Service (FSIN) from 8 October 2019 until 25 November 2021. In that position, he oversaw all activities of the FSIN. In his capacity as director of the FSIN, he was responsible for serious human rights violations in Russia, including arbitrary arrests and detentions. In the case of Alexei Navalny, while Mr Navalny was recovering in Germany (September 2020-January 2021) after having been poisoned with a toxic nerve agent of the Novichok group, on 28 December 2020 FSIN demanded that he immediately present himself to a probation officer or face a prison sentence for violating a suspended sentence for fraud conviction. That fraud conviction had been found arbitrary and unfair by the European Court of Human Rights in 2018. On 17 January 2021, acting on the orders of Alexander Kalashnikov, FSIN officers detained Alexei Navalny upon his arrival at Moscow airport. Alexei Navalny’s arrest is based on a decision by the Khimki city court, which in turn was issued at the request of FSIN. In late December 2020, FSIN had already requested that a court replace Alexei Nalvany’s suspended sentence with a prison term. On 17 February 2021, the European Court of Human Rights ordered the Government of Russia to release Alexei Navalny. | 2.3.2021 |
+| 6. | WANG Junzheng | 王君正 (Chinese spelling) | Position(s): Party Secretary of the Chinese Communist Party (CCP) in the Tibet Autonomous Region (TAR); former Party Secretary of the Xinjiang Production and Construction Corps (XPCC) and Deputy Secretary of the Party Committee of China’s Xinjiang Uyghur Autonomous Region; Political commissar of the XPCC and CEO of the China Xinjian Group DOB: May 1963 POB: Linyi, Shandong (China) Nationality: Chinese Gender: male | Party Secretary of the Chinese Communist Party (CCP) in the Tibet Autonomous Region (TAR) since October 2021. Former Party Secretary of the Xinjiang Production and Construction Corps (XPCC) and Deputy Secretary of the Party Committee of China’s Xinjiang Uyghur Autonomous Region (XUAR) from April 2020 to October 2021, as well as Political commissar of the XPCC from May 2020 to October 2021. Former Secretary of the Political and Legal Affairs Committee of the XUAR, from February 2019 to September 2020. Wang Junzheng also held other senior posts in the XPCC. The XPCC is a state-owned economic and paramilitary organisation in the XUAR, which exercises administrative authority and controls economic activities in Xinjiang. As Party Secretary and Political commissar of the XPCC, Wang Junzheng was involved in overseeing all policies implemented by the XPCC. In that position, he was responsible for serious human rights violations in China, in particular large-scale arbitrary detentions and degrading treatment inflicted upon Uyghurs and people from other Muslim ethnic minorities, as well as systematic violations of their freedom of religion or belief, linked, inter alia, to the XPCC’s implementation of a large-scale surveillance, detention and indoctrination programme targeting Uyghurs and people from other Muslim ethnic minorities. He was also responsible for the XPCC’s systematic use of Uyghurs and people from other Muslim ethnic minorities as a forced workforce, in particular in cotton fields. As Deputy Secretary of the Party Committee of the XUAR, Wang Junzheng was involved in overseeing all the security policies implemented in Xinjiang, including the aforementioned programme targeting Uyghurs and people from other Muslim ethnic minorities. As Secretary of the Political and Legal Affairs Committee of the XUAR from February 2019 to September 2020, Wang Junzheng was responsible for maintaining internal security and law enforcement in the XUAR. As such, he held a key political position in charge of overseeing and implementing the aforementioned programme. | 22.3.2021 |
+| 9. | JONG Kyong-thaek (a.k.a. CHO’NG Kyo’ng-t’aek) | 정경택 (Korean spelling) | Position(s): Director of the General Political Bureau of the Korean People’s Army; former Minister of State Security of the Democratic People’s Republic of Korea (DPRK) DOB: between 1.1.1961 and 31.12.1963 Nationality: Democratic People’s Republic of Korea (DPRK) Gender: male | Jong Kyong-thaek is the Director of the General Political Bureau of the Korean People’s Army. He was the Minister of State Security of the Democratic People’s Republic of Korea (DPRK) from 2017 until 2022. The Ministry of State Security of the DPRK is one of the leading institutions in charge of implementing the repressive security policies of the DPRK, with a focus on identifying and suppressing political dissent, the inflow of ‘subversive’ information from abroad, and any other conduct considered a serious political threat to the political system and its leadership. As former Head of the Ministry of State Security, Jong Kyong-thaek is responsible for serious human rights violations in the DPRK, in particular torture and other cruel, inhuman or degrading treatment or punishment, extrajudicial, summary or arbitrary executions and killings, enforced disappearance of persons, and arbitrary arrests or detentions, as well as widespread forced labour and sexual violence against women. | 22.3.2021 |
+| 10. | RI Yong Gil (a.k.a. RI Yong Gi, RI Yo’ng-kil, YI Yo’ng-kil) | 리영길 (Korean spelling) | Position(s): Minister of National Defence of the Democratic People’s Republic of Korea (DPRK) Rank: Vice Marshal DOB: 1955 Nationality: Democratic People’s Republic of Korea (DPRK) Gender: male | Ri Yong Gil is the Minister of National Defence of the Democratic People’s Republic of Korea (DPRK). He was the Minister of Social Security from January 2021 until June or July 2021. He was Chief of the General Staff of the Korean People’s Army (KPA) between 2018 and January 2021. He was promoted to Vice Marshal of the KPA on 14 April 2022. As Minister of National Defence, Ri Yong Gil is responsible for serious human rights violations, including by members of the Military Security Command and other KPA units. The Ministry of Social Security of the DPRK (formerly known as the Ministry of People’s Security or Ministry of Public Security) and the Military Security Command are leading institutions in charge of implementing the repressive security policies of the DPRK, including interrogation and punishment of people ‘illegally’ fleeing the DPRK. In particular, the Ministry of Social Security is in charge of running prison camps and short-term labour detention centres through its Correctional Bureau, where prisoners/detainees are subject to deliberate starvation and other inhuman treatment. As former Head of the Ministry of Social Security, Ri Yong Gil is responsible for serious human rights violations in the DPRK, in particular torture and other cruel, inhuman or degrading treatment or punishment, extrajudicial, summary or arbitrary executions and killings, enforced disappearance of persons, and arbitrary arrests or detentions, as well as widespread forced labour and sexual violence against women. As former Chief of the General Staff of the KPA, Ri Yong Gil is also responsible for the widespread serious human rights violations committed by the KPA. | 22.3.2021 |
+| 12. | Abderrahim AL-KANI (a.k.a. Abdul-Rahim AL-KANI, Abd-al-Rahim AL-KANI, Abdel Rahim KHALIFA, Abdel Rahim AL-SHAQAQI) | عبد الرحيم الكاني (Arabic spelling) | Position(s): member of the Kaniyat Militia DOB: 7.9.1997 Nationality: Libyan Passport number: PH3854LY ID number: 119970331820 Gender: male | Abderrahim Al-Kani is a key member of the Kaniyat Militia and brother of the Head of the Kaniyat Militia, Mohammed Khalifa Al-Khani (deceased in July 2021). The Kaniyat Militia exercised control of the Libyan town of Tarhuna between 2015 and June 2020. Abderrahim Al-Kani is in charge of internal security for the Kaniyat Militia. In that capacity, he is responsible for serious human rights abuses in Libya, in particular extrajudicial killings and enforced disappearances of persons between 2015 and June 2020 in Tarhuna. Abderrahim Al-Kani and the Kaniyat Militia fled Tarhuna in early June 2020 to eastern Libya. Since then, several mass graves attributed to the Kaniyat Militia have been discovered in Tarhuna. | 22.3.2021 |
+| 16. | Dimitriy (Dimitry, Dmitri, Dmitry) Valerievich UTKIN | Дмитрий Валерьевич Уткин (Russian spelling) | Position(s): Founder and commander of the Wagner Group Rank: Lieutenant colonel (reserve) Callsign: Vagner, Wagner, The Nineth Wagner Group ID: M-0209 DOB: 1.6.1970 or 11.6.1970 POB: Asbest, Sverdlovsk Oblast, Russian SFSR (now Russian Federation) Nationality: Russian Address: Pskov, Russian Federation Gender: male | Dimitriy Utkin, a former Russian military intelligence (GRU) officer, is the founder of the Wagner Group and responsible for coordinating and planning operations for the deployment of Wagner Group mercenaries across various countries. In his commanding position within the Wagner Group, he is responsible for serious human rights abuses committed by the group, which include torture and extrajudicial, summary or arbitrary executions and killings. This includes the torturing to death of a Syrian deserter by four members of the Wagner Group in June 2017 in the governorate of Homs, Syria. According to a former member of the Wagner Group, Dimitriy Utkin personally ordered the torturing to death of the deserter as well as the filming of the act. | 13.12.2021’ |
+
+(2) in section B, the entries for the following two entities are replaced by the following:
+
+B. Legal persons, entities and bodies
+
+|  | Name (Transliteration into Latin script) | Name | Identifying information | Reasons for listing | Date of listing |
+| --- | --- | --- | --- | --- | --- |
+| ‘3. | Kaniyat Militia (f.k.a. 7th Brigade, Tarhuna 7th Brigade, Tarhuna Brigade) (a.k.a. 9th Brigade, Al-Kani Militia, Al-Kaniyat, Kani Brigade, Kaniat, Kaniyat, Kanyat) | مليشيا كانيات (Arabic spelling) |  | The Kaniyat Militia is a Libyan armed militia, which exercised control in the Libyan town of Tarhuna between 2015 and June 2020. Mass graves attributed to the Kaniyat Militia have been discovered in Tarhuna since June 2020, after the militia fled to eastern Libya. The Kaniyat Militia is responsible for serious human rights abuses, in particular extrajudicial killings, and enforced disappearances of persons. | 22.3.2021 |
+| 5. | Wagner Group (a.k.a. Vagner Group, PMC Wagner, Liga, League) | Группа Вагнера (Russian spelling) |  | The Wagner Group is a Russia-based unincorporated private military entity, which was established in 2014 as a successor organisation of the Slavonic Corps. It is led by Dimitriy Utkin and financed by Yevgeny Prigozhin. Through the setting-up of local entities, and with the support of local governments, the Wagner Group finances and conducts its operations. The Wagner Group is responsible for serious human rights abuses in Ukraine, Syria, Libya, the Central African Republic (CAR), Sudan, Mali and Mozambique, which include torture and extrajudicial, summary or arbitrary executions and killings. | 13.12.2021’ |

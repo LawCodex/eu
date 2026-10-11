@@ -1,0 +1,1366 @@
+---
+title: "Council Decision (CFSP) 2021/509 of 22 March 2021 establishing a European Peace Facility, and repealing Decision (CFSP) 2015/528"
+identifier: "32021D0509"
+eli: "http://data.europa.eu/eli/dec/2021/509/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2021-03-22
+entry_into_force: 2021-10-26
+last_amended: 2024-12-16
+consolidated_version: "02021D0509-20241216"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D0509-20241216"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2021/509 of 22 March 2021 establishing a European Peace Facility, and repealing Decision (CFSP) 2015/528
+
+**COUNCIL DECISION (CFSP) 2021/509**
+
+**of 22 March 2021**
+
+**establishing a European Peace Facility, and repealing Decision (CFSP) 2015/528**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/577 of 13 March 2023 </td><td> L 75</td><td>23</td><td>14.3.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/994 of 22 May 2023 </td><td> L 135</td><td>120</td><td>23.5.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/1304 of 26 June 2023 </td><td> L 161</td><td>66</td><td>27.6.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/890 of 18 March 2024 </td><td> L 890</td><td>1</td><td>19.3.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/2846 of 5 November 2024 </td><td> L 2846</td><td>1</td><td>6.11.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/3185 of 16 December 2024 </td><td> L 3185</td><td>1</td><td>17.12.2024</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2021/509**
+
+**of 22 March 2021**
+
+**establishing a European Peace Facility, and repealing Decision (CFSP) 2015/528**
+
+## TITLE I — ESTABLISHMENT AND STRUCTURE
+
+### CHAPTER 1 — Establishment, scope, definitions and objectives
+
+#### Article 1 — Establishment and scope
+
+1\. A European Peace Facility (the ‘Facility’) is hereby established for the financing by Member States of Union actions under the Common Foreign and Security Policy (CFSP) to preserve peace, prevent conflicts and strengthen international security in accordance with point (c) of Article 21(2) of the Treaty on European Union (TEU), in cases where, pursuant to Article 41(2) TEU, the operating expenditure arising from those actions is not charged to the Union budget.
+
+2\. The Facility shall be used for the financing of:
+
+(a) the common costs of Union operations under Articles 42(4) and 43(2) TEU having military or defence implications and which therefore, according to Article 41(2)TEU, cannot be charged to the Union budget;
+
+(b) assistance measures consisting of Union actions under Article 28 TEU where the Council decides unanimously, pursuant to Article 41(2) TEU, that the operating expenditure arising therefrom shall be charged to the Member States.
+
+Assistance measures under point (b) are:
+
+(i) actions to strengthen the capacities of third States and regional and international organisations relating to military and defence matters;
+
+(ii) support to military aspects of peace support operations led by a regional or international organisation or by third States.
+
+3\. This Decision also establishes a framework for the adoption and implementation of the assistance measures referred to in point (b) of paragraph 2, which shall be based on the principles and objectives set out in Article 56 and shall follow the strategic priorities and orientation referred to in Article 9.
+
+#### Article 2
+
+1\. The financial ceiling for the implementation of the Facility for the period 2021 to 2027 shall be EUR 17 040 000 000 in current prices.
+
+2\. The breakdown of the financial ceiling per annum shall be as set out in Annex I.
+
+3\. The financial ceiling shall be used in a manner that preserves the global geographical scope of the Facility and the Union’s ability to prevent and swiftly respond to crises and conflicts, primarily but not exclusively in areas that display the most urgent and critical security threats for the Union following, pursuant to Article 9(1), the strategic priorities set by the European Council and the Council. The Facility Committee referred to in Article 11 shall decide on the use of the financial ceiling by defining the overall amounts intended for assistance measures and the overall amounts intended for operations funded under the Facility, in order to ensure its financial sustainability. The Facility Committee shall revise those overall amounts as necessary in accordance with the strategic orientation provided by the Political and Security Committee (PSC) pursuant to Article 9(2).
+
+#### Article 3 — Legal capacity and exemption from indirect taxes and customs duties
+
+1\. The Facility shall have legal capacity, in particular to hold bank accounts, acquire, hold or dispose of assets, supplies and services, employ staff, enter into contracts, agreements and administrative arrangements, discharge its liabilities and be a party to legal proceedings, as required in order to implement this Decision. The Facility shall not have the purpose, or the effect, of making a profit.
+
+2\. In accordance with the second paragraph of Article 3 of Protocol No 7 on the Privileges and Immunities of the European Union the Member States shall, wherever possible, take the appropriate measures to exempt, remit or refund the amount of indirect taxes or sales taxes included in the price of movable or immovable property, where the Facility makes, for its official use, substantial purchases the price of which includes taxes of this kind. Such provisions shall not be applied, however, so as to have the effect of distorting competition within the Union. Furthermore in accordance with the first paragraph of Article 4 of that Protocol, imports of goods into the Union by the Facility are exempt from all customs duties.
+
+#### Article 4 — Definitions
+
+For the purposes of this Decision:
+
+(a) ‘operation’ means a Union operation or mission established under the Common Security and Defence Policy (CSDP) in accordance with Article 42 TEU, having military or defence implications, including cases where the implementation of a task is entrusted to a group of Member States in accordance with Article 44 TEU;
+
+(b) ‘operation commander’ means the EU Operation Commander as defined in the European Union Concept for Military Command and Control, including, where applicable, the Director of the Military Planning and Conduct Capability;
+
+(c) ‘assistance measure’ means a Union action as referred to in point (b) of Article 1(2); the assistance to be provided may consist of financial, technical or material support; such action may take the form of a specific measure or of a general programme for support with a given geographical or thematic focus;
+
+(d) ‘contributing Member States’ means the Member States contributing to the financing of an operation or assistance measure to be funded under the Facility;
+
+(e) ‘implementing actor’ means an actor that, in the context of indirect management, is entrusted with the implementation of an assistance measure or parts thereof and that concludes a contract with the Facility for that purpose;
+
+(f) ‘beneficiary’ means a third State or regional or international organisation for which an assistance measure provides support;
+
+(g) ‘exercise’ means a Union military CSDP exercise or the military component of a civilian CSDP exercise, agreed in the EU Programme of Exercises and Exercise-Related Activities under the CFSP and conducted in accordance with the Exercise Policy of the European Union under the CFSP.
+
+#### Article 5 — Participation in decisions on and contribution to the financing of operations and assistance measures
+
+1\. Subject to paragraphs 2, 3 and 4, the Member States shall participate in decisions on, and shall contribute to the financing of, operations and assistance measures to be funded under the Facility in accordance with the provisions of this Decision.
+
+2\. In accordance with the second subparagraph of Article 41(2) TEU, a Member State which has abstained in a vote on a Council Decision on an operation and made a formal declaration in accordance with the second subparagraph of Article 31(1) TEU is not obliged to contribute to the financing of that operation.
+
+3\. In cases where a Member State has abstained in a vote and made a formal declaration in accordance with the second subparagraph of Article 31(1) TEU regarding an assistance measure which allows for the supply of military equipment, or platforms, designed to deliver lethal force, that Member State shall not contribute to the costs of that assistance measure. Instead, that Member State shall make an additional contribution to other assistance measures that do not involve the supply of such equipment or platforms. In such a case, the reference amount of the assistance measure from which the Member State has abstained shall remain unchanged as a result of such abstention.
+
+5\. The contributing Member States shall participate in decisions of the Facility Committee referred to in Article 11 on matters pertaining to that operation or assistance measure.
+
+#### Article 6 — Initiative for operations and assistance measures to be funded under the Facility
+
+Decisions establishing operations and assistance measures funded under the Facility shall be adopted on the basis of proposals or initiatives submitted in accordance with Article 42(4) or 30(1) TEU respectively.
+
+#### Article 7 — Legal basis for financing Union operations and assistance measures under the Facility
+
+1\. The financing of any operation or assistance measure under the Facility shall require the prior adoption of a basic legal act in the form of a decision by the Council establishing the operation under Articles 42(4) and 43(2) TEU or the assistance measure under Article 28 TEU. By way of exception, a basic legal act shall not be required for the financing of common costs during the preparatory phase of an operation, of expenditure necessary to wind up an operation or of the common costs of exercises, as referred to in Article 44(1), Article 44(3) and Article 45, respectively, of this Decision. Additionally, a basic legal act shall not be required when the Council has authorised the funding of preparatory measures for an assistance measure or when the PSC has approved urgent activities pending a decision on an assistance measure, in accordance with Article 57(2) and Article 58, respectively, of this Decision.
+
+2\. Basic legal acts as referred to in paragraph 1 shall lay down the objectives, scope, duration and conditions for the implementation of the operation or assistance measure concerned and shall include the reference amount for the financial resources to be funded under the Facility.
+
+#### Article 8 — Consistency of Union action
+
+1\. In accordance with Article 26(2) TEU, the Council and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) shall ensure consistency between actions financed under the Facility and other actions in the area of the CFSP. In accordance with Article 21(3) TEU, the Council and the Commission, assisted by the High Representative, shall ensure consistency between actions financed under the Facility and measures under instruments in other areas of the Union’s external action, as well as its other policies, and shall cooperate to that effect.
+
+2\. In accordance with Articles 18(4) and 27(1) TEU, the High Representative shall contribute to ensuring consistency and the necessary coordination in the implementation of this Decision, without prejudice to the arrangements for the financial management of the Facility as set out in Chapter 2 of this Decision.
+
+3\. The administrators and other actors responsible for managing the financing of operations and assistance measures under the Facility shall cooperate and coordinate with each other with a view to ensuring the efficient functioning of the Facility.
+
+#### Article 9 — Strategic priorities and orientation
+
+1\. Operations and assistance measures shall follow the strategic priorities set by the European Council and the Council, including in their relevant conclusions, for Union actions under the CFSP.
+
+2\. In the framework of the strategic priorities referred to in paragraph 1 of this Article, the PSC shall provide strategic orientation for operations and assistance measures to be funded under the Facility with a view to preserving peace, preventing conflicts and strengthening international security, on the basis of prior discussions in other relevant Council preparatory bodies, including in formats with relevant experts, unless the PSC decides otherwise. To this end, the PSC shall hold a debate twice a year, on the basis of an indicative strategic orientation proposed by the High Representative, with the strategic orientation for year n + 1 to be provided by 31 May of year n. The indicative strategic orientation, informed by views expressed by Member States, shall include a brief justification of the reference amount envisaged for each assistance measure in view of its intended objectives, and an indicative timeline of the expected discussions within the Council. It shall be submitted to the PSC 30 days before the meeting in which the PSC is called to provide the strategic orientation. As regards assistance measures, the PSC shall align with the objectives and principles set out in Article 56 and shall take due account of the reports provided by the High Representative in accordance with Article 63.
+
+3\. A risk and safeguards methodology for assistance measures to be funded under the Facility shall be established by the Council and reviewed regularly by the PSC. The European External Action Service (EEAS) shall monitor and evaluate the implementation of the arrangements made by the High Representative with the beneficiary in accordance with Article 62.
+
+4\. The strategic orientation referred to in paragraph 2 shall provide both a thematic and a geographic focus, taking into account the international situation, the relevant Council conclusions, the Union’s external action under the applicable financial instruments, and relevant reports from the High Representative, the administrators and the operation commanders, with a view to achieving effectiveness and consistency in contributing to meeting the Union’s objectives through operations and assistance measures to be funded under the Facility.
+
+5\. The risk and safeguards methodology referred to in paragraph 3 shall include possible mitigating and flanking elements, arrangements for monitoring and evaluation, and controls and safeguards, including for assistance measures involving items on the Common Military List of the Union.
+
+### CHAPTER 2 — Organisational structure of the Facility
+
+#### Article 10 — Management of the Facility
+
+1\. The Facility shall be managed, under the authority and direction of the Facility Committee referred to in Article 11, by:
+
+(a) an administrator for operations;
+
+(b) the operation commander of each operation, in relation to the operation which he or she commands and to any assistance measure, or part thereof, which the operation may implement, as provided in Article 60;
+
+(c) an administrator for assistance measures; and
+
+(d) an accounting officer for operations and an accounting officer for assistance measures.
+
+2\. The Facility shall make use of the institutions, bodies and agencies of the Union to the greatest possible extent. It shall resort primarily to existing administrative structures and staff of the Union institutions, bodies and agencies, and to staff seconded by Member States, upon a request from the respective administrator.
+
+3\. The Secretary-General of the Council shall provide the administrator for operations and the accounting officer for operations together with the staff and administrative resources needed for them to carry out their functions.
+
+4\. The High Representative shall be responsible for ensuring the implementation of Council decisions establishing assistance measures in accordance with Article 27(1) TEU and for the planning and monitoring of the overall financial ceiling and the annual ceilings of the Facility, without prejudice to paragraph 5.
+
+5\. For the purpose of the financial implementation of assistance measures, with the exception of assistance measures or any part thereof which are implemented by an operation, the High Representative shall be assisted by the administrator for assistance measures and the accounting officer for assistance measures. The High Representative shall exercise this responsibility with the support of the Commission department referred to in Article 9(6) of Council Decision 2010/427/EU ( 1 ) and other Commission services as required.
+
+#### Article 11 — Facility Committee
+
+1\. A Facility Committee (the ‘Committee’) composed of a representative of each Member State is established.
+
+2\. The Chair of the Committee shall be a representative of the Member State holding the Presidency of the Council. The Chair shall convene and preside over the meetings of the Committee.
+
+3\. The Committee shall exercise its competences pursuant to this Decision. It shall act following the voting rules set out in paragraph 14.
+
+4\. The Committee shall adopt the annual budget of the Facility and the amending budgets, taking into account the reference amount for each operation and assistance measure.
+
+5\. The Committee shall approve the annual accounts and shall give a discharge to the administrators and each operation commander on the matters for which they are respectively responsible.
+
+6\. The Committee shall adopt, on a joint proposal from the administrators, the following rules for the implementation of revenue and expenditure financed under the Facility, which supplement the rules set out in this Decision:
+
+(a) the implementing rules as regards military operations, which shall be similar in terms of flexibility to the financial rules which applied to the mechanism to administer the common costs of European Union operations having military or defence implications established by Decision (CFSP) 2015/528 (the ‘Athena mechanism’);
+
+(b) the implementing rules as regards assistance measures, which shall be consistent with and guarantee the same level of sound financial management, transparency and non-discrimination as those set out in Regulation (EU, Euratom) 2024/2509 ( 2 ) of the European Parliament and of the Council. Those rules shall explicitly justify the cases where it is necessary to diverge from the rules of Regulation (EU, Euratom) 2024/2509 in order to allow for targeted flexibility, and shall ensure that the accounting rules adopted by the accounting officer pursuant to point (d) of Article 13(4) comply with internationally accepted accounting standards for the public sector.
+
+The Committee shall examine the proposed implementing rules referred to in points (a) and (b) in close cooperation with the administrators, in particular with a view to ensuring that the implementing rules will comply with the principles of sound financial management and non-discrimination and respect for fundamental rights.
+
+The implementing rules as agreed for assistance measures, including for those referred to in Article 60, shall fully respect the principles established in Article 56(2), and in particular the security and defence policy of certain Member States, ensuring the transparency and traceability of the support provided by the Facility, and taking into account the security and defence interests of all Member States.
+
+7\. The Committee shall adopt its Rules of Procedure on a proposal from the Chair with the support of the administrators.
+
+8\. When the Committee is discussing the financing of an operation or assistance measure:
+
+(a) the Committee shall be composed of a representative of each contributing Member State;
+
+(b) a representative of a Member State which does not contribute to the operation or assistance measure may attend the Committee’s proceedings relating to such operation or assistance measure, without taking part in its votes;
+
+(c) each operation commander or his or her representative shall participate in the proceedings of the Committee for the operation he or she commands and for the assistance measure or any part thereof that the operation implements, without taking part in its votes;
+
+(d) the representatives of contributing third States and of voluntary contributors shall be invited to participate in the proceedings of the Committee if the discussion directly relates to their financial contribution, without taking part in or being present at its votes;
+
+(e) representatives of other relevant actors, in particular implementing actors, may be invited to participate in the proceedings of the Committee concerning the assistance measure which they implement in whole or in part, without taking part in its votes.
+
+9\. The secretariat for the Committee shall be provided by the administrator for operations with regard to matters pertaining to operations and to the assistance measures implemented by operations, and by the administrator for assistance measures with regard to matters pertaining to assistance measures. Each administrator shall participate in the meetings of the Committee and draw up the minutes of the meetings for the items pertaining to his or her responsibilities. The administrators may attend the meetings for other items. The administrators shall not take part in the Committee’s votes.
+
+10\. Representatives of the EEAS shall participate in the meetings of the Committee without taking part in its votes.
+
+10a. Without prejudice to paragraph 9, representatives of the Commission shall be invited to attend meetings of the Committee, as appropriate, without taking part in its votes.
+
+11\. Representatives of the European Defence Agency (EDA) may be invited to attend Committee meetings for items under discussion that relate to the EDA’s area of activity, without taking part in or being present at its votes.
+
+12\. The accounting officers of the Facility shall participate as necessary in the proceedings of the Committee for the items pertaining to their respective responsibilities, without taking part in its votes.
+
+13\. If a Member State, an administrator or an operation commander so requests, the Chair shall convene the Committee within 15 days.
+
+14\. Taking into account its composition as defined in paragraphs 1 and 8, the Committee shall act by unanimity of its members. However, it shall act by a simple majority of its members regarding procedural matters, for example when approving the agenda and the minutes, and for the adoption of its Rules of Procedure.
+
+15\. The Committee’s decisions shall be binding.
+
+16\. In urgent matters a decision may be adopted by written procedure in accordance with rules to be determined by the Committee, on the initiative of the Chair, unless a member of the Committee requests a meeting of the Committee.
+
+17\. The Committee shall be informed as appropriate by the administrators, the operation commanders and the accounting officers of matters pertaining to their respective responsibilities. In particular, the respective administrator shall provide the Committee with sufficient information in the event of a claim or dispute involving the Facility.
+
+18\. The budgets and other acts adopted by the Committee shall be signed by the Chair and by the respective administrator for the matters pertaining to his or her responsibilities.
+
+19\. Where no agreement is reached within the Committee on a particular item, the Committee may decide to refer the issue to the Council for a decision.
+
+#### Article 12 — Administrators
+
+1\. The Secretary-General of the Council, after informing the Committee, shall appoint the administrator for operations and at least one deputy administrator for operations, for a period of three years.
+
+2\. The High Representative, after informing the Committee, shall appoint an administrator for assistance measures for a period of three years.
+
+3\. The administrators shall carry out their respective duties on behalf of the Facility.
+
+4\. The specific titles of the budget concerning the implementation by an operation of assistance measures or any part thereof shall be under the responsibility of the administrator for operations.
+
+5\. Each administrator shall be the legal representative of the Facility for the matters pertaining to his or her respective responsibilities, including in legal proceedings and dispute settlements.
+
+6\. Each administrator:
+
+(a) shall draw up and submit to the Committee the titles of the draft annual budget and amending budgets for which he or she is responsible. The ‘expenditure’ section for an operation and for any assistance measure or part thereof which the operation may implement in the draft annual and amending budgets shall be drawn up on the basis of a proposal from the operation commander in question;
+
+(b) shall implement and report on the annual and respective amending budgets under his or her responsibility after their adoption by the Committee;
+
+(c) shall be the respective authorising officer for the revenue and expenditure of the Facility, except for expenditure incurred during the active phase of operations. The administrator may delegate the powers of authorising officer as required;
+
+(d) as regards revenue, shall implement the financial arrangements made with third parties in relation to the financing of operations and assistance measures respectively.
+
+7\. Each administrator shall ensure, for matters pertaining to his or her responsibilities, compliance with the rules established by this Decision and the implementation of the decisions of the Committee. For that purpose, the administrator for assistance measures may issue the necessary instructions to implementing actors, including for urgent measures.
+
+8\. Each administrator shall be authorised, for matters pertaining to his or her responsibilities, to adopt any measures, in compliance with this Decision and the rules established by the Committee pursuant to Article 11(6), which he or she deems necessary to implement the expenditure financed under the Facility. He or she shall inform the Committee thereof.
+
+9\. Each administrator shall coordinate, for matters pertaining to his or her responsibilities, work on financial matters relating to operations and assistance measures. He or she shall be the contact point with national administrations and, as appropriate, international organisations on these questions.
+
+10\. Each administrator shall ensure, for matters pertaining to his or her responsibilities, continuity of his or her functions, where necessary.
+
+11\. Each administrator shall be accountable to the Committee for matters pertaining to his or her responsibilities.
+
+#### Article 13 — Accounting officers
+
+1\. The Secretary-General of the Council shall appoint the accounting officer for operations and at least one deputy accounting officer for operations, for a period of three years.
+
+2\. The High Representative shall appoint the accounting officer for assistance measures for a period of three years.
+
+3\. The accounting officers shall carry out their respective duties on behalf of the Facility.
+
+4\. Each accounting officer, for the matters pertaining to his or her responsibilities, shall:
+
+(a) properly implement payments, collect revenue and recover amounts established as being receivable;
+
+(b) prepare the annual accounts and submit them to the Committee for approval;
+
+(c) keep the accounts;
+
+(d) lay down the accounting rules and procedures and the chart of accounts;
+
+(e) lay down, validate and monitor the accounting systems for revenue and, where appropriate, validate and monitor systems laid down by the respective authorising officer to supply or justify accounting information, check information received and request corrective measures when deemed necessary;
+
+(f) keep supporting documents;
+
+(g) be responsible for treasury management.
+
+5\. For the requirements of treasury management, each accounting officer shall open one or more bank accounts in the name of the Facility or arrange for such accounts to be opened. He or she shall also be responsible for closing such accounts, or arranging for them to be closed. The accounting officers may delegate certain tasks to subordinate staff.
+
+6\. The administrators and each operation commander shall provide the respective accounting officer with all the information necessary for the production of accounts which accurately represent the financial situation and budget implementation. They shall certify the reliability of such information.
+
+7\. The accounting officers shall be accountable to the Committee.
+
+#### Article 14 — General provisions applicable to the administrators, the accounting officers and staff
+
+1\. The functions of administrator or deputy administrator, on the one hand, and accounting officer or deputy accounting officer, on the other, shall be mutually exclusive.
+
+2\. The deputy administrator for operations shall act under the authority of the administrator for operations. The deputy accounting officer for operations shall act under the authority of the accounting officer for operations.
+
+3\. The deputy administrator for operations shall replace the administrator for operations when the latter is absent. The deputy accounting officer for operations shall replace the accounting officer for operations when the latter is absent.
+
+4\. Officials and other staff of the Union, when carrying out functions on behalf of the Facility, shall remain subject to the Staff Regulations of Officials of the European Union and the Conditions of Employment of Other Servants of the Union, laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 ( 3 ) (the ‘Staff Regulations’).
+
+5\. The staff made available to the Facility by the Member States shall be subject to the rules applicable to national experts on secondment to the Union institution in charge of their administrative management, and to the provisions agreed on by their national administration and the Union institution or the respective administrator on behalf of the Facility.
+
+6\. Staff made available to or employed by the Facility must have received prior clearance for access to classified information up to at least ‘SECRET UE/EU SECRET’ level, or equivalent clearance by a Member State.
+
+#### Article 15 — Operation commanders
+
+1\. Each operation commander shall carry out his or her duties on behalf of the Facility in relation to the financing of the common costs of the operation which he or she commands and to the financing of any assistance measure or part thereof which the operation may implement.
+
+2\. For the operation which he or she commands and for any assistance measure or part thereof which the operation may implement, each operation commander:
+
+(a) shall send the administrator for operations his or her proposals for the ‘expenditure’ section of the draft budgets;
+
+(b) as an authorising officer:
+
+(i) shall implement the appropriations relating to the common costs, expenditure for nation-borne costs as referred to in Article 48, and appropriations relating to the assistance measures or part thereof that the operation may implement; shall exercise authority over any person participating in the implementation of those appropriations, including pre-financing; may award contracts and enter into contracts on behalf of the Facility; and shall open bank accounts for the operation which he or she commands, including for assistance measures or parts thereof that the operation may implement;
+
+(ii) shall implement the appropriations relating to expenditure for the operation which he or she commands funded from voluntary contributions; shall exercise authority over any person participating in the implementation of those appropriations, on the basis of the relevant provisions in the ad hoc administrative agreement with the contributor; may award and enter into contracts on behalf of the contributor; and shall open one bank account for each contribution.
+
+3\. Each operation commander shall be authorised to adopt any measures, in compliance with this Decision and the rules established by the Committee pursuant to Article 11(6), which he or she deems necessary to implement the expenditure financed under the Facility, for the operation which he or she commands and for any assistance measure or part thereof that the operation may implement. He or she shall inform the administrator for operations and the Committee thereof. The Director of the Military Planning and Conduct Capability, in his or her capacity of Mission Commander, may centralise certain financial management tasks of the subordinated operations at the level of the Military Planning and Conduct Capability, acting as Mission Headquarters.
+
+4\. Each operation commander shall keep account of funds received from the Facility, of expenditure he or she has committed and of payments made and of revenue received, as well as an inventory of the movable property financed by the Facility’s budget and used for the operation which he or she commands and for any assistance measure or part thereof that the operation may implement. These accounts shall be available for inspection by the accounting officer for operations when requested.
+
+5\. Except in duly warranted circumstances approved by the administrator and accounting officer for operations, each operation commander shall use the accounting and asset management system provided by the Facility.
+
+#### Article 16 — Liability
+
+1\. In the event of misconduct or negligence by personnel acting for the Facility in the exercise of their tasks under this Decision, the disciplinary liability of Union staff shall be governed by the Staff Regulations, and the disciplinary liability of staff who are seconded or made available to the Facility by a Member State shall be governed by the relevant national rules and arrangements. Without prejudice to Protocol No 7 on the Privileges and Immunities of the European Union which applies to Union staff, criminal liability of personnel acting for the Facility shall be governed by the applicable national law. In addition, the Committee may decide, at its own initiative or at the request of a contributing Member State or of a contributing third party, that a civil action be brought by the Facility against such personnel. Civil liability of Union staff shall be limited to damages caused by gross negligence or wilful misconduct in the course of or in connection with the performance of their duties and shall be governed by the Staff Regulations and implementing rules applicable to them.
+
+2\. In no case may the Union, the Secretary-General of the Council, the High Representative or the Commission be held liable by a contributing Member State or by a contributing third party as a result of the performance of their duties by the administrators, the accounting officers or the staff assigned or seconded to the Facility.
+
+3\. Any contractual liability arising from contracts concluded on behalf of the Facility shall be covered through the Facility by the contributing Member States and by contributing third parties where applicable. It shall be governed by the law applicable to the contract in question.
+
+4\. Non-contractual liability for damage caused by an operation headquarters, force headquarters and component headquarters or by their staff in the course of their duties, as well as non-contractual liability for damage caused in the implementation of an assistance measure, shall be covered through the Facility by the contributing Member States and by contributing third parties where applicable, in accordance with the general principles common to the laws of the Member States.
+
+5\. In no case may the Union or the Member States be held liable by a contributing Member State or contributing third party for contracts concluded in the framework of budget implementation or for damage caused by an operation or by its staff in the course of their duties.
+
+6\. This Article shall be without prejudice to any arrangements concerning immunity from jurisdiction enjoyed by personnel of an operation under a status of forces or status of mission agreement concluded with the host State or under the European Union Status of Forces Agreement ( 4 ).
+
+## TITLE II — BUDGET
+
+### CHAPTER 3 — Principles and structure, amending budgets, transfers and carryovers of appropriations
+
+#### Article 17 — Budgetary principles
+
+1\. The budget, drawn up in euro, is the act which for each financial year lays down and authorises all the revenue and expenditure administered by the Facility.
+
+2\. The appropriations entered in the budget are authorised for the duration of a financial year which begins on 1 January and ends on 31 December of the same year. They shall include commitment and payment appropriations.
+
+3\. The commitment appropriations entered in the budget shall be authorised within the limit of the annual financial ceilings set out in Annex I. However, provided that the overall ceiling referred to in Article 2(1) is respected, the Committee may adopt, where necessary or in exceptional circumstances, an annual or amending budget exceeding the respective annual financial ceiling by up to 15 %. In such case, the High Representative may submit to the Council a proposal to adjust the annual ceilings set out in Annex I, taking into account first any unused part of the ceilings for previous years.
+
+3a. By derogation from paragraph 3 of this Article, each administrator may propose to the Committee to enter in the titles of the budget under his or her responsibility for a given year additional commitment appropriations related to payments financed with advance contributions, as referred to in Article 29(15), to cover unforeseen implementation needs. The additional commitment appropriations entered in the budget shall be deducted from the annual financial ceilings in future years.
+
+4\. Budget revenue and expenditure shall be in balance.
+
+5\. All expenditure shall be linked to a specific operation or assistance measure except where necessary for the costs listed in Annexes II and III.
+
+6\. No revenue or expenditure may be implemented other than by allocation to a title in the budget and within the limit of the appropriations entered there, except pursuant to Article 51(2) and (6) and Article 58.
+
+#### Article 18 — Annual budget
+
+1\. The annual budget shall consist of commitment and payment appropriations classified into titles which shall be subdivided into chapters and articles.
+
+2\. Every year, in preparation of the draft budget for the following financial year, each administrator shall draw up the titles for which he or she is responsible pursuant to Article 12(1) and (2), on the basis of the estimated needs, within the limit of the corresponding annual financial ceiling set out in Annex I. Operation commanders shall assist the administrator for operations.
+
+3\. The draft budget shall include:
+
+(a) the appropriations deemed necessary to cover:
+
+— the common costs for ongoing or planned operations,
+
+— the costs of assistance measures established or to be approved by the Council in the first quarter of the following financial year, according to the information provided in the proposal by the High Representative under Article 9(2) and the strategic orientation provided by the PSC;
+
+(b) a general part to cover the support and preparatory expenditure on operations, as referred to in Annexes II and III, which is not linked to a specific operation;
+
+(c) a general part to cover the support and preparatory expenditure on assistance measures, as referred to in Annexes II and III, which is not linked to a specific assistance measure;
+
+(d) a forecast of the revenue needed to cover expenditure.
+
+4\. A specific title shall be dedicated to each operation or assistance measure referred to in point (a) of paragraph 3 and to each of the general parts for support and preparatory expenditure on operations and assistance measures. Where part of an assistance measure is implemented by an operation, a specific title shall be dedicated to that part of the measure, under the responsibility of the administrator for operations, and separate from the title for the common costs of the operation.
+
+5\. Support and preparatory expenditure that is common to both operations and assistance measures shall be attributed to each general part according to the percentages that the titles for operations and the titles for assistance measures represent in the initial annual budget of the Facility adopted by the Committee pursuant to Article 11(4).
+
+6\. Each title may include a chapter entitled ‘provisional appropriations’. These appropriations shall be entered where there is uncertainty, based on serious grounds, about the amount of appropriations needed or the scope for implementing the appropriations entered.
+
+7\. Revenue, subdivided by title, shall consist of:
+
+(a) contributions payable by the contributing Member States and, where appropriate, by contributing third parties;
+
+(b) miscellaneous revenue, which includes, inter alia:
+
+— the budget outturn from the previous financial year as decided by the Committee,
+
+— interest received and revenue from sales,
+
+— recoveries of funds unspent during implementation.
+
+8\. The administrators shall propose the draft annual budget to the Committee by 15 October at the latest. The Committee shall adopt the budget by 30 November. The administrators shall notify the Member States and contributing third parties of the budget once it is adopted.
+
+#### Article 19 — Amending budgets
+
+1\. The administrator for operations or the administrator for assistance measures shall propose an amending budget to the Committee in the following cases:
+
+(a) a new operation or assistance measure has been decided by the Council and therefore a new title must be created for it in the budget;
+
+(b) the budget outturn for a financial year for which the accounts have been approved in accordance with Article 43(6) needs to be entered in the budget of the following financial year:
+
+(c) due to unavoidable, exceptional or unforeseen circumstances, the appropriations entered in the titles for operations or in the titles for assistance measures do not correspond to the needs of the corresponding operation or assistance measure.
+
+2\. The draft amending budget resulting from the establishment or the extension of an operation or assistance measure shall be submitted to the Committee within a period of four months after the approval by the Council of the reference amount, unless the Committee decides on a longer deadline.
+
+3\. Any amending budget proposed by an administrator shall offset as much as possible any increase in appropriations by reductions in other titles for which that administrator is responsible.
+
+4\. The draft amending budget shall be drawn up, proposed, approved and adopted and notification given in accordance with the same procedure as the annual budget. The Committee shall discuss and adopt the amending budget taking account of its urgency.
+
+#### Article 20 — Transfers of appropriations
+
+1\. Each administrator may make transfers of appropriations within titles of the budget for which he or she is responsible. The administrator for operations shall act on the basis of a proposal by the operation commander concerned, except for the titles for which he or she is the authorising officer. The administrator in question shall inform the Committee of his or her intention, in so far as the urgency of the situation permits, at least one week in advance.
+
+2\. However, and subject to Article 51(5), the prior approval of the Committee shall be required where the planned transfer between chapters exceeds 20 % in titles related to operations and assistance measures, of the appropriations entered in the chapter from which the appropriations are being drawn, as appearing in the adopted budget for the financial year on the date when the proposal for the transfer in question is made. This requirement shall not apply for transfers within a title for an assistance measure taking the form of a general programme.
+
+3\. The prior approval of the Committee shall be required for transfers of appropriations between titles within the part of the budget for operations or assistance measures respectively. Transfers of appropriations between titles shall be possible only if the same Member States contribute to the title of origin and to the title of destination. In cases where the implementation of part of an assistance measure is carried out by an operation as provided in Article 60(1), the prior approval of the Committee shall not be required for the necessary transfer of appropriations between the title for the assistance measure and the title concerning the implementation of part of the assistance measure by the operation.
+
+4\. No transfer of appropriations may be made between a title for operations and a title for assistance measures.
+
+#### Article 21 — Carry-over of appropriations
+
+1\. Appropriations which have not been used by the end of the financial year for which they were entered and which have not been carried over to the following financial year shall be cancelled, unless otherwise provided in this Article.
+
+2\. The Committee may decide by 31 March every year, on proposals by each respective administrator, to carry over commitment appropriations which have not been committed by the end of the preceding financial year, and if necessary corresponding payment appropriations, in which case they may be committed and paid up to 31 December. If not committed or paid by this date, the Committee may decide to carry over those appropriations up until the end of the following year in duly justified cases and on an exceptional basis.
+
+3\. The administrators shall present their respective proposals to the Committee by 1 March every year.
+
+4\. However, appropriations may be carried over by a decision of the responsible administrator in the following cases:
+
+(a) payment appropriations, where they are necessary to cover existing commitments;
+
+(b) commitment appropriations in titles for assistance measures for which most of the preparatory stages of the commitment procedure, to be specified in the rules for implementation pursuant to Article 11(6), have been completed by 31 December of the preceding year. Such appropriations may then be committed up to 31 March;
+
+(c) commitment and payment appropriations which are necessary when a Council decision for a new assistance measure has been adopted in the final quarter of the preceding financial year.
+
+Each administrator shall inform the Committee of their carry-over decisions by 1 March every year.
+
+5\. The administrator for operations shall be assisted by each operation commander, when implementing this Article.
+
+#### Article 21a — Reuse of appropriations
+
+Subject to approval by the Committee, commitment appropriations corresponding to the amount of decommitments made as a result of total or partial non-implementation of an operation or assistance measure may be made available again to the benefit of budget titles for operations or assistance measures respectively.
+
+#### Article 22 — Split commitments
+
+Budgetary commitments extending over more than one financial year may be broken down over several years into annual instalments.
+
+#### Article 23 — Recovery of funds
+
+Any recovery shall be included as revenue in the same title from which it was generated. Where that title no longer exists, the recovery shall be included in the general part for which the respective administrator is responsible.
+
+#### Article 24 — Anticipated implementation
+
+Once the annual budget has been adopted, appropriations may be used to cover commitments and payments in so far as operationally necessary by way of anticipated implementation.
+
+#### Article 24a — Types of contribution
+
+In addition to the contributions payable by Member States contributing to an operation or assistance measure in accordance with Article 26(5), the Facility may receive the following:
+
+(a) ‘additional contributions’, meaning the additional amounts that are payable by a Member State that abstained from the adoption of an assistance measure and does not contribute to that measure, and that are redirected to other assistance measures, in accordance with Article 26(7), Article 27 and Article 73(10);
+
+(b) ‘advance contributions’, meaning contributions paid in advance by Member States on a voluntary basis, in addition to the payments made following a call for contributions, in accordance with Article 29(15);
+
+(c) ‘voluntary financial contributions’, meaning amounts that may be received in accordance with Article 30.
+
+### CHAPTER 4 — Contributions
+
+#### Article 25 — Early forecasting
+
+1\. The administrators, in coordination with the EEAS and taking into account the consolidated financial planning for the Facility, shall present by 31 May of the year n:
+
+(a) a forecast of the amounts and an indicative schedule for the calls for contributions for the year n;
+
+(b) a forecast for the ceiling for payments for the year n + 1 to take into account ongoing and future or expanding operations and assistance measures, including an indicative distribution between envisaged payments necessary for assistance measures which allow the supply of military equipment, or platforms, designed to deliver lethal force and assistance measures which do not allow such support;
+
+(c) an indicative estimate for the annual amount of the contributions for the year n + 2, n + 3 and n + 4 in line with estimated needs;
+
+2\. The Committee shall decide on the ceiling for payments for year n + 1 by 30 June of year n.
+
+3\. The administrators shall present to the Committee, by 15 October of the year n:
+
+(a) a forecast for the amounts and an indicative schedule for the calls for contributions for the year n + 1;
+
+(b) a revised indicative estimate based on the best available information for the annual amounts of contributions for the years n + 2, n + 3 and n + 4.
+
+#### Article 26 — Determination of contributions
+
+1\. Contributions payable over the course of a year for a given title of the budget shall be equal to the payment appropriations entered in that title, after deduction of the revenue entered in the same title.
+
+2\. The payment appropriations for each operation or assistance measure shall be covered by contributions from the contributing Member States to that operation or assistance measure.
+
+3\. The payment appropriations in the general part of the budget for support and preparatory expenditure on operations referred to in point (b) of Article 18(3) shall be covered by contributions from the Member States.
+
+4\. The payment appropriations in the general part of the budget for support and preparatory expenditure on assistance measures referred to in point (c) of Article 18(3) shall be covered by contributions from the Member States.
+
+5\. The breakdown of contributions between the contributing Member States shall be determined in accordance with the gross national product scale as referred to in Article 41(2) TEU and in accordance with Council Decision 2014/335/EU, Euratom ( 5 ), or any other Council Decision which may replace it.
+
+6\. The data for the calculation of contributions shall be those set out in the ‘GNI-based own resources’ column in the ‘Summary of financing of the general budget by type of own resource and by Member State’ table appended to the latest general budget adopted by the Union. The contribution of each Member State from which a contribution is due shall be proportional to the share of gross national income (GNI) of that Member State in the total GNI aggregate of the Member States from which a contribution is due.
+
+7\. Where, pursuant to Article 5(3), a Member State abstains from the adoption of an assistance measure and does not contribute to that measure, it shall contribute an additional amount to assistance measures other than those concerning the supply of military equipment, or platforms, designed to deliver lethal force. Such additional amount shall ensure that the overall contribution of that Member State to assistance measures will be in accordance with its share of GNI. An assistance measure may be financed from additional contributions for up to 50 % of its reference amount, unless the Council decides otherwise. An assistance measure shall not be financed exclusively by additional contributions. The contributions due by Member States for the measures receiving such additional contributions shall be reduced by the amount of those contributions.
+
+8\. Contributions from Member States in any given year shall not exceed their respective share of the payment ceiling specified in Article 25(2). This limit shall not apply to advance contributions as referred to in Article 29(15).
+
+#### Article 27 — Contributions following an abstention
+
+1\. A Member State which has indicated its intention to abstain from the adoption of an assistance measure as referred to in Article 5(3) may identify other assistance measures to which it will make an additional contribution. It may identify either existing measures or possible future measures for which a concept note has been presented or approved by the Council, or it may request other new measures for such purpose.
+
+2\. If the Member State referred to in paragraph 1 does not identify or request other assistance measures within six months, the High Representative or other Member States shall identify the measures to which such additional contributions will be made.
+
+3\. The High Representative, after assessing the needs of other assistance measures as referred to in paragraphs 1 and 2 of this Article, and taking due account of the Union’s strategic priorities and the objectives and principles set out in Article 56, shall present proposals as necessary to the Council for adoption.
+
+4\. The administrator for assistance measures shall keep a record of the additional contributions due by Member States which abstain from an assistance measure pursuant to Article 5(3).
+
+5\. The implementation of this Article shall respect the principles of needs-based programming and sound financial management of the Facility and preserve its effectiveness, consistent with the Treaties.
+
+#### Article 28 — Early financing
+
+1\. The Facility shall have a minimum deposit system to provide early financing for Union rapid response operations, urgent activities as referred to in Article 58 and, subject to the prior authorisation by the Committee, for individual assistance measures, where sufficient funds are not available and the ordinary procedure for collecting contributions would not allow for those needs to be met in good time. The minimum deposits shall be managed by each administrator respectively.
+
+2\. The amount of the minimum deposits shall be decided, and revised as necessary, by the Committee, following proposals by the administrator.
+
+3\. For the purpose of early financing of the minimum deposits, the Member States shall either:
+
+(a) pay contributions to the Facility in advance, with the amount of the contributions reflecting the respective share of GNI of that Member State in the total GNI aggregate of the Member States at the time when the advance contribution is paid to the Facility. That share shall be recalculated to its final value when the rapid response operation to which they contribute is launched, and when individual assistance measures are approved by the Council or the urgent activities referred to in Article 58 are approved by the PSC; or
+
+(b) pay their contributions within 15 days following dispatch of the call, at the level of the reference amount of the rapid response operation or of the authorised cost of the urgent activities or individual assistance measure when the Council decides to launch a rapid response operation to which they contribute, when the PSC approves urgent activities as referred to in Article 58, or when the Committee authorises its use for individual assistance measures pursuant to paragraph 1, and it is necessary to resort to the minimum deposit, unless the Council decides otherwise. In the case of delay, Article 31(1), shall apply.
+
+#### Article 29 — Collection of contributions
+
+1\. Contributions to the Facility shall be made in euro.
+
+2\. Each administrator shall send calls for contributions for the appropriations pertaining to his or her respective responsibilities by letter to the competent national administrations whose details have been communicated to him or her.
+
+3\. When the implementation of an assistance measure or part thereof is carried out by an operation, the administrator for operations shall send the call for contributions to the competent national administration. If the administrator for assistance measures has already issued the call for contributions for the assistance measure before the Council decided that the measure or part thereof will be implemented by an operation, he or she shall transfer to the administrator for operations the funds necessary for the implementation.
+
+4\. The calls for contributions shall be sent when:
+
+(a) a budget for a financial year is adopted by the Committee. The first call for contributions shall cover the payment needs for up to the first eight months, taking into account the needs of Member States. The subsequent calls for contributions shall cover the remaining balance of contributions, taking into account the balance of the previous year when the Committee has decided to enter such balance in the current budget. The calls for contributions shall take into account the indicative schedule for the call for contributions referred to in Article 25(3), point (a);
+
+(b) an amending budget is adopted as provided for in Article 19 and the planned calls for contributions for the year will not meet the payment needs in a timely manner;
+
+(c) contributions to the minimum deposits and their replenishment are needed as provided for in Article 28(3) and in paragraphs 9 and 10 of this Article.
+
+5\. The administrator for operations and the administrator for assistance measures shall call for contributions from the contributing Member States when the Council adopts a decision establishing an operation or an assistance measure, insofar as the funds available respectively for operations or for assistance measures are insufficient to finance the amount of payments which the Council authorised, based on the reference amount in such decision.
+
+6\. Any interest accrued on the contributions paid by Member States according to point (a) of Article 28(3) shall be taken into account for the calculation of their contributions in subsequent ordinary calls for contributions.
+
+7\. Any call for contributions shall show a breakdown of increases and reductions in contributions per title in the budget.
+
+8\. Without prejudice to other provisions of this Decision, the contributions shall be paid within 30 days following dispatch of the relevant call for contributions, with the exception of the first call for contributions for a new financial year’s budget, where the deadline for payment shall be 40 days following dispatch of the relevant call for contributions.
+
+9\. Any part used of the advance contributions to the minimum deposits shall be replenished by increasing the contribution of the relevant Member States in the next ordinary call for contributions, unless they have replenished their contribution beforehand. If there is a need to resort to the minimum deposit and the Member States concerned have not replenished their contribution meanwhile, they shall pay the amount needed, if any, within 10 days, pursuant to Article 28(3), point (b).
+
+10\. Any Member State contributing in advance to a minimum deposit may authorise the responsible administrator to use up to 75 % of such contribution to cover its contribution to an operation or assistance measure. In such case, the Member State concerned shall replenish the contribution paid in advance within 90 days following dispatch of a call from the responsible administrator.
+
+11\. Once the draft budget has been submitted to the Committee, each administrator may issue an anticipated call for contributions to appropriations pertaining to his or her responsibilities before the end of the current financial year to Member States with budgetary and financial procedures not allowing payment of their contribution within the established deadlines, as a payment on account on the contributions for the following financial year’s budget.
+
+12\. Each contributing Member State and third State shall pay the bank charges relating to the payment of its own contribution.
+
+13\. The administrators shall acknowledge receipt of the contributions which they called for.
+
+14\. Where reimbursements are due, and if they cannot be made entirely by a deduction from the contributions due to the Facility, they shall be repaid to the Member States concerned within 30 days.
+
+15\. In addition to the payments made following a call for contributions issued in accordance with this Article, a Member State, on a voluntary basis and in coordination with the responsible administrator, may pay advance contributions in a given financial year. In such case, the Member State that provided the advance contribution shall indicate in coordination with the responsible administrator the financial years, which could include the year in which the advance contribution was made, in respect of which that amount is to be deducted from its future contributions.
+
+#### Article 30 — Management by the Facility of voluntary financial contributions
+
+1\. In accordance with the relevant provisions of the legal framework governing an operation or assistance measure, and following acceptance by the Political and Security Committee (PSC), the Committee may authorise the administrative management of a voluntary financial contribution by a Member State or a third party to be entrusted to the Facility. Such voluntary financial contribution may be earmarked for a particular project in support of the operation or assistance measure.
+
+2\. The administrative costs relating to the management of the voluntary contribution shall be covered by the voluntary contribution itself, unless the Committee decides otherwise.
+
+3\. The respective administrator, upon approval by the Committee, shall conclude with the Member State or third party concerned the necessary administrative arrangements defining the purpose of the voluntary contribution, the costs to be covered by it and the management of the voluntary contribution.
+
+4\. Any voluntary contribution may only be used for the purpose for which it is provided to the Facility as set out in the administrative arrangement with the Member State or third party in question.
+
+5\. The respective administrator shall ensure that the management of voluntary contributions complies with the relevant administrative arrangements. He or she shall provide each contributor, directly or through the operation commander where applicable, with the relevant information relating to the management of the voluntary contribution as agreed in the applicable administrative arrangement.
+
+#### Article 31 — Interest on late payment
+
+1\. If a Member State or third party does not make a payment to the Facility by the due date, interest on late payment shall be charged at a rate equal to the European Central Bank’s main refinancing rate increased by 3,5 percentage points.
+
+2\. When a payment is late by no more than 30 days, no interest shall be charged. When payment is late by more than 30 days, interest shall be charged for the entire period of the delay.
+
+### CHAPTER 5 — Implementation
+
+#### Article 32 — Principles
+
+1\. The Facility’s appropriations shall be used in accordance with the principles of sound financial management, namely the principles of economy, efficiency and effectiveness.
+
+2\. Authorising officers shall be responsible for implementing the Facility’s revenue and expenditure in accordance with the principles of sound financial management and for ensuring compliance with the requirements of legality and regularity.
+
+To implement expenditure, the authorising officers shall:
+
+(a) make budgetary commitments and legal commitments, including by signing contracts on behalf of the Facility;
+
+(b) validate expenditure and authorise payments; and
+
+(c) undertake the preliminary steps for the implementation of appropriations.
+
+3\. An authorising officer may delegate his or her duties by a decision determining:
+
+(a) the staff members at an appropriate level receiving such delegation;
+
+(b) the extent of the conferred powers; and
+
+(c) the scope for delegatees to subdelegate their powers.
+
+4\. The implementation of appropriations according to the principle of the segregation of duties of the authorising officer and the accounting officer shall be ensured. The duties of authorising officer and accounting officer shall be mutually exclusive.
+
+#### Article 33 — Methods of implementation
+
+1\. The financing of the common costs of an operation shall be implemented on behalf of the Facility by the operation commander when he or she is in office, or otherwise by the administrator for operations, in their capacity as authorising officers.
+
+2\. An assistance measure may be implemented through direct or indirect management. When an assistance measure is implemented through direct management, Articles 35, 36 and 37, as appropriate, shall apply. When an assistance measure is implemented through indirect management, the implementing actors may be designated by the Council from one of the following categories:
+
+(a) Member States’ ministries or Government departments, or their other public law bodies and agencies, or bodies governed by private law with a public service mission to the extent that the latter are provided with adequate financial guarantees;
+
+(b) an international organisation, a regional organisation, or their bodies and agencies;
+
+(c) a third State or its public law bodies and agencies, provided that such third State does not contravene the security and defence interests of the Union and its Member States and that it respects international law and, where relevant, the principle of good neighbourly relations with Member States;
+
+(d) Union agencies and bodies having legal personality;
+
+(e) bodies or persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU and identified in the relevant basic act;
+
+(f) bodies established in a Member State, governed by the private law of a Member State or Union law and eligible to be entrusted, in accordance with sector-specific rules, with the implementation of Union funds or budgetary guarantees, to the extent that such bodies are controlled by bodies as set out in point (a) and are provided with adequate financial guarantees in the form of joint and several liability by the controlling bodies or equivalent financial guarantees and which may be, for each action, limited to the maximum amount of the Union support.
+
+3\. In exceptional circumstances, entities that do not fall under the categories listed above may be designated as implementing actors, following confirmation by the administrator in accordance with paragraph 5, provided that the assistance measure is implemented consistently with point (c) of paragraph 2.
+
+4\. Assistance measures may also be implemented wholly or partially by the beneficiary or the bodies which it has designated. In such case, the provisions concerning implementing actors in this Decision shall apply to such beneficiary or bodies as implementing actors.
+
+5\. Without prejudice to Articles 56(3) and 66(8), the administrator shall advise, at the stage of the preparation of an assistance measure, on the capacity of possible implementing actors to implement the assistance measure or parts thereof in accordance with Chapter 10 and, where relevant, on the capacity of a recipient of a grant awarded without a call for proposals to implement the grant. An implementing actor or grant recipient shall be designated by the Council following confirmation by the administrator that the implementing actor or grant recipient has such capacity. If such capacity cannot be confirmed, the administrator shall indicate to the Council any other possible ways of implementing the measure. Where appropriate, the administrator shall consider how specific limitations in the capacity of the possible implementing actors should be addressed, in accordance with Article 66(6).
+
+6\. Assistance measures may also be implemented in full or in part by an operation as decided by the Council in accordance with Article 60, in particular with a view to providing integrated assistance including military training, advice, the provision of material support and the monitoring of its use by the beneficiary.
+
+7\. A Member State, a Union institution, an international organisation, a regional organisation or another actor to which the implementation of expenditure of an operation financed under the Facility is entrusted shall apply the rules applicable to the implementation of its own expenditure. Similarly, an implementing actor for an assistance measure may apply the rules applicable to the implementation of its own expenditure subject to the assessment referred to in Article 66. In the event of substantive divergences between those rules, on the one hand, and the provisions of this Decision and the rules adopted by the Committee pursuant to Article 11(6), on the other, the latter two shall prevail. To that effect, the responsible administrator may take the necessary remedial measures to guarantee sufficient protection of the financial interests of the Facility.
+
+#### Article 34 — Bank accounts
+
+1\. Any bank account of the Facility shall be opened at a first-rate financial institution with its head office in a Member State and shall be a current or a short-term account in euro.
+
+2\. However, where the circumstances so warrant and after approval by the respective administrator, accounts may be opened at financial institutions with their head offices outside the Union and in currencies other than euro.
+
+3\. No bank account of the Facility may be overdrawn.
+
+4\. Member States’ contributions shall be paid into dedicated bank accounts. Those contributions shall be used to make:
+
+(a) the necessary advances to the operation commanders for the implementation of expenditure relating to the common costs of operations and to the cost of the assistance measures or any part thereof which are implemented by operations; and
+
+(b) the necessary payments to implementing actors and to suppliers necessary for assistance measures.
+
+5\. The contributions pursuant to nation-borne costs and to voluntary contributions shall be paid into dedicated bank accounts. They shall be used to implement the expenditure whose administration has been entrusted to the Facility.
+
+#### Article 35 — Procurement
+
+1\. Procurement to be financed or pre-financed under the Facility in order to obtain, against payment of a price, the supply of movable or immovable assets, through purchase, lease, rental or hire purchase, with or without an option to buy, as well as the provision of services or the execution of works, shall be through contracts concluded on behalf of the Facility, if implemented by the Facility directly or through an operation.
+
+2\. The procurement procedures shall be aimed at ensuring, through fair and open competition, the most efficient procurement meeting the requirements of operations or assistance measures.
+
+3\. The rules adopted by the Committee pursuant to Article 11(6) for the implementation of expenditure financed through the Facility shall include provisions establishing procedures for procurement in accordance with paragraphs 1 and 2 of this Article.
+
+#### Article 36 — Grants
+
+1\. Assistance measures may be implemented through grants awarded with or without a call for proposals.
+
+2\. The rules adopted by the Committee pursuant to Article 11(6) for the implementation of expenditure financed under the Facility shall include provisions for the award and implementation of grants, including in the duly justified cases when grants can be awarded without a call for proposals. These provisions shall ensure strict oversight by the administrator throughout the implementation of grants and take particular account of the controls applied by the administrator in cases of direct management.
+
+#### Article 37 — Administrative arrangements to facilitate future procurement or mutual support
+
+1\. The Facility may conclude administrative arrangements with Member States, Union institutions, bodies and agencies, as well as with third States, international organisations and regional organisations and their agencies in order to facilitate future procurement or the financial aspects of mutual support, or both, in the most cost-effective manner.
+
+2\. Administrative arrangements referred to in paragraph 1 shall be:
+
+(a) subject to prior consultation of the Committee if they are concluded with Member States, Union institutions, or bodies or agencies of a Member State or of the Union; or
+
+(b) submitted to the Committee for prior approval if they are concluded with third States, international organisations or regional organisations.
+
+3\. Administrative arrangements referred to in paragraph 1 shall be signed by the responsible administrator or, where appropriate, the respective operation commander, acting on behalf of the Facility and by the competent administrative authorities of the other parties referred to in paragraph 1.
+
+4\. Framework contracts may be concluded in order to facilitate procurement in the most cost-effective manner. Framework contracts shall be submitted for approval to the Committee before being signed by the responsible administrator. Member States and operation commanders may make use of framework contracts if they so wish. The conclusion of framework contracts by the Facility shall not oblige any Member State which is not party thereto to procure goods and services on the basis of those contracts.
+
+### CHAPTER 6 — Financial reports, accounts and audit
+
+#### Article 38 — Regular financial reports to the Committee
+
+1\. Every three months, each administrator, with the support of the responsible accounting officer and operation commanders, shall present to the Committee a report on the implementation of revenue and expenditure falling under his or her responsibility since the beginning of the financial year, a cash-flow report, a report on the correspondent minimum deposit and a report on additional contributions due by Member States based on the record referred to in Article 27(4).
+
+2\. Twice a year, the EEAS, in cooperation with both administrators, shall present to the Committee a report on the consumption of the overall ceiling referred to in Article 2(1) and of the corresponding annual ceiling.
+
+#### Article 39 — Accounts
+
+1\. Each accounting officer shall keep the accounts of contributions called for and transfers of funds made which fall under his or her responsibility. He or she shall also draw up the accounts for the expenditure and revenue implemented under the responsibility of the respective administrator.
+
+2\. The accounting officer for operations shall draw up the annual accounts for operations and for the assistance measures or any part thereof which are implemented by operations with the support of operation commanders. The accounting officer for assistance measures shall draw up the annual accounts for assistance measures with the support of implementing actors.
+
+#### Article 40 — General rules applicable to controls
+
+1\. The Facility, through its representatives or through control or audit bodies which it may designate, shall carry out on-the-spot checks in the operations and implementing actors, with a view to ensuring that the rules established by this Decision and by the decisions of the Committee are duly implemented and that the provisions in the contracts concluded with implementing actors are complied with.
+
+2\. The persons responsible for auditing the Facility’s revenue and expenditure shall, before carrying out their task, have received clearance for access to classified information up to at least ‘SECRET UE/EU SECRET’ level, or equivalent clearance from a Member State or NATO, as appropriate. Those persons shall ensure that they respect the confidentiality of the information and protect the data of which they become aware during their audit task, in accordance with the rules applicable to that information and data.
+
+3\. The persons responsible for auditing the Facility’s revenue and expenditure shall have full access to all relevant premises, information and data, without delay and without prior notice. This includes access to documents and to the contents of all data supports relating to that revenue and expenditure and to the premises where those documents and supports are kept. They may make copies thereof. The persons involved in implementing the Facility’s revenue and expenditure shall provide the administrators and the persons responsible for the audit of that revenue and expenditure with the necessary assistance for performing their task.
+
+4\. If irregularities are detected which entail a financial loss, the Facility shall take the necessary steps with the operation, implementing actor or supplier concerned to ensure the recovery or the restitution of the amounts concerned.
+
+#### Article 41 — Internal auditing of the Facility
+
+1\. On a proposal from the administrator for operations and after informing the Committee, the Secretary-General of the Council shall appoint an internal auditor, and at least one deputy internal auditor, for operations. On a proposal from the administrator for assistance measures and after informing the Committee, the High Representative shall appoint an internal auditor for assistance measures.
+
+2\. Internal auditors shall be appointed for a period of four years, renewable up to a total period not exceeding eight years. Internal auditors must possess the necessary professional qualifications and adhere to the internationally accepted internal auditing standards. The internal auditors may not be an authorising officer or an accounting officer, and they may not take part in the preparation of financial statements related to the Facility.
+
+3\. Each internal auditor shall carry out audit and consulting engagements as appropriate and shall advise the responsible administrator on risk management, by issuing independent opinions on the quality of management and control systems and by making recommendations to promote sound financial management based on the results of their audit work. The internal auditors shall be responsible in particular for assessing the suitability and effectiveness of internal management systems, as well as evaluating the performance of the relevant departments in implementing policies and reaching objectives by reference to associated risks. They shall also assess the efficiency and effectiveness of the internal control systems applicable to the Facility.
+
+4\. The internal auditor for operations shall report on the results of his or her audits to the responsible administrator. Operation commanders shall be informed by the responsible internal auditor of his or her findings and recommendations. The administrator for operations shall ensure that, for matters pertaining to his or her responsibilities, the necessary actions are taken to implement the recommendations resulting from the internal audits, including by issuing the necessary instructions to operation commanders.
+
+5\. The internal auditor for assistance measures shall report on the results of his or her audits to the administrator and/or to the EEAS on matters pertaining to their respective responsibilities. The administrator for assistance measures shall inform the implementing actors about the internal auditor’s findings and recommendations, as appropriate. The administrator and the EEAS shall ensure that, for matters pertaining to their respective responsibilities, the necessary actions are taken to implement the recommendations resulting from the internal audits.
+
+6\. The internal auditor shall submit a report each year to the Committee on the internal audit work done, indicating the number and type of internal audits carried out, observations and recommendations made, and the status of implementation of the recommendations issued in previous years. The Committee shall oversee the internal auditor’s work and the proper follow-up of internal audit recommendations by the relevant departments.
+
+7\. The proceedings and reports of the internal auditors shall be made available to the College of Auditors established pursuant to Article 42, together with all supporting documents relating thereto.
+
+#### Article 42 — External auditing of the Facility
+
+1\. A College of Auditors shall be established. The revenue and expenditure arising from the implementation of this Decision pursuant to Article 1(2), as well as the annual accounts of operations and assistance measures, shall be audited by the College of Auditors.
+
+2\. The Committee, upon a proposal from the College of Auditors, shall determine the number of auditors required and agree on the procedures to select, appoint and replace, as necessary, members of the College of Auditors for a period of up to four years, renewable once, from candidates proposed by the Member States. The Committee may extend a member’s mandate by up to six months. The candidates must be members of the highest national audit body of a Member State, or recommended by that body, and offer adequate guarantees of security and independence.
+
+3\. The Committee may appoint assistants to members of the College of Auditors on a request by the College of Auditors. The Committee, upon a proposal from the College of Auditors, shall agree on the procedures to select, appoint and replace, as necessary, the assistants. The assistants must offer adequate guarantees of security and independence. Upon request from the College of Auditors, the Committee may approve recourse by the College of Auditors to qualified external support for the external auditing of the Facility.
+
+4\. The College of Auditors shall check during the financial year as well as ex post, through on-the-spot controls and supporting documents, that expenditure financed or prefinanced through the Facility is implemented in compliance with this Decision and the rules adopted pursuant to Article 11(6), as well as relevant Union and national law. In carrying out those controls, the College of Auditors shall evaluate compliance with the principles of sound financial management, namely the principles of economy, efficiency and effectiveness, and whether internal controls are adequate, and shall oversee the administration and management of the Facility, including by conducting performance audits.
+
+5\. The members of the College of Auditors and their assistants shall continue to be paid by their audit body of origin; the Facility shall bear their mission expenses in accordance with rules to be adopted by the Committee, as well as the cost of qualified external support.
+
+6\. During their term in office, the members of the College of Auditors and their assistants shall:
+
+(a) neither request nor receive instructions other than from the Committee; within its audit mandate the College of Auditors and its members shall be completely independent and solely responsible for the conduct of their external audit;
+
+(b) report on their task only to the Committee.
+
+7\. Each year, the College of Auditors shall elect its Chair from amongst its members or extend the current Chair’s term of office. The College of Auditors shall adopt the rules applicable to audits carried out by its members in accordance with the highest international standards. It shall approve the audit reports drawn up by its members before their transmission to the administrators and to the Committee.
+
+8\. The administrators or persons appointed by either of the administrators may at any time carry out audits of the expenditure financed through the Facility. Furthermore, the Committee, on the basis of a proposal by either of the administrators or by a Member State, may at any time appoint additional external auditors on an ad hoc basis, whose tasks and conditions of service it shall determine.
+
+#### Article 43 — Presentation of annual accounts and budget outturn
+
+1\. Each accounting officer of the Facility, with the assistance of the responsible administrator, shall establish and provide to the College of Auditors, by 15 May following the end of the financial year, the draft annual accounts of the Facility for matters pertaining to his or her responsibilities. The accounting officer for operations shall use the accounts supplied by the operations commanders, including accounts of assistance measures or any part thereof which the operation has implemented. The accounting officer for assistance measures shall use the accounts supplied by implementing actors. By the same date, each accounting officer shall provide the Committee with the budget surplus of the financial year for each title in the budget for which he or she is responsible. Each administrator shall provide the Committee with an annual activity report for matters pertaining to his or her responsibilities.
+
+2\. The College of Auditors shall provide, on the basis of the audit work performed, including by the qualified external support referred to in Article 42(3), each accounting officer and each operation commander with its audit findings on their respective accounts by 15 July.
+
+3\. Each accounting officer, assisted by the responsible administrator, shall transmit the Facility’s final audited annual accounts for matters pertaining to his or her responsibilities to the Committee by 30 September.
+
+4\. The College of Auditors shall provide its audit report, including the audit opinion, to the Committee by 30 September following the end of the financial year. The Committee shall examine the audit report, the audit opinion and the annual accounts with a view to granting a discharge to each administrator and each operation commander. Subject to approval by the Committee on disclosure, the audit report, audit opinion and annual accounts shall be disclosed in full or in part, in accordance with the decision of the Committee. Each administrator and each operation commander shall report annually to the Committee on the implementation of recommendations issued by the College of Auditors concerning matters within their respective responsibilities.
+
+5\. Supporting documents for the Facility’s annual accounts shall be retained for a period of five years from the date on which the corresponding discharge was granted. When an operation is terminated, the operation commander shall ensure transmission of all supporting documentation, including on the implementation of any assistance measure or any part thereof which has been implemented by the operation, to the administrator for operations.
+
+6\. The Committee shall decide to enter the budget outturn for a financial year for which the accounts have been approved in the budget for the following financial year, as revenue or expenditure depending on the circumstances. However, the Committee may decide, before the accounts have been approved, to enter an estimate of the budget outturn, once it has received the audit opinion from the College of Auditors. The responsible administrator shall present the necessary amending budgets taking into account the carry-over of funds.
+
+7\. If reimbursement cannot be made entirely by deduction from the contributions due to the Facility, the balance of the budget outturn shall be repaid to the Member States concerned according to the GNI key of the year of reimbursement.
+
+## TITLE III — SPECIFIC RULES APPLICABLE TO OPERATIONS
+
+### CHAPTER 7 — Common costs and nation-borne costs
+
+#### Article 44 — Definition of common costs and periods for eligibility
+
+1\. The Facility shall bear the common costs listed in Annex III during the preparatory phase of an operation which runs from the approval of the crisis management concept until the appointment of the operation commander. In particular circumstances, after the PSC has been consulted, the Committee may extend the period during which those costs shall be borne by the Facility.
+
+2\. During the active phase of an operation, which runs from the date on which the operation commander is appointed to the day on which the operation headquarters ceases its activity, the Facility shall bear as common costs:
+
+(a) the common costs listed in Part A of Annex IV;
+
+(b) the common costs listed in Part B of Annex IV, if the Council so decides;
+
+(c) the common costs listed in Part C of Annex IV, where the operation commander so requests and if the Committee approves it.
+
+3\. The common costs of an operation shall also include the expenditure necessary to wind it up, as listed in Annex V.
+
+4\. A Union operation is wound up when the equipment and infrastructure commonly funded for that operation have found their final destination and the accounts for the operation have been approved.
+
+5\. Common costs shall be limited to incremental costs, namely costs other than those which would in any case have been borne by one or more contributing Member States or third States, a Union institution or an international organisation, independently of the organisation of a Union operation.
+
+6\. The Council may determine in decisions establishing or extending operations that certain incremental costs, in addition to those qualifying as common costs at that time, shall be regarded as common costs for a given operation.
+
+7\. In addition to its power under point (c) of paragraph 2, the Committee may decide on a case-by-case basis that, in view of particular circumstances, certain incremental costs other than those listed in Annexes II to V shall be regarded as common costs for a given operation.
+
+#### Article 45 — Exercises
+
+1\. The common costs of the Union’s exercises shall be financed through the Facility following the rules and procedures similar to those for operations to which all Member States contribute, and up to an amount to be decided by the Committee for each type of exercise, in particular for the EU Rapid Deployment Capacity (EU RDC), taking into account the agreed EU Programme of Exercises and Exercise-Related Activities under the CFSP. This amount may be exceeded on a case-by-case basis, if allowed by the Committee when approving the budget of an exercise.
+
+2\. Subject to paragraph 3, these exercise common costs shall be the costs included in Annex IV applicable to the type of operation simulated in the exercise.
+
+3\. For the following expenditure, exercise common costs referred to in paragraph 2 shall cover:
+
+(a) minor and temporary works for deployment/temporary infrastructure: expenditure absolutely needed for the temporary headquarters and forces participating in the exercise to achieve its objective, if approved by the Committee;
+
+(b) the planning and preparatory phase of exercises, including essential training necessary for the exercise, in particular training for operators of the EU Deployable Packages and for financial experts designated to participate in the exercise;
+
+(c) transport for deployment and redeployment to and from the theatre of operations for EU RDC exercises (including EU Battlegroups, strategic enablers and modules), under the conditions set out in Annex IV, Part A, paragraph 3 related to EU RDC operations up to an amount in line with the most cost-effective option, according to the decision of the Committee. The decision by the Committee shall be made taking into account the applicable strategic orientation discussion in the PSC, focusing on operational and financial aspects, and in time to be duly considered in the force generation process of the exercise.
+
+4\. The Committee may decide on a case-by-case basis that, in view of particular circumstances, certain incremental costs other than those referred to in this Article shall be regarded as common costs for a given exercise, in particular for the EU RDC.
+
+#### Article 46 — Reference amount for an operation
+
+Any Council decision establishing or extending an operation shall contain a reference amount for the common costs of that operation. The administrator for operations shall evaluate, with the support in particular of the EU Military Staff and, if he or she is in office, the operation commander, the amount deemed necessary to cover the common costs of the operation for the planned period. The administrator for operations shall transmit the proposed amount to the Presidency of the Council for examination by the Council preparatory body responsible for examining the draft decision. The members of the Committee shall be invited to the discussions of this body concerning the reference amount.
+
+#### Article 47 — Reimbursement of pre-financing
+
+1\. A Member State, a third State or, as appropriate, an international organisation which has been authorised by the Council to pre-finance a part of the common costs of an operation may obtain reimbursement from the Facility by making a request accompanied by the necessary supporting documents and addressed to the administrator for operations at the latest two months after the date of completion of the operation concerned.
+
+2\. No request for reimbursement may be satisfied if it has not been approved by the operation commander, if still in office, and by the administrator for operations.
+
+3\. If a request for reimbursement presented by a contributing Member State or third State is approved, it may be deducted from the next call for contributions addressed to that State by the administrator for operations.
+
+4\. If no call for contributions is anticipated when the request is approved, or if the approved request for reimbursement would exceed the anticipated contribution, the administrator for operations shall make payment of the amount to be reimbursed within 30 days, taking account of the Facility’s cash flow and of what is needed to finance the common costs of the operation concerned.
+
+5\. Reimbursement shall be due in accordance with this Decision even if a planned operation is cancelled.
+
+6\. Reimbursement shall include interest earned on the amount made available through pre-financing.
+
+#### Article 48 — Management by the Facility of expenditure not included in common costs (nation-borne costs)
+
+1\. The Committee, on the basis of a proposal by the administrator for operations with the assistance of the operation commander, or by a Member State, may decide that the administrative management of certain expenditure in relation to an operation (‘nation-borne costs’), while remaining the responsibility of the Member State which it concerns, shall be entrusted to the Facility.
+
+2\. The Committee, in its decision, may authorise the operation commander to enter into contracts on behalf of the Member States contributing personnel or assets to an operation and, where appropriate, third parties, for the acquisition of the services and supplies to be financed as nation-borne costs.
+
+3\. The Committee, in its decision, shall lay down the arrangements for the management of nation-borne costs, including for their pre-financing and where appropriate the duration of the authorisation, to the operation commander.
+
+4\. The Facility shall keep accounts of the nation-borne costs entrusted to it and incurred by each Member State and, where appropriate, third parties. Each month the administrator for operations shall send each Member State and, where appropriate, those third parties, a statement of the expenditure incurred by them or by their staff during the preceding month, and shall call for the necessary funds to pay for this expenditure. The Member States and, where appropriate, those third parties, shall pay the funds required to the Facility within 30 days following dispatch of the call for funds.
+
+#### Article 49 — Management by the Facility of pre-financing and expenditure not included in common costs to facilitate the initial deployment of the forces to an operation
+
+1\. The Committee, if particular operational circumstances so require, on the basis of a proposal by the administrator for operations with the assistance of the operation commander, or by a Member State, may decide that the pre-financing and administrative management of certain expenditure in relation to an operation, while remaining the responsibility of the Member State which it concerns, shall be entrusted to the Facility in order to facilitate the initial deployment of the forces to an operation, before it has been confirmed which Member States will contribute personnel or assets to the operation.
+
+2\. The management of these costs shall be carried out within existing means and resources and the initial outlay capped at 20 % of the reference amount. In this case the Committee shall outline in its decision the arrangements for pre-financing and reimbursement of the pre-financed amounts by the Member States and third parties which will contribute personnel or assets to the operation.
+
+#### Article 50 — Common costs incurred in preparation for, or further to, operations, or not linked directly to a specific operation
+
+The administrator for operations shall perform the duties of authorising officer for expenditure covering the common costs incurred during the preparatory phase and after the end of the active phase of operations, as well as common costs which cannot be linked directly to a specific operation.
+
+#### Article 51 — Common costs during the active phase of an operation
+
+1\. The operation commander shall carry out the duties of authorising officer for expenditure covering the common costs incurred during the active phase of the operation which he or she commands.
+
+2\. By way of derogation from Article 17(6), the adoption by the Council of a reference amount shall entitle the administrator for operations and the operation commander, each in his or her area of competence, to commit and pay expenses for the operation concerned up to the level of 30 % of the reference amount, unless the Council decides on a different percentage.
+
+3\. The Committee, on the basis of a proposal from the administrator for operations or the operation commander and taking into account the operational necessity and urgency, may decide that additional expenditure may be committed and, as appropriate, paid. This exception shall no longer apply after the adoption of the budget for the operation concerned.
+
+4\. During the period prior to the adoption of a budget for an operation, the Committee, on the basis of a proposal by the administrator for operations, the operation commander or a Member State, may issue directives on the implementation of expenditure during that period.
+
+5\. During the three months following the launch of the operation, and if the operation commander deems it necessary for the proper conduct of an operation, he or she may make transfers of appropriations between articles and between chapters in the title dedicated to the operation. He or she shall inform the administrator for operations and the Committee thereof.
+
+6\. By way of derogation from Article 17(6), in the case of imminent danger to the lives of personnel involved in a Union operation, the operation commander for that operation may implement the necessary expenditure to save the lives of those personnel, in excess of the appropriations entered in the budget. He or she shall inform the administrator for operations and the Committee as soon as possible. In such a case, the administrator for operations, liaising with the operation commander, shall propose the transfers needed to finance such unexpected expenditure. If it is not possible to ensure sufficient funding for such expenditure by means of a transfer, the administrator for operations shall propose an amending budget.
+
+### CHAPTER 8 — Management of funds and assets
+
+#### Article 52 — Final destination of equipment and infrastructure financed in common
+
+1\. A depreciation rate for equipment and other assets for all operations shall be approved by the Committee upon a proposal by the administrator for operations. If operational circumstances so require, and upon approval by the Committee, the operation commander may apply a different depreciation rate.
+
+2\. With a view to winding up an operation, the operation commander shall propose to the Committee a final destination for the equipment and infrastructure financed in common for that operation.
+
+3\. The administrator for operations shall manage the equipment and infrastructure remaining after the end of the active phase of the operation, with a view if necessary to finding a final destination for it.
+
+4\. The final destination of equipment and infrastructure financed in common shall be approved by the Committee, taking into account operational needs and financial criteria. The final destination may be, in particular, as follows:
+
+(a) infrastructure may be sold, transferred or donated through the Facility to the host country, a Member State, other operations, Union institutions, bodies, offices or agencies, or a third party;
+
+(b) equipment may be sold, transferred or donated through the Facility to a Member State, another operation, Union institutions, bodies, offices or agencies, the host country, a third country, or a third party, or be stored and maintained by the Facility, a Member State or such a third party, for use in a subsequent operation.
+
+5\. When sold, equipment and infrastructure shall be sold for their market value, or, where no market value can be determined, for a fair and reasonable price taking into account specific local conditions.
+
+6\. Sale or transfer to the host country or a third party shall be in accordance with the relevant security rules in force.
+
+7\. When it is decided that the Facility is to retain equipment financed in common for an operation, the contributing Member States may ask for financial compensation from the other Member States. The Committee shall take the appropriate decisions on the basis of a proposal from the administrator for operations.
+
+#### Article 53 — Joint signature of payments
+
+Any payment from funds administered by the Facility for operations, or for assistance measures or any part thereof which are implemented by operations, shall require the joint signature of an authorising officer and of either the accounting officer for operations or an accounting officer in an operation.
+
+#### Article 54 — Accounting
+
+1\. Each operation commander shall keep accounts of transfers of funds received from the Facility, of expenditure which he or she has committed and of payments made and of revenue received, as well as an inventory of the movable property financed by the Facility’s budget and used for the operation which he or she commands.
+
+2\. Each operation commander shall regularly provide the accounting officer for operations with the accounts and inventory referred to in paragraph 1. In particular, each operation commander shall provide the accounting officer for operations by 31 March following the end of the financial year, or within four months following the end of the operation which he or she commands, whichever is the earlier, with the necessary information to establish the annual accounts for common costs, nation-borne costs and assistance measures or any part thereof which were implemented by the operation, as well as the activity report.
+
+3\. Detailed rules on the establishment and provision of the accounts and inventories of operations shall be set out in the Committee decision establishing rules for the implementation of expenditure financed through the Facility pursuant to Article 11(6) and in the accounting guidelines and rules established by the accounting officer for operations.
+
+#### Article 55 — Auditing
+
+Each operation commander shall give the administrator for operations and auditors acting for the Facility full access to the operation which he or she commands, including premises, information and data.
+
+## TITLE IV — SPECIFIC RULES APPLICABLE TO ASSISTANCE MEASURES
+
+### CHAPTER 9 — Objectives, principles and procedures for the adoption of assistance measures
+
+#### Article 56 — Objectives and principles
+
+1\. The main objectives of assistance measures shall be:
+
+(a) to strengthen the capacities relating to military and defence matters and resilience of third States and of regional and international organisations;
+
+(b) to contribute rapidly and effectively to the military response of third States and of regional and international organisations in a crisis situation;
+
+(c) to contribute effectively and efficiently to conflict prevention, stabilisation and peace consolidation, including in the context of operations with tasks of training, advice and mentoring in the security sector, as well as in other pre-conflict or post-conflict situations;
+
+(d) to support cooperation in the area of security and defence between the Union and a third State or a regional or international organisation.
+
+2\. Assistance measures shall be underpinned by the following principles:
+
+(a) they must be consistent with the policies and objectives of the Union’s external action aiming at building peace, preventing conflicts and strengthening international security;
+
+(b) they must comply with Union law and with Union policies and strategies, in particular the EU Strategic Framework to support Security Sector Reform and the Integrated Approach to external conflicts and crises, the EU Strategic Approach to Women, Peace and Security as well as with relevant United Nations Security Council resolutions;
+
+(c) they must respect the obligations of the Union and its Member States under international law, in particular international human rights law and humanitarian law;
+
+(d) they must not prejudice the specific character of the security and defence policy of a Member State and must not contravene the security and defence interests of the Union and its Member States. To this end, the transparency and traceability of the support provided by the Facility shall be ensured.
+
+3\. Any assistance measures involving the export or transfer of items on the Common Military List of the Union shall respect the principles laid down in Common Position 2008/944/CFSP and shall be without prejudice to the procedure to be followed by Member States regarding such export or transfer in accordance with that Common Position, including in terms of assessment. Furthermore, such assistance measures shall not affect the discretion of Member States regarding policy on the transfer within the Union, and the export of, military equipment.
+
+4\. Proposals for assistance measures shall be accompanied by an assessment from the High Representative, including a conflict sensitivity and context analysis, and a risk and impact assessment, and include appropriate safeguards, controls, mitigating and flanking elements and arrangements for monitoring and evaluation, pursuant to Article 9(3) and the principles referred to in paragraph 2 of this Article. With a view to ensuring the necessary effectiveness and coherence, such analysis and assessment should build where applicable upon the experience acquired by the Union actors in the field. The regular reports referred to in Article 63 by the High Representative to the PSC on the implementation of assistance measures shall also cover the matters referred to in this paragraph.
+
+#### Article 57 — Preparatory phase
+
+1\. The High Representative or a Member State may submit to the Council a concept note outlining a possible assistance measure, which shall include its scope, duration, type of actions and potential implementing actors, and be accompanied by a preliminary analysis of the conflict sensitivity, context and risks together with initial considerations for an impact assessment, as well as safeguards and mitigating measures, to be further developed in the proposal as referred to in Article 59.
+
+2\. The concept note shall be submitted to the PSC for approval. When approving a concept note, the PSC may authorise measures to be funded under the Facility for the preparation of the possible assistance measure.
+
+3\. The concept note shall include an initial estimated cost of the measure. A Member State that intends to abstain from the adoption of a measure for the supply of military equipment, or platforms, designed to deliver lethal force, as referred to in Article 5(3), and to make a formal declaration in accordance with the second subparagraph of Article 31(1) TEU shall indicate that intention by a written communication to the Council in good time before the adoption of the measure. The Member State concerned may also indicate other assistance measures to which it wishes to contribute instead.
+
+4\. In accordance with Article 3(2) of Decision 2010/427/EU, the EEAS shall consult the relevant Commission services when preparing concept notes and subsequent proposals of the High Representative for assistance measures in order to ensure the necessary consistency of the Union’s policies in accordance with Article 8.
+
+5\. In principle, the Council shall not discuss proposals for assistance measures until at least 10 days after their submission. Discussions shall include military analysis, as appropriate.
+
+#### Article 58 — Expedited process for the start of an assistance measure
+
+1\. Where the urgency of the situation so requires, pending a decision on an assistance measure, the PSC may approve the start of activities to be funded under the Facility, taking into account the risk and safeguards methodology established pursuant to Article 9(3). Such urgent activities, their estimated cost and the relevant implementing actor, as appropriate, may be identified in the concept note outlining a possible assistance measure or in the proposal for establishing an assistance measure pursuant to Article 57 and Article 59(1) respectively.
+
+2\. Urgent activities shall not include any provision of equipment referred to in Article 5(3).
+
+3\. By way of derogation from Article 17(6), the approval by the PSC of urgent activities shall entitle the administrator for assistance measures to commit and pay expenses for such activities up to the cost authorised.
+
+#### Article 59 — Assistance measures
+
+1\. Decisions establishing assistance measures shall be adopted by the Council on a proposal or an initiative as referred to in Article 6, following a request from a prospective beneficiary.
+
+2\. Each Council decision establishing an assistance measure shall specify its beneficiary, its objectives, its scope, its duration, the nature of the assistance to be provided, and a financial reference amount to cover the estimated costs of its implementation. It shall designate, where applicable, the implementing actors or the recipients of any grants awarded without a call for proposals pursuant to Article 36. It shall set out the controls and guarantees required from the beneficiary or, where applicable, the implementing actors, as well as the necessary provisions on monitoring and evaluation, in accordance with the risk and safeguards methodology established pursuant to Article 9(3). It shall also include provisions on suspension and termination of the measure, in accordance with Article 64.
+
+3\. Assistance measures shall take the form of a specific measure or a general programme for support with a given geographical or thematic focus. A Council decision establishing a general programme shall specify the scope of actions eligible under that programme. Assistance measures may be multi-annual.
+
+4\. The resources under assistance measures may include allocations necessary for their follow-up, monitoring, evaluation, audit, communication and visibility.
+
+5\. Assistance measures for the supply of military equipment, or platforms, designed to deliver lethal force, as referred to in Article 5(3), shall not include other items or forms of support. No assistance measure shall be used for the supply of any items which would be inconsistent with Union law or with the international obligations of the Union or of all the Member States.
+
+6\. Assistance measures taking the form of a general programme shall not include the provision of equipment or platforms referred to in Article 5(3).
+
+7\. Support for any action under a general programme shall follow a request from the beneficiary, and shall require the prior examination and approval of the PSC in accordance with the conditions laid down in the Council decision establishing the general programme.
+
+#### Article 60 — Implementation of an assistance measure by an operation
+
+1\. The Council may decide that a specific assistance measure shall be fully or partially implemented by an operation, in compliance with the requirements set out in Article 59(2). In the case of a partial implementation, such decision shall indicate the specific actions to be implemented by the operation and the related financial amount.
+
+2\. Where the Council takes a decision as referred to in paragraph 1, it shall decide on the necessary amendments to the mandate of the operation concerned.
+
+#### Article 61 — Contracts with implementing actors
+
+1\. The administrator for assistance measures shall ensure that the necessary assessments on the capacity referred to in Article 66, in particular as regards financial management of implementing actors, are carried out. These assessments relate to the implementation of expenditure financed under the Facility in accordance with Article 67 and to the management of assets financed under the Facility in accordance with Article 68.
+
+2\. The administrator for assistance measures shall require implementing actors to provide the necessary documents including implementation reports, accounts, management declarations and summaries of audit reports.
+
+3\. The administrator for assistance measures shall inform the Committee of the result of the assessments referred to in paragraph 1 and of the contracts to be concluded with the implementing actors. Any member of the Committee may request further information on such assessments and contracts.
+
+4\. The administrator for assistance measures, acting on behalf of the Facility, shall conclude the contracts with implementing actors.
+
+#### Article 62 — Arrangements with beneficiaries
+
+1\. The High Representative shall make the necessary arrangements with the beneficiary to ensure compliance with the requirements and conditions established by the Council in relation to assistance measures, in accordance with Articles 56 and 59, including where applicable on the management and use of assets financed under the Facility, and the necessary controls on assets.
+
+2\. Arrangements made in accordance with paragraph 1 shall include provisions, in accordance with the terms of the assistance measure or any relevant decision by the Council or by the Committee, including on safeguards, to ensure:
+
+(a) proper and efficient use of assets for the purposes for which they were provided;
+
+(b) sufficient maintenance of the assets to ensure their usability and their operational availability over the life-cycle of the assets;
+
+(c) that the assets will not be lost, or transferred without the prior agreement of the High Representative to persons or entities other than those identified in the arrangements. The High Representative shall obtain the prior consent of the PSC for the transfer of items on the Common Military List of the Union and in the case of the re-export of items delivered under an assistance measure. For the transfer of other items delivered under an assistance measure, the High Representative shall obtain the prior consent of the Committee;
+
+(d) compliance with any other requirements established by the Council;
+
+(e) that the beneficiary grants the High Representative, and those persons indicated by him or her, including the Facility’s auditors, access and necessary assistance to conduct on-site controls and audits upon request.
+
+3\. The High Representative shall inform the Council of arrangements referred to in paragraph 1 in a timely manner.
+
+4\. Arrangements referred to in paragraph 1 are without prejudice to any further conditions which may be imposed by a Member State when delivering an export licence in accordance with Common Position 2008/944/CFSP.
+
+5\. In the case of assistance measures taking the form of a general programme, the administrator for assistance measures may conclude a financing agreement with the beneficiary based on such programme. The administrator for assistance measures shall inform the Committee of such agreements to be concluded. Any member of the Committee may request further information on such agreements.
+
+#### Article 63 — Reporting and follow-up
+
+The High Representative shall provide the PSC with a report on the implementation of assistance measures twice a year or when the PSC so requests. Those reports shall cover the political, operational and financial aspects of the assistance measure. They shall include the main equipment delivered, an evaluation of its impact and the management and use of assets, as well as updates on the conflict sensitivity and context analysis and the risk and impact assessment. The EEAS and the administrators shall periodically present more detailed information on the implementation of assistance measures, including, inter alia, on the activities performed related to arrangements for monitoring and evaluation, controls and safeguards, in the Committee and relevant Council bodies. The presentations shall aim at covering developments in the implementation of the assistance measures on a yearly basis.
+
+#### Article 64 — Suspension and termination of assistance measures
+
+1\. Each Council decision for an assistance measure shall include the following provisions on suspension and termination of the measure, without prejudice to the competences of authorities of Member States concerning the suspension of export licences where such a licence is required:
+
+(a) the PSC may decide to suspend wholly or partially the implementation of an assistance measure at the request of a Member State or the High Representative in the following cases:
+
+(i) if the beneficiary is in breach of its obligations under international law, in particular human rights and international humanitarian law, or if it does not fulfil the commitments made under the arrangements referred to in Article 62;
+
+(ii) if the contract with an implementing actor has been suspended or terminated following a breach of its obligations under the contract;
+
+(iii) if the situation in the country or area of concern no longer allows for the measure to be implemented whilst ensuring sufficient guarantees;
+
+(iv) if the pursuit of the measure no longer serves its objectives or is no longer in the interest of the Union;
+
+(b) in urgent and exceptional cases the High Representative may provisionally suspend wholly or partially the implementation of an assistance measure pending a decision by the PSC.
+
+2\. The PSC may recommend to the Council the termination of an assistance measure.
+
+#### Article 65 — Suspension and termination of contracts with implementing actors
+
+The administrator may suspend or terminate a contract concluded in accordance with Article 61 if the implementing actor is in breach of its contractual obligations. The administrator shall inform the Committee immediately following the suspension of a contract. The administrator shall inform the Committee in good time before terminating a contract. Pending termination, any member of the Committee may request further information and a discussion in the Committee on possible implications of the termination for the assistance measure concerned.
+
+### CHAPTER 10 — Controls on expenditure and assets financed under the Facility and entrusted to implementing actors
+
+#### Article 66 — Assessment of the capacity of implementing actors to implement expenditure financed under the Facility
+
+1\. Where the implementation of expenditure is entrusted to implementing actors, the administrator shall verify that they offer a level of protection of the financial interests of the Facility equivalent to that afforded when the Facility implements its expenditure directly.
+
+2\. For that purpose, prior to signing the contracts as referred to in Article 61, the administrator shall carry out an assessment to ensure that the systems, rules and procedures of the implementing actors give a reasonable assurance that they will meet the conditions set out in those contracts in accordance with Articles 67 and 68.
+
+3\. The assessment referred to in paragraph 2 shall be made in a proportionate way and with due consideration for the financial risks involved.
+
+4\. Implementing actors which have been assessed by the administrator in accordance with paragraph 2 shall inform the administrator without delay if any substantive changes are made to their rules, systems or procedures.
+
+5\. If an implementing actor has received a positive assessment pursuant to paragraph 2, it may apply the rules applicable to the implementation of its own expenditure.
+
+6\. Where implementing actors comply only in part with the requirements of the assessment referred to in paragraph 2 of this Article, the administrator shall take appropriate remedial measures ensuring the protection of the interests of the Facility. These measures shall be specified in the relevant contracts under Article 61.
+
+7\. The Facility may rely in full or in part on assessments made by the Commission or by other entities where applicable, insofar as the administrator considers that these assessments meet the requirements set out in the implementing rules adopted by the Committee pursuant to Article 11(6). To this end, the Facility shall promote the recognition of internationally accepted standards or international best practices.
+
+8\. When acting as implementing actors, the administrator shall not carry out an assessment of the following entities referred to in Article 33(2):
+
+(a) ministries or Government departments of Member States where they are designated as implementing actors;
+
+(b) Union agencies and bodies;
+
+(c) bodies or persons entrusted with the implementation of specific actions in the CFSP pursuant to Title V of the TEU and identified in the relevant basic act.
+
+The administrator may decide not to carry out an assessment of:
+
+(a) other public law bodies and agencies of Member States;
+
+(b) third States or the public law bodies and agencies which they have designated.
+
+9\. Where in accordance with paragraph 8 no assessment is carried out, the administrator shall take all necessary measures to ensure the sound financial management of the Facility including sufficient protection of its financial interests. The administrator may apply appropriate controls on implementing actors and ensure that financial and accounting rules and procedures equivalent to those of the Facility are followed.
+
+10\. The administrator shall inform the Committee of the results of the assessment with a view to it considering possible further steps to be taken. If the capacity to implement expenditure under the Facility cannot be confirmed, the administrator shall indicate any other possible ways of implementing the measure. Where appropriate, the administrator shall consider how specific limitations in the capacity of the possible implementing actors are to be addressed, in accordance with paragraph 6.
+
+#### Article 67 — Standard provisions in contracts with implementing actors
+
+1\. The contracts concluded with implementing actors in accordance with Article 61 for the implementation of expenditure financed under the Facility shall respect the objectives and principles set out in Article 56(1) and (2) and the requirements in Article 59. Such contracts shall include detailed arrangements ensuring the protection of the Facility’s interests, namely that implementation is directed at operational efficiency in meeting the objectives of the assistance measure and compliance with the principles of sound financial management, namely the principles of economy, efficiency and effectiveness. The administrator for assistance measures shall require that implementing actors ensure, where applicable, that sub-contractors comply with these objectives and principles as well as those mentioned in point (c) of Article 33(2).
+
+2\. In addition, contracts concluded with implementing actors shall include in particular provisions to ensure that:
+
+(a) assets financed with funds provided by the Facility, if any, are procured in accordance with applicable Union law on public procurement, or with rules deemed equivalent to those adopted by the Committee pursuant to Article 11(6) for direct procurement by the Facility;
+
+(b) an accounting system providing accurate, complete and reliable information in a timely manner is used;
+
+(c) an effective and efficient internal control system, as well as policies and measures, based on international best practices, enables in particular the legality and regularity of the expenditure financed under the Facility to be ensured, and for irregularities, corruption and fraud to be prevented, detected and corrected;
+
+(d) independent external audits are performed, in accordance with internationally accepted auditing standards by an audit service functionally independent of the entity or persons implementing the assistance measure, on the legality and regularity of the expenditure financed under the Facility;
+
+(e) the Facility shall be provided with regular financial reports on how the assistance measures are implemented, and it shall be notified without delay of cases of detected fraud and irregularities concerning the Facility and of the preventive or corrective measures taken, including recovery or restitution of amounts wrongly paid;
+
+(f) any amount wrongly paid is recovered by the Facility;
+
+(g) the Facility shall be provided in a timely manner with the accounts of the expenditure financed under the Facility during the relevant reference period, with a management declaration that, in the opinion of those in charge of the management of the funds, the information is properly presented, complete and accurate, the expenditure was used for its intended purpose and the control systems in place give the necessary guarantees in that regard, and with an opinion of an independent audit body, drawn up in accordance with internationally accepted audit standards;
+
+(h) the Facility, the auditors which it designates and the College of Auditors are given the right and all necessary assistance by the implementing actor to carry out the necessary on-the-spot checks and to access without delay and without giving prior notice the documents and data relating to expenditure financed under the Facility, and to the premises where those documents and data are kept;
+
+(i) any arrangement, condition, limitation or mitigating provision in or in accordance with the Council decision establishing the assistance measure is complied with;
+
+(j) the implementing actor bears liability regarding its implementation of the contract;
+
+(k) obligations of the Facility under the contract will be suspended if the assistance measure is suspended in accordance with Article 64(1), and that those obligations will be terminated if the assistance measure is terminated by the Council.
+
+#### Article 68 — Additional provisions in contracts with implementing actors on the management of assets financed under the Facility and on sub-contracting
+
+1\. Where an implementing actor is entrusted with assets such as infrastructure, equipment or supplies financed under the Facility, or tasked with their procurement, the contracts to be concluded with the administrator on behalf of the Facility in accordance with Articles 61 and 68 shall define the conditions to ensure that such assets are managed:
+
+(a) with a view to achieving the objectives of the assistance measure in an efficient and timely manner;
+
+(b) in accordance with the arrangements set out in the assistance measure including any restriction or limitation on their use, sale or transfer and any other mitigating provisions;
+
+(c) with respect for the objectives and principles set out in Article 56(1), (2) and (3) and in accordance with Article 59.
+
+2\. The contracts referred to in paragraph 1 shall include in particular provisions to ensure that the assets are:
+
+(a) delivered effectively to the beneficiary in accordance with the assistance measure;
+
+(b) kept at all times under the control of the implementing actor until they are delivered to the beneficiary.
+
+3\. The contracts referred to in paragraph 1 shall include provisions that the implementing actors shall:
+
+(a) provide the Facility with regular reports on the implementation of the assistance measure entrusted to them, including where appropriate inventories of the assets financed from the Facility and information on suppliers and sub-contractors;
+
+(b) give the Facility or persons it designates the right and all necessary assistance to carry out the necessary on-the-spot checks.
+
+4\. Provisions on contracting by implementing actors shall be included in the implementing rules to be adopted by the Committee pursuant to Article 11(6) in order to ensure that the involvement of sub-contractors in the implementation of assistance measures will be consistent with this Decision, including the principles mentioned in Article 56(2) and point (c) of Article 33(2).
+
+## TITLE V — FINAL PROVISIONS
+
+### CHAPTER 11 — Miscellaneous provisions
+
+#### Article 69 — Security rules for protecting classified information
+
+The rules in Council Decision 2013/488/EU ( 6 ) or any other Council decision which may replace it shall apply in relation to classified information concerning the Facility.
+
+#### Article 70 — Protection of personal data
+
+The Facility shall protect individuals with regard to the processing of their personal data in accordance with the principles and procedures laid down in Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 7 ), without prejudice to Article 2(4) of that Regulation. To this effect, the Committee shall adopt the necessary implementing rules upon a proposal from the High Representative.
+
+#### Article 71 — Public access to documents
+
+The Committee, on a proposal from the High Representative, shall adopt rules as necessary on public access to documents held by the Facility, consistent with Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 8 ).
+
+#### Article 72 — Communication, information and visibility
+
+1\. The High Representative shall as necessary carry out information and communication activities relating to the Facility, its actions and results, in consultation with the Committee. These activities may be funded exceptionally by the Facility in cases where the Committee so decides.
+
+2\. The recipients of support under the Facility may be requested to acknowledge its origin and ensure the visibility of the Union, in particular when promoting the actions and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+
+#### Article 73 — Transitional measures
+
+1\. The High Representative, the Secretary-General of the Council and the Commission shall organise together as necessary a smooth transition from the Athena mechanism and from the African Peace Facility established by Council Regulation (EU) 2015/322 ( 9 ), respectively. The Committee shall be informed of such arrangements.
+
+2\. The amount of up to EUR 113 000 000 referred to in Council Decision (EU) 2020/1422 ( 10 ), or any part thereof, and which is contracted by, and including, 30 June 2021, shall not be available for actions funded under the Facility in 2021 or subsequently.
+
+3\. The financial rules applicable to expenditure financed through the Athena mechanism shall be applicable to the implementation of expenditure for operations financed by the Facility until the date when the rules to be adopted by the Committee pursuant to Article 11(6) become applicable.
+
+4\. The appointments made under Decision (CFSP) 2015/528 of the Athena mechanism’s administrator, accounting officer and internal auditor and their deputies, as well as of the external auditors of the Athena mechanism, shall apply to the equivalent positions under this Decision, until new appointments have been made.
+
+5\. The Athena Special Committee Act 12-0392 of 29 May 2012, including the description of incremental costs applicable to Union battlegroup deployments, shall apply for the purpose of implementing this Decision until that Act is replaced by a decision of the Committee or of the Council concerning the same matter.
+
+6\. Decisions of the Athena Special Committee, including those concerning specific eligibility for financing in common certain incremental costs according to Article 15(7) or Annex III Part C of Decision (CFSP) 2015/528 and those concerning derogations on procurement procedures according to Part II of the financial rules applicable to expenditure financed through the Athena mechanism, as well as those of the administrator of the Athena mechanism concerning such derogations, shall apply for the purpose of implementing this Decision until such decisions are replaced by decisions of the Committee or of the administrator for operations concerning the same matters.
+
+7\. As regards operations, the initial budget of the Facility for 2021 shall be the budget approved by the Athena Special Committee for 2021.
+
+8\. The Facility shall finance operations and assistance measures from 1 January 2021, unless the Council on a case-by-case basis decides on a different date.
+
+9\. The financial reference amount for the common costs of the EU Crisis Management Military Exercise 2023 (MILEX 23) shall be EUR 5 000 000 . In addition to the common costs eligible for exercises pursuant to Article 45, the following incremental costs incurred for providing support to the headquarters and forces participating in the exercise shall exceptionally be eligible for that exercise:
+
+(a) transport, as indicated in Annex IV for the EU Battlegroup, including for its strategic enablers, and within the simulated theatre of operations, temporary barracks and temporary lodging;
+
+(b) works for deployment/temporary infrastructure: expenditure absolutely needed for the headquarters and forces participating in the exercise to achieve its objective;
+
+(c) identification marking: specific identification marks, ‘European Union’ identity cards, badges, medals, flags in Union colours or other Force or headquarter identification marking (excluding clothes, hats or uniforms);
+
+(d) running costs: incremental costs for services absolutely needed for the direct support to the deployment at air and/or maritime entry points and logistical and assembly areas.
+
+10\. From 18 March 2024, an amount of EUR 5 000 000 000 in current prices shall be dedicated to the provision of additional support to Ukraine (the ‘dedicated amount’) under the annual ceilings established in Annex I.
+
+The Committee shall decide on the use of the dedicated amount pursuant to Article 2(3) no later than one month after 18 March 2024.
+
+Exceptionally, and without prejudice to Article 5(3), in cases where a Member State has abstained in a vote and made a formal declaration in accordance with the second subparagraph of Article 31(1) TEU regarding an assistance measure to be financed with the dedicated amount, that Member State shall not contribute to the costs of that assistance measure. In such a case, that Member State shall make an additional contribution to other assistance measures. For the purpose of applying Articles 26(7) and 27 to such contributions, a reference in those Articles to Article 5(3) shall be understood to be a reference to this subparagraph.
+
+11\. The Council shall decide on the Facility’s continuation in the next budgetary cycle, in accordance with Article 75(1) and in the context of broader budgetary negotiations regarding the post-2027 period.
+
+12\. In the absence of a decision under paragraph 11 of this Article by 15 October 2027, and subject to approval by the Committee in accordance with Article 18(8), appropriations may be entered into the annual budgets and amending budgets beyond 2027 to cover:
+
+(a) the expenditures of ongoing operations and of the general part of the annual budget referred to in Article 18(3), point (b);
+
+(b) the expenditures provided for in Article 18(3), point (c), to enable the management of assistance measures established before but not completed by 31 December 2027.
+
+The commitment appropriations entered into the annual budget beyond 2027 referred to in this paragraph shall not exceed the commitment appropriations approved by the Committee in the annual budget for 2027 under the corresponding titles.
+
+Without prejudice to the first subparagraph, point (b), and with the exception of the general part of the annual budget referred to in Article 18(3), point (c), and of appropriations carried over in accordance with Article 21, the authorising officer for assistance measures may make budgetary commitments only until 31 December 2027.
+
+### CHAPTER 12 — Repeal, review and entry into force
+
+#### Article 74 — Repeal of the Athena mechanism
+
+1\. Decision (CFSP) 2015/528 is hereby repealed. All references to Decision (CFSP) 2015/528 or any of its provisions, in Council acts and other measures concerning operations, shall be understood as referring to this Decision or to its equivalent provisions.
+
+However, the provisions of Decision (CFSP) 2015/528 shall continue to apply to the implementation of expenditure for operations committed up to the date of entry into force of this Decision and to the related accounting and inventory, auditing and presentation of accounts, and liability, until discharge has been granted to the administrator of the Athena mechanism and to the operation commanders for such expenditure.
+
+2\. The contracts, framework contracts and administrative arrangements entered into by the Athena mechanism shall be deemed to be concluded by the Facility, and the Facility shall assume the rights and obligations of the Athena mechanism thereunder. The ownership of assets and bank accounts belonging to the Athena mechanism shall be transferred to the Facility, and all claims and liabilities of the Athena mechanism shall be taken over by the Facility.
+
+#### Article 75 — Review
+
+1\. The Council shall review this Decision every three years following its entry into force or at the request of a Member State.
+
+2\. In the course of each review, all experts relevant to the proceedings, including in the Committee and the Facility management bodies, may be called upon to contribute to the discussions.
+
+#### Article 76 — Entry into force
+
+This Decision shall enter into force on the date of its adoption.
+
+## ANNEX I — ANNUAL FINANCIAL CEILINGS
+
+The annual appropriations shall be authorised within the limits of the following amounts, without prejudice to Article 17(3) and (3a) and subject to Article 73(2) and (10):
+
+Current prices, in million euros
+
+|  | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Current prices | 399 | 591 | 980 | 2 785 | 4 047 | 4 092 | 4 146 |
+
+## ANNEX II — MISCELLANEOUS COSTS BORNE BY THE FACILITY — (whether or not directly linked to an operation or assistance measure)
+
+In so far as possible, appropriations related to the following costs should be entered in the titles in the budget for the operation or assistance measure to which they are most related:
+
+1\. mission expenditure incurred by the operation commander, an implementing actor or another relevant actor, as well as by their staff in order to attend the Committee for discussions related to an operation or assistance measure or upon the Committee’s request;
+
+2\. indemnities for damages and costs resulting from claims and legal actions to be paid through the Facility;
+
+3\. costs pursuant to any decision to store material which was acquired in common for an operation or assistance measure;
+
+4\. banking costs;
+
+5\. costs related to the development and maintenance of the Facility’s IT systems for accounting and for asset management;
+
+6\. costs related to the administrative arrangements in accordance with Article 37;
+
+7\. expenditure for contract staff working for the Facility and administrative support in headquarters and delegations;
+
+7a. on a case-by-case basis and subject to approval by the Committee, exploratory missions and preparations (in particular fact-finding missions and reconnaissance) by EEAS personnel to support the High Representative in proposing assistance measures included in the strategic orientation provided in accordance with Article 9(2) or carried out on the request of a Member State;
+
+8\. monitoring and evaluation, including as referred to in Article 9(3) as regards assistance measures;
+
+9\. auditing costs;
+
+10\. in exceptional cases, communication, information and visibility.
+
+## ANNEX III — COSTS BORNE BY THE FACILITY RELATING TO THE PREPARATORY PHASE OF AN OPERATION OR ASSISTANCE MEASURE
+
+Incremental costs necessary for exploratory missions and preparations (in particular fact-finding missions and reconnaissance) by military and civilian personnel with a view to a specific Union operation: transport; accommodation; use of operational communications tools; and recruitment of local civilian personnel for the execution of the mission, such as interpreters and drivers.
+
+Medical services: the cost of emergency medical evacuations (Medevac) of persons taking part in exploratory missions and preparations by military and civilian personnel with a view to a specific Union operation, when medical treatment cannot be provided in the theatre of operations.
+
+Incremental costs necessary for preparatory measures, authorised by the Council in accordance with Article 57, for an assistance measure.
+
+## ANNEX IV
+
+**PART A**
+
+**COMMON COSTS RELATIVE TO THE ACTIVE PHASE OF UNION OPERATIONS, ALWAYS BORNE BY THE FACILITY**
+
+**1\. Incremental costs for (deployable or fixed) headquarters for Union-led operations**
+
+1.1. Definition of headquarters whose incremental costs are financed in common:
+
+(a) Headquarters (HQ): the headquarters, the command and support elements approved in the operation plan (OPLAN).
+
+(b) Operation Headquarters (OHQ): the static, out-of-area headquarters of the operation commander, which is responsible for building up, launching, sustaining and recovering a Union force.
+
+The definition of common costs applicable to an OHQ for an operation shall also be applicable to the General Secretariat of the Council, the EEAS including the Military Planning and Conduct Capability, and the Facility in so far as they are acting directly for that operation.
+
+(c) Force Headquarters (FHQ): the headquarters of a Union force deployed to the area of operations of an executive military operation.
+
+(d) Mission Force Headquarters (MFHQ): the headquarters of a Union force deployed to the area of operations of a non-executive military mission.
+
+(e) Component Command Headquarters (CCHQ): the headquarters of a Union component commander deployed for the operation (namely air, land, maritime and other special forces commanders whom it could be deemed necessary to designate depending on the nature of the operation).
+
+1.2. Definition of incremental costs for headquarters financed in common:
+
+(a) Transport costs: transport to and from the theatre of operations to deploy, sustain and recover FHQs, MFHQs and CCHQs.
+
+(b) Travel and accommodation: travel and accommodation costs incurred by the OHQ for official journeys necessary to an operation; travel and accommodation costs incurred by personnel from deployed HQs travelling on official journeys to Brussels and/or operation related meetings.
+
+(c) Transport/travel (excluding ‘per diem’ costs) of HQs within the theatre of operations: expenditure related to vehicle transport and other travel by other means and freight costs, including travel by national augmentees and visitors; incremental costs of fuel over and above what normal operations would have cost; lease of additional vehicles; third-party insurance costs imposed by some countries upon international organisations conducting operations in their territory.
+
+(d) Administration: additional office and accommodation equipment, contractual services and utilities, maintenance costs of the HQ buildings.
+
+(e) Civilian personnel recruited specifically in the eligible HQs for the requirements of the operation: civilian personnel working in the Union, international and local personnel hired in the theatre of operations needed for the conduct of the operation over and above the normal operational requirements (including any overtime compensation payments).
+
+(f) Communications between eligible HQs and between eligible HQs and directly subordinate forces: capital expenditure for the purchase and use of additional communications and IT equipment and costs for rendered services (lease and maintenance of modems, telephone lines, satphones, cryptofaxes, secure lines, internet providers, data lines, local area networks).
+
+(g) Barracks and lodging/infrastructure: expenditure for acquisition, rental or refurbishing of required HQ facilities in the theatre of operations (rental of buildings, shelters, tents), if required.
+
+(h) Public information: costs related to information campaigns and to inform media at HQ level, in accordance with the information strategy developed by the HQ.
+
+(i) Representation and hospitality: representational costs; costs at HQ level necessary for the conduct of an operation.
+
+**2\. Incremental costs incurred for providing support to the force as a whole**
+
+The costs defined below are those incurred as a consequence of the force deployment to its location:
+
+(a) Works for deployment/infrastructure: expenditure absolutely needed for the force as a whole to fulfil its mission (jointly used airport, railway, harbours, main logistical roads, including points of disembarkation and forward assembly areas; water surveys, pumping, treatment, distribution and disposal, water and power supply, earthworks and static force protection, storage facilities (in particular for fuel and ammunition), logistical and assembly areas; technical support for jointly financed infrastructure).
+
+(b) Identification marking: specific identification marks, ‘European Union’ identity cards, badges, medals, flags in Union colours or other Force or HQ identification marking (excluding clothes, hats or uniforms).
+
+(c) Medical services and facilities: emergency medical evacuations (Medevac) and in response to pandemics. Role 2 and 3 services and facilities at theatre operational element level, such as airports and disembarkation ports approved in the OPLAN. Role 1 services and facilities for non-executive military missions.
+
+(d) Acquisition of information: Satellite images for intelligence approved in the OPLAN, if they cannot be financed from the funds available in the budget of the European Union Satellite Centre (SATCEN).
+
+(e) Force protection and essential security services: accommodation of the force protection teams made available for non-executive military missions.
+
+**3\. Incremental costs specific for the EU Rapid Deployment Capacity, including the EU Battlegroup, strategic enablers and modules**
+
+The costs defined below are those incurred in addition as a consequence of the EU Rapid Deployment Capacity deployment and redeployment to and from the theatre of operations:
+
+(a) Transport costs of deployment: incremental transport costs for land, sea and air deployment of an EU Rapid Deployment Capacity at short notice to the joint area of operations in accordance with the EU Rapid Deployment Capacity Framework included in the EU Military Rapid Response Concept and on the basis of Act of the Special Committee of 29 May 2012 and the applicable Flat Rates of Reimbursement for the deployment of EU Battlegroups (document 11806/12, as approved by the Council on 4 October 2012), that shall also be applicable to the strategic enablers and modules deployed. Land and sea costs for deployment of an EU Rapid Deployment Capacity shall qualify as common costs only where this is the more cost-effective option and on condition that they allow the required deployment timelines for the EU Rapid Deployment Capacity to be met.
+
+(b) Running costs: incremental costs for services absolutely needed for the direct support to the EU Rapid Deployment Capacity deployment at air and/or maritime entry points and logistical and assembly areas, in particular but not limited to secured storage of equipment and materiel, Role 1 services and facilities, sleeping accommodation, sanitation (washing, shower, toilets), dining facilities, waste disposal, general engineer support.
+
+(c) Deployment readiness package: incremental costs for food, water and fuel for up to 10 days of supply for the deployment of the EU Rapid Deployment Capacity as a whole, as approved in the OPLAN.
+
+(d) Transport costs of redeployment: incremental costs of transport of the personnel in the EU Rapid Deployment Capacity, from the theatre of operations by land, sea or air to redeploy. Only the more cost-effective transport option will be taken into account as common costs.
+
+**4\. Incremental costs incurred by Union recourse to NATO common assets and capabilities made available for a Union-led operation**
+
+The cost for the Union of the application for one of its military operations of the arrangements between the Union and NATO relating to release, monitoring and return or recall of NATO common assets and capabilities made available for a Union-led operation. Reimbursements by NATO to the Union.
+
+5\. Incremental costs incurred by the Union for goods, services or works included in the list of common costs and made available in a Union-led operation by a Member State, a Union institution, a third State or an international organisation pursuant to an arrangement referred to in Article 37. Reimbursements by a State, a Union institution or an international organisation based on such an arrangement.
+
+**PART B**
+
+**COMMON COSTS RELATING TO THE ACTIVE PHASE OF A SPECIFIC OPERATION, BORNE BY THE FACILITY IF THE COUNCIL SO DECIDES**
+
+Transport costs: transport to and from the theatre of operations to deploy, support and recover the forces necessary for the operation.
+
+Multinational task force headquarters: the multinational headquarters of Union task forces deployed in the area of operation.
+
+**PART C**
+
+**COMMON COSTS BORNE BY THE FACILITY IF REQUESTED BY THE OPERATION COMMANDER AND APPROVED BY THE COMMITTEE**
+
+(a) Barracks, lodging/infrastructure and office space: expenditure for acquisition, rental or refurbishing of premises in the theatre of operations (buildings, shelters, tents), as necessary for the forces deployed for the operation.
+
+(b) Essential additional equipment: the rental or purchase in the course of the operation of unforeseen specific equipment essential for the execution of the operation, in so far as the purchased equipment is not repatriated at the end of the mission.
+
+(c) Medical services and facilities: Role 2 services and facilities in the theatre of operations, other than those mentioned in Part A.
+
+(d) Acquisition of information: acquisition of information (satellite images; theatre-level intelligence, reconnaissance and surveillance (ISR), including air-to-ground surveillance (AGSR); and human intelligence).
+
+(e) Other critical theatre-level capabilities: demining if needed for the operation; chemical, biological, radiological and nuclear (CBRN) protection; storage and destruction of weapons and ammunitions collected within the area of operation.
+
+(f) Transport costs of redeployment: incremental costs of transport of equipment of the EU Rapid Deployment Capacity, including the EU Battlegroup, strategic enablers and modules, from the theatre of operations by land, sea or air to redeploy. Only the more cost-effective transport option will be taken into account as common costs.
+
+(g) Running costs of an executive operation deployment to the theatre of operations: incremental costs for services absolutely needed for the direct support to the initial deployment of the forces as a whole during their temporary posting at air and/or maritime entry points and logistical and assembly areas on the way to their final destination (air/maritime traffic management, cargo and passenger handling, customs and transit services, security and safety services, including force protection, secured storage of equipment and materiel, Role 1 services and facilities, sleeping accommodation, sanitation (washing, shower, toilets), dining facilities, waste disposal, general engineer support).
+
+(h) Deployment readiness package of an executive operation: incremental costs for food, water and fuel for up to 10 days of supply for the initial deployment of the forces as a whole, as approved in the OPLAN.
+
+(i) Essential additional equipment, in particular related to security (such as gates, watch towers, access road, fences), and basic refurbishment of training facilities in the theatre of operations, necessary for the forces deployed for non-executive military missions.
+
+(j) Transportation within the theatre of operations for the forces deployed for non-executive military missions, including for the force protection teams.
+
+## ANNEX V — COMMON COSTS RELATIVE TO THE WINDING UP OF AN OPERATION BORNE BY THE FACILITY
+
+Costs incurred for finding the final destination for the equipment and infrastructure commonly funded for the operation.
+
+Incremental costs of drawing up the accounts for the operation. The eligible common costs shall be determined in accordance with Annex IV, bearing in mind that the staff needed to draw up the accounts belong to the HQ for that operation, even after the latter has ceased its activities.
+
+( 1 ) Council Decision 2010/427/EU of 26 July 2010 establishing the organisation and functioning of the European External Action Service (OJ L 201, 3.8.2010, p. 30, ELI: http://data.europa.eu/eli/dec/2010/427/oj).
+
+( 2 ) Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj)
+
+( 3 ) OJ L 56, 4.3.1968, p. 1.
+
+( 4 ) Agreement between the Member States of the European Union concerning the status of military and civilian staff seconded to the institutions of the European Union, of the headquarters and forces which may be made available to the European Union in the context of the preparation and execution of the tasks referred to in Article 17(2) of the Treaty on European Union, including exercises, and of the military and civilian staff of the Member States put at the disposal of the European Union to act in this context (EU SOFA) (OJ C 321, 31.12.2003, p. 6).
+
+( 5 ) Council Decision 2014/335/EU, Euratom of 26 May 2014 on the system of own resources of the European Union (OJ L 168, 7.6.2014, p. 105).
+
+( 6 ) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).
+
+( 7 ) Regulation (EU) 2018/1725 of the European Parliament and the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 8 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 9 ) Council Regulation (EU) 2015/322 of 2 March 2015 on the implementation of the 11th European Development Fund (OJ L 58, 3.3.2015, p. 1).
+
+( 10 ) Council Decision (EU) 2020/1422 of 5 October 2020 concerning the allocation of funds decommitted from projects under the 10th European Development Fund for the purpose of replenishing the African Peace Facility (OJ L 329, 9.10.2020, p. 4).

@@ -1,0 +1,1233 @@
+---
+title: "Commission Implementing Decision (EU) 2026/821 of 7 April 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 2369)"
+identifier: "32026D0821"
+eli: "http://data.europa.eu/eli/dec_impl/2026/821/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-04-07
+entry_into_force: 2026-10-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D0821"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2026/821 of 7 April 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 2369)
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2026/821**
+
+**of 7 April 2026**
+
+**amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States**
+
+**(notified under document C(2026) 2369)**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Article 259(1) thereof,
+
+Whereas:
+
+(1) Highly pathogenic avian influenza (HPAI) is an infectious viral disease in birds and can have a severe impact on the profitability of poultry farming causing disturbance to trade within the Union and exports to third countries. HPAI viruses can infect migratory birds, which can then spread these viruses over long distances during their autumn and spring migrations. Therefore, the presence of HPAI viruses in wild birds poses a continuous threat for the direct and indirect introduction of these viruses into establishments where poultry or captive birds are kept. In the event of an outbreak of HPAI in establishments where poultry or captive birds are kept, there is a risk that the disease agent may spread to other such establishments.
+
+(2) Regulation (EU) 2016/429 establishes the legislative framework for the prevention and control of diseases that are transmissible to animals or humans. HPAI falls within the definition of a listed disease in that Regulation, and it is subject to the disease prevention and control rules laid down therein. In addition, Commission Delegated Regulation (EU) 2020/687 (2) supplements Regulation (EU) 2016/429 as regards the rules for the prevention and control of certain listed diseases, including HPAI. In particular, Article 21 of that Delegated Regulation provides that in the event of an outbreak of a category A disease in an establishment, the competent authority is to immediately establish a restricted zone comprising a protection zone, a surveillance zone, and if necessary, further restricted zones around or adjacent to the protection and surveillance zones.
+
+(3) Commission Implementing Decision (EU) 2023/2447 (3) was adopted on the basis of Regulation (EU) 2016/429, and it lays down emergency measures at Union level in relation to outbreaks of HPAI.
+
+(4) In particular, Article 2, point (a), Article 3, point (a), and Article 4, point (a) of Implementing Decision (EU) 2023/2447 provide, respectively, that following outbreaks of HPAI, the protection, surveillance, and further restricted zones to be established in accordance with Delegated Regulation (EU) 2020/687 must comprise at least the areas listed as protection, surveillance, and further restricted zones in that Annex. Article 2, point (b), Article 3, point (b), and Article 4, point (b) of Implementing Decision (EU) 2023/2447 also provide that the measures to be applied in those protection, surveillance, and further restricted zones, in accordance with that Delegated Regulation, must be maintained until at least the dates set out in the Annex to that Implementing Decision.
+
+(5) The Annex to Implementing Decision (EU) 2023/2447 was last amended by Commission Implementing Decision (EU) 2026/783 (4) following outbreaks of HPAI in Czechia, the Netherlands and Poland in establishments where poultry were kept.
+
+(6) Since the date of adoption of Implementing Decision (EU) 2026/783, Czechia, Italy and Poland have notified the Commission of new outbreaks of HPAI in those Member States in establishments where poultry were kept. In particular, these notifications concerned an outbreak in the Nymburk region in Czechia, two outbreaks in the Toscana region in Italy, and two outbreaks in the Mazowieckie and Warmińsko-Mazurskie voivodeships in Poland.
+
+(7) Following those five new outbreaks, Czechia, Italy and Poland have taken the disease control measures required in accordance with Delegated Regulation (EU) 2020/687, including the establishment of protection and surveillance zones around the outbreaks.
+
+(8) The Commission has examined the disease control measures taken by Czechia, Italy and Poland, and it is satisfied that the boundaries of the protection and surveillances zones established by the respective Member States for the outbreaks described are at a sufficient distance from the establishments where the outbreaks of HPAI have been confirmed.
+
+(9) In addition, Denmark and Germany informed the Commission that the cleaning and disinfection in the establishments affected by outbreaks DK-HPAI(P)-2026-00008, DK-HPAI(P)-2026-00011, DK-HPAI(P)-2026-00012, and DK-HPAI(P)-2026-00013, located in the municipalities of Næstved, Faaborg-Midtfyn, Slagelse, and Ringsted, in Denmark, and DE-HPAI(P)-2026-00036 located in the state of Brandenburg in Germany has been completed later than expected. Therefore, the duration of the protection and surveillance zones established for those outbreaks by Denmark and Germany, respectively, as listed in the Annex to Implementing Decision (EU) 2023/2447, needs to be extended, in accordance with Article 39 and Article 55 of Delegated Regulation (EU) 2020/687.
+
+(10) Furthermore, Poland informed the Commission that the measures required by Articles 39 and 55 of Delegated Regulation (EU) 2020/687 in relation to outbreak PL-HPAI(NON-P)-2026-00174 located in the Zachodniopomorskie voivodeship in Poland were completed earlier than initially estimated, and the duration of the protection and surveillance zones established for that outbreak by Poland and Germany can be reduced. Therefore, it is appropriate to shorten the period of application for these measures in the protection and surveillance zones established by Poland and Germany for outbreak PL-HPAI(NON-P)-2026-00174, as listed in the Annex to Implementing Decision (EU) 2023/2447, in accordance with Article 39 and Article 55 of Delegated Regulation (EU) 2020/687.
+
+(11) In order to prevent any unnecessary disturbance to trade within the Union and to avoid any unjustified disruptions to trade being imposed by third countries, it is necessary to rapidly lay down at Union level, in collaboration with Czechia, Italy and Poland the protection and surveillance zones established by those Member States in accordance with Delegated Regulation (EU) 2020/687.
+
+(12) Therefore, the list of areas to be subject to protection and surveillance zones for Czechia, Italy and Poland in the Annex to Implementing Decision (EU) 2023/2447 should be amended, to take account of the appropriate boundaries of the protection and surveillance zones as established by those Member States, following the new HPAI outbreaks therein, and the required duration of the measures to be applied in those zones needs to be set out, in accordance with Delegated Regulation (EU) 2020/687.
+
+(13) In addition, the dates until which the measures are to be applied in the protection and surveillance zones established by Denmark for outbreaks DK-HPAI(P)-2026-00008, DK-HPAI(P)-2026-00011, DK-HPAI(P)-2026-00012, and DK-HPAI(P)-2026-00013, by Germany for outbreak DE-HPAI(P)-2026-00036, and by Poland for outbreak PL-HPAI(NON-P)-2026-00174, as listed in the Annex to Implementing Decision (EU) 2023/2447, should be amended to take account of the amended duration of the restrictions.
+
+(14) The Annex to Implementing Decision (EU) 2023/2447 should, therefore, be amended accordingly.
+
+(15) Given the urgency of the epidemiological situation in the Union as regards the spread of HPAI, it is important that the amendments to be made to the Annex to Implementing Decision (EU) 2023/2447 by this Decision take effect as soon as possible.
+
+(16) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Annex to Implementing Decision (EU) 2023/2447 is replaced by the text set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 7 April 2026.
+
+For the Commission
+
+Olivér VÁRHELYI
+
+Member of the Commission
+
+(1) OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+
+(2) Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (OJ L 174, 3.6.2020, p. 64, ELI: http://data.europa.eu/eli/reg_del/2020/687/oj).
+
+(3) Commission Implementing Decision (EU) 2023/2447 of 24 October 2023 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (OJ L, 2023/2447, 30.10.2023, ELI: http://data.europa.eu/eli/dec_impl/2023/2447/oj).
+
+(4) Commission Implementing Decision (EU) 2026/783 of 27 March 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (OJ L, 2026/783, 31.3.2026, ELI: http://data.europa.eu/eli/dec_impl/2026/783/oj.
+
+## ANNEX — ‘ANNEX
+
+**Part A**
+
+Protection zones in the concerned Member States* as referred to in Article 1, point (a), and Article 2:
+
+**Member State: Bulgaria**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Haskovo region</td></tr>
+<tr><td>BG-HPAI(P)-2026-00004 BG-HPAI(P)-2026-00005  BG-HPAI(P)-2026-00006  BG-HPAI(P)-2026-00007  BG-HPAI(P)-2026-00008 </td><td>The following settlements in Haskovo municipality:<table><tbody><tr><td>—</td><td>Voyvodovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Manastri</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Konush</td></tr>
+</tbody>
+</table>
+</td><td>5.4.2026</td></tr>
+<tr><td>BG-HPAI(P)-2026-00009</td><td>The following settlements in Dimitrovgrad municipality:<table><tbody><tr><td>—</td><td>Kasnakovo</td></tr>
+</tbody>
+</table>
+</td><td>9.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Czechia**
+
+| ADIS reference number of the outbreak | Area comprising: | Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687 |
+| --- | --- | --- |
+| CZ-HPAI(P)-2026-00001 CZ-HPAI(P)-2026-00002 CZ-HPAI(P)-2026-00003 CZ-HPAI(NON-P)-2026-00048 CZ-HPAI(P)-2026-00004 CZ-HPAI(P)-2026-00005 CZ-HPAI(NON-P)-2026-00050 CZ-HPAI(P)-2026-00006 CZ-HPAI(P)-2026-00007 CZ-HPAI(P)-2026-00008 CZ-HPAI(P)-2026-00009 | Region of Hradec Králové: Barchov (600890); Barchůvek (600946); Bydžovská Lhotka (693057); Červeněves (750913); Dobřenice (627747); Hlušice (639923); Humburky (649317); Chlumec nad Cidlinou (651800); Chudeřice (654787); Chudonice (707198); Janovice u Vinar (782157); Káranice (663182); Klamoš (665428); Kosice (669831); Kosičky (669849); Kratonohy (674141); Křičov (750921); Lišice (684970); Lovčice u Nového Bydžova (687634); Lučice u Chlumce nad Cidlinou (688291); Luková nad Cidlinou (689009); Lužec nad Cidlinou (689271); Měník u Nového Bydžova (693073); Michnovka (674150); Mlékosrby (697311); Nepolisy (703397); Nové Město nad Cidlinou (706396); Nový Bydžov (707163); Obědovice (674168); Olešnice nad Cidlinou (710351); Osičky (713091); Pamětník (717533); Písek u Chlumce nad Cidlinou (720917); Převýšov (735299); Puchlovice (605999); Roudnice (741639); Skochovice (748331); Skřeněř (754927); Skřivany (748960); Sloupno nad Cidlinou (750671); Smidarská Lhota (782173); Smidary (750948); Stará Voda (754056); Starý Bydžov (754943); Syrovátka (761826); Štít (665436); Trnava (768260); Velké Babice (600610); Vinary u Smidar (782181); Vysočany u Nového Bydžova (790320); Zábědov (707210); Zadražany (789674); Zachrašťany (790338); Region of Pardubice: Chýšť (655686); Kasalice (664260); Kasaličky (664278); Křičeň (676187); Pravy (664286); Rohoznice (740527); Region of Central Bohemian: Běrunice (603104); Běruničky (603112); Dlouhopolsko (626651); Dobšice u Žehuně (628042); Hradčany u Žehuně (646628); Kanín (711977); Kněžičky (603121); Kolaje (668010); Odřepsy (709174); Opočnice (711926); Opolánky (711985); Opolany (711993); Oškobrh (712001); Sány (746126); Slibovice (603155); Velké Výkleky (603163); Vlkov nad Lesy (603171); Vlkov pod Oškobrhem (784095); Vrbice u Poděbrad (785881); Žehuň (795739); | 21.4.2026 |
+
+**Member State: Denmark**
+
+| ADIS reference number of the outbreak | Area comprising: | Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687 |
+| --- | --- | --- |
+| DK-HPAI(P)-2026-00008 | Parts of Næstved and Ringsted municipalities are contained within a circle of radius 3 km, centred on GPS coordinates N 55.3519; E 11.7888 | 31.3.2026 |
+| DK-HPAI(P)-2026-00009 | Parts of Nordfyns municipality are contained within a circle of radius 3 km, centred on GPS coordinates N 55.5018; E 10.4432 | 1.4.2026 |
+| DK-HPAI(P)-2026-00010 | Parts of Ikast-Brande and Vejle municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.9251; E 9.1824 | 3.4.2026 |
+| DK-HPAI(P)-2026-00011 | Parts of Faaborg-Midtfyn, Svendborg and Nyborg municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.2124; E 10.5868 | 9.4.2026 |
+| DK-HPAI(P)-2026-00012 | Parts of Slagelse municipality are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.2947; E 11.2858 | 9.4.2026 |
+| DK-HPAI(P)-2026-00013 | Parts of Ringsted and Holbæk municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.5078; E 11.7801 | 9.4.2026 |
+
+**Member State: Germany**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">BAYERN</td></tr>
+<tr><td>DE-HPAI(P)-2026-00038</td><td>3 km Radius um die GPS-Koordinaten: 11.235646 / 48.298520 Landkreis Dachau <table><tbody><tr><td>—</td><td>Teile der Gemeinde Erdweg,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Odelzhausen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gesamte Gemeinde Sulzemoos</td></tr>
+</tbody>
+</table>
+ Landkreis Fürstenfeldbruck <table><tbody><tr><td>—</td><td>Gemeinde Egenhofen: nordwestlicher Teil, nördlich von Wenigmünchen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Maisach: nördlicher Teil, nördlich von Prack</td></tr>
+</tbody>
+</table>
+</td><td>2.4.2026</td></tr>
+<tr><td colspan="3">BRANDENBURG</td></tr>
+<tr><td>PL-HPAI(NON-P)-2026-00174</td><td>3 km Radius um die GPS-Koordinaten: 52.97950 / 14.20950 Landkreis Uckermark <table><tbody><tr><td>—</td><td>Stadt Schwedt/Oder mit Teilen der Gemarkungen Schöneberg und Criewen</td></tr>
+</tbody>
+</table>
+</td><td>28.3.2026</td></tr>
+<tr><td>DE-HPAI(P)-2026-00036</td><td>3 km Radius um die GPS-Koordinaten: 51.610946 / 13.356770 Landkreis Elbe-Elster <table><tbody><tr><td>—</td><td>Gemeinde Uebigau-Wahrenbrück mit Teilen der Gemarkungen Drasdo, Wiederau, München, Langennauendorf, Uebigau, Beutersitz und Wildgrube</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Doberlug-Kirchhain mit Teilen der Gemarkung Nexdorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Amt Elsterland mit Teilen der Gemarkung Schilda</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026</td></tr>
+<tr><td colspan="3">MECKLENBURG-VORPOMMERN</td></tr>
+<tr><td>DE-HPAI(P)-2026-00037</td><td>3 km Radius um die GPS-Koordinaten: 12.966554 / 53.275063 Landkreis Mecklenburgische Seenplatte <table><tbody><tr><td>—</td><td>Gemeinde Wesenberg mit Stadt Wesenberg</td></tr>
+</tbody>
+</table>
+</td><td>2.4.2026</td></tr>
+<tr><td colspan="3">THÜRINGEN</td></tr>
+<tr><td>DE-HPAI(NON-P)-2026-01027</td><td>3 km Radius um die GPS-Koordinaten 11.046320 / 51.063550 Erfurt, Stadt <table><tbody><tr><td>—</td><td>Ortsteil Stotternheim</td></tr>
+</tbody>
+</table>
+ Landkreis Sömmerda <table><tbody><tr><td>—</td><td>Gemeinde Nöda</td></tr>
+</tbody>
+</table>
+</td><td>7.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: France**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Département: Eure: (27)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00016</td><td>JUIGNETTES LES BOTTEREAUX  CHAMBORD  SAINT-ANTONIN-DE-SOMMAIRE </td><td>6.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Italy**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Region: Toscana</td></tr>
+<tr><td>IT-HPAI(P)-2026-00019</td><td>The area of the parts of Toscana Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.823643, E 11.147677</td><td>13.4.2026</td></tr>
+<tr><td>IT-HPAI(P)-2026-00018</td><td>The area of the parts of Toscana Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.556819, E 11.858975</td><td>18.4.2026</td></tr>
+<tr><td colspan="3">Region: Umbria</td></tr>
+<tr><td>IT-HPAI(P)-2026-00017</td><td>The area of the parts of Umbria Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.00383, E 12.33797</td><td>8.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Hungary**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Bács-Kiskun vármegye</td></tr>
+<tr><td>HU-HPAI(P)-2026-00012 HU-HPAI(P)-2026-00013  HU-HPAI(P)-2026-00014 </td><td>Bugac és Kiskunfélegyháza település közigazgatási területének a 46.720500 és a 19.818072, a 46.724938 és a 19.799245, valamint a 46.702590 és a 19.770540 GPS-koordináták által meghatározott pont körüli 3 km sugarú körön belül eső területe.</td><td>31.3.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: the Netherlands**
+
+| ADIS reference number of the outbreak | Area comprising: | Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687 |
+| --- | --- | --- |
+| NL-HPAI(P)-2026-00015 | Those parts of the Province Noord Brabant contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 51.67 / Longitude 4.45 | 11.4.2026 |
+| NL-HPAI(P)-2026-00016 | Those parts of the Province Drenthe contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 52.73 / Longitude 6.59 | 12.4.2026 |
+
+**Member State: Poland**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 39 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td>PL-HPAI(NON-P)-2026-00174</td><td>W województwie zachodniopomorskim:<table><tbody><tr><td>1.</td><td>Część gminy Cedynia w powiecie gryfińskim,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>Część gminy Chojna w powiecie gryfińskim.</td></tr>
+</tbody>
+</table>
+ Zawierający się w promieniu 3 km od współrzędnych GPS 52.97950 / 14.20950 </td><td>28.3.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00044 PL-HPAI(P)-2026-00045  PL-HPAI(P)-2026-00050  PL-HPAI(P)-2026-00052 </td><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat iławski:<table><tbody><tr><td>a.</td><td>w gminie Iława, miejscowości: Gardzień, Kamień Duży, Kamień Mały, Szałkowo, Szczepkowo, Szymbark, Tynwałd, Wilczany, Windyki, Wola Kamieńska, Ząbrowo, w granicach administracyjnych miejscowości Frednowy na zachód od linii poprowadzonej przez miejscowości Makowo i Mątyki, w granicach administracyjnych miejscowości Gałdowo na północ od linii poprowadzonej przez miejscowości Nowy Folwark i Nejdyki, w granicach administracyjnych miejscowości Kałduny na północ od linii poprowadzonej przez miejscowości Nowa Wieś i Mątyki, w granicach administracyjnych miejscowości Łanioch na południe od linii poprowadzonej przez miejscowości Szymbark i Kaletka, w granicach administracyjnych miejscowości Makowo na zachód od linii poprowadzonej przez miejscowości Siemiany i Frednowy, w granicach administracyjnych miejscowości Nowa Wieś na północ od linii poprowadzonej przez miejscowości Szczepkowo i Gromoty, w granicach administracyjnych miejscowości Rudzienice na zachód od linii poprowadzonej przez miejscowości Frednowy i Kałduny, w granicach administracyjnych miejscowości Siemiany na południe od linii poprowadzonej przez miejscowości Szymbark i Kaletka,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b.</td><td>w gminie Susz, miejscowości: Chełmżyca, Redaki, w granicach administracyjnych miejscowości Babięty Wielkie na wschód od linii poprowadzonej przez Brusiny (nieruchomość nr 9) i Jakubowo Kisielickie (nieruchomość nr 13), w granicach administracyjnych miejscowości Czerwona Woda na południe od linii poprowadzonej przez miejscowości Krzywiec i Januszewo, w granicach administracyjnych miejscowości Falknowo na południe od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Jakubowo Kisielickie na wschód od linii poprowadzonej przez miejscowości Czerwona Woda i Zazdrość, w granicach administracyjnych miejscowości Różanki na południe od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Ulnowo na południe od linii poprowadzonej przez miejscowości Krzywiec i Januszewo.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>22.4.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00046</td><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat bartoszycki, w gminie Bisztynek, w granicach administracyjnych miejscowości Sątopy na południe od linii poprowadzonej przez miejscowości Tolniki Małe i Wójtowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat kętrzyński, w gminie Reszel, miejscowości: Biel, w granicach administracyjnych miejscowości Dębnik na zachód od linii poprowadzonej przez miejscowości Robawy i Tolniki Małe, w granicach administracyjnych miejscowości Kępa Tolnicka na południe od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Mnichowo na północ od linii poprowadzonej przez miejscowości Robawy i Górowo, w granicach administracyjnych miejscowości Reszel na zachód od linii poprowadzonej wzdłuż ulic Rataja, 1 Maja, Zwycięzców oraz Racławickiej, w granicach administracyjnych miejscowości Tolniki Małe na południe od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Zawidy na północ od linii poprowadzonej przez miejscowości Robawy i Górowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat olsztyński, w gminie Kolno, w granicach administracyjnych miejscowości Kominki na północ od linii poprowadzonej przez miejscowości Ryn Reszelski i Kocibórz, w granicach administracyjnych miejscowości Tarniny na wschód od linii poprowadzonej przez miejscowości Sątopy-Samulewo i Otry.</td></tr>
+</tbody>
+</table>
+</td><td>5.4.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00047</td><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie nowotomyskim, w gminie Lwówek, miejscowości: Linie, Wymyślanka, Zębowo, Tarnowiec Zębówko, Konin;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie międzychodzkim, w gminie Kwilcz, miejscowości: Chudobczyce, Wituchowo.</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026</td></tr>
+<tr><td>PL-HPAI(NON-P)-2026-00196</td><td>W województwie zachodniopomorskim:<table><tbody><tr><td>1)</td><td>w powiecie pyrzyckim, w gminie Warnice miejscowości: część obrębu miejscowości Dębica znajdującej się w promieniu 3 km od współrzędnych 53.2341, 14.91328, część miejscowości Grędziec znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Obryta znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Reńsko znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, Wierzbno;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie pyrzyckim, w gminie Pyrzyce miejscowości: część obrębu miejscowości Okunica znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Ryszewo znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Turze znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>powiat stargardzki, w gminie wiejskiej Stargard miejscowości: część obrębu miejscowości Koszewo znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328.</td></tr>
+</tbody>
+</table>
+</td><td>1.4.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00048</td><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie leszczyńskim, w gminie Włoszakowice, miejscowości: Boszkowo, Boszkowo-Letnisko, Charbielin, Dłużyna, Grotniki, Ujazdowo, część miejscowości Włoszakowice na północ od ul. Dominickiej;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie wolsztyńskim, w gminie Przemęt, miejscowości: Sokołowice, Bucz, Bucz Nowy, Sączkowo, Przemęt, Dębina, Starkowo, Radomierz, Olejnica, Błotnica.</td></tr>
+</tbody>
+</table>
+</td><td>9.4.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00049</td><td>W województwie łódzkim:<table><tbody><tr><td>1.</td><td>powiat skierniewicki, gmina Słupia: obręb Nowa Krosnowa – na południe od numerów domów 27, 28, 29;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat brzeziński, gmina Jeżów, obręby: Jasienin Duży, Jasienin Mały, Jeżów, Kosiska z wyłączeniem numerów od 1 do 44, Leszczyny miejscowość Dąbrowa z wyłączeniem numerów 2, 2A, oraz miejscowości Leszczyny-Kolonia, 7-10 Mikulin, Popień Parcela z wyłączeniem numerów od 9 do 17, Popień PGR z wyłączeniem numerów od 1 do 8, Strzelna;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat brzeziński, gmina Rogów, obręby: Józefów ulica Sportowa numery: 13A, 33, 31, 29, 27, 23, 21, 19, 17,5 A, Marianów, Popień z wyłączeniem numerów od 1 do 38, Przyłęk Duży z wyłączeniem numerów nieparzystych od 1 do 45, parzystych od 2 do 48a, Rogów od granic administracyjnych z obrębem Marianów ulicą Słoneczną do skrzyżowania z ulicą 9 maja, następnie ulicą 9 maja do skrzyżowania z ulicą Wojska Polskiego, następnie ulicą Wojska Polskiego do skrzyżowania z ulicą Dworcową, następnie ulicą Dworcową do ulicy Przejazdowej aż do granic administracyjnych z obrębem Józefów, z uwzględnieniem ul. Stefana Żeromskiego nr 3.</td></tr>
+</tbody>
+</table>
+ Zawierające się w promieniu 3 km od współrzędnych GPS: 51.8215574/ 19.9339013 </td><td>14.4.2026</td></tr>
+<tr><td>PL-HPAI(P)-2026-00051</td><td>W województwie mazowieckim:<table><tbody><tr><td>1)</td><td>w powiecie żuromińskim:<table><tbody><tr><td>a)</td><td>w gminie Żuromin miejscowości: Chamsk część miejscowości na zachód od drogi krajowej 541 i na południe od ul. Wyzwolenia oraz na wschód od ul. Mazowieckiej, Młudzyn;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Bieżuń miejscowości: Karniszyn, Karniszyn-Parcele, Kobyla Łąka, Sadłowo, Sadłowo- Parcele, Strzeszewo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>Miasto Bieżuń na północ od rzeki Swojęcianki i rzeki Wkry.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>16.4.2026</td></tr>
+</tbody>
+</table>
+
+**Part B**
+
+Surveillance zones in the concerned Member States* as referred to in Article 1, point (a), and Article 3:
+
+**Member State: Bulgaria**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Haskovo region</td></tr>
+<tr><td rowspan="2">BG-HPAI(P)-2026-00004 BG-HPAI(P)-2026-00005  BG-HPAI(P)-2026-00006  BG-HPAI(P)-2026-00007  BG-HPAI(P)-2026-00008 </td><td>The following settlements in Haskovo municipality:<table><tbody><tr><td>—</td><td>Voyvodovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Manastri</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Konush</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026 – 14.4.2026</td></tr>
+<tr><td>The following settlements in Haskovo municipality:<table><tbody><tr><td>—</td><td>Haskovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stamboliyski</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Malevo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Knizhoovnik</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Dolno Voyvodino</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Orlovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Mandra</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Dolno golematsi</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Kozlets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teketo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Galabets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Trakiets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Vaglarovo</td></tr>
+</tbody>
+</table>
+ The following settlements in Stambolovo municipality: <table><tbody><tr><td>—</td><td>Zhalti bryag</td></tr>
+</tbody>
+</table>
+</td><td>14.4.2026</td></tr>
+<tr><td rowspan="2">BG-HPAI(P)-2026-00009</td><td>The following settlements in Dimitrovgrad municipality:<table><tbody><tr><td>—</td><td>Dimitrovgrad</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Velikan</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Krum</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Dobrich</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Krepost</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Svetlina</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gorski Izvor</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stalevo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Yabalkovo</td></tr>
+</tbody>
+</table>
+ The following settlements in Haskovo municipality: <table><tbody><tr><td>—</td><td>Klokotnitsa</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Garvanovo</td></tr>
+</tbody>
+</table>
+</td><td>18.4.2026</td></tr>
+<tr><td>The following settlements in Dimitrovgrad municipality:<table><tbody><tr><td>—</td><td>Kasnakovo</td></tr>
+</tbody>
+</table>
+</td><td>10.4.2026 – 18.4.2026</td></tr>
+<tr><td colspan="3">Stara Zagora Region</td></tr>
+<tr><td>BG-HPAI(P)-2026-00009</td><td>The following settlements in Chirpan municipality:<table><tbody><tr><td>—</td><td>Zlatna Livada</td></tr>
+</tbody>
+</table>
+</td><td>18.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Czechia**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">CZ-HPAI(P)-2026-00001 CZ-HPAI(P)-2026-00002  CZ-HPAI(P)-2026-00003  CZ-HPAI(NON-P)-2026-00048  CZ-HPAI(P)-2026-00004  CZ-HPAI(P)-2026-00005  CZ-HPAI(NON-P)-2026-00050  CZ-HPAI(P)-2026-00006  CZ-HPAI(P)-2026-00007  CZ-HPAI(P)-2026-00008  CZ-HPAI(P)-2026-00009 </td><td>Region of Hradec Králové: Boharyně (605972); Češov (623466); Dolní Přím (630039); Hlušičky (639931); Horní Přím (643866); Hrádek u Nechanic (647322); Hrobičany (746312); Hřibsko (649023); Hubenice (649198); Hvozdnice u Hradce Králové (681717); Chmelovice (672491); Chotělice (653021); Kanice u Petrovic (720119); Kobylice (732869); Kozojedy u Žlunic (797677); Kozojídky u Vinar (782165); Králíky u Nového Bydžova (672505); Krásnice (746916); Kunčice u Nechanic (677051); Levín nad Cidlinou (710342); Lhota pod Libčany (681105); Libčany (681725); Lískovice u Ostroměře (684902); Lodín (686387); Loučná Hora (750930); Lubno u Nechanic (702463); Myštěves (700801); Nechanice (702471); Nevratice (754765); Ohnišťany (709280); Osice (713058); Petrovice u Nového Bydžova (720127); Plačice (721212); Podoliby (672513); Polizy (725471); Prasek (732885); Praskačka (732915); Radíkovice (737763); Radostov (738450); Sběř (746321); Sedlice u Hradce Králové (746924); Sekeřice (797685); Slavhostice (797693); Staré Nechanice (702480); Staré Smrkovice (754773); Stěžery (755451); Stěžírky (755478); Sukorady u Hořic (759406); Šaplava (762032); Těchlovice u Hradce Králové (765431); Trávník u Osic (713066); Urbanice u Praskačky (732923); Velešice (746339); Veselská Lhota (788341); Vlčkovice u Praskačky (732931); Volanice (784664); Vysoké Veselí (788350); Zdechovice u Nového Bydžova (732893); Zvíkov nad Bystřicí (793957); Želí (681733); Žlunice (797707);  Region of Pardubice:  Entire cadastral territories:  Bílé Vchynice (604143); Bukovka (616125); Dolany u Pardubic (628450); Hlavečník (638951); Kladruby nad Labem (665410); Kolesa (668079); Komárov u Přelouče (668702); Lázně Bohdaneč (606171); Libišany (682918); Malé Výkleky (655694); Nerad (797308); Neratov (797316); Plch (721808); Podůlšany (724513); Přelovice (734641); Přepychy (734691); Rohovládova Bělá (740446); Sopřeč (752452); Staré Ždánice (754781); Strašov (756318); Tetov (766968); Újezd u Přelouče (773689); Vápno u Přelouče (776955); Vlčí Habřina (783692); Voleč (784796); Vyšehněvice (788473); Žáravice (794597); Živanice (797332);  Definated part of the following cadastral territory: <table><tbody><tr><td>—</td><td>northern part of the cadastral territories 613771 Břehy to the line connecting the GPS points 50.0625 N 15.5476E and 50.0599 N 15.603E: Břehy (613771)</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>part of the cadastral territories defined with a 10 km distance line from the disease outbreak GPS: 50.1491739, 15.6274006: Čeperka (619558); Černá u Bohdanče (743844); Hrádek u Pardubic (647331); Lohenice u Přelouče (686409); Stéblová (755371)</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>part of the cadastral territories defined with a 10 km distance line from the disease outbreak GPS: 50.1449422, 15.4915567: Selmice (747149); Semín (747319)</td></tr>
+</tbody>
+</table>
+ Region of Central Bohemian:  Entire cadastral territories:  Bělušice (602027); Božec (672343); Býchory (616443); Činěves (623920); Dománovice (709191); Dubečno (666912); Dvořiště (712868); Hradišťko I (647560); Hradišťko II (797430); Choťánky (652792); Choťovice (795721); Chroustov (654248); Jestřabí Lhota (659011); Kamilov (750689); Klipec (722774); Kluk (666670); Kněžice u Městce Králové (666921); Kolín (668150); Konárovice (668958); Končice (797448); Kouty u Poděbrad (671266); Krakovany (672351); Křečkov (675539); Kundratice u Žiželic nad Cidlinou (797456); Libice nad Cidlinou (682691); Lipec (738760); Loukonosy (797464); Městec Králové (693286); Němčice u Kolína (616451); Netřebice u Nymburka (704016); Nová Ves I (705713); Ohaře (709204); Okřínek (709751); Oseček (712744); Osek (712876); Ostrov u Poděbrad (774286); Ovčáry u Kolína (717096); Pátek u Poděbrad (718262); Pňov (722782); Poděbrady (723495); Podmoky u Městce Králové (724084); Polabec (723541); Polní Chrčice (709212); Předhradí (722791); Radovesnice II (738778); Rasochy (773174); Rozehnaly (738786); Sendražice u Kolína (747394); Senice (747441); Sloveč (750697); Sokoleč (752177); Srbce u Okřínka (709760); Střihov (750701); Tři Dvory (770809); Týnec nad Labem (772356); Uhlířská Lhota (773182); Úmyslovice (774294); Velenice (777765); Velké Zboží (723550); Velký Osek (779687); Veltruby (779865); Vinice u Městce Králové (693308); Volárna (784672); Záhornice u Městce Králové (789828); Žiželice nad Cidlinou (797481);  Definated part of the following cadastral territories: <table><tbody><tr><td>—</td><td>part of the cadastral territories defined with a 10 km distance line from the disease outbreak GPS: 50.1361, 15.2442: Kolín (668150); Konárovice (668958); Krakovany (672351); Nová Ves I (705713); Sokoleč (752177); Tři Dvory (770809); Týnec nad Labem (772356); Velké Zboží (723550).</td></tr>
+</tbody>
+</table>
+</td><td>30.4.2026</td></tr>
+<tr><td>Region of Hradec Králové: Barchov (600890); Barchůvek (600946); Bydžovská Lhotka (693057); Červeněves (750913); Dobřenice (627747); Hlušice (639923); Humburky (649317); Chlumec nad Cidlinou (651800); Chudeřice (654787); Chudonice (707198); Janovice u Vinar (782157); Káranice (663182); Klamoš (665428); Kosice (669831); Kosičky (669849); Kratonohy (674141); Křičov (750921); Lišice (684970); Lovčice u Nového Bydžova (687634); Lučice u Chlumce nad Cidlinou (688291); Luková nad Cidlinou (689009); Lužec nad Cidlinou (689271); Měník u Nového Bydžova (693073); Michnovka (674150); Mlékosrby (697311); Nepolisy (703397); Nové Město nad Cidlinou (706396); Nový Bydžov (707163); Obědovice (674168); Olešnice nad Cidlinou (710351); Osičky (713091); Pamětník (717533); Písek u Chlumce nad Cidlinou (720917); Převýšov (735299); Puchlovice (605999); Roudnice (741639); Skochovice (748331); Skřeněř (754927); Skřivany (748960); Sloupno nad Cidlinou (750671); Smidarská Lhota (782173); Smidary (750948); Stará Voda (754056); Starý Bydžov (754943); Syrovátka (761826); Štít (665436); Trnava (768260); Velké Babice (600610); Vinary u Smidar (782181); Vysočany u Nového Bydžova (790320); Zábědov (707210); Zadražany (789674); Zachrašťany (790338);  Region of Pardubice:  Chýšť (655686); Kasalice (664260); Kasaličky (664278); Křičeň (676187); Pravy (664286); Rohoznice (740527);  Region of Central Bohemian:  Běrunice (603104); Běruničky (603112); Dlouhopolsko (626651); Dobšice u Žehuně (628042); Hradčany u Žehuně (646628); Kanín (711977); Kněžičky (603121); Kolaje (668010); Odřepsy (709174); Opočnice (711926); Opolánky (711985); Opolany (711993); Oškobrh (712001); Sány (746126); Slibovice (603155); Velké Výkleky (603163); Vlkov nad Lesy (603171); Vlkov pod Oškobrhem (784095); Vrbice u Poděbrad (785881); Žehuň (795739); </td><td>22.4.2026 – 30.4.2026</td></tr>
+<tr><td rowspan="2">CZ-HPAI(NON-P)-2026-00044</td><td>Region of South Moravia: Entire cadastral territories:  Borotice nad Jevišovkou (607657); Božice (608882); České Křídlovice (608904); Derflice (625540); Dyjákovice (634140); Dyjákovičky (634166); Dyje (634174); Hodonice (640395); Hrádek u Znojma (647349); Chvalovice (655287); Ječmeniště (798835); Načeratice (701025); Oblekovice (708615); Tasovice nad Dyjí (765121); Velký Karlov (634158); Vrbovec (786128).  Defined part of the following cadastral territories: <table><tbody><tr><td>—</td><td>parts of the cadastral territories defined with a 10 km distance line from the disease outbreak GPS: 48.7829406, 16.1947089:</td></tr>
+</tbody>
+</table>
+ Bantice (600881); Dobšice u Znojma (628123); Lechovice (679861); Nový Šaldorf (707988); Práče (726966); Šanov nad Jevišovkou (762016); Těšetice u Znojma (766691); Valtrovice (776742); Znojmo-Louka (793574). </td><td>3.4.2026</td></tr>
+<tr><td>Region of South Moravia: Entire cadastral territories:  Jaroslavice (657531); Krhovice (674419); Křídlůvky (776734); Micmanice (755877); Oleksovičky (750778); Slup (750786); Strachotice (755885).  Definated part of the following cadastral territory:  Valtrovice (776742) – inner parts of the cadastral territories defined with a 3 km distance line from the disease outbreak GPS: 48.7829406, 16.1947089; </td><td>26.3.2026 – 3.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Denmark**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00006</td><td>Parts of Lolland municipality beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 54.8725; E 11.3968</td><td>5.4.2026</td></tr>
+<tr><td>Parts of Lolland municipality are contained within a circle of radius 3 km, centred on GPS coordinates N 54.8725; E 11.3968</td><td>28.3.2026 – 5.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00007</td><td>Parts of Nyborg, Kerteminde, Odense, Faaborg-Midtfyn and Svendborg municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.2869; E 10.7033</td><td>8.4.2026</td></tr>
+<tr><td>Parts of Nyborg municipality are contained within a circle of radius 3 km, centred on GPS coordinates N 55.2869; E 10.7033</td><td>31.3.2026 – 8.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00008</td><td>Parts of Næstved, Faxe and Ringsted municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.3519; E 11.7888</td><td>9.4.2026</td></tr>
+<tr><td>Parts of Næstved and Ringsted municipalities are contained within a circle of radius 3 km, centred on GPS coordinates N 55.3519; E 11.7888</td><td>1.4.2026 – 9.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00009</td><td>Parts of Nordfyns, Odense and Kerteminde municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.5018; E 10.4432</td><td>10.4.2026</td></tr>
+<tr><td>Parts of Nordfyns municipality are contained within a circle of radius 3 km, centred on GPS coordinates N 55.5018; E 10.4432</td><td>2.4.2026 – 10.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00010</td><td>Parts of Ikast-Brande, Herning and Vejle municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.9251; E 9.1824</td><td>12.4.2026</td></tr>
+<tr><td>Parts of Ikast-Brande and Vejle municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.9251; E 9.1824 </td><td>4.4.2026 – 12.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00011</td><td>Parts of Faaborg-Midtfyn, Svendborg and Nyborg municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.2124; E 10.5868 </td><td>18.4.2026</td></tr>
+<tr><td>Parts of Faaborg-Midtfyn, Svendborg and Nyborg municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.2124; E 10.5868 </td><td>10.4.2026-18.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00012</td><td>Parts of Slagelse and Næstved municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.2947; E 11.2858 </td><td>18.4.2026</td></tr>
+<tr><td>Parts of Slagelse municipality are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.2947; E 11.2858 </td><td>10.4.2026-18.4.2026</td></tr>
+<tr><td rowspan="2">DK-HPAI(P)-2026-00013</td><td>Parts of Ringsted, Holbæk, Sorø, Køge and Lejre municipalities beyond the area described in the protection zone are within the circle of radius 10 kilometres, centred on GPS coordinates N 55.5078; E 11.7801 </td><td>18.4.2026</td></tr>
+<tr><td>Parts of Ringsted and Holbæk municipalities are contained within a circle of radius 3 km, centred on GPS coordinates. N 55.5078; E 11.7801 </td><td>10.4.2026-18.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Germany**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">BAYERN</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00038</td><td>10 km Radius um die GPS-Koordinaten: 11.235646 / 48.298520 Landkreis Dachau <table><tbody><tr><td>—</td><td>Teile der Gemeinde Altomünster</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Bergkirchen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Erdweg</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Markt Indersdorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Odelzhausen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gesamte Gemeinde Pfaffenhofen/Glonn</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Schwabhausen</td></tr>
+</tbody>
+</table>
+ Landkreis Fürstenfeldbruck <table><tbody><tr><td>—</td><td>Gesamte Gemeinde Egenhofen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gesamte Gemeinde Maisach ohne Galgen und Teile Gernlindens</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Mammendorf: Nannhofen und nordwestliche Spitze Mammendorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Oberschweinbach: Oberschweinbach und Günzelhofe</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Mittelstetten: Vogach und Hanshofen</td></tr>
+</tbody>
+</table>
+ Landkreis Aichach-Friedberg <table><tbody><tr><td>—</td><td>Gemeinde Adelzhausen mit Irschenhofen, Brandfischer, Tremmel und Burgadelzhausen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Eurasburg: nur Freienried, Brand, Hergetswiesen, Kalteneck, Ganswies, Freienried und Brugger</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Ried: nur Burgstall</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Sielenbach: nur Unterschröttenloh</td></tr>
+</tbody>
+</table>
+</td><td>11.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten: 11.235646 / 48.298520 Landkreis Dachau <table><tbody><tr><td>—</td><td>Teile der Gemeinde Erdweg,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Teile der Gemeinde Odelzhausen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gesamte Gemeinde Sulzemoos</td></tr>
+</tbody>
+</table>
+ Landkreis Fürstenfeldbruck <table><tbody><tr><td>—</td><td>Gemeinde Egenhofen: nordwestlicher Teil, nördlich von Wenigmünchen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Maisach: nördlicher Teil, nördlich von Prack</td></tr>
+</tbody>
+</table>
+</td><td>3.4.2026 – 11.4.2026</td></tr>
+<tr><td colspan="3">BRANDENBURG</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00023</td><td>10 km Radius um die GPS-Koordinaten: 13.180970 / 52.228710 Landkreis Teltow-Fläming <table><tbody><tr><td>—</td><td>Stadt Ludwigsfelde mit Gemarkungen Schiaß, Lüttchendorf und Gröben sowie Teilen der Gemarkungen Siethen, Mietgendorf, Ahrensdorf, Genshagen, Löwenbruch, Kerzendorf, Wietstock und Ludwigsfelde</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Trebbin mit den Gemarkungen Thyrow, Märkisch-Wilmersdorf, Klein Schulzendorf, Stangenhagen und Wiesenhagen 01 sowie Teilen der Gemarkungen Großbeuthen, Kliestow, Löwendorf, Christinendorf, Wiesenhagen, Blankensee, Glau, Schönhagen, Lüdersdorf und Trebbin</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Zossen mit Teilen der Gemarkung Nunsdorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Am Mellensee mit Teilen der Gemarkung Gadsdorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Nuthe-Urstromtal mit der Gemarkung Märtensmühle sowie Teilen der Gemarkungen Ahrensdorf, Schöneweide, Liebätz, Woltersdorf, Ruhlsdorf, Berkenbrück, Hennickendorf und Dobbrikow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Großbeeren mit Teilen der Gemarkung Großbeeren</td></tr>
+</tbody>
+</table>
+ Landkreis Potsdam-Mittelmark <table><tbody><tr><td>—</td><td>Gemeinde Nuthetal mit der Gemarkung Tremsdorf sowie Teilen der Gemarkungen Saarmund, Fahlhorst und Nudow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Michendorf mit der Gemarkung Stücken sowie mit Teilen der Gemarkungen Fresdorf und Wildenbruch</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Seddiner See mit Teilen der Gemarkungen Kähnsdorf und Seddin</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Beelitz mit der Gemarkung Körzin sowie mit Teilen der Gemarkungen Schlunkendorf, Zauchwitz, Schönefeld und Rieben</td></tr>
+</tbody>
+</table>
+</td><td>9.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten: 13.180970 / 52.228710 Landkreis Teltow-Fläming <table><tbody><tr><td>—</td><td>Stadt Trebbin mit Teilen der Gemarkungen Löwendorf, Schönhagen, Blankensee, Glau, Großbeuthen, Trebbin und Kliestow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Ludwigsfelde mit Teilen der Gemarkung Mietgendorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Nuthe-Urstromtal mit Teilen der Gemarkung Ahrensdorf</td></tr>
+</tbody>
+</table>
+</td><td>1.4.2026 – 9.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(NON-P)-2026-00174</td><td>10 km Radius um die GPS-Koordinaten: 52.97950 / 14.20950 Landkreis Uckermark <table><tbody><tr><td>—</td><td>Stadt Angermünde mit der Gemarkung Stolpe sowie Teilen der Gemarkungen Gellmersdorf und Crussow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Schwedt/ Oder mit den Gemarkungen Zützen und Flemsdorf sowie Teilen der Gemarkungen Schwedt/ Oder, Berkholz-Meyenburg, Landin, Felchow, Schöneberg und Criewen</td></tr>
+</tbody>
+</table>
+ Landkreis Barnim <table><tbody><tr><td>—</td><td>Gemeinde Lunow-Stolzenhagen, mit der Gemarkung Stolzenhagen sowie Teilen der Gemarkung Lunow</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten: 52.97950 / 14.20950 Landkreis Uckermark <table><tbody><tr><td>—</td><td>Stadt Schwedt/Oder mit Teilen der Gemarkungen Schöneberg und Criewen</td></tr>
+</tbody>
+</table>
+</td><td>29.3.2026 – 6.4.2026</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00036</td><td>10 km Radius um die GPS-Koordinaten: 51.610946 / 13.356770 Landkreis Elbe-Elster <table><tbody><tr><td>—</td><td>Gemeinde Uebigau-Wahrenbrück mit den Gemarkungen Neudeck, Bahnsdorf, Bomsdorf, Beiersdorf, Zinsdorf, Wahrenbrück, Winkel, Prestewitz, Rothstein und Domsdorf sowie Teilen der Gemarkungen Drasdo, Wiederau, München, Langennauendorf, Uebigau, Beutersitz und Wildgrube</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Doberlug-Kirchhain mit den Gemarkungen Buchhain und Prießen sowie Teilen der Gemarkungen Nexdorf, Dübrichen, Arenzhain und Doberlug-Kirchhain</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Schlieben mit Teilen der Gemarkungen Jagsal, Oelsig und Frankenhain</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Fichtwald mit Teilen der Gemarkung Stechau</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Kremitzaue mit Teilen der Gemarkung Malitschkendorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Herzberg (Elster) mit den Gemarkungen Redlin und Friedrichsluga sowie mit Teilen der Gemarkungen Gräfendorf, Herzberg, Friedersdorf bei Herzberg und Osteroda</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Falkenberg/Elster mit den Gemarkungen Kleinrössen und Falkenberg sowie Teilen der Gemarkungen Großrössen, Beyern, Kölsa und Schmerkendorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Bad Liebenwerda mit Teilen der Gemarkungen Lausitz, Bad Liebenwerda, Maasdorf, Thalberg und Theisa</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Amt Elsterland mit Teilen der Gemarkungen Schilda, Schönborn, Schadewitz und Tröbitz</td></tr>
+</tbody>
+</table>
+</td><td>15.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten: 51.610946 / 13.356770 Landkreis Elbe-Elster <table><tbody><tr><td>—</td><td>Gemeinde Uebigau-Wahrenbrück mit Teilen der Gemarkungen Drasdo, Wiederau, München, Langennauendorf, Uebigau, Beutersitz und Wildgrube</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Doberlug-Kirchhain mit Teilen der Gemarkung Nexdorf</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Amt Elsterland mit Teilen der Gemarkung Schilda</td></tr>
+</tbody>
+</table>
+</td><td>7.4.2026 – 15.4.2026</td></tr>
+<tr><td>DE-HPAI(P)-2026-00037</td><td>10 km Radius um die GPS-Koordinaten: 12.966554 / 53.275063 Landkreis Ostprignitz-Ruppin <table><tbody><tr><td>—</td><td>Stadt Rheinsberg mit den Gemarkungen Großzerlang und Kleinzerlang</td></tr>
+</tbody>
+</table>
+</td><td>11.4.2026</td></tr>
+<tr><td colspan="3">MECKLENBURG-VORPOMMERN</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00037</td><td>10 km Radius um die GPS-Koordinaten: 12.966554 / 53.275063 Landkreis Mecklenburgische Seenplatte <table><tbody><tr><td>—</td><td>Gemeinde Mirow mit den Ortschaften Mirow, Blankenförde, Fleeth, Leussow, Peetsch, Qualzow und Roggentin</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Wesenberg mit den Ortschaften Below, Ahrensberg, Klein Quassow, Hartenland, Strasen und Zirtow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Wustrow mit den Ortschaften Canow, Drosedow, Neu Drosedow, Neu Canow, Pälitzhof, Seewalde und Wustrow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Userin mit den Ortschaften Userin und Groß Quassow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Neustrelitz mit Stadt Neustrelitz (Stadtteil Kalkhorst und angrenzende Gebiete westlich der Bahnlinie) und die Ortschaften Klein Trebbow und Groß Trebbow</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Priepert mit den Ortschaften Priepert und Radensee</td></tr>
+</tbody>
+</table>
+</td><td>11.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten: 12.966554 / 53.275063 Landkreis Mecklenburgische Seenplatte <table><tbody><tr><td>—</td><td>Gemeinde Wesenberg mit Stadt Wesenberg</td></tr>
+</tbody>
+</table>
+</td><td>3.4.2026 – 11.4.2026</td></tr>
+<tr><td colspan="3">NIEDERSACHSEN</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00034</td><td>10 km Radius um die GPS-Koordinaten 7,447277; 53,288451 Landkreis Leer <table><tbody><tr><td>—</td><td>Gemeinde Moormerland</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Leer</td></tr>
+</tbody>
+</table>
+</td><td>4.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten 7,447277; 53,288451 Landkreis Aurich <table><tbody><tr><td>—</td><td>Gemeinde Großefehn</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Ihlow</td></tr>
+</tbody>
+</table>
+ Landkreis Leer <table><tbody><tr><td>—</td><td>Gemeinde Brinkum</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Detern</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Hesel</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Holtland</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Jemgum</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Moormerland</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Neukamperfehn</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Nortmoor</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Rhauderfehn</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Weener</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Gemeinde Westoverledingen</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Stadt Leer</td></tr>
+</tbody>
+</table>
+</td><td>27.3.2026 – 4.4.2026</td></tr>
+<tr><td colspan="3">SACHSEN</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00035</td><td>10 km Radius um die GPS-Koordinaten 13.054134 / 51.210412 Landkreis Mittelsachsen  Betroffen sind die Ortsteile Döbeln, Limmritz, Miera, Nöthschütz, Pischwitz, Schweta, Simselwitz, Stockhausen, Technitz, Töpeln, Wöllsdorf, Zschackwitz, Zschäschütz der Stadt Döbeln.  Die Ortsteile Bennewitz, Döschütz, Eichardt, Gadewitz, Gallschütz, Großweitzschen, Hochweitzschen, Höckendorf, Jeßnitz, Kleinweitzschen, Mockritz, Niederranschütz, Obergoseln, Redemitz, Strocken, Strölla, Tronitz, Westewitz, Wollsdorf, Zaschwitz, Zschepplitz, Zschörnewitz der Gemeinde Großweitzschen.  Die Ortsteile Lauschka, Nauhain, Wendishain der Stadt Hartha.  Die Ortsteile Auerschütz, Baderitz, Beutig, Binnewitz, Clanzschwitz, Delmschütz, Döhlen, Goselitz, Jahna, Kattnitz, Kiebitz, Lüttewitz, Lützschnitz, Merschütz, Mischütz, Möbertitz, Münchhof, Niederlützschera, Noschkowitz, Oberlützschera, Obersteina, Ostrau, Ottewig, Pulsitz, Rittmitz, Schlagwitz, Schmorren, Schrebitz, Sömnitz, Töllschütz, Trebanitz, Zschaitz, Zschochau, Zunschwitz der Gemeinde Jahnatal.  Die Ortsteile Altenhof, Beiersdorf, Bockelwitz, Börtewitz, Clennen, Dobernitz, Doberquitz, Fischendorf, Görnitz Großpelsen, Hetzdorf, Kleinpelsen, Klosterbuch, Korpitzsch, Kroptewitz, Leisnig, Leuterwitz, Minkwitz, Naundorf, Naunhof, Nicollschwitz, Paudritzsch, Polkenberg, Scheergrund, Sitten, Zeschwitz, Zollschwitz der Stadt Leisnig.  Landkreis Nordsachsen  Betroffen sind Teile der Gemeinden Mügeln, Naundorf, Oschatz und Wermsdorf.  Landkreis Leipzig  Betroffen sind die Ortslage Göttwitz mit den Flurstücken 35a, 37 und 40, Teile der Ortslage Jessewitz sowie Teile der Ortslage Draschwitz.  Landkreis Meißen  Betroffen sind Teile der Gemarkung Steudten in der Gemeinde Stauchitz. </td><td>7.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten 13.054134 / 51.210412 Landkreis Mittelsachsen  Betroffen sind die Ortsteile Gallschütz, Göldnitz, Graumnitz. Strocken der Gemeinde Großweitzschen und die Ortsteile Döhlen, Kiebitz, Obersteina, Schrebitz, Sömnitz, Töllschütz der Gemeinde Jahnatal.  Landkreis Nordsachsen  Betroffen ist die Gemeinde Mügeln mit den Ortsteilen Baderitz, Gaudlitz, Lichteneichen, Lüttnitz, Mügeln, Neubaderitz, Niedergoseln, Paschkowitz, Sornzig, Zävertitz, Zschannewitz. </td><td>28.3.2026 – 7.4.2026</td></tr>
+<tr><td colspan="3">SACHSEN-ANHALT</td></tr>
+<tr><td rowspan="2">DE-HPAI(P)-2026-00033</td><td>10 km Radius um die GPS-Koordinaten 11.351333 / 52.010502 Landkreis Börde <table><tbody><tr><td>—</td><td>Einheitsgemeinde Oschersleben (Bode) mit den Ortsteilen Alikendorf, Altbrandsleben, Ampfurth, Andersleben, Emmeringen, Günthersdorf, Hadmersleben, Kleinalsleben, Neubau, Neubrandsleben, Oschersleben, Schermcke</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Einheitsgemeinde Stadt Wanzleben-Börde mit den Ortsteilen Blumenberg, Bottmersdorf, Buch, Klein Germersleben, Klein Wanzleben, Meyendorf, Seehausen, Stadt Frankfurt, Wanzleben</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Einheitsgemeinde Sülzetal mit Ortsteil Schwaneberg</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Verbandsgemeinde Westliche Börde mit der Gemeinde Gröningen mit Ortsteil Großalsleben und Gemeinde Kroppenstedt</td></tr>
+</tbody>
+</table>
+ Salzlandkreis mit Teilen der Gemeinde Wolmirsleben, Teilen der Gemeinde Börde-Hakel und der Stadt Egeln </td><td>5.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten 11.351333 / 52.010502 Landkreis Börde <table><tbody><tr><td>—</td><td>Einheitsgemeinde Oschersleben (Bode) mit den Ortsteilen Groß Germersleben, Klein Oschersleben, Peseckendorf</td></tr>
+</tbody>
+</table>
+</td><td>28.3.2026 – 5.4.2026</td></tr>
+<tr><td colspan="3">THÜRINGEN</td></tr>
+<tr><td rowspan="2">DE-HPAI(NON-P)-2026-01027</td><td>10 km Radius um die GPS-Koordinaten 11.046320 / 51.063550 Erfurt, Stadt <table><tbody><tr><td>—</td><td>Folgende Gebiete: Altstadt, Andreasvorstadt, Azmannsdorf, Berliner Platz, Brühlervorstadt – nördlich der Straßen Höhenweg und Röderweg, Gispersleben, Hohenwinden, Ilversgehofen, Johannesplatz, Johannesvorstadt, Kerspleben, Krämpfervorstadt, Kühnhausen, Linderbach – nördlich der B 7, Marbach, Mittelhausen, Moskauer Platz, Rieth, Roter Berg, Salomonsborn, Schwerborn, Sulzer Siedlung, Tiefthal, Töttleben, Vieselbach, Wallichen</td></tr>
+</tbody>
+</table>
+ Landkreis Sömmerda <table><tbody><tr><td>—</td><td>Folgende Gemeinden und Gemeindeteile: Alperstedt, Andisleben, Bachstedt, Dielsdorf, Eckstedt, Elxleben, Gebesee, Großmölsen, Großrudestedt, Haßleben, Kleinmölsen, Kranichborn, Markvippach, Ollendorf, Riethnordhausen, Ringleben, Schallenburg, Schloßvippach, Schwansee, Udestedt, Walschleben, Werningshausen, Witterda, Wundersleben</td></tr>
+</tbody>
+</table>
+</td><td>16.4.2026</td></tr>
+<tr><td>3 km Radius um die GPS-Koordinaten 11.046320 / 51.063550 Erfurt, Stadt <table><tbody><tr><td>—</td><td>Ortsteil Stotternheim</td></tr>
+</tbody>
+</table>
+ Landkreis Sömmerda <table><tbody><tr><td>—</td><td>Gemeinde Nöda</td></tr>
+</tbody>
+</table>
+</td><td>8.4.2026 – 16.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: France**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Département: Eure: (27)</td></tr>
+<tr><td rowspan="2">FR-HPAI(P)-2026-00016</td><td>AMBENAY LES BAUX-DE-BRETEUIL  MESNIL-EN-OUCHE (COMMUNE DÉLÉGUÉES DE SAINT-PIERRE-DU-MESNIL, GISAY-LA-COUDRE ET LA BARRE-EN-OUCHE)  BOIS-ANZERAY  BOIS-ARNAULT  BOIS-NORMAND-PRÈS-LYRE  CHÉRONVILLIERS  LA HAYE-SAINT-SYLVESTRE  MESNIL-ROUSSET  NEAUFLES-AUVERGNY  LA NEUVE-LYRE  NOTRE-DAME-DU-HAMEL  RUGLES  LA VIELLE-LYRE </td><td>15.4.2026</td></tr>
+<tr><td>JUIGNETTES LES BOTTEREAUX  CHAMBORD  SAINT-ANTONIN-DE-SOMMAIRE </td><td>7.4.2026 – 15.4.2026</td></tr>
+<tr><td colspan="3">Département: Maine-et-Loire (49)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00015</td><td>LA POITEVINIÈRE LE PIN EN MAUGES  JALLAIS  BEAUPRÉAU  ANDREZÉ  LA JUBAUDIÈRE  LA POMMERAYE  SAINT-LAURENT-DE-LA-PLAINE  BOURNEUF-EN-MAUGES  SAINT-QUENTIN-EN-MAUGES  CHAUDRON-EN-MAUGES  LA SALLE-ET-CHAPELLE-AUBRY  LE MAY-SUR-ÈVRE  TRÉMENTINES  LA CHAPELLE-ROUSSELIN  SAINT-GEORGES-DES-GARDES  CHEMILLÉ  SAINT-LÉZIN  LA JUMELLIÈRE  SAINTE-CHRISTINE  NEUVY-EN-MAUGES </td><td>7.4.2026</td></tr>
+<tr><td>FR-HPAI(P)-2026-00015</td><td>BEAUPRÉAU-EN-MAUGES (LA POITEVINIÈRE) BEAUPRÉAU-EN-MAUGES (LE PIN EN MAUGES)  BEAUPRÉAU-EN-MAUGES (JALLAIS)  CHEMILLÉ-EN-ANJOU (NEUVY EN MAUGES)  MONTREVAULT-SUR-ÈVRE </td><td>30.3.2026 –7.4.2026</td></tr>
+<tr><td colspan="3">Département: Nord (59)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00014</td><td>HAVERSKERQUE MERVILLE  MORBECQUE (sud de la voie ferrée)  STEENBECQUES (sud de la D943B)  THIENNES </td><td>1.4.2026</td></tr>
+<tr><td colspan="3">Département: Pas-de-Calais (62)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00014</td><td>ALLOUAGNE AMES  ANNEZIN  BETHUNE  BOUREQ  BURBURE  CALONNE-SUR-LA-LYS  CHOCQUES  ECQUEDECQUES  GONNEHEM  GUARBECQUE  HAM-EN-ARTOIS  HINGES  ISBERGUES  LABEUVRIERE  LAMBRES  LAPUGNOY  LESPESSES  LESTREM  LIERES  LILLERS  LOCON  LOZINGHEM  MAZINGHEM  MONT-BERNACHON  NORRENT-FONTES  OBLINGHEM  SAINT-FLORIS  SAINT-HILAIRE-COTTES  SAINT-VENANT AU NORD DE LA D937  VENDIN-LES-BETHUNE </td><td>1.4.2026</td></tr>
+<tr><td>FR-HPAI(P)-2026-00014</td><td>BUSNES ROBECQ  SAINT-VENANT AU SUD DE LA D937 </td><td>24.3.2026 – 1.4.2026</td></tr>
+<tr><td colspan="3">Département: Orne (61)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00016</td><td>LA FERTE-EN-OUCHE L’AIGLE  SAINT-MARTIN-D’ECUBLEI  SAINT-NICOLAS-DE-SOMMAIRE  SAINT-SULPICE-SUR-RISLE  SAINT-SYMPHORIEN-DES-BRUYERES </td><td>15.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Italy**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Region: Toscana</td></tr>
+<tr><td rowspan="2">IT-HPAI(P)-2026-00018</td><td>The area of the parts of Toscana Region extending beyond the area described in the protection zone and within the circle of a radius of ten kilometres, centred on WGS84 dec. coordinates N 43.556819, E 11.858975</td><td>27.4.2026</td></tr>
+<tr><td>The area of the parts of Toscana Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.556819, E 11.858975</td><td>19.4.2026-27.4.2026</td></tr>
+<tr><td rowspan="2">IT-HPAI(P)-2026-00019</td><td>The area of the parts of Toscana Region extending beyond the area described in the protection zone and within the circle of a radius of ten kilometres, centred on WGS84 dec. coordinates N 43.823643, E 11.147677</td><td>22.4.2026</td></tr>
+<tr><td>The area of the parts of Toscana Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.823643, E 11.147677</td><td>14.4.2026-22.4.2026</td></tr>
+<tr><td colspan="3">Region: Umbria</td></tr>
+<tr><td rowspan="2">IT-HPAI(P)-2026-00017</td><td>The area of the parts of Umbria Region extending beyond the area described in the protection zone and within the circle of a radius of ten kilometres, centred on WGS84 dec. coordinates N 43.00383, E 12.33797</td><td>17.4.2026</td></tr>
+<tr><td>The area of the parts of Umbria Region contained within a circle of radius of three kilometres, centred on WGS84 dec. coordinates N 43.00383, E 12.33797</td><td>9.4.2026-17.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Hungary**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td colspan="3">Bács-Kiskun vármegye</td></tr>
+<tr><td rowspan="2">HU-HPAI(P)-2026-00012 HU-HPAI(P)-2026-00013  HU-HPAI(P)-2026-00014 </td><td>Bugac, Fülöpjakab, Kiskunfélegyháza, Kunszállás, Petőfiszállás és Városföld települések védőkörzeten kívül eső teljes közigazgatási területe. Bugacpusztaháza, Jakabszállás, Móricgát és Tiszaalpár települések közigazgatási területének a 46.720500 és a 19.818072, a 46.724938 és a 19.799245, valamint a 46.702590 és a 19.770540 GPS-koordináták által meghatározott pont körüli 10 km sugarú körön belül eső területe. </td><td>9.4.2026</td></tr>
+<tr><td>Bugac és Kiskunfélegyháza település közigazgatási területének a 46.720500 és a 19.818072, a 46.724938 és a 19.799245, valamint a 46.702590 és a 19.770540 GPS-koordináták által meghatározott pont körüli 3 km sugarú körön belül eső területe.</td><td>1.4.2026 – 9.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: the Netherlands**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">NL-HPAI(P)-2026-00012</td><td>Those parts of the Provinces Gelderland and Utrecht extending beyond the area described in the protection zone and within a circle of a radius of 10 kilometres, centered on WGS84 dec. coordinates Latitude 52.08 / Longitude 5.57</td><td>2.4.2026</td></tr>
+<tr><td>Those parts of the Provinces Gelderland and Utrecht contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 52.08 / Longitude 5.57</td><td>25.3.2026 – 2.4.2026</td></tr>
+<tr><td rowspan="2">NL-HPAI(P)-2026-00013</td><td>Those parts of the Province Gelderland extending beyond the area described in the protection zone and within a circle of a radius of 10 kilometres, centered on WGS84 dec. coordinates Latitude 52.17 / Longitude 6.58</td><td>4.4.2026</td></tr>
+<tr><td>Those parts of the Province Gelderland contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 52.17 / Longitude 6.58</td><td>27.3.2026 – 4.4.2026</td></tr>
+<tr><td rowspan="2">NL-HPAI(P)-2026-00014</td><td>Those parts of the Provinces Gelderland and beyond the area described in the protection zone and within a circle of a radius of 10 kilometres, centered on WGS84 dec. coordinates Latitude 52.25 / Longitude 5.50</td><td>7.4.2026</td></tr>
+<tr><td>Those parts of the Provinces Gelderland and Flevoland contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 52.25 / Longitude 5.50</td><td>30.3.2026 – 7.4.2026</td></tr>
+<tr><td rowspan="2">NL-HPAI(P)-2026-00015</td><td>Those parts of the Provinces Noord Brabant and Zuid Holland beyond the area described in the protection zone and within a circle of a radius of 10 kilometres, centered on WGS84 dec. coordinates Latitude 51.67 / Longitude 4.45</td><td>20.4.2026</td></tr>
+<tr><td>Those parts of the Province Noord Brabant contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 51.67 / Longitude 4.45</td><td>12.4.2026-20.4.2026</td></tr>
+<tr><td rowspan="2">NL-HPAI(P)-2026-00016</td><td>Those parts of the Provinces Drenthe and Overijssel beyond the area described in the protection zone and within a circle of a radius of 10 kilometres, centered on WGS84 dec. coordinates Latitude 52.73 / Longitude 6.59</td><td>21.4.2026</td></tr>
+<tr><td>Those parts of the Province Drenthe contained within a circle of a radius of 3 kilometres, centered on WGS84 dec. coordinates Latitude 52.73 / Longitude 6.59</td><td>13.4.2026-21.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Austria**
+
+| ADIS reference number of the outbreak | Area comprising: | Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687 |
+| --- | --- | --- |
+| CZ-HPAI(NON-P)-2026-0044 | Bezirk Hollabrunn, die Gemeinde Seefeld-Kadolz und Teile der Gemeinden Alberndorf im Pulkautal, Hadres, Haugsdorf und Mailberg innerhalb eines Kreises mit einem Radius von 10 km, dessen Mittelpunkt die WGS84-Koordinaten Breite 48,78, Länge 16,19 sind Bezirk Mistelbach, Teile der Gemeinden Großharras und Laa an der Thaya innerhalb eines Kreises mit einem Radius von 10 km, dessen Mittelpunkt die WGS84-Koordinaten Breite 48,78, Länge 16,19 sind. | 3.4.2026 |
+
+**Member State: Poland**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00041</td><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie chodzieskim, w gminie Margonin, miejscowości: część miejscowości Młynary na zachód od drogi łączącej ul. Strzelecką w Margoninie i osadę Marcinek, część Miasta Margonin na zachód od ul. Strzeleckiej i Szamocińskiej i na północ od ulicy Cmentarnej, Studźce, Klotyldzin, Radwanki, Sypniewo, Sułaszewo, Próchnowo-Duże Osady, Zbyszewice, Żoń, Dębiniec, Próchnowo, Bugaj, Ofelia;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie chodzieskim, w gminie Szamocin, miejscowości: Nadolnik, Nałęcza, Raczyn, Raczyn-Łęg, Józefowice, Szamocin, Atanazyn, Borówki, Borowo, Heliodorowo, Jaktorowo, Sokolec, Lipia Góra, Śluza Krostkowo, Antoniny, Strzelczyki, Swoboda, Margonin-Łęg;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>w powiecie chodzieskim, w gminie Budzyń, miejscowości: Podstolice, Budzyń, Dziewoklucz; w powiecie chodzieskim, w gminie Chodzież, miejscowości: Zacharzyn, Konstantynowo, Strzelce, Rataje, Pietronki, Podanin, Wymysław;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4)</td><td>w powiecie pilskim, w gminie Białośliwie, miejscowości: Białośliwie, Dworzakowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>5)</td><td>w powiecie pilskim, w gminie Miasteczko Krajeńskie, miejscowości: Wolsko;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>6)</td><td>w powiecie wągrowieckim, w gminie Wągrowiec, miejscowości: Kaliszany, Toniszewo, Pawłowo Żońskie, Oporzyn, Grylewo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>7)</td><td>w powiecie wągrowieckim, w gminie Gołańcz, miejscowości: Rybowo, Konary, Laskownica Mała, Laskownica Wielka, Krzyżanki, Tomczyce, Gołańcz, Grabowo, Buszewo, Bogdanowo, Potulin, Prostkowo, Jeziorki, Czesławice, Chojna, Parkowo, Smogulec, Mostki, Zamczysko.</td></tr>
+</tbody>
+</table>
+</td><td>3.4.2026</td></tr>
+<tr><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie chodzieskim, w gminie Margonin, miejscowości: Margońska Wieś, część miejscowości Młynary na wschód od drogi łączącej ul. Strzelecką w Margoninie i osadę Marcinek, Marcinek, część Miasta Margonin na wschód od ul. Strzeleckiej i ul. Szamocińskiej i na południe od ulicy Cmentarnej, Karolinka, Lipiniec, Lipiny, Kowalewo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie chodzieskim, w gminie Szamocin, miejscowości: Szamoty, Laskowo.</td></tr>
+</tbody>
+</table>
+</td><td>26.3.2026 – 3.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00042</td><td>W województwie kujawsko-pomorskim:<table><tbody><tr><td>1)</td><td>w powiecie lipnowskim:<table><tbody><tr><td>a)</td><td>w gminie Chrostkowo, miejscowości: Adamowo, Chrostkowo, Gołuchowo, Janiszewo, Ksawery, Majdany, Nowe Chrostkowo, Sikórz, Stalmierz, Wildno;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Skępe- miejscowości: Franciszkowo, Jarczewo, Lubówiec, Łąkie, Rumunki Skępskie, Skępe, Wioska, Żagno, Żuchowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>w gminie Wielgie, miejscowości: Bałdowo, Czarne, Czerskie Rumunki, Suradówek, Suszewo, Szczepanki;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>d)</td><td>w gminie Kikół, miejscowości: Ciełuchowo, Dąbrówka, Grodzeń, Jarczechowo, Kikół, Kikół-Wieś, Konotopie, Kołatek, Kołat-Rybniki, Lubin, Moszczonne, Nowopole, Rybniki, Sumin, Zajeziorze;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>e)</td><td>w gminie Lipno- miejscowości: Barany, Białowieżyn, Biskupin, Borek, Brzeźno, Chodorążek, Głodowo, Huta Głodowska, Ignackowo, Jankowo, Komorowo, Krzyżówki, Kłokock, Maliszewo, Ostrowite, Ośmiałowo, Piątki, Radomice, Rumiankowo, Rumunki Głodowskie, Suradowo, Tomaszewo, Trzebiegoszcz, Wierzbick</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie toruńskim:<table><tbody><tr><td>a)</td><td>w gminie Czernikowo miejscowości: Kiełpiny, Roztrzały.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>2.4.2026</td></tr>
+<tr><td>W województwie kujawsko-pomorskim:<table><tbody><tr><td>1)</td><td>w powiecie lipnowskim:<table><tbody><tr><td>a)</td><td>w gminie Lipno miejscowości: Chlebowo, Jastrzębie, Karnkowo, Karnkowskie Rumunki, Kolankowo, Lipno, Okrąg, Złotopole;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Kikół, miejscowości: Janowo, Wolęcin;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>w gminie Chrostkowo, miejscowości: Makówiec.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>25.3.2026 – 2.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(NON-P)-2026-00174</td><td>W województwie zachodniopomorskim:<table><tbody><tr><td>1.</td><td>Część gminy Cedynia w powiecie gryfińskim,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>Część gminy Chojna w powiecie gryfińskim<table><tbody><tr><td>—</td><td>położone poza obszarem zapowietrzonym oraz znajdujące się w promieniu 10 km od współrzędnych GPS: 52.97950 / 14.20950</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026</td></tr>
+<tr><td>W województwie zachodniopomorskim:<table><tbody><tr><td>1.</td><td>Część gminy Cedynia w powiecie gryfińskim,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>Część gminy Chojna w powiecie gryfińskim.</td></tr>
+</tbody>
+</table>
+ Zawierający się w promieniu 3 km od współrzędnych GPS: 52.97950 / 14.20950 </td><td>29.3.2026 – 6.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00043</td><td>W województwie kujawsko-pomorskim:<table><tbody><tr><td>1.</td><td>w powiecie inowrocławskim:<table><tbody><tr><td>a)</td><td>w gminie Kruszwica, miejscowości: Bachorce, Baranowo, Brześć, Bródzki, Chrosno, Giżewo, Grodztwo, Janikowo, Karczyn, Kobylnica, Kobylniki (część południowo-wschodnia miejscowości Kobylniki z granicą przebiegającą od zachodu wzdłuż drogi krajowej nr 62 do skrzyżowania z drogą wojewódzką nr 412, następnie na południowy -wschód wzdłuż drogi krajowej nr 62 do skrzyżowania z drogą objętą nr działki ewidencyjnej 24/1 oraz wzdłuż północnej granicy działki ewidencyjnej 21/46 do linii brzegowej zbiornika wodnego objętego nr ewidencyjnym działki 26/2), Kruszwica Lachmirowice, Maszenice, Mietlica, Orpikowo, Ostrówek, Papros, Piaski, Piecki, Polanowice, Popowo, Racice, Rzepiszyn, Rzepowo, Skotniki, Sokolniki, Sukowy, Szarlej, Słabęcin, Wola Wapowska, Wróble, Zaborowo, Złotowo, Łagiewniki;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>w powiecie radziejowskim:<table><tbody><tr><td>a)</td><td>w gminie Radziejów miejscowości: Bieganowo, Biskupice, Broniewek, Broniewo, Czołowo, Czołówek, Leonowo, Łany Wybranieckie, Opatowice, Plebanka, Pruchnowo, Płowki, Przemystka, Radziejów, Szostka, Tarnówka, Wąsewo, Kolonia Wąsewo, Zagorzyce,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Dobre miejscowości: Bronisław, Dobre Kolonia,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>w gminie Piotrków Kujawski miejscowości: Anusin, Byszewo, Piotrków Kujawski, Czarnotka, Jerzyce, Kaczewo, Kaspral, Połajewek, Przedłuż, Rudzik Mały, Rzeczyca, Wąsewo, Łabędzin, Świątniki;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>w powiecie mogileńskim:<table><tbody><tr><td>a)</td><td>w gminie Jeziora Wielkie miejscowości: Golejewo, Kościeszki, Lubstówek, Rzeszyn, Rzeszynek, Siemionki, Sierakowo, Włostowo,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Strzelno miejscowości: Mirosławice.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+ W województwie wielkopolskim:  w powiecie konińskim, w gminie Skulsk, miejscowość: Łuszczewo. </td><td>8.4.2026</td></tr>
+<tr><td>W województwie kujawsko-pomorskim, w powiecie inowrocławskim: w gminie Kruszwica miejscowości: Chełmce, Chełmiczki, Gocanowo, Gocanówko, Głębokie, Janocin, Karsk, Kicko, Morgi, Ostrowo, Rusinowo, Tarnowo, Tarnówko, Witowice. </td><td>31.3.2026 – 8.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00044 PL-HPAI(P)-2026-00045  PL-HPAI(P)-2026-00050  PL-HPAI(P)-2026-00052 </td><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat iławski:<table><tbody><tr><td>a)</td><td>w gminie Iława, miejscowości: Borek, Ciemny Staw, Dół, Dziarnówko, Dziarny, Franciszkowo Dolne, Franciszkowo Górne, Gromoty, Gulb, Kamionka, Laseczno, Ławice, Makowo, Mątyki, Mózgowo, Nejdyki, Segnowy, Solniki, Stanowo, Starzykowo, Stradomno, Tchórzanka, Wiewiórka, Wikielec, Zazdrość, w granicach administracyjnych obszaru Czerwona Karczma na północ od linii poprowadzonej przez miejscowości Radomek i Byszwałd, w granicach administracyjnych miejscowości Frednowy na wschód od linii poprowadzonej przez miejscowości Makowo i Mątyki, w granicach administracyjnych miejscowości Gałdowo na południe od linii poprowadzonej przez miejscowości Nowy Folwark i Nejdyki, w granicach administracyjnych obszaru Jezioro Karaś na północ od linii poprowadzonej przez miejscowości Wielka Wólka i Nowa Wieś, w granicach administracyjnych miejscowości Kałduny na południe od linii poprowadzonej przez miejscowości Nowa Wieś i Mątyki, w granicach administracyjnych miejscowości Karaś na północ od linii poprowadzonej przez miejscowości Laseczno i Sampława, w granicach administracyjnych miejscowości Łanioch na północ od linii poprowadzonej przez miejscowości Szymbark i Kaletka, w granicach administracyjnych miejscowości Makowo na wschód od linii poprowadzonej przez miejscowości Siemiany i Frednowy, w granicach administracyjnych miejscowości Nowa Wieś na południe od linii poprowadzonej przez miejscowości Szczepkowo i Gromoty, w granicach administracyjnych miejscowości Radomek na północ od linii poprowadzonej przez miejscowości Laseczno i Sampława, w granicach administracyjnych miejscowości Rudzienice na wschód od linii poprowadzonej przez miejscowości Frednowy i Kałduny, w granicach administracyjnych miejscowości Siemiany na północ od linii poprowadzonej przez miejscowości Szymbark i Kaletka, w granicach administracyjnych miejscowości Smolniki na północ od linii poprowadzonej przez miejscowości Radomek i Byszwałd,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Kisielice, miejscowości: Jędrychowo, Łęgowo, Nowy Folwark, Ogrodzieniec, Stary Folwark, Wola, w granicach administracyjnych miejscowości Klimy na wschód od linii poprowadzonej przez miejscowości Jawty Wielkie i Goryń, w granicach administracyjnych miejscowości Trupel na północ od linii poprowadzonej przez miejscowości Goryń i Dziarny,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>w gminie Lubawa, miejscowości: Gierłoż Polska, Zielkowo, w granicach administracyjnych miejscowości Byszwałd na północ od linii poprowadzonej przez miejscowości Radomno i Pomierki, w granicach administracyjnych miejscowości Kazanice na północ od linii poprowadzonej przez miejscowości Radomno i Pomierki,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>d)</td><td>w gminie Susz, miejscowości: Adamowo, Bałoszyce, Brusiny, Emilianowo, Grabowiec, Huta, Januszewo, Krzywiec, Michałowo, Olbrachtowo, Olbrachtówko, Piotrkowo, Rudniki, Różnowo, Susz, Wądoły, Zieleń, w granicach administracyjnych miejscowości Babięty Wielkie na zachód od linii poprowadzonej przez Brusiny (nieruchomość nr 9) i Jakubowo Kisielickie (nieruchomość nr 13), w granicach administracyjnych miejscowości Bronowo na południe od linii poprowadzonej przez miejscowości Jawty Małe i Różnowo, w granicach administracyjnych miejscowości Czerwona Woda na północ od linii poprowadzonej przez miejscowości Krzywiec i Januszewo, w granicach administracyjnych miejscowości Falknowo na północ od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Gostyczyn na południe od linii poprowadzonej przez miejscowości Kamieniec i Makowo, w granicach administracyjnych miejscowości Jakubowo Kisielickie na zachód od linii poprowadzonej przez miejscowości Czerwona Woda i Zazdrość, w granicach administracyjnych miejscowości Jawty Małe na wschód od linii poprowadzonej przez miejscowości Pławty Wielkie i Bronowo, w granicach administracyjnych miejscowości Karolewo na południe od linii poprowadzonej przez miejscowości Jawty Małe i Różnowo, w granicach administracyjnych miejscowości Nipkowie na południe od linii poprowadzonej przez miejscowości Jawty Wielkie i Karolewo, w granicach administracyjnych miejscowości Różanki na północ od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Ulnowo na północ od linii poprowadzonej przez miejscowości Krzywiec i Januszewo,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>e)</td><td>w gminie Zalewo, miejscowości: Urowo, w granicach administracyjnych miejscowości Matyty na południe od linii poprowadzonej przez miejscowości Olbrachtowo i Mozgowo, w granicach administracyjnych miejscowości Wieprz na południe od linii poprowadzonej przez miejscowości Olbrachtowo i Mozgowo,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>f)</td><td>miasto Iława;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat nowomiejski, w gminie Biskupiec, w granicach administracyjnych miejscowości Szwarcenowo na północ od linii poprowadzonej przez miejscowości Goryń i Dziarny, w granicach administracyjnych miejscowości Wielka Wólka na północ od linii poprowadzonej przez miejscowości Goryń i Dziarny;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat ostródzki:<table><tbody><tr><td>a)</td><td>w gminie Miłomłyn, miejscowości: Boguszewo, Gil Mały, Gil Wielki,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Ostróda, w granicach administracyjnych miejscowości Gierłoż na zachód od linii poprowadzonej przez miejscowości Niziny i Rożental.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>1.5.2026</td></tr>
+<tr><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat iławski:<table><tbody><tr><td>a.</td><td>w gminie Iława, miejscowości: Gardzień, Kamień Duży, Kamień Mały, Szałkowo, Szczepkowo, Szymbark, Tynwałd, Wilczany, Windyki, Wola Kamieńska, Ząbrowo, w granicach administracyjnych miejscowości Frednowy na zachód od linii poprowadzonej przez miejscowości Makowo i Mątyki, w granicach administracyjnych miejscowości Gałdowo na północ od linii poprowadzonej przez miejscowości Nowy Folwark i Nejdyki, w granicach administracyjnych miejscowości Kałduny na północ od linii poprowadzonej przez miejscowości Nowa Wieś i Mątyki, w granicach administracyjnych miejscowości Łanioch na południe od linii poprowadzonej przez miejscowości Szymbark i Kaletka, w granicach administracyjnych miejscowości Makowo na zachód od linii poprowadzonej przez miejscowości Siemiany i Frednowy, w granicach administracyjnych miejscowości Nowa Wieś na północ od linii poprowadzonej przez miejscowości Szczepkowo i Gromoty, w granicach administracyjnych miejscowości Rudzienice na zachód od linii poprowadzonej przez miejscowości Frednowy i Kałduny, w granicach administracyjnych miejscowości Siemiany na południe od linii poprowadzonej przez miejscowości Szymbark i Kaletka,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b.</td><td>w gminie Susz, miejscowości: Chełmżyca, Redaki, w granicach administracyjnych miejscowości Babięty Wielkie na wschód od linii poprowadzonej przez Brusiny (nieruchomość nr 9) i Jakubowo Kisielickie (nieruchomość nr 13), w granicach administracyjnych miejscowości Czerwona Woda na południe od linii poprowadzonej przez miejscowości Krzywiec i Januszewo, w granicach administracyjnych miejscowości Falknowo na południe od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Jakubowo Kisielickie na wschód od linii poprowadzonej przez miejscowości Czerwona Woda i Zazdrość, w granicach administracyjnych miejscowości Różanki na południe od drogi wojewódzkiej nr 521, w granicach administracyjnych miejscowości Ulnowo na południe od linii poprowadzonej przez miejscowości Krzywiec i Januszewo.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>23.4.2026-1.5.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00046</td><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat bartoszycki, w gminie Bisztynek, miejscowości: Grzęda, Nowa Wieś Reszelska, Pleśno, Unikowo, Wojkowo, w granicach administracyjnych miejscowości Dąbrowa na wschód od linii poprowadzonej przez miejscowości Łędławki i Tejstymy, w granicach administracyjnych miejscowości Łędławki na wschód od linii poprowadzonej przez miejscowości Troszkowo i Swędrówka, w granicach administracyjnych miejscowości Paluzy na wschód od linii poprowadzonej przez miejscowości Troszkowo i Swędrówka, w granicach administracyjnych miejscowości Sątopy na północ od linii poprowadzonej przez miejscowości Tolniki Małe i Wójtowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat kętrzyński:<table><tbody><tr><td>a.</td><td>w gminie Korsze, miejscowości Babieniec, Gudniki, Suśnik, Trzeciaki, w granicach administracyjnych miejscowości Kraskowo na południe od linii poprowadzonej przez miejscowości Łankiejmy i Tołkiny, w granicach administracyjnych miejscowości Łankiejmy na południe od linii poprowadzonej przez miejscowości Bajdyty i Kraskowo, w granicach administracyjnych miejscowości Tołkiny na zachód od linii poprowadzonej przez miejscowości Kraskowo i Siemki, w granicach administracyjnych miejscowości Wandajny na południe od linii poprowadzonej przez miejscowości Bajdyty i Kraskowo,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b.</td><td>w gminie Reszel, miejscowości: Jutrkowo, Klewno, Leginy, Pasterzewo, Robawy, Święta Lipka, Widryny, Worpławki, Wólka Ryńska, w granicach administracyjnych miejscowości Dębnik na wschód od linii poprowadzonej przez miejscowości Robawy i Tolniki Małe, w granicach administracyjnych miejscowości Kępa Tolnicka na północ od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Mnichowo na południe od linii poprowadzonej przez miejscowości Robawy i Górowo, w granicach administracyjnych miejscowości Pieckowo na zachód od linii poprowadzonej przez miejscowości Siemki i Pilec, w granicach administracyjnych miejscowości Pilec na północ od linii poprowadzonej przez miejscowości Widryny i Bezławki, w granicach administracyjnych miejscowości Reszel na wschód od linii poprowadzonej wzdłuż ulic Rataja, 1 Maja, Zwycięzców oraz Racławickiej, w granicach administracyjnych miejscowości Siemki na zachód od linii poprowadzonej przez miejscowości Tołkiny i Pieckowo, w granicach administracyjnych miejscowości Staniewo na zachód od linii poprowadzonej przez miejscowości Pieckowo i Zyndaki, w granicach administracyjnych miejscowości Stąpławki na zachód od linii poprowadzonej przez miejscowości Siemki i Pilec, w granicach administracyjnych miejscowości Tolniki Małe na północ od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Wola na północ od linii poprowadzonej przez miejscowości Stryjewo i Widryny, w granicach administracyjnych miejscowości Zawidy na południe od linii poprowadzonej przez miejscowości Robawy i Górowo;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat olsztyński, w gminie Kolno, miejscowości: Kabiny, Kolno, Ryn Reszelski, Wójtowo, Wysoka Dąbrowa, w granicach administracyjnych miejscowości Kominki na południe od linii poprowadzonej przez miejscowości Ryn Reszelski i Kocibórz, w granicach administracyjnych miejscowości Kruzy na północ od linii poprowadzonej przez miejscowością Lądek i Wólka, w granicach administracyjnych miejscowości Samławki na północ od linii poprowadzonej przez miejscowością Kruzy i Wola, w granicach administracyjnych miejscowości Tarniny na zachód od linii poprowadzonej przez miejscowości Sątopy-Samulewo i Otry.</td></tr>
+</tbody>
+</table>
+</td><td>14.4.2026</td></tr>
+<tr><td>W województwie warmińsko-mazurskim:<table><tbody><tr><td>1.</td><td>powiat bartoszycki, w gminie Bisztynek, w granicach administracyjnych miejscowości Sątopy na południe od linii poprowadzonej przez miejscowości Tolniki Małe i Wójtowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat kętrzyński, w gminie Reszel, miejscowości: Biel, w granicach administracyjnych miejscowości Dębnik na zachód od linii poprowadzonej przez miejscowości Robawy i Tolniki Małe, w granicach administracyjnych miejscowości Kępa Tolnicka na południe od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Mnichowo na północ od linii poprowadzonej przez miejscowości Robawy i Górowo, w granicach administracyjnych miejscowości Reszel na zachód od linii poprowadzonej wzdłuż ulic Rataja, 1 Maja, Zwycięzców oraz Racławickiej, w granicach administracyjnych miejscowości Tolniki Małe na południe od linii poprowadzonej przez miejscowości Klewno i Nowa Wieś Reszelska, w granicach administracyjnych miejscowości Zawidy na północ od linii poprowadzonej przez miejscowości Robawy i Górowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat olsztyński, w gminie Kolno, w granicach administracyjnych miejscowości Kominki na północ od linii poprowadzonej przez miejscowości Ryn Reszelski i Kocibórz, w granicach administracyjnych miejscowości Tarniny na wschód od linii poprowadzonej przez miejscowości Sątopy-Samulewo i Otry.</td></tr>
+</tbody>
+</table>
+</td><td>6.4.2026-14.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00047</td><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie nowotomyskim, w gminie Lwówek, miejscowości: Brody, Chmielinko, Grońsko, Grudzianka, Józefowo, Komorowice, Komorowo, Krzywy Las, Lipka Wielka, Lwówek, Mokre Ogrody, Pakosław, Posadowo, Posadówek, Zgierzynka;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie nowotomyskim, w gminie Miedzichowo, miejscowości: Błaki, Bolewice, Grudna, Lewiczynek, Modrzewina, Węgielnia;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>w powiecie międzychodzkim, w gminie Międzychód, miejscowości: Lewice, Kaliska, Krzyżówko, Mniszki, Tuczepy;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4)</td><td>w powiecie międzychodzkim, w gminie Kwilcz, miejscowości Miłostowo, Nowa Dąbrowa, Pólko, Stara Dąbrowa, Mechnacz, Rozbitek, Kwilcz, Zawada, Kurnatowice, Upartowo, Orzeszkowo, Mościejewo, Niemierzewo, Józefowo, Kubowo, Daleszynek, Lubosz, Augustowo, Chorzewo, Karolewice, Kozubówka;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>5)</td><td>w powiecie międzychodzkim, w gminie Chrzypsko Wielkie, miejscowości: Białkoszyce, Białkosz;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>6)</td><td>w powiecie szamotulskim, w gminie Pniewy, miejscowości: Rudka, Psarce, Lubocześnica, Karmin, Pniewy, Zamorze, Chełmno, Turowo.</td></tr>
+</tbody>
+</table>
+</td><td>15.4.2026</td></tr>
+<tr><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie nowotomyskim, w gminie Lwówek, miejscowości: Linie, Wymyślanka, Zębowo, Tarnowiec Zębówko, Konin;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie międzychodzkim, w gminie Kwilcz, miejscowości: Chudobczyce, Wituchowo.</td></tr>
+</tbody>
+</table>
+</td><td>7.4.2026-15.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(NON-P)-2026-00196</td><td><table><tbody><tr><td>1)</td><td>w powiecie pyrzyckim, w gminie Warnice miejscowości: Barnim, Cieszysław, część miejscowości Dębica niestanowiąca obszaru zapowietrzonego określonego w cz. A, część miejscowości Grędziec niestanowiąca obszaru zapowietrzonego określonego w cz. A, Janowo, Kłęby, Nowy Przylep, część miejscowości Obryta niestanowiąca obszaru zapowietrzonego określonego w cz. A, część miejscowości Reńsko niestanowiąca obszaru zapowietrzonego określonego w cz. A, Stary Przylep, Wójcin, Zaborsko;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie pyrzycki, w gminie Bielice miejscowości: Będgoszcz, część obrębu miejscowości Chabowo znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328, Chabówko, część obrębu miejscowości Nowe Linie znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Stare Chrapowo znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>w powiecie pyrzyckim, w gminie Pyrzyce miejscowości: część obrębu miejscowości Brzesko znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328, Brzezin, Chwasty, Czernice, Giżyn, część obrębu miejscowości Mechowo znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328, Młyny, Nieborowo, część miejscowości Okunica niestanowiąca obszaru zapowietrzonego określonego w cz. A, część obrębu miejscowości Pyrzyce znajdującej się w promieniu 10 km od współrzędnych 53.2341, 14.91328, Rzepnowo, Ryszewko, część miejscowości Ryszewo niestanowiąca obszaru zapowietrzonego określonego w cz. A, Stróżewo, część miejscowości Turze niestanowiąca obszaru zapowietrzonego określonego w cz. A, Żabów;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4)</td><td>w powiecie pyrzyckim, w gminie Przelewice część obrębu miejscowości Lubiatowo znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>5)</td><td>w powiecie gryfiński, w gminie Stare Czarnowo miejscowości: Dębina, Komorówko, Kolonia Nieznań, Kołbacz, część obrębu miejscowości Nieznań znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Stare Czarnowo znajdującej się w promieniu 10 km od współrzędnych 53.2341,14.91328; Żelewo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>6)</td><td>w powiecie stargardzkim, w gminie Dolice miejscowości: część obrębu miejscowości Przewłoki znajdującej się w promieniu 10 km od współrzędnych 53.254871, 14.960970, część obrębu miejscowości Żalęcino znajdującej się w promieniu 10 km od współrzędnych 53.254871, 14.960970;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>7)</td><td>w powiecie stargardzkim, w gminie wiejskiej Stargard miejscowości: część miejscowości Golczewo znajdującej się w promieniu 10 km od współrzędnych 53.2341 14.91328, Koszewko, część miejscowości Koszewo niestanowiąca obszaru zapowietrzonego określonego w cz. A, część miejscowości Kurcewo znajdującej się w promieniu 10 km od współrzędnych 53.2341 14.91328, Skalin, Strzyżno, Wierzchląd;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>8)</td><td>w powiecie stargardzkim, w gminie miejskiej Stargard miejscowości: część miejscowości Kluczewo znajdującej się w promieniu 10 km od współrzędnych 53.254871, 14.960970, część miasta Stargard znajdującego się w promieniu 10 km od współrzędnych 53.2341 14.91328;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>9)</td><td>w powiecie stargardzkim, w gminie Kobylanka część miejscowości Bielkowo znajdującej się w promieniu 10 km od współrzędnych 53.2341 14.91328, część obrębu miejscowości Jęczydół znajdującej się w promieniu 10 km od współrzędnych 53.254871, 14.960970, część obrębu miejscowości Kunowo znajdującej się w promieniu 10 km od współrzędnych 53.2341, 14.91328.</td></tr>
+</tbody>
+</table>
+</td><td>10.4.2026</td></tr>
+<tr><td>W województwie zachodniopomorskim:<table><tbody><tr><td>1)</td><td>w powiecie pyrzyckim, w gminie Warnice miejscowości: część obrębu miejscowości Dębica znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część miejscowości Grędziec znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Obryta znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Reńsko znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, Wierzbno;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie pyrzyckim, w gminie Pyrzyce miejscowości: część obrębu miejscowości Okunica znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Ryszewo znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328, część obrębu miejscowości Turze znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>powiat stargardzki, w gminie wiejskiej Stargard miejscowości: część obrębu miejscowości Koszewo znajdującej się w promieniu 3 km od współrzędnych 53.2341,14.91328.</td></tr>
+</tbody>
+</table>
+</td><td>2.4.2026-10.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00048</td><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie leszczyńskim, w gminie Włoszakowice, miejscowości: Dominice, Zbarzewo, Jezierzyce Kościelne, Krzycko Wielkie, Sądzia, Boguszyn, Bukówiec Górny, Skarżyń, część miejscowości Włoszakowice na południe od ul. Dominickiej;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie leszczyńskim, w gminie Święciechowa, miejscowość: Gołanice;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>w powiecie leszczyńskim, w gminie Wijewo, miejscowości: Zaborówiec, Miastko, część miejscowości Brenno na północ od ul. Wschowskiej wzdłuż ul. Okrężnej, na zachód od ul. Leszczyńskiej, ul. Kościelnej, ul. Kargowskiej;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4)</td><td>w powiecie wolsztyńskim, w gminie Przemęt, miejscowości: Górsko, Osłonin, Wieleń, Kaszczor, Perkowo, Mochy, Nowa Wieś, Solec Nowy, Borek, Siekowo, Siekówko, Kluczewo, Barchlin, Biskupice, Poświętno, Popowo Stare;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>5)</td><td>w powiecie wolsztyńskim, w gminie Wolsztyn, miejscowości: część miejscowości Wroniawy na wschód od północnego kanału Obry, część miejscowości Błocko na południe od północnego kanału Obry;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>6)</td><td>w powiecie grodziskim, w gminie Rakoniewice, miejscowości: Terespol, Faustynowo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>7)</td><td>w powiecie grodziskim, w gminie Wielichowo, miejscowości: Wilkowo Polskie, Śniaty;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>8)</td><td>w powiecie kościańskim, w gminie Śmigiel, miejscowości: Żegrówko, Żegrowo, Poladowo, Sikorzyn, Morownica, Bronikowo, Nowe Szczepankowo, Stare Szczepankowo, Machcin.</td></tr>
+</tbody>
+</table>
+ W województwie lubuskim teren obejmujący w powiecie wschowskim, w gminie Wschowa, część miejscowości Lgiń leżącą w promieniu do 10 km od ogniska choroby. </td><td>18.4.2026</td></tr>
+<tr><td>W województwie wielkopolskim:<table><tbody><tr><td>1)</td><td>w powiecie leszczyńskim, w gminie Włoszakowice, miejscowości: Boszkowo, Boszkowo-Letnisko, Charbielin, Dłużyna, Grotniki, Ujazdowo, część miejscowości Włoszakowice na północ od ul. Dominickiej;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie wolsztyńskim, w gminie Przemęt, miejscowości: Sokołowice, Bucz, Bucz Nowy, Sączkowo, Przemęt, Dębina, Starkowo, Radomierz, Olejnica, Błotnica.</td></tr>
+</tbody>
+</table>
+</td><td>10.4.2026-18.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00049</td><td>W województwie łódzkim:<table><tbody><tr><td>1.</td><td>powiat tomaszowski, gmina Żelechlinek, obręby: Dzielnica, Gutkowice, Gutkowice Nowiny, Józefin, Sabinów, Władysławów;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat skierniewicki, gmina Słupia, obręby: Nowa Krosnowa na północ od numerów domów 27, 28, 29, Bonarów, Gzów, Krosnowa, Modła, Podłęcze, Słupia, Winna Góra, Wólka Nazdroje, Zagórze;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat skierniewicki, gmina Lipce Reymontowskie, obręby: Lipce Reymontowskie z wyłączeniem kompleksu leśnego wzdłuż ul. Reymonta wraz z wyłączeniem numerów 42 i 49 oraz z pominięciem posesji 19 i 19a do których prowadzi dojazd od strony kompleksu leśnego, Drzewce, Mszadla, Wola Drzewiecka, Wólka Krosnowska;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4.</td><td>powiat skierniewicki, gmina Godzianów, obręby: Byczki, Godzianów: ul. Południowa, ul. Malownicza, ul. Zielona, Kawęczyn, Lnisno;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>5.</td><td>powiat skierniewicki, gmina Głuchów, obręby: Białynin Krasówka, Białynin Południe, Borysław od numeru 57, Celigów od numeru 52, Głuchów – ul. Piaski do skrzyżowania z ul. Starowiejską, następnie ul. Starowiejską do ronda, następnie Aleją Klonową do granicy administracyjnej z obrębem Miłochniewice; Janisławice, Kochanów, Michowice na zachód od numeru 69, Prusy od numery 32, Reczul;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>6.</td><td>powiat brzeziński, gmina Brzeziny, obręby: Bronowice, Przecław na wschód od skrzyżowania drogi krajowej 72 z drogą na Bronowice, Rozworzyn, Szymaniszki miejscowość Henryków, Tworzyjanki;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>7.</td><td>powiat brzeziński, gmina Dmosin, obręby: Dąbrowa Mszadelska, Koziołki na wschód od rzeki Mrogi, Kołacin, Kołacin PGR, Kołacinek, Nadolna Kolonia, Nadolna Wieś, Teresin;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>8.</td><td>powiat łódzki wschodni, gmina Koluszki – obszar wiejski, obręby; Długie, Felicjanów z wyłączeniem numerów nieparzystych od 1 do 17, parzystych od 2 do 22, Jeziorko, Katarzynów od numeru 18-44, a także numery: 26a, 31a, 29a, 29b, 29c, 29d, 29e, 29h, 35a, 35c, 35e, 36a, 41a, 42a, Kazimierzów, Lisowice, Regny, Stefanów, Turobowice, Wierzchy, Świny;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>9.</td><td>powiat brzeziński, gmina Jeżów, obręby: Frydrychów, Góra, Jankowice, Kosiska od numeru 1 do 44, Leszczyny z włączeniem miejscowości Dąbrowa numery 2, 2A, 7-10, oraz miejscowości Leszczyny-Kolonia, Lubiska Kolonia, Mościska, Popień Parcela numery od 9 do 17, Popień PGR numery od 1 do 8, Przybyszyce, Rewica A, Rewica B, Rewica Kolonia, Taurów, Wola Łokotowa, Władysławowo, Zamłynie;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>10.</td><td>powiat brzeziński, gmina Rogów: Jasień, Józefów ulica Sportowa z pominięciem numerów: 13A, 33, 31, 29, 27, 23, 21, 19, 17,5 A, Kobylin, Kotulin, Mroga Dolna, Olsza, Popień – numery od 1 do 38, Przyłęk Mały, Rogów od granic administracyjnych z obrębem Marianów na południe od ulicy Słonecznej, następnie na zachód od ulicy skrzyżowania ulicy Słonecznej z ulicą 9 maja, następnie na zachód od ulicy 9 maja do skrzyżowania z ulicą Wojska Polskiego, następnie na południe od ulicy Wojska Polskiego, Słoneczną do skrzyżowania z ulicą 9 maja, następnie ulicą 9 maja do skrzyżowania z ulicą Wojska Polskiego do skrzyżowania z ulicą Dworcową, następnie na zachód od ulicy Dworcowej oraz ulicy Przejazdowej aż do granic administracyjnych z obrębem Józefów, z pominięciem ul. Stefana Żeromskiego nr 3, Przyłęk Duży numery nieparzyste od 1 do 45 oraz parzyste od 2 do 48a, Rogów PGR, Rogów Wieś, Romanówek, Stefanów, Wągry, Wągry Nowe, Zacywilki.</td></tr>
+</tbody>
+</table>
+ Zawierające się w promieniu 10 km od współrzędnych GPS: 51.8215574/ 19.9339013 </td><td>23.4.2026</td></tr>
+<tr><td>W województwie łódzkim:<table><tbody><tr><td>1.</td><td>powiat skierniewicki, gmina Słupia: obręb Nowa Krosnowa – na południe od numerów domów 27, 28, 29;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>powiat brzeziński, gmina Jeżów, obręby: Jasienin Duży, Jasienin Mały, Jeżów, Kosiska z wyłączeniem numerów od 1 do 44, Leszczyny miejscowość Dąbrowa z wyłączeniem numerów 2, 2A, oraz miejscowości Leszczyny-Kolonia, 7-10 Mikulin, Popień Parcela z wyłączeniem numerów od 9 do 17, Popień PGR z wyłączeniem numerów od 1 do 8, Strzelna;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>powiat brzeziński, gmina Rogów, obręby: Józefów ulica Sportowa numery: 13A, 33, 31, 29, 27, 23, 21, 19, 17,5 A, Marianów, Popień z wyłączeniem numerów od 1 do 38, Przyłęk Duży z wyłączeniem numerów nieparzystych od 1 do 45, parzystych od 2 do 48a, Rogów od granic administracyjnych z obrębem Marianów ulicą Słoneczną do skrzyżowania z ulicą 9 maja, następnie ulicą 9 maja do skrzyżowania z ulicą Wojska Polskiego, następnie ulicą Wojska Polskiego do skrzyżowania z ulicą Dworcową, następnie ulicą Dworcową do ulicy Przejazdowej aż do granic administracyjnych z obrębem Józefów, z uwzględnieniem ul. Stefana Żeromskiego nr 3.</td></tr>
+</tbody>
+</table>
+ Zawierające się w promieniu 3 km od współrzędnych GPS: 51.8215574/ 19.9339013 </td><td>15.4.2026-23.4.2026</td></tr>
+<tr><td rowspan="2">PL-HPAI(P)-2026-00051</td><td>W województwie mazowieckim:<table><tbody><tr><td>1)</td><td>w powiecie żuromińskim:<table><tbody><tr><td>a)</td><td>w gminie Bieżuń, miejscowości: Adamowo, Bielawy Gołuskie, Dąbrówki, Dźwierzno, Gołuszyn, Kocewo, Mak, Małocin, Myślin, Pełki, Pozga, Stanisławowo, Stawiszyn-Zwalewo, Sławęcin, Trzaski, Wieluń- Zalesie, Wilewo, Władysławowo, Zgliczyn-Pobodzy, Stawiszyn-Łaziska;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Siemiątkowo, miejscowości: Antoniewo, Dzieczewo, Nowa Wieś, Nowopole, Siciarz, Sokołowy Kąt;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>w gminie Żuromin, miejscowości: Brudnice, Będzymin, Cierpigórz, Dąbrowa, Dębsk, Kliczewo Małe, Kliczewo Duże, Kosewo, Kruszewo, Franciszkowo, Nowe Nadratowo, Olszewo, Poniatowo, Raczyny, Rozwozin, Rzężawy, Sadowo, Stare Nadratowo, Wiadrowo, Wólka Kliczewska, Chamsk część miejscowości na wschód od drogi krajowej 541 i na północ od ul. Wyzwolenia oraz na zachód od ul. Mazowieckiej;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>d)</td><td>w gminie Kuczbork-Osada, miejscowość Olszewko;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>e)</td><td>w gminie Lutocin, miejscowości: Chromakowo, Elżbiecin, Felcyn, Jonne, Lutocin część miejscowości na wschód i północ od ul. Władysława Stanisława Reymonta, ul. Poniatowskiego, ul. Plac Tadeusza Kościuszki, ul. Sierpeckiej i drogi gminnej nr 628, Mojnowo, Obręb, Parlin, Przeradz Mały, Przeradz Nowy, Przeradz Wielki, Seroki, Siemcichy, Swojęcin, Zimolza;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>f)</td><td>miasto Żuromin;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>g)</td><td>miasto Bieżuń na południe od rzeki Swojęcianki i rzeki Wkry;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2)</td><td>w powiecie sierpeckim;<table><tbody><tr><td>a)</td><td>w gminie Zawidz miejscowość Jaworowo Lipa na północ od drogi łączącej drogę wojewódzką nr 561 z miejscowością Pozga;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Rościszewo miejscowości: Lipniki na wschód od rzeki Dopływ spod Władysławowa, Polik na północ od drogi z miejscowości Lipniki do miejscowości Września, Rzeszotary Rumunki Stara Wieś, Rzeszotary Zawady na północ od drogi łączącej miejscowość Rościszewo z miejscowością Mak,</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3)</td><td>w powiecie mławskim:<table><tbody><tr><td>a)</td><td>w gminie Szreńsk, miejscowości: Miłotki, Sławkowo, Ługi;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Radzanów, miejscowości: Zgliczyn Glinki na zachód od drogi łączącej Radzanów ze Sławkowem, Zgliczyn Witowy na zachód od drogi łączącej Dzieczewo z Radzanowem.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>25.4.2026</td></tr>
+<tr><td>W województwie mazowieckim:<table><tbody><tr><td>1)</td><td>w powiecie żuromińskim:<table><tbody><tr><td>a)</td><td>w gminie Żuromin miejscowości: Chamsk część miejscowości na zachód od drogi krajowej 541 i na południe od ul. Wyzwolenia oraz na wschód od ul. Mazowieckiej, Młudzyn;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>b)</td><td>w gminie Bieżuń miejscowości: Karniszyn, Karniszyn-Parcele, Kobyla Łąka, Sadłowo, Sadłowo- Parcele, Strzeszewo;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>c)</td><td>Miasto Bieżuń na północ od rzeki Swojęcianki i rzeki Wkry;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td>17.4.2026-25.4.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: Sweden**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">SE-HPAI(P)-2026-00001</td><td>The area of the parts of the municipalities of Torsås and Karlskrona extending beyond the area described in the protection zone and within the circle of a radius of 10 kilometres, centred on WGS84 dec. coordinates N 56.37683 and E 16.06105</td><td>2.4.2026</td></tr>
+<tr><td>Those parts of the municipalities of Torsås and Karlskrona contained within a circle of a radius of three kilometres, centred on WGS84 dec. coordinates N 56.37683 and E 16.06105</td><td>25.3.2026 – 2.4.2026</td></tr>
+</tbody>
+</table>
+
+**United Kingdom (Northern Ireland)**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable in accordance with Article 55 of Delegated Regulation (EU) 2020/687</td></tr>
+<tr><td rowspan="2">XI-HPAI(P)-2026-00001</td><td>The area of the parts of County Tyrone extending beyond the area described in the protection zone and within the circle of a radius of 10 kilometres, centred on GPS coordinates N 54.6955 and E -7.4336</td><td>7.4 2026</td></tr>
+<tr><td>Those parts of County Tyrone contained within a circle of a radius of three kilometres, centred on GPS coordinates N 54.6955 and E -7.4336</td><td>30.3.2026 – 7.4.2026</td></tr>
+</tbody>
+</table>
+
+**Part C**
+
+Further restricted zones in the concerned Member States* as referred to in Article 1, point (b), and Article 4:
+
+**Member State: None**
+
+| Area comprising: | Date until measures are to remain applicable in accordance with Article 4 |
+| --- | --- |
+|  |  |
+
+* In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Windsor Framework (see Joint Declaration No 1/2023 of the Union and the United Kingdom in the Joint Committee established by the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community of 24 March 2023, OJ L 102, 17.4.2023, p. 87) in conjunction with Annex 2 to that Framework, for the purposes of this Annex, references to Member State include the United Kingdom in respect of Northern Ireland.
+
+’
+
+ELI: http://data.europa.eu/eli/dec_impl/2026/821/oj
+
+ISSN 1977-0677 (electronic edition)

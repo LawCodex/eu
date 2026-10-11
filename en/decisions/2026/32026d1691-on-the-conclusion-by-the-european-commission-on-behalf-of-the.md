@@ -1,0 +1,69 @@
+---
+title: "Commission Decision (Euratom) 2026/1691 of 8 July 2026 on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part"
+identifier: "32026D1691"
+eli: "http://data.europa.eu/eli/dec/2026/1691/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2026-07-08
+entry_into_force: 2026-10-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1691"
+retrieved: 2026-10-11
+---
+
+# Commission Decision (Euratom) 2026/1691 of 8 July 2026 on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part
+
+**COMMISSION DECISION (Euratom) 2026/1691**
+
+**of 8 July 2026**
+
+**on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 101, second paragraph, thereof,
+
+Having regard to the approval of the Council,
+
+Whereas:
+
+(1) By Decision (1), the Council approved the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (‘the Agreement’), including its provisional application, as regards matters falling under the Treaty establishing the European Atomic Energy Community (the ‘Euratom Treaty’).
+
+(2) The Agreement covers indeed both matters falling under the scope of the Treaty on the Functioning of the European Union and matters falling under the scope of the Euratom Treaty, namely the provisions on civil nuclear cooperation. The Agreement should therefore also be concluded on behalf of the European Atomic Energy Community as regards matters falling under that Treaty.
+
+(3) The Agreement should be applied provisionally by the European Atomic Energy Community, pending its entry into force, as regards matters falling under the Euratom Treaty.
+
+(4) For matters falling under the scope of the Treaty on the Functioning of the European Union, the Agreement is intended to apply on a provisional basis as from 15 July 2026. For the sake of consistency, also the part of the Agreement covering matters falling under the scope of the Euratom Treaty should apply on a provisional basis from the same date.
+
+(5) The signing, provisional application and conclusion of the Agreement, as regards matters falling under the Treaty on the Functioning of the European Union, is subject to a separate procedure, under that Treaty,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (2), is hereby approved on behalf of the European Atomic Energy Community as regards matters falling under the scope of the Euratom Treaty.
+
+## Article 2
+
+Following its signature, and subject to reciprocity, the Agreement shall be applied provisionally as from 15 July 2026.
+
+## Article 3
+
+This Decision shall enter into force on the day of its adoption.
+
+Done at Brussels, 8 July 2026.
+
+For the Commission
+
+Maroš ŠEFČOVIČ
+
+Member of the Commission
+
+(1) Council Decision approving the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part (not yet published in the Official Journal).
+
+(2) The text of the Agreement (not yet published in the Official Journal).
+
+ELI: http://data.europa.eu/eli/dec/2026/1691/oj
+
+ISSN 1977-0677 (electronic edition)

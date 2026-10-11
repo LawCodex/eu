@@ -1,0 +1,607 @@
+---
+title: "Council Decision (CFSP) 2022/2319 of 25 November 2022 concerning restrictive measures in view of the situation in Haiti"
+identifier: "32022D2319"
+eli: "http://data.europa.eu/eli/dec/2022/2319/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2022-11-25
+entry_into_force: 2022-10-17
+last_amended: 2026-07-14
+consolidated_version: "02022D2319-20260714"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022D2319-20260714"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2022/2319 of 25 November 2022 concerning restrictive measures in view of the situation in Haiti
+
+**COUNCIL DECISION (CFSP) 2022/2319**
+
+**of 25 November 2022**
+
+**concerning restrictive measures in view of the situation in Haiti**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/338 of 14 February 2023 </td><td> L 47</td><td>50</td><td>15.2.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/1574 of 28 July 2023 </td><td> L 192</td><td>21</td><td>31.7.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2023/2575 of 13 November 2023 </td><td> L 2575</td><td>1</td><td>14.11.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/290 of 12 January 2024 </td><td> L 290</td><td>1</td><td>15.1.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/1804 of 24 June 2024 </td><td> L 1804</td><td>1</td><td>25.6.2024</td></tr>
+<tr><td> M6</td><td> COUNCIL DECISION (CFSP) 2024/1968 of 15 July 2024 </td><td> L 1968</td><td>1</td><td>16.7.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/2756 of 24 October 2024 </td><td> L 2756</td><td>1</td><td>24.10.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/3139 of 16 December 2024 </td><td> L 3139</td><td>1</td><td>16.12.2024</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/601 of 24 March 2025 </td><td> L 601</td><td>1</td><td>25.3.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/1429 of 15 July 2025 </td><td> L 1429</td><td>1</td><td>15.7.2025</td></tr>
+<tr><td> M11</td><td> COUNCIL DECISION (CFSP) 2025/1439 of 15 July 2025 </td><td> L 1439</td><td>1</td><td>16.7.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/1575 of 29 July 2025 </td><td> L 1575</td><td>1</td><td>29.7.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/2442 of 1 December 2025 </td><td> L 2442</td><td>1</td><td>1.12.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/2561 of 15 December 2025 </td><td> L 2561</td><td>1</td><td>15.12.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2026/1438 of 10 July 2026 </td><td> L 1438</td><td>1</td><td>13.7.2026</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2022/2319**
+
+**of 25 November 2022**
+
+**concerning restrictive measures in view of the situation in Haiti**
+
+## Article 1
+
+1\. The direct or indirect supply, sale, transfer or export of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary equipment and spare parts for the aforementioned to Haiti, from or through the territories of Member States or by nationals of Member States, or using their flag vessels or aircraft, shall be prohibited whether originating or not in their territories.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, training, brokering services or other assistance related to military activities or the provision, manufacture, maintenance or use of any arms and related materiel, directly or indirectly to Haiti;
+
+(b) provide financing or financial assistance related to military activities or the provision, manufacture, maintenance and use of any arms and related materiel, including but not limited to grants, loans and export credit insurance, as well as insurance and reinsurance for any sale, supply, transfer or export of arms and related materiel, or the provision of related technical assistance, training, brokering services or other assistance, directly or indirectly to Haiti.
+
+3\. Member States shall inspect, in accordance with their national authorities and legislation and consistent with international law, all cargo to Haiti in their territory, including seaports and airports, if they have information that provides reasonable grounds to believe that the cargo contains items the supply, sale, transfer or export of which is prohibited under this Article.
+
+4\. Member States shall report in a timely manner to the Committee established by paragraph 19 of United Nations Security Council Resolution (‘UNSCR’) 2653 (2022) (‘the Sanctions Committee’) cases of violations of the measures under paragraphs 1 and 2. Member States shall also submit to the Sanctions Committee a written report on any seizure of items as a result of an inspection carried out pursuant to paragraph 3.
+
+5\. Member States shall ensure that adequate marking and record-keeping measures are in place to trace arms, in accordance with the international and regional instruments to which they are parties, and to consider how best to assist, where relevant and upon their request, neighbouring countries in preventing and detecting illicit trafficking and diversion in violation of measures imposed in paragraphs 1 and 2.
+
+6\. The prohibitions set out in paragraphs 1 and 2 shall not apply to:
+
+(a) the supply, sale, transfer or export of arms and related materiel, or the provision of technical assistance, training, brokering services, other assistance or personnel or the provision of financing or financial assistance, to or by the United Nations or a United Nations-authorised mission or to a security unit that operates under the command of the Government of Haiti, intended to be used by, or in coordination with, those entities and intended solely to further the objectives of peace and stability in Haiti;
+
+(b) the supply, sale, transfer or export of arms and related materiel, the provision of technical assistance, training, brokering services, other assistance or personnel or the provision of financing or financial assistance to Haiti, as approved in advance by the Sanctions Committee to further the objectives of peace and stability in Haiti;
+
+(c) the supply, sale, transfer or export of non-lethal military equipment to Haiti intended solely for humanitarian or protective use, or the provision of related technical assistance, training, brokering services or other assistance or of financing or financial assistance, when intended to further the objectives of peace and stability in Haiti.
+
+## Article 2
+
+1\. Member States shall take the necessary measures to prevent the entry into, or transit through, their territories of persons designated by the Sanctions Committee as responsible for or complicit in, or having engaged in, directly or indirectly, actions that threaten the peace, stability and security of Haiti, including but not limited to:
+
+(a) engaging in, directly or indirectly, or supporting criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, trafficking in persons and the smuggling of migrants, and homicides and sexual and gender-based violence;
+
+(b) supporting illicit trafficking and diversion of arms and related materiel, or illicit financial flows related thereto;
+
+(c) acting for or on behalf of or at the direction of or otherwise supporting or financing a person or entity designated in connection with the activity described in points (a) and (b), including through the direct or indirect use of the proceeds from organised crime, including proceeds from illicit production and trafficking in drugs and their precursors originating in or transiting through Haiti, the trafficking in persons and the smuggling of migrants from Haiti, or the smuggling and trafficking of arms to or from Haiti;
+
+(d) acting in violation of the arms embargo, or as having directly or indirectly supplied, sold, or transferred to armed groups or criminal networks in Haiti, or as having been the recipient of, arms or any related materiel, or any technical advice, training, or assistance, including financing and financial assistance, related to violent activities of armed groups or criminal networks in Haiti;
+
+(e) planning, directing or committing acts that violate international human rights law or acts that constitute human rights abuses, including those involving extrajudicial killing, including of women and children, and the commission of acts of violence, abduction, enforced disappearances or kidnappings for ransom in Haiti;
+
+(f) planning, directing or committing acts involving sexual and gender-based violence, including rape and sexual slavery, in Haiti;
+
+(g) obstructing delivery of humanitarian assistance to Haiti or access to, or distribution of, humanitarian assistance in Haiti;
+
+(h) attacking personnel or premises of United Nations missions and operations in Haiti, or providing support for such attacks;
+
+(i) engaging in illicit exploitation of natural resources or illicit trade in natural resources.
+
+The persons referred to in this paragraph are listed in Annex I  .
+
+2\. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3\. Paragraph 1 shall not apply where entry or transit is necessary for the fulfilment of a judicial process.
+
+4\. Paragraph 1 shall not apply where the Sanctions Committee determines, on a case-by-case basis, that:
+
+(a) entry or transit is justified on the grounds of humanitarian need, including religious obligation;
+
+(b) an exemption would further the objectives of peace and stability in Haiti.
+
+5\. In cases where, pursuant to paragraph 3 or 4, a Member State authorises the entry into, or transit through, its territory of persons listed in Annex I  , the authorisation shall be limited to the purpose for which it is given and to the persons concerned by the authorisation.
+
+## Article 2a
+
+1\. Member States shall take the measures necessary to prevent the entry into, or transit through, their territories of natural persons:
+
+(a) responsible for or complicit in, or having engaged in, directly or indirectly, actions that threaten the peace, stability and security of Haiti, including:
+
+(i) engaging in, directly or indirectly, or supporting criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, trafficking in persons and the smuggling of migrants, and homicides and sexual and gender-based violence;
+
+(ii) supporting illicit trafficking and diversion of arms and related materiel, or illicit financial flows related thereto;
+
+(iii) acting for, on behalf of or at the direction of, or otherwise supporting or financing, a person or entity designated in connection with the activity described in point (i) or (ii), including through the direct or indirect use of the proceeds from organised crime, including proceeds from illicit production and trafficking in drugs and their precursors originating in or transiting through Haiti, the trafficking in persons and the smuggling of migrants from Haiti, or the smuggling and trafficking of arms to or from Haiti;
+
+(iv) acting in violation of the arms embargo, or having directly or indirectly supplied, sold or transferred to armed groups or criminal networks in Haiti, or having been the recipient of, arms or any related materiel, or any technical advice, training or assistance, including financing and financial assistance, related to violent activities of armed groups or criminal networks in Haiti;
+
+(v) planning, directing or committing acts that violate international human rights law or acts that constitute human rights abuses, including those involving extrajudicial killing, including of women and children, and the commission of acts of violence, abduction, enforced disappearances or kidnappings for ransom in Haiti;
+
+(vi) planning, directing or committing acts involving sexual and gender-based violence, including rape and sexual slavery, in Haiti;
+
+(vii) obstructing the delivery of humanitarian assistance to Haiti or access to, or the distribution of, humanitarian assistance in Haiti;
+
+(viii) attacking personnel or premises of Union delegations and Member State diplomatic missions and operations in Haiti, or providing support for such attacks;
+
+(ix) engaging in illicit exploitation of natural resources or illicit trade in natural resources;
+
+(b) undermining democracy or the rule of law in Haiti through serious financial misconduct concerning public funds or the unauthorised export of capital; or
+
+(c) associated with natural persons designated under points (a) and (b) or under Article 2(1).
+
+Natural persons as referred to in this paragraph are listed in Annex II.
+
+2\. Paragraph 1 shall not oblige a Member State to refuse its own nationals entry into its territory.
+
+3\. Paragraph 1 shall be without prejudice to cases where a Member State is bound by an obligation of international law, namely:
+
+(a) as a host country of an international intergovernmental organisation;
+
+(b) as a host country to an international conference convened by, or under the auspices of, the United Nations;
+
+(c) under a multilateral agreement conferring privileges and immunities; or
+
+(d) pursuant to the 1929 Treaty of Conciliation (Lateran Pact) concluded by the Holy See (Vatican City State) and Italy.
+
+4\. Paragraph 3 shall also apply in cases where a Member State is host country of the Organization for Security and Cooperation in Europe (OSCE).
+
+5\. The Council shall be duly informed in all cases where a Member State grants an exemption pursuant to paragraphs 3 or 4.
+
+6\. Member States may grant exemptions from the measures imposed under paragraph 1 where travel is justified on the grounds of urgent humanitarian need, or on the grounds of attending intergovernmental meetings or meetings promoted or hosted by the Union, or hosted by a Member State holding the Chairmanship in office of the OSCE, where a political dialogue is conducted that directly promotes the policy objectives of restrictive measures.
+
+7\. Member States may also grant exemptions from the measures imposed under paragraph 1 where entry or transit is necessary for the fulfilment of a judicial process.
+
+8\. A Member State wishing to grant exemptions referred to in paragraphs 6 or 7 shall notify the Council in writing. The exemption shall be deemed to be granted unless one or more Member States raise an objection in writing within two working days of receiving notification of the proposed exemption. Should one or more Member States raise an objection, the Council, acting by a qualified majority, may decide to grant the proposed exemption.
+
+9\. Where, pursuant to paragraph 3, 4, 6 or 7, a Member State authorises the entry into, or transit through, its territory of persons listed in Annex II, the authorisation shall be strictly limited to the purpose for which it is given and to the persons directly concerned thereby.
+
+## Article 3
+
+1\. All funds and economic resources owned or controlled directly or indirectly by persons or entities designated by the Sanctions Committee as responsible for or complicit in, or having engaged in, directly or indirectly, actions that threaten the peace, stability and security of Haiti, including but not limited to:
+
+(a) engaging in, directly or indirectly, or supporting criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, trafficking in persons and the smuggling of migrants, and homicides and sexual and gender-based violence;
+
+(b) supporting illicit trafficking and diversion of arms and related materiel, or illicit financial flows related thereto;
+
+(c) acting for or on behalf of or at the direction of or otherwise supporting or financing a person or entity designated in connection with the activity described in points (a) and (b), including through the direct or indirect use of the proceeds from organised crime, including proceeds from illicit production and trafficking in drugs and their precursors originating in or transiting through Haiti, the trafficking in persons and the smuggling of migrants from Haiti, or the smuggling and trafficking of arms to or from Haiti;
+
+(d) acting in violation of the arms embargo, or as having directly or indirectly supplied, sold, or transferred to armed groups or criminal networks in Haiti, or as having been the recipient of, arms or any related materiel, or any technical advice, training or assistance, including financing and financial assistance, related to violent activities of armed groups or criminal networks in Haiti;
+
+(e) planning, directing, or committing acts that violate international human rights law or acts that constitute human rights abuses, including those involving extrajudicial killing, including of women and children, and the commission of acts of violence, abduction, enforced disappearances or kidnappings for ransom in Haiti;
+
+(f) planning, directing or committing acts involving sexual and gender-based violence, including rape and sexual slavery, in Haiti;
+
+(g) obstructing delivery of humanitarian assistance to Haiti or access to, or distribution of, humanitarian assistance in Haiti;
+
+(h) attacking personnel or premises of United Nations missions and operations in Haiti, or providing support for such attacks;
+
+or by persons or entities acting on their behalf or at their direction, or entities owned or controlled by them, shall be frozen;
+
+(i) engaging in illicit exploitation of natural resources or illicit trade in natural resources.
+
+The designated persons or entities referred to in this paragraph are listed in Annex I  .
+
+2\. No funds or economic resources shall be made available directly or indirectly, to or for the benefit of the persons or entities listed in Annex I  .
+
+3\. The measures referred to in paragraphs 1 and 2 shall not apply to funds and economic resources which the relevant Member State has determined to be:
+
+(a) necessary for basic expenses, including payment for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services or fees or service charges, in accordance with national laws;
+
+(c) intended exclusively for the payment of fees or service charges for routine holding or maintenance of frozen funds, other financial assets and economic resources;
+
+after notification by the relevant Member State to the Sanctions Committee of the intention to authorise, where appropriate, access to such funds, other financial assets or economic resources and in the absence of a negative decision by the Sanctions Committee within five working days of such notification.
+
+4\. The measures referred to in paragraphs 1 and 2 shall not apply to funds or economic resources which the relevant Member State has determined to be:
+
+(a) necessary for extraordinary expenses, provided that such determination has been notified by the Member States to the Sanctions Committee and has been approved by the Sanctions Committee;
+
+(b) the subject of a judicial, administrative or arbitral lien or judgment, in which case the funds, other financial assets and economic resources may be used to satisfy that lien or judgment provided that the lien was established or the judgment was rendered prior to the date on which the person or entity was included in Annex I  , is not for the benefit of a person or entity designated by the Sanctions Committee and has been notified by the Member States to the Sanctions Committee.
+
+5\. Paragraph 1 shall not prevent a designated person or entity from making payment due under a contract entered into prior to the listing of such a person or entity, provided that the relevant Member State has determined that the payment is not directly or indirectly received by a person or entity referred to in paragraph 1, and after notification by the relevant Member State to the Sanctions Committee of the intention to make or receive such payments or to authorise, where appropriate, the unfreezing of funds, other financial assets or economic resources for this purpose, 10 working days prior to such authorisation.
+
+6\. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts; or
+
+(b) payments due under contracts, agreements or obligations that arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1 and 2;
+
+provided that any such interest, other earnings and payments are frozen and continue to be subject to the measures provided for in paragraph 1.
+
+7\. Paragraphs 1 and 2 shall not apply to the provision, processing or payment of funds, other financial assets or economic resources or to the provision of goods and services which are necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or
+
+(f) appropriate other actors as determined by the Sanctions Committee.
+
+## Article 3a
+
+1\. All funds and economic resources owned or controlled directly or indirectly by natural or legal persons, entities or bodies:
+
+(a) responsible for or complicit in, or having engaged in, directly or indirectly, actions that threaten the peace, stability and security of Haiti, including:
+
+(i) engaging in, directly or indirectly, or supporting criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, trafficking in persons and the smuggling of migrants, and homicides and sexual and gender-based violence;
+
+(ii) supporting illicit trafficking and diversion of arms and related materiel, or illicit financial flows related thereto;
+
+(iii) acting for, on behalf of or at the direction of, or otherwise supporting or financing, a person or entity designated in connection with the activity described in point (i) or (ii), including through the direct or indirect use of the proceeds from organised crime, including proceeds from illicit production and trafficking in drugs and their precursors originating in or transiting through Haiti, the trafficking in persons and the smuggling of migrants from Haiti, or the smuggling and trafficking of arms to or from Haiti;
+
+(iv) acting in violation of the arms embargo, or having directly or indirectly supplied, sold or transferred to armed groups or criminal networks in Haiti, or having been the recipient of, arms or any related materiel, or any technical advice, training or assistance, including financing and financial assistance, related to violent activities of armed groups or criminal networks in Haiti;
+
+(v) planning, directing or committing acts that violate international human rights law or acts that constitute human rights abuses, including those involving extrajudicial killing, including of women and children, and the commission of acts of violence, abduction, enforced disappearances or kidnappings for ransom in Haiti;
+
+(vi) planning, directing or committing acts involving sexual and gender-based violence, including rape and sexual slavery, in Haiti;
+
+(vii) obstructing the delivery of humanitarian assistance to Haiti or access to, or the distribution of, humanitarian assistance in Haiti;
+
+(viii) attacking personnel or premises of Union delegations and Member State diplomatic missions and operations in Haiti, or providing support for such attacks;
+
+(ix) engaging in illicit exploitation of natural resources or illicit trade in natural resources;
+
+(b) undermining democracy or the rule of law in Haiti through serious financial misconduct concerning public funds or the unauthorised export of capital; or
+
+(c) associated with natural or legal persons, entities or bodies designated under points (a) and (b) or under Article 3(1),
+
+shall be frozen.
+
+Natural or legal persons, entities or bodies as referred to in this paragraph are listed in Annex II.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities or bodies listed in Annex II.
+
+3\. By way of derogation from paragraphs 1 and 2, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of the natural or legal persons, entities or bodies listed in Annex II and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within two weeks of the authorisation.
+
+4\. By way of derogation from paragraph 1, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in paragraph 1 was listed in Annex II, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex II; and
+
+(d) the recognition of the decision is not contrary to public policy in the Member State concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within two weeks of the authorisation.
+
+5\. Paragraph 1 shall not prevent a natural or legal person, entity or body listed in Annex II from making a payment due under a contract or agreement entered into, or an obligation that arose, prior to the date on which that natural or legal person, entity or body was listed therein, provided that the Member State concerned has determined that the payment is not, directly or indirectly, received by a natural or legal person, entity or body referred to in paragraph 1.
+
+6\. Paragraph 2 shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in paragraphs 1 and 2; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in paragraph 1.
+
+7\. Paragraphs 1 and 2 shall not apply to the provision, processing or payment of funds, other financial assets or economic resources, or to the provision of goods and services, which are necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by OCHA;
+
+(e) the employees, grantees, subsidiaries or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or
+
+(f) other appropriate actors as determined by the Council.
+
+8\. Without prejudice to paragraph 7, by way of derogation from paragraphs 1 and 2, and with regard to a natural or legal person, entity or body listed in Annex II, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary for the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within 2 weeks of the authorisation.
+
+## Article 4
+
+1\. The Council, acting by unanimity, shall amend the list in Annex I in accordance with determinations made by the United Nations Security Council (the ‘Security Council’) or by the Sanctions Committee.
+
+2\. The Council, acting by unanimity upon a proposal from a Member State or from the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’), shall establish and amend the list in Annex II.
+
+## Article 5
+
+1\. Where the Security Council or the Sanctions Committee designates a person or entity, the Council shall include that person or entity in Annex I. The Council shall communicate its decision, including the grounds for listing, to the person or entity concerned, either directly, if the address is known, or through the publication of a notice, providing that person or entity with an opportunity to present observations.
+
+1a. The Council shall communicate the decision referred to in Article 4(2), including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+2\. Where observations are submitted or where substantial new evidence is presented, the Council shall review its decision and inform the person or entity concerned accordingly.
+
+## Article 6
+
+1\. Annex I shall include the grounds for listing the persons and entities as provided by the Security Council or the Sanctions Committee.
+
+2\. Annex I shall also include, where available, information provided by the Security Council or the Sanctions Committee necessary to identify the persons or entities concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include: names; place and date of registration; registration number; and place of business.
+
+3\. Annex II shall include the grounds for listing the natural and legal persons, entities and bodies referred to therein.
+
+4\. Annex II shall also include, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include: names; place and date of registration; registration number; and place of business.
+
+## Article 7
+
+1\. The Council and the High Representative shall process personal data in order to carry out their tasks under this Decision, in particular:
+
+(a) as regards the Council, for preparing and making amendments to Annexes I and II;
+
+(b) as regards the High Representative, for preparing amendments to Annexes I and II.
+
+2\. The Council and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, and to criminal convictions or security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annexes I and II.
+
+3\. For the purposes of this Decision, the Council and the High Representative are designated as ‘controller’ within the meaning of Article 3, point (8), of Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 1 ), in order to ensure that the natural persons concerned can exercise their rights under that Regulation.
+
+## Article 7a
+
+No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Decision, including claims for indemnity or any other claim of that type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) a designated natural or legal person, entity or body listed in Annex II; or
+
+(b) any natural or legal person, entity or body acting through or on behalf of a natural or legal person, entity or body as referred to in point (a).
+
+## Article 8
+
+1\. This Decision shall be amended or repealed as appropriate, in accordance with determinations made by the Security Council.
+
+2\. The measures referred to in Article 2a(1) and Article 3a(1) and (2) shall apply until 29 July 2027  and shall be kept under constant review. They shall be renewed or amended, as appropriate, if the Council deems that their objectives have not been met.
+
+3\. In reviewing restrictive measures taken pursuant to Article 2a(1), first subparagraph, point (b), and Article 3a(1), first subparagraph, point (b), the Council shall take into account as appropriate whether the persons in question are subject to judicial proceedings in respect of the conduct for which they were listed.
+
+## Article 9
+
+This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+## ANNEX I — List of persons referred to in Article 1(1), Article 2(1) and Article 3(1), and of entities referred to in Articles 1(1) and 3(1)
+
+**PERSONS**
+
+1\. Jimmy CHERIZIER (a.k.a. ‘Barbeque’) has engaged in acts that threaten the peace, security, and stability of Haiti and has planned, directed or committed acts that constitute serious human rights abuses. Jimmy Cherizier is one of Haiti’s most influential gang leaders and leads an alliance of Haitian gangs known as the ‘G9 Family and Allies’.
+
+Function: Former Police Officer
+
+DOB: 30 March 1977
+
+POB: Port-au-Prince, Haiti
+
+Nationality: Haitian
+
+National identification no: 001-843-989-7 (NIF – Haiti)
+
+Address: 16, Imp Manius, Delmas 40 B, Port-au-Prince, Haiti
+
+Date of UN designation: 21 October 2022
+
+**Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:**
+
+While serving as an officer in the Haitian National Police (HNP), Cherizier planned and participated in the November 2018 deadly attack against civilians in a Port-au-Prince neighbourhood known as La Saline. During this attack, at least 71 people were killed, over 400 houses were destroyed and at least seven women were raped by armed gangs. Throughout 2018 and 2019, Cherizier led armed groups in coordinated, brutal attacks in Port-au-Prince neighbourhoods. In May 2020, Cherizier led armed gangs in a five-day attack in multiple Port-au-Prince neighbourhoods in which civilians were killed and houses were set on fire. As of 11 October 2022, Cherizier and his ‘G9 Family and Allies’ gang confederation have been actively blocking the free movement of fuel from the Varreux fuel terminal – the largest in Haiti. His actions have directly contributed to the economic paralysis and humanitarian crisis in Haiti.
+
+2\. Johnson ANDRE (a.k.a. Izo). Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraphs 3 and 6 of that Resolution, as further elaborated by paragraph 16(a), (e), (f) and (g) of that Resolution.
+
+Function: leader of 5 Segond gang
+
+DOB: 1997
+
+POB: Port-au-Prince, Haiti
+
+Nationality: Haitian
+
+Date of UN designation: 8 December 2023
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Johnson Andre (aka ‘Izo’) is the main leader of the 5 Segond gang and has played an increasingly influential role within G-Pep alliance (see UN document S/2023/674, para 54). Under Andre’s leadership, 5 Segond has been involved in various criminal activities that threaten the peace, security, and stability of Haiti, including, rape, burglary, despoliation, kidnapping, drug trafficking, trafficking of weapons, and obstructing the delivery of humanitarian assistance (see UN document S/2023/674, Annex 4). Andre is also wanted by the Haitian National Police (HNP) for crimes including murder, kidnapping for ransom, illegal possession of firearms, vehicle theft, and hijacking of goods (see UN document S/2023/674, Annex 11).
+
+With expansionist ambitions and substantial resources acquired through illicit activities, Andre has extended 5 Segond’s influence over the past three years, spreading violence in other areas of Port-au-Prince (see UN document S/2023/674, para 54). Moreover, the gang has carried out attacks against public institutions, including the Court of First Instance, which was ransacked in 2022 and currently remains under the control of the 5 Segond (see UN document S/2023/674, para 29).
+
+Andre has used the maritime route to provide support to his gang’s northern cells, as well as to the Canaan gang, and strategically operates from there, conducting kidnappings in the Delmas, Bon Repos and Lilavois areas, hijacking trucks and stealing goods. Between April 18 and June 23, 2023, four attacks resulting in the kidnapping of over 30 individuals were attributed to the 5 Segond gang (see UN document S/2023/674, para 64).
+
+The gang’s activities have also severely disrupted the free movement of persons and vehicles along National Roads (NR) 1 and 2, as well as at sea, through acts of piracy. In October 2022, members of 5 Segond intensified the hijacking of freight trucks transporting containers of high value merchandise along NR1. Along NR2 in Martissant, 5 Segond carried out extortion operations (see UN document S/2023/674, para 79). This has restricted access to strategic points, stifled the local economy, and disrupted access to food and other critical goods, including humanitarian aid.
+
+In November 2022, the 5 Segond gang took 38 hostages including 36 passengers and 2 drivers, who were in 2 minibuses at the station preparing to go to Miragoâne. In a video, Andre asserted that this kidnapping was in response to the death of one of his men.
+
+The 5 Segond gang has exploited the fragile security environment to generate additional revenue through drug trafficking. Some sources indicated that drugs were shipped directly from South America to the Village de Dieu area, sometimes along with firearms. From Village-de-Dieu, Izo has the support of other gangs, such as Canaan, Gran Grif and Kokorat San Ras, to move drugs up to Port-de-Paix and out of the country (see UN document S/2023/674, para 121).
+
+The Panel of Experts also identified rapes committed by the 5 Segond gang (see UN document S/2023/674, para 136).
+
+3\. Renel DESTINA (a.k.a. Ti Lapli). Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraphs 3 and 6 of that Resolution, as further elaborated by paragraph 16(a), (e), (f) and (g) of that Resolution.
+
+Function: leader of Grand Ravine gang
+
+DOB: 11 June 1982
+
+POB: Haiti
+
+Nationality: Haitian
+
+Date of UN designation: 8 December 2023
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Renel Destina (aka ‘Ti Lapli’) is the leader of the Grand Ravine gang and Johnson Andre’s key ally. Grand Ravine, composed of 300 members and an ally of G-Pep coalition, has been involved in various actions that threaten peace, security, and stability in Haiti (see UN document S/2023/674, paragraph 65).
+
+Under Destina’s leadership, Grand Ravine gang has committed serious crimes including murder, rape, armed robbery, destruction of property, kidnapping for ransom, theft of vehicles, hijacking of trucks and goods, and spoliation (see UN document S/2023/674, para. 136, Annex 4). Destina is also wanted by the Haitian National Police for crimes including murder, vehicle theft, truck hijacking, illegal arms possession, and kidnapping for ransom (see UN document S/2023/674, Annex 18).
+
+Since late 2022, the gang has tried to expand its territorial control over the neighborhoods of Carrefour-Feuilles and Savanne Pistache, committing crimes against residents and continuous attacks against the Haitian National Police such as killings, robberies, rapes, looting and burning of residences, and attacks on police officers. Two police officers were killed on August 4 and 14, 2023. On August 14, 2023, Grand Ravine attacked and rendered the Haitian electricity substation non-operational in the area. On August 15, 2023, approximately 1 020 households, comprising 4 972 individuals, had fled from Carrefour-Feuilles and Savane Pistache (see UN document S/2023/674, paragraph 65). On May 24, 2023, gunmen from Grand Ravine attacked the Carrefour-Feuilles area, killing a schoolboy (see UN document S/2023/674, Annex 40).
+
+According to a November 7, 2022 Department of Justice press release, Destina was indicted on charges related to the kidnapping a U.S. victim in February 2021. The victim was held for approximately 14 days, during which time the victim was threatened daily at gunpoint, while his family attempted to secure funds for release.
+
+According to an October 22, 2020 Haitian Times article, Destina announced on a radio broadcast that he had kidnapped Wolf Hall, the president of Titi Loto & T-Sound Lottery organization on October 18, 2020.
+
+In addition, Grand Ravine has established control along the National Road 2 (NR2) connecting Port-au-Prince to the South, to collect revenue from extortion, hijacking of trucks, contraband, and other illicit activities (see UN document S/2023/674, paragraph 79). This has restricted access to strategic infrastructure and stifled the local economy by disrupting access to food and other critical goods, including humanitarian aid.
+
+4\. Wilson JOSEPH (a.k.a. Lanmo San Jou). Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraphs 3 and 6 of that Resolution, as further elaborated by paragraph 16(a), (b), (d) and (e) of that Resolution.
+
+Function: leader of 400 Mawozo gang
+
+DOB: 28 February 1993
+
+POB: Haiti
+
+Nationality: Haitian
+
+Date of UN designation: 8 December 2023
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Wilson Joseph (aka ‘Lanmo San Jou’), is the leader of the 400 Mawozo gang, which is an active gang in the Port-au-Prince metropolitan area, notably in Croix-des-Bouquets commune, and an ally of the G-Pep coalition of gangs (see UN document S/2023/674, Section III(A)(2.3)).
+
+Wilson Joseph is responsible – either directly or through orders to his gang members – for the commission of human rights abuses and crimes, including those involving attacks against defenseless individuals causing death and injury, disrupting or impeding humanitarian aid (e.g. medical services), rape (including rape of minors), the recruitment of children, robbery, looting, and destruction of public property such as prisons and police stations, kidnapping, and hijacking of trucks (see UN document S/2023/674, Annex 4). These attacks have resulted in large numbers of internal displacements. Joseph is also wanted by the Haitian National Police for crimes including murder, attempted murder, vehicle theft, and kidnapping (see UN document S/2023/674, Annex 20).
+
+On July 24, 2022, a Croix-des-Bouquets Police Commissioner was killed and mutilated by members of 400 Mawozo gang (see UN document S/2023/674, Annex 6). In February 2023, the Higgins Brothers Surgicenter for Hope in Fonds Parisien, located in an area controlled by 400 Mawozo, reported multiple incidents of surgeons, doctors, and nurses being shot, robbed, and kidnapped while on their way to work in the past two years (see UN document S/2023/674, Annex 44). Joseph is also implicated in the high-profile kidnapping case that occurred in October 2021, when 17 foreign Christian missionaries and family members, including five minors, were abducted in Haiti (see UN document S/2023/674, Annex 32).
+
+400 Mawozo gang is actively involved in trafficking arms and ammunition (see UN document S/2023/674, para. 104). Several members known to be responsible for arms and ammunition trafficking have been arrested by the Haiti National Police, including in Malpasse on April 26, 2022, and Nippes in the southwest of the country on May 14, 2022 (see UN document S/2023/674, Annex 32). In May 2022, three Haitian nationals and one United States citizen were charged with firearms trafficking in support of 400 Mawozo in Haiti (see UN document S/2023/674, Annex 32).
+
+5\. Vitelhomme INNOCENT. Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraphs 3 and 6 of that Resolution, as further elaborated by paragraph 16(a), (e) and (f) of that Resolution.
+
+Function: leader of Kraze Barye gang
+
+DOB: 27 March 1986
+
+POB: Port-au-Prince, Haiti
+
+Nationality: Haitian
+
+National identification no: Haiti 004-341-263-3
+
+Address: 64, Soisson, Tabarre 49, Port-au-Prince
+
+Date of UN designation: 8 December 2023
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Vitelhomme Innocent is the leader of the Kraze Barye gang, which has become one of the most powerful gangs in the Port-au-Prince metropolitan area, with an increasing number of fighters and semi-automatic weapons (see UN document S/2023/674, para. 66). Innocent has been involved in activities that threaten the peace, security, and stability of Haiti.
+
+Under Innocent’s leadership, the Krazye Barye gang has committed human rights abuses involving murder rape, recruitment of children, and kidnapping for ransom, as well as other crimes such as armed robbery, destruction of property, theft of vehicles, spoilation of land, and destruction of property (see UN document S/2023/674, para. 141, Annex 4). Innocent is also wanted by the Haitian National Police for crimes including murder, attempted murder, rape, armed robbery vehicle theft, and kidnapping (see UN document S/2023/674, Annex 19)
+
+Kraze Barye has targeted the Haitian National Police on multiple occasions, resulting in the deaths of several police officers and damage to police stations. Moreover, the populations of Petion-Ville, Kenscoff, Tabarre, Croix-des-Bouquets, and Delmas communes have repeatedly suffered attacks by Innocent’s gang over the past three years, which have contributed to displacement of thousands of people. He has continued to commit abuses against the police and the population, including those involving the spoliation of land and property, killings, looting, stealing and kidnapping of influential individuals (see UN document S/2023/674, para 66).
+
+In July 2023, the Kraze Barye gang continued to attack, kill, and rape residents of Fort-Jacques, Truitier and Dumornay. As of 10 August 2023, Kraze Barye’s attacks had resulted in the displacement of around 2 000 people, including 229 minors (see UN document S/2023/674, para. 151).
+
+Innocent has conducted targeted kidnappings against prominent figures, such as the regional director of APN port of Cap-Haïtien, the director of a private television station on ‘Route des Freres’, the director of the ‘Radio Commerciale d’Haiti,’ as well as a famous journalist and the former president of the Provisional Electoral Commission, among others (see UN document S/2023/674, Annex 22). Innocent was indicted on charges related to the October 2022 armed hostage taking, in Haiti, of two U.S. citizens, one of whom was killed during the event (Press release, United States Attorney’s Office, District of Columbia, October 24, 2023).
+
+6\. Prophane VICTOR. Listed pursuant to paragraph 15 of UNSC Resolution 2653 (2022) for the measures listed in paragraphs 3, 6, and 11, as further elaborated by paragraphs 16(a) and 16(b) of that Resolution. Function: Former member of the Haitian Parliament, involved in weapons trafficking and using violence to secure political gain. DOB: – POB: – Nationality: Haitian Date of UN designation: 27 September 2024 Gender: male Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Prophane Victor has long been involved in activities that threaten the peace, security, and stability of Haiti, as well as the entire region. In particular, he has been supporting and arming gangs, trafficking weapons, diverting government revenues, and using violence to secure his political and financial gains. Prophane Victor served in the most recent National Assembly (2016-2020), where he was Member of Parliament (deputé) for Petite Riviere, Artibonite department, an area with increasing levels of violence and gang control. To secure his election as deputé in 2016 and his control over the area, Prophane Victor started arming young men in Petite Riviere who went on to form the Gran Grif gang, currently the main perpetrator of human rights abuses, including sexual violence, in the Artibonite department (see S/2023/674, para 75). He is no longer a Member of Parliament and is not serving in any political position. In addition to securing his political foothold through the use of gangs, Victor is a former senior Customs officer and a businessman who has control over parts of the Customs department, allowing him to build wealth and enabling him to engage in a range of criminal activities with impunity. According to reporting from January 2023, Victor threatened customs officers in their work. Victor continued to support Gran Grif gang until 2020 and has since supported rival gangs in that area (see S/2023/674, para 75).
+
+7\. Luckson ELAN. Listed pursuant to paragraph 15 of UNSC Resolution 2653 (2022) for the measures listed in paragraphs 3, 6, and 11, as further elaborated by paragraphs 16(a) 16(b), 16(d), 16(e), and 16(f) of that Resolution. Function: Leader of Gran Grif gang DOB: 6 January 1988 POB: – Nationality: Haitian Date of UN designation: 27 September 2024 Gender: male Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Luckson Elan, leader of the Gran Grif gang, has long been involved in activities that threaten the peace, security, and stability of Haiti, as well as the entire region. His gang is the largest and most powerful in the Artibonite Department and has been expanding its territorial control, committing human rights abuses, and trafficking weapons and ammunition. On February 8, 2023, members of the Coalition of Jean Denis self-defence group intercepted a vehicle coming from Port-au-Prince which was carrying several crates of arms and ammunition destined for the Gran Grif gang (see OHCHR report, ‘Criminal Violence Extends beyond Port-au-Prince,’ Nov 2023). Under Elan’s leadership, the human rights abuses and other crimes committed by the gang include extrajudicial killings, rape, recruitment of children, robbery, destruction of property, kidnapping, and hijacking of trucks. For example, on November 30, 2023, Luckson Elan killed a woman for refusing to have sexual relations with him. In April 2024, Gran Grif committed attacks on the judiciary by killing two lawyers. Between October 2023 and January 2024, Gran Grif committed nine mass kidnappings, including 157 people. Gran Grif has also committed some of the highest levels of child recruitment in Haiti.
+
+8\. Dimitri HERARD. Listed pursuant to paragraph 19 of United Nations Security Council Resolution 2794 (2025) for the measures listed in paragraphs 3 and 6 of UNSC Resolution 2653 (2022).
+
+Function: former head of the National Palace General Security Unit (USGPN) under President Jovenel Moïse
+
+DOB: –
+
+POB: –
+
+Nationality: –
+
+Date of UN designation: 17 October 2025
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Dimitri Herard has engaged in acts that threaten the peace, security, and stability of Haiti and has supported criminal activities that undermine the country’s institutions and exacerbate its humanitarian crisis. Herard is the former head of the National Palace General Security Unit (USGPN) under President Jovenel Moïse. He has played a key role in enabling the activities of criminal networks and gangs in Haiti, including supporting the Ti Bwa gang in creating a special combat unit named ‘Back up 100 plak’, which has increased its fighting capacity. Herard has been implicated in facilitating the trafficking of arms and ammunition, which have fueled gang violence and destabilized the country. His actions have contributed to the expansion of gang control over key areas, further undermining Haiti’s security and governance.
+
+9\. Kempes SANON. Listed pursuant to paragraph 19 of United Nations Security Council Resolution 2794 (2025) for the measures listed in paragraphs 3 and 6 of UNSC Resolution 2653 (2022).
+
+Function: leader of the Les Argentins gang, also known as the Bel Air gang
+
+DOB: –
+
+POB: –
+
+Nationality: –
+
+Date of UN designation: 17 October 2025
+
+Gender: male
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Kempes Sanon has engaged in actions that threaten the peace, security, and stability of Haiti through his leadership of the Les Argentins gang, also known as the Bel Air gang, which operates from its stronghold in the Haut Bel-Air area of Port-au-Prince. With approximately 150 members, the gang has been involved in systematic human rights violations, including extortion, kidnappings, and illicit taxation. Sanon has played a significant role in consolidating gang power in Port-au-Prince, particularly through his involvement in the Viv Ansanm alliance, which has launched coordinated attacks to expand gang-controlled territories. Under his leadership, Les Argentins has conducted repeated assaults on neighborhoods like Solino, resulting in numerous casualties and the displacement of thousands of residents. Sanon also maintains a network of individuals within governmental institutions, including security agencies, which enables him to evade arrest and facilitate his criminal activities. He escaped from prison in 2021, where he was incarcerated for kidnapping, theft, and assassination, and has since continued to destabilize Haiti through his actions.
+
+**ENTITIES**
+
+1\. GRAN GRIF. Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraph 6 of that Resolution, as further elaborated by paragraph 16(a) of that Resolution.
+
+A.k.a.: (a) Gran Grif de Savien (b) Savien gang (c) Baz Gran Grif
+
+Address: Haiti
+
+Date of UN designation: 8 July 2025
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Gran Grif is the largest gang in Haiti’s Artibonite Department. Since 2022, Gran Grif has been responsible for 80 percent of civilian deaths reported in Artibonite. Gran Grif has attacked the Haitian National Police and the UN-authorized Multinational Security Support (MSS) mission, including in the February 2025 attack that killed a Kenyan MSS mission officer. On 11 January 2024, Gran Grif members murdered and dismembered a man after he resisted Gran Grif assaults. On 3 October 2024, the Gran Grif gang, led by Luckson Elan (HTi.007), launched assaults on Pont-Sonde in the Saint Marc commune (Artibonite Department), which reports indicate resulted in the deaths of about 100 individuals and 16 injured. At least five rape cases, one of them involving a minor, have been documented. The massacre also forced more than 6 000 people to flee their homes. On 11 December 2024, Gran Grif killed 70 people in Petite-Rivière-de-l’Artibonite after a self-defense group between December 9 and 10, 2024 lynched 39 individuals accused of complicity with the gang. Between December 2023 and July 2024, the Gran Grif gang kidnapped 157 people over the course of nine separate kidnapping incidents in the Petite-Rivière-de-l’Artibonite. On 30 November 2024, a 22-year-old woman was killed by two bullets to her vagina for refusing to have sexual relations with Gran Grif gang leader Luckson Elan, at Petite-Rivière-de-l’Artibonite. Cases of rape have also been committed by the gang members of Gran Grif. In April and May 2024, two lawyers were killed by the Gran Grif gang. These attacks on the legal profession aim to create a climate of fear and intimidation and constitute serious threats to the exercise of judicial independence and legal representation.
+
+2\. VIV ANSANM. Listed pursuant to paragraph 15 of United Nations Security Council Resolution 2653 (2022) for the measures listed in paragraph 6 of that Resolution, as further elaborated by paragraphs 16(a) and 16(g) of that resolution.
+
+A.k.a.: (a) Living Together (b) G-9 (c) G9 Family and Allies (d) G9 Fanmi e Alye (e) The Revolutionary Forces of the G9 Family and Allies (f) Fòs Revolisyonè G9 an Fanmi e Alye (g) G-Pèp (h) G-People
+
+Address: Haiti
+
+Date of UN designation: 8 July 2025
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee: Viv Ansanm, led by Jimmy Chérizier (HTi.001), is a group formed in September 2023 as a coalition of gangs through an alliance between the two main gang factions operating in Port-au-Prince, G-9 and G-Pèp. The group provides a unified platform for criminal groups to use violence to destabilize Haiti and quash actions aimed at restoring state control. Viv Ansanm has launched coordinated attacks on critical infrastructure in Haiti, including prisons, government buildings, and Haiti’s main airport in Port-au-Prince as part of a campaign that, among other things, forced the resignation of former Haitian prime minister Ariel Henry. The two opposite gang coalitions – G9 and G-Pèp – reactivated the Viv Ansanm coalition on February 29, 2024, to establish a common front against the transition government. From late February to May 2024, Port-au-Prince witnessed unprecedented levels of violence marked by coordinated gang attacks against key government buildings and critical infrastructure. Since then, the level of violence has continued to increase as Viv Ansanm looks to consolidate its territory and conquer additional neighbourhoods in Port-au-Prince. Between 11 and 19 November 2024, Viv Ansanm gangs attacked several locations in the metropolitan area of Port-au-Prince, such as Pernier, Nazon, and Vivy Mitchel, in an attempt to invade Delmas and Pétionville. The resulting violence led to at least 220 deaths, 92 injuries, and nearly 41 000 displaced people. Between 26 and 29 January 2025, Viv Ansanm launched multiple attacks in Kenscoff (West Department), south of Port-au-Prince, aiming to seize control of the area and secure access to the South-East part of the country. It is estimated that between 90 and 150 people were killed in the massacre.
+
+The violence also resulted in more than 100 households being destroyed, and the displacement of 3 139 people. Viv Ansanm has launched at least 10 major attacks against the National Palace since early March 2024. Viv Ansanm also repeatedly attacked, inter alia, the Ministries of Justice, Defense and the Interior, the former building of the Cour Supérieure des Comptes et du Contentieux Administratif and the general hospital, as well as Haitian National Police units, including the Unité Départementale de Maintien d’Ordre and the Port-au-Prince police station. In the northern communes of the capital, two gangs that are part of Viv Ansanm, 5 Segonn and Canaan, killed at least 10 people and burned several houses during attacks against the Arcahaïe and Cabaret communes on 6 August 2024, in a bid to extend control along the Port-au-Prince bay area, presumably to facilitate the movement of drugs and access to other areas. Minors have been involved in Viv Ansanm attacks in Port-au-Prince and in managing checkpoints. Children are used for different tasks depending on their age, sex, and skills. For example, girls usually participate in household chores and as spies to collect information from possible kidnapping victims, or to check on police or other gangs’ movements. There are also reports of girls carrying weapons and probably engaging in clashes. Between February and May 2024, Viv Ansanm adopted as a tactic the wanton destruction and ransacking of public and private infrastructure and property in Port-au-Prince metropolitan area. For example, on 24 March 2024, Viv Ansanm launched a large-scale indiscriminate attack on several blocks around the National Palace. The aim of the attack was to empty the area of the population and to cause as much damage as possible. Johnson ‘Izo’ André (HTi.002), the leader of 5 Segonn, has been identified as one of the main aggressors in the attack. In March 2024, the Viv Ansanm destroyed Jude-Anne Hospital and ransacked the Hospital and Saint Martin Health Center in the Delmas 18 neighbourhood.
+
+Between February and May 2024, members of the Viv Ansanm vandalized and set fire to the premises of the Faculty of Science, Faculty of Linguistics, Faculty of Agronomy and Veterinary Medicine, Faculty of Medicine and Pharmacy, the École Normale Supérieure at the State University of Haiti, the National School of Arts, the Mixed School Les Frères Nau, and the National Library in Port-au-Prince, among many other educational sites. Since late February 2024, Viv Ansanm members have attacked critical infrastructure, robbed containers carrying first aid supplies, and looted hospitals and pharmacies, among other humanitarian aid sites, particularly in the Port-au-Prince metropolitan area. Blockaded roadways and the closure of the main airport and seaport have severely restricted the movement of vital supplies and humanitarian personnel. These disruptions have worsened existing shortages and hindered the delivery of crucial humanitarian aid. On March 15, 2024, Viv Ansanm, along with civilians, looted a container with humanitarian aid belonging to UNICEF and containing essential supplies for life-saving aid to children. The closure of the main commercial port in Port-au-Prince (APN/CPS) widely affected the supply chain of basic commodities, leading to shortages of humanitarian equipment.
+
+## ANNEX II
+
+A. List of natural persons referred to in Article 2a(1) and in Article 3a(1)
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Statement of reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Jonel CATEL a.k.a.  Johns CATHEL </td><td>Function: Terre Noire gang leader (affiliated with G9 coalition of gangs) Nationality: Haitian  Gender: male </td><td>Jonel Catel is the leader of the Terre Noir gang, which is affiliated with the G9 coalition of gangs in Haiti. Under his command, the Terre Noir gang is engaged in violence and criminal activities in Haiti, including robbery, ransoming, kidnapping, extortion, murders and rape.  Jonel Catel is therefore responsible for actions that threaten peace, stability and security in Haiti, including engaging in criminal activities and violence involving armed groups and criminal networks that promote violence, including kidnappings, homicides and sexual and gender-based violence. </td><td>16.12.2024</td></tr>
+<tr><td>2.</td><td>Gabriel JEAN-PIERRE a.k.a. Ti-Gabriel; Ti Gabriel; Gabo </td><td>Function: leader of the GPep coalition of gangs (affiliated with Brooklyn gang) DOB: 31.03.1984  Nationality: Haitian  Gender: male </td><td>Gabriel Jean-Pierre is the leader of the GPep coalition of gangs in Haiti, which is affiliated with Brooklyn gang. Under his command, the GPep is engaged in violence and criminal activities in Haiti, including extortion, destruction of property, kidnapping, assassinations and rape.  Gabriel Jean-Pierre is therefore responsible for actions that threaten peace, stability and security in Haiti, including engaging in criminal activities and violence involving armed groups and criminal networks that promote violence, including kidnappings, homicides and sexual and gender-based violence. </td><td>16.12.2024</td></tr>
+<tr><td>3.</td><td>Ferdens TILUS a.k.a. General Meyer; Jeneral Meyer; Jeneral Meyè </td><td>Function: Kokorat San Ras gang leader DOB: 15.09.1995  Nationality: Haitian  Gender: male </td><td>Ferdens Tilus is the leader of the Kokorat San Ras Gang in Haiti (area of Atribonite/NorthWest). Under his command, the Kokorat San Ras gang is engaged in violence and criminal activities in Haiti, including murder, theft, rape, kidnapping and embezzlement of property.  Ferdens Tilus is therefore responsible for actions that threaten peace, stability and security in Haiti, including engaging in criminal activities and violence involving armed groups and criminal networks that promote violence, including kidnappings, homicides and sexual and gender-based violence. </td><td>16.12.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>4.</td><td>Micanor ALTÈS a.k.a. Monel Felix, Micanord;  Mikano;  Wa Mikanò; King Micanor;  Alfred Mones </td><td>Function: Wharf Jérémie gang leader Nationality: Haitian  Gender: male  Address: Neighbourhood of Wharf Jérémie, near La Saline, Port-au-Prince, Haiti </td><td>Micanor Altès is the leader of the Wharf Jérémie gang. Wharf Jérémie is a coastal neighbourhood in the La Saline area of Port-au-Prince. This zone has been under the control of the gang led by Micanor Altès for over a decade. Under his command, the gang is responsible for the massacre of 207 people between 6 and 11 December, 2024 in the Wharf Jérémie district. The massacre occurred after the death of Altès’ new born son from an unknown illness. Convinced that elderly Voodoo practitioners in the area under his control had cast a spell on his child, the gang leader ordered the execution of all inhabitants over 60 practicing Voodoo, after kidnapping them.  Micanor Altès is therefore responsible for actions that threaten peace, stability and security in Haïti, including engaging in criminal activities and violence involving armed groups and criminal networks. </td><td>15.7.2025</td></tr>
+<tr><td>5.</td><td>Christ-Roi CHÉRY a.k.a. Kris-La; Krisla; Chrisla; Chrislat </td><td>Function: Ti Bwa gang leader (affiliated with Viv Ansanm/G9 Coalition of gangs) Nationality: Haitian  Gender: male  Address: Commune of Carrefour, Metropolitan region of Port-au-Prince, Haiti </td><td>Christ-Roi Chéry is the leader of the Ti Bwa gang, which is affiliated with the Viv Ansanm (also called G9) coalition of gangs in Haiti. Since February 2024, the Ti Bwa gang has controlled the commune of Carrefour.  Under Christ-Roi Chéry’s command, the Ti Bwa gang is engaged in violence and criminal activities in Haiti, including murder, robbery, rape, hijacking of goods and trucks, extortion, targeted assassinations and drugs trafficking.  Christ-Roi Chéry is therefore responsible for actions that threaten peace, stability and security in Haiti, including engaging in criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, homicides and sexual and gender-based violence. </td><td>15.7.2025</td></tr>
+<tr><td>6.</td><td>Jeff LAROSE a.k.a. Jeff; Gwo Lwa; Taliban </td><td>Function: Canaan gang leader (affiliated with G-Pép and Viv Ansanm coalitions of gangs)  Nationality: Haitian  Gender: male  Address: Canaan, Metropolitan region of Port-au-Prince, Haiti </td><td>Jeff Larose is the leader of the Canaan gang, which is affiliated with the G-Pép and Viv Ansanm coalitions of gangs in Haiti. The Canaan gang controls the localities of Canaan, Onaville, Jerusalem, Corail, Rosemberg, Lilavois, Bon Repos, all located in the metropolitan area of Port-au-Prince. The gang extended its control over its original territory and also operates in Mirebalais (Centre department).  Under Jeff Larose’s command, the Canaan gang is engaged in violence and criminal activities in Haiti, including kidnapping, land appropriation, rape, home burglary, hijacking of goods and vehicles, ransoming, murder and drug trafficking.  Jeff Larose is therefore responsible for actions that threaten peace, stability and security in Haiti, including engaging in criminal activities and violence involving armed groups and criminal networks that promote violence, including forcible recruitment of children by such groups and networks, kidnappings, homicides and sexual and gender-based violence. </td><td>15.7.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Michel Joseph MARTELLY a.k.a. Sweet Micky </td><td>Function: former President of Haiti (2011-2016); former President of the CARICOM (January 2023-July 2023)</td><td>Michel Martelly, the former President of the Republic of Haiti (2011-2016), participated directly in the creation of the gang Base 257. He financed, sponsored and supported several gangs, in particular Base 257, but also Village de Dieu, Ti Bois and Grand Ravine, to defend his economic interests, advance his political agenda and control territories, notably by providing them with firearms and guns. By financing those groups, he is also responsible for the abuses they have committed and has therefore contributed financially to insecurity and instability in Haiti. Therefore, Michel Martelly is responsible for actions that threaten the peace, stability and security of Haiti. </td><td>15.12.2025</td></tr>
+<tr><td>8.</td><td>Youri LATORTUE</td><td>Function: former advisor to the President Michel Martelly (2011-2016); former President of the Senate (2017-2018); former senator of the Artibonite department; coordinator of the party ‘L’Ayiti an Aksyon’ (AAA), previously known as ‘L’Artibonite en Action’ (LAAA)</td><td>Youri Latortue is the founder of the political party ‘L’Ayiti an Aksyon’ (AAA), a former senator of the Artibonite department, and a former advisor to the President Michel Martelly during his presidency (2011-2016). He also served as president of the Senate from 13 January 2017 to 9 January 2018. Youri Latortue has armed and financed the ‘Raboteau’ and ‘Kokorat San Ras’ gangs, to promote his political agenda and defend his personal and economic interests, notably in the Artibonite department. Those gangs are still active today, engaging in kidnapping and racketeering, among other activities.  Therefore, Youri Latortue is indirectly responsible for actions that threaten the peace, stability and security of Haiti. </td><td>15.12.2025</td></tr>
+<tr><td>9.</td><td>Rony CELESTIN a.k.a. Rony APPOLON </td><td>Function: former deputy (2011-2017); former senator (2017-2023)</td><td>Rony Celestin, a former senator of Haiti, is involved in violence linked to armed groups and smuggling. He has notably been held responsible for orchestrating the murder of the journalist Néhémie Joseph, who exposed his illegal activities and corruption. Therefore, Rony Celestin is indirectly responsible for actions that threaten the peace, stability and security of Haiti. </td><td>15.12.2025</td></tr>
+</tbody>
+</table>
+
+B. List of legal persons, entities and bodies referred to in Article 3a(1)
+
+|  | Name | Identifying information | Statement of reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1. | 5 Segond gang | Haitian gang based in the ‘Village de Dieu’ neighbourhood in Port-au-Prince | The 5 Segond gang is a powerful gang in Haiti, based in the Village de Dieu neighbourhood in Port-au-Prince. Its leader is Johnson André, a.k.a ‘Izo’. The 5 Segond gang was officially part of the G-Pèp gang alliance. In 2024, G-Pèp and its former rivals, G9 Family and Allies, formed a new coalition, Viv Ansanm, a.k.a. Living Together. Together, they increased attacks against state institutions and contributed to instability. The 5 Segond gang also commits theft, rape, kidnapping, murder, piracy, and extortion, obstructs humanitarian aid and engages in arms and drugs trafficking. Therefore, the 5 Segond gang is responsible for actions that threaten the peace, stability and security of Haiti. | 15.12.2025 |
+
+( 1 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).

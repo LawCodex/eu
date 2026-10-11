@@ -1,0 +1,790 @@
+---
+title: "Council Implementing Decision (CFSP) 2025/1971 of 29 September 2025 implementing Decision 2010/413/CFSP concerning restrictive measures against Iran"
+identifier: "32025D1971"
+eli: "http://data.europa.eu/eli/dec_impl/2025/1971/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-09-29
+entry_into_force: 2025-12-03
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025D1971"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Decision (CFSP) 2025/1971 of 29 September 2025 implementing Decision 2010/413/CFSP concerning restrictive measures against Iran
+
+**COUNCIL IMPLEMENTING DECISION (CFSP) 2025/1971**
+
+**of 29 September 2025**
+
+**implementing Decision 2010/413/CFSP concerning restrictive measures against Iran**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,
+
+Having regard to Council Decision 2010/413/CFSP of 26 July 2010 concerning restrictive measures against Iran and repealing Common Position 2007/140/CFSP (1), and in particular Article 23(1) thereof.
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 26 July 2010, the Council adopted Decision 2010/413/CFSP.
+
+(2) On 14 July 2015, China, France, Germany, the Russian Federation, the United Kingdom and the United States, supported by the High Representative of the Union for Foreign Affairs and Security Policy (‘the High Representative’), reached an agreement with Iran on a long-term comprehensive solution to the Iranian nuclear issue. The full implementation of the Joint Comprehensive Plan of Action (‘JCPOA’) was to ensure the exclusively peaceful nature of the Iranian nuclear programme, and provide for the comprehensive lifting of all nuclear-related sanctions.
+
+(3) On 20 July 2015, the United Nations Security Council (‘UNSC’) adopted Resolution 2231 (2015) endorsing the JCPOA, urging its full implementation in accordance with the timetable established in the JCPOA and providing for actions to take place in accordance with the JCPOA.
+
+(4) On 20 July 2015, the Council welcomed and endorsed the JCPOA and committed itself to abiding by its terms and to following the agreed implementation plan. The Council also fully supported Resolution 2231 (2015).
+
+(5) On 14 January 2020, the High Representative as Coordinator of the Joint Commission of the JCPOA (‘the Coordinator’) received a letter from the Foreign Ministers of France, Germany and the United Kingdom referring a matter concerning the implementation of Iran’s commitments under the JCPOA to the Joint Commission for resolution through the Dispute Resolution Mechanism, as set out in paragraph 36 of the JCPOA. On the same day, the Coordinator issued a statement indicating that he would oversee the Dispute Resolution Mechanism process (the ‘process’).
+
+(6) On 24 January 2020, the Coordinator issued a statement indicating that, pursuant to the process, he had undertaken extensive bilateral and collective consultations and that all JCPOA participants had reconfirmed their determination to preserve the JCPOA, which was in the interest of all. The Coordinator indicated that, notwithstanding differences on modalities, there was agreement that more time was needed due to the complexity of the issues involved. The timeline for the process was therefore extended. All parties involved agreed to pursue expert-level discussions addressing concerns regarding nuclear implementation, as well as the wider impact of the withdrawal of the United States from the JCPOA and its re-imposition of sanctions against Iran, concerning which all JCPOA participants had expressed regret.
+
+(7) On 21 December 2020, in a Joint Ministerial Statement on the JCPOA, the JCPOA participants re-emphasised their commitment to preserving the agreement and stressed their respective efforts in that regard. The statement indicated that the Ministers had discussed how full and effective implementation of the JCPOA by all remained crucial, as well as the need to address ongoing implementation challenges, including on nuclear non-proliferation and sanctions-lifting commitments. The Ministers agreed to continue their dialogue in order to ensure full JCPOA implementation by all sides. The Ministers acknowledged the prospect of a return of the United States to the JCPOA and underlined their readiness to positively address that return in a joint effort.
+
+(8) From April 2021 to August 2022, the Coordinator led diplomatic talks to negotiate the return of the United States to the JCPOA and to ensure the full and effective implementation of the JCPOA by Iran. Despite those efforts, including several meetings of the Joint Commission during that period, it was not possible to reach an agreement.
+
+(9) On 14 September 2023, the Coordinator received a letter from the Foreign Ministers of France, Germany and the United Kingdom related to the implementation of the JCPOA. The Foreign Ministers stated that Iran was in non-compliance since 2019 and that they considered that this had not been resolved through the process. They expressed their intention not to take steps regarding the lifting of further sanctions on 18 October 2023, the JCPOA Transition Day. On the same day, the Coordinator issued a statement indicating that that he had circulated the ministerial letter to the other JCPOA participants, and that he would consult with all JCPOA participants on the way forward.
+
+(10) On 6 October 2023, the Coordinator issued a statement indicating that following consultations with JCPOA participants, the issue concerning the implementation of Iran’s commitments under the JCPOA remained unresolved given the diverging views expressed.
+
+(11) On 16 October 2023, the Council adopted Decision (CFSP) 2023/2195 (2), which amended Decision 2010/413/CFSP. The Council considered that the Union had valid grounds for maintaining after JCPOA Transition Day the restrictive measures against certain persons and entities listed in Annexes I and II to Council Decision 2010/413/CFSP and Annexes VIII and IX to Council Regulation (EU) No 267/2012 (3). Therefore, the names of those persons and entities were transferred from Annex I to Council Decision 2010/413/CFSP to Annex II to that Decision and from Annex VIII to Council Regulation (EU) No 267/2012 to Annex IX to that Regulation.
+
+(12) The Council further considered that the Union had valid grounds for maintaining after JCPOA Transition Day the restrictive measures on financial messaging services, related to the transport sector, related to proliferation-sensitive nuclear activities and associated services, on metals and associated services, on software and associated services, and on arms and associated services.
+
+(13) The Council also considered that the Union had valid grounds for not terminating after JCPOA Transition Day the restrictive measures, which were suspended on JCPOA Implementation Day by Council Decision (CFSP) 2015/1863 (4).
+
+(14) On 28 August 2025, the Coordinator and the President of the UNSC received a letter from the Foreign Ministers of France, Germany and the United Kingdom related to the implementation of the JCPOA. Through this letter, the Foreign Ministers notified the UNSC that, based on factual evidence, they believed Iran to be in significant non-performance of its commitments under the JCPOA, thereby opening the procedure to reinstate the UN sanctions lifted under UNSC Resolution 2231 (2015), in line with paragraph 11 of UNSC Resolution 2231 (2015).
+
+(15) On 27 September 2025, the UNSC did not adopt a new resolution to continue lifting sanctions within 30 days of the notification of 28 August 2025. Therefore, in line with the provisions of paragraph 37 of the JCPOA, the provisions of UNSC Resolutions 1696 (2006), 1737 (2006), 1747 (2007), 1803 (2008), 1835 (2008) and 1929 (2010) are to be re-imposed.
+
+(16) Annexes I and II to Decision 2010/413/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Annexes I and II to Decision 2010/413/CFSP is amended in accordance with the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+Done at Brussels, 29 September 2025.
+
+For the Council
+
+The President
+
+M. BØDSKOV
+
+(1) OJ L 195, 27.7.2010, p. 39, ELI: http://data.europa.eu/eli/dec/2010/413/oj.
+
+(2) Council Decision (CFSP) 2023/2195 of 16 October 2023 amending Decision 2010/413/CFSP concerning restrictive measures against Iran (OJ L, 2023/2195, 17.10.2023, ELI: http://data.europa.eu/eli/dec/2023/2195/oj).
+
+(3) Council Regulation (EU) No 267/2012 of 23 March 2012 concerning restrictive measures against Iran and repealing Regulation (EU) No 961/2010 (OJ L 88, 24.3.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/267/oj).
+
+(4) Council Decision (CFSP) 2015/1863 of 18 October 2015 amending Decision 2010/413/CFSP concerning restrictive measures against Iran (OJ L 274, 18.10.2015, p. 174, ELI: http://data.europa.eu/eli/dec/2015/1863/oj).
+
+## ANNEX
+
+I. Annex I to Decision 2010/413/CFSP is amended as follows:
+
+(1) under the heading ‘A. Persons and entities involved in nuclear or ballistic missile activities’, the following entries are added under the subheading ‘Natural persons’:
+
+‘(1) Fereidoun Abbasi-Davani. Function: Senior Ministry of Defence and Armed Forces Logistics (MODAFL) Scientist. DOB: (a) 1958 (b) 1959. POB: Abadan, Iran (Islamic Republic of). Other information: Has “links to the Institute of Applied Physics. Working closely with Mohsen Fakhrizadeh-Mahabadi”
+
+Date of UN designation: 24.3.2007.
+
+(2) Dawood Agha-Jani. Function: Head of the PFEP – Natanz. Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(3) Ali Akbar Ahmadian. Title: Vice Admiral. Function: Chief of Iranian Revolutionary Guard Corps (IRGC) Joint Staff. DOB: 1961. POB: Kerman, Iran (Islamic Republic of). A.k.a.: Ali Akbar Ahmedian. Other information: position changed.
+
+Date of UN designation: 24.3.2007.
+
+(4) Amir Moayyed Alai. Other information: involved in managing the assembly and engineering of centrifuges.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(5) Behman Asgarpour. Function: Operational Manager (Arak). Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(6) Mohammad Fedai Ashiani. Other information: involved in the production of ammonium uranyl carbonate and management of the Natanz enrichment complex.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(7) Abbas Rezaee Ashtiani. Other information: a senior official at the AEOI Office of Exploration and Mining Affairs.
+
+Date of UN designation: 3.3.2008.
+
+(8) Bahmanyar Morteza Bahmanyar. Function: Head of Finance & Budget Department of the Aerospace Industries Organisation (AIO). DOB: 31.12.1952. Nationality: Iran. Passport no: (a) I0005159, issued in Iran (b) 10005159, issued in Iran.
+
+Date of UN designation: 23.12.2006.
+
+(9) Haleh Bakhtiar. Other information: involved in the production of magnesium at a concentration of 99,9 %.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(10) Morteza Behzad. Other information: involved in making centrifuge components.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(11) Ahmad Vahid Dastjerdi. Function: Head of the Aerospace Industries Organisation (AIO). DOB: 15.1.1954. Passport no: A0002987, issued in Iran. Other information: Served as Deputy Defence Minister.
+
+Date of UN designation: 23.12.2006.
+
+(12) Ahmad Derakhshandeh. Function: Chairman and Managing Director of Bank Sepah, which provides support for the AIO and subordinates, including SHIG and SBIG, both of which were designated under resolution 1737 (2006). DOB: 11.8.1956. Address: 33 Hormozan Building, Pirozan St., Sharaj Ghods, Tehran, Iran (Islamic Republic of).
+
+Date of UN designation: 24.3.2007.
+
+(13) Mohammad Eslami. Title: Dr. Other information: Head of Defence Industries Training and Research Institute. A.k.a.: Mohammad Islami; Mohamed Islami; Mohammed Islami. Other information: Served as Deputy Defence Minister from 2012 to 2013.
+
+Date of UN designation: 3.3.2008.
+
+(14) Reza-Gholi Esmaeli. Function: Head of Trade & International Affairs Dept, Aerospace Industries Organisation (AIO). DOB: 3.4.1961. A.k.a.: Reza-Gholi Ismaili. Passport no: A0002302, issued in Iran (Islamic Republic of).
+
+Date of UN designation: 23.12.2006.
+
+(15) Mohsen Fakhrizadeh-Mahabadi. Function: Senior MODAFL scientist and former head of the Physics Research Centre (PHRC). Passport no: (a) A0009228 (Unconfirmed (likely Iran)) (b) 4229533 (Unconfirmed (likely Iran)). Other information: The IAEA have asked to interview him about the activities of the PHRC over the period he was head but Iran has refused.
+
+Date of UN designation: 24.3.2007.
+
+(16) Mohammad Hejazi. Title: Brigadier General. Function: Commander of Bassij resistance force. DOB: 1959. POB: Isfahan, Iran (Islamic Republic of). A.k.a.: Mohammed Hijazi.
+
+Date of UN designation: 24.3.2007.
+
+(17) Mohsen Hojati. Function: Head of Fajr Industrial Group, which is designated under resolution 1737(2006) for its role in the ballistic missile programme. DOB: 28.9.1955. Passport no: G4506013, issued in Iran (Islamic Republic of).
+
+Date of UN designation: 24.3.2007.
+
+(18) Seyyed Hussein Hosseini. Other information: AEOI official involved in the heavy water research reactor project at Arak.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(19) M. Javad Karimi Sabet. Other information: Head of Novin Energy Company, which is designated under resolution 1747 (2007).
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(20) Mehrdada Akhlaghi Ketabachi. Function: Head of Shahid Bagheri Industrial Group (SBIG), which is designated under resolution 1737(2006) for its role in the ballistic missile programme. DOB: 10.9.1958. Passport no: A0030940, issued in Iran (Islamic Republic of).
+
+Date of UN designation: 24.3.2007.
+
+(21) Ali Hajinia Leilabadi. Function: Director General of Mesbah Energy Company. Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(22) Naser Maleki. Function: Head of Shahid Hemmat Industrial Group (SHIG), which is designated under resolution 1737(2006) for its role in Iran’s ballistic missile programme. DOB: 1960. Passport no: A0003039 issued in Iran (Islamic Republic of). National identification no: Iran (Islamic Republic of) 0035-11785, issued in Iran (Islamic Republic of). Other information: Naser Maleki is also a MODAFL official overseeing work on the Shahab-3 ballistic missile programme. The Shahab-3 is Iran’s long-range ballistic missile currently in service.
+
+Date of UN designation: 24.3.2007.
+
+(23) Hamid-Reza Mohajerani. Other information: involved in production management at the Uranium Conversion Facility (UCF) at Esfahan.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(24) Jafar Mohammadi. Function: Technical Adviser to the Atomic Energy Organisation of Iran (AEOI) (in charge of managing the production of valves for centrifuges). Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(25) Ehsan Monajemi. Function: Construction Project Manager, Natanz. Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(26) Mohammad Reza Naqdi. Title: Brigadier-General. DOB: (a) 11.2.1949 (b) 11.2.1952 (c) 11.2.1953 (d) 11.2.1961. POB: (a) Najaf, Iraq (b) Tehran, Iran (Islamic Republic of). Other information: former Deputy Chief of Armed Forces General Staff for Logistics and Industrial Research. Head of State Anti-Smuggling Headquarters, engaged in efforts to get round the sanctions imposed by UNSCR 1737 (2006) and 1747 (2007).
+
+Date of UN designation: 3.3.2008.
+
+(27) Houshang Nobari. Other information: involved in the management of the Natanz enrichment complex.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(28) Mohammad Mehdi Nejad Nouri. Title: Lieutenant General. Function: Rector of Malek Ashtar University of Defence Technology. Other information: The chemistry department of Ashtar University of Defence Technology, affiliated to MODALF and has conducted experiments on beryllium. Deputy Minister of Science, Research and Technology.
+
+Date of UN designation: 23.12.2006.
+
+(29) Mohammad Qannadi. Function: AEOI Vice President for Research & Development. Other information: Person involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(30) Amir Rahimi. Function: Head of Esfahan Nuclear Fuel Research and Production Center. Other information: Esfahan Nuclear Fuel Research and Production Center is part of the AEOI’s Nuclear Fuel Production and Procurement Company, which is involved in enrichment-related activities.
+
+Date of UN designation: 24.3.2007.
+
+(31) Javad Rahiqi: Function: Head of the Atomic Energy Organization of Iran (AEOI) Esfahan Nuclear Technology Center (additional information: DOB: 24.4.1954; POB: Marshad).
+
+Date of UN designation: 9.6.2010 (EU: 24.4.2007).
+
+(32) Abbas Rashidi. Other information: involved in enrichment work at Natanz.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(33) Morteza Rezaie. Title: Brigadier General. Function: Deputy Commander of IRGC. DOB: 1956. A.k.a.: Mortaza Rezaie; Mortaza Rezai; Morteza Rezai.
+
+Date of UN designation: 24.3.2007.
+
+(34) Morteza Safari. Title: Rear Admiral. Function: Commander of IRGC Navy. A.k.a.: Mortaza Safari; Morteza Saferi; Murtaza Saferi; Murtaza Safari.
+
+Date of UN designation: 24.3.2007.
+
+(35) Yahya Rahim Safavi. Title: Major General. Function: Commander, IRGC (Pasdaran). DOB: 1952. POB: Isfahan, Iran (Islamic Republic of). A.k.a.: Yahya Raheem Safavi.
+
+Date of UN designation: 23.12.2006.
+
+(36) Seyed Jaber Safdari. Other information: Manager of the Natanz Enrichment Facilities.
+
+Date of UN designation: 24.3.2007.
+
+(37) Hosein Salimi. Title: General. Function: Commander of the Air Force, IRGC (Pasdaran). Other information: Person involved in Iran’s ballistic missile programme.
+
+Date of UN designation: 23.12.2006
+
+(38) Qasem Soleimani. Title: Brigadier General. Function: Commander of Qods force. DOB: 11.3.1957. POB: Qom, Iran (Islamic Republic of). A.k.a.: Qasim Soleimani; Qasem Sulaimani; Qasim Sulaimani; Qasim Sulaymani; Qasem Sulaymani; Kasim Soleimani; Kasim Sulaimani; Kasim Sulaymani; Haj Qasem; Haji Qassem; Sarder Soleimani. Passport no: 008827, issued in Iran. Other information: Promoted to Major General, retaining his position as Commander of Qods Force.
+
+Date of UN designation: 24.3.2007.
+
+(39) Ghasem Soleymani. Other information: Director of Uranium Mining Operations at the Saghand Uranium Mine.
+
+Date of UN designation: 3.3.2008.
+
+(40) Mohammad Reza Zahedi. Title: Brigadier General. Function: Commander of IRGC Ground Forces. DOB: 1944. POB: Isfahan, Iran (Islamic Republic of). A.k.a.: Mohammad Reza Zahidi; Mohammad Raza Zahedi.
+
+Date of UN designation: 24.3.2007.
+
+(41) Mohammad Baqer Zolqadr. Function: General, IRGC officer, Deputy Interior Minister for Security Affairs. A.k.a.: Mohammad Bakr Zolqadr; Mohammad Bakr Zolkadr; Mohammad Baqer Zolqadir; Mohammad Baqer Zolqader.
+
+Date of UN designation: 24.3.2007.
+
+(42) Azim Aghajani. Function: Member of the IRGC-Qods Force operating under the direction of Qods Force Commander, Major General Qasem Soleimani, who was designated by the UN Security Council in Resolution 1747 (2007). A.k.a.: Azim Adhajani; Azim Agha-Jani. Nationality: Iran (Islamic Republic of). Passport no: (a) 6620505 issued in Iran (Islamic Republic of) (b) 9003213 issued in Iran (Islamic Republic of). Other information: facilitated a breach of paragraph 5 of Resolution 1747 (2007) prohibiting the export of arms and related materiel from Iran.
+
+Date of UN designation: 18.4. 2012
+
+(43) Ali Akbar Tabatabaei. Function: Member of the IRGC Qods Force operating under the direction of Qods Force Commander, Major General Qasem Soleimani, who was designated by the UN Security Council in Resolution 1747 (2007). DOB: 1967. A.k.a.: (a) Sayed Akbar Tahmaesebi; Syed Akber Tahmaesebi (b) Ali Akber Tabatabaei; Ali Akber Tahmaesebi; Ali Akbar Tahmaesebi. Nationality: Iran (Islamic Republic of). Passport no: (a) 9003213 issued in Iran/unknown (b) 6620505 issued in Iran/unknown. Other information: facilitated a breach of paragraph 5 of Resolution 1747 (2007) prohibiting the export of arms and related materiel from Iran.
+
+Date of UN designation: 18.4.2012.’;
+
+(2) under the heading ‘A. Persons and entities involved in nuclear or ballistic missile activities’, the following table and entries are added under the subheading ‘Entities’:
+
+‘(1) Abzar Boresh Kaveh Co. (alias BK Co.). Other information: involved in the production of centrifuge components.
+
+Date of UN designation: 3.3.2008.
+
+(2) Amin Industrial Complex. Amin Industrial Complex sought temperature controllers which may be used in nuclear research and operational/production facilities. Amin Industrial Complex is owned or controlled by, or acts on behalf of, the Defense Industries Organization (DIO), which was designated in resolution 1737 (2006).
+
+Location: P.O. Box 91735-549, Mashad, Iran; Amin Industrial Estate, Khalage Rd., Seyedi District, Mashad, Iran; Kaveh Complex, Khalaj Rd., Seyedi St., Mashad, Iran
+
+A.K.A.: Amin Industrial Compound and Amin Industrial Company.
+
+Date of UN designation: 9.6.2010.
+
+(3) Ammunition and Metallurgy Industries Group (AMIG) A.k.a. Ammunition Industries Group. Other information: (a) AMIG controls 7th of Tir, which is designated under resolution 1737 (2006) for its role in Iran’s centrifuge programme. AMIG is in turn owned and controlled by DIO, which is designated under resolution 1737 (2006).
+
+Date of UN designation: 24.3.2007.
+
+(4) Armament Industries Group. Armament Industries Group (AIG) manufacturers and services a variety of small arms and light weapons, including large- and medium-calibre guns and related technology. AIG conducts the majority of its procurement activity through Hadid Industries Complex.
+
+Location: Sepah Islam Road, Karaj Special Road Km 10, Iran; Pasdaran Ave., P.O. Box 19585/777, Tehran, Iran.
+
+Date of EU designation: 24.4.2007 (UN: 9.6.2010).
+
+(5) Atomic Energy Organisation of Iran (AEOI). Other information: Involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(6) Bank Sepah and Bank Sepah International. Other information: Bank Sepah provides support for the Aerospace Industries Organisation (AIO) and subordinates, including Shahid Hemmat Industrial Group (SHIG) and Shahid Bagheri Industrial Group (SBIG).
+
+Date of UN designation: 24.3.2007.
+
+(7) Barzagani Tejarat Tavanmad Saccal companies. Other information: (a) subsidiary of Saccal System companies, (b) this company tried to purchase sensitive goods for an entity listed in resolution 1737 (2006).
+
+Date of UN designation: 3.3.2008.
+
+(8) Cruise Missile Industry Group. A.k.a. Naval Defense Missile Industry Group. Other information: Production and development of cruise missiles. Responsible for naval missiles including cruise missiles.
+
+Date of UN designation: 3.3.2008.
+
+(9) Defence Industries Organisation (DIO). Other information: Overarching MODAFL-controlled entity, some of whose subordinates have been involved in the centrifuge programme making components, and in the missile programme.
+
+Date of UN designation: 23.12.2006.
+
+(10) Defense Technology and Science Research Center. Defense Technology and Science Research Center (DTSRC) is owned or controlled by, or acts on behalf of, Iran’s Ministry of Defense and Armed Forces Logistics (MODAFL), which oversees Iran’s defence R&D, production, maintenance, exports, and procurement.
+
+Location: Pasdaran Ave, PO Box 19585/777, Tehran, Iran.
+
+Date of EU designation: 24.4.2007 (UN: 9.6.2010).
+
+(11) Doostan International Company. Doostan International Company (DICO) supplies elements to Iran’s ballistic missile program.
+
+Date of UN designation: 9.6.2010.
+
+(12) Electro Sanam Company (alias (a) E. S. Co., (b) E. X. Co.). Other information: AIO front-company, involved in the ballistic missile programme.
+
+Date of UN designation: 3.3.2008.
+
+(13) Esfahan Nuclear Fuel Research and Production Centre (NFRPC) and Esfahan Nuclear Technology Centre (ENTC). Other information: They are parts of the Atomic Energy Organisation of Iran’s (AEOI) Nuclear Fuel Production and Procurement Company.
+
+Date of UN designation: 24.3.2007.
+
+(14) Ettehad Technical Group. Other information: AIO front-company, involved in the ballistic missile programme.
+
+Date of UN designation: 3.3.2008.
+
+(15) Fajr Industrial Group. Other information: (a) Formerly Instrumentation Factory Plant, (b) Subordinate entity of AIO, (c) Involved in Iran’s ballistic missile programme.
+
+Date of UN designation: 23.12.2006.
+
+(16) Farasakht Industries. Farasakht Industries is owned or controlled by, or act on behalf of, the Iran Aircraft Manufacturing Company, which in turn is owned or controlled by MODAFL.
+
+Location: P.O. Box 83145-311, Kilometer 28, Esfahan-Tehran Freeway, Shahin Shahr, Esfahan, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(17) Farayand Technique. Other information: (a) Involved in Iran’s nuclear programme (centrifuge programme), (b) Identified in IAEA reports.
+
+Date of UN designation: 23.12.2006.
+
+(18) First East Export Bank, P.L.C. First East Export Bank, PLC is owned or controlled by, or acts on behalf of, Bank Mellat. Over the last seven years, Bank Mellat has facilitated hundreds of millions of dollars in transactions for Iranian nuclear, missile, and defense entities.
+
+Location: Unit Level 10 (B1), Main Office Tower, Financial Park Labuan, Jalan Merdeka, 87000 WP Labuan, Malaysia; Business Registration Number LL06889 (Malaysia).
+
+Date of UN designation: 9.6.2010.
+
+(19) Industrial Factories of Precision (IFP) Machinery (alias Instrumentation Factories Plant). Other information: used by AIO for some acquisition attempts.
+
+Date of UN designation: 3.3.2008.
+
+(20) Jabber Ibn Hayan. Other information: AEOI laboratory involved in fuel-cycle activities.
+
+Date of UN designation: 3.3.2008 (EU: 24.4.2007).
+
+(21) Joza Industrial Co. Other information: AIO front-company, involved in the ballistic missile programme.
+
+Date of UN designation: 3.3.2008.
+
+(22) Kala-Electric. A.k.a. Kalaye Electric. Other information: Provider for PFEP – Natanz.
+
+Date of UN designation: 23.12.2006.
+
+(23) Karaj Nuclear Research Centre. Other information: Part of AEOI’s research division.
+
+Date of UN designation: 24.3.2007.
+
+(24) Kaveh Cutting Tools Company. Kaveh Cutting Tools Company is owned or controlled by, or acts on behalf of, the DIO.
+
+Location: 3rd Km of Khalaj Road, Seyyedi Street, Mashad 91638, Iran; Km 4 of Khalaj Road, End of Seyedi Street, Mashad, Iran; P.O. Box 91735-549, Mashad, Iran; Khalaj Rd., End of Seyyedi Alley, Mashad, Iran; Moqan St., Pasdaran St., Pasdaran Cross Rd., Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(25) Kavoshyar Company. Other information: Subsidiary company of AEOI.
+
+Date of UN designation: 24.3.2007.
+
+(26) Khorasan Metallurgy Industries. Other information: (a) subsidiary of the Ammunition Industries Group (AMIG) which depends on DIO, (b) involved in the production of centrifuge components.
+
+Date of UN designation: 3.3.2008.
+
+(27) M. Babaie Industries. M. Babaie Industries is subordinate to Shahid Ahmad Kazemi Industries Group (formally the Air Defense Missile Industries Group) of Iran’s Aerospace Industries Organization (AIO). AIO controls the missile organizations Shahid Hemmat Industrial Group (SHIG) and the Shahid Bakeri Industrial Group (SBIG), both of which were designated in resolution 1737 (2006).
+
+Location: P.O. Box 16535-76, Tehran, 16548, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(28) Malek Ashtar University. A subordinate of the DTRSC within MODAFL. This includes research groups previously falling under the Physics Research Center (PHRC). IAEA inspectors have not been allowed to interview staff or see documents under the control of this organization to resolve the outstanding issue of the possible military dimension to Iran’s nuclear program.
+
+Location: Corner of Imam Ali Highway and Babaei Highway, Tehran, Iran.
+
+Date of EU designation: 24.6.2008 (UN: 9.6.2010).
+
+(29) Mesbah Energy Company. Other information: (a) Provider for A40 research reactor – Arak, (b) Involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(30) Ministry of Defense Logistics Export. Ministry of Defense Logistics Export (MODLEX) sells Iranian-produced arms to customers around the world in contravention of resolution 1747 (2007), which prohibits Iran from selling arms or related materiel.
+
+Location: PO Box 16315-189, Tehran, Iran; located on the west side of Dabestan Street, Abbas Abad District, Tehran, Iran.
+
+Date of EU designation: 24.6.2008 (UN: 9.6.2010).
+
+(31) Mizan Machinery Manufacturing. Mizan Machinery Manufacturing (3M) is owned or controlled by, or acts on behalf of, SHIG.
+
+Location: P.O. Box 16595-365, Tehran, Iran
+
+A.K.A.: 3MG
+
+Date of EU designation: 24.6.2008 (UN: 9.6.2010).
+
+(32) Modern Industries Technique Company. Modern Industries Technique Company (MITEC) is responsible for design and construction of the IR-40 heavy water reactor in Arak. MITEC has spearheaded procurement for the construction of the IR-40 heavy water reactor.
+
+Location: Arak, Iran
+
+A.K.A.: Rahkar Company, Rahkar Industries, Rahkar Sanaye Company, Rahkar Sanaye Novin
+
+Date of UN designation: 9.6.2010.
+
+(33) Nuclear Research Center for Agriculture and Medicine. The Nuclear Research Center for Agriculture and Medicine (NFRPC) is a large research component of the Atomic Energy Organization of Iran (AEOI), which was designated in resolution 1737 (2006). The NFRPC is AEOI’s center for the development of nuclear fuel and is involved in enrichment-related activities.
+
+Location: P.O. Box 31585-4395, Karaj, Iran
+
+A.K.A.: Center for Agricultural Research and Nuclear Medicine; Karaji Agricultural and Medical Research Center
+
+Date of UN designation: 9.6.2010.
+
+(34) Niru Battery Manufacturing Company. Other information: (a) subsidiary of the DIO, (b) its role is to manufacture power units for the Iranian military including missile systems.
+
+Date of UN designation: 3.3.2008.
+
+(35) Novin Energy Company (alias Pars Novin). Other information: It operates within AEOI.
+
+Date of UN designation: 24.3.2007.
+
+(36) Parchin Chemical Industries. Other information: Branch of DIO, which produces ammunition, explosives, as well as solid propellants for rockets and missiles.
+
+Date of UN designation: 24.3.2007.
+
+(37) Pars Aviation Services Company. Other information: maintains various aircraft, including MI-171, used by IRGC Air Force.
+
+Date of UN designation: 24.3.2007.
+
+(38) Pars Trash Company. Other information: (a) Involved in Iran’s nuclear programme (centrifuge programme), (b) Identified in IAEA reports.
+
+Date of UN designation: 23.12.2006.
+
+(39) Pejman Industrial Services Corporation. Pejman Industrial Services Corporation is owned or controlled by, or acts on behalf of, SBIG.
+
+Location: P.O. Box 16785-195, Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(40) Pishgam (Pioneer) Energy Industries. Other information: has participated in construction of the Uranium Conversion Facility at Esfahan.
+
+Date of UN designation: 3.3.2008.
+
+(41) Qods Aeronautics Industries. Other information: It produces unmanned aerial vehicles (UAVs), parachutes, paragliders, para-motors, etc. IRGC has boasted to use these products as part of its asymmetric warfare doctrine.
+
+Date of UN designation: 24.3.2007.
+
+(42) Sabalan Company. Sabalan is a cover name for SHIG.
+
+Location: Damavand Tehran Highway, Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(43) Sanam Industrial Group. Other information: subordinate to AIO, which has purchased equipment on AIO’s behalf for the missile programme.
+
+Date of UN designation: 24.3.2007.
+
+(44) Safety Equipment Procurement (SEP). Other information: AIO front-company, involved in the ballistic missile programme.
+
+Date of UN designation: 3.3.2008.
+
+(45) 7th of Tir. Other information: Subordinate of DIO, widely recognised as being directly involved in Iran’s nuclear programme.
+
+Date of UN designation: 23.12.2006.
+
+(46) Sahand Aluminum Parts Industrial Company (SAPICO). SAPICO is a cover name for SHIG.
+
+Location: Damavand Tehran Highway, Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(47) Shahid Bagheri Industrial Group (SBIG). Other information: Subordinate entity of AIO.
+
+Date of UN designation: 23.12.2006.
+
+(48) Shahid Hemmat Industrial Group (SHIG). Other information: Subordinate entity of AIO.
+
+Date of UN designation: 23.12.2006.
+
+(49) Shahid Karrazi Industries. Shahid Karrazi Industries is owned or controlled by, or act on behalf of, SBIG.
+
+Location: Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(50) Shahid Satarri Industries. Shahid Sattari Industries is owned or controlled by, or acts on behalf of, SBIG.
+
+Location: Southeast Tehran, Iran
+
+A.K.A.: Shahid Sattari Group Equipment Industries.
+
+Date of UN designation: 9.6.2010.
+
+(51) Shahid Sayyade Shirazi Industries. Shahid Sayyade Shirazi Industries (SSSI) is owned or controlled by, or acts on behalf of, the DIO.
+
+Location: Next To Nirou Battery Mfg. Co, Shahid Babaii Expressway, Nobonyad Square, Tehran, Iran; Pasdaran St., P.O. Box 16765, Tehran 1835, Iran; Babaei Highway – Next to Niru M.F.G, Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(52) Sho’a’ Aviation. Other information: It produces micro-lights, which IRGC has claimed it is using as part of its asymmetric warfare doctrine.
+
+Date of UN designation: 24.3.2007.
+
+(53) Special Industries Group. Special Industries Group (SIG) is a subordinate of DIO.
+
+Location: Pasdaran Avenue, PO Box 19585/777, Tehran, Iran.
+
+Date of EU designation: 24.7.2007 (UN: 9.6.2010).
+
+(54) TAMAS Company. Other information: (a) involved in enrichment-related activities, (b) TAMAS is an overarching body, under which four subsidiaries have been established, including one for uranium extraction to concentration and another in charge of uranium processing, enrichment and waste.
+
+Date of EU designation: 24.4.2007 (UN: 3.3.2008).
+
+(55) Tiz Pars. Tiz Pars is a cover name for SHIG. Between April and July 2007, Tiz Pars attempted to procure a five axis laser welding and cutting machine, which could make a material contribution to Iran’s missile program, on behalf of SHIG.
+
+Location: Damavand Tehran Highway, Tehran, Iran.
+
+Date of UN designation: 9.6.2010.
+
+(56) Ya Mahdi Industries Group. Other information: subordinate to AIO, which is involved in international purchase of missile equipment.
+
+Date of UN designation: 24.3.2007.
+
+(57) Yazd Metallurgy Industries. Yazd Metallurgy Industries (YMI) is a subordinate of DIO.
+
+Location: Pasdaran Avenue, Next To Telecommunication Industry, Tehran 16588, Iran; Postal Box 89195/878, Yazd, Iran; P.O. Box 89195-678, Yazd, Iran; Km 5 of Taft Road, Yazd, Iran.
+
+A.K.A.: Yazd Ammunition Manufacturing and Metallurgy Industries, Directorate of Yazd Ammunition and Metallurgy Industries
+
+Date of UN designation: 9.6.2010.
+
+(58) Behineh Trading Co.
+
+Other information: An Iranian company that played a key role in Iran’s illicit transfer of arms to West Africa and acted on behalf of the IRGC Qods Force, commanded by Major General Qasem Soleimani, designated by the UN Security Council in Resolution 1747 (2007), as the shipper of the weapons consignment.
+
+Additional information: Location: Tavakoli Building, Opposite of 15th Alley, Emam-Jomeh Street, Tehran, Iran. Telephone: +98 919 538 2305. Website: http://www.behinehco.ir
+
+Date of UN designation: 18 April 2012
+
+(59) Yas Air. Yas Air is the new name for Pars Air, a company that was owned by Pars Aviation Services Company, which in turn was designated by the United Nations Security Council in Resolution 1747 (2007). Yas Air has assisted Pars Aviation Services Company, a United Nations-designated entity, in violating paragraph 5 of Resolution 1747 (2007).
+
+Location: Mehrabad International Airport, Next to Terminal No. 6, Tehran, Iran.
+
+Date of UN designation: 10.12.2012.
+
+(60) SAD Import Export Company. SAD Import Export Company has assisted Parchin Chemical Industries and 7th of Tir Industries, a United Nations-designated entity, in violating paragraph 5 of Resolution 1747 (2007).
+
+Location: Haftom Tir Square, South Mofte Avenue, Tour Line No 3/1, Tehran, Iran. (2) P.O. Box 1584864813.
+
+Date of UN designation: 10.12.2012.’;
+
+(3) under the heading ‘B. Entities owned, controlled, or acting on behalf of the Islamic Revolutionary Guard Corps’, the following table and entries are added:
+
+‘(1) Fater (or Faater) Institute: Khatam al-Anbiya (KAA) subsidiary. Fater has worked with foreign suppliers, likely on behalf of other KAA companies on IRGC projects in Iran.
+
+Date of UN designation: 9.6.2010.
+
+(2) Gharagahe Sazandegi Ghaem: Gharagahe Sazandegi Ghaem is owned or controlled by KAA.
+
+Date of UN designation: 9.6.2010.
+
+(3) Ghorb Karbala: Ghorb Karbala is owned or controlled by KAA.
+
+Date of UN designation: 9.6.2010.
+
+(4) Ghorb Nooh: Ghorb Nooh is owned or controlled by KAA.
+
+Date of UN designation: 9.6.2010.
+
+(5) Hara Company: Hara Company is owned or controlled by Ghorb Nooh.
+
+Date of UN designation: 9.6.2010.
+
+(6) Imensazan Consultant Engineers Institute: Imensazan Consultant Engineers Institute is owned or controlled by, or acts on behalf of, KAA.
+
+Date of UN designation: 9.6.2010.
+
+(7) Khatam al-Anbiya Construction Headquarters: Khatam al-Anbiya Construction Headquarters (KAA) is an IRGC-owned company involved in large scale civil and military construction projects and other engineering activities. It undertakes a significant amount of work on Passive Defense Organization projects. In particular, KAA subsidiaries were heavily involved in the construction of the uranium enrichment site at Qom/Fordow.
+
+Date of UN designation: 9.6.2010.
+
+(8) Makin: Makin is owned or controlled by or acting on behalf of KAA, and is a subsidiary of KAA.
+
+Date of UN designation: 9.6.2010.
+
+(9) Omran Sahel: Omran Sahel is owned or controlled by Ghorb Nooh.
+
+Date of UN designation: 9.6.2010.
+
+(10) Oriental Oil Kish: Oriental Oil Kish is owned or controlled by or acting on behalf of KAA.
+
+Date of UN designation: 9.6.2010.
+
+(11) Rah Sahel: Rah Sahel is owned or controlled by or acting on behalf of KAA.
+
+Date of UN designation: 9.6.2010.
+
+(12) Rahab Engineering Institute: Rahab is owned or controlled by or acting on behalf of KAA, and is a subsidiary of KAA.
+
+Date of UN designation: 9.6.2010.
+
+(13) Sahel Consultant Engineers: Sahel Consultant Engineers is owned or controlled by Ghorb Nooh.
+
+Date of UN designation: 9.6.2010.
+
+(14) Sepanir: Sepanir is owned or controlled by or acting on behalf of KAA.
+
+Date of UN designation: 9.6.2010.
+
+(15) Sepasad Engineering Company: Sepasad Engineering Company is owned or controlled by or acting on behalf of KAA.
+
+Date of UN designation: 9.6.2010.’;
+
+(4) under the heading ‘C. Entities owned, controlled, or acting on behalf of the Islamic Republic of Iran Shipping Lines (IRISL)’, the following table and entries are added:
+
+‘(1) Irano Hind Shipping Company: Location: 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat, Vali-e-Asr Ave., Tehran, Iran; 265, Next to Mehrshad, Sedaghat St., Opposite of Mellat Park, Vali Asr Ave., Tehran 1A001, Iran
+
+Date of UN designation: 9.6.2010.
+
+(2) IRISL Benelux NV: Location: Noorderlaan 139, B-2030, Antwerp, Belgium; V.A.T. Number BE480224531 (Belgium)
+
+Date of UN designation: 9.6.2010.
+
+(3) South Shipping Line Iran (SSL): Location: Apt. No. 7, 3rd Floor, No. 2, 4th Alley, Gandi Ave., Tehran, Iran; Qaem Magham Farahani St., Tehran, Iran
+
+Date of UN designation: 9.6.2010.’.
+
+II. Annex II to Decision 2010/413/CFSP is amended as follows:
+
+(1) under the heading ‘I. Persons and entities involved in nuclear or ballistic missile activities and persons and entities providing support to the Government of Iran.’, subheading ‘A. Persons’, the following entries are deleted:
+
+‘46. Mohammad ESLAMI
+
+47\. Reza-Gholi ESMAELI
+
+48\. Mohsen HOJATI
+
+49\. Naser MALEKI
+
+50\. Mohammad Baqer ZOLQADR
+
+51\. Ali Akbar AHMADIAN
+
+52\. Mehrdad AKHLAGHI-KETABACHI
+
+53\. Fereidoun ABASSI-DAVANI
+
+54\. Ahmad DERAKHSHANDEH
+
+55\. Morteza REZAIE
+
+56\. Ahmad Vahid DASTJERDI’;
+
+(2) under the heading ‘I. Persons and entities involved in nuclear or ballistic missile activities and persons and entities providing support to the Government of Iran.’, subheading ‘B. Entities’, the following entries are deleted:
+
+‘174. Naval Defense Missile Industry Group
+
+175\. Defense Technology and Science Research Centre
+
+176\. Electro Sanam Company
+
+177\. Ettehad Technical Group
+
+178\. Fajr Industrial Group
+
+180\. 7th of Tir
+
+181\. Amin Industrial Complex
+
+182\. Ammunition and Metallurgy Industries Group (AMIG)
+
+183\. Armament Industries Group (AIG)
+
+184\. Defense Industries Organization (DIO)
+
+185\. Kaveh Cutting Tools Company
+
+186\. Khorasan Metallurgy Industries
+
+187\. Shahid Sayyade Shirazi Industries
+
+188\. Joza Industrial Co.
+
+189\. Kalaye Electric Company (KEC)
+
+190\. M Babaie Industries
+
+191\. Malek Ashtar University
+
+192\. Mizan Machinery Manufacturing
+
+193\. Niru Battery Manufacturing Company
+
+194\. Safety Equipment Procurement Company
+
+195\. Sanam Industrial Group
+
+196\. Special Industries Group (SIG)
+
+197\. Yazd Metallurgy Industries (YMI)
+
+198\. Qods Aeronautics Industries
+
+199\. Shahid Baheri Industrial Group (SBIG)
+
+200\. Shahid Hemmat Industries Group (SHIG)
+
+201\. Shahid Kharrazi Industries
+
+202\. Shahid Sattari Industries Group (SSIG)
+
+203\. Ya Mahdi Industries Group’;
+
+(3) under the heading ‘II. Islamic Revolutionary Guard Corps (IRGC)’, subheading ‘A. Persons’, the following entries are deleted:
+
+‘20. Ali Akbar TABATABAEI
+
+21\. Azim AGHAJANI
+
+22\. Morteza BAHMANYAR
+
+23\. Mohammad Mehdi Nejad NOURI
+
+24\. Yahya Rahim SAFAVI
+
+25\. Mohammad Reza ZAHEDI’;
+
+(4) under the heading ‘II. Islamic Revolutionary Guard Corps (IRGC)’, subheading ‘B. Entities’, the following entries are deleted:
+
+‘13. Fater Institute
+
+14\. Gharagahe Sazandegi Ghaem
+
+15\. Ghorb Karbala
+
+16\. Khatam al-Anbiya Construction Headquarters
+
+17\. Makin Institute
+
+18\. Rah Sahel
+
+19\. Rahab Engineering Institute
+
+20\. Sepasad Engineering Company
+
+21\. Sho’a’ Aviation
+
+22\. Behineh Trading Co.
+
+23\. Ghorb Nooh
+
+24\. Hara Company
+
+25\. Omran Sahel
+
+26\. Oriental Oil Kish
+
+27\. Pars Aviation Services Company
+
+28\. Sahel Consultant Engineers
+
+29\. Imensazan Consultant Engineers Institute
+
+30\. Yas Air’.
+
+ELI: http://data.europa.eu/eli/dec_impl/2025/1971/oj
+
+ISSN 1977-0677 (electronic edition)

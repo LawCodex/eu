@@ -1,0 +1,183 @@
+---
+title: "Decision (EU) 2023/1681 of the European Central Bank of 17 August 2023 on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities (ECB/2023/18) (recast)"
+identifier: "32023D1681"
+eli: "http://data.europa.eu/eli/dec/2023/1681/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2023-08-17
+entry_into_force: 2023-09-30
+last_amended: 2025-04-04
+consolidated_version: "02023D1681-20250404"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023D1681-20250404"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2023/1681 of the European Central Bank of 17 August 2023 on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities (ECB/2023/18) (recast)
+
+**DECISION (EU) 2023/1681 OF THE EUROPEAN CENTRAL BANK**
+
+**of 17 August 2023**
+
+**on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities (ECB/2023/18)**
+
+**(recast)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2025/673 OF THE EUROPEAN CENTRAL BANK of 24 March 2025 </td><td> L 673</td><td>1</td><td>4.4.2025</td></tr>
+</table>
+
+**DECISION (EU) 2023/1681 OF THE EUROPEAN CENTRAL BANK**
+
+**of 17 August 2023**
+
+**on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities (ECB/2023/18)**
+
+**(recast)**
+
+## Article 1 — Subject matter and scope
+
+Pursuant to Article 21 of Regulation (EU) No 468/2014 (ECB/2014/17), this Decision lays down procedures concerning the submission to the European Central Bank (ECB) of information reported to the national competent authorities (NCAs) by supervised entities, in accordance with Commission Implementing Regulation (EU) 2016/2070 ( 1 ), Commission Implementing Regulation (EU) 2021/451 ( 2 ), Commission Implementing Regulation (EU) 2021/453 ( 3 ) and Commission Implementing Regulation (EU) 2022/2454 ( 4 ).
+
+## Article 2 — Definitions
+
+For the purpose of this Decision, the definitions in Regulation (EU) No 468/2014 (ECB/2014/17) apply.
+
+## Article 3 — Remittance dates
+
+1\. NCAs shall submit to the ECB the information referred to in Implementing Regulation (EU) 2021/451 and Implementing Regulation (EU) 2021/453 and reported to them by the supervised entities in accordance with the following:
+
+(a) for significant supervised entities, upon receipt of data submissions, and after performing the initial data checks specified in Article 6, NCAs shall submit all information to the ECB without undue delay;
+
+(b) for less significant supervised entities reporting on a consolidated basis or on an individual basis, if they are not required to report on a consolidated basis and that are included in the list of the Largest Institutions in the Member State as published by the European Banking Authority (EBA) pursuant to Article 2(6) of EBA Decision of 27 July 2021 concerning supervisory reporting by competent authorities to the EBA (EBA/DC/404) ( 5 ), NCAs shall submit to the ECB that information at the latest by 12:00 Central European Time (CET) on the 10th working day following the relevant remittance dates referred to in Implementing Regulation (EU) 2021/451 and Implementing Regulation (EU) 2021/453;
+
+(c) for less significant supervised entities that are not covered by point (b), NCAs shall submit all information to the ECB at the latest by 12:00 CET on the 25th working day following the relevant remittance dates referred to in Implementing Regulation (EU) 2021/451 and Implementing Regulation (EU) 2021/453.
+
+2\. NCAs shall submit to the ECB the information referred to in Implementing Regulation (EU) 2016/2070 in accordance with the following:
+
+(a) for significant supervised entities, upon receipt of the data submissions, and after performing the initial data checks specified in Article 6, NCAs shall submit all information to the ECB without undue delay;
+
+(b) for less significant supervised entities reporting at the highest level of consolidation within the participating Member States, insofar as they represent the highest level of consolidation in the Union, and for less significant supervised entities reporting on an individual basis if they are not part of a supervised group, in accordance with Article 1(2) of EBA Decision of 5 June 2020 concerning data for supervisory benchmarking (EBA/DC/2020/337) ( 6 ), NCAs shall submit to the ECB all data at the latest by 12:00 CET on the 10th working day following the relevant remittance date for each data item referred to in Implementing Regulation (EU) 2016/2070;
+
+(c) for less significant supervised entities that are not covered by point (b), NCAs shall report all information to the ECB at the latest by close of business on the 25th working day following the relevant remittance date for each data item referred to in Implementing Regulation (EU) 2016/2070.
+
+3\. NCAs shall submit to the ECB the information reported to them by significant supervised entities pursuant to Implementing Regulation (EU) 2022/2454. NCAs shall submit that information upon receipt of the data submissions, and after performing the initial data checks specified in Article 6, without undue delay.
+
+## Article 4 — Data quality
+
+1\. NCAs shall:
+
+(a) monitor and assess the quality and reliability of the information made available to the ECB pursuant to this Decision;
+
+(b) apply the relevant validation rules developed, maintained and published by the EBA;
+
+(c) apply the additional data quality checks defined by the ECB in cooperation with the NCAs.
+
+2\. NCAs shall perform their quality assessment of data submitted to them in accordance with the following:
+
+(a) for the following supervised entities, by the 10th working day following the relevant remittance dates referred to in Implementing Regulation (EU) 2021/451, Implementing Regulation (EU) 2021/453, and Implementing Regulation (EU) 2016/2070;
+
+(i) significant supervised entities reporting at the highest level of consolidation within the participating Member States;
+
+(ii) significant supervised entities that are not part of a supervised group;
+
+(iii) supervised entities that are classified as significant in accordance with the three most significant credit institutions criterion in their Member State and which report on a consolidated basis or on an individual basis, if they are not required to report on a consolidated basis;
+
+(iv) other supervised entities reporting on a consolidated basis or on an individual basis, if they are not required to report on a consolidated basis and that are included in the list of the Largest Institutions in the Member State as published by the EBA pursuant to Article 2(6) of EBA Decision EBA/DC/404;
+
+(b) for the significant supervised entities that are not covered by point (a), by the 25th working day following the relevant remittance dates referred to in Implementing Regulation (EU) 2021/451, Implementing Regulation (EU) 2021/453 and Implementing Regulation (EU) 2016/2070;
+
+(c) for the significant supervised entities at the head of the financial conglomerates where the ECB is coordinator, by the 25th working day following the relevant remittance dates as agreed by the ECB and the relevant competent authorities in accordance with Article 2(3) and 3(4) of Commission Delegated Regulation (EU) 2015/2303 ( 7 ).
+
+3\. Further to the compliance with the validation rules and data quality checks referred to in paragraph 1, the information shall be submitted in accordance with the following additional minimum standards for accuracy:
+
+(a) NCAs shall provide information, if applicable, on the developments implied by the information submitted; and
+
+(b) the information shall be complete, existing gaps shall be acknowledged and explained to the ECB and, if applicable, those gaps shall be filled without undue delay.
+
+## Article 5 — Qualitative information
+
+1\. NCAs shall submit to the ECB without undue delay the corresponding explanations where the data quality for a given table in the taxonomy cannot be warranted.
+
+2\. NCAs shall communicate the following to the ECB:
+
+(a) reasons for any resubmissions by significant supervised entities;
+
+(b) reasons for any significant revisions submitted by significant supervised entities.
+
+For the purposes of point (b), ‘significant revision’ means any revision of one or more data points, both in terms of absolute figures reported and percentage of variations, which significantly impacts the prudential or financial analysis made using these data points at entity level.
+
+## Article 6 — Transmission format
+
+1\. NCAs shall submit the information specified in this Decision in accordance with the relevant Data Point Model and applicable eXtensible Business Reporting Language (XBRL) taxonomy, developed, maintained and published by the EBA.
+
+2\. In accordance with Article 140(3) of Regulation (EU) No 468/2014 (ECB/2014/17), upon receipt of the information specified in this Decision, NCAs shall perform initial data checks to ensure that the submissions constitute a valid XBRL report in accordance with paragraph 1.
+
+3\. The supervised entities shall be identified in the corresponding transmission by the use of the Legal Entity Identifier.
+
+## Article 7 — Repeal
+
+1\. Decision ECB/2014/29 is repealed.
+
+2\. References to the repealed Decision shall be construed as references to this Decision and read in accordance with the correlation table in Annex II.
+
+## Article 8 — Taking effect
+
+This Decision shall take effect on the day of its notification to the addressees.
+
+## Article 9 — Addressees
+
+This Decision is addressed to the national competent authorities of the participating Member States.
+
+## ANNEX I
+
+**Repealed Decision with list of the successive amendments thereto**
+
+Decision ECB/2014/29 of the European Central Bank of 2 July 2014 on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities pursuant to Commission Implementing Regulation (EU) No 680/2014 (OJ L 214, 19.7.2014, p. 34).
+
+Decision (EU) 2017/1493 of the European Central Bank of 3 August 2017 amending Decision ECB/2014/29 on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities pursuant to Commission Implementing Regulation (EU) No 680/2014 (ECB/2017/23) (OJ L 216, 22.8.2017, p. 23).
+
+Decision (EU) 2021/1396 of the European Central Bank of 13 August 2021 amending Decision ECB/2014/29 on the provision to the European Central Bank of supervisory data reported to the national competent authorities by the supervised entities pursuant to Commission Implementing Regulations (EU) No 680/2014 and (EU) 2016/2070 (ECB/2021/39) (OJ L 300, 24.8.2021, p. 74).
+
+## ANNEX II
+
+**Correlation table**
+
+| Decision ECB/2014/29 | This Decision |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | Article 2 |
+| Article 3 | Article 3 |
+| Article 4(1) | Article 4(1) |
+| — | Article 4(2) |
+| Article 4(2) | Article 4(3) |
+| Article 5(1) | Article 5(1) |
+| Article 5(2) | Article 5(2), first subparagraph, point (b) |
+| — | Article 5(2), first subparagraph, point (a), and 5(2), second subparagraph |
+| Article 6(1) | Article 6(1) |
+| — | Article 6(2) |
+| Article 6(2) | Article 6(3) |
+| Article 7 | — |
+| — | Article 7 |
+| Article 7a | — |
+| Article 7b | — |
+| — | Article 8 |
+| Article 8 | — |
+| Article 9 | Article 9 |
+
+( 1 ) Commission Implementing Regulation (EU) 2016/2070 of 14 September 2016 laying down implementing technical standards for templates, definitions and IT-solutions to be used by institutions when reporting to the European Banking Authority and to competent authorities in accordance with Article 78(2) of Directive 2013/36/EU of the European Parliament and of the Council (OJ L 328, 2.12.2016, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2016/2070/oj).
+
+( 2 ) Commission Implementing Regulation (EU) 2021/451 of 17 December 2020 laying down implementing technical standards for the application of Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to supervisory reporting of institutions and repealing Implementing Regulation (EU) No 680/2014 (OJ L 97, 19.3.2021, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2021/451/oj).
+
+( 3 ) Commission Implementing Regulation (EU) 2021/453 of 15 March 2021 laying down implementing technical standards for the application of Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to the specific reporting requirements for market risk (OJ L 89, 16.3.2021, p. 3, ELI: http://data.europa.eu/eli/reg_impl/2021/453/oj).
+
+( 4 ) Commission Implementing Regulation (EU) 2022/2454 of 14 December 2022 laying down implementing technical standards for the application of Directive 2002/87/EC of the European Parliament and of the Council with regard to supervisory reporting of risk concentrations and intra-group transactions (OJ L 324, 19.12.2022, p. 55, ELI: http://data.europa.eu/eli/reg_impl/2022/2454/oj).
+
+( 5 ) Available on the EBA website at www.eba.europa.eu
+
+( 6 ) Available on the EBA website.
+
+( 7 ) Commission Delegated Regulation (EU) 2015/2303 of 28 July 2015 supplementing Directive 2002/87/EC of the European Parliament and of the Council with regard to regulatory technical standards specifying the definitions and coordinating the supplementary supervision of risk concentration and intra-group transactions (OJ L 326, 11.12.2015, p. 34, ELI: http://data.europa.eu/eli/reg_del/2015/2303/oj).

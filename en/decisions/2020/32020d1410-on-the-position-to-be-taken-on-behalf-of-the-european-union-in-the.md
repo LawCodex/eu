@@ -1,0 +1,281 @@
+---
+title: "Council Decision (EU) 2020/1410 of 25 September 2020 on the position to be taken, on behalf of the European Union, in the 66th session of the Harmonized System Committee of the World Customs Organization in relation to the envisaged adoption of Classification opinions, classification decisions, amendments to the Harmonized System Explanatory Notes or other advice on the interpretation of the Harmonized System, and of recommendations to secure uniformity in the interpretation of the Harmonized System under the Harmonized System Convention"
+identifier: "32020D1410"
+eli: "http://data.europa.eu/eli/dec/2020/1410/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2020-09-25
+entry_into_force: 2020-10-23
+last_amended: 2020-10-08
+consolidated_version: "02020D1410-20201008"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020D1410-20201008"
+retrieved: 2026-10-11
+---
+
+# Council Decision (EU) 2020/1410 of 25 September 2020 on the position to be taken, on behalf of the European Union, in the 66th session of the Harmonized System Committee of the World Customs Organization in relation to the envisaged adoption of Classification opinions, classification decisions, amendments to the Harmonized System Explanatory Notes or other advice on the interpretation of the Harmonized System, and of recommendations to secure uniformity in the interpretation of the Harmonized System under the Harmonized System Convention
+
+**COUNCIL DECISION (EU) 2020/1410**
+
+**of 25 September 2020**
+
+**on the position to be taken, on behalf of the European Union, in the 66th session of the Harmonized System Committee of the World Customs Organization in relation to the envisaged adoption of Classification opinions, classification decisions, amendments to the Harmonized System Explanatory Notes or other advice on the interpretation of the Harmonized System, and of recommendations to secure uniformity in the interpretation of the Harmonized System under the Harmonized System Convention**
+
+C1
+
+C2
+
+**COUNCIL DECISION (EU) 2020/1410**
+
+**of 25 September 2020**
+
+**on the position to be taken, on behalf of the European Union, in the 66th session of the Harmonized System Committee of the World Customs Organization in relation to the envisaged adoption of Classification opinions, classification decisions, amendments to the Harmonized System Explanatory Notes or other advice on the interpretation of the Harmonized System, and of recommendations to secure uniformity in the interpretation of the Harmonized System under the Harmonized System Convention**
+
+## Article 1
+
+The position to be taken, on behalf of the Union, in the 66th session of the Harmonized System Committee of the World Customs Organization on the approval of Explanatory Notes, Classification Opinions or other advice on the interpretation of the Harmonized System and of recommendations to secure uniformity in the interpretation of the Harmonized System under the HS Convention, is set out in the Annex.
+
+## Article 2
+
+Minor technical changes to the position referred to in Article 1 may be agreed upon by the representatives of the Union without further decision of the Council.
+
+## Article 3
+
+This Decision shall enter into force on the date of its adoption.
+
+## ANNEX
+
+**IV. REPORT OF THE SCIENTIFIC SUB-COMMITTEE: Doc. NS0456Eb (SSC/35 - report)**
+
+(1) Matters for decision (doc. NC2708Ea)
+
+(a) Annexes A/1 and C/1 – Classification of new INN products (List 120). The Union shall approve the 125 classifications (HS 2017 Edition) and the three consequential reclassifications (HS 2022 Edition) recommended by the Scientific Sub-Committee.
+
+(b) Annexes A/2 and C/2 – Classification of new INN products (List 121). The Union shall approve the 143 classifications (HS 2017 Edition) and the 15 consequential reclassifications (HS 2022 Edition) recommended by the Scientific Sub-Committee.
+
+(c) Annexes A/3 and C/3 – Possible reclassification of certain INN products consequential upon the Article 16 Recommendation of 23 June 2019. The Union shall approve the consequential (HS 2022 Edition) reclassifications of the 143 INN products agreed to by the Scientific Sub-Committee.
+
+(d) Annexes B/1 and C/6 – Decisions taken by the HS Committee at its 63rd and 64th Sessions and the WCO Council at its 133rd/134th Sessions, affecting the work of the Scientific Sub-Committee. The Union shall approve the reclassifications of ‘zilucoplan’ and ‘etryptamine’ agreed by the Scientific Sub-Committee, in subheadings 2933.79 and 2939.80, respectively.
+
+The Union shall agree to all proposed classifications as they are in line with the current classification policy in the Union.
+
+(2) Possible amendment of the Explanatory Notes to Chapter 29 in respect to the list of narcotic drugs, psychotropic substances and precursors Doc. NC2738Ea
+
+The Union shall agree to the proposal to amend the HSEN to Chapter 29, in line with the advice of the Scientific Sub-Committee.
+
+**V. REPORT OF THE HS REVIEW SUB-COMMITTEE (Doc. NR1403E)**
+
+(1) Matters for decision (Doc. NC2709Ea)
+
+(a) Annexes D/6 and G/11 – Possible amendment to the Explanatory Note to heading 85.24 (HS 2022)
+
+(b) Annexes D/7 and G/12 – Possible amendments to the HS 2022 Explanatory Notes in respect of 3D printers
+
+(c) Annexes E/14 and G/19 – Amendment to the Explanatory Notes to heading 70.19 in respect of glass fibres (HS 2022)
+
+(d) Annexes E/1 to E/6, E/8 to E/13, E/15 to E/18, E/20, E/23 and G/1 to G/6, G/8, G/13 to G/18, G/21, G/22, G/24, G/27 – Possible amendment to the Explanatory Note to Sections I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XX and XXI.
+
+(e) Annexes E/23 and G/27 – Amendments to the Explanatory Notes to Chapter 97 in respect of certain cultural articles (HS 2022)
+
+(f) Annexes E/24 and G/28 – Amendments to the Explanatory Notes (GIRs)
+
+The Union shall agree to all proposed amendments in the documents as they reflect the current classification policy in the Union.
+
+(2) Classification in HS 2022 of certain disposable or rechargeable personal electric vaporisers (Request by the Secretariat) Doc. NC2710Eb
+
+The Union would classify product 1 in subheading 8543.70 in the HS2017 and in subheading 8543.40 in the HS2022. Product 2 shall be classified in heading 24.04 in the HS2022 using GIR 3(b), based on the essential character conferred by the e-liquid.
+
+(3) Classification in HS 2022 of certain collections and collectors’ pieces of numismatic interest (Request by the Secretariat) Doc. NC2711Ea
+
+The Union shall express the need for additional information on the products to determine classification.
+
+The Union shall not agree with the proposal for amending the HSEN, pending clarification and guidance on how to differentiate between the new subheadings under heading 97.05.
+
+(4) Classification in HS 2022 of cartridges for 3D printers (Request by the Secretariat) Doc. NC2712Ea
+
+The Union would classify the products in Chapter 39 according to the constituent material, in line with the ruling of the Court of Justice of the European Union in Case C-276/00. Additional information is needed to classify the products at subheading level. The proposed amendment to the HSEN shall not be supported, as the current practice in the Union is not to classify printer cartridges as parts of printers.
+
+(5) Classification in HS 2022 of a sheet lamination machine for additive manufacturing doc. NC2744Ea
+
+The Union would classify the product in heading 84.85 (option II).
+
+**VI. REPORT OF THE PRESESSIONAL WORKING PARTY Doc. NC2714Ea and Annexes A to T**
+
+Subject to some editorial suggestions, the Union shall adopt the text presented in Annexes A to T with the following remarks:
+
+(1) Amendment to the Compendium of Classification Opinions to reflect the decision to classify a product in heading 18.06 (subheading 1806.32)
+
+The Union shall suggest to delete the list of ingredients, not necessary for classification purposes.
+
+(2) Amendment to the Compendium of Classification Opinions to reflect the decision to classify two kinds of tobacco stems (‘Cut rolled expanded stem tobacco (CRES)’ and ‘Expanded tobacco stems (ETS)’) in heading 24.03 (subheading 2403.99)
+
+The Union shall insist to keep the text ‘cannot be smoked directly’ as it was the decisive criterion for classification.
+
+(3) Amendment to the Compendium of Classification Opinions to reflect the decision to classify Solid Oxide Fuel Cells (SOFC) in heading 85.01 (subheading 8501.62)
+
+The Union shall suggest using the product description from the boxed text of the initial working document (doc. NC2655E1b).
+
+**VII. REQUESTS FOR RE-EXAMINATION (RESERVATIONS)**
+
+(1) Re-examination of the classification of certain dietary sip feeds (Products 1 to 5) (Request by the United States) Doc. NC2715Ea
+
+The Union would classify the products as beverages in heading 22.02, in line with the ruling of the Court of Justice of the European Union in Case C-114/80 and Classification Opinions 2202.99/2-4.
+
+(2) Re-examination of the classification of a GPS running watch with wrist-based heart rate monitor (Requests by the United States and Japan) Doc. NC2716Ea
+
+The Union would classify the product in subheading 9102.12 as a wrist-watch, in line with the CNEN for heading 91.02.
+
+(3) Re-examination of the classification of Sterilizer (Request by Ukraine) Doc. NC2717Ea
+
+The Union would classify the product in heading 84.19, as it is a specific heading for sterilisers. The change in temperature takes place and has an important effect on the sterilising process. The apparatus does not fulfil any mechanical functions.
+
+(4) Re-examination of the classification of two products called ‘RF Generators and RF Matching Networks’ (Request by South Korea) Doc. NC2718Ea, NC2745Eb, NC2747Ea
+
+The Union would classify the products in heading 84.86 because they are identifiable machines used solely or principally for the manufacture of semiconductor devices.
+
+**VIII. FURTHER STUDIES**
+
+(1) Classification of edible insects (Proposal by the Secretariat) Doc. NC2719Ea
+
+The Union shall support possible transfers from both headings 02.10 and 04.10 for product 1. Product 2 could be transferred either from heading 04.10 or Chapter 16. Product 3 could be transferred from Chapter 16. Product 4 could be transferred either from Chapter 16 or 21.
+
+(2) Possible amendment of the Explanatory Note to heading 27.11 to clarify the classification of liquefied petroleum gas (LPG) (Proposal by the Secretariat) Doc. NC2720Ea
+
+The Union shall support the creation of a subheading Explanatory Note to subheading 2711.19.
+
+(3) Amendment of the Explanatory Notes to Rule 3 (b) to clarify the classification of sets Doc. NC2721Ea
+
+The Union shall support keeping the status quo and current classification practices.
+
+(4) Possible amendment of the Explanatory Note to heading 91.02 Doc. NC2722Ea
+
+The Union would prefer to wait for a definitive decision on the classification in point VII.2 before advancing with amending the HSEN.
+
+(5) Possible amendment of the Explanatory Note to heading 87.03 in relation to micro hybrid vehicles Doc. NC2723Ea
+
+The Union shall support the amendment of the HSEN as it clarifies the classification of the new type of vehicles.
+
+(6) Classification of mild hybrid vehicles Doc. NC2724Ea
+
+The Union would classify the product in subheading 8703.40, as the electric motor is designed to give the vehicle a boost by supporting the engine operation.
+
+(7) Classification of a waxy product (Request by Ecuador) Doc. NC2725Ea
+
+The Union would classify the product in heading 34.04, as the laboratory analysis confirmed that the product had a waxy character.
+
+(8) Possible amendment of the Explanatory Note to heading 95.03 (Proposal by the Union) Doc. NC2667Ea
+
+The Union shall remain flexible to any additional editorial comments on the original EU proposal.
+
+(9) Possible amendment of the Explanatory Note to heading 95.05 (Proposal by the Union) Doc. NC2668Ea
+
+The Union shall remain flexible to any additional editorial comments on the original EU proposal.
+
+(10) Classification of certain essential oils put up for retail sale (Request by Costa Rica) Doc. NC2672Ea
+
+The Union would classify the product in heading 33.01. This product is a lavender essential oil containing monoterpene alcohols, thus it is not deterpenated and it is covered by heading 33.01. It is obtained by steam distillation process thus compliant with the HSEN to heading 33.01.
+
+(11) Classification of two floor polishers (Request by Costa Rica) Doc. NC2673Ea
+
+The Union would classify the products in heading 84.79. Due to their technical characteristics, they are not of the kind commonly used for domestic purposes and considering Note 4 (a) to Chapter 85 they should be classified in heading 84.79.
+
+(12) Classification of a ‘Self-Propelled Articulated Boom Lift’ (Request by South Korea) Doc. NC2674Ea
+
+The Union would classify the product in heading 84.28 based on Regulation (EC) No 738/2000 for a similar product.
+
+(13) Classification of certain food preparations (Request by the United States) Doc. NC2676Ea, NC2742Ea
+
+The Union shall request additional information on all four products concerned to determine classification.
+
+Product 1: protein contents. If very high (over 85 %), heading 35.04 could be considered. Based on current information, the product could be classified in subheading 2106.10 in line with Classification opinion 2106.90/5.
+
+Product 2: the Union would classify it in heading 22.02 if directly drinkable, or heading 21.06 if to be diluted before drinking.
+
+Product 3: the Union would classify it in subheading 2101.20, however, additional information about the caffeine content would be helpful.
+
+Product 4: the product description is confusing, as it is not clear what the main ingredient is. If containing cocoa, it could be classified in heading 18.06, if not 19.05.
+
+(14) Classification of a ‘cutter/ripper’ (Request by the Russian Federation) Doc. NC2677Ea
+
+The Union shall note that the machine having many functions makes classification difficult to determine, and that it could be classified both in headings 84.30 and 84.32, thus in heading 84.32, using GIR 3(c).
+
+(15) Classification of certain new pneumatic tyres, of rubber, intended for vehicles used for the transportation of goods in construction, mining or industry (Request by the Russian Federation) Doc. NC2678Ea, NC2748Ea
+
+The Union shall share the WCO Secretariat’s advice, and classify both products in subheading 4011.20.
+
+(16) Classification of certain preparations of a kind used in animal feeding (Request by Canada) Doc. NC2679Ea, NC2743Ea
+
+Based on the ruling of the Court of Justice of the European Union in Case C-144/15, the Union would classify the product in heading 23.09.
+
+(17) Classification of a product called ‘Tracing Light Box’ (Request by Japan) Doc. NC2681Ea
+
+The Union would classify the product in heading 94.05, as it has a multi-use function and is not equipped with any drawing instruments.
+
+(18) Classification of an electronic speed controller (Request by Tunisia) Doc. NC2682Ea
+
+The Union would classify the product in heading 85.04, as suggested by the WCO Secretariat.
+
+(19) Possible amendment of the Explanatory Note to heading 27.10 (Proposal by Japan) Doc. NC2641Ea, NC2739Ea
+
+The Union shall refrain to participate to discussions as the classification opinion from which this amendment stems cannot be applied in the Union due to the ruling of the Court of Justice of the European Union in Case C-330/13. It would be better to think about amending the HS in the future, and rearranging Note 2 to Chapter 27.
+
+(20) Possible misalignment between the English and French texts in the Explanatory Note to heading 85.01 Doc. NC2688Ea
+
+The Union shall agree to the proposed amendment to use the French-language term ‘onduleur’ as in other parts of the HS Nomenclature.
+
+**IX. NEW QUESTIONS**
+
+(1) Classification of certain on-street garbage containers (Request by Tunisia) Doc. NC2726Ea
+
+The Union would classify the products in heading 39.26 due to the larger size of the containers, not for domestic use. The Union notes that the product description should include the capacity of the containers in litres.
+
+(2) Classification of certain food preparations in liquid form (Request by Tunisia) Doc. NC2727Ea
+
+The Union shall request more information concerning the contents of the products (water or juice, oily substances, other ingredients in addition to vitamins, dosage).
+
+(3) Classification of two products containing cannabidiol (CBD) (Request by the Secretariat) Doc. NC2728Ea
+
+The Union shall propose to send the matter to the Scientific Sub-Committee, requesting information on (i) whether the products have enough active ingredients to give a therapeutic or prophylactic effect; and (ii) the minimum amount of CBD as active ingredient in any product to have a therapeutic or prophylactic effect.
+
+(4) Classification of dried fish subsequently treated with water (rehydrated dried fish) (Request by Norway) Doc. NC2729Ea
+
+The Union could classify the product in Chapter 3, but more information is needed concerning if the flavour, texture of product were those of dried or fresh fish.
+
+(5) Classification of certain steam boiling generators for steam rooms (Request by Egypt) Doc. NC2730Ea
+
+The Union would classify the products in heading 84.02 as proposed by the WCO Secretariat, in line with the heading text and HSEN to heading 84.02.
+
+(6) Classification of a product called ‘Soy bean flakes’ (Request by Madagascar) Doc. NC2731Ea
+
+The Union would classify the product in heading 23.04, similar to the product of Classification Opinion 2304.00/1.
+
+(7) Classification of a 2-burner ethanol stove (Request by Kenya) Doc. NC2732Ea
+
+The Union would classify the product in subheading 7321.12, as ethanol fuel is in liquid form at room temperature and fits therefore with the subheading text.
+
+(8) Classification of an interactive kiosk for receiving complaints (Request by Egypt) Doc. NC2733Ea
+
+The Union shall request additional information: whether the product could function and how with an USB device, or whether it can be used only via touch screen.
+
+**XI. ADDITIONAL LIST**
+
+(1) Classification of a product called ‘baby corn cobs’ (Request by the EU) Doc. NC2736Ea
+
+The Union has requested a Classification Opinion.
+
+(2) Classification of a diesel power generating set with dual power rating (Request by Ghana) Doc. NC2737Ea
+
+The Union would classify the product in subheading 8502.13.
+
+(3) Classification of a TFT-LCD module (Request by South Korea) Doc. NC2740Ea
+
+In line with Commission Regulation (EC) No 957/2006, Commission Implementing Regulations (EU) No 1201/2011 and No 1202/2011, and considering Note 2 (b) to Section XVI, the Union would classify the product in subheading 8529.90.
+
+(4) Deletion of Classification Opinions 8528.69/1 and 8528.69/2 Doc. NC2741Ea
+
+As the products are not anymore on the market, the Union shall support the deletion of those Classification Opinions.
+
+(5) Classification of a product called ‘partially defatted coconut powder’ (Request from the Union) Doc. NC2746Ea
+
+The Union has requested a Classification Opinion.

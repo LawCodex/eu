@@ -1,0 +1,269 @@
+---
+title: "Council Decision (CFSP) 2022/266 of 23 February 2022 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas"
+identifier: "32022D0266"
+eli: "http://data.europa.eu/eli/dec/2022/266/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2022-02-23
+entry_into_force: 2022-11-16
+last_amended: 2026-02-24
+consolidated_version: "02022D0266-20260224"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022D0266-20260224"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2022/266 of 23 February 2022 concerning restrictive measures in response to the recognition of the non-government controlled areas of the Donetsk and Luhansk oblasts of Ukraine and the ordering of Russian armed forces into those areas
+
+**COUNCIL DECISION (CFSP) 2022/266**
+
+**of 23 February 2022**
+
+**concerning restrictive measures in response to the illegal recognition, occupation or annexation by the Russian Federation of certain non-government controlled areas of Ukraine**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL DECISION (CFSP) 2022/628 of 13 April 2022 </td><td> L 116</td><td>8</td><td>13.4.2022</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2022/1908 of 6 October 2022 </td><td> L 259I</td><td>118</td><td>6.10.2022</td></tr>
+<tr><td> M3</td><td> COUNCIL DECISION (CFSP) 2023/388 of 20 February 2023 </td><td> L 53</td><td>37</td><td>21.2.2023</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2024/633 of 19 February 2024 </td><td> L 633</td><td>1</td><td>20.2.2024</td></tr>
+<tr><td> M5</td><td> COUNCIL DECISION (CFSP) 2025/338 of 18 February 2025 </td><td> L 338</td><td>1</td><td>19.2.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/396 </td><td> L 396</td><td>1</td><td>24.2.2025</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2026/438 of 23 February 2026 </td><td> L 438</td><td>1</td><td>23.2.2026</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2022/266**
+
+**of 23 February 2022**
+
+**concerning restrictive measures in response to the illegal recognition, occupation or annexation by the Russian Federation of certain non-government controlled areas of Ukraine**
+
+## Article 1
+
+1\. The import into the Union of goods originating in the non-government controlled areas of Ukraine in the oblasts of Donetsk, Kherson, Luhansk, and Zaporizhzhia shall be prohibited.
+
+2\. It shall be prohibited to provide, directly or indirectly, financing or financial assistance, as well as insurance and reinsurance, related to the import of goods originating in the non-government controlled areas of Ukraine referred to in paragraph 1.
+
+## Article 2
+
+The prohibitions set out in Article 1 shall not apply to goods originating in the non-government controlled areas referred to in Article 1 which have been made available for examination to, and have been controlled by, the Ukrainian authorities and which have been granted a certificate of origin by the Government of Ukraine.
+
+## Article 5
+
+1\. Any of the following shall be prohibited:
+
+(a) the acquisition of, or the extension of a participation in, real estate in the non-government controlled areas referred to in Article 1;
+
+(b) the acquisition of, or the extension of a participation in, entities in the non-government controlled areas referred to in Article 1, including the acquisition in full of such entities and the acquisition of shares therein, and the acquisition of other securities of a participating nature;
+
+(c) the granting of any financing to entities in the non-government controlled areas referred to in Article 1, or for the documented purpose of financing such entities;
+
+(d) the creation of any joint venture with entities in the non-government controlled areas referred to in Article 1; and,
+
+(e) the provision of investment services directly related to the activities referred to in points (a) to (d) of this paragraph.
+
+2\. The prohibitions in paragraph 1 shall:
+
+(a) be without prejudice to the execution of an obligation from contracts concluded before 23 February 2022; and,
+
+(b) not prevent the extension of a participation, if such extension is an obligation under a contract concluded before 24 February 2022.
+
+4\. The prohibitions and restrictions set out in this Article shall not apply to the conduct of legitimate business with entities outside the non-government controlled areas referred to in Article 1, provided the related investments are not destined to entities in the non-government controlled areas referred to in Article 1.
+
+## Article 6
+
+1\. It shall be prohibited to sell, supply, transfer, or export, directly or indirectly, goods and technology by nationals of Member States, or from the territories of Member States, or using vessels or aircraft under the jurisdiction of Member States, whether or not originating in the Union,
+
+(a) to any natural or legal person, entity or body in the non-government controlled areas referred to in Article 1; or,
+
+(b) for use in the non-government controlled areas referred to in Article 1,
+
+in the following sectors:
+
+(i) transport;
+
+(ii) telecommunications;
+
+(iii) energy; and
+
+(iv) the prospection, exploration and production of oil, gas and mineral resources.
+
+2\. The provision of:
+
+(a) technical assistance or training and other services related to the goods and technology in the sectors referred to in paragraph 1;
+
+(b) financing or financial assistance for any sale, supply, transfer or export of goods or technology in the sectors referred to in paragraph 1, or for the provision of related technical assistance or training,
+
+shall be prohibited.
+
+2a. The prohibitions set out in paragraphs 1 and 2 shall not apply to:
+
+(a) public bodies or legal persons, entities or bodies which receive public funding from the Union or Member States, provided that the goods, technology, services and assistance referred to in paragraphs 1 and 2 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1;
+
+(b) organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that the goods, technology, services and assistance referred to in paragraphs 1 and 2 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1;
+
+(c) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures, provided that the goods, technology, services and assistance referred to in paragraphs 1 and 2 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1; or
+
+(d) Member States’ specialised agencies, provided that the goods, technology, services and assistance referred to in paragraphs 1 and 2 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1.
+
+2b. In cases not covered by paragraph 2a, and by way of derogation from paragraphs 1 and 2, the competent authorities of a Member State may grant general or specific authorisations, under such general and specific terms and conditions as they deem appropriate, for the sale, supply, transfer or export of goods or technology referred to in paragraph 1 and the provision of services and assistance referred to in paragraph 2, after having determined that such goods, technology, services and assistance are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within two weeks of any authorisation granted.
+
+4\. The Union shall take the necessary measures in order to determine the relevant items to be covered by this Article.
+
+## Article 7
+
+1\. It shall be prohibited to provide, directly or indirectly, accounting, auditing, including statutory audit, bookkeeping or tax consulting services, or business and management consulting or public relations services to legal persons, entities or bodies in the non-government controlled areas.
+
+1-a. It shall be prohibited to provide, directly or indirectly, construction, architectural and engineering services, legal advisory services and IT consultancy services to legal persons, entities or bodies in the non-government controlled areas.
+
+1-b. It shall be prohibited to provide, directly or indirectly, market research and public opinion polling services, technical testing and analysis services and advertising services to legal persons, entities or bodies in the non-government controlled areas.
+
+1-c. It shall be prohibited to sell, supply, transfer, export, or provide, directly or indirectly, software for the management of enterprises and software for industrial design and manufacture to legal persons, entities or bodies in the non-government controlled areas.
+
+The Union shall take the necessary measures in order to determine the relevant items to be covered by this paragraph.
+
+1-d. It shall be prohibited to:
+
+(a) provide, directly or indirectly, technical assistance or brokering services directly relating to infrastructure in the non-government controlled areas in the sectors referred to in Article 6(1), independently of the origin of the goods and technology;
+
+(b) provide technical assistance, brokering services or other services related to the goods and services referred to in paragraphs 1, 1-a, 1-b and 1-c for their provision, directly or indirectly, to legal persons, entities or bodies in the non-government controlled areas;
+
+(c) provide financing or financial assistance related to the goods and services referred to in paragraphs 1, 1-a, 1-b and 1-c for their provision, or for the provision of related technical assistance, brokering services or other services, directly or indirectly, to legal persons, entities or bodies in the non-government controlled areas;
+
+(d) sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the software referred to in paragraph 1-c and to the provision, manufacture, maintenance and use of that software, directly or indirectly to any natural or legal person, entity or body in the non-government controlled areas or for use in the non-government controlled areas.
+
+1-e. Paragraphs 1 and 1-a shall not apply to the provision of services that are strictly necessary for the exercise of the right of defence in judicial proceedings and the right to an effective legal remedy.
+
+1-f. Paragraphs 1 and 1-a shall not apply to the provision of services which are strictly necessary to ensure access to judicial, administrative or arbitral proceedings in a Member State, as well as for the recognition or enforcement of a judgment or an arbitration award rendered in a Member State, provided that such provision of services is consistent with the objectives of this Decision and Council Decision 2014/145/CFSP ( 1 ).
+
+1-g. Paragraphs 1-a, 1-b and 1-c shall not apply to the sale, supply, transfer, export, or provision of services necessary for public health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+1-h. By way of derogation from paragraph 1-c, the competent authorities may authorise the provision of services referred to therein, under such conditions as they deem appropriate, after having determined that those services are necessary for the contribution of Ukrainian nationals to international open-source projects.
+
+1-i. By way of derogation from paragraphs 1 to 1-d, the competent authorities may authorise the sale, supply, transfer, export, or provision of the services referred to therein, under such conditions as they deem appropriate, after having determined that this is necessary for:
+
+(a) humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies, food, or the transfer of humanitarian workers and related assistance, or for evacuations;
+
+(b) civil society activities that directly promote democracy, human rights or the rule of law in the non-government controlled areas;
+
+(c) the functioning of international organisations enjoying immunities in accordance with international law located in the non-government controlled areas;
+
+(d) ensuring critical energy supply within the Union, and the purchase, import or transport into the Union of titanium, aluminium, copper, nickel, palladium and iron ore;
+
+(e) ensuring the continuous operation of infrastructures, hardware and software which are critical for human health and safety, or the safety of the environment;
+
+(f) the establishment, operation, maintenance, fuel supply and retreatment and safety of civil nuclear capabilities, and the continuation of design, construction and commissioning required for the completion of civil nuclear facilities, the supply of precursor material for the production of medical radioisotopes and similar medical applications, or critical technology for environmental radiation monitoring, as well as for civil nuclear cooperation, in particular in the field of research and development;
+
+(g) the provision of electronic communication services by Union telecommunication operators necessary for the operation, maintenance and security, including cybersecurity, of electronic communication services, in Ukraine, in the Union, between Ukraine and the Union, and for data centre services in the Union.
+
+1-j. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 1-h or 1-i within two weeks of the authorisation.
+
+1a. The prohibitions set out in paragraphs 1 to 1-d shall not apply to:
+
+(a) public bodies or legal persons, entities or bodies which receive public funding from the Union or Member States, provided that the assistance and services referred to in paragraph 1 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1;
+
+(b) organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that the assistance and services referred to in paragraph 1 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1;
+
+(c) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures, provided that the assistance and services referred to in paragraph 1 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1; or
+
+(d) Member States’ specialised agencies, provided that the assistance and services referred to in paragraph 1 are necessary for exclusively humanitarian purposes in the non-government controlled areas of Ukraine referred to in Article 1.
+
+1b. In cases not covered by paragraphs 1 to 1-d  , and by way of derogation from paragraph 1, the competent authorities of a Member State may grant general or specific authorisations, under such general and specific terms and conditions as they deem appropriate, for the provision of the assistance and services referred to in paragraph 1 after having determined that such assistance and services are necessary for exclusively humanitarian purposes in the non-government-controlled areas of Ukraine referred to in Article 1.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this paragraph within two weeks of any authorisation granted.
+
+## Article 8
+
+1\. The competent authorities may grant an authorisation in relation to the activities referred to in Articles 5(1), 6(2) and 7(1), and in respect of the goods and technology referred to in Article 6(1), provided that they are:
+
+(a) necessary for official purposes of international organisations enjoying immunities in accordance with international law located in the non-government controlled areas; or,
+
+(b) related to projects exclusively in support of hospitals or other public health institutions providing medical services or civilian education facilities located in the non-government controlled areas referred to in Article 1, or
+
+(c) appliances or equipment for medical use.
+
+2\. The competent authorities may also grant, under such terms and conditions as they deem appropriate, an authorisation for a transaction in relation to the activities referred to in Article 5(1), provided that the transaction is for the purpose of maintenance in order to ensure the safety of existing infrastructure.
+
+3\. The competent authorities may also grant an authorisation in relation to the goods and technology referred to in Article 6(1) and to the activities referred to in Article 6(2) and Article 7, where the sale, supply, transfer or export of the items or the carrying out of those activities is necessary for the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety, including the safety of existing infrastructure, or on the environment. In duly justified cases of emergency, the sale, supply, transfer or export may proceed without prior authorisation provided that the exporter notifies the competent authority within five working days after the sale, supply, transfer or export has taken place, providing details about the relevant justification for the sale, supply, transfer or export without prior authorisation.
+
+The Commission and the Member States shall inform each other of the measures taken under this paragraph and share any other relevant information at their disposal.
+
+## Article 9
+
+1\. It shall be prohibited to provide services directly related to tourism activities in the non-government controlled areas referred to in Article 1, by nationals of Member States, or from the territories of Member States, or using vessels or aircraft under the jurisdiction of Member States.
+
+## Article 9a
+
+1\. It shall be prohibited to sell, supply, transfer or export banknotes denominated in any official currency of a Member State to the non-government controlled areas or to any natural or legal person, entity or body in the non-government controlled areas, or for use in the non-government controlled areas.
+
+2\. The prohibition in paragraph 1 shall not apply to the sale, supply, transfer or export of banknotes denominated in any official currency of a Member State provided that such sale, supply, transfer or export is necessary for:
+
+(a) the personal use of natural persons travelling to the non-government controlled areas or members of their immediate families travelling with them;
+
+(b) the official purposes of international organisations in the non-government controlled areas enjoying immunities in accordance with international law; or
+
+(c) civil society and media activities that directly promote democracy, human rights or the rule of law in the non-government controlled areas which receive public funding from the Union, Member States or countries listed in the Annex.
+
+## Article 9b
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent prohibitions in this Decision, including by participating in such activities without deliberately seeking that object or effect but being aware that the participation may have that object or effect and accepting that possibility.
+
+## Article 9c
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Decision, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, particularly a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in the Annex to Decision 2014/145/CFSP;
+
+(b) any natural person who, or any legal person, entity or body which, has been found by an arbitral, judicial or administrative decision to have infringed the prohibitions set out in this Decision;
+
+(c) any natural or legal person, entity or body, if the claim relates to goods the import of which is prohibited under Article 1;
+
+(d) any person, entity or body in the non-government controlled areas;
+
+(e) any Russian person, entity or body;
+
+(f) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in points (a) to (e) of this paragraph.
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of natural or legal persons, entities or bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Decision.
+
+## Article 10
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Decision shall apply until 24 February 2027  .
+
+This Decision shall be kept under constant review. It shall be renewed, or amended as appropriate, if the Council deems that its objectives have not been met.
+
+## ANNEX
+
+List of countries referred to in Article 9a(2), point (c).
+
+THE UNITED STATES OF AMERICA
+
+JAPAN
+
+UNITED KINGDOM
+
+SOUTH KOREA
+
+AUSTRALIA
+
+CANADA
+
+NEW ZEALAND
+
+NORWAY
+
+SWITZERLAND
+
+LIECHTENSTEIN
+
+ICELAND
+
+( 1 ) Council Decision 2014/145/CFSP of 17 March 2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L 78, 17.3.2014, p. 16, ELI: http://data.europa.eu/eli/dec/2014/145(1)/oj).

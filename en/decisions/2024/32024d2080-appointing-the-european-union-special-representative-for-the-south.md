@@ -1,0 +1,171 @@
+---
+title: "Council Decision (CFSP) 2024/2080 of 26 July 2024 appointing the European Union Special Representative for the South Caucasus and the crisis in Georgia"
+identifier: "32024D2080"
+eli: "http://data.europa.eu/eli/dec/2024/2080/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2024-07-26
+entry_into_force: 2024-11-28
+last_amended: 2025-07-15
+consolidated_version: "02024D2080-20250715"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024D2080-20250715"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2024/2080 of 26 July 2024 appointing the European Union Special Representative for the South Caucasus and the crisis in Georgia
+
+**COUNCIL DECISION (CFSP) 2024/2080**
+
+**of 26 July 2024**
+
+**appointing the European Union Special Representative for the South Caucasus and the crisis in Georgia**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (CFSP) 2025/1450 of 15 July 2025 </td><td> L 1450</td><td>1</td><td>16.7.2025</td></tr>
+</table>
+
+**COUNCIL DECISION (CFSP) 2024/2080**
+
+**of 26 July 2024**
+
+**appointing the European Union Special Representative for the South Caucasus and the crisis in Georgia**
+
+## Article 1 — European Union Special Representative
+
+Ms Magdalena GRONO is hereby appointed as the European Union Special Representative (EUSR) for the South Caucasus and the crisis in Georgia from 1 September 2024 to 31 August 2025.
+
+The mandate of Ms Magdalena GRONO as the EUSR for the South Caucasus and the crisis in Georgia is extended until 31 August 2027.
+
+The Council may decide that the mandate of the EUSR be terminated earlier, based on an assessment by the Political and Security Committee (PSC) and a proposal from the High Representative of the Union for Foreign Affairs and Security Policy (HR).
+
+## Article 2 — Policy objectives
+
+The EUSR’s mandate shall be based on the policy objectives of the Union for the South Caucasus and the crisis in Georgia, including the objectives set out in the conclusions of the extraordinary European Council meeting held in Brussels on 1 September 2008, the Council conclusions of 15 September 2008 and of 27 February 2012, as well as the conclusions of the European Council meeting held in Brussels on 26-27 October 2023. Those objectives include:
+
+(a) in accordance with the existing mechanisms to prevent conflicts in the region, to contribute to a peaceful settlement of conflicts in the region, including the crisis in Georgia and the normalisation process between Armenia and Azerbaijan, to support the implementation of such a settlement in accordance with the principles of international law;
+
+(b) to engage constructively with the main interested actors regarding the region;
+
+(c) to encourage and to support further cooperation between Armenia, Azerbaijan and Georgia, and, as appropriate, their neighbouring countries;
+
+(d) to enhance the Union’s effectiveness and visibility in the region.
+
+## Article 3 — Mandate
+
+In order to achieve the policy objectives, the EUSR’s mandate shall be to:
+
+(a) develop contacts with governments, parliaments, other key political actors and civil society in the region;
+
+(b) encourage the countries in the region to cooperate and facilitate such cooperation on regional themes of common interest, such as common security threats, the fight against terrorism, illicit trafficking and organised crime; encourage and facilitate cross-border and trans-boundary cooperation where feasible to address local needs and build trust and reconciliation;
+
+(c) contribute to the peaceful settlement of conflicts in accordance with the principles of international law and facilitate the implementation of such settlement in close coordination with the United Nations and the OSCE;
+
+(d) with respect to the crisis in Georgia:
+
+(i) help prepare for the international talks held under point 6 of the Settlement Plan of 12 August 2008, the Geneva International Discussions, and its implementing measures of 8 September 2008, including on arrangements for security and stability in the region, the issue of refugees and internally displaced persons, on the basis of internationally recognised principles, and any other subject, by mutual agreement between the parties;
+
+(ii) help establish the Union’s position and represent it, at the level of the EUSR, in the talks referred to in point (i); and
+
+(iii) facilitate the implementation of the Settlement Plan of 12 August 2008 and its implementing measures of 8 September 2008;
+
+(e) with respect to the normalisation process between Armenia and Azerbaijan:
+
+(i) facilitate meetings between the parties with a view to reaching a comprehensive, fair and lasting peace deal, based on mutual recognition of territorial integrity;
+
+(ii) coordinate efforts with international partners; and
+
+(iii) promote the involvement of all strands of society in both countries;
+
+(f) facilitate the development and implementation of confidence-building measures in coordination with Member States’ expertise where available and appropriate;
+
+(g) facilitate and contribute to inclusive peace-building efforts within the societies with the aim of overcoming the conflicts and consolidating peace;
+
+(h) assist in the preparation, as appropriate, of Union contributions to possible conflict settlement;
+
+(i) intensify the Union’s dialogue with the main actors concerned regarding the region;
+
+(j) assist the Union in further developing a comprehensive policy towards the South Caucasus, especially in opening borders and ways of communication;
+
+(k) in the framework of the activities set out in this Article, contribute to the implementation of the Union’s human rights policy and the Union Guidelines on Human Rights, in particular with regard to children and women in areas affected by conflicts, especially by monitoring and addressing developments in this regard.
+
+## Article 4 — Implementation of the mandate
+
+1\. The EUSR shall be responsible for the implementation of the mandate, acting under the authority of the HR.
+
+2\. The PSC shall maintain a privileged link with the EUSR and shall be the EUSR’s primary point of contact with the Council. The PSC shall provide the EUSR with strategic guidance and political direction within the framework of the mandate, without prejudice to the powers of the HR.
+
+3\. The EUSR shall work in close coordination with the European External Action Service (EEAS) and its relevant departments.
+
+## Article 5 — Financing
+
+1\. The financial reference amount intended to cover the expenditure related to the EUSR’s mandate for the period from 1 September 2024 to 31 August 2025 shall be EUR 2 477 987 .
+
+The financial reference amount intended to cover the expenditure related to the EUSR’s mandate for the period from 1 September 2025 to 31 August 2027 shall be EUR 5 330 208 .
+
+2\. The expenditure shall be managed in accordance with the procedures and rules applicable to the general budget of the Union.
+
+3\. The management of the expenditure shall be subject to a contract between the EUSR and the Commission. The EUSR shall be accountable to the Commission for all expenditure.
+
+## Article 6 — Constitution and composition of the team
+
+1\. Within the limits of the EUSR’s mandate and the corresponding financial means made available, the EUSR shall be responsible for constituting a team. The team shall include the expertise on specific policy issues as required by the mandate. The EUSR shall keep the Council and the Commission promptly informed of the composition of the team.
+
+2\. Member States, institutions of the Union and the EEAS may propose the secondment of staff to work with the EUSR. The salary of such seconded personnel shall be covered by the Member State, the institution of the Union concerned or the EEAS, respectively. Experts seconded by Member States to the institutions of the Union or the EEAS may also be posted to the EUSR. International contracted staff shall have the nationality of a Member State.
+
+3\. All seconded personnel shall remain under the administrative authority of the sending Member State, the sending institution of the Union or the EEAS and shall carry out their duties and act in the interest of the EUSR’s mandate.
+
+4\. The EUSR staff shall be co-located with the relevant EEAS departments or Union delegations in order to ensure coherence and consistency of their respective activities.
+
+## Article 7 — Privileges and immunities of the EUSR and the staff of the EUSR
+
+The privileges, immunities and further guarantees necessary for the completion and smooth functioning of the EUSR’s mission and the members of the EUSR’s staff shall be agreed with the host parties, as appropriate. Member States and the EEAS shall grant all necessary support to such effect.
+
+## Article 8 — Security of EU classified information
+
+The EUSR and the members of the EUSR’s team shall respect the security principles and minimum standards established by Council Decision 2013/488/EU ( 1 ).
+
+## Article 9 — Access to information and logistical support
+
+1\. Member States, the Commission and the General Secretariat of the Council shall ensure that the EUSR is given access to any relevant information.
+
+2\. The Union delegations in the region and/or the Member States, as appropriate, shall provide logistical support in the region.
+
+## Article 10 — Security
+
+In accordance with the Union’s policy on the security of personnel deployed outside the Union in an operational capacity under Title V of the Treaty, the EUSR shall take all reasonably practicable measures, in accordance with the EUSR’s mandate and the security situation in the area of responsibility, for the security of all personnel under the EUSR’s direct authority, in particular by:
+
+(a) establishing a specific security plan based on guidance from the EEAS, including specific physical, organisational and procedural security measures, governing the management of the secure movement of personnel to and within the area of responsibility, as well as management of security incidents and providing for a contingency and evacuation plan;
+
+(b) ensuring that all personnel deployed outside the Union are covered by high-risk insurance, as required by the conditions in the area of responsibility;
+
+(c) ensuring that all members of the EUSR’s team to be deployed outside the Union, including locally contracted personnel, have received appropriate security training before or upon arriving in the area of responsibility, based on the risk ratings assigned to that area by the EEAS;
+
+(d) ensuring that all agreed recommendations made following regular security assessments are implemented and providing the Council, the HR and the Commission with written reports on their implementation and on other security issues within the framework of the progress report and the report on the implementation of the mandate.
+
+## Article 11 — Reporting
+
+The EUSR shall regularly provide the HR and the PSC with reports. The EUSR shall also report to Council working parties as necessary. Regular reports shall be circulated through the COREU network. The EUSR may provide the Foreign Affairs Council with reports. The EUSR may be involved in briefing the European Parliament.
+
+## Article 12 — Coordination
+
+1\. The EUSR shall contribute to the unity, consistency and effectiveness of the Union’s action and shall help ensure that all Union instruments and Member States’ actions are engaged consistently, to attain the Union’s policy objectives. Liaison with Member States shall be sought where appropriate. The activities of the EUSR shall be coordinated with those of the Commission. The EUSR shall provide regular briefings to Member States’ missions and the Union’s delegations.
+
+2\. In the field, close liaison shall be maintained with the Heads of Union delegations and Member States’ Heads of Mission. They shall make every effort to assist the EUSR in the implementation of the mandate. The EUSR shall provide the Head of the European Union Monitoring Mission in Georgia (EUMM Georgia) and the Head of the European Union Mission in Armenia (EUMA) with local political guidance, in close co-ordination with the respective Heads of Union Delegation to Georgia and to Armenia. The EUSR and the Civilian Operation Commander for EUMM Georgia and EUMA Armenia shall consult each other as required. The EUSR shall also liaise with other international and regional actors in the field.
+
+## Article 13 — Assistance in relation to claims
+
+The EUSR and the EUSR’s staff shall assist in providing elements to respond to any claims and obligations arising from the mandates of the previous EUSRs for the South Caucasus and the crisis in Georgia, and shall provide administrative assistance and access to relevant files for such purposes.
+
+## Article 14 — Review
+
+The implementation of this Decision and its consistency with other contributions from the Union to the region shall be kept under regular review. The EUSR shall present the Council, the HR and the Commission with regular progress reports and a final comprehensive mandate implementation report by 31 May 2027.
+
+## Article 15 — Entry into force
+
+This Decision shall enter into force on the date of its adoption.
+
+( ) Council Decision 2013/488/EU of 23 September 2013 on the security rules for protecting EU classified information (OJ L 274, 15.10.2013, p. 1).

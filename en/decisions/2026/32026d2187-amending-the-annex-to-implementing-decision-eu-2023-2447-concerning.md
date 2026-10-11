@@ -1,0 +1,241 @@
+---
+title: "Commission Implementing Decision (EU) 2026/2187 of 24 September 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 6898)"
+identifier: "32026D2187"
+eli: "http://data.europa.eu/eli/dec_impl/2026/2187/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-09-24
+entry_into_force: 2026-09-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2187"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2026/2187 of 24 September 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 6898)
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2026/2187**
+
+**of 24 September 2026**
+
+**amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States**
+
+**(notified under document C(2026) 6898)**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Article 259(1) thereof,
+
+Whereas:
+
+(1) Highly pathogenic avian influenza (HPAI) is an infectious viral disease in birds and can have a severe impact on the profitability of poultry farming causing disturbance to trade within the Union and exports to third countries. The presence of HPAI viruses in wild birds poses a continuous threat for the direct and indirect introduction of these viruses into establishments where poultry or captive birds are kept, particularly during the autumn and spring migrations of migratory birds when these birds can spread these viruses over long distances. In the event of an outbreak of HPAI in establishments where poultry or captive birds are kept, there is a risk that the disease agent may spread to other such establishments.
+
+(2) Regulation (EU) 2016/429 establishes the legislative framework for the prevention and control of diseases that are transmissible to animals or humans. HPAI falls within the definition of a listed disease in that Regulation, and it is subject to the disease prevention and control rules laid down therein. In addition, Commission Delegated Regulation (EU) 2020/687 (2) supplements Regulation (EU) 2016/429 as regards the rules for the prevention and control of certain listed diseases, including HPAI. In particular, Article 21 of that Delegated Regulation provides that in the event of an outbreak of a category A disease in an establishment, the competent authority is to immediately establish a restricted zone comprising a protection zone, a surveillance zone, and if necessary, further restricted zones.
+
+(3) Commission Implementing Decision (EU) 2023/2447 (3) was adopted on the basis of Regulation (EU) 2016/429, and it lays down emergency measures at Union level in relation to outbreaks of HPAI.
+
+(4) In particular, Articles 2, 3, and 4 of Implementing Decision (EU) 2023/2447 provide that following outbreaks of HPAI, the protection, surveillance, and further restricted zones to be established in accordance with Delegated Regulation (EU) 2020/687 must comprise at least the areas listed as protection, surveillance, and further restricted zones in the Annex to that Implementing Decision, and the measures to be applied in those zones, in accordance with that Delegated Regulation, must be maintained until at least the dates set out in that Annex.
+
+(5) The Annex to Implementing Decision (EU) 2023/2447 was last amended by Commission Implementing Decision (EU) 2026/2109 (4), following outbreaks of HPAI in France in establishments where poultry were kept.
+
+(6) Since the date of adoption of Implementing Decision (EU) 2026/2109, Bulgaria has notified the Commission of a further outbreak of HPAI in an establishment where poultry were kept in Plovdiv region.
+
+(7) Following that recent outbreak, Bulgaria has taken the disease control measures required in accordance with Delegated Regulation (EU) 2020/687, including the establishment of protection and surveillance zones around the outbreak.
+
+(8) The Commission has examined the disease control measures taken by Bulgaria and is satisfied that the boundaries of the protection and surveillances zones established following that recent outbreak of HPAI in that Member State are at a sufficient distance from the establishment where the outbreak has been confirmed.
+
+(9) In order to prevent any unnecessary disturbance to trade within the Union and to avoid any unjustified disruptions to trade being imposed by third countries, it is necessary to rapidly lay down at Union level, in collaboration with Bulgaria, the protection and surveillance zones established by that Member State, in accordance with Delegated Regulation (EU) 2020/687.
+
+(10) Therefore, the areas listed as protection and surveillance zones for Bulgaria in the Annex to Implementing Decision (EU) 2023/2447 should be amended, to take account of the boundaries of the protection and surveillance zones established by that Member State following the new HPAI outbreak therein, as well as the required duration of the measures to be applied in those zones, in accordance with Delegated Regulation (EU) 2020/687.
+
+(11) Implementing Decision (EU) 2023/2447 should, therefore, be amended accordingly.
+
+(12) Given the urgency of the epidemiological situation in the Union as regards the spread of HPAI, it is important that the amendments to be made to Implementing Decision (EU) 2023/2447 by this Decision take effect as soon as possible.
+
+(13) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Annex to Implementing Decision (EU) 2023/2447 is replaced by the text set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 24 September 2026.
+
+For the Commission
+
+Olivér VÁRHELYI
+
+Member of the Commission
+
+(1) OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+
+(2) Commission Delegated Regulation (EU) 2020/687 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council, as regards rules for the prevention and control of certain listed diseases (OJ L 174, 3.6.2020, p. 64, ELI: http://data.europa.eu/eli/reg_del/2020/687/oj).
+
+(3) Commission Implementing Decision (EU) 2023/2447 of 24 October 2023 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (OJ L, 2023/2447, 30.10.2023, ELI: http://data.europa.eu/eli/dec_impl/2023/2447/oj).
+
+(4) Commission Implementing Decision (EU) 2026/2109 of 17 September 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (OJ L, 2026/2109, 18.9.2026, ELI: http://data.europa.eu/eli/dec_impl/2026/2109/oj).
+
+## ANNEX
+
+**Part A**
+
+Protection zones as referred to in Article 1, point (a), and Article 2:
+
+**Member State: Bulgaria**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable</td></tr>
+<tr><td colspan="3">Plovdiv region</td></tr>
+<tr><td>BG-HPAI(P)-2026-00011</td><td>The following village in Rakovski municipality:<table><tbody><tr><td>—</td><td>Rakovski</td></tr>
+</tbody>
+</table>
+</td><td>27.9.2026</td></tr>
+<tr><td>BG-HPAI(P)-2026-00012</td><td>The following village in Rakovski municipality:<table><tbody><tr><td>—</td><td>Momino selo</td></tr>
+</tbody>
+</table>
+ The following village in Kaloyanovo municipality: <table><tbody><tr><td>—</td><td>Glavatar</td></tr>
+</tbody>
+</table>
+</td><td>18.10.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: France**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable</td></tr>
+<tr><td colspan="3">Département: Maine-et-Loire (49)</td></tr>
+<tr><td>FR-HPAI(P)-2026-00021 FR-HPAI(P)-2026-00022  FR-HPAI(P)-2026-00023 </td><td>BRION (EST DE L’AUTOROUTE A85) CUON  JUMELLES (EST DE L’AUTOROUTE A85)  LA LANDES-CHASLES  MOULIHERNE  LINIÈRES-BOUTON (OUEST DE LA ROUTE DE L’ÉTANG ET AU SUD DE LA D62) </td><td>30.9.2026</td></tr>
+</tbody>
+</table>
+
+**Part B**
+
+Surveillance zones as referred to in Article 1, point (a), and Article 3:
+
+**Member State: Bulgaria**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable</td></tr>
+<tr><td colspan="3">Plovdiv region</td></tr>
+<tr><td rowspan="2">BG-HPAI(P)-2026-00011</td><td>The following villages in Rakovski municipality:<table><tbody><tr><td>—</td><td>Shishmantsi</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Bolyarino</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Momino selo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Strayama</td></tr>
+</tbody>
+</table>
+ The following villages in Maritsa municipality: <table><tbody><tr><td>—</td><td>Manolsko Konare</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Yasno pole</td></tr>
+</tbody>
+</table>
+ The following villages in Brezovo municipality: <table><tbody><tr><td>—</td><td>Padarsko</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Borets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Otets Kirilovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Drangovo</td></tr>
+</tbody>
+</table>
+ The following village in Kaloyanovo municipality: <table><tbody><tr><td>—</td><td>Glavatar</td></tr>
+</tbody>
+</table>
+</td><td>6.10.2026</td></tr>
+<tr><td>The following village in Rakovski municipality:<table><tbody><tr><td>—</td><td>Rakovski</td></tr>
+</tbody>
+</table>
+</td><td>28.9.2026 – 6.10.2026</td></tr>
+<tr><td rowspan="2">BG-HPAI(P)-2026-00012</td><td>The following villages in Rakovski municipality<table><tbody><tr><td>—</td><td>Rakovski</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Strayama</td></tr>
+</tbody>
+</table>
+ The following villages in Maritsa municipality <table><tbody><tr><td>—</td><td>Yasno pole</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Dink</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Kalekovets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Krislovo</td></tr>
+</tbody>
+</table>
+ The following villages in Brezovo municipality <table><tbody><tr><td>—</td><td>Padarsko</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Borets</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Otets Kirilovo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Streltsi</td></tr>
+</tbody>
+</table>
+ The following villages in Kaloyanovo municipality <table><tbody><tr><td>—</td><td>Razhevo</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Razhevo Konare</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Dalgo pole</td></tr>
+</tbody>
+</table>
+</td><td>27.10.2026</td></tr>
+<tr><td>The following village in Rakovski municipality:<table><tbody><tr><td>—</td><td>Momino selo</td></tr>
+</tbody>
+</table>
+ The following village in Kaloyanovo municipality: <table><tbody><tr><td>—</td><td>Glavatar</td></tr>
+</tbody>
+</table>
+</td><td>19.10.2026 – 27.10.2026</td></tr>
+</tbody>
+</table>
+
+**Member State: France**
+
+<table>
+<tbody><tr><td>ADIS reference number of the outbreak</td><td>Area comprising:</td><td>Date until applicable</td></tr>
+<tr><td colspan="3">Département: Maine-et-Loire (49)</td></tr>
+<tr><td rowspan="2">FR-HPAI(P)-2026-00021 FR-HPAI(P)-2026-00022  FR-HPAI(P)-2026-00023 </td><td>BOCÉ CHARTRENÉ  LE GUÉDENIAU  LE VIEIL-BAUGÉ  BEAUFORT-EN-VALLÉE  BLOU  FONTAINE-GUÉRIN  LES BOIS D’ANJOU (SUD DE L’AUTOROUTE A85)  LONGUÉ-JUMELLES (OUEST DE L’AUTOROUTE A85)  AUVERSE  LASSE  LINIÈRES-BOUTON (EST DE LA ROUTE DE L’ÉTANG)  MÉON  NOYANT (OUEST DE L’AVENUE DE LA GARE ET AU SUD DE LA D141 (ROUTE DE GENNETEIL))  PARCAY-LES-PINS  LA PELERINE  SAINT-PHILBERT-DU-PEUPLE  VERNANTES  VERNOIL-LE-FOURRIER </td><td>9.10.2026</td></tr>
+<tr><td>BRION (EST DE L’AUTOROUTE A85) CUON  JUMELLES (EST DE L’AUTOROUTE A85)  LA LANDES-CHASLES  MOULIHERNE  LINIÈRES-BOUTON (OUEST DE LA ROUTE DE L’ÉTANG ET AU SUD DE LA D62) </td><td>1.10.2026 – 9.10.2026</td></tr>
+</tbody>
+</table>
+
+**Part C**
+
+Further restricted zones as referred to in Article 1, point (b), and Article 4:
+
+**Member State: none**
+
+| Area comprising: | Date until applicable |
+| --- | --- |
+|  |  |
+
+ELI: http://data.europa.eu/eli/dec_impl/2026/2187/oj
+
+ISSN 1977-0677 (electronic edition)

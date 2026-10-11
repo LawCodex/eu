@@ -1,0 +1,230 @@
+---
+title: "Commission Decision (EU) 2025/1051 of 19 May 2025 on the consistency of the performance targets included in the draft performance plan submitted by Poland pursuant to Regulation (EC) No 549/2004 of the European Parliament and of the Council with the Union-wide performance targets for the fourth reference period of the Single European Sky performance and charging scheme (notified under document C(2025) 2921)"
+identifier: "32025D1051"
+eli: "http://data.europa.eu/eli/dec/2025/1051/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2025-05-19
+entry_into_force: 2025-10-21
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025D1051"
+retrieved: 2026-10-11
+---
+
+# Commission Decision (EU) 2025/1051 of 19 May 2025 on the consistency of the performance targets included in the draft performance plan submitted by Poland pursuant to Regulation (EC) No 549/2004 of the European Parliament and of the Council with the Union-wide performance targets for the fourth reference period of the Single European Sky performance and charging scheme (notified under document C(2025) 2921)
+
+**COMMISSION DECISION (EU) 2025/1051**
+
+**of 19 May 2025**
+
+**on the consistency of the performance targets included in the draft performance plan submitted by Poland pursuant to Regulation (EC) No 549/2004 of the European Parliament and of the Council with the Union-wide performance targets for the fourth reference period of the Single European Sky performance and charging scheme**
+
+**(notified under document C(2025) 2921)**
+
+**(Only the Polish text is authentic)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) (1), and in particular Article 11(3) point (c) thereof,
+
+Having regard to Regulation (EU) 2024/2803 of the European Parliament and of the Council of 23 October 2024 on the implementation of the Single European Sky (2), and in particular Article 58(3) thereof,
+
+Having regard to Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 (3), and in particular Article 14(2) thereof,
+
+Whereas:
+
+GENERAL CONSIDERATIONS
+
+(1) Pursuant to Article 11 of Regulation (EC) No 549/2004, Member States are to draw up plans, either at national level or at the level of functional airspace blocks (‘FABs’), including performance targets, for each reference period of the performance and charging scheme for air navigation services and network functions. Those plans are to include local performance targets which are consistent with the Union-wide performance targets for the reference period concerned.
+
+(2) The Union-wide performance targets for the fourth reference period (‘RP4’, 2025-2029) were set out in Commission Implementing Decision (EU) 2024/1688 (4).
+
+(3) All Member States have drawn up and adopted draft performance plans for RP4, which were submitted to the Commission for assessment by 1 October 2024. Following the verification of completeness of those draft performance plans, the Commission requested Member States to submit updated draft performance plans by 15 November 2024.
+
+(4) The Commission’s assessment presented in this Decision is based on the updated draft performance plan for RP4 submitted by Poland (‘the draft performance plan’).
+
+(5) The Performance Review Body (‘PRB’), assisting the Commission in the implementation of the performance scheme, has submitted to the Commission a report containing its advice on the assessment of the draft performance plans.
+
+(6) In accordance with Article 14(1) of Implementing Regulation (EU) 2019/317, the Commission has assessed the consistency of the local performance targets included in the draft performance plan on the basis of the criteria laid down in point 1 of Annex IV to that Implementing Regulation, and taking account of local circumstances where relevant.
+
+(7) The Commission has complemented its assessment of the draft performance plan with a review of the elements set out in point 2 of Annex IV to that Implementing Regulation. In respect of point 2.1(d)(vii) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission notes that it has not conducted, as part of that review, a detailed analysis of the methodology used by Poland for the allocation of costs between en route and terminal services in RP4. Therefore, the Commission has not drawn any conclusions, at this stage, in respect of the compliance of that cost allocation methodology with points (e) and (f) of Article 15(2) Regulation (EC) No 550/2004 of the European Parliament and of the Council (5) and Article 22(5) of Implementing Regulation (EU) 2019/317.
+
+COMMISSION ASSESSMENT
+
+Assessment of the safety targets
+
+(8) As regards the key performance area of safety, the consistency of the targets included in the draft performance plan has been assessed in accordance with point 1.1 of Annex IV to Implementing Regulation (EU) 2019/317.
+
+(9) The performance targets in the key performance area of safety proposed by Poland in respect of the effectiveness of safety management, broken down per safety management objective and expressed as a level of implementation, are as follows:
+
+<table>
+<tbody><tr><td>Poland</td><td colspan="6">Targets on the effectiveness of safety management, expressed as a level of implementation, ranging from EASA level A to D</td></tr>
+<tr><td>Air navigation service provider</td><td>Safety management objective</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td></tr>
+<tr><td rowspan="5">PANSA</td><td>Safety policy and objectives</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety risk management</td><td>C</td><td>C</td><td>C</td><td>C</td><td>D</td></tr>
+<tr><td>Safety assurance</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety promotion</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety culture</td><td>B</td><td>B</td><td>C</td><td>C</td><td>C</td></tr>
+</tbody>
+</table>
+
+(10) The Commission has found that the safety performance targets proposed by Poland for the air navigation service provider ‘PANSA’ are equal to the Union-wide safety targets for each calendar year from 2026 onwards in the areas of ‘safety policy and objectives’, ‘safety assurance’ and ‘safety promotion’. Furthermore, the Union-wide target level is planned to be reached from 2027 onwards for ‘safety culture’ and from 2029 for ‘safety risk management’.
+
+(11) The Commission notes that the draft performance plan sets out measures for PANSA for the achievement of the local safety targets, such as a strengthened identification of safety hazards, enhanced risk management, training activities, and the implementation of improved safety performance indicators and tools.
+
+(12) The safety targets proposed by Poland for the providers of terminal air navigation services in the scope of the draft performance plan, namely ‘Port Lotniczy Bydgoszcz S.A.’ and ‘Warmia i Mazury sp. z o.o.’, are also in line with the Union-wide performance targets. The Commission further notes that Poland has set out measures for the achievement of their safety performance targets.
+
+(13) On the basis of the findings set out in recitals (9) to (12) and considering that the Union-wide safety performance targets set in Implementing Decision (EU) 2024/1688 are to be achieved by the final year of RP4, that is, 2029, the local safety performance targets included in the draft performance plan should be considered consistent with the Union-wide performance targets.
+
+Assessment of the environment targets
+
+(14) As regards the key performance area of environment, the consistency of the targets included in the draft performance plan regarding the average horizontal en route flight efficiency of the actual trajectory has been assessed based on the criterion laid down in point 1.2 of Annex IV to Implementing Regulation (EU) 2019/317. Accordingly, the proposed environment targets of Poland have been compared to the relevant en route horizontal flight efficiency reference values set out in the European Route Network Improvement Plan (‘ERNIP’), drawn up in accordance with Annex I to Commission Implementing Regulation (EU) 2019/123 (6) and available at the time of adopting the Union-wide performance targets for RP4, that is on 2 July 2024.
+
+(15) The environment performance targets proposed by Poland for RP4 and the corresponding national reference values from the ERNIP, expressed as the average horizontal en route flight efficiency of the actual trajectory, are as follows:
+
+| Poland | 2025 | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| Targets in the key performance area of environment, expressed as the average horizontal en route flight efficiency of the actual trajectory | 4,51 % | 4,49 % | 4,47 % | 4,45 % | 4,43 % |
+| Reference values | 4,51 % | 4,49 % | 4,47 % | 4,45 % | 4,43 % |
+
+(16) The Commission observes that the environment targets proposed by Poland are equal to the corresponding national reference values for each calendar year of RP4.
+
+(17) The Commission notes that Poland has presented, in the draft performance plan, measures for the achievement of the local environment targets, which include the expansion of cross-border free route airspace, the extension of free route airspace to terminal manoeuvring areas, and other operational measures to optimise airspace efficiency.
+
+(18) On the basis of the findings set out in recitals (15), (16) and (17), the targets in the key performance area of environment included in the draft performance plan should be considered consistent with the Union-wide performance targets for RP4.
+
+Assessment of the capacity targets
+
+(19) As regards the key performance area of capacity, the consistency of the targets included in the draft performance plan regarding the average en route air traffic flow management (‘ATFM’) delay per flight has been assessed based on the criterion laid down in point 1.3 of Annex IV to Implementing Regulation (EU) 2019/317. Accordingly, the proposed en route capacity targets of Poland have been compared to the relevant reference values set out in the Network Operations Plan drawn up in accordance with Article 9 of Implementing Regulation (EU) 2019/123 and available at the time of adopting the Union-wide performance targets for RP4, that is on 2 July 2024.
+
+(20) The en route capacity targets proposed by Poland for RP4, expressed in minutes of ATFM delay per flight, and the corresponding reference values from the Network Operations Plan, are as follows:
+
+| Poland | 2025 | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| Targets in the key performance area of capacity, expressed in minutes of en route ATFM delay per flight | 0,24 | 0,18 | 0,15 | 0,13 | 0,13 |
+| Reference values | 0,24 | 0,18 | 0,15 | 0,13 | 0,13 |
+
+(21) The Commission observes that the en route capacity targets proposed by Poland are equal to the corresponding national reference values for each calendar year of RP4.
+
+(22) The Commission notes that Poland has presented, in the draft performance plan, measures for the achievement of the local en route capacity targets, which include the expansion of cross-border free route airspace, and other operational measures to mitigate capacity constraints.
+
+(23) On the basis of the findings set out in recitals (20), (21) and (22), the targets in the key performance area of capacity included in the draft performance plan should be considered consistent with the Union-wide performance targets for RP4.
+
+Review of the capacity targets for terminal air navigation services
+
+(24) In accordance with point 2.1(b) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission has complemented its assessment of the draft performance plan by reviewing the capacity performance targets for terminal air navigation services set in respect of the airports referred to in Articles 1(3) and (4) of that Implementing Regulation. It was found that those targets do not give rise to concerns.
+
+Assessment of the cost-efficiency targets
+
+(25) As regards the key performance area of cost-efficiency, the consistency of the targets included in the draft performance plan regarding the determined unit cost (‘DUC’) for en route air navigation services has been assessed based on the criteria laid down in points 1.4(a), (b) and (c) of Annex IV to Implementing Regulation (EU) 2019/317. Those criteria consist of the DUC trend over RP4, the long-term DUC trend over the third reference period (‘RP3’) and RP4 (2020-2029), and the baseline value for the DUC at charging zone level compared with the average value of the charging zones where air navigation service providers have a similar operational and economic environment.
+
+(26) The en route cost-efficiency targets proposed by Poland for RP4, and the related baseline values, are as follows:
+
+<table>
+<tbody><tr><td>En route charging zone of Poland</td><td>2019 baseline value</td><td>2024 baseline value</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td></tr>
+<tr><td rowspan="2">Targets and baseline values in the key performance area of cost-efficiency, expressed as determined unit cost (in real terms at 2022 prices)</td><td>PLN 211,01 </td><td>PLN 266,47 </td><td>PLN 255,95 </td><td>PLN 251,96 </td><td>PLN 247,50 </td><td>PLN 244,80 </td><td>PLN 239,46 </td></tr>
+<tr><td>EUR 45,09 </td><td>EUR 56,94 </td><td>EUR 54,69 </td><td>EUR 53,84 </td><td>EUR 52,89 </td><td>EUR 52,31 </td><td>EUR 51,17 </td></tr>
+</tbody>
+</table>
+
+(27) Concerning the assessment criterion set out in point 1.4(a) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission observes that Poland’s DUC trend at charging zone level of -2,1 % over RP4 outperforms the Union-wide trend of -1,2 % over the same period.
+
+(28) Concerning the assessment criterion set out in point 1.4(b) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission observes that Poland’s long-term DUC trend over RP3 and RP4 at charging zone level of +1,4 % underperforms the long-term Union-wide trend of -1,0 % over the same period.
+
+(29) The Commission notes, however, that Poland has lost, as a consequence of Russia’s war of aggression against Ukraine, a significant share of the overflights which it historically used to serve. That traffic reduction continues over RP4 to considerably impact the cost-efficiency performance of the air navigation service provider and has, in particular, a negative effect on the long-term DUC trend of Poland.
+
+(30) It is therefore necessary and appropriate to examine, for the purpose of the assessment criterion referred to in recital (28), whether Poland would meet the Union-wide long-term DUC trend in absence of the circumstances referred to in recital (29).
+
+(31) To this end, the Commission has recalculated the long-term DUC trend in light of the estimated structural loss of traffic for Poland as a consequence of the war in Ukraine, measured in en route service units. That recalculation results in an adjusted long-term DUC trend for Poland of -1,6 %, which outperforms the long-term Union-wide DUC trend of -1,0 %. Therefore, it is concluded that Poland fulfils the assessment criterion referred to in recital (28) after taking into account the effect of the significant traffic reduction resulting from the war in Ukraine.
+
+(32) Concerning the assessment criterion set out in point 1.4(c) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission observes that Poland’s baseline value for the DUC of EUR 56,94 in real terms at 2022 prices (‘EUR2022’) is 10,7 % higher than the average baseline value of EUR 51,43 in EUR2022 of the relevant comparator group set out in Article 7 Implementing Decision (EU) 2024/1688.
+
+(33) It is clear that Poland outperforms the RP4 Union-wide DUC trend and shows a steady reduction of the DUC over RP4. Furthermore, when excluding the negative impact of the traffic changes resulting from Russia’s war of aggression against Ukraine, Poland also meets the Union-wide long-term DUC trend. Therefore, the Commission considers that the deviation from the average 2024 baseline DUC of its comparator group referred to in recital (32) does not preclude Poland’s cost-efficiency performance targets from being consistent with the Union-wide cost-efficiency performance targets.
+
+(34) On the basis of the findings set out in recitals (26) to (33), the targets in the key performance area of cost-efficiency included in the draft performance plan should be considered consistent with the Union-wide performance targets for RP4.
+
+Review of the cost-efficiency targets for terminal air navigation services
+
+(35) In accordance with point 2.1(c) of Annex IV to Implementing Regulation (EU) 2019/317, the Commission has complemented its assessment of the draft performance plan by reviewing the cost-efficiency performance targets for terminal air navigation services set in respect of the airports referred to in Articles 1(3) and (4) of that Implementing Regulation. It was found that those targets do not give rise to concerns.
+
+CONCLUSIONS
+
+(36) In the light of the foregoing, the performance targets included in the draft performance plan of Poland should be considered consistent with the Union-wide performance targets for RP4,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The performance targets included in the draft performance plan submitted by Poland for the fourth reference period (‘RP4’), listed in the Annex to this Decision, are consistent with the Union-wide performance targets for RP4 set out in Implementing Decision (EU) 2024/1688.
+
+## Article 2
+
+This Decision is addressed to the Republic of Poland.
+
+Done at Brussels, 19 May 2025.
+
+For the Commission
+
+Apostolos TZITZIKOSTAS
+
+Member of the Commission
+
+(1) OJ L 96, 31.3.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/549/oj.
+
+(2) OJ L, 2024/2803, 11.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2803/oj.
+
+(3) OJ L 56, 25.2.2019, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2019/317/oj.
+
+(4) Commission Implementing Decision (EU) 2024/1688 of 12 June 2024 setting Union-wide performance targets for the air traffic management network for the fourth reference period from 1 January 2025 to 31 December 2029 (OJ L, 2024/1688, 17.6.2024, ELI: http://data.europa.eu/eli/dec_impl/2024/1688/oj).
+
+(5) Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the single European sky (the service provision Regulation) (OJ L 96, 31.3.2004, p. 10, ELI http://data.europa.eu/eli/reg/2004/550/oj).
+
+(6) Commission Implementing Regulation (EU) 2019/123 of 24 January 2019 laying down detailed rules for the implementation of air traffic management (ATM) network functions and repealing Commission Regulation (EU) No 677/2011 (OJ L 28, 31.1.2019, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2019/123/oj).
+
+## ANNEX — Performance targets included in the draft performance plan of Poland, found to be consistent with the Union-wide performance targets for the fourth reference period
+
+**KEY PERFORMANCE AREA OF SAFETY**
+
+<table>
+<tbody><tr><td>Poland</td><td colspan="6">Targets on the effectiveness of safety management, expressed as a level of implementation, ranging from European Aviation Safety Agency (‘EASA’) level A to D</td></tr>
+<tr><td>Air navigation service providers</td><td>Safety management objective</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td></tr>
+<tr><td rowspan="5">PANSA</td><td>Safety policy and objectives</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety risk management</td><td>C</td><td>C</td><td>C</td><td>C</td><td>D</td></tr>
+<tr><td>Safety assurance</td><td>B</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety promotion</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td>Safety culture</td><td>B</td><td>B</td><td>C</td><td>C</td><td>C</td></tr>
+<tr><td rowspan="5">Port Lotniczy Bydgoszcz S.A. Warmia i Mazury Sp. z o.o. </td><td>Safety policy and objectives</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>Safety risk management</td><td>C</td><td>C</td><td>C</td><td>C</td><td>D</td></tr>
+<tr><td>Safety assurance</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>Safety promotion</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td></tr>
+<tr><td>Safety culture</td><td>B</td><td>B</td><td>B</td><td>C</td><td>C</td></tr>
+</tbody>
+</table>
+
+**KEY PERFORMANCE AREA OF ENVIRONMENT**
+
+| Poland | 2025 | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| Targets in the key performance area of environment, expressed as the average horizontal en route flight efficiency of the actual trajectory | 4,51 % | 4,49 % | 4,47 % | 4,45 % | 4,43 % |
+
+**KEY PERFORMANCE AREA OF CAPACITY**
+
+| Poland | 2025 | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| Targets in the key performance area of capacity, expressed in minutes of en route ATFM delay per flight | 0,24 | 0,18 | 0,15 | 0,13 | 0,13 |
+
+**KEY PERFORMANCE AREA OF COST-EFFICIENCY**
+
+<table>
+<tbody><tr><td>En route charging zone of Poland</td><td>2019 baseline value</td><td>2024 baseline value</td><td>2025</td><td>2026</td><td>2027</td><td>2028</td><td>2029</td></tr>
+<tr><td rowspan="2">Targets and baseline values in the key performance area of cost-efficiency, expressed as determined unit cost (in real terms at 2022 prices)</td><td>PLN 211,01 </td><td>PLN 266,47 </td><td>PLN 255,95 </td><td>PLN 251,96 </td><td>PLN 247,50 </td><td>PLN 244,80 </td><td>PLN 239,46 </td></tr>
+<tr><td>EUR 45,09 </td><td>EUR 56,94 </td><td>EUR 54,69 </td><td>EUR 53,84 </td><td>EUR 52,89 </td><td>EUR 52,31 </td><td>EUR 51,17 </td></tr>
+</tbody>
+</table>
+
+ELI: http://data.europa.eu/eli/dec/2025/1051/oj
+
+ISSN 1977-0677 (electronic edition)

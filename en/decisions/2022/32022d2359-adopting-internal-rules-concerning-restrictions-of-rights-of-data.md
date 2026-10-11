@@ -1,0 +1,577 @@
+---
+title: "Decision (EU) 2022/2359 of the European Central Bank of 22 November 2022 adopting internal rules concerning restrictions of rights of data subjects in connection with the European Central Bank’s internal functioning (ECB/2022/42)"
+identifier: "32022D2359"
+eli: "http://data.europa.eu/eli/dec/2022/2359/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2022-11-22
+entry_into_force: 2023-01-12
+last_amended: 2024-04-11
+consolidated_version: "02022D2359-20240411"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022D2359-20240411"
+retrieved: 2026-10-11
+---
+
+# Decision (EU) 2022/2359 of the European Central Bank of 22 November 2022 adopting internal rules concerning restrictions of rights of data subjects in connection with the European Central Bank’s internal functioning (ECB/2022/42)
+
+**DECISION (EU) 2022/2359 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 November 2022**
+
+**adopting internal rules concerning restrictions of rights of data subjects in connection with the European Central Bank’s internal functioning (ECB/2022/42)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2024/901 OF THE EUROPEAN CENTRAL BANK of 12 March 2024 </td><td> L 901</td><td>1</td><td>22.3.2024</td></tr>
+</table>
+
+**DECISION (EU) 2022/2359 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 November 2022**
+
+**adopting internal rules concerning restrictions of rights of data subjects in connection with the European Central Bank’s internal functioning (ECB/2022/42)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Decision sets out rules relating to the restriction of the rights of data subjects by the ECB when conducting personal data processing activities, as recorded in the central register, in connection with its internal functioning.
+
+2\. The rights of data subjects which may be restricted are specified in the following Articles of Regulation (EU) 2018/1725:
+
+(a) Article 14 (transparent information, communication and modalities for the exercise of the rights of the data subject);
+
+(b) Article 15 (information to be provided where personal data are collected from the data subject);
+
+(c) Article 16 (information to be provided where personal data have not been obtained from the data subject);
+
+(d) Article 17 (right of access by the data subject);
+
+(e) Article 18 (right to rectification);
+
+(f) Article 19 (right to erasure (‘right to be forgotten’));
+
+(g) Article 20 (right to restriction of processing);
+
+(h) Article 21 (notification obligation regarding rectification or erasure of personal data or restriction of processing);
+
+(i) Article 22 (right to data portability);
+
+(j) Article 35 (communication of a personal data breach to the data subject);
+
+(k) Article 36 (confidentiality of electronic communications);
+
+(l) Article 4 in so far as its provisions correspond to the rights and obligations provided for in Articles 14 to 22 of Regulation (EU) 2018/1725.
+
+## Article 2 — Definitions
+
+For the purposes of this Decision, the following definitions apply:
+
+(1) ‘processing’ means processing as defined in point (3) of Article 3 of Regulation (EU) 2018/1725;
+
+(2) ‘personal data’ means personal data as defined in point (1) of Article 3 of Regulation (EU) 2018/1725;
+
+(3) ‘data subject’ means an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+
+(4) ‘central register’ means the publicly available repository of all personal data processing activities conducted at the ECB which is kept by the DPO and referred to in Article 9 of Decision (EU) 2020/655 (ECB/2020/28);
+
+(5) ‘controller’ means the ECB, and in particular the competent organisational unit within the ECB which, alone or jointly with others, determines the purposes and means of the processing of personal data and which is responsible for the processing operation;
+
+(6) ‘Union institutions and bodies’ means Union institutions and bodies as defined in point (10) of Article 3 of Regulation (EU) 2018/1725.
+
+## Article 3 — Application of restrictions
+
+1\. For personal data processing activities set out in Article 1(1) the controller may restrict the rights referred to in Article 1(2) to safeguard the interests and objectives referred to in Article 25(1) of Regulation (EU) 2018/1725, where the exercise of those rights would endanger any of the following:
+
+(a) the assessment and reporting of potential breaches of professional duties and, where necessary, their subsequent investigation and follow-up, including suspension from duties, the safeguarding of which is in accordance with points (b), (c), (f) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(b) the informal and/or formal dignity at work procedures, including the consideration of cases that may result in such a procedure as set out in Part 0.5 of the ECB Staff Rules, the safeguarding of which is in accordance with points (b), (c), (f) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(c) the proper performance of DG/HR’s functions under the employment law framework at the ECB relating to performance management, promotion procedures or the direct appointment of ECB personnel, selection procedures and professional development, the safeguarding of which is in accordance with points (c) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(d) the examination of internal appeals brought by ECB personnel (including through administrative review or grievance procedures, special appeal procedures or medical committees) and their follow up, the safeguarding of which is in accordance with points (b), (c) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(e) the reporting of any illegal activity or breach of professional duties via the ECB’s whistleblowing tool or the assessment of requests by the Compliance and Governance Office (CGO) for protection of whistle-blowers or witnesses from retaliation, the safeguarding of which is in accordance with points (b), (c), (f) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(f) the activities of the CGO under the Ethics Framework of the ECB set out in Part 0 of the ECB Staff Rules and the rules on selection and appointment set out in Part 1A of the ECB Staff Rules, and the monitoring for compliance purposes of private financial activities including both the functions exercised by the external service provider appointed pursuant to Article 0.4.3.3 of the ECB Staff Rules and the assessment and follow-up of potential breaches resulting from such monitoring by the CGO, the safeguarding of which is in accordance with points (b), (c), (f) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(g) audits undertaken by the Directorate Internal Audit, investigative activities and internal administrative inquiries, the safeguarding of which is in accordance with points (b), (c) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(h) the performance of the ECB’s functions pursuant to Decision (EU) 2016/456 (ECB/2016/3), in particular the duty of the ECB to report any information about illegal activity, the safeguarding of which is in accordance with points (b), (c), (g) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(i) investigations conducted by the DPO on processing activities carried out at the ECB pursuant to point (b) of Article 4 of Decision (EU) 2020/655 (ECB/2020/28), the safeguarding of which is in accordance with points (b) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(j) investigations for the purposes of ensuring physical security at the ECB of persons, premises and property, whether handled internally or with external support, the gathering of threat intelligence and security incidents analysis, the safeguarding of which is in accordance with points (b), (c), (d) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(k) judicial proceedings, the safeguarding of which is in accordance with points (b), (c) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(l) the cooperation between the ECB and national criminal investigation authorities, in particular the provision of confidential information held by the ECB for disclosure to a national criminal investigation authority at the request of the latter, the safeguarding of which is in accordance with points (b), (c), (d) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(m) the cooperation between the ECB and the EPPO pursuant to Regulation (EU) 2017/1939, in particular the duty of the ECB to provide information about offences, the safeguarding of which is in accordance with points (b), (c), (d) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(n) the cooperation with EU bodies exercising a supervisory, oversight or auditing function to which the ECB is subject, the safeguarding of which is in accordance with points (c), (d), (g) and/or (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(o) the performance of a mediator’s tasks pursuant to the internal dispute resolution framework at the ECB, in particular giving support to help resolve or prevent a work-related dispute, the safeguarding of which is in accordance with point (h) of Article 25(1) of Regulation (EU) 2018/1725;
+
+(p) the provision of the counselling services by the social counsellor to support ECB personnel, the safeguarding of which is in accordance with point (h) of Article 25(1) of Regulation (EU) 2018/1725.
+
+The categories of personal data in relation to which restrictions referred to in paragraph 1 may be applied are specified in Annexes I to XIV to this Decision.
+
+2\. The controller may only apply a restriction where on a case-by-case assessment it concludes that the restriction:
+
+(a) is necessary and proportionate taking into account the risks to the rights and freedoms of the data subject; and
+
+(b) respects the essence of the fundamental rights and freedoms in a democratic society.
+
+3\. The controller shall document its assessment in an internal assessment note which shall include the legal basis, the reasons for the restriction, the rights of the data subjects that are restricted, the data subjects affected, the necessity and proportionality of the restriction and the likely duration of the restriction.
+
+4\. A decision to restrict the rights of a data subject pursuant to paragraph 1 that is to be taken by the controller shall be made at the level of the relevant business area head in whose business area the main processing operation involving the personal data is carried out. If such main processing operation is carried out by a function that is not part of a business area, such a decision shall be made at the level of the holder of the function.
+
+5\. For the purposes of paragraph 4, where the relevant business area head is unavailable due to absence, or has an actual or perceived conflict of interest, or has access to relevant confidential information, a decision to restrict the rights of a data subject pursuant to paragraph 1 that is to be taken by the controller shall be made by the deputy head of the business area in which the main processing operation involving the personal data is carried out.
+
+Where there is no such deputy head, such a decision shall be made by the line manager competent to do so in the case of absence, conflict of interest or access to relevant confidential information of the relevant business area head.
+
+## Article 4 — Provision of general information on restrictions
+
+The controller shall provide general information on the potential restriction of data subject rights as follows:
+
+(a) the controller shall specify the rights which may be restricted, the reasons for restriction and the potential duration;
+
+(b) the controller shall include the information referred to in point (a) in its data protection notices, privacy statements and records of processing activities as referred to in Article 31 of Regulation (EU) 2018/1725.
+
+## Article 5 — Restriction of right of access by data subjects, right to rectification, right of erasure or restriction of processing
+
+1\. Where the controller restricts, wholly or partially, the right of access, the right to rectification, the right of erasure or the right to restriction of processing, respectively referred to in Articles 17, 18, 19(1) and 20(1) of Regulation (EU) 2018/1725, it shall, within the period referred to in Article 11(5) of Decision (EU) 2020/655 (ECB/2020/28), inform the data subject concerned, in its written reply to the request, of the restriction applied, the principal reasons for the restriction, the possibility of lodging a complaint with the European Data Protection Supervisor and of seeking a judicial remedy in the Court of Justice of the European Union.
+
+2\. The controller shall keep the internal assessment note referred to in Article 3(3) and, where applicable, the documents containing underlying factual and legal elements and make these available to the DPO and European Data Protection Supervisor on request.
+
+3\. The controller may defer, omit or deny the provision of information concerning the reasons for the restriction referred to in paragraph 1 for as long as that provision of information would undermine the purpose of the restriction. As soon as the controller determines that providing the information no longer undermines the purpose of the restriction, the controller shall provide that information to the data subject.
+
+## Article 6 — Duration of restrictions
+
+1\. The controller shall lift a restriction as soon as the circumstances that justified that restriction no longer apply.
+
+2\. Where the controller lifts a restriction pursuant to paragraph 1, the controller shall promptly:
+
+(a) to the extent it has not already done so, inform the data subject of the principal reasons on which the application of a restriction was based;
+
+(b) inform the data subject of his or her right to lodge a complaint with the European Data Protection Supervisor or to seek a judicial remedy before the Court of Justice of the European Union;
+
+(c) grant the data subject the right that was subject to the restriction that has been lifted.
+
+3\. The controller shall reassess every six months the need to maintain a restriction applied pursuant to this Decision and shall document its reassessment in an internal assessment note.
+
+## Article 7 — Safeguards
+
+The ECB shall apply organisational and technical safeguards as set out in Annex XV to prevent abuse or unlawful access or transfer.
+
+## Article 8 — Review by the DPO
+
+1\. Where the controller restricts the application of a data subject’s rights, it shall continuously involve the DPO. In particular, the following shall apply:
+
+(a) the controller shall, without undue delay, consult the DPO;
+
+(b) on the DPO’s request, the controller shall provide the DPO with access to any documents containing underlying factual and legal elements, including the internal assessment note referred to in Article 3(3);
+
+(c) the controller shall document how the DPO was involved including relevant information that was shared, in particular the date of its first consultation as referred to in point (a);
+
+(d) the DPO may request the controller to review the restriction;
+
+(e) the controller shall inform the DPO in writing of the outcome of the review requested without undue delay and in any case before any restriction is applied.
+
+2\. The controller shall inform the DPO when the restriction has been reassessed in accordance with Article 6(3) or when it has been lifted.
+
+## Article 9 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX I — Assessment and reporting of potential breaches of professional duties and, where necessary, their subsequent investigation and follow-up
+
+The restriction referred to in point (a) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) location data;
+
+g) data concerning goods or services provided;
+
+h) data on external activities;
+
+i) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+j) any other data relating to the assessment and reporting of potential breaches of professional duties and, where necessary, subsequent investigation and follow-up.
+
+## ANNEX II — Informal and/or formal dignity at work procedures, including the consideration of cases that may result in such a procedure as set out in Part 0.5 of the ECB Staff Rules
+
+The restriction referred to in point (b) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) location data;
+
+g) data concerning goods or services provided;
+
+h) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+i) any other data relating to informal and/or formal dignity at work procedures, including the consideration of cases that may result in such a procedure as set out in Part 0.5 of the ECB Staff Rules.
+
+## ANNEX III — The performance of DG/HR’s functions under the employment law framework at the ECB
+
+The restriction referred to in point (c) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) location data;
+
+g) data concerning goods or services provided;
+
+h) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+i) any other data included in, or relating to, considerations of individual cases, in particular those that may result in a decision adversely affecting ECB personnel and the examination of internal appeals brought by ECB personnel and their follow-up;
+
+j) any other data relating to selection procedures.
+
+## ANNEX IV — The examination of internal appeals and their follow-up
+
+The restriction referred to in point (d) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) location data;
+
+g) data concerning goods or services provided;
+
+h) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+i) any other data included in, or relating to, considerations of individual cases, in particular those that may result in a decision adversely affecting ECB personnel and the examination of internal appeals brought by ECB personnel and their follow-up.
+
+## ANNEX V — The reporting of any illegal activity or any breach of professional duties submitted via any channel, including via the ECB’s whistleblowing tool, or the Compliance and Governance Office’s assessment of requests for protection of whistle-blowers or witnesses
+
+The restriction referred to in point (e) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) location data;
+
+g) data concerning goods or services provided;
+
+h) data on external activities;
+
+i) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+j) any other data relating to any alleged illegal activity or alleged breach of professional duties or to any request for the protection of whistle-blowers or witnesses.
+
+## ANNEX VI — Activities of the CGO under the ECB Staff Rules
+
+The restriction referred to in point (f) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership, genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+h) any other data relating to any activities reported to, or investigated by, the CGO.
+
+## ANNEX VII — Audits undertaken by the Directorate Internal Audit and investigative activities or internal administrative inquiries
+
+The restriction referred to in point (g) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) location data;
+
+h) data concerning goods or services provided;
+
+i) social and behavioural data and other types of data specific to the processing operation;
+
+j) information regarding administrative proceedings or any other investigations;
+
+k) electronic traffic data;
+
+l) video surveillance data;
+
+m) audio recordings;
+
+n) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+o) data relating to criminal proceedings, any sanction or other administrative penalty;
+
+p) any other data relating to audits undertaken by the Directorate Internal Audit and any investigative activity or internal administrative inquiry.
+
+## ANNEX VIII — The performance of the ECB’s functions pursuant to Decision (EU) 2016/456 (ECB/2016/3)
+
+The restriction referred to in point (h) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay or allowances, or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) location data;
+
+h) data on goods or services provided;
+
+i) electronic traffic data;
+
+j) video surveillance data;
+
+k) audio recordings;
+
+l) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+m) any other data relating to the performance of the ECB’s functions pursuant to Decision (EU) 2016/456 (ECB/2016/3).
+
+## ANNEX IX — Investigations conducted by the DPO pursuant to point (b) of Article 4 of Decision (EU) 2020/655 (ECB/2020/28)
+
+The restriction referred to in point (i) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay or allowances, or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) location of data;
+
+h) data concerning goods or services provided;
+
+i) electronic traffic data;
+
+j) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+k) any other data relating to any investigation conducted by the DPO pursuant to point (b) of Article 4 of Decision (EU) 2020/655 (ECB/2020/28).
+
+## ANNEX X — Investigations for the purpose of ensuring physical security at the ECB of persons, premises and property, the gathering of threat intelligence and security incidents analysis
+
+The restriction referred to in point (j) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) location data;
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) electronic traffic data;
+
+g) video surveillance data;
+
+h) audio recordings;
+
+i) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+j) data concerning pending criminal cases or criminal records;
+
+k) any other data relating to investigations for the purpose of ensuring physical security at the ECB of persons, premises and property, to threat intelligence or to security incidents analysis.
+
+## ANNEX XI — Judicial Proceedings
+
+The restriction referred to in point (k) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) location of data;
+
+h) electronic traffic data;
+
+i) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+j) any other data relating to judicial proceedings.
+
+## ANNEX XII — The cooperation between the ECB and national criminal investigation authorities, the EPPO and EU bodies exercising a supervisory, oversight or auditing function to which the ECB is subject
+
+The restriction referred to in points (l) to (n) of Article 3(1) of this Decision may be applied in relation to all the categories of personal data mentioned in Annex I to XI, as well as the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) identification data;
+
+b) contact data;
+
+c) professional data, including data concerning education, training and employment details;
+
+d) financial details (e.g. information about pay, allowances or private transactions);
+
+e) data concerning family, lifestyle and social circumstances;
+
+f) data on external activities;
+
+g) location data;
+
+h) data concerning goods or services provided;
+
+i) video surveillance data;
+
+j) electronic traffic data;
+
+k) audio recordings;
+
+l) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+m) information regarding administrative proceedings or any other investigations;
+
+n) data relating to criminal proceedings, any sanction or other administrative penalty;
+
+o) any other data relating to the cooperation between the ECB and national criminal investigation authorities, the EPPO and EU bodies exercising a supervisory, oversight or auditing function to which the ECB is subject.
+
+## ANNEX XIII — The performance of the mediator’s tasks
+
+The restriction referred to in point (o) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) contact data;
+
+b) professional data, including data concerning education, training and employment details;
+
+c) financial details (e.g. information about pay, allowances or private transactions);
+
+d) data concerning family, lifestyle and social circumstances;
+
+e) social and behavioural data and other types of data specific to the processing operation;
+
+f) information regarding administrative proceedings or any other regulatory investigations;
+
+g) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+h) any other data relating to the performance of the mediator’s tasks.
+
+## ANNEX XIV — The provision of the counselling services by the social counsellor
+
+The restriction referred to in point (p) of Article 3(1) of this Decision may be applied in relation to the categories of data mentioned in the relevant records of processing, in particular, the following categories of personal data:
+
+a) contact data;
+
+b) professional data, including data concerning education, training and employment details;
+
+c) financial details (e.g. information about pay, allowances or private transactions);
+
+d) data concerning family, lifestyle and social circumstances;
+
+e) social and behavioural data and other types of data specific to the processing operation;
+
+f) information regarding administrative proceedings or any other regulatory investigations;
+
+g) data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership; genetic data or biometric data; data concerning health; or data regarding a natural person’s sex life or sexual orientation;
+
+h) any other data relating to the provision of the counselling services by the social counsellor.
+
+## ANNEX XV
+
+Organisational and technical safeguards at the ECB to prevent abuse or unlawful processing of personal data include:
+
+(a) as regard persons:
+
+(i) all persons who have access to non-public ECB information being responsible for knowing and applying the ECB’s policy and rules on the management and confidentiality of information;
+
+(ii) a security clearance process which ensures that only vetted and authorised persons have access to the ECB premises and its non-public information;
+
+(iii) IT, information and physical security awareness measures and trainings which are regularly held for ECB personnel and external service providers;
+
+(iv) ECB personnel being subject to strict rules of professional secrecy set out in the ECB Conditions of Employment and Staff Rules, the breach of which gives rise to disciplinary sanctions;
+
+(v) rules and obligations governing external service providers’ or contractors’ access to non-public ECB information which are set out in contractual arrangements;
+
+(vi) access controls including security zoning which are enforced ensuring that access of persons to ECB non-public information is authorised and restricted based on business needs and security requirements;
+
+(b) as regard processes:
+
+(i) processes being in place to ensure the controlled implementation, operation and maintenance of IT applications supporting the ECB’s business;
+
+(ii) using IT applications for the ECB’s business which comply with the ECB’s security standards;
+
+(iii) having a comprehensive physical security programme in operation which continuously assesses security threats and encompasses physical security measures to ensure an adequate level of protection;
+
+(c) as regard technology:
+
+(i) all electronic data being stored in IT applications complying with the ECB’s security standards and thus being protected against unauthorised access or alteration;
+
+(ii) IT applications being implemented, operated and maintained at a level of security commensurate to the IT applications’ confidentiality, integrity and availability needs, which are based on business impact analyses;
+
+(iii) the level of security of IT applications being regularly validated through technical and non-technical security assessments;
+
+(iv) access to ECB non-public information being granted in accordance with the need-to-know principle, and privileged access being strictly limited and tightly controlled;
+
+(v) controls being implemented to detect and follow up on actual and potential security breaches.

@@ -1,0 +1,278 @@
+---
+title: "Commission Implementing Decision (EU) 2022/696 of 29 April 2022 granting a derogation requested by Ireland pursuant to Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources (notified under document C(2022) 2596) (only the English and the Irish texts are authentic)"
+identifier: "32022D0696"
+eli: "http://data.europa.eu/eli/dec_impl/2022/696/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-04-29
+entry_into_force: 2020-02-21
+last_amended: 2026-01-06
+consolidated_version: "02022D0696-20260106"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022D0696-20260106"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2022/696 of 29 April 2022 granting a derogation requested by Ireland pursuant to Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources (notified under document C(2022) 2596) (only the English and the Irish texts are authentic)
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2022/696**
+
+**of 29 April 2022**
+
+**granting a derogation requested by Ireland pursuant to Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources**
+
+**(notified under document C(2022) 2596)**
+
+**(only the English and the Irish texts are authentic)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2026/67 of 22 December 2025 </td><td> L 67</td><td>1</td><td>6.1.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2022/696**
+
+**of 29 April 2022**
+
+**granting a derogation requested by Ireland pursuant to Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources**
+
+**(notified under document C(2022) 2596)**
+
+**(only the English and the Irish texts are authentic)**
+
+## Article 1 — Derogation
+
+The derogation requested by Ireland, by letter of 14 October 2021, for the purpose of allowing the application to the land of a higher amount of nitrogen from livestock manure than that provided for in paragraph 2, second subparagraph, first sentence, of Annex III to Directive 91/676/EEC, namely 170 kg nitrogen, is granted, subject to the conditions laid down in Articles 4 to 12 of this Decision.
+
+## Article 2 — Definitions
+
+For the purpose of this Decision, the following definitions shall apply:
+
+(a) ‘grass’ means permanent grassland or temporary grazing land of less than 4 years;
+
+(b) ‘grassland farms’ means holdings where 80 % or more of the agricultural area available for manure application is grass;
+
+(c) ‘grazing livestock’ means cattle (with the exclusion of veal calves), sheep, deer, goats and horses;
+
+(d) ‘parcel’ means an individual field or a group of fields, homogeneous regarding cropping, soil type and fertilisation practices;
+
+(e) ‘fertilisation plan’ means an advance calculation about the planned use and availability of nutrients;
+
+(f) ‘fertilisation account’ means the nutrient balance based on the real use and uptake of nutrients;
+
+(g) ‘commonage’ means a land parcel which is held by two or more persons in specified shares or jointly and originally purchased from the Irish Land Commission under the Land Purchase Acts, including land over which two or more persons have grazing rights or the right to take turf.
+
+## Article 3 — Scope
+
+The derogation granted pursuant to Article 1 shall apply to grassland farms for which an authorisation has been granted in accordance with Article 5 (‘an authorisation’).
+
+## Article 3a — General conditions for Ireland from 2026 to 2028
+
+1\. Ireland shall as soon as possible and at the latest by the end of 2028 complete the environmental assessments pursuant to Article 6(2) and (3) of Directive 92/43/EEC and Article 4(1) of Directive 2000/60/EC, taking into account the judgment of the Court of Justice of the European Union in case C-531/24, and, where feasible within the same timeframe, put in place mitigation measures, inter alia, through the Irish Action Programme to ensure that the authorisations do not undermine the attainment of the objectives of those directives.
+
+2\. Ireland shall review, as appropriate, the conditions in the Irish Nitrate Action Programme as soon as possible, and at the latest by the end of 2028, after the judgment of the Court of Justice of the European Union in case C-531/24.
+
+3\. As of 2026, Ireland shall implement measures to ensure that on all dairy farms with lands distributed over a wider area and with a very high stocking rate on the land closest to the farmyard, referred to as the milking platform, cattle slurry produced on the holding is applied outside the milking platform and across the farms lands or otherwise a lower chemical fertiliser allowance applies.
+
+4\. As of 1 October 2028 at the latest, Ireland shall increase the required storage capacity for livestock manure and soiled water on all dairy farms in line with current knowledge reflecting developments in dairy breeding and associated farming systems.
+
+## Article 4 — Annual application and commitment
+
+1\. Grassland farmers who want to benefit from a derogation shall, each year, submit an application for an authorisation to apply livestock manure containing up to 250 kg nitrogen/ha per year to the competent authorities. The application shall contain a declaration stating that the grassland farmer will submit to the controls provided for in Article 11.
+
+2\. In the application referred to in paragraph 1, the applicant shall undertake, in writing, to fulfil the conditions laid down in Articles 6 to 9.
+
+## Article 5 — The granting of authorisations
+
+Authorisations to apply an amount of livestock manure on grassland farms containing up to 250 kg nitrogen/ha per year shall be granted subject to the conditions laid down in Articles 6 to 9.
+
+As of 1 January 2028, in addition to the requirements set out in the first subparagraph, authorisations in areas draining into the Barrow, Slaney, Nore and Blackwater rivers and their tributaries shall be granted subject to the conditions laid down in Article 9a.
+
+## Article 6 — Conditions regarding application of manure and other fertilisers
+
+1\. The amount of livestock manure from grazing livestock applied to the land each year on grassland farms, including by the animals themselves, shall not exceed the amount of manure containing 250 kg nitrogen/ha per year, subject to the conditions laid down in paragraphs 2 to 6 of this Article. From 2024, as a consequence of the two-year review, this maximum amount shall not exceed 220 kg nitrogen/ha per year in the areas referred to in Article 12.
+
+2\. The total nitrogen inputs shall neither exceed the foreseeable nutrient demand of each crop nor the maximum fertilisation rate applicable to grassland farms as established in the Nitrates Action Programme, and shall take into account the supply from the soil. Total nitrogen application shall be differentiated on the basis of the stocking rate and grassland productivity.
+
+3\. A fertilisation plan shall be prepared and kept for each grassland farm. The fertilisation plan shall describe the crop rotation of the farmland and the planned application of manure and other fertilisers. That plan shall be available on the grassland farm for each calendar year, before 1 March of that year. That plan shall include at least the following:
+
+(a) the crop rotation plan specifying the following:
+
+(i) the acreage of parcels with grass;
+
+(ii) the acreage of parcels with crops other than grass;
+
+(iii) a sketch map indicating the location of individual parcels;
+
+(b) the number of livestock on the grassland farm;
+
+(c) a description of the housing and manure storage system, including the volume of manure storage available;
+
+(d) a calculation of the manure nitrogen and phosphorus produced on the grassland farm;
+
+(e) the amount, type and characteristics of manure delivered outside the grassland farm or to the grassland farm;
+
+(f) the foreseeable nitrogen and phosphorus crop requirements for each parcel;
+
+(g) results of soil analysis related to nitrogen and phosphorus soil status if available;
+
+(h) the nature of the fertiliser to be used;
+
+(i) a calculation of nitrogen and phosphorus application from manure for each parcel;
+
+(j) a calculation of nitrogen and phosphorus application from chemical and other fertilisers for each parcel.
+
+The fertilisation plan shall be revised no later than 7 days following any change in agricultural practices at the grassland farm.
+
+A liming programme shall be adopted for the farm based on a nutrient management plan and the soil analysis results. Where the lime requirement outlined in the soil analysis report does not exceed 5 tonnes per hectare, the full lime requirement shall be applied within two years of the date of issue of that report. Where the lime requirement outlined in the soil analysis report exceeds 5 tonnes per hectare, at least 5 tonnes of lime shall be applied per hectare within two years of the date of issue of that report.
+
+The grassland farm shall be registered in Ireland’s national fertiliser database and shall comply in full with Statutory Instrument No 378 of 2023, National Fertiliser Database Regulations 2023. The grassland farm shall also declare the closing stocks of chemical fertiliser and lime on their holding at 23:59 on 14 September each year and through a declaration of ‘Nil Closing Stock’ where appropriate.
+
+4\. Livestock manure shall not be spread in the autumn before grass cultivation.
+
+5\. At least 50 % of slurry produced on the grassland farm shall be applied by 15 June. Low-emission slurry spreading equipment shall be used for all slurry applications.
+
+6\. The stocking rate allowance on commonage areas shall not exceed 50 kg nitrogen/ha. Chemical fertiliser shall not be permitted on commonage areas.
+
+7\. The stocking rate allowance for land located outside a 30 km radius from the grassland farm’s hub shall not exceed 170 kg livestock manure nitrogen per hectare per year, unless the competent authority finds that there is demonstrable evidence that that land is being farmed at a stocking rate greater than 170 kg livestock manure nitrogen per hectare per year.
+
+## Article 7 — Conditions regarding soil sampling and analyses
+
+1\. Periodic nitrogen and phosphorus analysis in soil shall be done for each grassland farm.
+
+2\. Sampling and analysis shall be carried out at least once every 4 years for each type of area with similar features with regard to crop rotation and soil characteristics.
+
+3\. At least one analysis per every five hectares of grassland farm shall be carried out.
+
+4\. The results of the nitrogen and phosphorus analysis in soil shall be available for inspection at the grassland farm.
+
+## Article 8 — Conditions regarding land management
+
+1\. Farmers who wish to plough grassland shall do so between 1 March and 31 May.
+
+2\. Ploughed grass on all soil types shall be followed by a crop with high nitrogen demand immediately and no later than 3 weeks after ploughing grass.
+
+3\. Crop rotation shall not include leguminous or other plants fixing atmospheric nitrogen. This shall, however, not apply to clover in grassland with less than 50 % clover and to other leguminous plants that are undersown with grass.
+
+4\. All new grass reseeds on the grassland farm shall incorporate at least 1,5 kg/ha of naked clover seed or at least 2,5 kg/ha of pelleted clover.
+
+5\. Parcels shall be equipped with fences ensuring a minimum distance of 1,5 metres between livestock and watercourses, and drinking points shall be installed at a minimum distance of 20 metres from a watercourse.
+
+6\. No later than the end of the second year availing of the authorisation subject to this Decision, the grassland farm shall:
+
+(a) have its nutrient balance calculated using appropriate software technology accepted by the competent authority;
+
+(b) complete a programme of training in grassland management prescribed by the competent authority.
+
+7\. The grass produced annually on the grassland farm shall be recorded with at least 20 grass measurements for each grassland parcel each year using appropriate software technology as accepted by the competent authority. A minimum of five days shall be observed between grass measurements.
+
+8\. The grassland farm shall adopt at least one of the following measures:
+
+(a) when hedge cutting, at least one Whitethorn/Blackthorn tree shall be retained within each hedgerow and allowed to mature;
+
+(b) hedgerows shall be maintained on a minimum three-year cycle and cut in rotation to ensure that some areas of hedgerows on the farm will flower and produce berries every year.
+
+## Article 9 — Condition for livestock feeding
+
+A maximum crude protein content of 14 % shall be allowed in concentrate feed fed to dairy cows and other cattle aged two years old and over on grass between 15 April and 30 September. Records of the crude protein content of concentrate feed shall be kept and made available for inspection by the competent authority on request.
+
+## Article 9a — Additional conditions for granting authorisations in 2028
+
+1\. From 1 January 2028, the annual maximum grassland fertilisation rate from chemical fertilisers on holdings with an authorisation shall be reduced so that as of 2028 the rates are 5 % lower than the rates published in the Irish Action Programme as implemented in Statutory Instrument No 42 of 2025, European Union (Good Agricultural Practice for Protection of Waters) Regulation 2022, as amended. If a revision of the fertilisation norms sets lower values, those lower values shall apply.
+
+2\. From 1 January 2028, on holdings with an authorisation, chemical fertilisers shall not be applied to grassland within 4 meters of any surface waters, unless the Irish Action Programme sets out stricter requirements, in which case those stricter requirements shall apply. From 1 January 2028, organic fertilisers, including manure and soiled water, shall not be applied to land in the same areas within 8 meters along any surface water and within 20 meters of any surface waters where the land has an average incline greater than 20 % towards the water, unless the Irish Action Programme sets out stricter requirements, in which case those stricter requirements shall apply.
+
+## Article 10 — Monitoring
+
+1\. The competent authorities shall ensure that maps are drawn up every year showing the following:
+
+(a) the percentage of grassland farms in each county which are covered by authorisations;
+
+(b) the percentage of livestock in each county which is covered by authorisations;
+
+(c) the percentage of agricultural land in each county which is covered by authorisations;
+
+(d) local land use.
+
+2\. The competent authorities shall monitor root zone water, surface water and groundwater. They shall also, both under derogation and non-derogation conditions, provide the Commission with data on nitrogen and phosphorus in the root zone and nitrate concentrations in surface and groundwater.
+
+3\. The monitoring shall be carried out at farm-field scale and in agricultural monitoring catchments. The monitoring sites shall be representative of the main soil types and levels of intensity, the prevalent fertilisation practices and the main crops.
+
+4\. The competent authorities shall conduct reinforced water monitoring in agricultural catchments located in proximity to the most vulnerable water bodies.
+
+5\. The competent authorities shall carry out surveys on local land use, crop rotations and agricultural practices for grassland farms covered by authorisations.
+
+6\. Information and data collected from nutrient analysis, as referred to in Article 7(1), (2) and (3), shall be used for model-based calculations of the magnitude of nitrate and phosphorus losses from grassland farms covered by authorisations.
+
+## Article 11 — Controls
+
+1\. The competent authorities shall carry out administrative controls in respect of all applications for authorisation to assess compliance with the conditions set out in Articles 6 to 9a. Where it is demonstrated that those conditions are not fulfilled, the application shall be refused and the applicant shall be informed of the reasons for the refusal. Every year, the competent authorities shall carry out administrative controls for at least 10 % of the grassland farms covered by authorisations with regard to land use, livestock number and type and manure production and export.
+
+2\. The competent authorities shall establish a programme for field inspections of grassland farms covered by authorisations on a risk basis and with appropriate frequency, taking account of the results of controls of the previous years and the results of general random controls of legislation transposing Directive 91/676/EEC and any other information that might indicate non-compliance with the conditions set out in Articles 6 to 9a. Every year, field inspections shall be carried out in at least 10 % of the grassland farms covered by authorisations to assess compliance with the conditions set out in Articles 6 to 9a.
+
+3\. Where it is established, in any year, that a grassland farm covered by an authorisation does not fulfil the conditions set out in Articles 6 to 9a, the holder of the authorisation shall be sanctioned in accordance with national rules and shall not be eligible for an authorisation the following year.
+
+4\. The competent authorities shall be granted the necessary powers and means to verify compliance with the conditions for an authorisation granted under this Decision to verify compliance with the conditions set out in Articles 6 to 9a prior to and after granting an authorisation under this Decision.
+
+## Article 12 — Two-year review
+
+1\. The competent authorities shall submit, by 30 June 2023, with the report described in Article 13, corresponding to the year 2022, an annex containing the results of monitoring as regards the nitrates concentrations of groundwater and surface waters and the trophic status of surface water bodies, based on the monitoring network and requirements of the Nitrates Directive 91/676/EEC and including at least maps showing those areas draining into waters where monitoring data reveal:
+
+(a) average values of nitrate concentrations above 50 mg/l or increasing trends of nitrates concentration compared to 2021;
+
+(b) ‘Eutrophic’ status or ‘could become eutrophic’ status with a stable or worsening trend compared to 2021.
+
+Waters identified by either point (a) or (b) of the first subparagraph shall be considered as polluted, at risk of pollution or showing worsening trends. The data for the estimation of the average values shall cover the period from 1 January 2020 to 31 December 2022. For the assessment of trends, the data from 2021 and 2022 shall be compared.
+
+2\. For the elaboration of the annex referred to in paragraph 1 of this Article, the data used shall be taken from the monitoring network set up under Directive 91/676/EEC.
+
+3\. As from 1 January 2024, in areas draining into polluted or at-risk-of-pollution waters or presenting worsening trends, additional measures shall be applied under the Nitrates Action Programme. For farms that have been granted an authorisation pursuant to this Decision and located in such areas, the amount of manure that may be applied to the land shall not exceed 220 kg nitrogen/ha per year.
+
+4\. The competent authorities shall inform the Commission, by 30 September 2023, of the outcomes of this two-year review, and in particular on the areas and farms with an authorisation where the maximum amount of manure to be applied is 220 kg nitrogen/ha per year and of the additional measures to be applied within the Nitrates Action Programme.
+
+## Article 13 — Reporting
+
+The competent authorities shall, every year by 30 June, submit a report to the Commission containing the following information:
+
+(a) maps showing the percentage of grassland farms, the percentage of livestock and the percentage of agricultural land covered by authorisations for each county, as well as maps on local land use, as referred to in Article 10(1);
+
+(b) the results of ground and surface water monitoring as regards nitrate and phosphorus concentrations, including information on water trends, both under derogation and non-derogation conditions, as well as the impact of the derogation granted under this Decision on water quality, as referred to in Article 10(2);
+
+(c) the results of soil monitoring as regards nitrogen and phosphorus concentrations in soil water and as regards mineral nitrogen in soil profile, both under derogation and non-derogation conditions, as referred to in Article 10(2);
+
+(d) a summary and an evaluation of data obtained from the reinforced water monitoring, as referred to in Article 10(4);
+
+(e) the results of the surveys on local land use, crop rotations and agricultural practices, as referred to in Article 10(5);
+
+(f) the results of the model-based calculations of the magnitude of nitrate and phosphorus losses, as referred to in Article 10(6);
+
+(g) an evaluation of the results of the administrative controls and field inspections as referred to in Article 11(1) and (2);
+
+(h) trends in livestock numbers and manure production for each livestock category and in grassland farms benefitting from an authorisation;
+
+(i) a comparative analysis of controls of grassland farms covered by authorisations and grassland farms not covered by authorisations, including data on the following:
+
+— field inspections;
+
+— administrative controls;
+
+— agricultural inspections in the context of cross-compliance arrangements;
+
+— statistics on non-compliance;
+
+(j) progress in carrying out the environmental assessments referred to in Article 3a(1).
+
+The spatial information contained in the report shall, where applicable, comply with Directive 2007/2/EC. In collecting the necessary data, Ireland shall, where appropriate, make use of the information generated under the Integrated Administration and Control System set up in accordance with Article 67(1) of Regulation (EU) No 1306/2013.
+
+## Article 14 — Application
+
+This Decision shall apply in the context of the Irish Action Programme as implemented in Statutory Instrument No 113 of 2022, European Union (Good Agricultural Practice for Protection of Waters) Regulations 2022, as amended, and in the context of the Irish Action Programme as implemented in Statutory Instrument No 588 of 2025.
+
+This Decision shall apply until 31 December 2028.
+
+## Article 15 — Addressee
+
+This Decision is addressed to Ireland.

@@ -1,0 +1,163 @@
+---
+title: "Commission Decision (EU) 2021/156 of 9 February 2021 renewing the mandate of the European Group on Ethics in Science and New Technologies"
+identifier: "32021D0156"
+eli: "http://data.europa.eu/eli/dec/2021/156/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2021-02-09
+entry_into_force: 2021-10-26
+last_amended: 2024-07-24
+consolidated_version: "02021D0156-20240724"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021D0156-20240724"
+retrieved: 2026-10-11
+---
+
+# Commission Decision (EU) 2021/156 of 9 February 2021 renewing the mandate of the European Group on Ethics in Science and New Technologies
+
+**COMMISSION DECISION (EU) 2021/156**
+
+**of 9 February 2021**
+
+**renewing the mandate of the European Group on Ethics in Science and New Technologies**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DECISION (EU) 2024/1997 of 22 July 2024 </td><td> L 1997</td><td>1</td><td>24.7.2024</td></tr>
+</table>
+
+**COMMISSION DECISION (EU) 2021/156**
+
+**of 9 February 2021**
+
+**renewing the mandate of the European Group on Ethics in Science and New Technologies**
+
+## Article 1 — Subject matter
+
+The European Group on Ethics in Science and New Technologies (‘EGE’) is set up.
+
+## Article 2 — Task
+
+The task of the EGE shall be to provide the Commission with independent advice on questions where ethical, societal and fundamental rights dimensions intersect with the development of science and new technologies, either at the request of the Commission or on its own initiative, expressed through its chairperson and agreed with the responsible Commission department.
+
+In particular, the EGE shall:
+
+(a) identify, define and examine ethical questions raised by developments in science and technologies;
+
+(b) provide guidance critical for the development, implementation and monitoring of Union policies or legislation in the form of analyses and recommendations, presented in opinions and statements, that shall be oriented towards the promotion of ethical Union policymaking, in accordance with the Charter of Fundamental Rights of the European Union.
+
+## Article 3 — Consultation
+
+The Commission may consult the EGE on any matter related to the tasks set out in Article 2. In that context, the Commission may draw the EGE’s attention to issues considered by the European Parliament and the Council to be of major ethical importance. The EGE shall be consulted as required by other expert bodies established by the Commission on matters related to the tasks set out in Article 2.
+
+## Article 4 — Membership
+
+1\. The EGE shall be composed of up to 15 members.
+
+2\. Members shall have competence in the tasks set out in Article 2.
+
+3\. Members shall be individuals appointed in a personal capacity.
+
+4\. Members shall act independently and in the public interest. Members shall inform in a timely manner the responsible Commission department, in the Directorate-General for Research and Innovation, of any conflict of interest which might undermine their independence.
+
+5\. Members who are no longer capable of contributing effectively to the EGE’s deliberations, who, in the opinion of the responsible Commission department, do not comply with the conditions set out in Article 339 of the Treaty on the Functioning of the European Union or who resign, shall no longer be invited to participate in any meetings of the group and may be replaced for the remainder of their term of office by a person appointed by the President of the Commission from the reserve list referred to in Article 5(7).
+
+## Article 5 — Selection process
+
+1\. The selection of the EGE’s members shall be carried out following a public call for applications to be published on the Register of Commission expert groups and other similar entities (‘the Register of expert groups’). In addition, the call for applications may be published through other means, including on dedicated websites. The call for applications shall clearly outline the selection criteria, including the required expertise in relation to the work to be performed. The minimum deadline for applications shall be four weeks.
+
+2\. Individuals applying for membership shall disclose any circumstances that could give rise to a conflict of interest. In particular, the responsible Commission department shall require those individuals to submit a declaration of interests (‘DOI’) form on the basis of the standard DOI form for expert groups, together with an updated curriculum vitae (CV), as part of their application. Submission of a duly completed DOI form shall be necessary in order to be eligible to be appointed as a member in a personal capacity. The conflict of interest assessment shall be performed in compliance with the horizontal rules.
+
+3\. The Members of the EGE shall be appointed by the President of the Commission, on the basis of a proposal from the member of the Commission responsible for the Commission department providing the secretariat of the EGE, from amongst specialists with competence in the areas referred to in Article 2 and who have responded to the call for applications.
+
+4\. The selection process shall be overseen by an Identification Committee. In particular, the Identification Committee shall assist the Commission in identifying and selecting potential members of the EGE and in assessing their availability and willingness to serve as such. The Identification Committee shall consist of three members, appointed on the basis of their relevant experience by the member of the Commission responsible for the Commission department providing the secretariat of the EGE and supported by a secretariat provided by the responsible Commission department. The Identification Committee shall make an assessment of the eligible candidates from the list submitted by the responsible Commission department on the basis of an initial assessment of all applications against the selection criteria. The Identification Committee shall submit its recommendation to the member of the Commission responsible for the Commission department providing the secretariat of the EGE.
+
+5\. Where selecting members of the EGE, the responsible Commission department shall aim at ensuring, as far as possible, a high level of expertise and pluralism, a geographical and gender balance, as well as a balanced representation of relevant know-how and areas of interest, taking into account the tasks of the EGE set out in Article 2, the type of expertise required and the response of the candidates to the call for applications.
+
+6\. Members shall be appointed for a term of maximum 3 years. They shall remain in office until replaced or until the end of their term of office. Their term of office may be renewed. Membership of the EGE shall be limited to a maximum of three terms.
+
+7\. The responsible Commission department shall establish a reserve list of suitable candidates that may be used to appoint members’ replacements. The responsible Commission department shall ask applicants for their consent before including their names on the reserve list.
+
+## Article 6 — Chair
+
+The EGE shall elect a chairperson and one or two deputy-chairpersons from amongst its members for the duration of up to their term of office by simple majority.
+
+## Article 7 — Operation
+
+1\. The responsible Commission department, acting in close cooperation with the EGE’s chairperson, shall be responsible for coordinating and organising the work of the EGE and for providing its secretariat.
+
+2\. Commission officials from other Commission departments with an interest in the proceedings may request to attend meetings of the EGE and its sub-groups.
+
+3\. The EGE Work Programme, including ethical analyses suggested on the own initiative of the EGE, shall be agreed by the responsible Commission department. Each request for an ethical analysis shall include the parameters of the requested analysis. The Commission shall, when seeking the advice of the EGE, set a time limit for the analysis.
+
+4\. EGE opinions shall include recommendations. They shall be based on an overview of the state of the art of the sciences and technologies concerned and a thorough analysis of the ethical issues at stake. Relevant services of the Commission shall be informed of the recommendations produced by the EGE.
+
+5\. The EGE shall operate in a collegial way. The working procedures, based on the rules of procedure, shall seek to ensure that all members may take an active role in the activities of the group. In principle, the group shall adopt its opinions and statements by consensus. In the event of a vote, the outcome of the vote shall be decided by simple majority of the members. The members who have voted against or abstained shall have the right to have a document summarising the reasons for their position (as a ‘minority opinion’) annexed to the opinion or statement together with the name(s) of the dissenting member(s).
+
+6\. Each opinion shall be transmitted to the President of the Commission or to a representative designated by the President. Each opinion shall be forthwith published and made available on the EGE website and be transmitted to the European Parliament and to the Council after its adoption by the EGE.
+
+7\. The meetings of the EGE shall be held on Commission premises, via videoconference or in hybrid mode, in accordance with the modalities and the calendar fixed by the responsible Commission department. The EGE shall meet between four to six times during a 12-month period. Further meetings may be organised when necessary, in agreement with the responsible Commission department.
+
+8\. For the purpose of the preparation of EGE analyses and within the limits of the available resources, the responsible Commission department may initiate studies in order to collect all necessary scientific and technical information and establish close links with representatives of the various ethics bodies in the Member States and in third countries.
+
+9\. The responsible Commission department shall organise a public round table in order to promote dialogue and improve transparency for the issues on which the EGE is working. The EGE shall establish close links with the Commission departments concerned by issues on which the EGE is working.
+
+10\. Where operational circumstances require that advice on a particular subject be given more quickly than the adoption of an opinion would allow, short statements or other forms of analyses can be issued, to be followed if necessary by a fuller analysis in the form of an opinion, while ensuring that transparency is respected as for any other opinion. Statements shall be published and made available on the EGE website. As part of its Work Programme, in agreement with the responsible Commission department, the EGE may update an opinion, if it considers it necessary.
+
+11\. The EGE's discussions shall be confidential. In agreement with the responsible Commission department, the EGE may, by a simple majority of its members, decide to open its deliberations to the public.
+
+12\. Minutes on the discussion on each point on the agenda and on the opinions delivered by the EGE shall be meaningful and complete. Minutes shall be drafted by the secretariat under the responsibility of the chairperson.
+
+## Article 8 — Sub-groups
+
+1\. The responsible Commission department may set up sub-groups for the purpose of examining specific questions on the basis of terms of reference defined by the responsible Commission department. Sub-groups shall operate in compliance with the horizontal rules and shall report to the EGE. They shall be dissolved as soon as their mandate is fulfilled.
+
+2\. The members of sub-groups that are not members of the EGE shall be selected via a public call for applications, in compliance with Article 5 and the horizontal rules ( 1 ).
+
+## Article 9 — Invited experts
+
+1\. The responsible Commission department may invite experts and representatives of relevant organisations with specific expertise or perspectives to take part in the work of the EGE or its sub-groups on an ad hoc basis for an exchange on a subject matter on the agenda.
+
+2\. The responsible Commission department may also enlist external experts to participate in the work of the EGE on an ad hoc basis should it be deemed necessary to cover the wide spectrum of ethical questions related to advances in science and new technologies.
+
+## Article 10 — Rules of procedure
+
+On a proposal by and in agreement with the responsible Commission department the EGE shall adopt its rules of procedure by simple majority of its members, on the basis of the standard rules of procedure for expert groups, in compliance with the horizontal rules.
+
+## Article 11 — Professional secrecy and handling of classified information
+
+The members of the EGE and members of sub-groups, as well as invited experts and members of the Identification Committee, are subject to the obligation of professional secrecy which, by virtue of the Treaties and the rules implementing them, applies to all members of the institutions and their staff, as well as to the Commission’s rules on security regarding the protection of Union classified information, laid down in Commission Decisions (EU, Euratom) 2015/443 ( 2 ) and (EU, Euratom) 2015/444 ( 3 ). Should they fail to respect these obligations, the Commission may take all appropriate measures.
+
+## Article 12 — Transparency
+
+1\. The EGE and its sub-groups shall be registered and the names of the members shall be published in the Register of expert groups.
+
+2\. All relevant documents, including the agendas, the minutes and the participants’ submissions, shall be made available either on the Register of expert groups or via a link from the Register to a dedicated website, where this information can be found. Access to dedicated websites shall not be submitted to user registration or any other restriction. In particular, the agenda and other relevant background documents shall be published in due time ahead of the meeting, followed by timely publication of minutes. Exceptions to publication shall only be foreseen where it is deemed that disclosure of a document would undermine the protection of a public or private interest as defined in Article 4 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 4 ).
+
+## Article 13 — Special allowances and meeting expenses
+
+1\. The members of the EGE shall be paid EUR 450 for each day of full attendance at a plenary meeting, EUR 225 for partial attendance, and EUR 225/450 for each half/full day of additional work in the service of the EGE. They shall not have an employment relationship with the Commission. The special allowances shall be paid to the members of the EGE, of its sub-groups and of the Identification Committee under Article 5(4) of this Decision according to Article 21(2) of the horizontal rules.
+
+2\. The members of the EGE may be asked by the Commission to devote up to 40 working days (including meetings and work) per year to these tasks. For the chairperson and deputy-chairpersons the maximum number is 60 working days.
+
+3\. Travel and subsistence expenses incurred by participants in the activities of the EGE and its sub-groups and by the members of the Identification Committee under Article 5(4) of this Decision shall be reimbursed by the Commission. Reimbursement shall be made in accordance with the rates provided under Article 13 of Annex VII to the Staff Regulations ( 5 ) and within the limits of the available appropriations allocated to the Commission services under the annual procedure for the allocation of resources.
+
+## Article 14 — Repeal
+
+Decision (EU) 2016/835 is repealed with effect from 28 May 2021.
+
+## Article 15 — Applicability
+
+Except for Article 5 and Article 13, this Decision shall apply as from 28 May 2021.
+
+( 1 ) See Articles 10 and 14(2) of the horizontal rules.
+
+( 2 ) Commission Decision (EU, Euratom) 2015/443 of 13 March 2015 on Security in the Commission (OJ L 72, 17.3.2015, p. 41).
+
+( 3 ) Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53).
+
+( 4 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43). These exceptions are intended to protect public security, military affairs, international relations, financial, monetary or economic policy, privacy and integrity of the individual, commercial interests, court proceedings and legal advice, inspections/investigations/audits and the institution's decision-making process.
+
+( 5 ) Regulation No 31 (EEC), 11 (EAEC), laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Economic Community and the European Atomic Energy Community (OJ 45, 14.6.1962, p. 1385, ELI: http://data.europa.eu/eli/reg/1962/11(3)/oj). [In the consolidated act, this footnote will be numbered ‘7’ instead of ‘3’.]

@@ -1,0 +1,150 @@
+---
+title: "Council Implementing Decision (CFSP) 2021/2016 of 18 November 2021 implementing Decision 2014/932/CFSP concerning restrictive measures in view of the situation in Yemen"
+identifier: "32021D2016"
+eli: "http://data.europa.eu/eli/dec/2021/2016/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-11-18
+entry_into_force: 2021-10-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D2016"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Decision (CFSP) 2021/2016 of 18 November 2021 implementing Decision 2014/932/CFSP concerning restrictive measures in view of the situation in Yemen
+
+**COUNCIL IMPLEMENTING DECISION (CFSP) 2021/2016**
+
+**of 18 November 2021**
+
+**implementing Decision 2014/932/CFSP concerning restrictive measures in view of the situation in Yemen**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,
+
+Having regard to Council Decision 2014/932/CFSP of 18 December 2014 concerning restrictive measures in view of the situation in Yemen (1), and in particular Article 3 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 18 December 2014, the Council adopted Decision 2014/932/CFSP.
+
+(2) On 9 November 2021, the United Nations Security Council Committee established pursuant to United Nations Security Council Resolution 2140 (2014) added three persons to the list of persons and entities subject to restrictive measures.
+
+(3) The Annex to Decision 2014/932/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Annex to Decision 2014/932/CFSP is hereby amended as set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+Done at Brussels, 18 November 2021.
+
+For the Council
+
+The President
+
+Z. ČERNAČ
+
+(1) OJ L 365, 19.12.2014, p. 147.
+
+## ANNEX
+
+The following entries are added to the list set out in the Annex to Decision 2014/932/CFSP (List of persons and entities referred to in Articles 1(1), 2a(1) and Article 2b(1) and (2)):
+
+‘7. Saleh Mesfer Saleh Al Shaer (aliases: (a) Saleh Mosfer Saleh al Shaer; (b) Saleh Musfer Saleh al Shaer; (c)Saleh Mesfer al Shaer; (d) Saleh al Shae; (e) Saleh al Sha’ir; (f) Abu Yasser).
+
+Original script: الشاعر صالح مسفر صالح
+
+Designation: Major General, ‘Judicial Custodian’ of properties and funds owned by Houthis’ opponents. Address: Yemen. Place of Birth: Al Safrah, Sa’dah Governorate, Yemen. Nationality: Yemen. Passport no: a) Yemen number 05274639, issued on 7.10.2013 (Expiration date: 7.10.2019) b) Yemen number 00481779, issued on 9.12.2000 (Expiration date: 9.12.2006) National identification no: a) Yemen 1388114 b) Yemen 10010057512. Other information: As Houthi ‘Assistant Minister of Defence for Logistics’, assisted the Houthis in acquiring smuggled arms and weapons. As ‘Judicial Custodian’ directly involved in the widespread and unlawful appropriation of assets and entities owned by private individuals under arrest by the Houthis or forced to take refuge outside of Yemen. Physical Description: Eye Colour: Brown; Hair: Grey; Complexion: Medium; Build: Slim; Height (ft/in): Unknown; Weight (lbs): Unknown; and Clan: Member of the Hashid tribal confederacy. Photograph available for inclusion in INTERPOL-UNSC Special Notice web link: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals. Date of UN designation: 9.11.2021.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+In accordance with Section 5(g) of its Guidelines, the Security Council Committee established pursuant to Resolution 2140 makes accessible a narrative summary of reasons for the listing for individuals, groups, undertakings and entities included in its sanctions list.
+
+Date on which the narrative summary became available on the Committee’s website: 9 November 2021
+
+Saleh Mesfer Saleh Al Shaer was listed on 9 November 2021 pursuant to paragraphs 11 and 15 of Resolution 2140 (2014) and paragraph 14 of Resolution 2216 (2015), as meeting the designation criteria set out in paragraphs 17 and 18(c) of Resolution 2140 (2014).
+
+Saleh Mesfer Saleh Al Shaer has engaged in acts and provided support for acts that threaten the peace, security and stability of Yemen, including directing acts that violate applicable international humanitarian law in Yemen.
+
+Additional information:
+
+With reference to the UN Panel of Experts’ Statement of Case of 28 August 2019, Saleh Mesfer Saleh Al Shaer has engaged in acts that threaten the peace, security, and stability of Yemen thereby meeting the criteria for designation as laid out in paragraph 17 of Resolution 2140 (2014). Serving as the Houthis’ Assistant Minister of Defence for Logistics, Saleh Mesfer Saleh Al Shaer assisted the Houthis in acquiring smuggled arms and weapons. He is also listed in connection with his direct involvement since early 2018 in the widespread and unlawful appropriation of assets and entities owned by private individuals under arrest by the Houthis or forced to take refuge outside of Yemen, in his capacity as ‘Judicial Custodian’ and in violation of international humanitarian law. Al Shaer has used his authority and a Sana’a based network comprising members of his family, a special criminal court, the national security bureau, the central bank, the registrar services of the Yemeni Ministry of Trade and Industry, and some private banks in order to arbitrarily dispossess selected private individuals and entities of their wealth without any due judicial process or a possibility of redress.
+
+8\. Muhammad Abd Al-Karim Al-Ghamari (aliases: (a) Mohammad Al-Ghamari).
+
+Original script الغماري محمد عبدالكریم
+
+Designation: Major General, Houthi Chief of General Staff. Address: Yemen. Date of Birth: a) 1979; b) 1984. Place of Birth: Izla Dhaen, Wahha District, Hajjar Governorate, Yemen. Nationality: Yemen. Other information: Houthi Military Chief of General Staff, plays the leading role in orchestrating the Houthis’ military efforts that are directly threatening the peace, security and stability of Yemen, including in Marib, as well as cross-border attacks against Saudi Arabia. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals. Date of UN designation: 9.11.2021
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+In accordance with Section 5(g) of its Guidelines, the Security Council Committee established pursuant to Resolution 2140 makes accessible a narrative summary of reasons for the listing for individuals, groups, undertakings and entities included in its sanctions list.
+
+Date on which the narrative summary became available on the Committee’s website: 9 November 2021
+
+Muhammad Abd Al-Karim Al-Ghamari was listed on 9 November 2021 pursuant to paragraphs 11 and 15 of Resolution 2140 (2014) and paragraph 14 of Resolution 2216 (2015), as meeting the designation criteria set out in paragraph 17 of Resolution 2140 (2014).
+
+Muhammad Abd Al-Karim Al-Ghamari has engaged in acts and provided support for acts that threaten the peace, security and stability of Yemen.
+
+Additional information:
+
+Al-Ghamari is listed for his involvement in and leadership of Houthi military campaigns that threaten the peace, security, and stability of Yemen thereby meeting the criteria for designation as laid out in paragraph 17 of Resolution 2140 (2014). Al-Ghamari, as Houthi Military Chief of General Staff, plays the leading role in orchestrating the Houthis’ military efforts that are directly threatening the peace, security and stability of Yemen, as well as cross-border attacks against Saudi Arabia. He most recently took charge of the large-scale Houthi offensive against Yemeni government-held territory in Marib governorate. The Marib offensive is exacerbating Yemen’s humanitarian crisis, as it puts approximately one million vulnerable internally displaced people at risk of being displaced yet again, lead to the deaths of civilians, and is triggering broader escalation of the conflict.
+
+— Al Estiklal profile – ‘Muhammad Al-Ghamari; The Houthi Leader Who Conveyed The Iranian “Revolutionary Guards” Experience To Yemen’ (https://www.alestiklal.net/en/view/8824/muhammad-al-ghamari-the-houthi-leader-who-conveyed-the-iranian-revolutionary-guards-experience-to-yemen) (accessed on 19.10.21)
+
+— Al Mashhad al-Yemeni (Arabic) – ‘Insurgency Leader Al-Huthi Appoints Prominent Commander To Lead Fighting in Al Hudaydah’ (https://www.almashhad-alyemeni.com/print~136875) (accessed on 19.10.21)
+
+— Al Mashhad al-Yemeni (Arabic) – Arabic report on appointment of al-Ghamari as ‘Commander in Chief’ in Marib (https://www.almashhad-alyemeni.com/195498) (accessed on 19.10.21)
+
+— Al Manar TV – ‘Yemeni Chief of Staff: Ready for Long-Term War with Saudi-led Coalition States’ (http://english.manartv.com.lb/842052) (accessed on 19.10.21)
+
+— Al Marjie (Arabic) – Profile of al-Ghamari https://www.almarjie-paris.com/1479 (accessed on 19.10.21)
+
+— Al Jazeera – ‘Houthis say they attacked Aramco, Patriot targets in Saudi Arabia’ (https://www.aljazeera.com/news/2021/4/15/yemens-houthis-say-attacked-aramco-patriot-targets-in-jazan) (accessed on 19.10.21)
+
+— Human Rights Watch – ‘Houthi Landmines Kill Civilians, Block Aid’ (https://www.hrw.org/news/2019/04/22/yemen-houthi-landmines-kill-civilians-block-aid) (accessed on 19.10.21)
+
+— The Missile War in Yemen: Report by Center for International and Strategic Studies (https://www.csis.org/analysis/missile-war-yemen-1) (accessed on 19.10.21)
+
+— Mines And IEDs Employed By Houthi Forces On Yemen’s West Coast: Report by Conflict Armament Research (https://www.conflictarm.com/dispatches/mines-and-ieds-employed-by-houthi-forces-on-yemens-west-coast/) (accessed on 19.10.21)
+
+9\. Yusuf Al-Madani
+
+Original script: یوسف المداني
+
+Title: Major General. Designation: Commander of the Houthi’s Fifth Military Region. Address: Yemen. Date of Birth: 1977. Place of Birth: Muhatta Directorate, Hajjah Province, Yemen. Nationality: Yemen. Other information: A prominent leader of Houthi forces and commander of forces in Hudaydah, Hajjah, Al Mahwit, and Raymah, Yemen – threatening the peace, security, and stability of Yemen. As of 2021, Al-Madani was assigned to the offensive targeting Marib. Photograph available for inclusion in INTERPOL-UN Security Council Special Notice web link: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals. Date of UN designation: 9.11.2021.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+In accordance with Section 5(g) of its Guidelines, the Security Council Committee established pursuant to Resolution 2140 makes accessible a narrative summary of reasons for the listing for individuals, groups, undertakings and entities included in its sanctions list.
+
+Date on which the narrative summary became available on the Committee’s website: 9 November 2021
+
+Yusuf Al-Madani was listed on 9 November 2021 pursuant to paragraphs 11 and 15 of Resolution 2140 (2014) and paragraph 14 of Resolution 2216 (2015), as meeting the designation criteria set out in paragraph 17 of Resolution 2140 (2014).
+
+Yusuf Al-Madani has engaged in acts and provided support for acts that threaten the peace, security and stability of Yemen.
+
+Additional information:
+
+Al-Madani is listed for his involvement in and leadership of Houthi military campaigns that threaten the peace, security, and stability of Yemen thereby meeting the criteria for designation as laid out in paragraph 17 of Resolution 2140 (2014). Al-Madani is a prominent leader of Houthi forces and is the commander of forces in Hudaydah, Hajjah, Al Mahwit, and Raymah, Yemen. As of 2021, Al-Madani was assigned to the offensive targeting Marib. Persistent Houthi repositioning and other violations of the ceasefire provisions of the Hudaydah Agreement have destabilised a city that serves as a critical thoroughfare for humanitarian and essential commercial commodities. Additionally, there are regular reports of Houthi attacks impacting civilians and civilian infrastructure in and around Hudaydah, further exacerbating the situation for Yemenis facing some of the highest levels of humanitarian need in the country.
+
+— Al Masda (Arabic) – ‘Houthis Appoint Acting Defense, Interior Ministers, Members of Supreme Security Committee’ (https://almasdaronline.com/article/67627) (accessed on 19.10.21)
+
+— Saba (Arabic) – Report Says Head of Al-Huthi Supreme Political Council Visits Navy Missiles Exhibition (https://www.saba.ye/ar/news478675.htm) (accessed on 19.10.21)
+
+— Aden Al Hadath (Arabic) – ‘Dissident Figure’ Says ‘Abd-al-Malik Al-Huthi Has Leukemia, Identifies ‘Likely Successor’ (https://aden-alhadath.info/news/35501) (accessed on 19.10.21)
+
+— Mohammad Ali al-Houthi’s Twitter account – On 2 February 2018, Al Huthi posted a picture with himself and Yusuf Al-Madani. The Twitter posts translates roughly to ‘sitting with live martyr Abu Hussein yesterday’ (Abu Hussein is Yusuf Al-Madani’s nickname).
+
+— Al Jazeera – ‘Recordings: Houthi leaders planned general’s killing’ (https://www.aljazeera.com/news/2016/6/29/recordings-houthi-leaders-planned-generals-killing) (accessed on 19.10.21) ’

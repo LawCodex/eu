@@ -1,0 +1,444 @@
+---
+title: "Commission Implementing Decision (EU) 2022/2452 of 8 December 2022 laying down additional technical specifications for the EU Emergency Travel Document established by Council Directive (EU) 2019/997 (SECRET UE/EU SECRET non classifiée en l’absence de la partie II de l’annexe/when detached from Part II of the Annex – non-classified.) (notified under document C(2022) 8938)"
+identifier: "32022D2452"
+eli: "http://data.europa.eu/eli/dec_impl/2022/2452/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-12-08
+entry_into_force: 2022-12-07
+last_amended: 2024-11-04
+consolidated_version: "02022D2452-20241104"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022D2452-20241104"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Decision (EU) 2022/2452 of 8 December 2022 laying down additional technical specifications for the EU Emergency Travel Document established by Council Directive (EU) 2019/997 (SECRET UE/EU SECRET non classifiée en l’absence de la partie II de l’annexe/when detached from Part II of the Annex – non-classified.) (notified under document C(2022) 8938)
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2022/2452**
+
+**of 8 December 2022**
+
+**laying down additional technical specifications for the EU Emergency Travel Document established by Council Directive (EU) 2019/997 ( 1 )**
+
+**(notified under document C(2022) 8938)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2024/2662 of 14 October 2024 </td><td> L 2662</td><td>1</td><td>15.10.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING DECISION (EU) 2022/2452**
+
+**of 8 December 2022**
+
+**laying down additional technical specifications for the EU Emergency Travel Document established by Council Directive (EU) 2019/997 ( 2 )**
+
+**(notified under document C(2022) 8938)**
+
+## Article 1
+
+The additional technical specifications regarding the pre-requisites, instructions and standards for the production of EU Emergency Travel Documents (‘EU ETD’) shall be as set out in Part I of the Annex.
+
+The additional technical specifications regarding the design, format and colours of the uniform EU ETD form and sticker, the requirements for the material and printing techniques of the uniform EU ETD form, and security features and requirements including enhanced anti-forgery, counterfeiting and falsification standards shall be as set out in Part II of the Annex. Part II of the Annex shall be classified SECRET UE/EU SECRET.
+
+The rules on the filling in and affixing of uniform EU ETD stickers shall be as set out in Part III of the Annex.
+
+The rules on different bodies having responsibility for producing uniform EU ETD forms and stickers shall be as set out in Part IV of the Annex.
+
+## Article 2
+
+Each Member State shall send the Commission and the other Member States a reference specimen of its EU ETD. Each Member State shall also keep specimens of subsequent print runs and shall hold them at the disposal of the Commission and the other Member States.
+
+## Article 3
+
+This Decision is addressed to the Member States.
+
+## ANNEX
+
+**Additional technical specifications for the EU Emergency Travel Document**
+
+**Part I**
+
+**Pre-requisites, instructions and standards for production ( 3 )**
+
+1\. CONTENTS
+
+2\. INSTRUCTIONS REGARDING PRODUCERS
+
+3\. PHYSICAL SECURITY
+
+3.1. PRODUCTION BUILDINGS
+
+3.2. SECURITY PERSONNEL
+
+3.3. SECURITY CONTROL ROOM
+
+3.4. VISITORS OR THIRD-PARTY ACCESS
+
+3.5. PERSONNEL ACCESS
+
+3.6. PRODUCTION AREA CONTROL
+
+3.7. HANDLING OF INCOMING & OUTGOING MATERIALS
+
+3.8. DELIVERY ASPECTS
+
+4\. SECURITY OF PRODUCTION METHODS AND MATERIALS
+
+4.1. PLATES
+
+4.2. PAPER
+
+4.3. DIFFRACTIVE OPTICALLY VARIABLE IMAGE DEVICE
+
+4.4. SECURITY INKS
+
+4.5. STORAGE
+
+5\. QUALITY CONTROL
+
+6\. REFERENCES
+
+**1\. CONTENTS**
+
+This part of the Annex document sets out the rules for the production of EU Emergency Travel Documents (EU ETD).
+
+This part of the Annex may be provided to potential security printers, for example as part of a tender process.
+
+**2\. INSTRUCTIONS REGARDING PRODUCERS**
+
+The production of EU ETDs shall only be carried out by public or private security printing houses or institutions, commissioned by the Member States and capable of producing high-security documents.
+
+Such companies or institutions must be able to prove their competence to undertake such production. The producer must have its head office located in the Union and the EU ETD production must also take place in the Union.
+
+The production of EU ETDs must not be outsourced to a third party (this does not apply to the raw materials and components, such as fibres and security paper) unless this is authorised by the Member State issuing the contract for the EU ETD production and notified to the Commission. Third-party companies that undertake part of the production of EU ETDs must also adhere to the security standards and practices listed in this document.
+
+The producer must be certified in accordance with the standard ‘ISO 9001 Quality Management System’ and ISO/IEC 27001 ‘Information security management systems’.
+
+Furthermore, the producer must hold a current ISO 14298 Management of Security Printing Processes Certificate (formerly CWA 14641) certified to at least the level ‘Governmental’ or according to equivalent national regulation.
+
+Producers must supply details of security audit certificates upon request of the Member State.
+
+Member States must ensure that the producers adhere to these rules and must notify the Commission of the company that has been selected to carry out the production.
+
+The producer must report any breach of security regarding EU ETDs, basic materials or the physical security of facilities at the time of production to the Member State, which must inform the Commission without undue delay.
+
+**3\. PHYSICAL SECURITY**
+
+The requirements set out in this section are additional to ISO 14298 and mandatory when the production of EU ETDs is taking place. They are also applicable to the materials, semi-finished products and storage of EU ETDs.
+
+The physical security of the production premises and buildings must be maintained in accordance with ISO 14298 and Intergraf Certification Requirements (especially Risk Category E ‘Physical intrusion and access related risk’) or equivalent national regulations.
+
+All persons (employees, security personnel, visitors, third parties, etc.) who are present on the premises or in the production buildings of the producer must be controlled in accordance with ISO 14298 Intergraf Certification Requirements or equivalent national regulations.
+
+**3.1. PRODUCTION BUILDINGS**
+
+All buildings in which raw material, semi-finished, and finished products are stored and processed must be certified at least as ‘Governmental’ level in accordance with ISO 14298 or equivalent national regulations.
+
+**3.2. SECURITY PERSONNEL**
+
+The producer must use a special and separate department or reputable and certified security company and well-trained security personnel to be responsible for the security of the premises and production areas. It is recommended that an external security company be certified with regard to quality aspects (e. g. ISO 9001, DIN 77200).
+
+**3.3. SECURITY CONTROL ROOM**
+
+The producer must run a security control room on the production premises. Physical security measures must meet the requirements of EN 50518 (certification is not required) or national regulations/standards. By derogation from the previous sentence, deviations from EN 50518 are possible provided they are based on a risk assessment. The access door to the security control room must be equipped at the entrance and at the exit with a card reader or biometric access control system recording all entrances and exits and be equipped with an anti-pass back function.
+
+A minimum of two operators (guards) are recommended to be present at all time. It is recommended that these operators (guards) be employees of the producer.
+
+**3.4. VISITORS OR THIRD-PARTY ACCESS**
+
+Any third party or visitor access to the production areas must be strictly controlled with regard to ISO 14298. Such persons must be accompanied at all times and must always wear their ID badge in a visible manner.
+
+**3.5. PERSONNEL ACCESS**
+
+Access to the production areas must be restricted to authorised employees through an access control system working on a strict person-by-person basis. An access control procedure must be in place. It is recommended that access only be given on a need-to-know basis.
+
+**3.6. PRODUCTION AREA CONTROL**
+
+The production areas must be controlled at all times. When production areas are not in use, they must be physically locked and monitored.
+
+Should access to such production areas become necessary at non-production times, the security department must be informed and be present during such access. In such cases, it must not be possible to enter production areas without the security department being physically present (separate key(s) holder(s)).
+
+**3.7. HANDLING OF INCOMING & OUTGOING MATERIALS**
+
+The producer must have dedicated shipping and delivery areas available for dealing with incoming and outgoing materials and products. All shipping and delivery doors including the perimeter fence gate, intermediate door and the internal shipping and delivery door must operate on an electronic and interlocking basis that implies that, when one of the doors is open, the other(s) are electronically secured.
+
+There must be processes in place for the screening of visitors and drivers of the transport vehicles for such materials. A log must be kept of each delivery of material.
+
+**3.8. DELIVERY ASPECTS**
+
+The delivery of EU ETDs must be regulated by the Member State issuing the contract together with the producer. As complete yet non-personalised EU ETDs are considered to be high-risk security items, the transport must be of the highest level possible.
+
+A generic risk assessment must be carried out and documented for each type of transport and any additional security measures assessed to be necessary must be implemented (e.g. armoured vehicle, accompanying vehicle). These assessments must be reviewed whenever there is a change in the relevant circumstances.
+
+All loading and unloading activities – including delivery to the receiving party – must be monitored under dual control, that is, involving two or more persons.
+
+The serial numbers of the EU ETDs being transported must be provided to the Member State issuing the contract via electronic means prior to departure.
+
+The status and position of vehicles carrying security printing products should be checked at regular intervals during transport. There must be at least two independent systems, which ensure effective communication with external partners in the event of any disruption to the transport.
+
+Any irregularity (e.g. the failure of any party involved to meet these minimum transport requirements, an attack on the transport or a loss by any cause during the transport) must be reported to the producing company immediately.
+
+There must be no access to the secure products from inside the driver’s cab and the compartment in which the goods are transported must be made from metal and entirely enclosed (no curtain-sided vehicles) with access for loading and un-loading via a locked door. Keys to the locks must not be carried inside the vehicle.
+
+Any contract for the delivery of blank EU ETD forms and stickers must provide that any theft or loss of blank uniform EU ETD forms and stickers during the delivery process is immediately reported to the Member State issuing the contract, including the serial numbers concerned. The Member States issuing the contract must report such theft or loss to Interpol’s database on Stolen and Lost Travel Documents (SLTD), without prejudice to any reporting obligations under Article 38(2)(k) of Regulation (EU) 2018/1862 of the European Parliament and of the Council ( 4 ).
+
+**4\. SECURITY OF PRODUCTION METHODS AND MATERIALS**
+
+This section sets out the necessary security information regarding the items used for the production of the EU ETD. A full and complete audit trail from the arrival of incoming security materials to the delivery of the EU ETDs, as well as the destruction of unwanted, spoiled material or semi-finished material, must be kept by the producer.
+
+In addition, the choice of and responsibility for suppliers for raw materials lies with the producer and where necessary must also be approved by the relevant Member State. It is recommended that the security raw material suppliers are certified to the same degree as the producers – especially with regard to ISO 14298. Should a supplier be considered by the producer as reputable and reliable (and checked by the producer accordingly) but not be certified, then approval must be obtained from the relevant Member State issuing the contract and the Commission must be notified by the Member State accordingly.
+
+**4.1. PLATES**
+
+All printing plates for the EU ETD are recommended to be produced on the premises of the authorised producer where the EU ETD production takes place. Should the printing plates no longer be needed (e.g. due to wear and tear, faults, etc.) they must be rendered unusable and securely destroyed in an appropriate manner.
+
+Any plates that may be needed for further production runs must be stored in a secure area on the company’s premises.
+
+Should the producer be unable to produce the plates on their own premises, then the printing plates necessary may only be ordered from a reputable plate producer, which has, for example, previously produced plates for the EU Visa Sticker. However, such plate producer must be certified according to ISO 14298. Such plates may only be delivered to authorised producers on receipt of authorisation by the Member State. Notification of such must also be sent to the Commission.
+
+**4.2. PAPER**
+
+The paper produced for the EU ETD must be strictly controlled. This applies to both the paper manufacturing and the further steps necessary (adding the adhesive backing). All rolls and sheets must undergo a security audit to ensure accountability in the supply chain.
+
+All paper to be delivered to the EU ETD producer must be counted before delivery. The sheets delivered to the producer and used during production must be checked and accounted for.
+
+Secure transport must be used for the delivery of the paper to the producers. A generic risk assessment must be carried out and documented for the transport and any additional security measures assessed to be necessary must be implemented (e.g. armoured vehicle, accompanying vehicle). These assessments must be reviewed whenever there is a change in the relevant circumstances.
+
+**4.3. DIFFRACTIVE OPTICALLY VARIABLE IMAGE DEVICE**
+
+The production and use of the Diffractive Optically Variable Image Device (DOVID) for the EU ETD must be subject to a control process and accounted for. This includes not only the full DOVID patches but also semi-finished products and spoiled or waste products.
+
+Delivery of the DOVID patches to the authorised producers must take place using secure transport. The number of DOVID’s to be delivered must be registered.
+
+The DOVID patches to be used at the producers’ premises must also be controlled and accounted for. Any wasted materials must be stored in a secure manner and may be securely destroyed at a later date as appropriate. The patches must be accounted for, so that a full audit trail can be made available if required.
+
+The Commission or a Member State may order the DOVID on an annual basis in the form of a grouped order in order to reduce the price for the individual Member States. Member States are responsible for the contractual and financial arrangements according to the group order. Only notified producers can participate in the grouped order for the DOVID.
+
+**4.4. SECURITY INKS**
+
+Security inks are used to produce the EU ETD and the use of such inks is restricted. The inks can be ordered from reputable suppliers, ordered from other EU ETD producers, or produced on the producers’ premises. A producer may deliver such inks to another authorised producer only after having received proof of the latter’s authorisation to produce EU ETDs.
+
+The security inks must be stored in a secure area. An audit process is necessary to keep track of the security inks used in the production process.
+
+**4.5. STORAGE**
+
+The materials used in the production of EU ETDs can be categorised as follows:
+
+— Basic Materials (e.g. inks, security paper)
+
+— Basic Means (e.g. printing plates)
+
+— Semi-Finished Products (incomplete Forms and/or Stickers that have not been subject to all production stages)
+
+— Complete EU ETD – Form and Sticker
+
+Storage and the handling of the product require suitable security, accountability and control at each stage. It is recommended that the storage areas fulfil the requirements of strong rooms (see ISO 14298).
+
+**5\. QUALITY CONTROL**
+
+Each EU ETD producer may specify, in consultation with the Member State authorising production, which quality controls are recommended to take place at each stage of the production. Those quality controls must ensure that the EU ETDs produced are in accordance with the technical specifications established by Council Directive (EU) 2019/997 and the implementing acts adopted on its basis – so that the quality of the EU ETDs varies as little as possible between production batches.
+
+In the event that EU ETDs have been produced and put into circulation that do not comply with the technical specifications, the Member State concerned must immediately notify other Member States as well as the Commission.
+
+**6\. REFERENCES**
+
+ISO 14298 Management of security printing processes (former CWA 14641)
+
+EN 50518 Monitoring and alarm receiving centre
+
+ISO 9001 Quality management systems
+
+ISO/IEC 27001 Information Security Management Systems
+
+**Part III**
+
+**Filling in and affixing uniform EU Emergency Travel Document stickers**
+
+**1\. Filling in uniform EU Emergency Travel Document stickers**
+
+The following entries shall be inserted in the uniform EU Emergency Travel Document (EU ETD) sticker:
+
+1.1. ‘FOR ONE JOURNEY TO/POUR UN VOYAGE VERS’ Section:
+
+This Section indicates the destination country for which the EU ETD is issued.
+
+This Section shall be completed by using the short name in English as set out in Section 7.1.1. and Annex A5 of the Interinstitutional Style Guide published by the Publications Office of the European Union.
+
+The issuing Member State may also indicate the destination country in another official language(s). Where different languages are used, they shall be separated by an oblique (/) (example: Italy/Italie).
+
+1.2. ‘VIA/VIA’ Section:
+
+This Section may indicate any transit country between the departure and destination country, reflecting the planned route.
+
+This Section shall be completed by using the three-letter codes as set out in ICAO Document 9303 on machine-readable travel documents.
+
+Where multiple transit countries are indicated, they shall be separated using a horizontal dash (example: ESP-AUT). No more than five transit countries shall be indicated.
+
+1.3. ‘NUMBER OF THE EU ETD FORM/Numéro DU FORMULAIRE TVP UE’ Section:
+
+This Section shall be completed by filling in the number of the uniform EU ETD form to which the uniform EU ETD sticker will be affixed.
+
+1.4. ‘ISSUING STATE/ÉTAT DE DÉLIVRANCE’ Section:
+
+This Section indicates the Member State issuing the EU ETD.
+
+This Section shall be completed by using the three-letter code as set out in ICAO Document 9303 on machine-readable travel documents.
+
+1.5. ‘ISSUED IN/DÉLIVRÉ À’ Section:
+
+This Section indicates the location of the issuing authority.
+
+The location shall be indicated in English or French.
+
+The issuing Member State may, in accordance with national practice, include the name or abbreviation of the issuing authority.
+
+1.6. ‘DATE OF ISSUE/Date de délivrance’ Section:
+
+This Section indicates the date of issuance of the EU ETD.
+
+Dates shall be written as follows:
+
+— the day using two digits, the first of which is a zero if the day in question is a single digit;
+
+— blank space;
+
+— the month using two digits, the first of which is a zero if the month in question is a single digit;
+
+— blank space;
+
+— the year using four digits.
+
+For example: 20 01 2018 = 20 January 2018.
+
+1.7. ‘DATE OF EXPIRY/date d’expiration’ Section:
+
+This Section indicates the date of expiry of the EU ETD.
+
+Dates shall be written as defined in point 1.6 of this Part of the Annex.
+
+Pursuant to Article 6 of Directive (EU) 2019/997, an EU ETD is to be valid for the period required for completion of the journey for which it is issued. In calculating that period, allowance is to be made for necessary overnight stops and for making travel connections. The period of validity is to include an additional ‘period of grace’ of two days. As provided for in Article 6 of Directive (EU) 2019/997, save in exceptional circumstances, the validity of an EU ETD is not to exceed 15 calendar days.
+
+1.8. ‘SURNAME, GIVEN NAME/NOM, PRÉNOM’ Section:
+
+This Section indicates the recipient’s surname and given name(s), in that order, and separated by a single comma (,).
+
+This Section shall be completed by using the conventions for writing names set out in ICAO Document 9303 on machine-readable travel documents.
+
+A second line may be used to accommodate long names. Any such line shall be indented in a way so as to avoid interference with the diffractive optically variable image device, the space reserved for the possible addition of a common 2D barcode, or the machine-readable zone.
+
+If the number of characters of the surname and given name exceeds the number of spaces available, the excess characters shall be replaced by a dot (.).
+
+1.9. ‘NATIONALITY/NATIONALITÉ’ Section:
+
+This Section indicates the nationality of the recipient.
+
+This Section shall be completed by using the three-letter codes as set out in ICAO Document 9303 on machine-readable travel documents.
+
+1.10. ‘DATE OF BIRTH/DATE DE NAISSANCE’ Section:
+
+This Section indicates the date of birth of the recipient.
+
+Dates shall be written as defined in point 1.6 of this Part of the Annex.
+
+1.11. ‘SEX/SEXE’ Section:
+
+This Section indicates the sex of the recipient.
+
+This Section shall be completed in accordance with ICAO Document 9303 on machine-readable travel documents, part 6.
+
+1.12. ‘REMARKS/Observations’ Section:
+
+This Section shall be used by the issuing authority to indicate any further necessary information, for example the type and number of the document replaced.
+
+If this information is available, the document replaced shall be indicated using the two-letter document code as set out in ICAO Document 9303 on machine-readable travel documents followed by the document number (e.g. PP123456789).
+
+If the number of characters of the surname and given name exceeded the number of spaces available in the Section ‘SURNAME, GIVEN NAME/NOM, PRÉNOM’, the excess characters shall be indicated after a dot (.).
+
+If the EU ETD is issued to a minor, this Section may also be used to indicate the name and relationship of the adult accompanying the minor, for example in the following format:
+
+‘Accompanied by [surname, given name] ([indicate relationship, e.g. “mother”, “father”, etc.])’, such as ‘Accompanied by Eriksson, Anna Maria (mother)’.
+
+The information shall be entered in either English or French.
+
+1.13. Type size
+
+The entries of the visual inspection zone should be filled in using a type size of at least 1,8 mm (when measuring the letter ‘E’). They shall not be printed with a type size of less than 1,6 mm.
+
+1.14. Section for the facial image:
+
+The EU ETD holder’s photograph, in colour, shall be integrated in the space reserved for that purpose on the EU ETD sticker in accordance with ICAO Document 9303 on machine-readable travel documents, part 6, and the technical report on portrait quality.
+
+For the quality of the portrait, the technical report on portrait quality (Reference Facial Images for MRTD) version 1.0 of April 2018 ( 5 ) applies.
+
+1.15. Machine-readable zone (MRZ):
+
+The uniform EU ETD sticker shall contain the relevant machine-readable information in line with ICAO Document 9303 on machine-readable travel documents, part 6, and shall comply with the specifications in ICAO Document 9303 on machine-readable travel documents, part 3.
+
+In addition the following positions shall be filled in as follows:
+
+<table>
+<tbody><tr><td>MRZ character  positions  (line 1) </td><td>Data element</td><td>Specifications</td></tr>
+<tr><td>1-2</td><td>Document code</td><td>The characters ‘PU’ shall be used to designate the document as a single-sheet emergency travel document with MRZ (1).</td></tr>
+<tr><td>MRZ character  positions  (line 2) </td><td>Data element</td><td>Specifications</td></tr>
+<tr><td>1-9</td><td>Document number</td><td>The two-letter country code of the issuing Member State as set out in ICAO Document 9303 and the seven-digit number pre-printed on the uniform EU ETD sticker shall be used.</td></tr>
+<tr><td>29-35</td><td>Optional data elements</td><td>The number of the uniform EU ETD form shall be used.</td></tr>
+<tr><td colspan="3">(1)  Commission Delegated Directive (EU) 2024/1986 of 6 May 2024 amending Council Directive (EU) 2019/997 as regards the machine-readable zone of the EU Emergency Travel Document (OJ L, 2024/1986, 16.7.2024, ELI: http://data.europa.eu/eli/dir_del/2024/1986/oj). </td></tr>
+</tbody>
+</table>
+
+**2\. Affixing the uniform EU ETD sticker**
+
+2.1. The uniform EU ETD sticker shall be securely affixed to the second page of the uniform EU ETD form in such a way as to prevent easy removal.
+
+2.2. The uniform EU ETD sticker shall be aligned with and affixed to the edge of the page. The machine-readable zone of the uniform EU ETD sticker shall be aligned with the outer edge of the page.
+
+2.3. The stamp of the issuing authorities shall be placed on the uniform EU ETD sticker in such a manner that it extends onto the page.
+
+**Part IV**
+
+**Rules on different bodies having responsibility for producing uniform EU ETD forms and stickers**
+
+**1\. Bodies designated by Member States**
+
+In accordance with Article 10 of Directive (EU) 2019/997, Member States have communicated the following bodies as producing their uniform EU ETD forms and stickers:
+
+(1) Istituto Poligrafico e Zecca dello Stato S.p.A.
+
+Designated by: Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Romania, Slovenia, Slovakia, Finland, Sweden.
+
+(2) Imprensa Nacional – Casa da Moeda, S. A.
+
+Designated by: Portugal.
+
+(3) IN Group
+
+Designated by: France ( 6 ).
+
+**2\. Numbering ranges assigned to the different designated bodies for the production of EU ETD forms**
+
+Member States shall ensure that the body they have designated as having responsibility for producing their uniform EU ETD forms and stickers remains, when pre-printing the seven-digit number on EU ETD forms, within the following numbering ranges:
+
+(1) Istituto Poligrafico e Zecca dello Stato S.p.A.: 0 – 6 999 999 ;
+
+(2) Imprensa Nacional – Casa da Moeda, S. A.: 7 000 000 – 7 499 999 ;
+
+(3) IN Group: 7 500 000 – 8 999 999 .
+
+The numbering range 9 000 000 – 9 999 999 shall be reserved for future use.
+
+( 1 ) SECRET UE/EU SECRET non classifiée en l’absence de la partie II de l’annexe/when detached from Part II of the Annex – non-classified.
+
+( 2 ) SECRET UE/EU SECRET non classifiée en l’absence de la partie II de l’annexe/when detached from Part II of the Annex – non-classified.
+
+( 3 ) SECRET UE/EU SECRET non classifiée en l’absence de la partie II de l’annexe/when detached from Part II of the Annex – non-classified.
+
+( 4 ) Regulation (EU) 2018/1862 of the European Parliament and of the Council of 28 November 2018 on the establishment, operation and use of the Schengen Information System (SIS) in the field of police cooperation and judicial cooperation in criminal matters, amending and repealing Council Decision 2007/533/JHA, and repealing Regulation (EC) No 1986/2006 of the European Parliament and of the Council and Commission Decision 2010/261/EU (OJ L 312, 7.12.2018, p. 56, ELI: http://data.europa.eu/eli/reg/2018/1862/oj).
+
+( 5 ) https://www.icao.int/Security/FAL/TRIP/Documents/TR%20-%20Portrait%20Quality%20v1.0.pdf.
+
+( 6 ) France has informed the Commission that if necessary, it will change its designated body to Istituto Poligrafico e Zecca dello Stato S.p.A.

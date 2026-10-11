@@ -1,0 +1,101 @@
+---
+title: "Council Decision (CFSP) 2021/1304 of 5 August 2021 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea"
+identifier: "32021D1304"
+eli: "http://data.europa.eu/eli/dec/2021/1304/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2021-08-05
+entry_into_force: 2021-07-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D1304"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2021/1304 of 5 August 2021 amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea
+
+**COUNCIL DECISION (CFSP) 2021/1304**
+
+**of 5 August 2021**
+
+**amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 27 May 2016, the Council adopted Decision (CFSP) 2016/849 (1) concerning restrictive measures against the Democratic People’s Republic of Korea.
+
+(2) In accordance with Article 36(2) of Decision (CFSP) 2016/849, the Council has reviewed the lists of designated persons and entities set out in Annexes II, III, V and VI to that Decision.
+
+(3) The restrictive measures against all persons and entities in the lists set out in Annexes II and III to Decision (CFSP) 2016/849 should be maintained, and the statement of reasons for ten persons and one entity, and the identifying information of four persons, should be updated.
+
+(4) In addition, the identifying information of one person in the list set out in Annex I to Decision (CFSP) 2016/849 should be updated.
+
+(5) Decision (CFSP) 2016/849 should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Annexes I, II, and III to Decision (CFSP) 2016/849 are amended as set out in the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+Done at Brussels, 5 August 2021.
+
+For the Council
+
+The President
+
+G. DOVŽAN
+
+(1) Council Decision (CFSP) 2016/849 of 27 May 2016 concerning restrictive measures against the Democratic People’s Republic of Korea and repealing Decision 2013/183/CFSP (OJ L 141, 28.5.2016, p. 79).
+
+## ANNEX
+
+(1) In Annex I to Decision (CFSP) 2016/849, under the heading ‘A. Persons’, entry 77 is replaced by the following:
+
+|  | Name | Alias | Date of birth | Date of UN designation | Statement of reasons |
+| --- | --- | --- | --- | --- | --- |
+| ‘77. | Ri Pyong Chul | Ri Pyong Chol, Ri Pyo’ng-ch’o’l | YOB: 1948 Nationality: DPRK Gender: Male Address: DPRK | 22.12.2017 | Alternate Member of the Political Bureau of the Workers’ Party of Korea and First Vice Director of the Munitions Industry Department.’ |
+
+(2) In Annex II to Decision (CFSP) 2016/849, under the heading ‘I. Persons and entities responsible for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes or persons or entities acting on their behalf or at their direction, or entities owned or controlled by them’, subheading ‘A. Persons’, entries 6, 7, 10, 11, 15, 16, 17, 18, 19, 24, and 25 are replaced by the following:
+
+|  | Name | Alias | Identifying information | Date of designation | Statement of Reasons |
+| --- | --- | --- | --- | --- | --- |
+| ‘6. | SO Sang-kuk | SO Sang Kuk | DOB: 30.11.1938 Gender: male | 22.12.2009 | Head of the Department of Nuclear Physics, Kim Il Sung University. |
+| 7. | KIM Yong Chol | KIM Yong-Chol; KIM Young-Chol; KIM Young-Cheol; KIM Young-Chul | DOB: 1946 POB: Pyongan-Pukto, DPRK Gender: male | 19.12.2011 | Member of the Workers’ Party of Korea Central Military Commission, of the Politburo and the State Affairs Commission of the Democratic People’s Republic of Korea. Former commander of Reconnaissance General Bureau (RGB), an entity sanctioned by the United Nations Security Council. May have been reinstated as United Front Department director. |
+| 10. | HONG Sung-Mu | HUNG Sun Mu; HONG Sung Mu | DOB: 1.1.1942 Gender: male | 20.5.2016 | Deputy-director of the Munitions Industry Department (MID). In charge of the development of programmes concerning conventional arms and missiles, including ballistic missiles. One of the main persons responsible for the industrial development programmes for nuclear arms. As such, responsible for the DPRK’s nuclear arms-related, ballistic-missile-related, or other weapons of mass destruction-related programmes. Witnessed the launch of the Hwasong-15 intercontinental ballistic missile on 28 November 2017. Participated in a meeting of the Central Military Commission of the Korean Worker’s Party in July 2020 dedicated to "deterrence from war", a euphemism used to refer to the DPRK nuclear programme. Re-elected to Party Central Committee in January 2021. |
+| 11. | JO Kyongchol | JO Kyong Chol | Gender: male | 20.5.2016 | General in the Korean People’s Army. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Director of the Military Security Command. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Accompanied Kim Jong Un to largest-ever long-range artillery fire drill. Re-elected to Party Central Committee in January 2021. |
+| 15. | KIM Rak Kyom | KIM Rak-gyom; KIM Rak Gyom | Gender: male | 20.5.2016 | Four Star General, former Commander of the Strategic Rocket Force, an entity designated by the United Nations, which comprises four strategic and tactical missile units, including the KN-08 (ICBM) brigade. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Media reports identified KIM as attending the April 2016 ICBM engine test with KIM Jong Un. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Ordered ballistic rocket firing drill. |
+| 16. | KIM Won-hong | KIM Won Hong | DOB: 7.1.1945 POB: Pyongyang, DPRK Passport no: 745310010 Gender: male | 20.5.2016 | General. Former First Deputy Director of the General Political Department of the Korean People’s Army. Former Director of the State Security Department. Former Minister of State Security. Former Member of the Central Military Commission of the Workers’ Party of Korea and National Defence Commission, which was a key body for national defence matters in the DPRK before it was reformed into the State Affairs Commission (SAC), which are the key bodies for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. |
+| 17. | PAK Jong-chon | PAK Jong Chon | Gender: male | 20.5.2016 | Nominated as Marshal of the Korean People’s Army in October 2020, Chief of the General Staff since April 2019. Member of the Politburo since April 2020. Member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Elected to the Party Central Committee, the Political Bureau of the Central Committee and the Central Military Commission in January 2021. |
+| 18. | LI Yong-ju | RI Yong Ju | Gender: male | 20.5.2016 | Admiral of the Korean People’s Army. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Former Commander in chief of the Korean People’s Navy, which is involved in the development of ballistic-missile programmes and in the development of the nuclear capacities of the DPRK naval forces. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. |
+| 19. | SON Chol-ju | SON Chol Ju | Gender: male | 20.5.2016 | General of the Korean People’s Army. Deputy Director responsible for the organisation of the Korea People’s Army and former Political Director of the Air and Anti-Air forces, which oversees the development of modernised anti-aircraft rockets. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Son was reported as being listed as participating in a meeting of the Central Military Commission in May 2020 as Deputy Director responsible for the organisation of the Korean People’s Army. |
+| 24. | RI Myong Su |  | DOB: 1937 POB: Myongchon, North Hamgyong, DPRK Gender: male | 7.4.2017 | Vice Marshall of the Korean People’s Army, first vice commander of the Korean People’s Army Supreme Command. Until 2018, member of the Central Military Commission of the Workers’ Party of Korea and Chief of Staff of the People’s Armed Forces. Ri Myong Su continues to be influential in national defence matters including the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. He participates regularly in North Korean military parades. Ri is a long-time member of the Supreme People’s Assembly (SPA); currently the 14th. |
+| 25. | SO Hong Chan |  | DOB: 30.12.1957 POB: Kangwon, DPRK Passport: PD836410105 Passport date of expiration: 27.11.2021 Gender: male | 7.4.2017 | First Vice-Minister and Director of the Logistics Bureau of the People’s Armed forces, member of the Central Military Commission of the Workers’ Party of Korea and General in the People’s Armed Forces. In this capacity, So Hong Chan is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Re-elected as a Member of the Central Committee in January 2021.’ |
+
+(3) In Annex II to Decision (CFSP) 2016/849, under the heading ‘I. Persons and entities responsible for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes or persons or entities acting on their behalf or at their direction, or entities owned or controlled by them’, subheading ‘B. Entities’, entry 4 is replaced by the following:
+
+|  | Name | Alias | Location | Date of designation | Other information |
+| --- | --- | --- | --- | --- | --- |
+| ‘4. | Yongbyon Nuclear Research Centre |  |  | 22.12.2009 | Research centre which has taken part in the production of military-grade plutonium. Centre maintained by the General Bureau of Atomic Energy (entity designated by the UNSC, 16.7.2009). In its final report of March 2021, the Panel of Experts set up pursuant to UN Security Council Resolution 1874 notes the observation of plumes of steam from the building used for the production of (UO2) at the uranium enrichment plant at the Yongbyon complex and reported that, according to a UN Member State, the enriching uranium facility at Yongbyon was operating.’ |
+
+(4) In Annex II to Decision (CFSP) 2016/849, under the heading ‘II. Persons and entities providing financial services or the transfer of assets or resources that could contribute to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes’, subheading ‘A. Persons’, entry 2 is replaced by the following:
+
+|  | Name | Alias | Identifying information | Date of designation | Statement of Reasons |
+| --- | --- | --- | --- | --- | --- |
+| ‘2. | KIM Tong-un | KIM Tong Un | DOB: 1.11.1936 Gender: male | 22.12.2009 | Former director of ‘Office 39’ of the Central Committee of the Workers’ Party of Korea, which is involved in proliferation financing. In 2011, reportedly in charge of ‘Office 38’ to raise funds for the leadership and elites.’ |
+
+(5) In Annex III to Decision (CFSP) 2016/849, under the heading ‘List of persons referred to in point (c) of Article 23(1) and point (c) of Article 27(1)’, subheading ‘A. Persons’, entry 6 is replaced by the following:
+
+|  | Name | Identifying information | Date of designation | Reasons |
+| --- | --- | --- | --- | --- |
+| ‘6. | YUN Chol a.k.a. CHOL Yun | Third Secretary DPRK Embassy China | 22.1.2018 | Yun Chol has been identified by the UN Panel of Experts as contact person of the DPRK Company General Precious Metal involved in the sale of lithium-6, a UN prohibited nuclear-related item, and DPRK diplomat. General Precious Metal has previously been identified by the Union as an alias of the UN designated entity Green Pine.’ |

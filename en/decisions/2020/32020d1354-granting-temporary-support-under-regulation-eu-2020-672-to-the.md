@@ -1,0 +1,115 @@
+---
+title: "Council Implementing Decision (EU) 2020/1354 of 25 September 2020 granting temporary support under Regulation (EU) 2020/672 to the Portuguese Republic to mitigate unemployment risks in the emergency following the COVID-19 outbreak"
+identifier: "32020D1354"
+eli: "http://data.europa.eu/eli/dec_impl/2020/1354/oj"
+type: decision
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-09-25
+entry_into_force: 2020-03-02
+last_amended: 2022-10-28
+consolidated_version: "02020D1354-20221028"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020D1354-20221028"
+retrieved: 2026-10-11
+---
+
+# Council Implementing Decision (EU) 2020/1354 of 25 September 2020 granting temporary support under Regulation (EU) 2020/672 to the Portuguese Republic to mitigate unemployment risks in the emergency following the COVID-19 outbreak
+
+**COUNCIL IMPLEMENTING DECISION (EU) 2020/1354**
+
+**of 25 September 2020**
+
+**granting temporary support under Regulation (EU) 2020/672 to the Portuguese Republic to mitigate unemployment risks in the emergency following the COVID-19 outbreak**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (EU) 2022/99 of 25 January 2022 </td><td> L 17</td><td>47</td><td>26.1.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING DECISION (EU) 2022/2083 of 25 October 2022 </td><td> L 280</td><td>32</td><td>28.10.2022</td></tr>
+</table>
+
+**COUNCIL IMPLEMENTING DECISION (EU) 2020/1354**
+
+**of 25 September 2020**
+
+**granting temporary support under Regulation (EU) 2020/672 to the Portuguese Republic to mitigate unemployment risks in the emergency following the COVID-19 outbreak**
+
+## Article 1
+
+Portugal fulfils the conditions set out in Article 3 of Regulation (EU) 2020/672.
+
+## Article 2
+
+1\. The Union shall make available to Portugal a loan amounting to a maximum of EUR 6 234 462 488 . The loan shall have a maximum average maturity of 15 years.
+
+2\. The availability period for financial assistance granted by this Decision shall be 39 months starting from the first day after this Decision has taken effect.
+
+3\. The Union financial assistance shall be made available by the Commission to Portugal in a maximum of eight instalments. An instalment may be disbursed in one or several tranches. The maturities of the tranches under the first instalment may be longer than the maximum average maturity referred to in paragraph 1. In such cases, the maturities of further tranches shall be set so that the maximum average maturity referred to in paragraph 1 is respected once all instalments have been disbursed.
+
+4\. The first instalment shall be released subject to the entry into force of the loan agreement provided for in Article 8(2) of Regulation (EU) 2020/672. Any further instalments shall be released in accordance with the terms of that loan agreement or, where relevant, be subject to the entry into force of an addendum thereto, or of an amended loan agreement concluded between Portugal and the Commission replacing the original loan agreement.
+
+5\. Portugal shall pay the cost of the funding of the Union referred to in Article 4 of Regulation (EU) 2020/672 for each instalment plus any fees, costs and expenses of the Union resulting from any funding related to the loan granted under paragraph 1 of this Article.
+
+6\. The Commission shall decide on the size and release of instalments, as well as on the size of the tranches.
+
+## Article 3
+
+Portugal may finance the following measures:
+
+(a) the support for the maintenance of employment contracts through the temporary interruption of work or reduction of normal working time, as provided for in Articles 298 to 308 of ‘Law No 7/2009 of 12 February’, as further specified by Article 142 of ‘Law No 75-B/2020 of 31 December’;
+
+(b) the new and simplified special support for the maintenance of employment contracts through the temporary interruption of work or reduction of normal working time, as provided for in ‘Decree-Law No 10-G/2020 of 26 March’, as last amended by Article 2 of ‘Decree-Law No 27-B/2020 of 19 June’, and as further specified by Article 142 of ‘Law No 75-B/2020 of 31 December’;
+
+(c) the special vocational programmes for the maintenance of employment contracts through the temporary interruption of work or reduction of normal working time, as provided for in Articles 5(2) and 7 to 9 of ‘Decree-Law No 10-G/2020 of 26 March’;
+
+(d) the new special support for firms for the resumption of their business activities, as provided for in Articles 4 and 5 of ‘Decree-Law No 27-B/2020 of 19 June’ and in Article 14-A of ‘Decree-Law No 46-A/2020 of 30 July’, as last amended by Article 2 of ‘Decree-Law No 32/2021 of 12 May’, and as specified in ‘Government Order No 102-A/2021 of 14 May’;
+
+(e) the new income stabilisation supplement for employees benefiting from measures referred to in points (a) or (b) for the maintenance of employment contracts through the temporary interruption of work or reduction of normal working time, as provided for in Article 3 of ‘Decree-Law No 27-B/2020 of 19 June’, as amended by Article 2 of ‘Decree-Law No 58-A/2020 of 14 August’;
+
+(f) the new and progressive special support for the maintenance of employment contracts through the temporary reduction of normal working time, as provided for in Article 4 of ‘Decree-Law No 46-A/2020 of 30 July’, as last amended by Article 2 of ‘Decree-Law No 71-A/2021 of 13 August’;
+
+(g) the new special support for self-employed persons, informal workers and managers, as provided for in Article 26 of ‘Decree-Law No 10-A/2020 of 13 March’, as last amended by Article 2 of ‘Law No 31/2020 of 11 August’, as well as Article 325-G of ‘Law No 2/2020 of 31 March’, as added by Article 3 of ‘Law No 24-A/2020 of 24 July’;
+
+(h) the new family allowance for employees prevented from working due to the need to assist their children or other dependants under the age of 12, or, regardless of age, with a disability or chronic illness, as provided for in Article 23 of ‘Decree-Law No 10-A/2020 of 13 March’, as last amended by Article 3 of ‘Law No 16/2021 of 7 April’;
+
+(i) the new special support for the maintenance of trainers’ employment contracts in the light of the cancellation of vocation trainings, as provided for in ‘Government Order No 3485-C/2020 of 19 March’, ‘Government Order No 4395/2020 of 10 April’, and ‘Government Order No 5897-B/2020 of 28 May’;
+
+(j) the regional employment-related measures in the autonomous region of the Azores as provided for in ‘Resolution of the Council of the Regional Government of the Azores No 97/2020 of 8 April’, ‘Resolution of the Council of the Regional Government of the Azores No 120/2020 of 28 April’, ‘Resolution of the Council of the Regional Government of the Azores No 128/2020 of 5 May’, ‘Resolution of the Council of the Regional Government of the Azores No 129/2020 of 5 May’, ‘Resolution of the Council of the Regional Government of the Azores No 195/2020 of 15 July’, ‘Resolution of the Council of the Regional Government of the Azores No 196/2020 of 15 July’ and ‘Resolution of the Council of the Regional Government of the Azores No 200/2020 of 17 July’;
+
+(k) the regional employment-related measures in the autonomous region of Madeira, as provided for in ‘Resolution of the Regional Government of Madeira No 101/2020 of 13 March’ and ‘Ordinance No 133-B/2020 of the Vice-Presidency of the Regional Government of Madeira and of the Regional Secretariat for Social Inclusion and Citizenship of 22 April’;
+
+(l) the new allowance for employees and self-employed persons that were temporarily prevented from exercising their professional activities due to being in prophylactic isolation, as provided for in Article 19 of ‘Decree-Law No 10-A/2020 of 13 March’, as amended by Article 2 of ‘Decree-Law No 62-A/2020 of 3 September’, and Article 325-F of ‘Law No 2/2020 of 31 March’, as amended by Article 3 of ‘Law No 27-A/2020 of 24 July’;
+
+(m) the new sickness allowance owing to the contraction of COVID-19, as provided for in ‘Order of the Ministers of Labour, Solidarity and Social Security, and of Health No 2875-A/2020 of 3 March’, Article 20 of ‘Decree-Law 10-A/2020 of 13 March’, as amended by Article 2 of ‘Decree-Law No 62-A/2020 of 3 September’, and Article 325-F of ‘Law No 2/2020 of 31 March’, as amended by Article 3 of ‘Law No 27-A/2020 of 24 July’;
+
+(n) the purchase of personal protective equipment to be used in the workplace, notably in public hospitals, line ministries, municipalities and the autonomous regions of the Azores and Madeira, as provided for in ‘Norm No 012/2020 of 6 May’, as amended on 14 May 2020, and ‘Norm No 013/2020 of 10 June’, as amended on 23 June 2020, both issued by the Portuguese Directorate-General for Health, as well as ‘Decree-Law No 10-A/2020 of 13 March’;
+
+(o) the school hygiene campaign aimed at ensuring the safe return to work of lecturers, other staff members, and students, as provided for in ‘Decree-Law No 10-A/2020 of 13 March’;
+
+(p) the testing for contraction of COVID-19 of inpatients and workers of public hospitals, as well as of employees of nursing homes and childcare facilities, as provided for in ‘Norm No 012/2020 of 6 May’, as amended on 14 May 2020, and ‘Norm No 013/2020 of 10 June’, as amended on 23 June 2020, both issued by the Portuguese Directorate-General for Health;
+
+(q) the new special compensation for workers in the National Health Service involved in fighting the COVID-19 outbreak, as provided for in Article 42-A of ‘Law No 2/2020 of 31 March’, as amended by Article 3 of ‘Law No 27-A/2020 of 24 July’, and Article 291 of ‘Law No 75-B/2020 of 31 December’;
+
+(r) the new extraordinary support scheme for self-employed workers, workers without access to other social protection mechanisms, and managers whose income has been particularly affected by the COVID-19 pandemic, as provided for in Article 156 of ‘Law No 75-B/2020 of 31 December’, and subject to the conditions set out in points (2)(c) to (f) therein, as further specified in ‘Government Ordinance No 19-A/2021 of 25 January’, and as extended by Article 12 of ‘Decree-Law No 104/2021 of 27 November’;
+
+(s) the new social support scheme for artists, authors, technicians and other art professionals, as provided for in point 2.5.1 of ‘Annex to the Resolution of the Council of Ministers No 41/2020 of 6 June’, as further specified by Articles 10 to 12 of ‘Government Ordinance No 180/2020 of 3 August’, and extended by Articles 5 to 7 of ‘Annex to Government Ordinance No 37-A/2021 of 15 February’;
+
+(t) the hiring of additional health professionals and overtime work in the National Health Service to help address pandemic-related challenges, as provided for in Article 6 of ‘Decree-Law No 10-A/2020’ of 13 March and in Articles 4 to 8 of ‘Decree-Law No 10-A/2021 of 2 February’.
+
+## Article 4
+
+1\. Portugal shall inform the Commission by 30 March 2021, and every six months thereafter of the implementation of the planned public expenditure until that planned public expenditure has been fully implemented.
+
+2\. Where measures referred to in Article 3 are based on planned public expenditure and have been subject to an implementing decision amending this Decision, Portugal shall inform the Commission within six months of the date of adoption of that amending implementing decision, and every six months thereafter of the implementation of the planned public expenditure until that planned public expenditure has been fully implemented.
+
+## Article 5
+
+This Decision is addressed to the Portuguese Republic.
+
+This Decision shall take effect on the date of its notification to the addressee.
+
+## Article 6
+
+This Decision shall be published in the Official Journal of the European Union.

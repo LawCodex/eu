@@ -1,0 +1,139 @@
+---
+title: "Council Decision (EU) 2023/746 of 28 March 2023 establishing the criteria and the procedure for establishing the position to be taken on the European Union’s behalf within the International Civil Aviation Organization as regards the adoption of, or amendments to, international standards and recommended practices, and the notification of differences with respect to adopted international standards"
+identifier: "32023D0746"
+eli: "http://data.europa.eu/eli/dec/2023/746/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2023-03-28
+entry_into_force: 2023-10-04
+last_amended: 2025-12-15
+consolidated_version: "02023D0746-20251215"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023D0746-20251215"
+retrieved: 2026-10-11
+---
+
+# Council Decision (EU) 2023/746 of 28 March 2023 establishing the criteria and the procedure for establishing the position to be taken on the European Union’s behalf within the International Civil Aviation Organization as regards the adoption of, or amendments to, international standards and recommended practices, and the notification of differences with respect to adopted international standards
+
+**COUNCIL DECISION (EU) 2023/746**
+
+**of 28 March 2023**
+
+**establishing the criteria and the procedure for establishing the position to be taken on the European Union’s behalf within the International Civil Aviation Organization as regards the adoption of, or amendments to, international standards and recommended practices, and the notification of differences with respect to adopted international standards**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DECISION (EU) 2025/2624 of 15 December 2025 </td><td> L 2624</td><td>1</td><td>19.12.2025</td></tr>
+</table>
+
+**COUNCIL DECISION (EU) 2023/746**
+
+**of 28 March 2023**
+
+**establishing the criteria and the procedure for establishing the position to be taken on the European Union’s behalf within the International Civil Aviation Organization as regards the adoption of, or amendments to, international standards and recommended practices, and the notification of differences with respect to adopted international standards**
+
+## Article 1
+
+The position to be taken on behalf of the Union within the Council of the International Civil Aviation Organization (ICAO Council), when that body is called upon to adopt new international standards and recommended practices (‘SARPs’) or amendments to SARPs in the areas of civil aviation safety, air navigation and traffic management relating to Annexes 1, 2, 3, 4, 6, 8, 10, 11, 14, 15, 18 and 19 to the Convention on International Civil Aviation (the ‘Chicago Convention’), insofar as such SARPs fall within Union exclusive competence and have legal effects within the meaning of Article 218(9) TFEU, shall be established in accordance with the criteria and procedure set out in Article 2 of this Decision.
+
+## Article 2
+
+1\. Where the ICAO Council is to adopt new SARPs or amendments to SARPs as referred to in Article 1, the Commission shall:
+
+(a) in due time and at least one month before the date of the ICAO Council meeting where new SARPs or amendments to SARPs are to be adopted, submit to the Council, for discussion and approval, a document setting out the particulars of the draft position to be taken on the Union’s behalf; in exceptional circumstances, in the case of the urgent adoption of new SARPs or of an amendment, or of the temporary suspension of entry into force of SARPs or of an amendment, where the text of the relevant draft SARPs or amendments is available less than a month before the date of the ICAO Council meeting where those SARPs or amendments are to be adopted, the Commission shall endeavour to submit the document to the Council without undue delay and in any event at the latest five days after having received the draft new SARPs or draft amendments from the International Civil Aviation Organization (‘ICAO’);
+
+(b) in due time and at least one month before the deadline set by the ICAO for the registration of disapproval by contracting States pursuant to Article 90 of the Chicago Convention, submit to the Council, for discussion and approval, a document setting out the draft position to be taken on behalf of the Union.
+
+Where appropriate, the position referred to in point (b) of the first subparagraph may be included in the document submitted to the Council pursuant to point (a) of the first subparagraph.
+
+2\. The documents submitted by the Commission pursuant to paragraph 1, points (a) and (b), shall be based on the objectives and guidelines laid out in the Annex and take into account of all relevant information and materials provided by the ICAO ahead of any deliberations and, as appropriate, of the information provided by the European Union Aviation Safety Agency (EASA) in accordance with Article 90(1) and (3) of Regulation (EU) 2018/1139, where applicable.
+
+3\. Minor non-substantive changes to the position approved by the Council pursuant to paragraph 1, point (a), may be agreed to on-the-spot, in the light of the developments at the session of the ICAO Council, by the Member States in concertation with the representative of the Union in accordance with the duty of sincere cooperation established in Article 4(3) of the Treaty on European Union.
+
+The documents establishing the position to be taken on behalf of the Union pursuant to paragraph 1, point (a), shall indicate whether further adjustments to that position may be agreed to on-the-spot, in the light of the developments at the meeting of the ICAO Council. Those adjustments shall not affect the essence and purpose of the position.
+
+4\. The position referred to in paragraph 1, point (a) shall be expressed within the ICAO Council by the Member States of the Union that are members of the ICAO Council acting jointly in the interest of the Union.
+
+The position referred to in paragraph 1, point (b) shall be expressed by all Member States acting jointly in the interest of the Union.
+
+## Article 3
+
+The position to be taken on the Union’s behalf within the ICAO as regards the notification of differences with respect to international standards contained in Annexes 1, 2, 3, 4, 6, 8, 10, 11, 14, 15, 18 and 19 to the Chicago Convention, insofar as such international standards fall within the Union’ exclusive competence, shall be established according to the criteria and procedure set out in Articles 4 and 5 of this Decision.
+
+## Article 4
+
+Where Union law differs from the international standards referred to in Article 3 of this decision and notification to the ICAO of those differences is therefore required in accordance with Article 38 of the Chicago Convention, the Commission shall, in due time and at least two months before any deadline set by the ICAO for the notification of differences, submit to the Council, for discussion and approval, a document, based in particular on the information provided by the EASA in accordance with Article 90(4) of Regulation (EU) 2018/1139, where applicable, setting out details of the differences to be notified to the ICAO, and where appropriate, indicating what flexibility is available to Member States as regards the form of the notification.
+
+The position to be taken pursuant to this Article shall be expressed by all Member States acting jointly in the interests of the Union.
+
+## Article 5
+
+1\. Where a Member State adopts, in accordance with Article 71 of Regulation (EU) 2018/1139, national measures granting exemptions concerning individual natural or legal persons or with a total duration not exceeding eight months, and where those national measures differ from the international standards referred to in Article 3 of this Decision and require the notification of differences to those standards in accordance with Article 38 of the Chicago Convention, that Member State shall immediately inform the Commission of any difference to be notified.
+
+2\. Where the exemptions granted in accordance with Article 71 of Regulation (EU) 2018/1139 are of general application and their total duration exceeds eight months, the Commission shall, no later than two weeks after the Member State concerned notified it of those exemptions in accordance with Article 71(1) of Regulation (EU) 2018/1139 and, where applicable, after receiving the EASA recommendation in accordance with Article 71(2) of that Regulation, submit to the Council, for discussion and approval, a document, taking into account the information provided by the Member State concerned and, when applicable, information provided by EASA in accordance with Article 90(4) of that Regulation, setting out details of the differences to be notified to the ICAO.
+
+The position to be taken pursuant to this paragraph shall be expressed by the Member States having adopted national measures under Article 71 of Regulation (EU) 2018/1139 that require the notification of differences acting in the interest of the Union.
+
+## Article 6
+
+The implementation of this Decision shall not entail a breach of Member States’ obligations under Union law or their obligations under the Chicago Convention.
+
+## Article 7
+
+1\. This Decision shall apply until 31 December 2028.
+
+2\. The Commission shall submit to the Council a report analysing the application of this Decision, and in particular its effectiveness and the frequency of its use, at least four months before its expiry date.
+
+3\. On a proposal from the Commission, the Council may extend the application of or otherwise amend this Decision.
+
+## Article 8
+
+This Decision shall enter into force on the date of its adoption.
+
+## ANNEX
+
+**OBJECTIVES AND GUIDELINES FOR THE ESTABLISHMENT OF THE POSITIONS TO BE TAKEN ON THE UNION’S BEHALF WITHIN THE INTERNATIONAL CIVIL AVIATION ORGANIZATION**
+
+**Objectives**
+
+1\. To promote a safe, efficient, performant, open, and environmentally sound air transport system in line with the communication of the Commission of 9 December 2020 on the Sustainable and Smart Mobility Strategy – putting European transport on track for the future.
+
+2\. To promote the development of regional cooperation and of regional aviation systems, and support their recognition by the ICAO and its Contracting States, as well as their integration into the ICAO framework.
+
+3\. To promote the development of rules and policies ensuring safe air transport operations and the conduct of proper oversight over safety rules, in line with the Union’s aviation safety regulatory framework, including Regulation (EU) 2018/1139 ( 1 ) and taking account of the report from the Commission of 17 October 2022 on the European Aviation Safety Programme.
+
+4\. To promote the development and deployment of efficient, performant and interoperable air navigation services, in accordance with Regulations (EC) No 549/2004, (EC) No 550/2004 and (EU) 2024/2803, and taking account of the Global Air Navigation Plan and aviation system block upgrades (ASBUs).
+
+5\. To continue to support, including where relevant through technical assistance and capacity building activities, the development in all ICAO Contracting States of a safe, efficient, and environmentally sound global air transport system, e.g. through the Union’s Foreign Policy Instruments (FPI) projects.
+
+**Guidelines**
+
+The Member States, acting jointly in the interest of the Union, shall endeavour to support the following actions by the ICAO:
+
+1\. in order to ensure the development of rules and policies ensuring safe air transport operations and the conduct of proper oversight over safety rules:
+
+(a) support the development and implementation of the Global Aviation Safety Plan (GASP);
+
+(b) support the development of international standards and recommended practices (‘SARPs’) for civil aviation adopted pursuant to Articles 37 and 54(l) of the Chicago Convention, in particular where they are necessary to protect passengers and the safety of flights;
+
+(c) support the development and implementation of regional aviation safety systems and other frameworks for regional safety cooperation among States, and the need to better integrate them in the ICAO context;
+
+2\. in order to ensure the development and deployment of efficient, performant and interoperable air navigation systems:
+
+(a) support the development and implementation of the Global Air Navigation Plan (GANP) and its monitoring procedures using suitable performance metrics;
+
+(b) support the development and implementation of Air Traffic Management (ATM) standards, global interoperability of new technologies and systems and closer coordination or activities in ATM, such as contributing to works on the development of the trust framework initiative and other related activities;
+
+(c) support the development and implementation of rules, policies and actions in the field of Air Traffic Management and Air Navigation Services (ATM/ANS), in particular in line with Resolutions A42-6, A42-7 and A42-8;
+
+3\. in order to continue supporting the development of a safe, efficient, and environmentally sound global air transport system in all ICAO Contracting States:
+
+(a) support the ‘No Country Left Behind’ initiative;
+
+(b) support the aviation contribution to the United Nations 2030 Agenda for Sustainable Development;
+
+(c) support the continuation, where appropriate, of technical assistance and capacity building activities.
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).

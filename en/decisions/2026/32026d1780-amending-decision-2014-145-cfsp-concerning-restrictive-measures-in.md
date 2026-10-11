@@ -1,0 +1,83 @@
+---
+title: "Council Decision (CFSP) 2026/1780 of 17 July 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine"
+identifier: "32026D1780"
+eli: "http://data.europa.eu/eli/dec/2026/1780/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2026-07-17
+entry_into_force: 2026-09-22
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D1780"
+retrieved: 2026-10-11
+---
+
+# Council Decision (CFSP) 2026/1780 of 17 July 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
+
+**COUNCIL DECISION (CFSP) 2026/1780**
+
+**of 17 July 2026**
+
+**amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 29 thereof,
+
+Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,
+
+Whereas:
+
+(1) On 17 March 2014, the Council adopted Decision 2014/145/CFSP (1).
+
+(2) In its conclusions of 18 and 19 June 2026, the European Council reaffirmed its continued firm and unwavering support for Ukraine’s independence, sovereignty and territorial integrity within its internationally recognised borders. The European Council stated that the Union will continue to provide, in coordination with like-minded partners and allies, comprehensive political, financial, economic, humanitarian, military and diplomatic support to Ukraine and its people. The European Council strongly condemned the recent serious escalation by Russia, including large-scale missile and drone attacks against civilians in Ukraine. The European Council also expressed the Union’s readiness to increase pressure on Russia, including by adopting further sanctions.
+
+(3) In view of Russia’s continued and escalating aggression against Ukraine, and in particular its recent brutal military campaign deliberately targeting civilian infrastructure, including energy, water and health facilities, which has caused severe suffering to the civilian population and which aims to undermine Ukraine’s resilience, the Council considers it necessary to adopt further restrictive measures.
+
+(4) In particular, the Council considers that one person and five entities should be added to the list of persons, entities and bodies subject to restrictive measures set out in the Annex to Decision 2014/145/CFSP.
+
+(5) Decision 2014/145/CFSP should therefore be amended accordingly,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The Annex to Decision 2014/145/CFSP is amended in accordance with the Annex to this Decision.
+
+## Article 2
+
+This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.
+
+Done at Brussels, 17 July 2026.
+
+For the Council
+
+The President
+
+T. BYRNE
+
+(1) Council Decision 2014/145/CFSP of 17 March 2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L 78, 17.3.2014, p. 16, ELI: http://data.europa.eu/eli/dec/2014/145(1)/oj).
+
+## ANNEX
+
+The following persons and entities are added to the list of persons, entities and bodies set out in the Annex to Decision 2014/145/CFSP:
+
+**Persons**
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| ‘2105. | Irina Vladimirovna KHARISOVA Russian: Ирина Владимировна ХАРИСОВА | Function: Chairman of the Board of Directors of ABS Electro DOB: 20.1.1980 Nationality: Russian Gender: female Tax Identification Number: 771412568133 | Irina Kharisova is the Chairman of the Board of Directors of the ABS Electro group of companies, and the Director of several companies of that group. Companies of the ABS Electro group are involved in developing and manufacturing electronic and radio-electronic components. The information and communication technology sector is considered strategic in terms of economic growth. One of ABS Electro’s key products is the Kometa antenna developed by JSC VNIIR-Progress, one of its companies. This system is designed to disrupt communications by interfering with radio, satellite and radar frequencies and to enhance resistance against electronic interference. The Kometa-M variant, a type of Kometa antenna, is used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits. Weapons that incorporate Kometa antennas manufactured by JSC VNIIR-Progress are extensively used in Russia’s war of aggression against Ukraine. Irina Kharisova is also the Director of Limited Liability Company “Asset Automation” and Head of the Board of Directors of its subsidiary Joint Stock Company “ABS ZEIM Automation”. Joint Stock Company “ABS ZEIM Automation” is a Russian company producing automated control systems for industrial companies, in particular in the energy sector. One of the main activities of Joint Stock Company “ABS ZEIM Automation” is to supply equipment to oil and gas refining, storage or transport facilities operated by major Russian oil and gas companies. The energy sector, in particular the oil and gas sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation. Irina Kharisova is therefore supporting actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. She is also involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine. | 17.7.2026’; |
+
+**Entities**
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| ‘988. | Joint Stock Company “ABS ZEIM Automation” a.k.a. JSC “ABS ZEIM Automation” Russian: Акционерное общество “АБС ЗЭИМ Автоматизация” | Address: I.Yakovleva ave., 1, Cheboksary, 428003, Chuvash Republic, Russian Federation Type of entity: Joint Stock Company Place of registration: Russian Federation Date of registration: 12.8.1992 Registration number: 1022101130314 Tax Identification Number: 2128006240 | Joint Stock Company “ABS ZEIM Automation” is a Russian company producing automated control systems for industrial companies, in particular in the energy sector. One of the main activities of Joint Stock Company “ABS ZEIM Automation” is to supply equipment to oil and gas refining, storage or transport facilities operated by major Russian oil and gas companies. The energy sector, in particular the oil and gas sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation. Joint Stock Company “ABS ZEIM Automation” is also part of the ABS Electro group of companies, which is involved in developing and manufacturing electronic and radio-electronic components. In particular, Joint Stock Company “ABS ZEIM Automation” is owned by Limited Liability Company “Asset Automation”, which holds the trademark under which the ABS Electro group of companies operate, and by Limited Liability Company “Asset Electro” through Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production”. ABS Electro group includes JSC VNIIR-Progress, a Russian company which produces the Kometa antenna used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits to enhance their resistance against electronic interference. JSC “Sokol Asset”, which owns JSC VNIIR-Progress, and Limited Liability Company “Asset Electro” share the same address. Joint Stock Company “ABS ZEIM Automation” is therefore involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine. It is also associated with JSC VNIIR-Progress. | 17.7.2026 |
+| 989. | Limited Liability Company “Asset Automation” a.k.a. LLC “Asset Automation” a.k.a. LLC “Scientific and Production Enterprise ‘ABS Electro’” a.k.a. LLC “NPP ‘ABS Electro’” a.k.a. “ABS Electro Group” Russian: Общество с ограниченной ответственностью “Эссет Автоматизация” | Address: 121471, City of Moscow, Municipal District of the Intracity Territory, Mozhaysky, 2nd Peter Alekseev lane, building 2, structure 1; 109028, Moscow, Serebryanichaya Embankment, 29 Type of entity: Limited Liability Company Place of registration: Russian Federation Date of registration: 27.4.2012 Registration number: 1122130005502 Tax Identification Number: 2130102938 | Limited Liability Company “Asset Automation” is a Russian company which is part of the ABS Electro group of companies and which is involved in developing and manufacturing electronic and radio-electronic components. In particular, Limited Liability Company “Asset Automation” holds the trademark under which the ABS Electro group of companies operates. One of ABS Electro’s key products is the Kometa antenna developed by one of its companies, JSC VNIIR-Progress. This system is designed to disrupt communications by interfering with radio, satellite and radar frequencies and to enhance resistance against electronic interference. The Kometa-M variant, a type of Kometa antenna, is used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits. Weapons that incorporate Kometa antennas manufactured by JSC VNIIR-Progress are extensively used in Russia’s war of aggression against Ukraine. Limited Liability Company “Asset Automation” also owns Joint Stock Company “ABS ZEIM Automation”, a Russian company producing automated control systems for industrial companies, in particular in the energy sector. One of the main activities of Joint Stock Company “ABS ZEIM Automation” is to supply equipment to oil and gas refining, storage or transport facilities operated by major Russian oil and gas companies. The energy sector, in particular the oil and gas sector, is a sector providing a substantial source of revenue to the Government of the Russian Federation. Limited Liability Company “Asset Automation” is therefore supporting actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. Limited Liability Company “Asset Automation” is also involved in an economic sector providing a substantial source of revenue to the Government of the Russian Federation, which is responsible for the annexation of Crimea and the destabilisation of Ukraine. It is also associated with JSC VNIIR-Progress | 17.7.2026 |
+| 990. | Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” a.k.a. JSC VNIIR Russian: Открытое акционерное общество “Всероссийский научно-исследовательский, проектно-конструкторский и технологический институт релестроения с опытным производством” a.k.a. АО “Вниир” | Address: 4 I.Yakovleva Ave., Cheboksary, 428027, Chuvash Republic, Russian Federation Type of entity: Open Joint Stock Company Place of registration: Russian Federation Date of registration: 19.6.1996 Registration number 1022101131580 Tax Identification Number: 2128001516 | Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” is a Russian company which is part of the ABS Electro group of companies and which is involved in developing and manufacturing electronic and radio-electronic components. Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” is owned by LLC “Assets Electro”, a company which shares the same management and ownership structure as Limited Liability Company “Asset Automation”, the company holding the trademark under which the ABS Electro group of companies operate. Along with Limited Liability Company “Asset Automation”, Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” also owns shares in LLC “ABS ZEIM Automation” . ABS Electro group also includes JSC VNIIR-Progress, a Russian research and development institute that produces the Kometa antenna used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits to enhance their resistance against electronic interference. JSC VNIIR-Progress and Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” share the same address. JSC VNIIR-Progress and Limited Liability Company “Asset Automation” are subject to Union restrictive measures . Open Joint Stock Company “All-Russian Scientific Research, Design and Technological Institute of Relay Construction with pilot production” is therefore associated with Limited Liability Company “Asset Automation” and JSC VNIIR-Progress. | 17.7.2026 |
+| 991. | Limited Liability Company “Asset Electro” a.k.a. LLC “Asset Electro” a.k.a. LLC “Esset Electro” a.k.a. LLC “NPP ‘ABS Electro’” Russian: Общество с ограниченной ответственностью “Эссет Электро” | Address: 109028, Moscow, Serebryanichaya Embankment, 29 Type of entity: Limited Liability Company Place of registration: Russian Federation Date of registration: 23.4.2012 Registration number: 1127746315762 Tax Identification Number: 7710911530 | Limited Liability Company “Asset Electro” is a Russian company which is part of the ABS Electro Group of companies, and which is involved in developing and manufacturing electronic and radio-electronic components. It shares the same managing and ownership structure as Limited Liability Company “Asset Automation”, the company the trademark under which the ABS Electro group of companies operate. ABS Electro group notably includes JSC VNIIR-Progress, a Russian research and development institute that produces the Kometa antenna used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits to enhance their resistance against electronic interference. JSC “Sokol Asset”, which owns JSC VNIIR-Progress, and Limited Liability Company “Asset Electro” share the same address. JSC VNIIR-Progress and Limited Liability Company “Asset Automation” are subject to Union restrictive measures. Limited Liability Company “Asset Electro” is therefore associated with LLC “Asset Automation” and JSC VNIIR-Progress. | 17.7.2026 |
+| 992. | Joint Stock Company “Sokol Asset” a.k.a. JSC “Sokol Asset” a.k.a. JSC “Sokol Essets” Russian: Акционерное общество “Сокол Эссет” | Address: 109028, Moscow, Municipal District Of The Intracity Territory Of Tagansky, Serebryanicheskaya Embankment, Building 29, Russian Federation Type of entity: Joint Stock Company Place of registration: Russian Federation Date of registration: 11.4.2023 Registration number: 1237700271423 Tax Identification Number: 9710112971 | Joint Stock Company “Sokol Asset” is a Russian company which owns JSC VNIIR-Progress. JSC VNIIR-Progress is a Russian research and development institute that specialises in the production of advanced electronic warfare systems, in particular technologies for signal-jamming and intelligence-gathering. It is part of the “ABS Electro” Group of companies. One of its key products is the Kometa antenna, which is designed to disrupt communications by interfering with radio, satellite and radar frequencies and to enhance resistance against electronic interference. The Kometa-M variant, a type of Kometa antenna, is used in devices such as the Shahed and Geran unmanned aerial vehicle and guided bomb kits. Weapons that incorporate Kometa antennas manufactured by JSC VNIIR-Progress are extensively used in Russia’s war of aggression against Ukraine. JSC VNIIR-Progress has also collaborated extensively with Russia’s Ministry of Defence, significantly increasing production of navigation and electrical systems for military equipment. Joint Stock Company “Sokol Asset” is therefore supporting the Government of the Russian Federation, which is responsible for the illegal annexation of Crimea and the destabilisation of Ukraine. It is also supporting actions which undermine and threaten the territorial integrity, sovereignty and independence of Ukraine. | 17.7.2026’. |
+
+ELI: http://data.europa.eu/eli/dec/2026/1780/oj
+
+ISSN 1977-0677 (electronic edition)
