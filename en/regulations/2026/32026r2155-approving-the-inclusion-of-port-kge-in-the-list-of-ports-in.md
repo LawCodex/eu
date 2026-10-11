@@ -1,0 +1,88 @@
+---
+title: "Commission Implementing Regulation (EU) 2026/2155 of 28 September 2026 approving the inclusion of Port Køge in the list of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 and amending Implementing Regulation (EU) 2025/897 accordingly"
+identifier: "32026R2155"
+eli: "http://data.europa.eu/eli/reg_impl/2026/2155/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2026-09-28
+entry_into_force: 2026-10-04
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2155"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2026/2155 of 28 September 2026 approving the inclusion of Port Køge in the list of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 and amending Implementing Regulation (EU) 2025/897 accordingly
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2026/2155**
+
+**of 28 September 2026**
+
+**approving the inclusion of Port Køge in the list of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 and amending Implementing Regulation (EU) 2025/897 accordingly**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Union control system for ensuring compliance with the rules of the common fisheries policy amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008, and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006 (1), and in particular Article 14(6) thereof,
+
+Whereas:
+
+(1) Commission Implementing Regulation (EU) 2025/897 (2) approved the initial list of ports which comply with the conditions for applying the derogation from the margins of tolerance in estimating catches for unsorted landings or transhipments of small pelagic fisheries, industrial fisheries and tropical tuna purse seine fisheries. That list was amended by adding new ports which comply with the relevant provisions of Chapter II of Commission Implementing Regulation (EU) 2024/1474 (3), approved by Commission Implementing Regulations (EU) 2025/2156 (4) and (EU) 2026/1171 (5).
+
+(2) In accordance with Article 6 of Implementing Regulation (EU) 2024/1474, Denmark submitted an application to the Commission to include one port located on its territory, namely the port of Køge, in the list of ports approved by Implementing Regulation (EU) 2025/897.
+
+(3) Based on the information and evidence submitted by Denmark in its application and following an assessment carried out by the Commission as referred to in Article 7(1) of Implementing Regulation (EU) 2024/1474, the Commission found that the conditions set out in Chapter II of that Implementing Regulation for the port proposed to be listed have been fulfilled.
+
+(4) According to the information submitted by Denmark, the port of Køge meets the conditions required under Articles 2 and 3 of Implementing Regulation (EU) 2024/1474 for the listing of ports within the Union. The port has in place procedures to ensure the accurate weighing of landed catches. Specifically, the port is equipped with weighbridges, water separators to enable dewatering of catches at landing prior to their weighing, a sampling chute accessible by both operators and inspectors, and with a remote electronic monitoring system with CCTV cameras. The competent authorities have therefore the requisite systems in place to fully monitor the accuracy of the weighing of each landing and transhipment of catches of fisheries covered by Article 14(4), point (a) of Regulation (EC) No 1224/2009. The weighing procedure is carried out under the responsibility of approved and independent third-party weighers meeting all the requirements laid down in Article 3(3) of Implementing Regulation (EU) 2024/1474.
+
+(5) Based on the information submitted, the port proposed to be listed by Denmark should therefore be approved and entered in the list of ports referred to in Article 14(6) of Regulation (EC) No 1224/2009.
+
+(6) Implementing Regulation (EU) 2025/897 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The Commission approves the inclusion of the port of Køge, located in the territory of Denmark, in the list of ports approved by Implementing Regulation (EU) 2025/897 for catches set out in Article 14(4), point (a), of the Regulation (EC) No 1224/2009.
+
+## Article 2
+
+The Annex to Implementing Regulation (EU) 2025/897 is amended in accordance with the Annex to this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 28 September 2026.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 343, 22.12.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/1224/oj.
+
+(2) Commission Implementing Regulation (EU) 2025/897 of 15 May 2025 approving the listing of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 (OJ L, 2025/897, 16.5.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/897/oj).
+
+(3) Commission Implementing Regulation (EU) 2024/1474 of 24 May 2024 laying down rules for the application of Article 14(4), point (a), of the Council Regulation (EC) No 1224/2009 as regards derogation from the margin of tolerance in estimating catches for unsorted landings and transhipments from small pelagic, industrial and tropical tuna purse seiners fisheries (OJ L, 2024/1474, 27.5.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/1474/oj).
+
+(4) Commission Implementing Regulation (EU) 2025/2156 of 24 October 2025 amending Implementing Regulation (EU) 2025/897 as regards the approval of the listing of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 (OJ L, 2025/2156, 27.10.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/2156/oj).
+
+(5) Commission Implementing Regulation (EU) 2026/1171 of 1 June 2026 approving the inclusion of Port Victoria in the list of ports in accordance with Chapter II of Implementing Regulation (EU) 2024/1474 and amending Implementing Regulation (EU) 2025/897 accordingly (OJ L, 2026/1171, 2.6.2026, ELI: http://data.europa.eu/eli/reg_impl/2026/1171/oj).
+
+## ANNEX
+
+In the Annex to Implementing Regulation (EU) 2025/897, the following entry is added to the list of approved ports pursuant to Chapter II of Implementing Regulation (EU) 2024/1474:
+
+| ‘Name of the listed port | Location | Union/Third Country | Applicant Member State |
+| --- | --- | --- | --- |
+| Køge | Denmark | Union | Denmark’ |
+
+ELI: http://data.europa.eu/eli/reg_impl/2026/2155/oj
+
+ISSN 1977-0677 (electronic edition)

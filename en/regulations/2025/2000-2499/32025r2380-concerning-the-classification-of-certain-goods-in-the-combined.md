@@ -1,0 +1,86 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/2380 of 18 November 2025 concerning the classification of certain goods in the Combined Nomenclature"
+identifier: "32025R2380"
+eli: "http://data.europa.eu/eli/reg_impl/2025/2380/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-11-18
+entry_into_force: 2026-01-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2380"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/2380 of 18 November 2025 concerning the classification of certain goods in the Combined Nomenclature
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/2380**
+
+**of 18 November 2025**
+
+**concerning the classification of certain goods in the Combined Nomenclature**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof,
+
+Whereas:
+
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) No 2658/87 (2), it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation.
+
+(2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods.
+
+(3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table.
+
+(4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table.
+
+## Article 2
+
+Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 18 November 2025.
+
+For the Commission
+
+Gerassimos THOMAS
+
+Director-General
+
+Directorate-General for Taxation and Customs Union
+
+(1) OJ L 269, 10.10.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj.
+
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1, ELI: http://data.europa.eu/eli/reg/1987/2658/oj).
+
+## ANNEX
+
+| Description of the goods | Classification (CN-code) | Reasons |
+| --- | --- | --- |
+| (1) | (2) | (3) |
+| A specially shaped bracket, made of heat-resistant, stainless-steel wire, used as a retainer for the heating element of an electric grill. The heat-resistant wire can resist heat up to 800 °C. The article has specific dimensions to fit in a specific type of grill apparatus and has bent ends, so that the bracket can be fixed in a hole at the bottom of the grill housing (bowl). Its ends are bent to allow secured fixing of the bracket in a designated hole at the base of the grill. The retainer is designed to keep the heating element in the appropriate position, by supporting its weight and by firmly holding it in place. The article does not perform any additional function (e.g. heating). See images (*1). | 7326 20 00 | Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 7326 and 7326 20 00. The article is an important component of the electric grill. It is intended to support and hold the heating element in place, thereby ensuring consistent and even heat distribution across the cooking surface/grate, reducing the risk of electrical hazards and extending the lifespan of both the heating element and the grill. Nevertheless, based on its objective characteristics, the article is not identifiable as being a part suitable for use solely or principally with electrothermic appliances of heading 8516. Classification under heading 8516, as a part of the electric grill is therefore excluded. (See also the judgment of the Court of Justice of the European Union of 19 July 2012 in Case C-336/11, Rohm & Haas Electronic Materials CMP Europe GmbH and Others, ECLI:EU:C:2012:500, paragraphs 34 and 35.) Consequently, the steel bracket is to be classified according to its constituent material, under heading 7326, as other article of iron or steel. The product is therefore to be classified under CN code 7326 20 00, as an article of iron or steel wire. |
+
+| [image] | [image] |
+| --- | --- |
+
+(*1) The images are purely for information.
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/2380/oj
+
+ISSN 1977-0677 (electronic edition)

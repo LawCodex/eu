@@ -1,0 +1,82 @@
+---
+title: "Commission Delegated Regulation (EU) 2020/2191 of 20 November 2020 amending Delegated Regulation (EU) 2015/2446 as regards the time-limits for lodging entry summary declarations and pre-departure declarations in case of transport by sea from and to the United Kingdom of Great Britain and Northern Ireland, the Channel Islands and the Isle of Man"
+identifier: "32020R2191"
+eli: "http://data.europa.eu/eli/reg_del/2020/2191/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2020-11-20
+entry_into_force: 2020-10-29
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2191"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2020/2191 of 20 November 2020 amending Delegated Regulation (EU) 2015/2446 as regards the time-limits for lodging entry summary declarations and pre-departure declarations in case of transport by sea from and to the United Kingdom of Great Britain and Northern Ireland, the Channel Islands and the Isle of Man
+
+**COMMISSION DELEGATED REGULATION (EU) 2020/2191**
+
+**of 20 November 2020**
+
+**amending Delegated Regulation (EU) 2015/2446 as regards the time-limits for lodging entry summary declarations and pre-departure declarations in case of transport by sea from and to the United Kingdom of Great Britain and Northern Ireland, the Channel Islands and the Isle of Man**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community (1), and in particular Articles 126 and 127(1) thereof,
+
+Having regard to the Protocol on Ireland/Northern Ireland annexed to that Agreement, and in particular Articles 5(3) and (4) and 13(1) thereof,
+
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (2), and in particular Articles 131(b) and 265(a) thereof,
+
+Whereas:
+
+(1) On 29 March 2017, the United Kingdom submitted the notification of its intention to withdraw from the Union pursuant to Article 50 of the Treaty on European Union.
+
+(2) On 1 February 2020, the United Kingdom withdrew from the European Union and from the European Atomic Energy Community. Pursuant to Articles 126 and 127 of the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community (Withdrawal Agreement), Union law is applicable to and in the United Kingdom during a transition period that is to end on 31 December 2020 (‘transition period’).
+
+(3) In accordance with Article 185 of the Withdrawal Agreement and with Article 5(3) of the Protocol on Ireland/Northern Ireland, customs legislation as defined in point (2) of Article 5 of Regulation (EU) No 952/2013 is applicable to and in the United Kingdom in respect of Northern Ireland (not including the territorial waters of the United Kingdom) after the end of the transition period. In addition, in accordance with Article 5(4) and Annex 2, point 1 of that Protocol, Regulation (EU) No 952/2013 is applicable to and in the United Kingdom in respect of Northern Ireland. References in this Regulation to the United Kingdom of Great Britain and Northern Ireland should therefore exclude the ports located in Northern Ireland.
+
+(4) From the end of the transition period, goods arriving in the customs territory of the Union from the United Kingdom must be covered by an entry summary declaration and goods leaving the customs territory of the Union for a destination in the United Kingdom, with the exception of Northern Ireland, must be covered by a pre-departure declaration. Those declarations are to be lodged within a time-limit that provides for sufficient time for the customs administrations of the Member States and of the United Kingdom in respect of Northern Ireland to carry out proper risk analysis for security and safety purposes, prior to the arrival of the goods and prior to the departure of the goods, respectively, without causing major disruption in the logistical flows and processes of economic operators.
+
+(5) Currently, in accordance with Commission Delegated Regulation (EU) 2015/2446 (3), specific time-limits are laid down for the lodging of entry summary declarations or pre-departure declarations for cargo movements between the customs territory of the Union and any port on the North Sea. After the transition period, the same time-limits should apply for those purposes for goods transported by sea arriving from or leaving for ports of the United Kingdom which are not located on the North Sea. Therefore, the time-limits laid down for the North Sea ports should apply to all ports of the United Kingdom of Great Britain and Northern Ireland and of the Channel Islands and the Isle of Man, where an entry summary declaration or a pre-departure declaration is required.
+
+(6) This Regulation should enter into force as a matter of urgency and apply as from 1 January 2021 to ensure the smooth daily operation of customs administrations and economic operators after the end of the transition period,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Delegated Regulation (EU) 2015/2446 is amended as follows:
+
+(1) in Article 105(c), the following point is added:
+
+‘(vi) ports of the United Kingdom of Great Britain and Northern Ireland, with the exception of ports located in Northern Ireland, and ports of the Channel Islands and the Isle of Man;’;
+
+(2) in Article 244(1)(a), point (ii) is replaced by the following:
+
+‘(ii) for containerised cargo movements between the customs territory of the Union and Greenland, the Faeroe Islands, Iceland or ports on the Baltic Sea, the North Sea, the Black Sea or the Mediterranean, all ports of Morocco and the ports of the United Kingdom of Great Britain and Northern Ireland, with the exception of ports located in Northern Ireland, and ports of the Channel Islands and the Isle of Man, at the latest two hours before departure from a port in the customs territory of the Union;’.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 20 November 2020.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 29, 31.1.2020, p. 7.
+
+(2) OJ L 269, 10.10.2013, p. 1.
+
+(3) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1).

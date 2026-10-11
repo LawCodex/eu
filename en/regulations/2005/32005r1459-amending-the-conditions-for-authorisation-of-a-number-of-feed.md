@@ -7,10 +7,10 @@ jurisdiction: eu
 language: en
 date: 2005-09-08
 entry_into_force: 2005-05-31
-last_amended: 2017-07-19
-consolidated_version: "02005R1459-20170719"
+last_amended: 2015-06-24
+consolidated_version: "02005R1459-20150624"
 status: in_force
-source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R1459-20170719"
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R1459-20150624"
 retrieved: 2026-10-11
 ---
 
@@ -25,10 +25,70 @@ retrieved: 2026-10-11
 **(Text with EEA relevance)**
 
 <table>
-<tbody><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
-<tr><td>No</td><td>page</td><td>date</td></tr>
-<tr><td></td><td>Commission Implementing Regulation (EU) 2017/1145 of 8 June 2017</td><td>L 166</td><td>1</td><td>29.6.2017</td></tr>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COMMISSION IMPLEMENTING REGULATION (EU) 2015/861 of 3 June 2015</td><td> L 137</td><td>1</td><td>4.6.2015</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1459/2005**
+
+**of 8 September 2005**
+
+**amending the conditions for authorisation of a number of feed additives belonging to the group of trace elements**
+
+**(Text with EEA relevance)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition ( 1 ), and in particular the third sentence of Article 13(2) thereof,
+
+Whereas:
+
+(1) Several iodine salts, which are additives belonging to the group of trace elements, have been authorised by Council Directive 70/524/EEC ( 2 ), as amended by Commission Directive 96/7/EC ( 3 ). Those additives have been notified as existing products on the basis of Article 10 of Regulation (EC) No 1831/2003 and are subject to the verifications and the procedures in application of that provision.
+
+(2) The maximum content of the trace element Iodine-I which is currently authorised in feed is 4 ppm for equines, 20 ppm for fish and 10 ppm for other species or categories of animals.
+
+(3) Regulation (EC) No 1831/2003 provides for the possibility of modifying the authorisation of an additive further to an opinion of the European Food Safety Authority (the Authority) on whether the authorisation still meets the conditions set out in that Regulation.
+
+(4) The Commission asked the Authority to evaluate the physiological requirements for iodine of the different animal species referred to in Directive 70/524/EEC and to advise on the possible detrimental effects on human and animal health or on the environment of iodine, used at the current authorised levels. Following this request, the Authority adopted on 25 January 2005 an opinion on the use of iodine in feedingstuffs.
+
+(5) The opinion of the Authority concludes that the worst case scenario model calculations with milk and eggs, based on the currently authorised maximum iodine level in feed, show that the upper limit (UL) for adults and adolescents could be exceeded.
+
+(6) Therefore, the maximum content of Iodine-I in feed for these two types of production, i.e. for dairy cows and laying hens, needs to be lowered in order to reduce the risk of any adverse effects on human health.
+
+(7) It is appropriate to provide for a transitional period of 12 months in order to permit the use up of existing stocks of feedingstuffs according to the previous conditions established in accordance with Directive 70/524/EEC.
+
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Without prejudice to the other conditions for the authorisation of the additives E2 Iodine-I belonging to the group of trace elements laid down in Directive 70/524/EEC, the maximum contents of the element in mg/kg of complete feedingstuff shall be replaced by those set out in the Annex to this Regulation.
+
+## Article 2
+
+1\. This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 12 months after the date of publication of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+<table>
+<tbody><tr><td>EC No</td><td>Element</td><td>Additive</td><td>Chemical formula and description</td><td>Maximum content of the element in mg/kg of complete feedingstuff with a moisture content of 12 %</td><td>Other provisions</td><td>Period of authorisation</td></tr>
+<tr><td rowspan="4">E2</td><td rowspan="4">Iodine-I</td><td>Calcium iodate, hexahydrate</td><td>Ca(IO3)2 . 6H2O</td><td rowspan="4">Equines: 4 (total) Dairy cows and laying hens: 5 (total)  Fish: 20 (total)  Other species or categories of animals: 10 (total) </td><td rowspan="4">—</td><td rowspan="4">Without a time limit</td></tr>
+<tr><td> Calcium iodate, anhydrous</td><td>Ca(IO3)2  </td></tr>
+<tr><td>Sodium iodide</td><td>NaI</td></tr>
+<tr><td> Potassium iodide</td><td>KI  </td></tr>
 </tbody>
 </table>
 
-The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R1459-20150624
+( 1 ) OJ L 268, 18.10.2003, p. 29. Regulation as amended by Commission Regulation (EC) No 378/2005 (OJ L 59, 5.3.2005, p. 8).
+
+( 2 ) OJ L 270, 14.12.1970, p. 1. Directive repealed by Regulation (EC) No 1831/2003.
+
+( 3 ) OJ L 51, 1.3.1996, p. 45.

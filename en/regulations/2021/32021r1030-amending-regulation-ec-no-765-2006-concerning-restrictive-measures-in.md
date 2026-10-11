@@ -1,0 +1,442 @@
+---
+title: "Council Regulation (EU) 2021/1030 of 24 June 2021 amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus"
+identifier: "32021R1030"
+eli: "http://data.europa.eu/eli/reg/2021/1030/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-06-24
+entry_into_force: 2021-04-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1030"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2021/1030 of 24 June 2021 amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus
+
+**COUNCIL REGULATION (EU) 2021/1030**
+
+**of 24 June 2021**
+
+**amending Regulation (EC) No 765/2006 concerning restrictive measures in respect of Belarus**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,
+
+Having regard to Council Decision 2012/642/CFSP of 15 October 2012 concerning restrictive measures in view of the situation in Belarus (1),
+
+Having regard to the joint proposal from the High Representative of the Union for Foreign Affairs and Security Policy and the European Commission,
+
+Whereas:
+
+(1) Council Regulation (EC) No 765/2006 (2) provides for the freezing of funds and economic resources of, and prohibits making funds or economic resources available to, persons, entities or bodies responsible for serious violations of human rights or the repression of civil society and democratic opposition, or whose activities otherwise seriously undermine democracy or the rule of law in Belarus or who benefit from or support the Lukashenka regime. It also prohibits the provision of technical assistance related to the goods and technology listed in the Common Military List of the European Union or related to the provision, manufacture, maintenance and use of such goods. It imposes a ban on the export of equipment which might be used for internal repression to any person, entity or body in Belarus or for use in Belarus, and prohibits the provision of related technical assistance, brokering services, financing or financial assistance. It exempts biathlon equipment from the export ban and provides for derogations from the export ban on certain types of small-calibre sporting rifles, small-calibre sporting pistols and small-calibre ammunition, and from the ban on assistance or services related thereto, while recognising that the export of such equipment should be limited. It further prohibits Belarusian air carriers from landing in, taking off from or overflying the territory of the Union.
+
+(2) Regulation (EC) No 765/2006 gives effect to the measures provided for in Decision 2012/642/CFSP.
+
+(3) Council Decision (CFSP) 2021/1031 (3) introduces further targeted economic sanctions aimed at implementing the conclusions of the European Council of 24 and 25 May 2021 following the unlawful forced landing of an intra-EU Ryanair flight in Minsk, Belarus, on 23 May 2021. Decision (CFSP) 2021/1031 introduces further restrictions related to the trade of arms. It also prohibits the sale, supply, transfer or export of equipment, technology or software intended primarily for use in the monitoring or interception by, or on behalf of, the Belarusian authorities of the internet and of telephone communications on mobile or fixed networks. It prohibits the sale, supply or transfer of dual-use items for military use and to specified persons, entities or bodies in Belarus. In addition, it introduces further trade restrictions concerning petroleum products, potassium chloride ('potash') and goods used for the production or manufacturing of tobacco products. Furthermore, it imposes restrictions on access to Union capital markets in relation to the Belarusian Government as well as Belarusian state-owned financial institutions and entities. It introduces a prohibition on providing insurance and reinsurance to the Belarusian Government and Belarusian public bodies and agencies. It imposes certain prohibitions on the European Investment Bank in relation to projects in the public sector. Those amendments need to be reflected in Regulation (EC) No 765/2006.
+
+(4) Regulation (EC) No 765/2006 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 765/2006 is amended as follows:
+
+(1) in Article 1, the following points are added:
+
+‘7. "dual-use goods and technology" means the items listed in Annex I to Council Regulation (EC) No 428/2009 (*).
+
+8\. "investment services" means the following services and activities:
+
+(i) reception and transmission of orders in relation to one or more financial instruments;
+
+(ii) execution of orders on behalf of clients;
+
+(iii) dealing on own account;
+
+(iv) portfolio management;
+
+(v) investment advice;
+
+(vi) underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis;
+
+(vii) placing of financial instruments without a firm commitment basis;
+
+(viii) any service in relation to the admission to trading on a regulated market or trading on a multilateral trading facility.
+
+9\. "transferable securities" means the following classes of securities which are negotiable on the capital market, with the exception of instruments of payment:
+
+(i) shares in companies and other securities equivalent to shares in companies, partnerships or other entities, and depositary receipts in respect of shares;
+
+(ii) bonds or other forms of securitised debt, including depositary receipts in respect of such securities;
+
+(iii) any other securities giving the right to acquire or sell any such transferable securities.
+
+10 "money-market instruments" means those classes of instruments which are normally dealt in on the money market, such as treasury bills, certificates of deposit and commercial papers and excluding instruments of payment.
+
+11\. "credit institution" means an undertaking the business of which is to take deposits or other repayable funds from the public and to grant credit for its own account.
+
+(*) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).’';"
+
+(2) in Article 1a, paragraphs 4, 5 and 6 are deleted;
+
+(3) in Article 1b, paragraphs 4, 5 and 6 are deleted;
+
+(4) the following articles are added:
+
+## ‘Article 1c
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, equipment, technology or software identified in Annex IV, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus, unless the competent authority of the relevant Member State, as identified on the websites listed in Annex II, has given prior authorisation.
+
+2\. The competent authorities of the Member States, as identified on the websites listed in Annex II, shall not grant any authorisation under paragraph 1 if they have reasonable grounds to determine that the equipment, technology or software in question would be used for repression by the Belarusian Government, public bodies, corporations or agencies, or any natural or legal person or entity acting on their behalf or at their direction.
+
+3\. Annex IV shall include equipment, technology or software intended primarily for use in the monitoring or interception of internet or telephone communications.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within two weeks of the authorisation.
+
+## Article 1d
+
+1\. Unless the competent authority of the relevant Member State, as identified on the websites listed in Annex II, has given prior authorisation in accordance with Article 1c(2), it shall be prohibited to:
+
+(a) provide, directly or indirectly, technical assistance or brokering services related to the equipment, technology and software identified in Annex IV, or related to the installation, provision, manufacture, maintenance and use of the equipment and technology identified in Annex IV or to the provision, installation, operation or updating of any software identified in Annex IV, to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(b) provide, directly or indirectly, financing or financial assistance related to the equipment, technology and software identified in Annex IV to any natural or legal person, entity or body in Belarus or for use in Belarus;
+
+(c) provide any telecommunication or internet monitoring or interception services of any kind to, or for the direct or indirect benefit of, the Belarusian Government, public bodies, corporations and agencies or any natural or legal person or entity acting on their behalf or at their direction.
+
+2\. For the purposes of point (c) of paragraph 1, "telecommunication or internet monitoring or interception services" means those services that provide, in particular using equipment, technology or software as identified in Annex IV, access to and delivery of a subject's incoming and outgoing telecommunications and call-associated data for the purpose of its extraction, decoding, recording, processing, analysis or storing, or any other related activity.
+
+## Article 1e
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus, if those items are or may be intended, in their entirety or in part, for military use or for a military end-user.
+
+Where the end-user is the Belarusian military, any dual-use goods and technology procured by it shall be deemed to be for military use.
+
+2\. When deciding on requests for authorisations in accordance with Regulation (EC) No 428/2009, the competent authorities shall not grant an authorisation for exports to any natural or legal person, entity or body in Belarus or for use in Belarus, if they have reasonable grounds to believe that the end-user might be a military end-user or that the items might have a military end-use.
+
+The competent authorities may, however, grant an authorisation where the export concerns the execution of an obligation arising from a contract concluded before 25 June 2021, or ancillary contracts necessary for the execution of such a contract.
+
+Exporters shall supply the competent authorities with all relevant information required for their application for an export authorisation.
+
+## Article 1f
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to natural or legal persons, entities or bodies in Belarus as listed in Annex V to this Regulation.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of these goods and technology, directly or indirectly to any natural or legal person, entity or body in Belarus, as listed in Annex V;
+
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of these goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in in Belarus, as listed in Annex V.
+
+3\. The prohibitions in paragraphs 1 and 2 shall be without prejudice to the execution of contracts concluded before 25 June 2021, or ancillary contracts necessary for the execution of such contracts, and to the provision of assistance necessary for the maintenance and safety of existing capabilities within the Union.
+
+4\. The prohibitions in paragraphs 1 and 2 shall not apply to exports, sale, supplies or transfers of dual-use goods and technology or the related provision of technical or financial assistance, for the maintenance and safety of existing civil nuclear capabilities, for non-military use or for a non-military end user.
+
+## Article 1g
+
+1\. It shall be prohibited to sell, supply, transfer, or export the goods listed in Annex VI, whether such goods originate or not in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus.
+
+2\. Annex VI shall include the goods used for the production or manufacturing of tobacco products.
+
+3\. The prohibitions in paragraph 1 shall be without prejudice to the execution of contracts concluded before 25 June 2021, or ancillary contracts necessary for the execution of such contracts.
+
+## Article 1h
+
+1\. It shall be prohibited:
+
+(a) to import petroleum products as listed in Annex VII into the Union if they:
+
+(i) originate in Belarus; or
+
+(ii) have been exported from Belarus;
+
+(b) to purchase petroleum products which are located in or which originated in Belarus;
+
+(c) to transport petroleum products if they originate in Belarus, or are being exported from Belarus to any other country;
+
+(d) to provide, directly or indirectly, technical assistance, brokering services, financing or financial assistance, including financial derivatives, as well as insurance and re-insurance, related to the prohibitions set out in points (a), (b) and (c).
+
+2\. The prohibitions in paragraph 1 shall not apply to purchases in Belarus of petroleum products which are required in order to meet the essential needs of the purchaser in Belarus or of humanitarian projects in Belarus.
+
+3\. The prohibitions in paragraph 1 shall be without prejudice to the execution of contracts concluded before 25 June 2021, or ancillary contracts necessary for the execution of such contracts.
+
+## Article 1i
+
+1\. It shall be prohibited to import, purchase or transfer, directly or indirectly, potassium chloride ("potash") products as listed in Annex VIII from Belarus, whether or not originating in Belarus.
+
+2\. The prohibitions in paragraph 1 shall be without prejudice to the execution of contracts concluded before 25 June 2021, or ancillary contracts necessary for the execution of such contracts.
+
+## Article 1j
+
+It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money-market instruments with a maturity exceeding 90 days, issued after 29 June 2021 by:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies;
+
+(b) a major credit or other institution established in Belarus with over 50 % public ownership or control as of 1 June 2021, as listed in Annex IX;
+
+(c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50 % by an entity listed in Annex IX; or
+
+(d) a legal person, entity or body acting on behalf or at the direction of an entity referred to in point (c) of this Article or listed in Annex IX.
+
+## Article 1k
+
+1\. It shall be prohibited to directly or indirectly make or be part of any arrangement to make new loans or credit with a maturity exceeding 90 days, after 29 June 2021, to:
+
+(a) the Republic of Belarus, its Government, its public bodies, corporations or agencies; or
+
+(b) a major credit or other institution established in Belarus with over 50 % public ownership or control as of 1 June 2021, as listed in Annex IX; or
+
+(c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50 % by an entity listed in Annex IX; or
+
+(d) any natural or legal person, entity or body when acting on behalf or at the direction of a legal person, entity or body referred to in point (c).
+
+2\. The prohibition shall not apply to loans or credits that have a specific and documented objective to provide financing for non-prohibited imports or exports of goods and non-financial services between the Union and any third State, including the expenditure for goods and services from another third State that is necessary for executing the export or import contracts.
+
+3\. The competent authority of a Member State may also grant, under such terms as it deems appropriate, an authorisation to make or be part of the loans or credits referred to in paragraph 1 if it has determined that:
+
+(i) the activities concerned are for the purpose of providing support for the Belarusian civilian population, such as humanitarian assistance, environmental projects, and nuclear safety or the loan or credit is necessary to comply with legal or regulatory minimum reserve or similar requirements to meet solvency and liquidity criteria for financial entities in Belarus which are majority-owned by financial institutions of the Union; and
+
+(ii) the activities concerned do not entail funds or economic resources being made available, directly or indirectly, to or for the benefit of a person, entity or body referred to in Article 2.
+
+When applying the conditions under points (i) and (ii), the competent authority shall require adequate information as regards the use of the authorisation granted, including information concerning the purpose of, and the counterparts to, the activities concerned.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within two weeks of the authorisation.
+
+4\. The prohibition in paragraph 1 shall not apply to drawdowns or disbursements made under a contract concluded before 25 June 2021 provided that the following conditions are met:
+
+(a) all the terms and conditions of such drawdowns or disbursements:
+
+(i) were agreed before 25 June 2021; and
+
+(ii) have not been modified on or after that date; and
+
+(b) before 25 June 2021 a contractual maturity date has been fixed for the repayment in full of all funds made available and for the cancellation of all the commitments, rights and obligations under the contract; the terms and conditions of drawdowns and disbursements referred to in point (a) include provisions concerning the length of the repayment period for each drawdown or disbursement, the interest rate applied or the interest rate calculation method, and the maximum amount.
+
+## Article 1l
+
+It shall be prohibited to provide insurance or re-insurance to:
+
+(i) the Belarusian Government, its public bodies, corporations or agencies; or
+
+(ii) any natural or legal person, entity or body acting on behalf or at the direction of a legal person, entity or body referred to in point (i).
+
+## Article 1m
+
+It shall be prohibited to participate, knowingly and intentionally, in activities whose object or effect is, directly or indirectly, to circumvent the prohibitions set out in Articles 1e, 1f, 1g, 1h, 1i, 1j, 1k, and 1l.
+
+## Article 1n
+
+In addition to the prohibitions set out in Article 1k, the European Investment Bank (EIB) shall:
+
+(a) be prohibited from making any disbursement or payment under or in connection with any existing agreements entered into between the Republic of Belarus or any public authority thereof and the EIB; and
+
+(b) suspend all existing Technical Assistance Service Contracts relating to projects financed under the agreements referred to in point (a), and which are intended for the direct or indirect benefit of the Republic of Belarus or any public authority thereof to be performed in Belarus.’;
+
+(5) Annex III is amended as set out in Annex I to this Regulation.
+
+(6) Annex IV of Regulation (EC) No 765/2006 is deleted and replaced by Annex II to this Regulation;
+
+(7) Annex V of Regulation (EC) No 765/2006 is deleted and replaced by Annex III to this Regulation;
+
+(8) Annexes IV, V, VI, VII of this Regulation are added as Annexes VI, VII VIII and IX to Regulation (EC) No 765/2006.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 June 2021.
+
+For the Council
+
+The President
+
+A. P. ZACARIAS
+
+(1) OJ L 285, 17.10.2012, p. 1.
+
+(2) Council Regulation (EC) No 765/2006 of 18 May 2006 concerning restrictive measures in respect of Belarus (OJ L 134, 20.5.2006, p. 1).
+
+(3) Council Decision (CFSP) 2021/1031 of 24 June 2021 amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus (see page 15 of this Official Journal).
+
+## ANNEX I
+
+In Annex III, the following point is added:
+
+‘9a. Riot control agents, as defined by article 1A004.a.4 of the Commission Delegated Regulation (EU) 2020/1749 of 7 October 2020 amending Council Regulation (EC) No 428/2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items.’.
+
+## ANNEX II — ‘ANNEX IV
+
+**EQUIPMENT, TECHNOLOGY AND SOFTWARE REFERRED TO IN ARTICLES 1c AND 1d**
+
+**General note**
+
+Notwithstanding the contents of this Annex, it shall not apply to:
+
+(a) equipment, technology or software which are specified in Annex I to Council Regulation (EC) No 428/2009 (1) or the Common Military List; or
+
+(b) software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:
+
+(i) over the counter transactions;
+
+(ii) mail order transactions;
+
+(iii) electronic transactions; or
+
+(iv) telephone order transactions; or
+
+(c) software which is in the public domain.
+
+The categories A, B, C, D and E refer to the categories referred to in Regulation (EC) No 428/2009.
+
+The equipment, technology and software referred to in Articles 1c and 1d is:
+
+A. List of equipment:
+
+— Deep Packet Inspection equipment,
+
+— Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment,
+
+— Radio Frequency monitoring equipment,
+
+— Network and Satellite jamming equipment,
+
+— Remote Infection equipment,
+
+— Speaker recognition/processing equipment,
+
+— IMSI (2), MSISDN (3), IMEI (4), TMSI (5) interception and monitoring equipment,
+
+— Intrusion software (6),
+
+— Equipment designed or modified to perform cryptanalysis,
+
+— Tactical SMS (7) /GSM (8) /GPS (9) /GPRS (10) /UMTS (11) /CDMA (12) /PSTN (13) interception and monitoring equipment,
+
+— DHCP (14) /SMTP (15), GTP (16) information interception and monitoring equipment,
+
+— Pattern Recognition and Pattern Profiling equipment,
+
+— Remote Forensics equipment,
+
+— Semantic Processing Engine equipment,
+
+— WEP and WPA code breaking equipment,
+
+— Interception equipment for VoIP proprietary and standard protocol.
+
+B. Not used.
+
+C. Not used.
+
+D. "Software" for the "development", "production" or "use" of the equipment specified in point A and "software" having the characteristics of, or performing or simulating, the functions of the equipment specified in point A.
+
+E. "Technology" for the "development", "production" or "use" of the equipment specified in point A.
+
+Equipment, technology and software falling within those categories is within the scope of this Annex only to the extent that it falls within the general description "internet, telephone and satellite communications interception and monitoring systems".
+
+For the purpose of this Annex, "monitoring" means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
+
+’
+
+(1) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+(2) 'IMSI' stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card, which allows for identification of such SIM via GSM and UMTS networks.
+
+(3) 'MSISDN' stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+(4) 'IMEI' stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones as well as some satellite phones. It is usually found printed inside the battery compartment of the phone. interception (wiretapping) can be specified by its IMEI number as well as IMSI and MSISDN.
+
+(5) 'TMSI' stands for Temporary Mobile Subscriber Identity. It is the identity that is most commonly sent between the mobile and the network.
+
+(6) Software specially designed or modified to avoid detection by monitoring tools, or to defeat protective countermeasures, of a computer or network capable device, for the purpose of extracting data or information, from a computer or network capable device, or the modification of system or user data.
+
+(7) 'SMS' stands for Short Message System.
+
+(8) 'GSM' stands for Global System for Mobile Communications.
+
+(9) 'GPS' stands for Global Positioning System.
+
+(10) 'GPRS' stands for General Package Radio Service.
+
+(11) 'UMTS' stands for Universal Mobile Telecommunication System.
+
+(12) 'CDMA' stands for Code Division Multiple Access.
+
+(13) 'PSTN' stands for Public Switch Telephone Networks.
+
+(14) 'DHCP' stands for Dynamic Host Configuration Protocol.
+
+(15) 'SMTP' stands for Simple Mail Transfer Protocol.
+
+(16) 'GTP' stands for GPRS Tunnelling Protocol.
+
+## ANNEX III — ‘ANNEX V
+
+**LIST OF NATURAL OR LEGAL PERSONS, ENTITIES OR BODIES REFERRED TO IN ARTICLE 1f**
+
+[…]
+
+’
+
+## ANNEX IV — ‘ANNEX VI
+
+**LIST OF GOODS USED FOR THE PRODUCTION OR MANUFACTURING OF TOBACCO PRODUCTS REFERRED TO IN ARTICLE 1g**
+
+| Name of the good | Commodity code (1) |
+| --- | --- |
+| Filters | ex 4823 90 85 |
+| Papers for cigarettes | 4813 |
+| Flavours for tobacco | ex 3302 90 |
+| Machinery for preparing or making up of tobacco | 8478 |
+
+’'
+
+(1) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2020:361:FULL&from=EN
+
+## ANNEX V — ‘ANNEX VII
+
+**LIST OF PETROLEUM PRODUCTS REFERRED TO IN ARTICLE 1h**
+
+| Name of the good | Commodity code (1) |
+| --- | --- |
+| petroleum oils and oils obtained from bituminous minerals (excl. crude); preparations containing >= 70 % by weight of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, n.e.s.; waste oils containing mainly petroleum or bituminous minerals | 2710 |
+| petroleum gas and other gaseous hydrocarbons | 2711 |
+| petroleum jelly, paraffin wax, micro- crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured | 2712 |
+| petroleum coke, petroleum bitumen and other residues of petroleum oil or of oil obtained from bituminous minerals, n.e.s. | 2713 |
+| bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch | 2715 |
+
+’
+
+(1) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2020:361:FULL&from=EN
+
+## ANNEX VI — ‘ANNEX VIII
+
+**LIST OF POTASSIUM CHLORIDE ("POTASH") PRODUCTS REFERRED TO IN ARTICLE 1i**
+
+| Name of the good | Combined Nomenclature (CN) code (1) |
+| --- | --- |
+| Potassium chloride with a potassium content evaluated as K2O, by weight, not exceeding 40% on the dry anhydrous product | 3104 20 10 |
+| Potassium chloride with a potassium content evaluated as K2O, by weight, exceeding 62 % on the dry anhydrous product | 3104 20 90 |
+| Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium | 3105 20 10 3105 20 90 |
+| Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium | 3105 60 00 |
+| Other fertilisers containing potassium chloride | ex 3105 90 20 ex 3105 90 80 |
+
+’
+
+(1) https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2020:361:FULL&from=EN
+
+## ANNEX VII — ‘ANNEX IX
+
+**LIST OF CREDIT OR OTHER INSTITUTIONS REFERRED TO IN ARTICLES 1j AND 1k**
+
+Belarusbank
+
+Belinvestbank
+
+Belagroprombank
+
+’

@@ -8,10 +8,10 @@ jurisdiction: eu
 language: en
 date: 2016-07-12
 entry_into_force: 2017-05-07
-last_amended: 2017-01-29
-consolidated_version: "02016R1127-20170129"
+last_amended: 2016-12-23
+consolidated_version: "02016R1127-20161223"
 status: in_force
-source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1127-20170129"
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1127-20161223"
 retrieved: 2026-10-11
 ---
 
@@ -24,10 +24,105 @@ retrieved: 2026-10-11
 **implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism, and repealing Implementing Regulation (EU) 2015/2425**
 
 <table>
-<tbody><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
-<tr><td>No</td><td>page</td><td>date</td></tr>
-<tr><td></td><td>Council Implementing Regulation (EU) 2017/150 of 27 January 2017</td><td>L 23</td><td>3</td><td>28.1.2017</td></tr>
-</tbody>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COUNCIL IMPLEMENTING REGULATION (EU) 2016/2373 of 22 December 2016</td><td> L 352</td><td>31</td><td>23.12.2016</td></tr>
 </table>
 
-The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1127-20161223
+**COUNCIL IMPLEMENTING REGULATION (EU) 2016/1127**
+
+**of 12 July 2016**
+
+**implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism, and repealing Implementing Regulation (EU) 2015/2425**
+
+## Article 1
+
+The list provided for in Article 2(3) of Regulation (EC) No 2580/2001 is set out in the Annex to this Regulation.
+
+## Article 2
+
+Implementing Regulation (EU) 2015/2425 is hereby repealed.
+
+## Article 3
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**LIST OF PERSONS, GROUPS AND ENTITIES REFERRED TO IN ARTICLE 1**
+
+**I. PERSONS**
+
+1\. ABDOLLAHI Hamed (a.k.a. Mustafa Abdullahi), born 11 August 1960 in Iran. Passport: D9004878.
+
+2\. AL-NASSER, Abdelkarim Hussein Mohamed, born in Al Ihsa (Saudi Arabia), citizen of Saudi Arabia.
+
+3\. AL YACOUB, Ibrahim Salih Mohammed, born 16 October 1966 in Tarut (Saudi Arabia), citizen of Saudi Arabia.
+
+4\. ARBABSIAR Manssor (a.k.a. Mansour Arbabsiar), born 6 or 15 March 1955 in Iran. Iranian and US national. Passport: C2002515 (Iran); Passport: 477845448 (USA). National ID No: 07442833, expiry date 15 March 2016 (USA driving licence).
+
+5\. BOUYERI, Mohammed (a.k.a. Abu ZUBAIR, a.k.a. SOBIAR, a.k.a. Abu ZOUBAIR), born 8 March 1978 in Amsterdam (the Netherlands) — member of the ‘Hofstadgroep’.
+
+6\. IZZ-AL-DIN, Hasan (a.k.a. GARBAYA, Ahmed, a.k.a. SA-ID, a.k.a. SALWWAN, Samir), Lebanon, born 1963 in Lebanon, citizen of Lebanon.
+
+7\. MOHAMMED, Khalid Shaikh (a.k.a. ALI, Salem, a.k.a. BIN KHALID, Fahd Bin Adballah, a.k.a. HENIN, Ashraf Refaat Nabith, a.k.a. WADOOD, Khalid Adbul), born 14 April 1965 or 1 March 1964 in Pakistan, passport No 488555.
+
+8\. SHAHLAI Abdul Reza (a.k.a. Abdol Reza Shala'i, a.k.a. Abd-al Reza Shalai, a.k.a. Abdorreza Shahlai, a.k.a. Abdolreza Shahla'i, a.k.a. Abdul-Reza Shahlaee, a.k.a. Hajj Yusef, a.k.a. Haji Yusif, a.k.a. Hajji Yasir, a.k.a. Hajji Yusif, a.k.a. Yusuf Abu-al-Karkh), born circa 1957 in Iran. Addresses: (1) Kermanshah, Iran, (2) Mehran Military Base, Ilam Province, Iran.
+
+9\. SHAKURI Ali Gholam, born circa 1965 in Tehran, Iran.
+
+10\. SOLEIMANI Qasem (a.k.a. Ghasem Soleymani, a.k.a. Qasmi Sulayman, a.k.a. Qasem Soleymani, a.k.a. Qasem Solaimani, a.k.a. Qasem Salimani, a.k.a. Qasem Solemani, a.k.a. Qasem Sulaimani, a.k.a. Qasem Sulemani), born 11 March 1957 in Iran. Iranian national. Passport: 008827 (Iran Diplomatic), issued 1999. Title: Major General.
+
+11\. EL HAJJ, Hassan Hassan, born 22 March 1988 in Zaghdraiya, Sidon (Lebanon), Canadian citizen. Passport number: JX446643 (Canada).
+
+12\. MELIAD, Farah (a.k.a. HUSSEIN HUSSEIN, a.k.a. JAY DEE), born 5 November 1980 in Sydney (Australia), Australian citizen. Passport number: M2719127 (Australia).
+
+13\. ȘANLI, Dalokay (a.k.a Sinan), born 13 October 1976 in Pülümür (Turkey).
+
+**II. GROUPS AND ENTITIES**
+
+1\. ‘Abu Nidal Organisation’ — ‘ANO’ (a.k.a. ‘Fatah Revolutionary Council’, a.k.a. ‘Arab Revolutionary Brigades’, a.k.a. ‘Black September’, a.k.a. ‘Revolutionary Organisation of Socialist Muslims’).
+
+2\. Al-Aqsa Martyrs' Brigade.
+
+3\. Al-Aqsa e.V.
+
+4\. ‘Babbar Khalsa’.
+
+5\. ‘Communist Party of the Philippines’, including ‘New People's Army’ — ‘NPA’, Philippines.
+
+6\. ‘Gama'a al-Islamiyya’ (a.k.a. ‘Al-Gama'a al-Islamiyya’) (‘Islamic Group’ — ‘IG’).
+
+7\. ‘İslami Büyük Doğu Akıncılar Cephesi’ — ‘IBDA-C’ (‘Great Islamic Eastern Warriors Front’).
+
+8\. ‘Hamas’, including ‘Hamas-Izz al-Din al-Qassem’.
+
+9\. ‘Hizballah Military Wing’ (a.k.a. ‘Hezbollah Military Wing’, a.k.a. ‘Hizbullah Military Wing’, a.k.a. ‘Hizbollah Military Wing’, a.k.a. ‘Hezballah Military Wing’, a.k.a. ‘Hisbollah Military Wing’, a.k.a. ‘Hizbu'llah Military Wing’ a.k.a. ‘Hizb Allah Military Wing’, a.k.a. ‘Jihad Council’ (and all units reporting to it, including the External Security Organisation)).
+
+10\. ‘Hizbul Mujahideen’ — ‘HM’.
+
+11\. Hofstadgroep.
+
+12\. ‘Khalistan Zindabad Force’ — ‘KZF’.
+
+13\. ‘Kurdistan Workers' Party’ — ‘PKK’, (a.k.a. ‘KADEK’, a.k.a. ‘KONGRA-GEL’).
+
+14\. ‘Liberation Tigers of Tamil Eelam’ — ‘LTTE’.
+
+15\. ‘Ejército de Liberación Nacional’ (‘National Liberation Army’).
+
+16\. ‘Palestinian Islamic Jihad’ — ‘PIJ’.
+
+17\. ‘Popular Front for the Liberation of Palestine’ — ‘PFLP’.
+
+18\. ‘Popular Front for the Liberation of Palestine — General Command’ (a.k.a. ‘PFLP — General Command’).
+
+19\. ‘Fuerzas armadas revolucionarias de Colombia’ — ‘FARC’ (‘Revolutionary Armed Forces of Colombia’).
+
+20\. ‘Devrimci Halk Kurtuluș Partisi-Cephesi’ — ‘DHKP/C’ (a.k.a. ‘Devrimci Sol’) (‘Revolutionary Left’), (a.k.a. ‘Dev Sol’) (‘Revolutionary People's Liberation Army/Front/Party’).
+
+21\. ‘Sendero Luminoso’ — ‘SL’ (‘Shining Path’).
+
+22\. ‘Teyrbazen Azadiya Kurdistan’ — ‘TAK’ (a.k.a. ‘Kurdistan Freedom Falcons’, a.k.a. ‘Kurdistan Freedom Hawks’).

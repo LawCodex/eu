@@ -1,0 +1,239 @@
+---
+title: "Regulation (EU) 2019/498 of the European Parliament and of the Council of 25 March 2019 amending Regulation (EU) 2017/2403 as regards fishing authorisations for Union fishing vessels in United Kingdom waters and fishing operations of United Kingdom fishing vessels in Union waters"
+identifier: "32019R0498"
+eli: "http://data.europa.eu/eli/reg/2019/498/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-03-25
+entry_into_force: 2019-09-14
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0498"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/498 of the European Parliament and of the Council of 25 March 2019 amending Regulation (EU) 2017/2403 as regards fishing authorisations for Union fishing vessels in United Kingdom waters and fishing operations of United Kingdom fishing vessels in Union waters
+
+**REGULATION (EU) 2019/498 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 March 2019**
+
+**amending Regulation (EU) 2017/2403 as regards fishing authorisations for Union fishing vessels in United Kingdom waters and fishing operations of United Kingdom fishing vessels in Union waters**
+
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+After consulting the European Economic and Social Committee,
+
+Acting in accordance with the ordinary legislative procedure (1),
+
+Whereas:
+
+(1) On 29 March 2017, the United Kingdom submitted the notification of its intention to withdraw from the Union pursuant to Article 50 of the Treaty on European Union (TEU). The Treaties will cease to apply to the United Kingdom from the date of entry into force of a withdrawal agreement or, failing that, two years after that notification, namely from 30 March 2019, unless the European Council, in agreement with the United Kingdom, unanimously decides to extend that period.
+
+(2) The withdrawal agreement published in the Official Journal of the European Union on 19 February 2019 (2) contains arrangements for the application of provisions of Union law to the United Kingdom beyond the date on which the Treaties cease to apply to the United Kingdom. If that agreement enters into force, the common fisheries policy (CFP) will apply to the United Kingdom during the transition period in accordance with that agreement and will cease to apply at the end of that period.
+
+(3) When the CFP ceases to apply to the United Kingdom, United Kingdom waters (territorial sea and adjacent exclusive economic zone) will no longer be part of Union waters. Consequently, in the absence of a withdrawal agreement, Union and United Kingdom fishing vessels risk not having the possibility to utilise fully the fishing opportunities established for 2019.
+
+(4) To ensure the sustainability of fisheries, and in light of the importance of fisheries for the economic livelihood of many communities in the Union and in the United Kingdom, the possibility of arrangements for continued full reciprocal fishing access by Union and United Kingdom fishing vessels to each other's waters after the CFP ceases to apply to the United Kingdom as a Member State should be maintained, for a limited period of time. The purpose of this Regulation is to create the appropriate legal framework for such reciprocal access.
+
+(5) The territorial scope of this Regulation and any reference to the United Kingdom therein does not include Gibraltar.
+
+(6) The fishing opportunities for 2019 were agreed pursuant to Council Regulations (EU) 2019/124 (3) and (EU) 2018/2025 (4), including by the United Kingdom, during the United Kingdom's membership of the Union. Those fishing opportunities were established fully in accordance with the requirements set out in Articles 61 and 62 of the United Nations Convention on the Law of the Sea. To ensure sustainable exploitation of marine living resources and stability within Union waters and United Kingdom waters, the agreed quota allocations and shares for the Member States and the United Kingdom should remain available in accordance with Articles 2 and 3 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council (5).
+
+(7) In light of the long-standing fishing patterns of United Kingdom fishing vessels in Union waters and vice versa, the Union should provide for a mechanism for United Kingdom fishing vessels to access Union waters by means of authorisations, in order to be able to fish their allocated quota shares established under Regulations (EU) 2019/124 and (EU) 2018/2025 under the same conditions that apply to Union fishing vessels, for a limited period of time. Such fishing authorisations should only be granted if and to the extent that the United Kingdom continues to provide authorisations for Union fishing vessels to continue to make use of fishing opportunities allocated to them in accordance with the relevant fishing opportunity Regulations.
+
+(8) Regulation (EU) 2017/2403 of the European Parliament and of the Council (6) sets out the rules for issuing and managing fishing authorisations for vessels in waters under the sovereignty or jurisdiction of a third country and for third country fishing vessels conducting fishing operations in Union waters.
+
+(9) Regulation (EU) 2017/2403 lays down rules for fishing operations carried out by Union fishing vessels in the waters of a third country outside the framework of a fisheries agreement, and provides that a flag Member State may grant direct authorisations and establishes the conditions and procedures for the granting of such authorisations. Given the number of Union fishing vessels that carry out fishing activities in United Kingdom waters, those conditions and procedures would lead to considerable delays and an increased administrative burden in the absence of a withdrawal agreement or a fisheries agreement. It is therefore necessary to provide for specific conditions and procedures to facilitate the issuing of authorisations to Union fishing vessels by the United Kingdom for the operation of fishing activities in United Kingdom waters.
+
+(10) It is necessary to derogate from the rules that apply to third country fishing vessels and provide for specific conditions and procedures allowing for the issuing of authorisations to United Kingdom fishing vessels by the Union for the operation of fishing activities in Union waters.
+
+(11) Regulation (EU) No 1380/2013 empowers the Member States to exchange all or part of the fishing opportunities allocated to them. Approximately 1 000 quota exchanges take place annually between the Member States and the United Kingdom. Without prejudice to the exclusive Union competence, a flexible system is needed after the Treaties cease to apply to the United Kingdom, which would allow the Union to exchange quotas with the United Kingdom. Therefore, Member States should be able to discuss with the United Kingdom and, as appropriate, establish a possible outline of an intended quota transfer or exchange. The Commission should remain responsible for carrying out such quota transfer or exchange. Fishing opportunities received from or transferred to the United Kingdom under the quota transfer or exchange should be deemed to be quotas allocated to, or deducted from, the allocation of the Member State concerned.
+
+(12) Regulation (EU) 2017/2403 should therefore be amended accordingly.
+
+(13) In view of the need to provide, prior to the date of the withdrawal of the United Kingdom from the Union, a legal framework aiming to avoid the interruption of fishing activities by United Kingdom fishing vessels in Union waters and by Union fishing vessels in United Kingdom waters on the date of the United Kingdom's withdrawal from the Union, which could be 30 March 2019, it was considered appropriate to provide for an exception to the eight-week period referred to in Article 4 of Protocol No 1 on the role of national Parliaments in the European Union, annexed to the TEU, to the Treaty on the Functioning of the European Union and to the Treaty establishing the European Atomic Energy Community.
+
+(14) This Regulation should enter into force as a matter of urgency on the day following that of its publication in the Official Journal of the European Union and should apply from the day following that on which the Treaties cease to apply to the United Kingdom, unless a withdrawal agreement concluded with the United Kingdom has entered into force by that date. It should apply until 31 December 2019.
+
+(15) In order to enable both Union and United Kingdom operators to continue to fish in accordance with the relevant fishing opportunities allocated to them, fishing authorisations for fishing activities in Union waters should only be granted to United Kingdom fishing vessels if and in so far as the Commission satisfies itself that the United Kingdom grants access rights to Union fishing vessels to conduct fishing operations in United Kingdom waters on the basis of reciprocity,
+
+HAVE ADOPTED THIS REGULATION:
+
+### Article 1 — Amendments to Regulation (EU) 2017/2403
+
+Regulation (EU) 2017/2403 is amended as follows:
+
+(1) in Chapter II of Title II, the following Section is added:
+
+## ‘ Section 4 — Fishing operations by Union fishing vessels in United Kingdom waters
+
+### Article 18a — Scope
+
+This Section shall apply until 31 December 2019, by way of derogation from Section 3, to fishing operations carried out by Union fishing vessels in United Kingdom waters.
+
+### Article 18b — Definition
+
+For the purposes of this Section, ‘United Kingdom waters’ means the waters under the sovereignty or jurisdiction of the United Kingdom established in accordance with international law.
+
+### Article 18c — Procedure for obtaining fishing authorisations from the United Kingdom
+
+1\. A flag Member State that has verified that the conditions set out in Article 5 are complied with shall send to the Commission the corresponding application or list of applications for authorisation by the United Kingdom.
+
+2\. Each application or list of applications shall contain the information requested by the United Kingdom for the issuing of the authorisation, in the required format, as communicated by the United Kingdom to the Commission.
+
+3\. The Commission shall inform the Member States of the information and format referred to in paragraph 2. The Commission may send a request to the flag Member State for any additional information necessary for verifying compliance with the conditions referred to in paragraphs 1 and 2.
+
+4\. Upon receipt of the application or any additional information requested pursuant to paragraph 3, the Commission shall forward the application to the United Kingdom without delay.
+
+5\. As soon as the United Kingdom informs the Commission that it has decided to issue or refuse an authorisation to a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly.
+
+6\. A flag Member State may only issue a fishing authorisation for fishing operations in United Kingdom waters after having been informed that the United Kingdom has decided to issue an authorisation to the relevant Union fishing vessel.
+
+7\. Fishing operations shall not commence until both the flag Member State and the United Kingdom have issued a fishing authorisation.
+
+8\. Where the United Kingdom informs the Commission that it has decided to suspend or withdraw a fishing authorisation for a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
+
+9\. Where the United Kingdom informs the flag Member State directly that it has decided to issue, refuse, suspend or withdraw a fishing authorisation for a Union fishing vessel, the flag Member State shall immediately inform the Commission accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
+
+### Article 18d — Monitoring
+
+The Commission shall monitor the issuing of fishing authorisations by the United Kingdom for fishing operations carried out by Union fishing vessels in United Kingdom waters.’;
+
+(2) The following Title is inserted:
+
+## ‘TITLE IIIa — FISHING OPERATIONS BY UNITED KINGDOM FISHING VESSELS IN UNION WATERS
+
+### Article 38a — Scope
+
+This Title shall apply until 31 December 2019, by way of derogation from Title III, to fishing operations carried out by United Kingdom fishing vessels in Union waters.
+
+### Article 38b — Fishing operations by United Kingdom fishing vessels
+
+United Kingdom fishing vessels may carry out fishing operations in Union waters, in accordance with the conditions set out in Council Regulations (EU) 2019/124 (*1) and (EU) 2018/2025 (*2) establishing the fishing opportunities.
+
+### Article 38c — General principles
+
+1\. A United Kingdom fishing vessel shall not engage in fishing operations in Union waters unless it has been issued with a fishing authorisation by the Commission. It shall only be issued with such an authorisation if it fulfils the eligibility criteria set out in paragraph 2.
+
+2\. The Commission may issue a fishing authorisation to United Kingdom fishing vessels if:
+
+(a) the fishing vessel has a valid fishing licence issued by the United Kingdom authority;
+
+(b) the fishing vessel is listed by the United Kingdom in a fleet register accessible to the Commission;
+
+(c) the fishing vessel and any associated support vessel apply the relevant IMO ship identification number scheme insofar as is required under Union law;
+
+(d) the fishing vessel is not included in an IUU vessel list adopted by an RFMO and/or by the Union pursuant to the IUU Regulation;
+
+(e) the United Kingdom is not listed as non-cooperating pursuant to the IUU Regulation or as allowing non-sustainable fishing opportunities pursuant to Regulation (EU) No 1026/2012;
+
+(f) fishing opportunities are available to the United Kingdom.
+
+3\. A United Kingdom fishing vessel authorised to fish in Union waters shall comply with the rules governing the fishing operations of Union fishing vessels in the fishing area in which it operates.
+
+### Article 38d — Procedure for obtaining fishing authorisations
+
+1\. The United Kingdom shall send to the Commission the application or list of applications for authorisations for its fishing vessels.
+
+2\. The Commission may ask the United Kingdom for additional information necessary for verifying that the conditions provided for in Article 38c(2) are met.
+
+3\. When it is established that the conditions provided for in Article 38c(2) are met, the Commission may issue a fishing authorisation and inform the United Kingdom and the Member States concerned accordingly without delay.
+
+### Article 38e — Management of fishing authorisations
+
+1\. If any of the conditions set out in Article 38c(2) is no longer met, the Commission shall take the appropriate action, including amending or withdrawing the authorisation, and inform the United Kingdom and the Member States concerned accordingly.
+
+2\. The Commission may refuse to issue authorisations or suspend or withdraw any authorisation issued to a United Kingdom fishing vessel in any of the following cases:
+
+(a) where a fundamental change of circumstances has occurred;
+
+(b) in the event of a serious threat to the sustainable exploitation, management and conservation of marine biological resources;
+
+(c) where it is essential in order to prevent or suppress IUU fishing;
+
+(d) where the Commission deems it appropriate on the basis of its findings resulting from its monitoring activities pursuant to Article 18d;
+
+(e) where the United Kingdom unduly refuses, suspends or withdraws the authorisation of Union fishing vessels to United Kingdom waters.
+
+3\. The Commission shall immediately inform the United Kingdom in the event that it refuses, suspends or withdraws the authorisation in accordance with paragraph 2.
+
+### Article 38f — Closure of fishing operations
+
+1\. Where fishing opportunities granted to the United Kingdom are deemed to have been exhausted, the Commission shall immediately notify the United Kingdom and the competent inspection authorities of the Member States thereof. With a view to ensuring the continuation of fishing operations of non-exhausted fishing opportunities, which may also affect the exhausted opportunities, the Commission shall request the United Kingdom to communicate to it technical measures preventing any negative impact on the exhausted fishing opportunities.
+
+2\. From the date of the notification referred to in paragraph 1, the fishing authorisations issued to vessels flying the flag of the United Kingdom shall be considered to be suspended for the fishing operations concerned and the vessels shall no longer be authorised to engage in those fishing operations.
+
+3\. Fishing authorisations shall be considered to be withdrawn where a suspension of fishing authorisations in accordance with paragraph 2 concerns all the operations for which they have been granted.
+
+### Article 38g — Overfishing of quotas in Union waters
+
+When the Commission establishes that the United Kingdom has exceeded the quotas it has been allocated for a stock or group of stocks, the Commission shall operate deductions from other quotas allocated to the United Kingdom. The Commission shall endeavour to ensure that the amount of the deduction is consistent with deductions imposed on Member States in similar circumstances.
+
+### Article 38h — Control and enforcement
+
+1\. A United Kingdom fishing vessel authorised to fish in Union waters shall comply with the control rules governing the fishing operations of Union fishing vessels in the fishing area in which it operates.
+
+2\. A United Kingdom fishing vessel authorised to fish in Union waters shall provide to the Commission or the body designated by it, and, where relevant, to the coastal Member State, the data which Union fishing vessels are required to send to the flag Member State under the Control Regulation.
+
+3\. The Commission, or the body designated by it, shall send the data received in accordance with paragraph 2 to the coastal Member State.
+
+4\. A United Kingdom fishing vessel authorised to fish in Union waters shall provide upon request to the Commission or the body designated by it the observer reports produced under applicable observer programmes.
+
+5\. A coastal Member State shall record any infringements committed by United Kingdom fishing vessels, including the related sanctions, in the national register provided for in Article 93 of the Control Regulation.
+
+### Article 38i — Quota transfers and exchanges
+
+1\. A Member State may engage in informal discussions with the United Kingdom and, as appropriate, establish a possible outline of an intended quota transfer or exchange.
+
+2\. Upon notification to the Commission by the Member State concerned, the Commission may carry out the corresponding quota transfer or exchange.
+
+3\. The Commission shall inform the Member States of the agreed quota transfer or exchange.
+
+4\. The fishing opportunities received from or transferred to the United Kingdom under the quota transfer or exchange shall be deemed to be quotas allocated to the Member State concerned, or deducted from such quotas, from the moment that the quota transfer or exchange takes effect. Such allocation or deduction shall not change the existing distribution key for the purpose of allocating fishing opportunities among Member States in accordance with the principle of relative stability of fishing activities.’.
+
+(*1) Council Regulation (EU) 2019/124 of 30 January 2019 fixing for 2019 the fishing opportunities for certain fish stocks and groups of fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters (OJ L 29, 31.1.2019, p. 1)."
+
+(*2) Council Regulation (EU) 2018/2025 of 17 December 2018 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks (OJ L 325, 20.12.2018, p. 7)."
+
+### Article 2 — Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from the day following that on which the Treaties cease to apply to the United Kingdom pursuant to Article 50(3) TEU, until 31 December 2019.
+
+However, this Regulation shall not apply if a withdrawal agreement concluded with the United Kingdom in accordance with Article 50(2) TEU has entered into force by the date following that on which the Treaties cease to apply to the United Kingdom.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Strasbourg, 25 March 2019.
+
+For the European Parliament
+
+The President
+
+A. TAJANI
+
+For the Council
+
+The President
+
+G. CIAMBA
+
+(1) Position of the European Parliament of 13 March 2019 (not yet published in the Official Journal) and decision of the Council of 19 March 2019.
+
+(2) OJ C 66 I, 19.2.2019, p. 1.
+
+(3) Council Regulation (EU) 2019/124 of 30 January 2019 fixing for 2019 the fishing opportunities for certain fish stocks and groups of fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters (OJ L 29, 31.1.2019, p. 1).
+
+(4) Council Regulation (EU) 2018/2025 of 17 December 2018 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks (OJ L 325, 20.12.2018, p. 7).
+
+(5) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+
+(6) Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008 (OJ L 347, 28.12.2017, p. 81).

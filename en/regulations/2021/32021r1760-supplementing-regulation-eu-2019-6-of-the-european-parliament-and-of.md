@@ -1,0 +1,198 @@
+---
+title: "Commission Delegated Regulation (EU) 2021/1760 of 26 May 2021 supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by establishing the criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans (Text with EEA relevance)"
+identifier: "32021R1760"
+eli: "http://data.europa.eu/eli/reg_del/2021/1760/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2021-05-26
+entry_into_force: 2021-08-19
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1760"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2021/1760 of 26 May 2021 supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by establishing the criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2021/1760**
+
+**of 26 May 2021**
+
+**supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by establishing the criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (1), and in particular Article 37(4) thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2019/6 of the European Parliament and of the Council aims to enhance the internal market and increase the availability of veterinary medicinal products, while guaranteeing the highest level of public and animal health and environmental protection. In particular, it aims to contain the spread of antimicrobial resistance with concrete measures to promote a prudent and responsible use of antimicrobials in animals, in line with the ‘One Health’ approach (2).
+
+(2) Although the efficacy of all antimicrobials is important to preserve public health, some antimicrobials are deemed more crucial than others, based on being preferred options for the treatment of serious infections in humans and the availability or lack of alternative treatment options. When antimicrobial resistance develops to an antimicrobial agent used to treat a specific infection for which there are no treatment alternatives and that resistance spreads, the consequences to public health are significant and potentially life-threatening. Human health, animal health and the environment are interlinked and are all essential parts of the ‘One Health’ approach, thus antimicrobial management in one sector may affect antimicrobial resistance in the other sectors.
+
+(3) Article 37(4) of Regulation (EU) 2019/6 requires the Commission to adopt delegated acts establishing criteria that will allow the Commission to determine which antimicrobials or groups of antimicrobials should be reserved for human use.
+
+(4) Various international organisations and countries have developed criteria for specifying or ranking the importance of antimicrobials or antimicrobial classes for human and veterinary medicine. Those criteria were developed for use in risk management strategies related to antimicrobial use in human healthcare settings and animal use. Prioritising critically important antimicrobials for humans is a valuable tool to support an evidence-based approach to risk management.
+
+(5) The criteria to determine which antimicrobials are to be reserved for human use should be clear and pertinent whilst reflecting the latest scientific evidence. Pursuant to Article 37(6), the Commission received advice from the European Medicines Agency (‘the Agency’) on 31 October 2019 (3). The Agency’s advice has taken account of expert opinions from national competent authorities, the European Food Safety Authority and the European Centre for Disease Prevention and Control. In the context of the preparation of that advice, a scientific workshop involving members of the Agency’s expert group and international organisations was organised in Brussels on 14 June 2019. The workshop allowed participants to exchange views and share expertise from a global perspective on the topic of how to establish such criteria. The outcome of those discussions was taken into consideration by the Agency’s expert group in completing its advice and the Commission has taken into account that advice in accordance with Article 37(6) of Regulation (EU) 2019/6.
+
+(6) While a number of countries within and outside the Union have implemented measures to restrict the use of certain antimicrobials, few have specific legislation for banning their use in veterinary medicine. Banning the use of an antimicrobial in animals is one of the most severe risk management measures that can be taken, thus such measures should be taken cautiously. Whenever possible, other existing risk management measures should be favoured, such as improving animal husbandry, biosecurity and herd or flock management, making a better use of vaccination and restricting the use of antimicrobials to specific circumstances.
+
+(7) Antimicrobials to be used only for treatment of certain infections in humans should be designated on the basis of sound criteria. Those criteria should allow to identify those antimicrobials that are of high importance to preserve human health and that should therefore be considered for use in human medicine exclusively. The criteria should also enable to identify those antimicrobials, whose use in animals could accelerate the spread of antimicrobial resistance, or present a risk thereof, by allowing for the transmission of resistance, which may include cross-resistance or co-selection of resistance to other antimicrobials, from animals to humans. Finally, the criteria should allow to identify antimicrobials that do not represent an essential need for animal health, and whose absence of use in veterinary medicine would not lead to any significant negative impact on animal health.
+
+(8) While assessing whether an antimicrobial could be reserved for the treatment of certain infections in humans, it is important to determine whether its absence of use in veterinary medicine would result in significant morbidity or significant mortality or would have a major impact on animal welfare and public health. In the latter case, the availability of adequate alternative medicinal products for the treatment of the diseases concerned in the animals species concerned should be considered.
+
+(9) When considering the use of alternative medicinal products instead of certain antimicrobial medicinal products, it is important that those products are adequate and available. Such alternatives should be authorised medicinal products in suitable formulations for the treatment of the disease in the animal species requiring treatment. Their use should lead to a lower risk to public health in terms of antimicrobial resistance than the antimicrobial medicinal product it aims to replace.
+
+(10) In exceptional cases where there is scientific evidence showing an overriding public health interest, the criterion of non-essential need to animal health should envisage the possibility for an antimicrobial to be reserved for human use, even if no alternative medicinal product is available for veterinary medicine, provided that not using such an antimicrobial would only result in limited morbidity or limited mortality. In such exceptional cases, the fulfilment of the other two criteria (high importance to human health and risk of transmission of resistance) should be still required for such an antimicrobial to be reserved for human use.
+
+(11) Article 152(1) of Regulation (EU) 2019/6 indicates that existing products authorised in accordance with the previous legislation is to be deemed to be authorised in accordance with the Regulation, with the exception of authorisations of veterinary medicinal products containing antimicrobials that have been reserved for human use only. The criteria in the present act apply to antimicrobials that have not yet been authorised for the veterinary market but also apply to antimicrobials in existing veterinary medicinal products.
+
+(12) It is recognised that the necessary available evidence to assess the fulfilment of the criteria may vary depending on the marketing authorisation status of the antimicrobial or group of antimicrobials considered: (1) authorised in human medicine only; (2) authorised in veterinary medicine only; (3) authorised both in human and veterinary medicine; (4) authorised neither in human nor veterinary medicine. For that reason, the available evidence should be taken into account while applying the criteria.
+
+(13) This Regulation should apply from 28 January 2022 in accordance with Article 153(2) of Regulation (EU) 2019/6,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans are set out in the Annex.
+
+2\. An antimicrobial or a group of antimicrobials shall meet all three criteria set out in Parts A, B and C in the Annex in order to be designated as reserved for treatment of certain infections in humans.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 28 January 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 26 May 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 4, 7.1.2019, p. 43.
+
+(2) Commission Communication of 29 June 2017 on a European One Health Action Plan against Antimicrobial Resistance (COM(2017) 339).
+
+(3) Advice on implementing measures under Article 37(4) of Regulation (EU) 2019/6 on veterinary medicinal products – Criteria for the designation of antimicrobials to be reserved for treatment of certain infections in humans (EMA/CVMP/158366/2019).
+
+## ANNEX — Criteria for the designation of the antimicrobials which are to be reserved for treatment of certain infections in humans
+
+**PART A**
+
+**CRITERION OF HIGH IMPORTANCE TO HUMAN HEALTH**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>The antimicrobial or group of antimicrobials meets this criterion if any of the following applies:<table><tbody><tr><td>(a)</td><td>it is the sole or last-resort antimicrobial or group of antimicrobials available in a patient management treatment approach for serious, life-threatening infections in humans which, if inappropriately treated, would lead to significant debilitating morbidity or significant mortality;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>it is an essential component of the limited treatment alternatives available in a patient management treatment approach for serious, life-threatening infections in humans which, if inappropriately treated, would lead to significant debilitating morbidity or significant mortality;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>it is an antimicrobial or a group of antimicrobials, which is authorised in the Union for the treatment of serious microbial infections in patients with limited treatment options, indicating that the antimicrobial or the group of antimicrobials considered is recognised as addressing an unmet medical need related to antimicrobial resistance.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Factors considered responsible for limited treatment alternatives for patients, as referred to in point 1(b), include:<table><tbody><tr><td>—</td><td>the virulence and antimicrobial resistant phenotype(s) of the microorganisms causing infection, including multidrug resistance,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the characteristics of the patients (for example, immunocompromised, paediatric, elderly) and disease (for example, site of infection concerned) under treatment,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the proportion of patients requiring treatment and the impact on healthcare services.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**PART B**
+
+**CRITERION OF RISK OF TRANSMISSION OF RESISTANCE**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>The antimicrobial or group of antimicrobials meets this criterion if any of the following applies:<table><tbody><tr><td>(a)</td><td>for an antimicrobial or group of antimicrobials authorised for use in animals, scientific evidence, including epidemiological evidence where available, exists showing that:<table><tbody><tr><td>—</td><td>there is an actual emergence, dissemination and transmission of resistance to this antimicrobial or group of antimicrobials, or induction of cross-resistance or co-selection of resistance to other antimicrobials, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>transmission of such resistance from animal sources to humans is significant and linked to the use of this antimicrobial or group of antimicrobial in animals, whether it occurs through microorganisms resistant to the antimicrobial or group of antimicrobials considered or through the transmission of genes conferring resistance to the antimicrobial or group of antimicrobials considered;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>for an antimicrobial or group of antimicrobials not authorised for use in animals, scientific evidence exists showing that:<table><tbody><tr><td>—</td><td>there is the potential for emergence, dissemination and transmission of resistance to this antimicrobial or group of antimicrobials or potential for inducing cross-resistance or co-selection of resistance to other antimicrobials, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>this transmission from animal sources to humans would likely be significant and linked to the use of this antimicrobial or group of antimicrobials in animals, whether it would occur through microorganisms resistant to the antimicrobial or group of antimicrobials considered or through the transmission of genes conferring resistance to the antimicrobial or group of antimicrobials considered.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Factors triggering significant transmission of resistance between animals and humans linked to the use of an antimicrobial or group of antimicrobials in animals include:<table><tbody><tr><td>—</td><td>use selects for resistance, cross-resistance or co-selection of resistance to antimicrobials that are crucial for human medicine,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>transmission of resistance occurs by vertical as well as horizontal transmission,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>transmission of resistance involves zoonotic pathogens,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>transmission can take place by different routes of exposure,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>transmission occurs through a number of different animal species.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+**PART C**
+
+**CRITERION OF NON-ESSENTIAL NEED FOR ANIMAL HEALTH**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>The antimicrobial or group of antimicrobials meets this criterion if any of the following applies:<table><tbody><tr><td>(a)</td><td>there is no robust evidence of the need for the antimicrobial or group of antimicrobials in veterinary medicine;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>the antimicrobial or group of antimicrobials is used to treat serious, life-threatening infections in animals which, if inappropriately treated, would lead to significant morbidity or significant mortality, or would have a major impact on animal welfare or public health, but adequate alternative medicinal products are available for the treatment of those infections in the animal species concerned;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>the antimicrobial or group of antimicrobials is used to treat serious, life-threatening infections in animals which, if inappropriately treated, would lead to limited morbidity or limited mortality and there is scientific evidence showing an overriding public health interest in not using it.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>The provisions laid down in point 1 apply when the antimicrobial or group of antimicrobials considered is either of the following:<table><tbody><tr><td>(a)</td><td>an antimicrobial or group of antimicrobials present within authorised veterinary medicinal products;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>an antimicrobial or group of antimicrobials present within medicinal products authorised for use in humans, that may be administered to animals outside the terms of their marketing authorisation.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
