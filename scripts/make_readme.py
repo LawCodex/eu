@@ -97,6 +97,8 @@ articles as the deepest heading level; numbered points as paragraphs; tables as 
   are authentic. Consolidations dated in the future (amendments not yet applicable) are not used;
   the latest consolidation applicable on the retrieval date is.
 - Acts in force without any English manifestation in Cellar (see counts above).
+- About 50 texts exist in Cellar only as PDF; they were converted by text extraction (pypdf), so
+  their layout is flatter and some words may be run together.
 
 ## Sources
 
