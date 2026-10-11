@@ -1,0 +1,244 @@
+---
+title: "2003/749/EC: Commission Decision of 10 October 2003 on a first financial contribution from the Community towards the eligible costs of the eradication of avian influenza in Belgium in 2003 (notified under document number C(2003) 3559)"
+identifier: "32003D0749"
+eli: "http://data.europa.eu/eli/dec/2003/749/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2003-10-10
+entry_into_force: 2002-12-19
+last_amended: 2004-01-09
+consolidated_version: "02003D0749-20040109"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003D0749-20040109"
+retrieved: 2026-10-11
+---
+
+# 2003/749/EC: Commission Decision of 10 October 2003 on a first financial contribution from the Community towards the eligible costs of the eradication of avian influenza in Belgium in 2003 (notified under document number C(2003) 3559)
+
+2003D0749 — EN — 09.01.2004 — 001.001
+
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+
+COMMISSION DECISION
+
+of 10 October 2003
+
+on the financial contribution from the Community towards the eligible costs of the eradication of avian influenza in Belgium in 2003
+
+(notified under document number C(2003) 3559)
+
+(Only the Dutch and French texts are authentic)
+
+(2003/749/EC)
+
+(OJ L 271, 22.10.2003, p.19)
+
+Amended by:
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>Commission Decision of 23 December 2003</td><td> L 5</td><td>81</td><td>9.1.2004</td></tr>
+</table>
+
+COMMISSION DECISION
+
+of 10 October 2003
+
+on the financial contribution from the Community towards the eligible costs of the eradication of avian influenza in Belgium in 2003
+
+(notified under document number C(2003) 3559)
+
+(Only the Dutch and French texts are authentic)
+
+(2003/749/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field ( 1 ), as last amended by Regulation (EC) no 806/2003 ( 2 ), and in particular Article 3(3) and Article 5(3) thereof,
+
+Whereas:
+
+(1) As soon as the presence of avian influenza was officially confirmed in 2003, Belgium reported that it had immediately implemented the control measures to be applied in the event of an outbreak of that disease as provided for in Council Directive 92/40/EEC of 19 May 1992 introducing Community measures for the control of avian influenza ( 3 ), as last amended by Regulation (EC) No 806/2003, as required in order to obtain a financial contribution from the Community for the eradication of the disease in accordance with Decision 90/424/EEC.
+
+(2) Avian influenza represents a serious danger to Community stocks. Accordingly, in order to prevent the spread of that disease and contribute to its eradication, the Community should contribute to eligible expenditures incurred by Belgium. It is therefore appropriate that a financial contribution from the Community should be granted to Belgium under the provisions of Decision 90/424/EEC in order to cover the costs related to the outbreak of avian influenza in 2003.
+
+(3) It is necessary to clarify the concepts of ‘swift and adequate compensation of the livestock farmers’ and ‘destruction, cleaning, disinfection and disinsectisation costs’ used in Article 3(2) of Decision 90/424/EEC and the concepts of ‘reasonable payments’ and ‘justified payments’ mentioned in the present Decision.
+
+(4) On 13 June 2003, Belgium presented tables with the value of different types of poultry and eggs. These values are the basis for the eligible compensations granted to the owners. They may be adapted on a regular basis in function of the price evolution in Belgium and surrounding Member States.
+
+(5) Pursuant to Article 3(2) of Council Regulation (EC) No 1258/1999 of 17 May 1999 on the financing of the common agricultural policy ( 4 ), veterinary and plant health measures undertaken in accordance with Community rules are to be financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund. For financial control purposes, Articles 8 and 9 of Regulation (EC) No 1258/1999 apply.
+
+(6) Having regard to the budgetary situation for the emergency fund at this stage of the 2003 exercise, and to the uncertainty on the final eligible amount needed to compensate the outbreak of the disease, the financial contribution at this stage should be limited to an advance covering 50 % of the eligible costs incurred for the obligatory killing of the animals and the obligatory destruction of the eggs.
+
+(7) The financial contribution from the Community should be granted provided that the actions planned are carried out efficiently and that the competent authorities supply all the necessary information within the time limits laid down in this Decision.
+
+(8) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+Payment of a financial contribution from the Community to Belgium
+
+Belgium may obtain a financial contribution from the Community of 50 % of the eligible expenditure for:
+
+(a) the swift and adequate compensation of the owners for their animals killed and their eggs destroyed pursuant to:
+
+— Article 10 of Directive 90/425/EEC,
+
+— Article 5 of Directive 92/40/EEC and
+
+— Article 3 of Decision 2003/289/EC
+
+under compulsory eradication measures mentioned under the first and seventh indents of Article 3(2) of Decision 90/424/EEC, related to outbreaks of avian influenza which occurred in 2003, taken pursuant to the above provisions, and in accordance with the present Decision;
+
+(b) the costs of the destruction of carcases, eggs, contaminated feedingstuffs and equipment, the cleaning, disinsectisation and disinfection of holdings and equipment, pursuant to the provisions of the first, second and third indent of Article 3(2) of Decision 90/424/EEC and in accordance with the present Decision.
+
+## Article 2
+
+Definitions
+
+For the purposes of this Decision, the following definitions shall apply:
+
+(a) ‘swift and adequate compensation’ means payment within 90 days:
+
+— of the killing of the animals, for compensation corresponding to the market value as defined in Article 3(1),
+
+— of the destruction of the eggs, for compensation corresponding to the market value as defined in Article 3(1);
+
+(b) ‘reasonable payments’ means payments for the purchase of materials or services at proportionate prices compared to the market prices before the outbreak of the avian influenza;
+
+(c) ‘justified payments’ means payments for the purchase of materials or services of which the nature and the direct link with the compulsory killing of animals or the destruction of the eggs, as referred to in Article 1(a), is demonstrated.
+
+## Article 3
+
+The eligible expenditure covered by the financial contribution from the Community
+
+1\. The maximum eligible expenditure for the compensation of the owners of the animals and the eggs shall be based on the market value figures for the different types of poultry and eggs at different stages of their lifecycle fixed in the tables presented by Belgium on 13 June 2003. However, if the compensations effectively paid by Belgium are limited to a certain part of those market value figures, the eligible compensation expenditure shall be calculated on the basis of this part.
+
+2\. At the request of the Belgian authorities, based on appropriate justification, it may be decided in accordance with the procedure laid down in Article 41 of Decision 90/424/EEC to adjust the calculation of the eligible expenditure in order to take account of the evolution of relevant price indexes for poultry and eggs in Belgium and surrounding Member States.
+
+3\. When the compensation payments made by Belgium pursuant to Article 5 of Directive 90/425/EEC and Article 3 of Decision 2003/289/EC are effected after the 90 days deadline laid down in Article 2(a), the eligible amounts shall be reduced for expenditure effected after the deadline as follows:
+
+— 25 % for payments made between 91 and 105 days after the culling of the animals or the destruction of the eggs,
+
+— 50 % for payments made between 106 and 120 days after the culling of the animals or the destruction of the eggs,
+
+— 75 % for payments made between 121 and 135 days after the culling of the animals or the destruction of the eggs,
+
+— 100 % for payments beyond 136 days after the culling of the animals or the destruction of the eggs.
+
+When the compensation payments made by Belgium pursuant to Article 10 of Directive 90/425/EEC are effected more than 60 days after the notification of this Decision, the eligible amounts shall be reduced for expenditure effected after the deadline in accordance with the following:
+
+— 25 % for payments made between 61 and 75 days,
+
+— 50 % for payments made between 76 and 90 days,
+
+— 75 % for payments made between 91 and 105 days,
+
+— 100 % for payments beyond 106 days.
+
+4\. The costs referred to in Article 1(b) eligible for a financial contribution shall only be those set out in Annex III.
+
+5\. The calculation of the financial contribution from the Community shall exclude:
+
+(a) value added tax;
+
+(b) salaries of civil servants;
+
+(c) use of public material other than consumables.
+
+## Article 4
+
+Conditions for payment and supporting documentation
+
+1\. Subject to the results of the eventual checks referred to in Article 5 and on condition the necessary credits are made available, an advance of EUR 3 million shall be paid on the basis of supporting documents submitted by Belgium concerning the swift and adequate compensation of owners for the compulsory culling of the animals and compulsory destruction of the eggs in 2003 pursuant to Article 10 of Directive 90/425/EEC, Article 5 of Directive 92/40/EEC and Article 3 of Decision 2003/289/EC.
+
+2\. The balance of the financial contribution from the Community shall be fixed in accordance with the procedure laid down in Article 41 of Decision 90/424/EEC on the basis of:
+
+(a) a claim submitted in accordance with Annexes I A, I B and II within the time limits provided for in paragraph 3;
+
+(b) detailed documents confirming the figures in the claim referred to in point (a);
+
+(c) the results of the eventual on-the-spot checks by the Commission as referred in Article 5.
+
+The documents referred to in point (b) as well as relevant commercial information shall be made available for on-the-spot checks by the Commission.
+
+3\. The claim referred to in paragraph 2 shall be provided in computerised form in accordance with:
+
+— Annexes Ia and Ib, 60 calendar days for the compensations referred to the second indent of Article 1(a) after the lifting of the restrictions as provided for by Commission Decision 2003/428/EC ( 5 ) and within 90 days for the compensations referred to in the first and third indents of Article 1(a) after notification of the present Decision,
+
+— Annex II within six months after the lifting of the restrictions referred to in the first indent.
+
+When these deadlines are not observed, the financial contribution from the community shall be reduced by 25 % for each month of delay. However, at the justified request of Belgium, the Commission may extend these deadlines.
+
+## Article 5
+
+On-the-spot checks by the Commission
+
+The Commission may make on-the-spot checks, with the cooperation of the competent national authorities, on the implementation of the avian influenza eradication measures and the related costs incurred.
+
+## Article 6
+
+Addressee
+
+This Decision is addressed to the Kingdom of Belgium.
+
+## ANNEX I A
+
+## ANNEX I B
+
+## ANNEX II
+
+Claim as referred to in Article 4
+
+## ANNEX III
+
+Eligible costs as referred to in Article 3(5)
+
+1\. Costs for the slaughter of the animals:
+
+(a) salaries and fees of the slaughterers specifically employed;
+
+(b) consumables and specific equipment used for the slaughter;
+
+(c) materials used for the transport of the animals to the slaughterhouse.
+
+2\. Costs for the destruction of carcases:
+
+(a) rendering: transport of carcases to the storage premises and to the rendering plant, storage of carcases, treatment of carcases in the rendering plant and destruction of the meal;
+
+(b) burying: staff specifically employed, materials specifically rented for the transport and the burying of the carcases and products used for the disinfection of the burying spot;
+
+(c) burning: staff specifically employed, combustibles or other materials used, materials specifically rented for the transport of the carcases and products used for the disinfection of the burning plant.
+
+3\. Costs for the destruction of the eggs: salaries and fees for the staff specifically employed, combustibles or other materials used, materials specifically rented for the transport of the eggs and products used for the disinfection of the destruction spot.
+
+4\. Costs for the cleaning, disinfection and disinsectisation of holdings:
+
+(a) products used for cleaning, disinfection and disinsectisation;
+
+(b) salaries and fees for the staff specifically employed.
+
+5\. Costs for the destruction of contaminated feedingstuffs:
+
+(a) compensation at purchase price of the feedingstuffs;
+
+(b) materials specifically rented for the transport and destruction of the feedingstuffs.
+
+6\. Cost for the compensation of contaminated equipment at market value and destruction of such equipment. Costs of compensation for reconstruction or renewal of farm buildings and infrastructure costs are ineligible.
+
+( 1 ) OJ L 224, 18.8.1990, p. 19.
+
+( 2 ) OJ L 122, 16.5.2003, p. 1.
+
+( 3 ) OJ L 167, 22.6.1992, p. 16.
+
+( 4 ) OJ L 160, 26.6.1999, p. 103.
+
+( 5 ) OJ L 144, 12.6.2003, p. 15.

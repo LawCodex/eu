@@ -1,0 +1,713 @@
+---
+title: "2008/74/EC: Council Decision of 9 October 2007 on the signing and provisional application of an Additional Protocol to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union"
+identifier: "32008D0074"
+eli: "http://data.europa.eu/eli/dec/2008/74(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2007-10-09
+entry_into_force: 2008-07-02
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0074"
+retrieved: 2026-10-11
+---
+
+# 2008/74/EC: Council Decision of 9 October 2007 on the signing and provisional application of an Additional Protocol to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union
+
+**COUNCIL DECISION**
+
+**of 9 October 2007**
+
+**on the signing and provisional application of an Additional Protocol to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union**
+
+**(2008/74/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 310, in conjunction with the second sentence of Article 300(2), first subparagraph, and the second subparagraph of Article 300(3) thereof,
+
+Having regard to the 2005 Act of Accession, and in particular Article 6(2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) The Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, (the TDCA), was signed in Pretoria on 11 October 1999. It was concluded on 26 April 2004 (1).
+
+(2) The Treaty concerning the accession of the Republic of Bulgaria and Romania to the European Union was signed in Luxembourg on 25 April 2005.
+
+(3) On 23 October 2006 the Council authorised the Commission, on behalf of the European Community and its Member States, to negotiate with the Republic of South Africa an Additional Protocol to the TDCA, to take account of the accession of the two new Member States to the European Union.
+
+(4) These negotiations have been concluded to the satisfaction of the Commission.
+
+(5) Subject to its possible conclusion at a later stage, the Additional Protocol should be signed on behalf of the Community and its Member States. The Additional Protocol should be applied on a provisional basis, pending completion of the relevant procedures for its formal conclusion,
+
+HAS DECIDED AS FOLLOWS:
+
+### Article 1
+
+The signing of the Additional Protocol to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union, is hereby approved on behalf of the Community, subject to the Council Decision concerning the conclusion of the said Additional Protocol.
+
+The text of the Additional Protocol is attached to this Decision.
+
+### Article 2
+
+The President of the Council is hereby authorised to designate the person(s) empowered to sign, on behalf of the Community and its Member States, the Additional Protocol to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union, subject to its conclusion.
+
+### Article 3
+
+The European Community and its Member States shall apply provisionally the terms of the Additional Protocol from 1 January 2007, subject to its possible conclusion at a later date.
+
+Done at Luxembourg, 9 October 2007.
+
+For the Council
+
+The President
+
+F. TEIXEIRA DOS SANTOS
+
+(1) OJ L 127, 29.4.2004, p. 109.
+
+**ADDITIONAL PROTOCOL**
+
+**to the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part, to take account of the accession of the Republic of Bulgaria and Romania to the European Union**
+
+THE KINGDOM OF BELGIUM,
+
+THE REPUBLIC OF BULGARIA,
+
+THE CZECH REPUBLIC,
+
+THE KINGDOM OF DENMARK,
+
+THE FEDERAL REPUBLIC OF GERMANY,
+
+THE REPUBLIC OF ESTONIA,
+
+IRELAND,
+
+THE HELLENIC REPUBLIC,
+
+THE KINGDOM OF SPAIN,
+
+THE FRENCH REPUBLIC,
+
+THE ITALIAN REPUBLIC,
+
+THE REPUBLIC OF CYPRUS,
+
+THE REPUBLIC OF LATVIA,
+
+THE REPUBLIC OF LITHUANIA,
+
+THE GRAND DUCHY OF LUXEMBOURG,
+
+THE REPUBLIC OF HUNGARY,
+
+MALTA,
+
+THE KINGDOM OF THE NETHERLANDS,
+
+THE REPUBLIC OF AUSTRIA,
+
+THE REPUBLIC OF POLAND,
+
+THE PORTUGUESE REPUBLIC,
+
+ROMANIA,
+
+THE REPUBLIC OF SLOVENIA,
+
+THE SLOVAK REPUBLIC,
+
+THE REPUBLIC OF FINLAND,
+
+THE KINGDOM OF SWEDEN,
+
+THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+
+hereinafter referred to as the ‘Member States’, represented by the Council of the European Union,
+
+and
+
+THE EUROPEAN COMMUNITY,
+
+hereinafter referred to as ‘the Community’,
+
+and
+
+THE REPUBLIC OF SOUTH AFRICA,
+
+together hereinafter referred to as ‘Contracting Parties’,
+
+CONSIDERING THAT the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part (the ‘TDCA’), was signed in Pretoria on 11 October 1999 and entered into force on 1 May 2004;
+
+CONSIDERING THAT the Treaty concerning the accession of the Republic of Bulgaria and Romania to the European Union was signed in Luxembourg on 25 April 2005 and entered into force on 1 January 2007;
+
+CONSIDERING THAT, pursuant to Article 6(2) of the 2005 Act of Accession, the accession of the new Contracting Parties to the TDCA shall be agreed by the conclusion of a protocol to the TDCA,
+
+HAVE AGREED AS FOLLOWS:
+
+### Article 1
+
+The Republic of Bulgaria and Romania (hereinafter referred to as the new Member States) hereby become Contracting Parties to the TDCA and shall, in the same manner as the other Member States of the Community, respectively adopt and take note of the texts of the Agreement, as well as the Annexes, Protocols and Declarations attached thereto.
+
+## CHAPTER I — AMENDMENTS TO THE TEXT OF THE TDCA, INCLUDING ITS ANNEXES AND PROTOCOLS
+
+### Article 2 — Languages and number of originals
+
+Article 108 of the TDCA shall be replaced by the following:
+
+### ‘Article 108
+
+This Agreement is drawn up in duplicate in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovenian, Slovak, Spanish and Swedish languages and the official languages of South Africa, other than English, namely Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, isiNdebele, isiXhosa and isiZulu, each of these texts being equally authentic.’
+
+### Article 3 — Rules of origin
+
+Protocol 1 of the TDCA shall be amended as follows:
+
+1\. Article 16(4) shall be replaced by the following:
+
+‘4. EUR.1 movement certificates issued retrospectively must be endorsed with one of the following phrases:
+
+BG “ИЗДАДЕН ВПОСЛЕДСТВИЕ”
+
+ES “EXPEDIDO A POSTERIORI”
+
+CS “VYSTAVENO DODATEČNĚ”
+
+DA “UDSTEDT EFTERFØLGENDE”
+
+DE “NACHTRÄGLICH AUSGESTELLT”
+
+ET “TAGANTJÄRELE VÄLJA ANTUD”
+
+EL “ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ”
+
+EN “ISSUED RETROSPECTIVELY”
+
+FR “DÉLIVRÉ A POSTERIORI”
+
+IT “RILASCIATO A POSTERIORI”
+
+LV “IZSNIEGTS RETROSPEKTĪVI”
+
+LT “RETROSPEKTYVUSIS IŠDAVIMAS”
+
+HU “KIADVA VISSZAMENŐLEGES HATÁLLYAL”
+
+MT “MAĦRUĠ RETROSPETTIVAMENT”
+
+NL “AFGEGEVEN A POSTERIORI”
+
+PL “WYSTAWIONE RETROSPEKTYWNIE”
+
+PT “EMITIDO A POSTERIORI”
+
+RO “EMIS A POSTERIORI”
+
+SL “IZDANO NAKNADNO”
+
+SK “VYDANÉ DODATOČNE”
+
+FI “ANNETTU JÄLKIKÄTEEN”
+
+SV “UTFÄRDAT I EFTERHAND”;’
+
+2\. Article 17(2) shall be replaced by the following:
+
+‘2. The duplicate issued in this way must be endorsed with one of the following words:
+
+BG “ДУБЛИКАТ”
+
+ES “DUPLICADO”
+
+CS “DUPLIKÁT”
+
+DA “DUPLIKAT”
+
+DE “DUPLIKAT”
+
+ET “DUPLIKAAT”
+
+EL “ΑΝΤΙΓΡΑΦΟ”
+
+EN “DUPLICATE”
+
+FR “DUPLICATA”
+
+IT “DUPLICATO”
+
+LV “DUBLIKĀTS”
+
+LT “DUBLIKATAS”
+
+HU “MÁSODLAT”
+
+MT “DUPLIKAT”
+
+NL “DUPLICAAT”
+
+PL “DUPLIKAT”
+
+PT “SEGUNDA VIA”
+
+RO “DUPLICAT”
+
+SL “DVOJNIK”
+
+SK “DUPLIKÁT”
+
+FI “KAKSOISKAPPALE”
+
+SV “DUPLIKAT”;’
+
+3\. Annex IV shall be replaced by the following:
+
+**‘ANNEX IV**
+
+**INVOICE DECLARATION**
+
+The invoice declaration, the text of which is given below, must be made out in accordance with the footnotes. However, the footnotes do not have to be reproduced.
+
+**Bulgarian version**
+
+Износителят на продуктите, обхванати от този документ (митническо разрешение № … (1)) декларира, че освен кьдето е отбелязано друго, тези продукти са с … преференциален произход (2).
+
+**Spanish version**
+
+El exportador de los productos incluidos en el presente documento [autorización aduanera no … (1)] declara que, salvo indicación en sentido contrario, estos productos gozan de un origen preferencial … (2).
+
+**Czech version**
+
+Vývozce výrobků uvedených v tomto dokumentu (číslo povolení … (1)) prohlašuje, že kromě zřetelně označených mají tyto výrobky preferenční původ v … (2).
+
+**Danish version**
+
+Eksportøren af varer, der er omfattet af nærværende dokument, (toldmyndighedernes tilladelse nr. … (1)), erklærer, at varerne, medmindre andet tydeligt er angivet, har præferenceoprindelse i … (2).
+
+**German version**
+
+Der Ausführer (Ermächtigter Ausführer; Bewilligungs-Nr. … (1)) der Waren, auf die sich dieses Handelspapier bezieht, erklärt, dass diese Waren, soweit nicht anders angegeben, präferenzbegünstigte … (2) Ursprungswaren sind.
+
+**Estonian version**
+
+Käesoleva dokumendiga hõlmatud toodete eksportija (tolliameti kinnitus nr … (1)) deklareerib, et need tooted on … (2) sooduspäritoluga, välja arvatud juhul, kui on selgelt näidatud teisiti.
+
+**Greek version**
+
+Ο εξαγωγέας των προϊόντων που καλύπτονται από το παρόν έγγραφο [άδεια τελωνείου υπ’ αριθ. … (1)] δηλώνει ότι, εκτός εάν δηλώνεται σαφώς άλλως, τα προϊόντα αυτά είναι προτιμησιακής καταγωγής … (2).
+
+**English version**
+
+The exporter of the products covered by this document (customs authorisation No … (1)) declares that, except where otherwise clearly indicated, these products are of … (2) preferential origin.
+
+**French version**
+
+L’exportateur des produits couverts par le présent document [autorisation douanière no … (1)] déclare que, sauf indication claire du contraire, ces produits ont l’origine préférentielle … (2).
+
+**Italian version**
+
+L’esportatore delle merci contemplate nel presente documento [autorizzazione doganale n. … (1)] dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale … (2).
+
+**Latvian version**
+
+Eksportētājs produktiem, kuri ietverti šajā dokumentā (muitas pilnvara Nr. … (1)), deklarē, ka, izņemot tur, kur ir citādi skaidri noteikts, šiem produktiem ir priekšrocību izcelsme no … (2).
+
+**Lithuanian version**
+
+Šiame dokumente išvardintų prekių eksportuotojas (muitinės liudijimo Nr … (1)) deklaruoja, kad, jeigu kitaip nenurodyta, tai yra (2) preferencinės kilmės prekės.
+
+**Hungarian version**
+
+A jelen okmányban szereplő áruk exportőre (vámfelhatalmazási szám: … (1)) kijelentem, hogy eltérő egyértelmű jelzés hianyában az áruk preferenciális … (2) származásúak.
+
+**Maltese version**
+
+L-esportatur tal-prodotti koperti b’dan id-dokument (awtorizzazzjoni tad-dwana nru. … (1)) jiddikjara li, ħlief fejn indikat b’mod ċar li mhux hekk, dawn il-prodotti huma ta’ oriġini preferenzjali … (2).
+
+**Dutch version**
+
+De exporteur van de goederen waarop dit document van toepassing is (douanevergunning nr. … (1)), verklaart dat, behoudens uitdrukkelijke andersluidende vermelding, deze goederen van preferentiële … oorsprong zijn (2).
+
+**Polish version**
+
+Eksporter produktów objętych tym dokumentem (upoważnienie władz celnych nr … (1)) deklaruje, że z wyjątkiem gdzie jest to wyraźnie określone, produkty te mają … (2) preferencyjne pochodzenie.
+
+**Portuguese version**
+
+O abaixo assinado, exportador dos produtos abrangidos pelo presente documento [autorização aduaneira n.o … (1)], declara que, salvo indicação expressa em contrário, estes produtos são de origem preferencial … (2).
+
+**Romanian version**
+
+Exportatorul produselor ce fac obiectul acestui document (autorizația vamală nr. … (1)) declară că, exceptând cazul în care în mod expres este indicat altfel, aceste produse sunt de origine preferențialā … (2).
+
+**Slovenian version**
+
+Izvoznik blaga, zajetega s tem dokumentom (pooblastilo carinskih organov št. … (1)) izjavlja, da, razen če ni drugače jasno navedeno, ima to blago preferencialno … (2) poreklo.
+
+**Slovak version**
+
+Vývozca výrobkov uvedených v tomto dokumente (číslo povolenia … (1)) vyhlasuje, že okrem zreteľne označených, majú tieto výrobky preferenčný pôvod v … (2).
+
+**Finnish version**
+
+Tässä asiakirjassa mainittujen tuotteiden viejä (tullin lupa n:o … (1)) ilmoittaa, että nämä tuotteet ovat, ellei toisin ole selvästi merkitty, etuuskohteluun oikeutettuja … alkuperätuotteita (2).
+
+**Swedish version**
+
+Exportören av de varor som omfattas av detta dokument (tullmyndighetens tillstånd nr. … (1)) försäkrar att dessa varor, om inte annat tydligt markerats, har förmånsberättigande … ursprung (2).
+
+**South African versions**
+
+Bagwebi ba go romela ntle ditöweletöwa töeo di akaretöwago ke tokumente ye (Nomoro ya ditöwantle ya tumelelo … (1)) ba ipolela gore ntle le moo go laeditöwego, ditöweletöwa töe ke töa go töwa (2) ka tlhago.
+
+Moromelli wa sehlahiswa ya sireleditsweng ke tokomane ena (tumello ya thepa naheng No … (1)) e hlalosa hore, ka ntle ha eba ho hlalositswe ka tsela e nngwe ka nepo, dihlahiswa tsena ke tsa … tshimoloho e kgethilweng (2).
+
+Moromelantle wa dikuno tse di tlhagelelang mo lokwalong le (lokwalo lwa tumelelo ya kgethiso No … (1)) o tlhomamisa gore, ntle le fa go tlhagisitsweng ka mokgwa mongwe, dikuno tse ke tsa … dinaga tse di thokegang (2).
+
+Umtfumeli ngaphandle walemikhicito lebalwe kulomculu (ngeligunya lalokutfunyelwa ngaphandle Nombolo … (1)) lophakamisa kutsi, ngaphandle kwalapho lekuboniswe khona ngalokucacile, lemikhicito … ngeyendzabuko lebonelelwako (2).
+
+Muvhambadzi wa zwibveledzwa mashangoni a nnda, (zwibveledzwa) zwine zwa vha zwo ambiwaho kha ili linwalo (linwalo la u nea maanda la mithelo ya zwitundwannda kana zwirumelwannda la vhu … (1)), li khou buletshedza uri, nga nnda ha musi zwo ambiwa nga inwe ndila-vho, zwibveledzwa hezwi ndi zwa … vhubwo hune ha khou funeseswa kana u takaleleswa (2).
+
+Muxavisela-vambe wa swikumiwa leswi nga eka tsalwa leri (Xibalo xa switundziwa xa Nomboro … (1)) u boxa leswaku, handle ka laha swi kombisiweke, swikumiwa leswi i swa ntiyiso swa xilaveko xa le henhla swinene (2).
+
+Die uitvoerder van die produkte gedek deur hierdie dokument (doeanemagtiging No … (1)) verklaar dat, uitgesonderd waar andersins duidelik aangedui, hierdie produkte van … voorkeuroorsprong (2) is.
+
+Umthumelli-phandle wemikhiqizo ebalwe kilencwadi (inomboro … (1)) egunyaza imikhiqizo ephumako) ubeka uthi, ngaphandle kobana kutjengiswe ngendlela ethileko butjhatjhalazi, lemikhiqizo ine … mwelaphi enconyiswako (2).
+
+Umthumeli weempahla ngaphandle kwelizwe wemveliso equkwa lolu xwebhu (iirhafu zempahla zesigunyaziso Nombolo … (1)) ubhengeza ukuthi, ngaphandle kwalapho kuboniswe ngokucacileyo, ezi mveliso … zezemvelaphi eyamkelekileyo kunezinye (2).
+
+Umthumeli wempahla ebhaliwe kulo mqulu iNombolo … yokugunyaza yentela yempahla … (1) uyamemezela ukuthi, ngaphandle kokuthi kukhonjisiwe ngokusobala, le mikhiqizo iqhamuka … endaweni ekhethekileyo (2).
+
+… (3)
+
+(Place and date)
+
+… (4)
+
+(Signature of the exporter; in addition, the name of the person signing the declaration has to be indicated in clear script)
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(1) When the invoice declaration is made out by an approved exporter within the meaning of Article 20 of the Protocol, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets will be omitted or the space left blank."
+
+(2) Origin of products to be indicated. When the invoice declaration relates in whole or in part to products originating in Ceuta and Melilla within the meaning of Article 36 of the Protocol, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol “CM”."
+
+(3) These indications may be omitted if the information is contained in the document itself."
+
+(4) See Article 19(5) of the Protocol. In cases where the exporter is not required to sign, the exemption of signature also implies the exemption of the name of the signatory.’ "
+
+## CHAPTER II — TRANSITIONAL PROVISIONS
+
+### Article 4 — Goods en route or in temporary storage
+
+1\. The provisions of the Agreement shall be applied to goods exported from either South Africa to one of the new Member States or from one of the new Member States to South Africa, which comply with the provisions of Protocol 1 to the TDCA and which on the date of accession are either en route or in temporary storage, in a customs warehouse or in a free zone in South Africa or in that new Member State.
+
+2\. Preferential treatment shall be granted in such cases, subject to the submission to the customs authorities of the importing country, within four months from the date of accession, of a proof of origin issued retrospectively by the customs authorities of the exporting country.
+
+## CHAPTER III — GENERAL AND FINAL PROVISIONS
+
+### Article 5
+
+This Protocol shall form an integral part of the TDCA.
+
+### Article 6
+
+1\. This Protocol shall be approved by the Community, by the Council of the European Union on behalf of the Member States, and by the Republic of South Africa in accordance with their own procedures.
+
+2\. The Contracting Parties shall notify each other of the accomplishment of the corresponding procedures referred to in paragraph 1. The instruments of approval shall be deposited with the General Secretariat of the Council of the European Union.
+
+### Article 7
+
+1\. This Protocol shall enter into force on the first day of the first month following the date of deposit of the last instrument of approval.
+
+2\. This Protocol shall apply provisionally as from 1 January 2007.
+
+### Article 8
+
+This Protocol is drawn up in duplicate in the Bulgarian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovenian, Slovak, Spanish and Swedish languages and the official languages of South Africa, other than English, namely Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, isiNdebele, isiXhosa and isiZulu, each of these texts being equally authentic.
+
+Съставено в Претория на десети октомври две хиляди и седма година.
+
+Hecho en Pretoria, el diez de octubre de dos mil siete.
+
+V Pretorii dne desátého října dva tisíce sedm.
+
+Udfærdiget i Pretoria den tiende oktober to tusind og syv.
+
+Geschehen zu Pretoria am zehnten Oktober zweitausendsieben.
+
+Kahe tuhande seitsmenda aasta oktoobrikuu kümnendal päeval Pretorias.
+
+Έγινε στην Πρετόρια, στις δέκα Οκτωβρίου δύο χιλιάδες επτά.
+
+Done at Pretoria on the tenth day of October in the year two thousand and seven.
+
+Fait à Pretoria, le dix octobre deux mille sept.
+
+Fatto a Pretoria, addì dieci ottobre duemilasette.
+
+Pretorijā, divtūkstoš septītā gada desmitajā oktobrī.
+
+Priimta du tūkstančiai septintųjų metų spalio dešimtą dieną Pretorijoje.
+
+Kelt Pretoriában, a kétezer-hetedik év október havának tizedik napján.
+
+Magħmul fi Pretorja fl-għaxar jum ta' Ottubru tas-sena elfejn u sebgħa.
+
+Gedaan te Pretoria, de tiende oktober tweeduizend zeven.
+
+Sporządzono w Pretorii, dnia dziesiątego października roku dwa tysiące siódmego.
+
+Feito em Pretória, em dez de Outubro de dois mil e sete.
+
+Întocmit la Pretoria, la zece octombrie două mii șapte.
+
+V Pretórii desiateho októbra dvetisícsedem.
+
+V Pretorij, dne desetega oktobra leta dva tisoč sedem.
+
+Tehty Pretoriassa kymmenentenä päivänä lokakuuta vuonna kaksituhattaseitsemän.
+
+Som skedde i Pretoria den tionde oktober tjugohundrasju.
+
+За държавите-членки
+
+Por los Estados miembros
+
+Za členské státy
+
+For medlemsstaterne
+
+Für die Mitgliedstaaten
+
+Liikmesriikide nimel
+
+Για τα κράτη μέλη
+
+For the Member States
+
+Pour les États membres
+
+Per gli Stati membri
+
+Dalībvalstu vārdā
+
+Valstybių narių vardu
+
+A tagállamok részéről
+
+Għall-Istati Membri
+
+Voor de lidstaten
+
+W imieniu państw członkowskich
+
+Pelos Estados-Membros
+
+Pentru statele membre
+
+Za členské štáty
+
+Za države članice
+
+Jäsenvaltioiden puolesta
+
+På medlemsstaternas vägnar
+
+[image]
+
+За Европейската общност
+
+Por la Comunidad Europea
+
+Za Evropské společenství
+
+For Det Europæiske Fællesskab
+
+Für die Europäische Gemeinschaft
+
+Euroopa Ühenduse nimel
+
+Για την Ευρωπαϊκή Κοινότητα
+
+For the European Community
+
+Pour la Communauté européenne
+
+Per la Comunità europea
+
+Eiropas Kopienas vārdā
+
+Europos bendrijos vardu
+
+Az Európai Közösség részéről
+
+Għall-Komunità Ewropea
+
+Voor de Europese Gemeenschap
+
+W imieniu Wspólnoty Europejskiej
+
+Pela Communidade Europeia
+
+Pentru Comunitatea Europeană
+
+Za Európske spoločenstvo
+
+za Evropsko skupnost
+
+Euroopan yhteisön puolesta
+
+För Europeiska gemenskapen
+
+[image]
+
+[image]
+
+For the Republic of South Africa
+
+wa Repapoliki ya Afrika Borwa
+
+Ya Rephaboliki ya Afrika Borwa
+
+Wa Rephaboliki ya Aforika Borwa
+
+WeRiphabliki yaseNingizimu Afrika
+
+wa Rephabuliki ya Afurika Tshipembe
+
+Wa Riphabliki ra Afrika-Dzonga
+
+Vir die Republiek van Suid-Afrika
+
+weRiphabhliki yeSewula Afrika
+
+WeRiphablikhi yoMzantsi Afrika
+
+WeRiphabhulikhi yaseNingizimu Afrika
+
+[image]

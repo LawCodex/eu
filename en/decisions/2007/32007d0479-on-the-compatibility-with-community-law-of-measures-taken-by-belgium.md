@@ -1,0 +1,491 @@
+---
+title: "2007/479/EC: Commission Decision of 25 June 2007 on the compatibility with Community law of measures taken by Belgium pursuant to Article 3a(1) of Council Directive 89/552/EEC on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities"
+identifier: "32007D0479"
+eli: "http://data.europa.eu/eli/dec/2007/479/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2007-06-25
+entry_into_force: 2007-12-05
+last_amended: 2014-03-20
+consolidated_version: "02007D0479-20140320"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007D0479-20140320"
+retrieved: 2026-10-11
+---
+
+# 2007/479/EC: Commission Decision of 25 June 2007 on the compatibility with Community law of measures taken by Belgium pursuant to Article 3a(1) of Council Directive 89/552/EEC on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities
+
+**COMMISSION DECISION**
+
+**of 25 June 2007**
+
+**on the compatibility with Community law of measures taken by Belgium pursuant to Article 3a(1) of Council Directive 89/552/EEC on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities**
+
+**(2007/479/EC)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DECISION of 25 February 2014 </td><td> L 59</td><td>39</td><td>28.2.2014</td></tr>
+</table>
+
+**COMMISSION DECISION**
+
+**of 25 June 2007**
+
+**on the compatibility with Community law of measures taken by Belgium pursuant to Article 3a(1) of Council Directive 89/552/EEC on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities**
+
+**(2007/479/EC)**
+
+## Article 1
+
+The measures pursuant to Article 3a(1) of Directive 89/552/EEC notified by Belgium to the Commission on 10 December 2003, as published in the Official Journal of the European Union C 158 of 29 June 2005 and modified by a measure published in the Moniteur belge of 19 March 2013 [C-2013/29212], p. 16401, and notified to the Commission pursuant to Article 14(2) of Directive 2010/13/EU of the European Parliament and of the Council ( 3 ) on 26 November 2013, are compatible with Union law.
+
+## Article 2
+
+The measures, as finally taken by Belgium and set out in the Annex to this Decision, shall be published in the Official Journal in accordance with Article 3a(2) of Directive 89/552/EEC.
+
+## Article 3
+
+The measures taken by Belgium, modifying the measures taken pursuant to Article 3a(1) of Directive 89/552/EEC, and set out in Annex A, shall be published in the Official Journal of the European Union in accordance with Article 14(2) of Directive 2010/13/EU.
+
+## ANNEX
+
+**Publication in accordance with Article 3a(2) of Council Directive 89/552/EEC on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the pursuit of television broadcasting activities**
+
+The measures taken by Belgium to be published pursuant to Article 3a(2) of Directive 89/552/EEC are set out in the following extracts from instruments adopted respectively by the Flemish and French Communities and published in the Moniteur Belge:
+
+— for the French Community, in the Decree of 27 February 2003 on broadcasting (MB No 137, 17.4.2003) and the Order of 8 June 2004 (MB No 318, 6.9.2004);
+
+— for the Flemish Community, in the Decree of 25 January 1995 (DCFL No 1995-01-25/38) and the Order of 28 May 2004 (MB No 295, 19.8.2004).
+
+A consolidated list of events of major importance for Belgium is contained in the agreement concluded between the French Community and the Flemish Community on 28 November 2003.
+
+**FRENCH COMMUNITY**
+
+**‘1. Broadcasting Decree**
+
+[…]
+
+Art. 4 § 1
+
+After consulting the CSA, the Government may adopt a list of events which it considers to be of major importance for the public of the French Community. Such events may not be subject to the exercise of exclusive rights by a television broadcaster or by the RTBF, such as to deprive a large part of the public in that Community of access to these events via a free-access television service.
+
+The Government shall determine whether the events are to be transmitted live, deferred, in full or in excerpts.
+
+Art. 4 § 2
+
+An event is considered to be of major importance for the public of the French Community if it meets at least two of the following criteria:
+
+1\. the event is particularly popular with the public of the French Community in general, not just those who follow such events as a matter of course;
+
+2\. the event has a cultural importance generally recognised by the public of the French Community and is part of that Community's cultural identity;
+
+3\. a Belgian personality or team is participating in the event concerned in the context of a competition or event of international importance;
+
+4\. the event is traditionally broadcast in a programme of a free-access television service in the French Community and attracts a wide public.
+
+After consulting the CSA, the Government may adopt the procedures by which the abovementioned events have to be made accessible.
+
+Art. 4 § 3
+
+A television broadcasting service is considered to be “free-access” if it broadcasts in the French language and can be received by 90 % of households with television reception equipment located in the French-speaking region or the bilingual Brussels-Capital region. Apart from the technical costs, reception of this service cannot be subject to payment other than the subscription price for the basic cable package.
+
+Art. 4 § 4
+
+Television broadcasters and the RTBF shall refrain from exercising any exclusive rights they might have acquired after 30 July 1997, such as would deprive a large part of the public of a Member State of the European Union of access via a free-access television service to events of major importance, a list of which has been published in the Official Journal of the European Communities.
+
+They shall comply with the special conditions set at the time of publication of the abovementioned lists, concerning live or deferred access, in full or in excerpts.
+
+**2\. Order designating events of major importance and determining the procedures for making them accessible**
+
+Article 1
+
+Within the limits laid down in this order, access by the public of the French Community to these events shall be live, deferred, in full or in excerpts, in accordance with the Annex to this order.
+
+Article 2
+
+A television broadcaster service in the French Community intending to exercise the exclusive broadcasting rights it holds to an event of major importance must broadcast it on a free-access television service in accordance with the Annex to this Order.
+
+Article 3
+
+A television broadcaster which has acquired the live-and-in-full transmission rights to an event may nevertheless postpone the broadcasting of this event on a free-access television broadcasting service in the following cases:
+
+— if the event takes place between midnight and 8 a.m., Belgian time;
+
+— if the event coincides with a news or current affairs programme normally broadcast by the service at that time;
+
+— if the event comprises several elements taking place simultaneously.
+
+Article 4
+
+This Order does not create any broadcasting obligation for the head of RTBF or the television broadcasting services of the French Community.
+
+Article 5
+
+The Minister for Audiovisual is responsible for the implementation of this Order.
+
+Brussels, 8 June 2004.
+
+For the Government of the French Community
+
+The Minister for Audiovisual
+
+O. CHASTEL
+
+**3\. Annex to the Order**
+
+List of events and categories of events of major importance and arrangements for free public access to them:
+
+Summer and Winter Olympic Games, live and with excerpts;
+
+Belgian Football Cup Final (men), live and in full;
+
+All matches involving the Belgian men's football team, live and in full;
+
+Football World Cup Finals Tournament (men), live and in full;
+
+European Football Championship, final round (men), live and in full;
+
+Champions League, matches involving Belgian clubs, live and in full;
+
+UEFA Cup, matches involving Belgian clubs, live and in full;
+
+Tour de France, men, professional, live and with excerpts;
+
+Liège-Bastogne-Liège, live and with excerpts;
+
+Amstel Gold Race, live and with excerpts;
+
+Tour of Flanders, live and with excerpts;
+
+Paris-Roubaix, live and with excerpts;
+
+Milan-San Remo, live and with excerpts;
+
+Belgian Road Cycling Championships, professional (men), live and with excerpts;
+
+World Road Cycling Championships, professional (men), live and with excerpts;
+
+Ivo Van Damme Memorial, live and in full;
+
+Belgian Formula 1 Grand Prix, live and in full;
+
+The following Grand Slam tennis tournaments: Roland Garros and Wimbledon, quarter finals, semi-finals and finals involving a Belgian player, live and in full;
+
+The Davis Cup and the Fed Cup, quarter-finals, semi-finals and finals involving the Belgian team, live and in full;
+
+Queen Elisabeth Music Competition, the final, live and in full;
+
+La Flèche wallonne, live and with excerpts;
+
+World Athletics Championships, where Belgian athletes are taking part, live and in full;
+
+To be annexed to the order of 8 June 2004.’
+
+The Minister for Audiovisual
+
+O. CHASTEL
+
+**FLEMISH COMMUNITY**
+
+**‘1. Decree of 25 January 1995**
+
+Art. 76 § 1
+
+The Flemish Government shall draw up a list of events considered to be of major importance for the public and which, for this reason, may not be broadcast on an exclusive basis so that a large part of the public of the Flemish Community cannot watch them live or deferred on free-access television.
+
+The Flemish Government shall decide whether these events shall be broadcast via whole or partial live coverage or, where necessary or appropriate for objective reasons of general interest, via whole or partial deferred coverage.
+
+Art. 76 § 2
+
+Television broadcasting undertakings of or recognised by the Flemish Community may not exercise the exclusive rights thus gained such that a large part of the public of another Member State of the European Community cannot without payment watch the events designated by that Member State wholly or partially live or, where necessary or appropriate for objective reasons of general interest, wholly or partially deferred, as determined by that Member State.
+
+**2\. Order of the Flemish Government establishing the list of events of major importance to society […]**
+
+Whereas an event can be considered as an event of major importance to society if two of the following conditions are met:
+
+1\. the event has great topical value and attracts considerable public interest;
+
+2\. the event is taking place in the context of an important international competition or is a competition in which the national team, a Belgian club team or one or more Belgian athlete(s) is/are taking part;
+
+3\. the event belongs to an important sporting discipline and represents an important cultural asset to the Flemish Community;
+
+4\. the event is broadcast traditionally by free-access television and has a high viewer rating for its category.
+
+[…]
+
+Article 1 § 1
+
+The following events are considered as events of major importance to society:
+
+1\. Summer Olympic Games;
+
+2\. Football (men): all matches involving the national team and all final-round World Cup and European Championship matches;
+
+3\. Champions League and UEFA Cup:
+
+— matches in which a Belgian club team is playing;
+
+— semi-finals and finals;
+
+4\. Belgian Football Cup Final (men);
+
+5\. Cycling:
+
+The Tour de France for elite cyclists (men): all stages;
+
+the following World Cup races: Milan-San Remo, Tour of Flanders, Paris-Roubaix, Liège-Bastogne-Liège, Amstel Gold Race, Paris-Tours and Tour of Lombardy;
+
+the Belgian Championship and the World Championship for elite cyclists (men).
+
+6\. Cyclo-cross: the Belgian Championships and World Championships for elite cyclists (men).
+
+7\. Tennis:
+
+Grand Slam tournaments: all matches with Belgian players from the quarter-finals onward and all finals (singles);
+
+Davis Cup and Fed Cup: quarter-finals, semi-finals and finals involving Belgian teams.
+
+8\. Belgian Formula 1 Grand Prix.
+
+9\. Athletics: the Van Damme Memorial.
+
+10\. Queen Elisabeth Competition.
+
+Article 1 § 2
+
+The events referred to under 2, 3, 4, 6, 7, 8, 9 and 10 are made available via whole live coverage.
+
+The events referred to under 1 and 5 are made available via partial live coverage.
+
+Art. 2
+
+The exclusive rights over the events mentioned in Article 1 § 1 may not be exercised in such a way as to prevent a large part of the population from following these events on free-access television.
+
+A large part of the population of the Flemish Community is considered to be able to follow an event of major importance to society on free-access television when the event is broadcast by a television station transmitting in the Dutch language and can be received by at least 90 % of the population without any payment in excess of the television distribution subscription price.
+
+Art. 3 § 1
+
+Television stations which do not satisfy the requirements of Article 2 and which acquire exclusive transmission rights in the Dutch-speaking region and the bilingual Brussels-Capital region for the events mentioned in Article 1 § 1 may not exercise these rights unless they can guarantee, on the basis of contracts concluded, that a large part of the population will not be prevented from following these events on free-access television as provided for in Articles 1 § 2 and 2.
+
+Art. 3 § 2
+
+Television stations which hold exclusive transmission rights may grant sub-licences, at reasonable market prices and within time limits to be agreed with the television stations, to television stations which satisfy the requirements of Article 2.
+
+Art. 3 § 3
+
+If no television station declares itself willing to take sub-licences under these conditions, the television station concerned may, by way of derogation from Article 2 and Article 3 § l, make use of the transmission rights acquired.
+
+Art. 4
+
+The Flemish Minister with responsibility for media policy shall be responsible for the implementation of this Order.
+
+Brussels, 28 May 2004.
+
+The Minister-President of the Flemish Government
+
+B. SOMERS
+
+The Flemish Minister for Housing, Media and Sport
+
+M. KEULEN
+
+**Consolidated list of events of major importance for Belgium**
+
+1\. Summer Olympic Games
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+2\. Belgian Football Cup Final (men)
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+3\. All matches involving the Belgian men's football team
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+4\. Football World Cup Finals Tournament (men)
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+5\. European Football Championship, final round (men)
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+6\. Champion's League, matches involving Belgian clubs
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+7\. UEFA Cup, matches involving Belgian clubs
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+8\. Tour de France, men, professional
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+9\. Liège-Bastogne-Liège
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+10\. Amstel Gold Race
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+11\. Tour of Flanders
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+12\. Paris-Roubaix
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+13\. Milan-San Remo
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+14\. Belgian Road Cycling Championships, professional (men)
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+15\. World Road Cycling Championships, professional (men)
+
+Flemish Community: live and with excerpts
+
+French Community: live and with excerpts
+
+16\. Ivo Van Damme Memorial
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+17\. Belgian Formula 1 Grand Prix
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+18\. The following Grand Slam tennis tournaments: Roland Garros and Wimbledon, quarter-finals, semi-finals and finals involving a Belgian player
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+19\. The Davis Cup and the Fed Cup, quarter-finals, semi-finals and finals involving the Belgian team
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+20\. Queen Elisabeth Music Competition, the final
+
+Flemish Community: live and in full
+
+French Community: live and in full
+
+Events specific to the French list
+
+1\. La Flèche wallonne (live and with excerpts).
+
+2\. Winter Olympic Games (live and with excerpts).
+
+3\. World Athletics Championships, where Belgian athletes are taking part, live and in full.
+
+Events specific to the Flemish list
+
+1\. Champions League: finals and semi-finals, live and in full.
+
+2\. UEFA Cup: finals and semi-finals, live and in full.
+
+3\. Cycling, Paris-Tours and Tour of Lombardy: live and with excerpts.
+
+4\. The Belgian and World Cyclo-cross Championships, men, professional: live and in full.
+
+5\. The following Grand Slam tennis tournaments: Australian Open and US Open, quarter-finals, semi-finals and finals involving a Belgian player, live and in full.’
+
+## ANNEX A
+
+**Publication pursuant to Article 14 of Directive 2010/13/EU on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive)**
+
+The provisions adopted by Belgium modifying the measures taken under Article 3(a) of Directive 89/552/EEC are presented in the Order of the Government of the French Community of 17 January 2013, published in the Moniteur belge/Belgisch Staatsblad of 19 March 2013.
+
+17 JANUARY 2013 — Order of the Government of the French Community amending the Order of the Government of the French Community of 8 June 2004 designating events of major importance and laying down the arrangements for their access by the public in the French Community via a free-access television broadcaster
+
+Article 1. The title of the Order of the Government of the French Community of 8 June 2004 designating events of major importance and laying down the arrangements for their access by the public in the French Community via a free-access television broadcaster is replaced by the following:
+
+‘Order establishing the list of events of major importance and the arrangements for broadcasting them’.
+
+Article 2. Article 2 of the Order is replaced by the following:
+
+‘A broadcaster of linear television services, including RTBF, intending to exercise the exclusive broadcasting rights it holds to an event of major importance must broadcast it on a free-access linear television service in accordance with the Annex to this Order.’
+
+Article 3. The following Article 2(a) is added to the Order:
+
+‘§ 1. A broadcaster of linear television services wishing to exercise the exclusive rights to an event listed in the Annex may broadcast it on a linear television broadcasting service which is not free to access as long as the following conditions have been met:
+
+— the event has already been offered to broadcasters of linear television services with a view to its broadcast on a free-access linear television service in accordance with the conditions set out in the Annex to this Order;
+
+— this offer was made within a reasonable time-frame and under conditions (in particular financial conditions) that take into account the market for broadcasting rights;
+
+— the broadcasters of linear television services to which the broadcasting rights were offered did not intend to acquire these rights within a reasonable time.
+
+§ 2. In the event of disagreement between the broadcaster of linear television services holding the exclusive rights to an event and a free-access broadcaster of linear television services with regard to the conditions (in particular the financial conditions) in the broadcasting offer, the matter shall be referred to the competent judicial or administrative authority or to arbitration. If the free-access broadcaster of linear television services refuses to accept the acquisition conditions laid down by this authority or by the arbitration authority, the holder of the exclusive rights to the event may broadcast the event in question on a linear television broadcasting service which is not free to access.’
+
+Article 4. Article 3 of the Order is replaced by the following:
+
+‘§ 1. A broadcaster of linear television services which has acquired the live-and-in-full transmission rights to an event may postpone the broadcasting of this event on a free-access linear television broadcasting service in the following cases:
+
+— if the event takes place between midnight and 8 a.m., Belgian time;
+
+— if the event coincides with a news or current affairs programme normally broadcast by the service at that time;
+
+— the event comprises several elements taking place simultaneously.
+
+§ 2. Where a broadcaster of linear television services which makes use of § 1 above has acquired its live-and-in-full transmission rights pursuant to Article 2(a) above, the broadcaster of linear television services that has ceded its exclusive rights pursuant to Article 2(a) is authorised to broadcast the event if it so wishes on a linear television service that is not free to access’.
+
+Article 5. In Article 4 of the Order, the words ‘the television broadcasting services of the French Community’ are replaced by the words ‘broadcasters of linear television services’.
+
+Article 6. The Minister with responsibility for audiovisual affairs is responsible for the implementation of this Order.
+
+Brussels, 17 January 2013.
+
+Minister for Culture, Audiovisual Affairs, Health and Equal Opportunities
+
+Mrs F. LAANAN
+
+( 1 ) OJ L 298, 17.10.1989, p. 23. Directive as amended by Directive 97/36/EC of the European Parliament and of the Council (OJ L 202, 30.7.1997, p. 60).
+
+( 2 ) OJ C 158, 29.6.2005, p. 13.
+
+( 3 ) Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (OJ L 95, 15.4.2010, p. 1).

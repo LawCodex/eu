@@ -1,0 +1,73 @@
+---
+title: "2001/461/EC: Commission Decision of 15 June 2001 conferring management of aid on implementing agencies for pre-accession measures in agriculture and rural development in the Republic of Estonia in the pre-accession period (notified under document number C(2001) 1649)"
+identifier: "32001D0461"
+eli: "http://data.europa.eu/eli/dec/2001/461/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2001-06-15
+entry_into_force: 2001-10-29
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001D0461"
+retrieved: 2026-10-11
+---
+
+# 2001/461/EC: Commission Decision of 15 June 2001 conferring management of aid on implementing agencies for pre-accession measures in agriculture and rural development in the Republic of Estonia in the pre-accession period (notified under document number C(2001) 1649)
+
+Commission Decision
+
+of 15 June 2001
+
+conferring management of aid on implementing agencies for pre-accession measures in agriculture and rural development in the Republic of Estonia in the pre-accession period
+
+(notified under document number C(2001) 1649)
+
+(2001/461/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Council Regulation (EC) No 1266/1999 of 21 June 1999 on coordinating aid to the applicant countries in the framework of the pre-accession strategy and amending Regulation (EEC) No 3906/1989(1), and in particular Article 12(2) thereof,
+
+Having regard to the Commission Regulation (EC) No 2222/2000 of 7 June 2000 laying down financial rules for the application of Council Regulation (EC) No 1268/1999 on Community support for pre-accession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the pre-accession period(2), and in particular Article 3(2) thereof,
+
+Whereas:
+
+(1) In accordance with Article 4(5) of Regulation (EC) No 1268/1999 of 21 June 1999 on Community support for pre-accession measures for agriculture and rural development in the Applicant Countries of central and eastern Europe in the pre-accession period(3), a Programme for Agriculture and Rural Development was approved by Commission Decision C(2000) 3321 final on 17 November 2000 for the Republic of Estonia.
+
+(2) The government of the Republic of Estonia and the Commission, acting on behalf of the European Community, have signed on 25 January 2001 the Multiannual Financing Agreement laying down the technical, legal and administrative framework for the execution of the SAPARD Programme.
+
+(3) Regulation (EC) No 1266/1999 provides that the ex-ante approval requirement referred to in article 12(1) of Regulation (EC) No 1266/1999 may be waived on the basis of a case-by-case analysis of national and sectorial programme/project management capacity, financial control procedures and structures regarding public finance; Regulation (EC) No 2222/2000 provides for detailed rules for the carrying out of said analysis.
+
+(4) The Competent authority of the Republic of Estonia has appointed, on the one hand, the Agricultural Registers and Information Board for the implementation of measures "Investment support in agricultural holdings"; "Investment support for improving the processing and marketing of agricultural and fishery products"; "Investment support for the development and diversification of economic activities" and "Investment support for the development and the improvement of rural infrastructure" as defined in the Programme for Agriculture and Rural Development that was approved by Commission Decision C(2000) 3321 final on 17 November 2000 for the Republic of Estonia and, on the other, the Ministry of Finance, National Fund Department for the financial functions it is due to perform in the framework of the implementation of the SAPARD programme.
+
+(5) Pursuant to Regulation (EC) No 1266/1999 and Regulation (EC) No 2222/2000, the Commission has analysed the national and sectorial programme/project management capacity, financial control procedures and structures regarding public finance and has established that for the implementation of the aforementioned measures, the Republic of Estonia complies with the provisions of Articles 4 to 6 and of the Annex to the Regulation (EC) No 2222/2000, with the minimum conditions set out in the Annex to the Regulation (EC) No 1266/1999; in particular, the Agricultural Registers and Information Board has implemented the following key accreditation criteria satisfactorily: written procedures, segregation of duties, pre-project approval and pre-payment checks, payment procedures, accounting procedures, computer security and internal audit; the Ministry of Finance, National Fund Department has implemented the following criteria satisfactorily: audit trail, treasury management, receipt of funds, disbursement to the Agricultural Registers and Information Board, computer security and internal audit.
+
+(6) It is therefore appropriate to waive the ex-ante approval requirement referred to in article 12(1) of Regulation (EC) No 1266/1999 and to confer on the Agricultural Registers and Information Board and the Ministry of Finance, National Fund Department in the Republic of Estonia the management of aid on a decentralised basis.
+
+(7) However, since the verifications carried out by the Commission are based on an operational but not operating system and that it is therefore appropriate to confer the management of the SAPARD Programme on the Agricultural Registers and Information Board and on the Ministry of Finance, National Fund Department on a provisional basis, so that full conferral of management of the SAPARD Programme is only envisaged after further verifications in order to ensure that the system operates satisfactorily have been carried out and after any recommendations the Commission may issue, with regard to the conferral of management of aid on the Agricultural Registers and Information Board and on the Ministry of Finance, National Fund Department, have been implemented,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The requirement of ex-ante approval by the Commission of project selection and contracting by the Republic of Estonia is hereby waived.
+
+## Article 2
+
+Management of the SAPARD Programme is conferred on a provisional basis to the Agricultural Registers and Information Board, Kreutzwaldi Str. 1, 51014 Tartu, Republic of Estonia for the implementation of measures "Investment support in agricultural holdings"; "Investment support for improving the processing and marketing of agricultural and fishery products"; "Investment support for the development and diversification of economic activities" and "Investment support for the development and the improvement of rural infrastructure" as defined in the Programme for Agricultural and Rural Development that was approved by Commission Decision C(2000) 3321 final on 17 November 2000 and to the Ministry of Finance, National Fund Department, Suur-Ameerika 1, 15006, Tallinn, Republic of Estonia, for the financial functions it is due to perform in the framework of the implementation of the SAPARD programme for the Republic of Estonia.
+
+Done at Brussels, 15 June 2001.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ L 161, 26.6.1999, p. 68.
+
+(2) OJ L 253, 7.10.2000, p. 5.
+
+(3) OJ L 161, 26.6.1999, p. 87.

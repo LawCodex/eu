@@ -1,0 +1,367 @@
+---
+title: "Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime"
+identifier: "32008D0615"
+eli: "http://data.europa.eu/eli/dec/2008/615/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2008-06-23
+entry_into_force: 2008-04-08
+last_amended: 2024-04-25
+consolidated_version: "02008D0615-20240425"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008D0615-20240425"
+retrieved: 2026-10-11
+---
+
+# Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime
+
+**COUNCIL DECISION 2008/615/JHA**
+
+**of 23 June 2008**
+
+**on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/982 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 982</td><td>1</td><td>5.4.2024</td></tr>
+</table>
+
+**COUNCIL DECISION 2008/615/JHA**
+
+**of 23 June 2008**
+
+**on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime**
+
+## CHAPTER 1 — GENERAL ASPECTS
+
+#### Article 1
+
+Aim and scope
+
+By means of this Decision, the Member States intend to step up cross-border cooperation in matters covered by Title VI of the Treaty, particularly the exchange of information between authorities responsible for the prevention and investigation of criminal offences. To this end, this Decision contains rules in the following areas:
+
+(b) provisions on the conditions for the supply of data in connection with major events with a cross-border dimension (Chapter 3);
+
+(c) provisions on the conditions for the supply of information in order to prevent terrorist offences (Chapter 4);
+
+(d) provisions on the conditions and procedure for stepping up cross-border police cooperation through various measures (Chapter 5).
+
+## CHAPTER 2 — ONLINE ACCESS AND FOLLOW-UP REQUESTS
+
+### SECTION 1 — DNA profiles
+
+#### Article 7
+
+Collection of cellular material and supply of DNA profiles
+
+Where, in ongoing investigations or criminal proceedings, there is no DNA profile available for a particular individual present within a requested Member State's territory, the requested Member State shall provide legal assistance by collecting and examining cellular material from that individual and by supplying the DNA profile obtained, if:
+
+(a) the requesting Member State specifies the purpose for which this is required;
+
+(b) the requesting Member State produces an investigation warrant or statement issued by the competent authority, as required under that Member State's law, showing that the requirements for collecting and examining cellular material would be fulfilled if the individual concerned were present within the requesting Member State's territory; and
+
+(c) under the requested Member State's law, the requirements for collecting and examining cellular material and for supplying the DNA profile obtained are fulfilled.
+
+## CHAPTER 3 — MAJOR EVENTS
+
+#### Article 13
+
+Supply of non-personal data
+
+For the prevention of criminal offences and in maintaining public order and security for major events with a cross-border dimension, in particular for sporting events or European Council meetings, Member States shall, both upon request and of their own accord, in compliance with the supplying Member State's national law, supply one another with any non-personal data required for those purposes.
+
+#### Article 14
+
+Supply of personal data
+
+1\. For the prevention of criminal offences and in maintaining public order and security for major events with a cross-border dimension, in particular for sporting events or European Council meetings, Member States shall, both upon request and of their own accord, supply one another with personal data if any final convictions or other circumstances give reason to believe that the data subjects will commit criminal offences at the events or pose a threat to public order and security, in so far as the supply of such data is permitted under the supplying Member State's national law.
+
+2\. Personal data may be processed only for the purposes laid down in paragraph 1 and for the specified events for which they were supplied. The data supplied must be deleted without delay once the purposes referred to in paragraph 1 have been achieved or can no longer be achieved. The data supplied must in any event be deleted after not more than a year.
+
+#### Article 15
+
+National contact point
+
+For the purposes of the supply of data as referred to in Articles 13 and 14, each Member State shall designate a national contact point. The powers of the national contact points shall be governed by the applicable national law.
+
+## CHAPTER 4 — MEASURES TO PREVENT TERRORIST OFFENCES
+
+#### Article 16
+
+Supply of information in order to prevent terrorist offences
+
+1\. For the prevention of terrorist offences, Member States may, in compliance with national law, in individual cases, even without being requested to do so, supply other Member States' national contact points, as referred to in paragraph 3, with the personal data and information specified in paragraph 2, in so far as is necessary because particular circumstances give reason to believe that the data subjects will commit criminal offences as referred to in Articles 1 to 3 of Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism ( 1 ).
+
+2\. The data to be supplied shall comprise surname, first names, date and place of birth and a description of the circumstances giving rise to the belief referred to in paragraph 1.
+
+3\. Each Member State shall designate a national contact point for exchange of information with other Member States' national contact points. The powers of the national contact points shall be governed by the applicable national law.
+
+4\. The supplying Member State may, in compliance with national law, impose conditions on the use made of such data and information by the receiving Member State. The receiving Member State shall be bound by any such conditions.
+
+## CHAPTER 5 — OTHER FORMS OF COOPERATION
+
+#### Article 17
+
+Joint operations
+
+1\. In order to step up police cooperation, the competent authorities designated by the Member States may, in maintaining public order and security and preventing criminal offences, introduce joint patrols and other joint operations in which designated officers or other officials (officers) from other Member States participate in operations within a Member State's territory.
+
+2\. Each Member State may, as a host Member State, in compliance with its own national law, and with the seconding Member State's consent, confer executive powers on the seconding Member States' officers involved in joint operations or, in so far as the host Member State's law permits, allow the seconding Member States' officers to exercise their executive powers in accordance with the seconding Member State's law. Such executive powers may be exercised only under the guidance and, as a rule, in the presence of officers from the host Member State. The seconding Member States' officers shall be subject to the host Member State's national law. The host Member State shall assume responsibility for their actions.
+
+3\. Seconding Member States' officers involved in joint operations shall be subject to the instructions given by the host Member State's competent authority.
+
+4\. Member States shall submit declarations as referred to in Article 36 in which they lay down the practical aspects of cooperation.
+
+#### Article 18
+
+Assistance in connection with mass gatherings disasters and serious accidents
+
+Member States' competent authorities shall provide one another with mutual assistance, in compliance with national law, in connection with mass gatherings and similar major events, disasters and serious accidents, by seeking to prevent criminal offences and maintain public order and security by:
+
+(a) notifying one another as promptly as possible of such situations with a cross-border impact and exchanging any relevant information;
+
+(b) taking and coordinating the necessary policing measures within their territory in situations with a cross-border impact;
+
+(c) as far as possible, dispatching officers, specialists and advisers and supplying equipment, at the request of the Member State within whose territory the situation has arisen.
+
+#### Article 19
+
+Use of arms, ammunition and equipment
+
+1\. Officers from a seconding Member State who are involved in a joint operation within another Member State's territory pursuant to Article 17 or 18 may wear their own national uniforms there. They may carry such arms, ammunition and equipment as they are allowed to under the seconding Member State's national law. The host Member State may prohibit the carrying of particular arms, ammunition or equipment by a seconding Member State's officers.
+
+2\. Member States shall submit declarations as referred to in Article 36 in which they list the arms, ammunition and equipment that may be used only in legitimate self-defence or in the defence of others. The host Member State's officer in actual charge of the operation may in individual cases, in compliance with national law, give permission for arms, ammunition and equipment to be used for purposes going beyond those specified in the first sentence. The use of arms, ammunition and equipment shall be governed by the host Member State's law. The competent authorities shall inform one another of the arms, ammunition and equipment permitted and of the conditions for their use.
+
+3\. If officers from a Member State make use of vehicles in action under this Decision within another Member State's territory, they shall be subject to the same road traffic regulations as the host Member State's officers, including as regards right of way and any special privileges.
+
+4\. Member States shall submit declarations as referred to in Article 36 in which they lay down the practical aspects of the use of arms, ammunition and equipment.
+
+#### Article 20
+
+Protection and assistance
+
+Member States shall be required to provide other Member States' officers crossing borders with the same protection and assistance in the course of those officers' duties as for their own officers.
+
+#### Article 21
+
+General rules on civil liability
+
+1\. Where officials of a Member State are operating in another Member State pursuant to Article 17, their Member State shall be liable for any damage caused by them during their operations, in accordance with the law of the Member State in whose territory they are operating.
+
+2\. The Member State in whose territory the damage referred to in paragraph 1 was caused shall make good such damage under the conditions applicable to damage caused by its own officials.
+
+3\. In the case provided for in paragraph 1, the Member State whose officials have caused damage to any person in the territory of another Member State shall reimburse the latter in full any sums it has paid to the victims or persons entitled on their behalf.
+
+4\. Where officials of a Member State are operating in another Member State pursuant to Article 18, the latter Member State shall be liable in accordance with its national law for any damage caused by them during their operations.
+
+5\. Where the damage referred to in paragraph 4 results from gross negligence or wilful misconduct, the host Member State may approach the seconding Member State in order to have any sums it has paid to the victims or persons entitled on their behalf reimbursed by the latter.
+
+6\. Without prejudice to the exercise of its rights vis-à-vis third parties and with the exception of paragraph 3, each Member State shall refrain, in the case provided for in paragraph 1, from requesting reimbursement of damages it has sustained from another Member State.
+
+#### Article 22
+
+Criminal liability
+
+Officers operating within another Member State's territory under this Decision, shall be treated in the same way as officers of the host Member State with regard to any criminal offences that might be committed by, or against them, save as otherwise provided in another agreement which is binding on the Member States concerned.
+
+#### Article 23
+
+Employment relationship
+
+Officers operating within another Member State's territory, under this Decision, shall remain subject to the employment law provisions applicable in their own Member State, particularly as regards disciplinary rules.
+
+## CHAPTER 6 — GENERAL PROVISIONS ON DATA PROTECTION
+
+#### Article 24
+
+Definitions and scope
+
+1\. For the purposes of this Decision:
+
+(a) ‘processing of personal data’ shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, sorting, retrieval, consultation, use, disclosure by supply, dissemination or otherwise making available, alignment, combination, blocking, erasure or destruction of data. Processing within the meaning of this Decision shall also include notification of whether or not a hit exists;
+
+(b) ‘automated search procedure’ shall mean direct access to the automated files of another body where the response to the search procedure is fully automated;
+
+(c) ‘referencing’ shall mean the marking of stored personal data without the aim of limiting their processing in future;
+
+(d) ‘blocking’ shall mean the marking of stored personal data with the aim of limiting their processing in future.
+
+2\. The following provisions shall apply to data which are or have been supplied pursuant to this Decision, save as otherwise provided in the preceding Chapters.
+
+#### Article 25
+
+Level of data protection
+
+1\. As regards the processing of personal data which are or have been supplied pursuant to this Decision, each Member State shall guarantee a level of protection of personal data in its national law at least equal to that resulting from the Council of Europe Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data of 28 January 1981 and its Additional Protocol of 8 November 2001 and in doing so, shall take account of Recommendation No R (87) 15 of 17 September 1987 of the Committee of Ministers of the Council of Europe to the Member States regulating the use of personal data in the police sector, also where data are not processed automatically.
+
+2\. The supply of personal data provided for under this Decision may not take place until the provisions of this Chapter have been implemented in the national law of the territories of the Member States involved in such supply. The Council shall unanimously decide whether this condition has been met.
+
+3\. Paragraph 2 shall not apply to those Member States where the supply of personal data as provided for in this Decision has already started pursuant to the Treaty of 27 May 2005 between the Kingdom of Belgium, the Federal Republic of Germany, the Kingdom of Spain, the French Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands and the Republic of Austria on the stepping up of cross-border cooperation, particularly in combating terrorism, cross-border crime and illegal migration (Prüm Treaty).
+
+#### Article 26
+
+Purpose
+
+1\. Processing of personal data by the receiving Member State shall be permitted solely for the purposes for which the data have been supplied in accordance with this Decision. Processing for other purposes shall be permitted solely with the prior authorisation of the Member State administering the file and subject only to the national law of the receiving Member State. Such authorisation may be granted provided that processing for such other purposes is permitted under the national law of the Member State administering the file.
+
+2\. Processing of data supplied pursuant to Articles 3, 4 and 9 by the searching or comparing Member State shall be permitted solely in order to:
+
+(a) establish whether the compared DNA profiles or dactyloscopic data match;
+
+(b) prepare and submit a police or judicial request for legal assistance in compliance with national law if those data match;
+
+(c) record within the meaning of Article 30.
+
+The Member State administering the file may process the data supplied to it in accordance with Articles 3, 4 and 9 solely where this is necessary for the purposes of comparison, providing automated replies to searches or recording pursuant to Article 30. The supplied data shall be deleted immediately following data comparison or automated replies to searches unless further processing is necessary for the purposes mentioned under points (b) and (c) of the first subparagraph.
+
+3\. Data supplied in accordance with Article 12 may be used by the Member State administering the file solely where this is necessary for the purpose of providing automated replies to search procedures or recording as specified in Article 30. The data supplied shall be deleted immediately following automated replies to searches unless further processing is necessary for recording pursuant to Article 30. The searching Member State may use data received in a reply solely for the procedure for which the search was made.
+
+#### Article 27
+
+Competent authorities
+
+Personal data supplied may be processed only by the authorities, bodies and courts with responsibility for a task in furtherance of the aims mentioned in Article 26. In particular, data may be supplied to other entities only with the prior authorisation of the supplying Member State and in compliance with the law of the receiving Member State.
+
+#### Article 28
+
+Accuracy, current relevance and storage time of data
+
+1\. The Member States shall ensure the accuracy and current relevance of personal data. Should it transpire ex officio or from a notification by the data subject, that incorrect data or data which should not have been supplied have been supplied, this shall be notified without delay to the receiving Member State or Member States. The Member State or Member States concerned shall be obliged to correct or delete the data. Moreover, personal data supplied shall be corrected if they are found to be incorrect. If the receiving body has reason to believe that the supplied data are incorrect or should be deleted the supplying body shall be informed forthwith.
+
+2\. Data, the accuracy of which the data subject contests and the accuracy or inaccuracy of which cannot be established shall, in accordance with the national law of the Member States, be marked with a flag at the request of the data subject. If a flag exists, this may be removed subject to the national law of the Member States and only with the permission of the data subject or based on a decision of the competent court or independent data protection authority.
+
+3\. Personal data supplied which should not have been supplied or received shall be deleted. Data which are lawfully supplied and received shall be deleted:
+
+(a) if they are not or no longer necessary for the purpose for which they were supplied; if personal data have been supplied without request, the receiving body shall immediately check if they are necessary for the purposes for which they were supplied;
+
+(b) following the expiry of the maximum period for keeping data laid down in the national law of the supplying Member State where the supplying body informed the receiving body of that maximum period at the time of supplying the data.
+
+Where there is reason to believe that deletion would prejudice the interests of the data subject, the data shall be blocked instead of being deleted in compliance with national law. Blocked data may be supplied or used solely for the purpose which prevented their deletion.
+
+#### Article 29
+
+Technical and organisational measures to ensure data protection and data security
+
+1\. The supplying and receiving bodies shall take steps to ensure that personal data is effectively protected against accidental or unauthorised destruction, accidental loss, unauthorised access, unauthorised or accidental alteration and unauthorised disclosure.
+
+2\. The features of the technical specification of the automated search procedure are regulated in the implementing measures as referred to in Article 33 which guarantee that:
+
+(a) state-of-the-art technical measures are taken to ensure data protection and data security, in particular data confidentiality and integrity;
+
+(b) encryption and authorisation procedures recognised by the competent authorities are used when having recourse to generally accessible networks; and
+
+(c) the admissibility of searches in accordance with Article 30(2), (4) and (5) can be checked.
+
+#### Article 30
+
+Logging and recording: special rules governing automated and non-automated supply
+
+1\. Each Member State shall guarantee that every non-automated supply and every non-automated receipt of personal data by the body administering the file and by the searching body is logged in order to verify the admissibility of the supply. Logging shall contain the following information:
+
+(a) the reason for the supply;
+
+(b) the data supplied;
+
+(c) the date of the supply; and
+
+(d) the name or reference code of the searching body and of the body administering the file.
+
+2\. The following shall apply to automated searches for data based on Articles 3, 9 and 12 and to automated comparison pursuant to Article 4:
+
+(a) only specially authorised officers of the national contact points may carry out automated searches or comparisons. The list of officers authorised to carry out automated searches or comparisons shall be made available upon request to the supervisory authorities referred to in paragraph 5 and to the other Member States;
+
+(b) each Member State shall ensure that each supply and receipt of personal data by the body administering the file and the searching body is recorded, including notification of whether or not a hit exists. Recording shall include the following information:
+
+(i) the data supplied;
+
+(ii) the date and exact time of the supply; and
+
+(iii) the name or reference code of the searching body and of the body administering the file.
+
+The searching body shall also record the reason for the search or supply as well as an identifier for the official who carried out the search and the official who ordered the search or supply.
+
+3\. The recording body shall immediately communicate the recorded data upon request to the competent data protection authorities of the relevant Member State at the latest within four weeks following receipt of the request. Recorded data may be used solely for the following purposes:
+
+(a) monitoring data protection;
+
+(b) ensuring data security.
+
+4\. The recorded data shall be protected with suitable measures against inappropriate use and other forms of improper use and shall be kept for two years. After the conservation period the recorded data shall be deleted immediately.
+
+5\. Responsibility for legal checks on the supply or receipt of personal data lies with the independent data protection authorities or, as appropriate, the judicial authorities of the respective Member States. Anyone can request these authorities to check the lawfulness of the processing of data in respect of their person in compliance with national law. Independently of such requests, these authorities and the bodies responsible for recording shall carry out random checks on the lawfulness of supply, based on the files involved.
+
+The results of such checks shall be kept for inspection for 18 months by the independent data protection authorities. After this period, they shall be immediately deleted. Each data protection authority may be requested by the independent data protection authority of another Member State to exercise its powers in accordance with national law. The independent data protection authorities of the Member States shall perform the inspection tasks necessary for mutual cooperation, in particular by exchanging relevant information.
+
+#### Article 31
+
+Data subjects' rights to information and damages
+
+1\. At the request of the data subject under national law, information shall be supplied in compliance with national law to the data subject upon production of proof of his identity, without unreasonable expense, in general comprehensible terms and without unacceptable delays, on the data processed in respect of his person, the origin of the data, the recipient or groups of recipients, the intended purpose of the processing and, where required by national law, the legal basis for the processing. Moreover, the data subject shall be entitled to have inaccurate data corrected and unlawfully processed data deleted. The Member States shall also ensure that, in the event of violation of his rights in relation to data protection, the data subject shall be able to lodge an effective complaint to an independent court or a tribunal within the meaning of Article 6(1) of the European Convention on Human Rights or an independent supervisory authority within the meaning of Article 28 of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( 2 ) and that he is given the possibility to claim for damages or to seek another form of legal compensation. The detailed rules for the procedure to assert these rights and the reasons for limiting the right of access shall be governed by the relevant national legal provisions of the Member State where the data subject asserts his rights.
+
+2\. Where a body of one Member State has supplied personal data under this Decision, the receiving body of the other Member State cannot use the inaccuracy of the data supplied as grounds to evade its liability vis-à-vis the injured party under national law. If damages are awarded against the receiving body because of its use of inaccurate transfer data, the body which supplied the data shall refund the amount paid in damages to the receiving body in full.
+
+#### Article 32
+
+Information requested by the Member States
+
+The receiving Member State shall inform the supplying Member State on request of the processing of supplied data and the result obtained.
+
+## CHAPTER 7 — IMPLEMENTING AND FINAL PROVISIONS
+
+#### Article 33
+
+Implementing measures
+
+The Council, acting by a qualified majority and after Consulting the European Parliament, shall adopt measures necessary to implement this Decision at the level of the Union.
+
+#### Article 34
+
+Costs
+
+Each Member State shall bear the operational costs incurred by its own authorities in connection with the application of this Decision. In special cases, the Member States concerned may agree on different arrangements.
+
+#### Article 35
+
+Relationship with other instruments
+
+1\. For the Member States concerned, the relevant provisions of this Decision shall be applied instead of the corresponding provisions contained in the Prüm Treaty. Any other provision of the Prüm Treaty shall remain applicable between the contracting parties of the Prüm Treaty.
+
+2\. Without prejudice to their commitments under other acts adopted pursuant to Title VI of the Treaty:
+
+(a) Member States may continue to apply bilateral or multilateral agreements or arrangements on cross-border cooperation which are in force on the date this Decision is adopted in so far as such agreements or arrangements are not incompatible with the objectives of this Decision;
+
+(b) Member States may conclude or bring into force bilateral or multilateral agreements or arrangements on cross-border cooperation after this Decision has entered into force in so far as such agreements or arrangements provide for the objectives of this Decision to be extended or enlarged.
+
+3\. The agreements and arrangements referred to in paragraphs 1 and 2 may not affect relations with Member States which are not parties thereto.
+
+4\. Within four weeks of this Decision taking effect Member States shall inform the Council and the Commission of existing agreements or arrangements within the meaning of paragraph 2(a) which they wish to continue to apply.
+
+5\. Member States shall also inform the Council and the Commission of all new agreements or arrangements within the meaning of paragraph 2(b) within three months of their signing or, in the case of instruments which were signed before adoption of this Decision, within three months of their entry into force.
+
+6\. Nothing in this Decision shall affect bilateral or multilateral agreements or arrangements between Member States and third States.
+
+7\. This Decision shall be without prejudice to existing agreements on legal assistance or mutual recognition of court decisions.
+
+#### Article 36
+
+Implementation and declarations
+
+1\. Member States shall take the necessary measures to comply with the provisions of this Decision within one year of this Decision taking effect, with the exception of the provisions of Chapter 2 with respect to which the necessary measures shall be taken within three years of this Decision and the Council Decision on the implementation of this Decision taking effect.
+
+2\. Member States shall inform the General Secretariat of the Council and the Commission that they have implemented the obligations imposed on them under this Decision and submit the declarations foreseen by this Decision. When doing so, each Member State may indicate that it will apply immediately this Decision in its relations with those Member States which have given the same notification.
+
+3\. Declarations submitted in accordance with paragraph 2 may be amended at any time by means of a declaration submitted to the General Secretariat of the Council. The General Secretariat of the Council shall forward any declarations received to the Member States and the Commission.
+
+4\. On the basis of this and other information made available by Member States on request, the Commission shall submit a report to the Council by 28 July 2012 on the implementation of this Decision accompanied by such proposals as it deems appropriate for any further development.
+
+#### Article 37
+
+Application
+
+This Decision shall take effect 20 days following its publication in the Official Journal of the European Union.
+
+( ) OJ L 164, 22.6.2002, p. 3.
+
+( ) OJ L 281, 23.11.1995, p. 31. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).

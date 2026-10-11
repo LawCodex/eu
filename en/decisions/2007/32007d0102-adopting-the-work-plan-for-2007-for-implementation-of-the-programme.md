@@ -1,0 +1,623 @@
+---
+title: "2007/102/EC: Commission Decision of 12 February 2007 adopting the work plan for 2007 for implementation of the programme of Community action in the field of public health (2003-2008), including the annual work programme for grants (Text with EEA relevance )"
+identifier: "32007D0102"
+eli: "http://data.europa.eu/eli/dec/2007/102(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2007-02-12
+entry_into_force: 2007-09-18
+last_amended: 2007-11-08
+consolidated_version: "02007D0102-20071108"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007D0102-20071108"
+retrieved: 2026-10-11
+---
+
+# 2007/102/EC: Commission Decision of 12 February 2007 adopting the work plan for 2007 for implementation of the programme of Community action in the field of public health (2003-2008), including the annual work programme for grants (Text with EEA relevance )
+
+**COMMISSION DECISION**
+
+**of 12 February 2007**
+
+**adopting the work plan for 2007 for implementation of the programme of Community action in the field of public health (2003-2008), including the annual work programme for grants**
+
+**(Text with EEA relevance)**
+
+**(2007/102/EC)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DECISION of 8 November 2007 </td><td> L 300</td><td>73</td><td>17.11.2007</td></tr>
+</table>
+
+**COMMISSION DECISION**
+
+**of 12 February 2007**
+
+**adopting the work plan for 2007 for implementation of the programme of Community action in the field of public health (2003-2008), including the annual work programme for grants**
+
+**(Text with EEA relevance)**
+
+**(2007/102/EC)**
+
+## Article 1
+
+The 2007 work plan for implementation of the programme of Community action in the field of public health (2003-2008), as set out in Annex I, is hereby adopted.
+
+The Director-General for Health and Consumer Protection shall ensure overall implementation of this programme.
+
+## Article 2
+
+The budget allocations necessary for the management of the programme of Community action in the field of public health (2003-2008) shall be transferred to the Executive Agency for the Public Health Programme.
+
+## ANNEX I
+
+**COMMUNITY ACTION IN THE FIELD OF PUBLIC HEALTH WORK PLAN FOR 2007**
+
+NB: The legal acts cited in this document are, when appropriate, the latest amended version.
+
+**1\. GENERAL CONTEXT**
+
+**1.1. Policy and legal context**
+
+Decision 1786/2002/EC of the European Parliament and of the Council established a programme of Community action in the field of public health (2003-2008) (hereinafter referred to as the Programme Decision). The programme is implemented through an annual work plan setting out the priorities and actions to be undertaken, including the allocation of resources.
+
+The first four years of programme implementation have laid the foundations for a comprehensive and coherent approach, concentrating on three priorities (strands): health information, health threats, and health determinants. Together, these strands contribute to a high level of physical and mental health and well-being throughout the EU. In particular, 267 projects have already been selected for financing ( 6 ) from the previous calls for proposals.
+
+In May 2006, the Commission adopted an amended proposal ( 7 ) for a new health programme which is expected to be approved in 2007. As a consequence, 2007 should be the last year of implementation of the ‘Programme Decision’.
+
+An analysis of the implementation of the work plans for 2003-2006 has led to activities being streamlined in 2007 to ensure coverage of areas which have not been dealt with previously and hence to attempt to complete as much as possible of the current programme.
+
+In 2007, the Executive Agency for the Public Health Programme will be fully operational and will be a key actor in the work plan’s implementation.
+
+**1.2. Resources**
+
+Amending Budget No 1/2007 amounts to EUR 38 800 000 for operating appropriations under budget item 17 03 01 01 and to EUR 1 200 000 for administrative appropriations under budget item 17 01 04 02.
+
+The budget line for administrative appropriations related to the Executive Agency for Public Health is 17 01 04 30.
+
+The budget approved for 2007 (commitments) amounts to EUR 40 000 000 .
+
+The budget for operating appropriations is EUR 38 800 000 . The budget for administrative appropriations is EUR 1 200 000 .
+
+To this budget should be added:
+
+— the contribution received from EEA/EFTA countries for an amount of EUR 884 640 ,
+
+— the contribution of one Applicant Country (Turkey): estimated at EUR 957 697 ,
+
+— the contribution of the following former candidate countries, Bulgaria, Czech Republic, Estonia, Hungary, Lithuania, Romania and Slovenia, for an amount of EUR 5 906 986,28 .
+
+The total budget for 2007 is therefore EUR 47 749 323,28 . This includes both resources for the operating budget and resources for technical and administrative assistance:
+
+— the total for the operating budget is estimated at EUR 46 416 963,28 ;
+
+— the total for the administrative budget is estimated at EUR 1 332 360 .
+
+It is proposed that EUR 5 324 000 of the operating budget be spent on calls for tenders and EUR 2 550 000 on direct grants for international organisations.
+
+The total indicative amount for the call for proposals is estimated at EUR 37 888 963 .
+
+As far as the allocation of grants for the call for proposal is concerned, a balance between the programme’s different strands will be pursued, while taking into account the quality and quantity of proposals received, unless particular public health emergencies (e.g. pandemic influenza) arise to justify any reallocation of resources. In case resources from the operating budget would remain available at the end of 2007, these will be reallocated to the funding of grants selected through the Call for proposals 2007.
+
+**2\. FINANCIAL INSTRUMENTS**
+
+**2.1. Call for proposals**
+
+New areas for action and key priorities have been identified in the 2007 work plan. These are based on the actions and supporting measures mentioned in the Programme Decision together with those areas which had not been covered by proposals submitted under previous calls.
+
+As a result, priorities for the 2007 call for proposals will refocus certain key actions that have already been initiated and also cover a number of new areas, as described in detail below.
+
+The grants should be financed under Budget line 17 03 01 01.
+
+The total indicative amount for the call for proposals is estimated at EUR 37 888 963 .
+
+A single call for proposals Public Health — 2007 will be published in the Official Journal in February 2007 (indicative date) and executed under the responsibility of the Executive Agency for the Public Health Programme ( 8 ).
+
+Projects for co-funding should be innovative in nature and should not exceed a maximum of three years in duration.
+
+Given the complementary and motivational nature of Community grants, at least 40 % of the project costs must be funded from other sources. Consequently, normal financial contribution can be up to 60 % per beneficiary of the eligible costs for the projects considered. In each individual case the maximum percentage to be awarded will be determined.
+
+A maximum co-financing per beneficiary (i.e. per main and per associated beneficiary) of 80 % of eligible costs could be envisaged where a project has a significant European added value. No more than 10 % of the number of funded projects should receive co-financing of over 60 %.
+
+It should be noted that the indicative amount for Community financial participation in the retained projects during the opening of the negotiations can vary from – 20 % to + 10 % as a result of the latter.
+
+The general principles and criteria for the selection and funding of actions under the Public Health Programme are set out in a separate document.
+
+Details concerning eligibility of travel and subsistence expenses are provided in an annex to this work plan.
+
+Priorities for 2007
+
+For the sake of clarity, the actions are grouped in sections corresponding to the strands referred to in section 1.1.: Health Information, Health Threats and Health Determinants. Each action refers to the corresponding Article/Annex point of the Programme Decision.
+
+All proposals, where relevant, should include information on how a gender perspective will be taken into account and must demonstrate that synergies can be developed with the relevant research activities funded under the scientific support to policies’ activities of the 6th Framework Programme of the European Community for Research ( 9 ) e and its follower ( 10 ).
+
+2.1.1. Health Information — Articles 2(2)(a) and 3(2)(a)
+
+Activities under this section aim to:
+
+— develop and operate a sustainable health monitoring system;
+
+— improve the system for the transfer and sharing of information and health data including public access;
+
+— develop and use mechanisms for analysis and reporting of information and consultation with Member States and stakeholders on health issues at Community level;
+
+— improve analysis and knowledge of the impact of health policy developments, other Community policies and activities on health;
+
+— support the exchange of information on health technologies assessment, including new information technologies and experiences on good practices.
+
+The project proposals should focus on:
+
+2.1.1.1. Developing and coordinating the health information and knowledge system (Annex — point 1.1)
+
+— Development and implementation of indicators and collection of data on socio-economic determinants of health, inequalities in health, gender health, health of specific population groups (including feasibility and costing). Breakdown of the Healthy Life Years Indicator by socioeconomic categories using the standard EU methodology ( 11 ). This topic shall be done in close collaboration with Eurostat activities, without duplication of efforts, in particular the activities of its Task Force on ‘Life Expectancy by Socio-economic groups’;
+
+— development of indicators and collection of data on public health, prevention and health promotion policies in the Member States, and indicators for EU policy and legislation with a health impact (including feasibility and costing);
+
+— promotion of health indicators systems and reporting in the Member States using the European Community health indicators list and the Healthy Life Years Indicator, focusing in particular on integrating their use in the Member States joining the EU after 1 May 2004 and candidate countries.
+
+2.1.1.2. Operating the health information and knowledge system (Annex — point 1.1)
+
+— Pilot studies on health examination surveys as part of the feasibility study ( 12 ). Creation or improvement of morbidity registers covering all Member States on major and chronic diseases (including feasibility and costing) for which a solid indicators base definition exists ( 13 ) and for those not yet covered by existing projects ( 14 );
+
+— identification and evaluation, from existing or recently developed health interview surveys instruments, of sets of ad hoc questions for the health part of the European System of Social Statistical Survey Modules;
+
+— further development and implementation of the language independent system for automated coding of causes of death (IRIS);
+
+— implementation of the Injury Data Base (IDB) ( 15 ) in all Member States, in particular data collection and processing of data on all injuries (including home and leisure accidents), in accordance with the new harmonised coding system.
+
+2.1.1.3. Developing mechanisms for reporting and analysis of health issues and producing public health reports (Annex — point 1.4)
+
+— Providing evidence and reports on the impact of Community policies on health, health and economic growth and sustainable development;
+
+— production of reports on selected population groups (i.e. women and children), on the impact and risk factors for disabilities (e.g. visual impairment), on the protection of the public against the risks of exposure to electromagnetic fields (EMF), on the selection of relevant EMF indicators and guidelines and on links between environmental factors and health outcomes;
+
+— support for in-depth analyses of causes of death statistics in order to gain new insights into mortality patterns and to monitor changes across the EU as well as analyses of avoidable causes of death (including work towards an agreeable definition of avoidable causes of death).
+
+2.1.1.4. Developing strategies for information exchange and responding to non-communicable health threats (Annex — point 1.2)
+
+— Support for disease knowledge projects relating to their occurrence, treatments, risk factors, risk reduction strategies, costs of illness and social support in terms of developing best practice recommendations;
+
+— development of strategies and mechanisms for exchange of information among people affected by rare diseases and promotion of better epidemiological studies, codification, classification and definition;
+
+— support for European networks of reference for rare diseases in an effort to establish guidelines for best practice on treatment, and to share knowledge on these diseases, together with evaluation of performance;
+
+— feasibility studies to develop mechanisms for comprehensive data collection on the volume and impact of cross border health care, integrated into existing data collections systems within Member States and without undue additional administrative burden.
+
+2.1.1.5. eHealth (Annex — points 1.6, 1.8)
+
+— improving linkages between national and regional websites and websites of non-governmental organisations and the EU health portal ( 16 ); improvement of EU listing and access to relevant sources of medical information;
+
+— promotion of projects that improve health information flows within and among health institutions (improving patient safety and public health reporting, contributing to effective networking and/or illustrating cost-quality scenarios);
+
+— development of reporting on patients' and health professionals' behavioural and perception changes resulting from introducing eHealth solutions, modelling of the safety and risk implications of information and communication technology-related changes.
+
+In cooperation with other EU policy areas:
+
+— Promotion and dissemination of pilot projects, undertaken under the Community and Innovation Programme and other relevant Community instruments ( 17 ), on patient summaries, patient, staff and object identifiers, ePrescription, emergency data sets and development of semantic interoperability;
+
+— analysis of legal, medical and ethical issues of confidentiality; ownership and access to data arising from the use of eHealth tools and electronic health monitoring, in particular in relation to exchange of electronic health records in cross border settings; surveillance and reporting systems; prevention and promotion, palliative care and home care.
+
+2.1.1.6. Information on the environment and health (Annex — point 1.1)
+
+— Development of an environment and health information system through increased linkage of data, pilot studies for joint surveillance of environment and health variables; local environment and health intervention studies that include socio-economic characterisation; studies on possible environmental causes of (respiratory and cardiovascular) disease, studies on the health effects of long-term and combined low-level exposure to environmental stressors; improvement of the quality of mortality and morbidity data related to respiratory and cardiovascular disease; exposure-response functions, co-morbidity and early warning based on pattern detection;
+
+— reporting on urban planning guidelines relevant for health, especially for health prevention and promotion;
+
+— providing further studies on electromagnetic field (EMF) as per the gaps identified by the EU Scientific Committees, relevant projects and the WHO (namely on the long-term effects of low-level exposure to EMF, including Radio Frequency IDentification — RFID) and feasibility study on alert indicators and EMF-related monitoring needs; promotion of studies on risk perception and communication best practices, support for the development of EMF dosimetry guidelines and installation guidelines for electric and mobile phone companies;
+
+2.1.1.7. Supporting the exchange of information and experience on good practice (Annex — point 1.7)
+
+— Promoting patient safety and quality of health services by helping to develop European cooperation and collaboration between competent authorities and relevant stakeholders. Actions in this area cover exchange of best practice on improving patient safety, including involving health professionals and coordination of related training and information; developing a better understanding of patient safety interventions and the economic implications of unsafe services and medical errors; helping national and regional bodies to implement injury prevention strategies;
+
+— networking of public health advisory bodies in the Member States;
+
+— supporting initiative and partnership to assess and improve health literacy.
+
+2.1.1.8. Health impact and health technology assessment (Annex — point 1.5)
+
+— Development of tools to monitor the cost effectiveness of health policies and their impact on the economy;
+
+— development of awareness, networking and liaison activities designed to raise strategic health investment supported by EU structural funds;
+
+— support for the EU Health Technology Assessment Network by way of work completed through existing project activities ( 18 ) and links with the work of the Pharmaceutical Forum.
+
+2.1.1.9. Actions to improve health information and knowledge for the development of public health (Article (3)(2)(c) and (d), Annex — points 1.7; 1.4; 1.5)
+
+— Creation of a network of lawyers working on legislation pertinent to health in EU Member States (EU health law). The network should provide information on how law can be used to promote health and give input for policy development and impact assessments. It could also serve as a platform for sharing and transferring knowledge on health law.
+
+2.1.2. Responding to health threats rapidly and in a coordinated manner — Articles 2(2)(b) and 3(2)(a)
+
+Activities under this section aim to strengthen preparedness and to ensure a rapid response to public health threats and emergencies. This will be of particular assistance to cooperation undertaken under the Community network on communicable diseases ( 19 ) and other EC legislation in public health and may complement European Research Framework Programme activities.
+
+Risk assessment activities fall under the remit of the European Centre for Disease Prevention and Control (ECDC) ( 20 ), e.g. surveillance, which became operational during 2005. Activities aimed to promote national management of risks and threats have been established in consultation with the ECDC in order to strengthen EU wide cooperation, thus ensuring that there is no duplication or overlapping.
+
+Activities countering the threat of deliberate release of biological agents will be undertaken in tandem with on-going activities on communicable diseases. These and activities on deliberate releases of chemical agents are being developed in the light of the conclusions of the Health Ministers of 15 November 2001 and the consequent ‘Programme of cooperation on preparedness and response to biological and chemical attacks’ (Health security) ( 21 ).
+
+2.1.2.1. Capacity to deal with a pandemic influenza and tackle particular health threats (Annex — points 2.1, 2.2, 2.3, 2.4, 2.8)
+
+This action aims to develop capacities and strategies to assist Member States, Candidate Countries, EEA/EFTA Countries, and the Community as a whole, in dealing with health threats. Priority is given to the threat of pandemic influenza and activities on influenza prevention/management, shared emergency communication strategies and preparedness and high quality tools and information on health and the socio-economic impact of pandemic and related counter-measures, in coordination with European Research Framework Programme activities ( 22 ).
+
+Other priorities are:
+
+— non-communicable disease threats such as those related to chemical and environmental issues requiring rapid intervention;
+
+— further development of an early warning system on chemical agents and traceability activities on cross-border transportation of dangerous substances relevant to public health;
+
+— communicable disease management aspects of migrant health and cross-border issues, including screening and contact tracing issues;
+
+— assisting in dealing with logistical priorities (e.g. procurement, stocking, distribution of medicine) and non medical intervention (e.g. measures to increase the social distance, entry and exit screening, disinfection measures, etc.) during emergency situations.
+
+2.1.2.2. Generic preparedness and response (Annex — points 2.1, 2.2, 2.3, 2.4)
+
+Actions should aim to improve health sector preparedness for crisis situations and foster intersectoral collaboration (e.g. with civil protection, food and animal sectors) to ensure a coherent response to a crisis. Activities should focus on supporting risk and crisis management and risk communication aspects.
+
+The following are of particular interest:
+
+— activities that support the implementation of generic preparedness planning, as linking different health institutions (e.g. hospitals and crisis centres at national/regional level) to prepare for mass gathering and develop the capacity to mitigate the impact of mass emergencies (e.g. casualties and migration waves/floods, vulnerable groups, displaced persons and refugees). Activities are also needed to support business continuity during emergency situations (e.g. providing services of public health utility during an event of major impact);
+
+— activities that increase the use of existing or new tools and instruments, including legal ones, to support the traceability of international passengers (e.g. tracing of air flight passengers in the event of potential contamination by pathogenic micro-organisms) and contact tracing;
+
+— activities that support capacity building for joint law enforcement and health authority operations;
+
+— activities in support of capacity building and implementation needed to comply with the International Health Regulations adopted by the World Health Assembly ( 23 ) (e.g. mechanisms to trigger and implement tracing of international travellers when needed);
+
+— the use of innovative information technology tools for health threat analysis, such as geographical information systems (GIS), spatial-temporal analysis, novel early warning and forecasting schemes, automated analysis and exchange of diagnostic data;
+
+— way to address issues relating to transportation (e.g. exercise for mailing samples) and application of new diagnostics (e.g. ring tests on new/emerging pathogens).
+
+2.1.2.3. Health security and strategies relevant to communicable diseases control (Annex — points 2.2, 2.4, 2.5, 2.9)
+
+There are still gaps in information and knowledge concerning the review, development and evaluation of policies and plans to cope with the hazards arising in the different health care settings, from the cabinet of generalist through the first line emergency rooms to the most sophisticated specialised hospital, including those habilitated to manage high risk patients.
+
+Improvement in patient safety and quality of health care can be supported in the Member States by networking at European level and adopting appropriate strategies and structures to respond to health security emergencies and control of communicable diseases. This action aims to promote activities relating to preparedness (such as pre-event vaccinations and stockpiling), control/elimination of communicable diseases and patient safety. Actions would be promoted that support inter-disciplinary communication (e.g. general practitioners, pharmacists, veterinarians, and relevant non-medical disciplines) and facilitate cooperation through platforms and networking.
+
+Other priorities are activities that support:
+
+— control and prevention programmes for childhood infectious diseases (including activities that foster the exchange of best practise on vaccination and immunisation strategies, e.g. vaccine preventable diseases under Decision 2119/98/EC ( 24 ). Activities on controlling adverse effects (from vaccines, chemicals, antiviral, other medicines and medical devices), in cooperation with the European Medicines Agency (EMEA);
+
+— networking and sharing information between Member States in order to improve patient safety and quality of care, in particular management and control of healthcare-associated infections and antimicrobial resistance, including other exposures related to hospital or health care environment (chemical exposure, drugs, disinfectant, indoor air quality, etc). Activities relating to issues such as exchange of best practices in the field of patient safety (reporting and learning systems, training and education), developing mechanisms and tools to improve information for patients, citizens and health professionals on patient safety, to develop a better understanding of patient safety interventions and the economic implications of unsafe services and medical errors, and to support underpin national policies and programmes.
+
+2.1.2.4. Safety of blood, tissues and cells, organs (Annex — points 2.6, 2.7)
+
+This action aims to promote the quality, safety and availability of substances of human origin (organs, tissues, cells, blood and blood components) used for therapeutic purposes associated with their collection, processing, distribution and use. These activities should help to implement existing EU legislation.
+
+Priority will be given to activities that:
+
+— develop tools providing practical guidance on risk assessment and validation methodology in procurement, processing, storage and distribution of substances of human origin;
+
+— conduct a detailed risk assessment of the different types of procedures with the aim of producing specific guidelines for each type of process and substance. They should take into account the type of processing and the route of application of the substances into the human body;
+
+— gear to promoting voluntary unpaid donations of substances of human origin. Actions should be directed towards sharing data on the routine practices of compensation offered to donors of substances of human origin at hospitals or procurement organisations.
+
+2.1.3. Health Determinants — Articles 2(1)(c) and 3(2)(b)
+
+Activities under this section are designed to:
+
+— underpin EU policies and activities regarding health determinants,
+
+— support actions to provide and exchange good practice,
+
+— promote cross-cutting and integrative approaches across several health determinants and maximise countries’ efforts.
+
+In 2007, priority will be given to projects linked to and in support of EU policies and strategies on health determinants, notably on mental health, nutrition and physical activity, tobacco, alcohol, drugs and environment and health. A specific focus will be on projects addressing good practice in conveying health-related life skills, in particular for children and young people, covering both risk and protective factors with an impact on lifestyles and behaviours. Projects should also show awareness of wider socio-economic considerations and contribute to reduce health inequalities.
+
+The priorities identified for 2007 are as follows:
+
+2.1.3.1. Supporting key Community strategies on addictive substances (Annex — point 3.1)
+
+Actions to support tobacco control activities
+
+The projects proposals should focus on:
+
+— development of innovative strategies and best practices concerning prevention and cessation methods focusing on young people and working population;
+
+— passive smoking: evaluation of the impact of smoke-free policies in Member States on exposure to second-hand smoke and tobacco consumption;
+
+— Tobacco Products control: work on the effectiveness, enforcement and development of EU and Member States measures on tobacco control, in particular on tobacco ingredients, emissions control and public information in relation to the implementation of Framework Convention on Tobacco Control (FCTC) at EU level.
+
+Alcohol related activities will be linked to the overall strategic approach to reduce alcohol-related harm, as set out in the Commission communication on an EU strategy to support Member States in reducing alcohol-related harm ( 25 ).
+
+The projects proposals should focus on:
+
+— development of a standardised methodology of cost-benefit analyses of alcohol policies to evaluate the economic impact of existing alcohol policies in the EU;
+
+— development of standardised comparative surveys on heavy drinking, binge-drinking (episodic heavy drinking), drunkenness, context of drinking, alcohol dependence and unrecorded consumption;
+
+— collection of best practices in work-place strategies to reduce the impact of harmful and hazardous alcohol consumption on the economy (e.g. reduce absenteeism, drinking during working hours, working with a hangover and unemployment);
+
+— networking, evaluation and collection of best practises on well-resourced community mobilisation and intervention projects, involving different sectors and partners to create safer drinking environments;
+
+— supporting development of best practice in advertising, self regulation and monitoring.
+
+Drug-related activities
+
+In line with the EU Drugs Strategy and Action Plan and the Council Recommendation on Drugs ( 26 ), the projects proposals should focus on:
+
+— development and improvement of prevention programmes, taking into account gender differences and targeting specific settings (e.g. work-places);
+
+— implementation and sustainability of harm reduction programmes among vulnerable groups to prevent transmission of infectious diseases (e.g. tuberculosis, hepatitis, HIV/AIDS) among prisoners, injection drug users (IDUs) and their sexual partners and from mother to child;
+
+— development of best practices to improve access to social, psychological and medical services for drug users, with the focus on young people;
+
+— development and improvement of training for professionals working on the front-line with drug users (e.g. emergency services).
+
+2.1.3.2. Integrative approaches on lifestyles (Articles 2(1)(c) and 3(2)(b); Annex — point 3.1)
+
+Regarding nutrition and physical activity in preparation and support of the forthcoming ‘White Paper on nutrition and physical activity’ and the ‘Report on Contributions to the Green Paper’ published on 11 September 2006, projects proposals should focus on:
+
+— good practices in education programmes on nutrition and physical activity, including schools;
+
+— pilot support for collaborative multi-stakeholder initiatives on healthy lifestyle in communities focusing on specific vulnerable groups, in particular children;
+
+— effectiveness of actions to change consumer behaviour with respect to food choice and physical activity;
+
+— evaluation (health impact assessments/cost-benefit analyses) of policies and measures;
+
+— evidence or tools to support policy-making in the area of marketing foods for children;
+
+— enhancement of physical activity by creating healthy environments and involving other sectors (e.g. urban planning, transport, architecture).
+
+HIV/AIDS and sexual and reproductive health activities, in line with the Commission communication on combating HIV/AIDS ( 27 ), the projects proposals should focus on issues around:
+
+— ongoing HIV transmission among men having sex with men (MSM) in Europe by building up networks, in close collaboration with the ECDC and other relevant European bodies, in support of a communication strategy for prevention using targeted, innovative mechanisms;
+
+— ways for the exchange and dissemination of both national and international experiences in raising awareness on HIV/AIDS and sexual health;
+
+— identifying good practice and guidance on voluntary counselling and testing of HIV, taking into account the diversity of specific vulnerable groups (such as youth, migrant populations, injecting drug users);
+
+— identifying and disseminating good practice related to harm reduction activities (prevention, treatment, care and support) focussing on vulnerable groups in particular on IDUs;
+
+— innovative strategies to promote safer sex among adolescents and high risk populations, including access to targeted services, and improved awareness of sexually transmitted infections and their prevention.
+
+Mental health activities based on the orientations set out in the EU mental health strategy ( 28 ); projects proposals should focus on:
+
+— developing a mechanism for identifying and reviewing good practice, which integrates knowledge from existing projects, and includes measures fostering the visible recognition of leadership practice in mental health promotion, mental disorder prevention, combating stigma, promoting inclusion of people with mental health problems and their human rights;
+
+— supporting leadership and networking for the broad integration of mental health promotion and mental disorder prevention at the workplace, enhancing positive mental health and work life balance;
+
+— mapping the evidence-base for the cost-effectiveness of investment into promoting mental health and prevent mental disorders.
+
+2.1.3.3. Public health actions to address wider determinants of health (Annex — points 3.2 and 3.3)
+
+Social determinants of health activities will concentrate on policy development, innovative approaches and evaluation and will focus on:
+
+— sharing good practice on awareness raising, including the development of platforms/networks or similar comprehensive multi-stakeholder mechanisms;
+
+— documentation and evaluation of good practice in tackling issues of access to health care and differences in the outcomes of health care by social group;
+
+— innovative approaches to addressing migrant health issues;
+
+— exchanging and developing recommendations for good practice in workplace health promotion, with a focus on older employees and on prolonging working careers. This would be pursued in close cooperation with health and safety at work policy.
+
+Environmental determinants activities, in line with the Environment and health action plan ( 29 ); will focus on public health actions developing networks for the collection of best practices, guidelines and remedial measures at national and local level, concerning indoor air quality including cost/benefits analyses. In particular, they will target:
+
+— preventive and remedial measures to reduce exposure to radon;
+
+— remedial measures aimed at improving ventilation, in particular in schools;
+
+— use and maintenance of combustion appliances;
+
+— dampness and moisture in buildings.
+
+2.1.3.4. Disease and injuries prevention (Articles 2(1)(c) and 3(2)(b))
+
+The project proposals on disease prevention should focus on developing guidelines and best practice recommendations for addressing the main public health diseases, such as cancer, diabetes and respiratory diseases, building on existing work.
+
+Projects on injury should prioritise :
+
+— develop and implement safety management schemes for high risks sports activities in collaboration with European sports associations;
+
+— develop action-oriented tools, in close cooperation with the European Agency for Safety and Health at Work ( 30 ); to address injury prevention among young employees;
+
+— support implementation actions towards the development of national action plans on child safety, with an emphasis on advocacy and intensive communication;
+
+— promote information and knowledge exchange through expert panels, consultation and by providing a sustainable ‘clearing house’ type of activity on good practices.
+
+2.1.3.5. Capacity building
+
+Priority will be given to:
+
+— promoting cooperation between educational institutions on the content of common European training courses and modules in key areas of public health and to the development of tailor-made training curricula for health care personnel and other professionals involved in mental health services;
+
+— short-term support for the development of the capacity of selected European networks with high public health importance and significant European wide out reaching to overcome specific geographical or developmental weaknesses. Specific attention will be paid to the capacity of non-governmental organisations active in the field of HIV/AIDS to support the integration on and adherence of People Living with HIV and AIDS (PLWHA) in anti-retroviral treatment programmes.
+
+**2.2. Calls for tenders**
+
+Services procurements should be financed under budget items 17 03 01 01 and 17 01 04 02. The overall indicative amount for the call for tenders would be up to EUR 5 324 000 .
+
+An additional financing decision for procurement contracts should be adopted by February 2007 (indicative date).
+
+The following areas of work have been identified:
+
+HEALTH INFORMATION
+
+(1) revising and updating the Implementation Report on Council Recommendation 1999/519/EC of 12 July 1999 on the limitation of exposure of the general public to electromagnetic fields (0 Hz to 300 GHz) ( 31 );
+
+(2) supporting ad hoc pilot surveys using the Eurobarometer survey;
+
+(3) reporting on the integration of health protection requirements into the different titles of Community policies, including the methodologies for health impact assessment already developed at Community level;
+
+(4) management, editing, updating and development of the EU health portal;
+
+(5) communication on the Public Health Programme;
+
+(6) support for setting up scientific secretariats;
+
+(7) patient safety: establishing an integrated umbrella network to improve cooperation in the field of patient safety, focusing on cultures, leadership and clinical governance, reporting and learning mechanisms, sharing of best practices and stakeholders’ involvement.
+
+HEALTH THREATS
+
+(1) establishing platforms for the preparation, running and evaluation of exercises, the organisation of training on decision-making tools and team building, the development of IT tools in the field of preparedness and the organisation of specialised workshops;
+
+(2) mapping and characterising of the current situation relating to reference laboratories, including feasibility studies, to improve reliable and in time identification of influenza virus strains and EU standards on particularly relevant pathogens, including provision of essential technical and diagnostic resources;
+
+(3) development of a Guide on good practice for establishments working in the quality in the field of substances of human origin.
+
+HEALTH DETERMINANTS
+
+(1) evaluation of the result of health textual warnings and pictorial warnings in use in the Member States and the development of further sets of textual and pictorial warnings;
+
+(2) support for services to set up and implement stakeholder networking and consultation processes in health determinants, notably on nutrition and physical activity, alcohol, mental health and HIV/AIDS;
+
+(3) mental health: Study — The evidence-base for the cost-effectiveness of investment into promoting mental health and preventing mental disorders;
+
+(4) mapping and evaluation of national and sub-national strategies on health determinants (notably HIV/AIDS and nutrition and physical activity);
+
+(5) environment band health: development of a web-based information tool on indoor air quality.
+
+In addition to the above-mentioned priorities, a cross cutting need has been identified for the coordination of the input of Non-Governmental Organisations into health initiatives at the EU level; both in established platforms, as well as in other initiatives, on topics such as nutrition and physical activity, alcohol, health services, mental health, pharmaceuticals and health, etc.
+
+**2.3. Cooperation with international organisations**
+
+2.3.1. Areas for cooperation in 2007
+
+In accordance with Article 11 of the Programme Decision, cooperation with international organisations competent in the sphere of public health and the European Economic Area (EEA) States will be pursued in the course of the programme in coordination within Commission services dealing with the same subjects.
+
+Cooperation with the World Health Organisation (WHO)
+
+Cooperation with the WHO will be implemented in accordance with:
+
+— the ‘Agreement between the United Nations and the European Community on the principles applying to the financing or co-financing by the Community of programmes and projects administered by the United Nations’ which entered into force on 9 August 1999, and the Verification Clause Agreement between the European Community and the United Nations which entered into force on 1 January 1995, as amended,
+
+— the Exchange of Letters between the WHO and the European Commission concerning the consolidation and intensification of cooperation (including the memorandum concerning the framework and arrangements for cooperation between the WHO and the European Commission forming part of the Exchange of Letters),
+
+— financial assistance by the European Commission for activities undertaken by the WHO shall, unless agreed otherwise in exceptional circumstances, be provided in accordance with the Financial and Administrative Framework Agreement between the European Community and the United Nations, which entered into force on 29 April 2003 (to which the WHO acceded on 11 December 2003).
+
+Following the discussion had with the WHO, the priority areas of climate change/environment, nutrition and physical activity surveillance, and mental health have been identified.
+
+— Climate change/environment & health information to implement the Climate Information Decision Support Tool for Heat in Europe as a EU Heat Health Warning Systems to predict heat events in Europe,
+
+— Nutrition and Physical Activity surveillance to link the databases, to update their content and to provide technical support to Member States for the standardisation and quality control of the information collected by the Commission and the WHO,
+
+— Mental health. To map the richness of experience and initiatives in mental health promotion, mental disorder prevention and social inclusion of people with mental health problems in countries at national, regional and local levels, identify and support credible leaders in the health sector and identify gaps in evidence where a need for further research exists.
+
+The actions undertaken will avoid any overlaps or duplication with other activities funded by the Community, in particular other actions funded under the public health programme.
+
+Cooperation with the International Agency for Research on Cancer (IARC) affiliated to the WHO
+
+A separate negotiation with IARC is envisaged for a project for the development of the European Prospective Study of Nutrition and Cancer (EPIC) and European Network of Cancer Registries (ENCR), for updating the European Code Against Cancer and for preparing an Atlas of Cancer Mortality in the European Union using most recent mortality data ( 32 ).
+
+2.3.2. Financing
+
+Funding for actions with the international organisations mentioned above can be allocated only through direct grant agreements. Direct grant agreements will improve the synergies and responsiveness of the European Commission to international organisations where actions are jointly covered. These organisations have certain capacities linked to their specific tasks and responsibilities, which make them particularly qualified to carry out some of the actions set out in this Work Programme and for which direct grant agreements are considered to be the most appropriate procedure.
+
+The amount of the financial contribution can be up to 60 % per organisation of the eligible costs for the projects considered. The Commission will determine in each individual case the maximum percentage to be awarded.
+
+Direct grant agreements should be financed under budget item 17 03 01 01; the indicative amount for direct grants is estimated to be EUR 2 550 000 . This amount could be increased depending on the unused appropriations available under the operating budget.
+
+**2.4. Scientific Committees**
+
+The Scientific Committees relevant to the Public Health Programme should be financed under budget item 17 03 01 01.
+
+An overall amount of EUR 254 000 will be earmarked for the payment of allowances to participants in meetings relating to the work of the scientific committees and of rapporteurs for completion of scientific committee opinions, in the framework of the Scientific Committees ( 33 ) These allowances will cover all fields relevant to the Public Health Programme, i.e. 100 % of costs for the SCHER (Scientific Committee on Health and Environmental Risks) and 50 % (as an indicative percentage) of costs for the SCENIHR (Scientific Committee on Emerging and Newly Identified Health Risks) and for Coordination.
+
+**2.5. Sub-delegation to Directorate-General Eurostat**
+
+A sub-delegation for a maximum amount of EUR 400 000 , under budget item 17 03 01 01, will be given to the Directorate-General Eurostat (Eurostat) for the purposes of supporting:
+
+(1) national statistical authorities in the implementation in 2007-2008 of the European Health Interview Survey core modules (as defined in the Statistical Programme for 2007);
+
+(2) national statistical authorities in the implementation and further expansion of the System of Health Accounts in the EU (in cooperation with the OECD and the WHO).
+
+## ANNEX II
+
+**Eligibility of travel and subsistence expenses**
+
+These guidelines apply to the reimbursement of travel and subsistence expenses:
+
+— of staff employed by the beneficiary (main and associated beneficiaries) of grants and experts invited by the beneficiary to participate in working groups;
+
+— when explicitly provided for in service contracts.
+
+(1) Flat-rate subsistence allowances cover all subsistence expenses during missions, including hotels, restaurants and local transport (taxis and/or public transport). They apply in respect of each day of a mission at a minimum distance of 100 km from the normal place of work. The subsistence allowance varies depending on the country in which the mission is carried out. The daily rates correspond to the sum of the daily allowance and the maximum hotel price set out in Commission Decision C(2004) 1313 ( 34 ) as amended.
+
+(2) Missions in countries other than EU 27, Acceding and Applicant countries and EFTA-EEA countries will be subject to the prior agreement of the Commission. This agreement will relate to the objectives of the mission, its costs and the reasons therefore.
+
+(3) Travel expenses are eligible under the following conditions:
+
+— travel by the most direct and most economic route;
+
+— distance of at least 100 km between the place of the meeting and the normal place of work;
+
+— travel by rail: first class;
+
+— travel by air: economy class, unless a cheaper fare can be used (e.g. Apex); air travel is allowed only for return journeys of more than 800 km;
+
+— travel by car: reimbursed on the basis of the equivalent first class rail fare.
+
+( 1 ) OJ L 248, 16.9.2002, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 1995/2006 (OJ L 390, 30.12.2006, p. 1).
+
+( 2 ) OJ L 357, 31.12.2002, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 1248/2006 (OJ L 227, 19.8.2006, p. 3).
+
+( 3 ) OJ L 201, 2.8.2005, p. 3.
+
+( 4 ) OJ L 271, 9.10.2002, p. 1. Decision as amended by Decision No 786/2004/EC (OJ L 138, 30.4.2004, p. 7).
+
+( 5 ) OJ L 369, 16.12.2004, p. 73.
+
+( 6 ) See http://europa.eu.int/comm/health/ph_projects/project_en.htm
+
+( 7 ) COM(2006) 234 final of 24.5.2006.
+
+( 8 ) Commission Decision 2004/858/EC (OJ L 369, 16.12.2004, p. 73).
+
+( 9 ) Council Decision 2002/834/EC (OJ L 294, 29.10.2002, p. 1). Sixth Framework Programme public health related projects under Scientific Support to Policies — CORDIS web page: http://www.cordis.lu/lifescihealth/ssp.htm
+
+( 10 ) It should be noted that under calls to be published early 2007 under the forthcoming Seventh Framework Programme of the European Community for Research, there will be topics with particular reference to public health in the section ‘Optimising the Delivery of Health Care to European Citizens’.
+
+( 11 ) See http://ec.europa.eu/health/ph_information/indicators/lifeyears_calcul_en.htm for details.
+
+( 12 ) http://ec.europa.eu/health/ph_projects/2005/action1/action1_2005_full_en.htm#20
+
+( 13 ) This is the case for diabetes, mental diseases, oral health, asthma and chronic obstructive respiratory diseases, musculoskeletal diseases (with particular focus on osteoporosis and arthritic and rheumatic disorders) and cardiovascular diseases.
+
+( 14 ) This includes Parkinson’s disease, Multiple Sclerosis, Epilepsy, Amyotrophic lateral sclerosis, Attention Deficit Hyperactivity Disorders, Cognitive retardation and disruption of motor, perceptual, language and socio-emotional functions, haematological diseases (including haemophilia), immunological disorders, allergies except asthma, genito-urinary diseases, gastroenterological diseases, endocrinological diseases, ear, nose and throat disorders, ophthalmology disorders and dermatology diseases as well as diseases related to environmental factors. It will also include strokes, headache disorders and chronic pain (e.g. Chronic Fatigue Syndrome and Fibromyalgia).
+
+( 15 ) https://webgate.cec.eu.int/idb/
+
+( 16 ) http://ec.europa.eu/health-eu/
+
+( 17 ) http://cordis.europa.eu/innovation/en/policy/cip.htm#adoption and the Communication from the Commission to the Council, the European Parliament, the European Economic and Social Committee and the Committee of the Regions e-Health — making healthcare better for European citizens: An action plan for a European e-Health Area (COM(2004) 356 final of 30.4.2004).
+
+( 18 ) http://ec.europa.eu/health/ph_projects/2005/action1/action1_2005_full_en.htm#13
+
+( 19 ) Decision No 2119/98/EC of the European Parliament and of the Council. (OJ L 268, 3.10.1998, p. 1).
+
+Commission Decision 2000/57/EC (OJ L 21, 26.1.2000, p. 32).
+
+Commission Decision 2000/96/EC (OJ L 28, 3.2.2000, p. 50).
+
+Commission Decision 2002/253/EC (OJ L 86, 3.4.2002, p. 44).
+
+( 20 ) Regulation (EC) No 851/2004 of the European Parliament and of the Council (OJ L 142, 30.4.2004 p. 1).
+
+( 21 ) See: http://europa.eu/health/ph_threats/Bioterrorisme/bioterrorism01_en.pdf
+
+( 22 ) Refer also to Sixth Framework Programme Scientific Support to Policies, Fifth call, SSP-5B INFLUENZA.
+
+( 23 ) See: http://www.who.int/gb/ebwha/pdf_files/WHA58/WHA58_3-en.pdf
+
+( 24 ) See footnote 11.
+
+( 25 ) COM(2006) 625 of 24.10.2006.
+
+( 26 ) Council Recommendation 2003/488/EC (OJ L 165, 3.7.2003, p. 31).
+
+( 27 ) Communication from the Commission to the Council and the European Parliament (COM(2005) 654 final of 15.12.2005).
+
+( 28 ) Green paper ‘Promoting the mental health of the population. Towards a strategy on mental health for the EU’ (COM(2005) 484 final of 14.10.2005).
+
+( 29 ) Communication from the Commission to the Council, the European Parliament, the European Economic and Social Committee — The European Environment & Health Action Plan 2004-2010 (COM(2004) 416 final of 9.6.2004).
+
+( 30 ) Council Regulation (EC) No 2062/94 (OJ L 216, 20.8.1994, p. 1).
+
+( 31 ) OJ L 199, 30.7.1999, p. 59.
+
+( 32 ) http://ec.europa.eu/health/ph_international/int_organisations/who_en.htm
+
+( 33 ) Commission Decision 2004/210/EC (OJ L 66, 4.3.2004, p. 45).
+
+( 34 ) Commission Decision of 7 April 2004 concerning general implementing provisions adopting the Guide to missions for officials and other servants of the European Commission.

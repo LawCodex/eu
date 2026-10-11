@@ -1,0 +1,78 @@
+---
+title: "2003/544/EC: Council Decision of 15 July 2003 authorising Germany to conclude an agreement with Switzerland that includes provisions derogating from Articles 2 and 3 of Directive 77/388/EEC on the harmonisation of the laws of the Member States relating to turnover taxes"
+identifier: "32003D0544"
+eli: "http://data.europa.eu/eli/dec/2003/544/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2003-07-15
+entry_into_force: 2003-10-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003D0544"
+retrieved: 2026-10-11
+---
+
+# 2003/544/EC: Council Decision of 15 July 2003 authorising Germany to conclude an agreement with Switzerland that includes provisions derogating from Articles 2 and 3 of Directive 77/388/EEC on the harmonisation of the laws of the Member States relating to turnover taxes
+
+Council Decision
+
+of 15 July 2003
+
+authorising Germany to conclude an agreement with Switzerland that includes provisions derogating from Articles 2 and 3 of Directive 77/388/EEC on the harmonisation of the laws of the Member States relating to turnover taxes
+
+(2003/544/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes - Common system of value added tax: uniform basis of assessment(1), and in particular Article 30 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) In a letter registered at the Commission's Secretariat-General on 13 December 2002, Germany requested authorisation to conclude an agreement with Switzerland on the building and maintenance of a frontier bridge across the Rhine between Rheinfelden (in Baden Württemberg, Germany) and Rheinfelden (in Aargau, Switzerland) which will provide access from either end to German motorway A 861 and Swiss Route Nationale N3.
+
+(2) The other Member States were informed of Germany's request in a letter dated 4 February 2003.
+
+(3) The agreement is to contain provisions on VAT derogating from Articles 2(2) and (3) of the Sixth VAT Directive 77/388/EEC in respect of goods and services supplied for the building and maintenance of the frontier bridge and of goods imported for the building or maintenance of the bridge.
+
+(4) If the derogations to the Sixth VAT Directive 77/388/EEC were not granted, building and maintenance works carried out in German territory would be subject to German VAT whereas those carried out in Swiss territory would not be subject to the provisions of the Sixth VAT Directive; also, any goods imported from Switzerland into Germany for use in building and maintaining the frontier bridge would be subject to German VAT.
+
+(5) Application of these normal rules would therefore mean serious tax complications for the entrepreneurs responsible for carrying out the works.
+
+(6) This derogation is intended to simplify the collection of taxes on the works involved in building and maintaining the bridge in question.
+
+(7) The derogation will have only a minor, but positive, incidence on Community own resources obtained from VAT,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+Germany is hereby authorised to conclude an Agreement with Switzerland that includes provisions derogating from the Sixth VAT Directive 77/388/EEC and covers the building and maintenance of a frontier bridge across the Rhine between Rheinfelden (in Baden Württemberg, Germany) and Rheinfelden (in Aargau, Switzerland). The bridge is to provide access from either end to German motorway A 861 and Swiss Route Nationale N3.
+
+The derogating tax provisions of the Agreement are set out in Articles 2 and 3.
+
+## Article 2
+
+By way of derogation from Article 3 of the Sixth VAT Directive 77/388/EEC, those parts of the construction site of the frontier bridge referred to in Article 1, and of the frontier bridge itself once work has been completed, that are situated in Swiss territory shall be deemed to be part of German territory for the purposes of goods and services supplied for the building and maintenance of the frontier bridge.
+
+## Article 3
+
+By way of derogation from Article 2(2) of the Sixth VAT Directive 77/388/EEC, goods imported from Switzerland into Germany shall not be subject to value added tax, provided they are used for the building or maintenance of the bridge referred to in Article 1. However, this derogation shall not apply to goods imported for the same purpose by a public administration.
+
+## Article 4
+
+This Decision is addressed to the Federal Republic of Germany.
+
+Done at Brussels, 15 July 2003.
+
+For the Council
+
+The President
+
+G. Tremonti
+
+(1) OJ L 145, 13.6.1977, p. 1. Directive as last amended by Directive 2002/93/EC (OJ L 331, 7.12.2002, p. 27 and corrigendum OJ L 18, 23.1.2003, p. 55).

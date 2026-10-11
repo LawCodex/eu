@@ -1,0 +1,83 @@
+---
+title: "2005/347/EC: Council Decision of 22 December 2004 on the conclusion of the Agreement between the European Community and the Principality of Monaco providing for measures equivalent to those laid down in Council Directive 2003/48/EC on taxation of savings income in the form of interest payments"
+identifier: "32005D0347"
+eli: "http://data.europa.eu/eli/dec/2005/347/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2004-12-22
+entry_into_force: 2005-08-17
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005D0347"
+retrieved: 2026-10-11
+---
+
+# 2005/347/EC: Council Decision of 22 December 2004 on the conclusion of the Agreement between the European Community and the Principality of Monaco providing for measures equivalent to those laid down in Council Directive 2003/48/EC on taxation of savings income in the form of interest payments
+
+**COUNCIL DECISION**
+
+**of 22 December 2004**
+
+**on the conclusion of the Agreement between the European Community and the Principality of Monaco providing for measures equivalent to those laid down in Council Directive 2003/48/EC on taxation of savings income in the form of interest payments**
+
+**(2005/347/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 94 in conjunction with the first subparagraph of paragraph 2, the first subparagraph of paragraph 3 and paragraph 4 of Article 300 thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the opinion of the European Parliament (1),
+
+Whereas:
+
+(1) On 16 October 2001, the Council authorised the Commission to negotiate with the Principality of Monaco an agreement for securing the adoption by that State of measures equivalent to those to be applied within the Community to ensure effective taxation of savings income in the form of interest payments.
+
+(2) The text of the Agreement which is the result of these negotiations duly reflects the negotiating directives issued by the Council. It is accompanied by a Memorandum of Understanding between the European Community and the Principality of Monaco. Both texts are attached to Decision 2005/35/EC (2).
+
+(3) The application of the provisions of Directive 2003/48/EC (3) depends on the application, by the Principality of Monaco, of measures equivalent to those contained in that Directive, in accordance with an agreement concluded by that State with the European Community.
+
+(4) According to Decision 2005/35/EC and subject to the adoption at a later date of a Decision on the conclusion of the Agreement, the Agreement was signed on behalf of the European Community on 7 December 2004.
+
+(5) The Agreement as well as the accompanying Memorandum of Understanding should be approved on behalf of the Community.
+
+(6) It is necessary to provide for a simple and rapid procedure for possible adaptations of Annexes 1 and 2 to the Agreement,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement between the European Community and the Principality of Monaco providing for measures equivalent to those laid down in Council Directive 2003/48/EC on taxation of savings income in the form of interest payments as well as the accompanying Memorandum of Understanding are hereby approved on behalf of the European Community.
+
+The text of the Agreement as well as of the accompanying Memorandum of Understanding are attached to this Decision (4).
+
+## Article 2
+
+The Commission is hereby authorised to approve, on behalf of the Community, the amendments to the Annexes to the Agreement which are required to ensure that they correspond to the information relating to the competent authorities notified under Article 5(a) of Directive 2003/48/EC and to the information in the Annex thereto.
+
+## Article 3
+
+The President of the Council shall give the notification provided for in Article 16(1) of the Agreement on behalf of the Community (5).
+
+## Article 4
+
+This Decision shall be published in the Official Journal of the European Union.
+
+Done at Brussels, 22 December 2004.
+
+For the Council
+
+The President
+
+C. VEERMAN
+
+(1) Opinion of 2 December 2004 (not yet published in the Official Journal).
+
+(2) OJ L 19, 21.1.2005, p. 53.
+
+(3) OJ L 157, 26.6.2003, p. 38. Directive as last amended by Directive 2004/66/EC (OJ L 168, 1.5.2004, p. 35).
+
+(4) OJ L 19, 21.1.2005, p. 55.
+
+(5) The date of entry into force of the Agreement will be published in the Official Journal of the European Union by the General Secretariat of the Council

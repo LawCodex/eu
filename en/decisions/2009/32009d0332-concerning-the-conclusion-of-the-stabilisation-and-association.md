@@ -1,0 +1,12347 @@
+---
+title: "2009/332/EC,Euratom: Council and Commission Decision of 26 February 2009 concerning the conclusion of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part"
+identifier: "32009D0332"
+eli: "http://data.europa.eu/eli/dec/2009/332/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2009-02-26
+entry_into_force: 2009-10-22
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0332"
+retrieved: 2026-10-11
+---
+
+# 2009/332/EC,Euratom: Council and Commission Decision of 26 February 2009 concerning the conclusion of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part
+
+**COUNCIL AND COMMISSION DECISION**
+
+**of 26 February 2009**
+
+**concerning the conclusion of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part**
+
+**(2009/332/EC, Euratom)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 310 in conjunction with Article 300(2), first subparagraph, last sentence and Article 300(3), second subparagraph thereof,
+
+Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second paragraph of Article 101 thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the assent of the European Parliament,
+
+Having regard to the approval of the Council granted pursuant to Article 101 of the Treaty establishing the European Atomic Energy Community,
+
+Whereas:
+
+(1) The Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part, has been signed on behalf of the European Community in Luxembourg on 12 June 2006, subject to its conclusion.
+
+(2) The commercial provisions contained in the Agreement are of an exceptional nature, connected with the policy implemented within the framework of the Stabilisation and Association process and will not constitute, for the European Union, any precedent in the commercial policy of the Community with regard to third countries other than those of the western Balkans.
+
+(3) The Agreement should be approved,
+
+HAVE DECIDED AS FOLLOWS:
+
+#### Article 1
+
+1\. The Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part (hereinafter referred to as ‘the Agreement’), the Annexes and Protocols annexed thereto, as well as the Declarations attached to the Final Act are hereby approved on behalf of the European Community and the European Atomic Energy Community.
+
+2\. The texts referred to in paragraph 1 are attached to this Decision.
+
+#### Article 2
+
+1\. The position to be taken by the Community within the Stabilisation and Association Council and within the Stabilisation and Association Committee when the latter is empowered to act by the Stabilisation and Association Council shall be determined by the Council, on a proposal by the Commission, or, where appropriate, by the Commission, each in accordance with the corresponding provisions of the Treaties.
+
+2\. The President of the Council shall, in accordance with Article 117(4) of the Agreement, chair the Stabilisation and Association Council. A representative of the Commission shall chair the Stabilisation and Association Committee, in accordance with the Rules of Procedure thereof.
+
+3\. The decision to publish the decisions of the Stabilisation and Association Council and the Stabilisation and Association Committee in the Official Journal of the European Union shall be taken on a case-by-case basis by the Council and the Commission respectively.
+
+#### Article 3
+
+The President of the Council is hereby authorised to designate the person(s) empowered, on behalf of the European Community, to deposit the instrument of approval provided for in Article 135 of the Agreement. The President of the Commission shall deposit the said instrument of approval on behalf of the European Atomic Energy Community.
+
+Done at Brussels, 26 February 2009.
+
+For the Council
+
+The President
+
+I. LANGER
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+**STABILISATION AND ASSOCIATION AGREEMENT**
+
+**between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part**
+
+THE KINGDOM OF BELGIUM,
+
+THE CZECH REPUBLIC,
+
+THE KINGDOM OF DENMARK,
+
+THE FEDERAL REPUBLIC OF GERMANY,
+
+THE REPUBLIC OF ESTONIA
+
+THE HELLENIC REPUBLIC,
+
+THE KINGDOM OF SPAIN,
+
+THE FRENCH REPUBLIC,
+
+IRELAND,
+
+THE ITALIAN REPUBLIC,
+
+THE REPUBLIC OF CYPRUS,
+
+THE REPUBLIC OF LATVIA,
+
+THE REPUBLIC OF LITHUANIA,
+
+THE GRAND DUCHY OF LUXEMBOURG,
+
+THE REPUBLIC OF HUNGARY,
+
+THE REPUBLIC OF MALTA,
+
+THE KINGDOM OF THE NETHERLANDS,
+
+THE REPUBLIC OF AUSTRIA,
+
+THE REPUBLIC OF POLAND,
+
+THE PORTUGUESE REPUBLIC,
+
+THE REPUBLIC OF SLOVENIA,
+
+THE SLOVAK REPUBLIC,
+
+THE REPUBLIC OF FINLAND,
+
+THE KINGDOM OF SWEDEN,
+
+THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+
+Contracting Parties to the Treaty establishing the European Community, the Treaty establishing the European Atomic Energy Community and the Treaty on European Union,
+
+hereinafter referred to as the ‘Member States’, and
+
+THE EUROPEAN COMMUNITY, THE EUROPEAN ATOMIC ENERGY COMMUNITY,
+
+hereinafter referred to as the ‘Community’,
+
+of the one part, and
+
+THE REPUBLIC OF ALBANIA, hereinafter referred to as ‘Albania’,
+
+of the other part,
+
+CONSIDERING the strong links between the Parties and the values that they share and their desire to strengthen those links and establish a close and lasting relationship based on reciprocity and mutual interest, which should allow Albania to further strengthen and extend the relations with the Community and its Member States, as previously established with the Community through the Agreement on Trade and Commercial and Economic Cooperation of 1992;
+
+CONSIDERING the importance of this Agreement in the framework of the Stabilisation and Association process with the countries of south-eastern Europe, in the establishment and consolidation of a stable European order based on cooperation, of which the European Union is a mainstay, as well as in the framework of the Stability Pact;
+
+CONSIDERING the commitment of the Parties to contribute by all means to the political, economic and institutional stabilisation in Albania as well as in the region, through the development of civil society and democratisation, institution building and public administration reform, regional trade integration and enhanced economic cooperation, as well as through cooperation in a wide range of areas, particularly in justice and home affairs, and the strengthening of national and regional security;
+
+CONSIDERING the commitment of the Parties to increasing political and economic freedoms as the very basis of this Agreement, as well as their commitment to respect human rights and the rule of law, including the rights of persons belonging to national minorities, and democratic principles through a multi-party system with free and fair elections;
+
+CONSIDERING the commitment of the Parties to the full implementation of all principles and provisions of the UN Charter, of the OSCE, notably those of the Helsinki Final Act, the concluding documents of the Madrid and Vienna Conferences, the Charter of Paris for a New Europe, and of the Stability Pact for south-eastern Europe, so as to contribute to regional stability and cooperation among the countries of the region;
+
+CONSIDERING the commitment of the Parties to the principles of free market economy and the readiness of the Community to contribute to the economic reforms in Albania;
+
+CONSIDERING the commitment of the Parties to free trade, in compliance with the rights and obligations arising out of the WTO;
+
+CONSIDERING the wish of the Parties to further develop regular political dialogue on bilateral and international issues of mutual interest, including regional aspects, taking into account the Common Foreign and Security Policy of the European Union;
+
+CONSIDERING the commitment of the Parties to combat organised crime and to strengthen cooperation in the fight against terrorism on the basis of the Declaration issued by the European Conference on 20 October 2001;
+
+CONVINCED that this Agreement will create a new climate for economic relations between them and, above all, for the development of trade and investment, factors crucial to economic restructuring and modernisation;
+
+BEARING IN MIND the commitment by Albania to approximate its legislation in the relevant sectors to that of the Community, and to effectively implement it;
+
+TAKING ACCOUNT of the Community’s willingness to provide decisive support for the implementation of reform and to use all available instruments of cooperation and technical, financial and economic assistance on a comprehensive indicative multiannual basis to this endeavour;
+
+CONFIRMING that the provisions of this Agreement that fall within the scope of the Third Part, Title IV of the Treaty establishing the European Community bind the United Kingdom and Ireland as separate Contracting Parties, and not as a part of the European Community, until the United Kingdom or Ireland (as the case may be) notifies Albania that it has become bound as part of the European Community in accordance with the Protocol on the position of the United Kingdom and Ireland annexed to the Treaty on European Union and the Treaty establishing the European Community. The same applies to Denmark, in accordance with the Protocol on the position of Denmark annexed to those Treaties;
+
+RECALLING the Zagreb Summit which called for further consolidation of relations between the countries of the Stabilisation and Association process and the European Union, as well as enhanced regional cooperation;
+
+RECALLING that the Thessaloniki Summit reinforced the Stabilisation and Association process as the policy framework for the European Union’s relations with the western Balkan countries and underlined the prospect of their integration with the European Union on the basis of their individual reform progress and merit;
+
+RECALLING the Memorandum of Understanding on Trade Facilitation and Liberalisation, signed in Brussels on 27 June 2001, by which Albania, together with other countries of the region, committed itself to negotiate a network of bilateral free trade agreements so as to enhance the region’s ability to attract investments and the prospects of its integration into the global economy;
+
+RECALLING the European Union’s readiness to integrate to the fullest possible extent Albania into the political and economic mainstream of Europe and its status as a potential candidate for European Union membership on the basis of the Treaty on European Union and fulfilment of the criteria defined by the European Council in June 1993, subject to the successful implementation of this Agreement, notably regarding regional cooperation,
+
+HAVE AGREED AS FOLLOWS:
+
+#### Article 1
+
+1\. An Association is hereby established between the Community and its Member States, of the one part; and Albania, of the other part.
+
+2\. The aims of this Association are:
+
+— to support the efforts of Albania to strengthen democracy and the rule of law,
+
+— to contribute to political, economic and institutional stability in Albania, as well as to the stabilisation of the region,
+
+— to provide an appropriate framework for political dialogue, allowing the development of close political relations between the Parties,
+
+— to support the efforts of Albania to develop its economic and international cooperation, also through the approximation of its legislation to that of the Community,
+
+— to support the efforts of Albania to complete the transition into a functioning market economy, to promote harmonious economic relations and develop gradually a free trade area between the Community and Albania,
+
+— to foster regional cooperation in all the fields covered by this Agreement.
+
+## TITLE I — GENERAL PRINCIPLES
+
+#### Article 2
+
+Respect for the democratic principles and human rights as proclaimed in the Universal Declaration of Human Rights and as defined in the European Convention on Human Rights, in the Helsinki Final Act and the Charter of Paris for a New Europe, respect for international law principles and the rule of law as well as the principles of market economy as reflected in the Document of the CSCE Bonn Conference on Economic Cooperation, shall form the basis of the domestic and external policies of the Parties and constitute essential elements of this Agreement.
+
+#### Article 3
+
+International and regional peace and stability and the development of good neighbourly relations are central to the Stabilisation and Association process referred to in the conclusions of the Council of the European Union of 21 June 1999. The conclusion and the implementation of this Agreement come within the framework of the conclusions of the Council of the European Union of 29 April 1997, and are based on the individual merits of Albania.
+
+#### Article 4
+
+Albania commits itself to continue and foster cooperation and good neighbourly relations with the other countries of the region including an appropriate level of mutual concessions concerning the movement of persons, goods, capital and services as well as the development of projects of common interest, notably those related to combating organised crime, corruption, money laundering, illegal migration and trafficking, including in particular in human beings and illicit drugs. This commitment constitutes a key factor in the development of the relations and cooperation between the Parties and thus contributes to regional stability.
+
+#### Article 5
+
+The Parties reaffirm the importance that they attach to the fight against terrorism and the implementation of international obligations in this area.
+
+#### Article 6
+
+The Association shall be implemented progressively and shall be fully realised over a transitional period of a maximum of 10 years, divided into two successive stages.
+
+The two stages shall not apply to Title IV, for which a specific schedule is laid down under that Title.
+
+The purpose of this division into successive stages is to make a thorough mid-term review of the implementation of this Agreement. In the field of legal approximation and law enforcement, the aim shall be for Albania to concentrate in the first stage on the fundamental elements, with specific benchmarks, of the acquis as described under Title VI.
+
+The Stabilisation and Association Council established under Article 116 shall regularly review the application of this Agreement and the accomplishment by Albania of legal, administrative, institutional and economic reforms in the light of the preamble and in accordance with the general principles laid down in this Agreement.
+
+The first stage shall start upon the date of entry into force of this Agreement. During the fifth year after the date of entry into force of this Agreement, the Stabilisation and Association Council shall evaluate the progress made by Albania, and shall decide whether this progress has been sufficient for the passage into the second stage in order to achieve full Association. It shall also decide on any specific provisions deemed necessary to govern the second stage.
+
+#### Article 7
+
+This Agreement shall be fully compatible with and implemented in a manner consistent with the relevant WTO provisions, in particular Article XXIV of the GATT 1994 and Article V of the GATS.
+
+## TITLE II — POLITICAL DIALOGUE
+
+#### Article 8
+
+1\. Political dialogue between the Parties shall be further developed within the context of this Agreement. It shall accompany and consolidate the rapprochement between the European Union and Albania and contribute to the establishment of close links of solidarity and new forms of cooperation between the Parties.
+
+2\. The political dialogue is intended to promote in particular:
+
+— Albania’s full integration into the community of democratic nations and gradual rapprochement with the European Union,
+
+— an increasing convergence of positions of the Parties on international issues, also through the exchange of information as appropriate, and, in particular, on those issues likely to have substantial effects on the Parties,
+
+— regional cooperation and the development of good neighbourly relations,
+
+— common views on security and stability in Europe, including cooperation in the areas covered by the Common Foreign and Security Policy of the European Union.
+
+3\. The Parties consider that the proliferation of weapons of mass destruction and their means of delivery, both to State and non-State actors, represents one of the most serious threats to international stability and security. The Parties therefore agree to cooperate and to contribute to countering the proliferation of weapons of mass destruction and their means of delivery through full compliance with and national implementation of their existing obligations under international disarmament and non-proliferation treaties and agreements and other relevant international obligations. The Parties agree that this provision constitutes an essential element of this Agreement and shall be part of the political dialogue that shall accompany and consolidate these elements.
+
+The Parties furthermore agree to cooperate and to contribute to countering the proliferation of weapons of mass destruction and their means of delivery by:
+
+— taking steps to sign, ratify, or accede to, as appropriate, and fully implement all other relevant international instruments,
+
+— the establishment of an effective system of national export controls, controlling the export as well as the transit of WMD-related goods, including a WMD end-use control on dual-use technologies and containing effective sanctions for breaches of export controls.
+
+Political dialogue on this matter may take place on a regional basis.
+
+#### Article 9
+
+1\. Political dialogue shall take place within the Stabilisation and Association Council, which shall have the general responsibility for any matter which the Parties might wish to put to it.
+
+2\. At the request of the Parties, political dialogue may also take place in the following formats:
+
+— meetings, where necessary, of senior officials representing Albania, on the one hand, and the Presidency of the Council of the European Union and the Commission, on the other,
+
+— taking full advantage of all diplomatic channels between the Parties, including appropriate contacts in third countries and within the United Nations, the OSCE, the Council of Europe and other international forums,
+
+— any other means which would make a useful contribution to consolidating, developing and stepping up this dialogue.
+
+#### Article 10
+
+Political dialogue at parliamentary level shall take place within the framework of the Stabilisation and Association Parliamentary Committee established under Article 122.
+
+#### Article 11
+
+Political dialogue may take place within a multilateral framework, and as a regional dialogue including other countries of the region.
+
+## TITLE III — REGIONAL COOPERATION
+
+#### Article 12
+
+In conformity with its commitment to international and regional peace and stability, and to the development of good neighbourly relations, Albania shall actively promote regional cooperation. The Community assistance programmes may support projects having a regional or cross-border dimension through its technical assistance programmes.
+
+Whenever Albania foresees to reinforce its cooperation with one of the countries mentioned in Articles 13, 14 and 15, it shall inform and consult the Community and its Member States according to the provisions laid down in Title X.
+
+Albania shall review existing bilateral agreements with all relevant countries, or will conclude new ones, in order to ensure that they are compatible with the principles set out in the Memorandum of Understanding on Trade Facilitation and Liberalisation signed in Brussels on 27 June 2001.
+
+#### Article 13 — Cooperation with other countries having signed a Stabilisation and Association Agreement
+
+After the signature of this Agreement, Albania shall start negotiations with the countries which have already signed a Stabilisation and Association Agreement with a view to concluding bilateral Conventions on regional cooperation, the aim of which shall be to enhance the scope of cooperation between the countries concerned.
+
+The main elements of these conventions shall be:
+
+— political dialogue,
+
+— the establishment of a free trade area between the Parties, consistent with the relevant WTO provisions,
+
+— mutual concessions concerning the movement of workers, establishment, supply of services, current payments and movement of capital as well as other policies related to movement of persons at an equivalent level to that of this Agreement,
+
+— provisions on cooperation in other fields whether or not covered by this Agreement, and notably the field of justice and home affairs.
+
+These Conventions shall contain provisions for the creation of the necessary institutional mechanisms, as appropriate.
+
+These Conventions shall be concluded within two years after the date of entry into force of this Agreement. Readiness by Albania to conclude such Conventions will be a condition for the further development of the relations between Albania and the European Union.
+
+Albania shall initiate similar negotiations with the remaining countries of the region once these countries have signed a Stabilisation and Association Agreement.
+
+#### Article 14 — Cooperation with other countries concerned by the Stabilisation and Association process
+
+Albania shall pursue regional cooperation with the other countries concerned by the Stabilisation and Association process in some or all the fields of cooperation covered by this Agreement, and notably those of common interest. Such cooperation shall be compatible with the principles and objectives of this Agreement.
+
+#### Article 15 — Cooperation with countries candidate for accession to the European Union
+
+1\. Albania may foster its cooperation and conclude a Convention on regional cooperation with any country candidate for accession to the European Union in any of the fields of cooperation covered by this Agreement. Such Convention should aim gradually to align bilateral relations between Albania and that country to the relevant part of the relations between the Community and its Member States and that country.
+
+2\. Albania shall start negotiations with Turkey with a view to concluding, on a mutually advantageous basis, an Agreement establishing a free trade area between the two Parties in accordance with Article XXIV of the GATT as well as liberalising the establishment and supply of services between them at a level equivalent to this Agreement in accordance with Article V of the GATS.
+
+These negotiations shall be opened as soon as possible, with a view to concluding such an Agreement before the end of the transitional period referred to in Article 16(1).
+
+## TITLE IV — FREE MOVEMENT OF GOODS
+
+#### Article 16
+
+1\. The Community and Albania shall gradually establish a free trade area over a period lasting a maximum of 10 years starting from the date of entry into force of this Agreement in accordance with the provisions of this Agreement and in conformity with those of the GATT 1994 and the WTO. In so doing they shall take into account the specific requirements laid down hereinafter.
+
+2\. The Combined Nomenclature of goods shall be applied to the classification of goods in trade between the two Parties.
+
+3\. For each product the basic duty to which the successive reductions set out in this Agreement are to be applied shall be the duty actually applied erga omnes on the day preceding the signature of this Agreement.
+
+4\. The reduced duties to be applied by Albania calculated as set out in this Agreement shall be rounded to whole numbers using common arithmetical principles. Therefore, all figures which have less than 50 (included) after the decimal point shall be rounded down to the nearest whole number and all figures which have more than 50 after the decimal point shall be rounded up to the nearest whole number.
+
+5\. If, after the signature of this Agreement, any tariff reduction is applied on an erga omnes basis, in particular reductions resulting from the tariff negotiations in the WTO, such reduced duties shall replace the basic duty referred to in paragraph 3 as from the date when such reductions are applied.
+
+6\. The Community and Albania shall communicate to each other their respective basic duties.
+
+### CHAPTER I — Industrial products
+
+#### Article 17
+
+1\. The provisions of this Chapter shall apply to products originating in the Community or in Albania listed in Chapters 25 to 97 of the Combined Nomenclature, with the exception of the products listed in Annex I. § I, (ii) of the Agreement on agriculture (GATT 1994).
+
+2\. Trade between the Parties in products covered by the Treaty establishing the European Atomic Energy Community shall be conducted in accordance with the provisions of that Treaty.
+
+#### Article 18
+
+1\. Customs duties on imports into the Community of products originating in Albania shall be abolished upon the date of entry into force of this Agreement.
+
+2\. Quantitative restrictions on imports into the Community and measures having equivalent effect shall be abolished on the date of entry into force of this Agreement with regard to products originating in Albania.
+
+#### Article 19
+
+1\. Customs duties on imports into Albania of goods originating in the Community other than those listed in Annex I shall be abolished upon the date of entry into force of this Agreement.
+
+2\. Customs duties on imports into Albania of goods originating in the Community which are listed in Annex I shall be progressively reduced in accordance with the following timetable:
+
+— on the date of entry into force of this Agreement, the import duty shall be reduced to 80 % of the basic duty,
+
+— on 1 January of the first year following the date of entry into force of this Agreement, the import duty shall be reduced to 60 % of the basic duty,
+
+— on 1 January of the second year following the date of entry into force of this Agreement, the import duty shall be reduced to 40 % of the basic duty,
+
+— on 1 January of the third year following the date of entry into force of this Agreement, the import duty shall be reduced to 20 % of the basic duty,
+
+— on 1 January of the fourth year following the date of entry into force of this Agreement, the import duty shall be reduced to 10 % of the basic duty,
+
+— on 1 January of the fifth year following the date of entry into force of this Agreement, the remaining import duties shall be abolished.
+
+3\. Quantitative restrictions on imports into Albania of goods originating in the Community and measures having equivalent effect shall be abolished upon the date of entry into force of this Agreement.
+
+#### Article 20
+
+The Community and Albania shall abolish upon the date of entry into force of this Agreement in trade between themselves any charges having an effect equivalent to customs duties on imports.
+
+#### Article 21
+
+1\. The Community and Albania shall abolish any customs duties on exports and charges having equivalent effect upon the date of entry into force of this Agreement.
+
+2\. The Community and Albania shall abolish between themselves any quantitative restrictions on exports and measures having equivalent effect upon the date of entry into force of this Agreement.
+
+#### Article 22
+
+Albania declares its readiness to reduce its customs duties in trade with the Community more rapidly than is provided for in Article 19, if its general economic situation and the situation of the economic sector concerned so permit.
+
+The Stabilisation and Association Council shall analyse the situation in this respect and make the relevant recommendations.
+
+#### Article 23
+
+Protocol 1 lays down the arrangements applicable to iron and steel products of Chapters 72 and 73 of the Combined Nomenclature.
+
+### CHAPTER II — Agriculture and fisheries
+
+#### Article 24 — Definition
+
+1\. The provisions of this Chapter shall apply to trade in agricultural and fishery products originating in the Community or in Albania.
+
+2\. The term ‘agricultural and fishery products’ refers to the products listed in Chapters 1 to 24 of the Combined Nomenclature and the products listed in Annex I, §I, (ii) of the Agreement on agriculture (GATT, 1994)
+
+3\. This definition includes fish and fisheries products covered by Chapter 3, Headings 1604 and 1605 , and subheadings 0511 91 , 2301 20 00 and 1902 20 10
+
+#### Article 25
+
+Protocol 2 lays down the trade arrangements for processed agricultural products which are listed therein.
+
+#### Article 26
+
+1\. On the date of entry into force of this Agreement, the Community shall abolish all quantitative restrictions and measures having equivalent effect on imports of agricultural and fishery products originating in Albania.
+
+2\. On the date of entry into force of this Agreement, Albania shall abolish all quantitative restrictions and measures having equivalent effect on imports of agricultural and fishery products originating in the Community.
+
+#### Article 27 — Agricultural products
+
+1\. From the date of entry into force of this Agreement, the Community shall abolish the customs duties and charges having equivalent effect on imports of agricultural products originating in Albania, other than those of Headings 0102 , 0201 , 0202 , 1701 , 1702 and 2204 of the Combined Nomenclature.
+
+For the products covered by Chapters 7 and 8 of the Combined Nomenclature, for which the Common Customs Tariff provides for the application of ad valorem customs duties and a specific customs duty, the elimination shall apply only to the ad valorem part of the duty.
+
+2\. From the date of entry into force of this Agreement, the Community shall apply duty-free access on imports into the Community for products originating in Albania of Headings 1701 and 1702 of the Combined Nomenclature, within the limit of an annual tariff quota of 1 000 tonnes.
+
+3\. On the date of entry into force of this Agreement, Albania shall:
+
+(a) abolish the customs duties applicable on imports of certain agricultural products originating in the Community, listed in Annex II(a);
+
+(b) reduce progressively the customs duties applicable on imports of certain agricultural products originating in the Community, listed in Annex II(b) in accordance with the timetable indicated for each product in that Annex;
+
+(c) abolish the customs duties applicable on imports of certain agricultural products originating in the Community, listed in Annex II(c) within the limit of the tariff quota indicated for the products concerned.
+
+4\. Protocol 3 lays down the arrangements applicable to the wine and spirit products referred to therein.
+
+#### Article 28 — Fish and fisheries products
+
+1\. On the date of entry into force of this Agreement the Community shall eliminate all customs duties on fish and fisheries products, other than those listed in Annex III originating in Albania. Products listed in Annex III shall be subject to the provisions laid down therein.
+
+2\. From the date of entry into force of this Agreement Albania shall not apply any customs duties or charges having an equivalent effect to a customs duty on fish and fisheries products originating in the Community.
+
+#### Article 29
+
+Taking account of the volume of trade in agricultural and fishery products between the Parties, of their particular sensitivities, of the rules of the Community common policies and of the Albanian policies for agriculture and fisheries, of the role of agriculture and fisheries in Albania’s economy and of the consequences of the multilateral trade negotiations under the WTO, the Community and Albania shall examine in the Stabilisation and Association Council, no later than six years after the date of entry into force of this Agreement, product by product and on an orderly and appropriate reciprocal basis, the opportunities for granting each other further concessions with a view to implementing greater liberalisation of the trade in agricultural and fishery products.
+
+#### Article 30
+
+The provisions of this Chapter shall in no way affect the application, on a unilateral basis, of more favourable measures by one or the other Party.
+
+#### Article 31
+
+Notwithstanding other provisions of this Agreement, and in particular Articles 38 and 43, given the particular sensitivity of the agricultural and fisheries markets, if imports of products originating in one of the two Parties, which are the subject of concessions granted pursuant to Articles 25, 27 and 28, cause serious disturbance to the markets or to their domestic regulatory mechanisms in the other Party, both Parties shall enter into consultations immediately to find an appropriate solution. Pending such solution, the Party concerned may take the appropriate measures it deems necessary.
+
+### CHAPTER III — Common provisions
+
+#### Article 32
+
+The provisions of this Chapter shall apply to trade in all products between the Parties except where otherwise provided herein or in Protocols 1, 2 and 3.
+
+#### Article 33 — Standstill
+
+1\. From the date of entry into force of this Agreement no new customs duties on imports or exports or charges having equivalent effect shall be introduced, nor shall those already applied be increased, in trade between the Community and Albania.
+
+2\. From the date of entry into force of this Agreement no new quantitative restriction on imports or exports or measure having equivalent effect shall be introduced, nor shall those existing be made more restrictive, in trade between the Community and Albania.
+
+3\. Without prejudice to the concessions granted under Article 26, the provisions of paragraphs 1 and 2 of this Article shall not restrict in any way the pursuit of the respective agricultural policies of Albania and the Community or the taking of any measures under those policies in so far as the import regime in Annexes II and III is not affected.
+
+#### Article 34 — Prohibition of fiscal discrimination
+
+1\. The Parties shall refrain from, and abolish where existing, any measure or practice of an internal fiscal nature establishing, whether directly or indirectly, discrimination between the products of one Party and like products originating in the territory of the other Party.
+
+2\. Products exported to the territory of one of the Parties may not benefit from repayment of internal indirect taxation in excess of the amount of indirect taxation imposed on them.
+
+#### Article 35
+
+The provisions concerning the abolition of customs duties on imports shall also apply to customs duties of a fiscal nature.
+
+#### Article 36 — Customs unions, free trade areas, cross-border arrangements
+
+1\. This Agreement shall not preclude the maintenance or establishment of customs unions, free trade areas or arrangements for frontier trade except in so far as they alter the trade arrangements provided for in this Agreement.
+
+2\. During the transitional periods specified in Article 19, this Agreement shall not affect the implementation of the specific preferential arrangements governing the movement of goods either laid down in frontier Agreements previously concluded between one or more Member States and Albania or resulting from the bilateral Agreements specified in Title III concluded by Albania in order to promote regional trade.
+
+3\. Consultations between the Parties shall take place within the Stabilisation and Association Council concerning the Agreements described in paragraphs 1 and 2 and, where requested, on other major issues related to their respective trade policies towards third countries. In particular in the event of a third country acceding to the Community, such consultations shall take place so as to ensure that account is taken of the mutual interests of the Community and Albania stated in this Agreement.
+
+#### Article 37 — Dumping and subsidy
+
+1\. None of the provisions in this Agreement shall prevent either Party from taking trade defence action in accordance with paragraph 2 of this Article and Article 38.
+
+2\. If one of the Parties finds that dumping and/or countervailable subsidisation is taking place in trade with the other Party, the first Party may take appropriate measures against this practice in accordance with the WTO Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 and the WTO Agreement on Subsidies and Countervailing Measures and its own related internal legislation.
+
+#### Article 38 — General safeguard clause
+
+1\. The provisions of Article XIX GATT 1994 and the WTO Agreement on Safeguard are applicable between the Parties.
+
+2\. Where any product of one Party is being imported into the territory of the other Party in such increased quantities and under such conditions as to cause or threaten to cause:
+
+— serious injury to the domestic industry of like or directly competitive products in the territory of the importing Party, or
+
+— serious disturbances in any sector of the economy or difficulties which could bring about serious deterioration in the economic situation of a region of the importing Party,
+
+the importing Party may take appropriate measures under the conditions and in accordance with the procedures laid down in this Article.
+
+3\. Bilateral safeguard measures directed at imports from the other Party shall not exceed what is necessary to remedy the difficulties which have arisen, and should normally consist of the suspension of the further reduction of any applicable rate of duty provided for under this Agreement for the product concerned or the increase of the rate of duty for that product up to a maximum limit corresponding to the most-favoured nation (MFN) rate applicable to the same product. Such measures shall contain clear elements progressively leading to their elimination at the end of the set period, at the latest, and shall not be taken for a period exceeding one year. In very exceptional circumstances, measures may be taken up to a total maximum period of three years. No bilateral safeguard measure shall be applied to the import of a product that has previously been subject to such a measure for a period of, at least, three years since the expiry of the measure.
+
+4\. In the cases specified in this Article, before taking the measures provided for therein or, in the cases to which paragraph 5(b) applies, as soon as possible, the Community or Albania, as the case may be, shall supply the Stabilisation and Association Council with all relevant information, with a view to seeking a solution acceptable to both Parties.
+
+5\. For the implementation of the above paragraphs the following provisions shall apply:
+
+(a) The difficulties arising from the situation referred to in this Article shall be referred for examination to the Stabilisation and Association Council, which may take any decisions needed to put an end to such difficulties.
+
+If the Stabilisation and Association Council or the exporting Party has not taken a decision putting an end to the difficulties or no other satisfactory solution has been reached within 30 days of the matter being referred to the Stabilisation and Association Council, the importing Party may adopt the appropriate measures to remedy the problem in accordance with this Article. In the selection of safeguard measures, priority must be given to those which least disturb the functioning of the arrangements established in this Agreement. Safeguard measures applied in accordance with Article XIX GATT and the WTO Agreement on Safeguards shall preserve the level/margin of preference granted under this Agreement.
+
+(b) Where exceptional and critical circumstances requiring immediate action make prior information or examination, as the case may be, impossible, the Party concerned may, in the situations specified in this Article, apply forthwith provisional measures necessary to deal with the situation and shall inform the other Party immediately thereof.
+
+The safeguard measures shall be notified immediately to the Stabilisation and Association Council and shall be the subject of periodic consultations within that body, particularly with a view to establishing a timetable for their abolition as soon as circumstances permit.
+
+6\. In the event of the Community or Albania subjecting imports of products liable to give rise to the difficulties referred to in this Article to an administrative procedure having as its purpose the rapid provision of information on the trend of trade flows, it shall inform the other Party.
+
+#### Article 39 — Shortage clause
+
+1\. Where compliance with the provisions of this Title leads to:
+
+(a) a critical shortage, or threat thereof, of foodstuffs or other products essential to the exporting Party; or
+
+(b) re-export to a third country of a product against which the exporting Party maintains quantitative export restrictions, export duties or measures or charges having equivalent effect, and where the situations referred to above give rise, or are likely to give rise to major difficulties for the exporting Party;
+
+that Party may take appropriate measures under the conditions and in accordance with the procedures laid down in this Article.
+
+2\. In the selection of measures, priority must be given to those which least disturb the functioning of the arrangements in this Agreement. Such measures shall not be applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination where the same conditions prevail, or a disguised restriction on trade and shall be eliminated when the conditions no longer justify their maintenance.
+
+3\. Before taking the measures provided for in paragraph 1 or, as soon as possible in cases to which paragraph 4 applies the Community or Albania, as the case may be, shall supply the Stabilisation and Association Council with all relevant information, with a view to seeking a solution acceptable to the Parties. The Parties within the Stabilisation and Association Council may agree on any means needed to put an end to the difficulties. If no agreement is reached within 30 days of the matter being referred to the Stabilisation and Association Council, the exporting Party may apply measures under this Article on the exportation of the product concerned.
+
+4\. Where exceptional and critical circumstances requiring immediate action make prior information or examination, as the case may be, impossible, the Community or Albania, whichever is concerned, may apply forthwith the precautionary measures necessary to deal with the situation and shall inform the other Party immediately thereof.
+
+5\. Any measures applied pursuant to this Article shall be immediately notified to the Stabilisation and Association Council and shall be the subject of periodic consultations within that body, particularly with a view to establishing a timetable for their elimination as soon as circumstances permit.
+
+#### Article 40 — State monopolies
+
+Albania shall progressively adjust any State monopolies of a commercial character so as to ensure that, by the end of the fourth year following the date of entry into force of this Agreement, no discrimination regarding the conditions under which goods are procured and marketed exists between nationals of the Member States and Albania. The Stabilisation and Association Council shall be informed about the measures adopted to attain this objective.
+
+#### Article 41
+
+Except if otherwise stipulated in this Agreement, Protocol 4 lays down the rules of origin for the application of the provisions of this Agreement.
+
+#### Article 42 — Restrictions authorised
+
+This Agreement shall not preclude prohibitions or restrictions on imports, exports or goods in transit justified on grounds of public morality, public policy or public security; the protection of health and life of humans, animals or plants; the protection of national treasures of artistic, historic or archaeological value or the protection of intellectual, industrial and commercial property, or rules relating to gold and silver. Such prohibitions or restrictions shall not, however, constitute a means of arbitrary discrimination or a disguised restriction on trade between the Parties.
+
+#### Article 43
+
+1\. The Parties agree that administrative cooperation is essential for the implementation and the control of the preferential treatment granted under this Title and underline their commitment to combat irregularities and fraud in customs and related matters.
+
+2\. Where a Party has made a finding, on the basis of objective information, of a failure to provide administrative cooperation and/or of irregularities or fraud under this Title, the Party concerned may temporarily suspend the relevant preferential treatment of the product(s) concerned in accordance with this Article.
+
+3\. For the purpose of this Article a failure to provide administrative cooperation shall mean, inter alia:
+
+(a) a repeated failure to respect the obligations to verify the originating status of the product(s) concerned;
+
+(b) a repeated refusal or undue delay in carrying out and/or communicating the results of subsequent verification of the proof of origin;
+
+(c) a repeated refusal or undue delay in obtaining authorisation to conduct administrative cooperation missions to verify the authenticity of documents or accuracy of information relevant to the granting of the preferential treatment in question.
+
+For the purpose of this Article a finding of irregularities or fraud may be made, inter alia, where there is a rapid increase, without satisfactory explanation, in imports of goods exceeding the usual level of production and export capacity of the other Party, that is linked to objective information concerning irregularities or fraud.
+
+4\. The application of a temporary suspension shall be subject to the following conditions:
+
+(a) The Party which has made a finding, on the basis of objective information, of a failure to provide administrative cooperation and/or of irregularities or fraud shall without undue delay notify the Stabilisation and Association Committee of its finding together with the objective information and enter into consultations within the Stabilisation and Association Committee, on the basis of all relevant information and objective findings, with a view to reaching a solution acceptable to both Parties.
+
+(b) Where the Parties have entered into consultations within the Stabilisation and Association Committee and have failed to agree on an acceptable solution within three months following the notification, the Party concerned may temporarily suspend the relevant preferential treatment of the product(s) concerned. A temporary suspension shall be notified to the Stabilisation and Association Committee without undue delay.
+
+(c) Temporary suspensions under this Article shall be limited to the extent necessary to protect the financial interests of the Party concerned. They shall not exceed a period of six months, which may be renewed. Temporary suspensions shall be notified immediately after their adoption to the Stabilisation and Association Committee. They shall be subject to periodic consultations within the Stabilisation and Association Committee in particular with a view to their termination as soon as the conditions for their application no longer exist.
+
+5\. At the same time as the notification to the Stabilisation and Association Committee under paragraph 4(a), the Party concerned should publish a notice to importers in its official journal. The notice to importers should indicate for the product concerned that there is a finding, on the basis of objective information, of a failure to provide administrative cooperation and/or of irregularities or fraud.
+
+#### Article 44
+
+In case of error by the competent authorities in the proper management of the preferential system of export, and in particular in the application of the provisions of Protocol 4 concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation, where this error leads to consequences in terms of import duties, the Party facing such consequences may request the Stabilisation and Association Council to examine the possibilities of adopting all appropriate measures with a view to resolving the situation.
+
+#### Article 45
+
+The application of this Agreement shall be without prejudice to the application of the provisions of Community law to the Canary Islands.
+
+## TITLE V — MOVEMENT OF WORKERS, ESTABLISHMENT, SUPPLY OF SERVICES, CURRENT PAYMENTS AND MOVEMENT OF CAPITAL
+
+### CHAPTER I — Movement of workers
+
+#### Article 46
+
+1\. Subject to the conditions and modalities applicable in each Member State:
+
+— treatment accorded to workers who are Albanian nationals and who are legally employed in the territory of a Member State shall be free of any discrimination based on nationality, as regards working conditions, remuneration or dismissal, compared to its own nationals,
+
+— the legally resident spouse and children of a worker legally employed in the territory of a Member State, with the exception of seasonal workers and of workers coming under bilateral Agreements within the meaning of Article 47, unless otherwise provided by such Agreements, shall have access to the labour market of that Member State, during the period of that worker’s authorised stay of employment.
+
+2\. Albania shall, subject to the conditions and modalities in that country, accord the treatment referred to in paragraph 1 to workers who are nationals of a Member State and are legally employed in its territory as well as to their spouse and children who are legally resident in the said country.
+
+#### Article 47
+
+1\. Taking into account the labour market situation in the Member States, subject to their legislation and to compliance with the rules in force in the Member States in the area of mobility of workers:
+
+— the existing facilities of access to employment for Albanian workers accorded by Member States under bilateral Agreements should be preserved and if possible improved,
+
+— the other Member States shall examine the possibility of concluding similar Agreements.
+
+2\. The Stabilisation and Association Council shall examine the granting of other improvements, including facilities for access to professional training, in accordance with the rules and procedures in force in the Member States, and taking into account the labour market situation in the Member States and in the Community.
+
+#### Article 48
+
+1\. Rules shall be laid down for the coordination of social security systems for workers with Albanian nationality, legally employed in the territory of a Member State, and for the members of their families legally resident there. To that effect, a Decision of the Stabilisation and Association Council, which should not affect any rights or obligations arising from bilateral Agreements where the latter provide for more favourable treatment, shall put the following provisions in place:
+
+— all periods of insurance, employment or residence completed by such workers in the various Member States shall be added together for the purpose of pensions and annuities in respect of old age, invalidity and death and for the purpose of medical care for such workers and such family members,
+
+— any pensions or annuities in respect of old age, death, industrial accident or occupational disease, or of invalidity resulting therefrom, with the exception of non-contributory benefits, shall be freely transferable at the rate applied by virtue of the law of the debtor Member State or States,
+
+— the workers in question shall receive family allowances for the members of their families as defined above.
+
+2\. Albania shall accord to workers who are nationals of a Member State and legally employed in its territory, and to members of their families legally resident there, treatment similar to that specified in the second and third indents of paragraph 1.
+
+### CHAPTER II — Establishment
+
+#### Article 49
+
+For the purposes of this Agreement:
+
+(a) ‘Community company’ or ‘Albanian company’ respectively shall mean a company set up in accordance with the laws of a Member State or of Albania respectively and having its registered office or central administration or principal place of business in the territory of the Community or Albania respectively.
+
+However, should the company, set up in accordance with the laws of a Member State or of Albania respectively, have only its registered office in the territory of the Community or of Albania respectively, the company shall be considered a Community or an Albanian company respectively if its operations possess a real and continuous link with the economy of one of the Member States or of Albania respectively.
+
+(b) ‘Subsidiary’ of a company shall mean a company which is effectively controlled by the first company.
+
+(c) ‘Branch’ of a company shall mean a place of business not having legal personality which has the appearance of permanency, such as the extension of a parent body, has a management and is materially equipped to negotiate business with third parties so that the latter, although knowing that there will if necessary be a legal link with the parent body, the head office of which is abroad, do not have to deal directly with such parent body but may transact business at the place of business constituting the extension.
+
+(d) ‘Establishment’ shall mean:
+
+(i) as regards nationals, the right to take up economic activities as self-employed persons, and to set up undertakings, in particular companies, which they effectively control. Self-employment and business undertakings by nationals shall not extend to seeking or taking employment in the labour market or confer a right of access to the labour market of another Party. The provisions of this Chapter do not apply to those who are not exclusively self-employed;
+
+(ii) as regards Community or Albanian companies, the right to take up economic activities by means of the setting-up of subsidiaries and branches in Albania or in the Community respectively.
+
+(e) ‘Operations’ shall mean the pursuit of economic activities.
+
+(f) ‘Economic activities’ shall in principle include activities of an industrial, commercial and professional character and activities of craftsmen.
+
+(g) ‘Community national’ and ‘Albanian national’ shall mean a natural person who is a national of one of the Member States or of Albania respectively.
+
+(h) With regard to international maritime transport, including intermodal operations involving a sea leg, nationals of the Member States or of Albania established outside the Community or Albania respectively, and shipping companies established outside the Community or Albania and controlled by nationals of a Member State or Albanian nationals respectively, shall also be beneficiaries of the provisions of this Chapter and Chapter III, if their vessels are registered in that Member State or in Albania respectively, in accordance with their respective legislation.
+
+(i) ‘Financial services’ shall mean the activities as defined in Annex IV. The Stabilisation and Association Council may extend or modify the scope of that Annex.
+
+#### Article 50
+
+1\. Albania shall facilitate the setting-up of operations on its territory by Community companies and nationals. To that end, it shall grant, upon the date of entry into force of this Agreement:
+
+(i) as regards the establishment of Community companies treatment no less favourable than that accorded to its own companies or to any third country company, whichever is the better; and
+
+(ii) as regards the operation of subsidiaries and branches of Community companies in Albania, once established, treatment no less favourable than that accorded to its own companies and branches or to any subsidiary and branch of any third country company, whichever is the better.
+
+2\. The Parties shall not adopt any new regulations or measures which would introduce discrimination as regards the establishment of Community or Albanian companies on their territory or in respect of their operation, once established, by comparison with their own companies.
+
+3\. The Community and its Member States shall grant, from the date of entry into force of this Agreement:
+
+(i) as regards the establishment of Albanian companies, treatment no less favourable than that accorded by Member States to their own companies or to any company of any third country, whichever is the better;
+
+(ii) as regards the operation of subsidiaries and branches of Albanian companies, established in their territory, treatment no less favourable than that accorded by Member States to their own companies and branches, or to any subsidiary and branch of any third country company, established in their territory, whichever is the better.
+
+4\. Five years after the date of entry into force of this Agreement, the Stabilisation and Association Council shall establish the modalities to extend the above provisions to the establishment of nationals of both Parties to take up economic activities as self-employed persons.
+
+5\. Notwithstanding the provisions of this Article:
+
+(a) subsidiaries and branches of Community companies shall have, from the date of entry into force of this Agreement, the right to use and rent real property in Albania;
+
+(b) subsidiaries and branches of Community companies shall also have the right to acquire and enjoy ownership rights over real property as Albanian companies and as regards public goods/goods of common interest, the same rights as enjoyed by Albanian companies, where these rights are necessary for the conduct of the economic activities for which they are established excluding natural resources, agricultural land, forests and forestry land. Seven years after the date of entry into force of this Agreement the Stabilisation and Association Council shall establish the modalities for extending rights under this paragraph to the excluded sectors.
+
+#### Article 51
+
+1\. Subject to the provisions of Article 50, with the exception of financial services as defined in Annex IV, each Party may regulate the establishment and operation of companies and nationals on its territory, in so far as these regulations do not discriminate against companies and nationals of the other Party in comparison with its own companies and nationals.
+
+2\. In respect of financial services, notwithstanding any other provisions of this Agreement, a Party shall not be prevented from taking measures for prudential reasons, including for the protection of investors, depositors, policy holders or persons to whom a fiduciary duty is owed by a financial service supplier, or to ensure the integrity and stability of the financial system. Such measures shall not be used as a means of avoiding the Party’s obligations under this Agreement.
+
+3\. Nothing in this Agreement shall be construed to require a Party to disclose information relating to the affairs and accounts of individual customers or any confidential or proprietary information in the possession of public entities.
+
+#### Article 52
+
+1\. Without prejudice to the Multilateral Agreement on the Establishment of a European Common Aviation Area (ECAA), the provisions of this Chapter shall not apply to air transport services, inland waterways transport services and maritime cabotage services.
+
+2\. The Stabilisation and Association Council may make recommendations for improving establishment and operations in the areas covered by paragraph 1.
+
+#### Article 53
+
+1\. The provisions of Articles 50 and 51 do not preclude the application by a Party of particular rules concerning the establishment and operation in its territory of branches of companies of another Party not incorporated in the territory of the first Party, which are justified by legal or technical differences between such branches as compared to branches of companies incorporated in its territory or, as regards financial services, for prudential reasons.
+
+2\. The difference in treatment shall not go beyond what is strictly necessary as a result of such legal or technical differences or, as regards financial services, for prudential reasons.
+
+#### Article 54
+
+In order to make it easier for Community nationals and Albanian nationals to take up and pursue regulated professional activities in Albania and the Community respectively, the Stabilisation and Association Council shall examine which steps are necessary for the mutual recognition of qualifications. It may take all necessary measures to that end.
+
+#### Article 55
+
+1\. A Community company or an Albanian company established in the territory of Albania or the Community respectively shall be entitled to employ, or have employed by one of its subsidiaries or branches, in accordance with the legislation in force in the host country of establishment, in the territory of Albania and the Community respectively, employees who are nationals of the Member States and of Albania respectively, provided that such employees are key personnel as defined in paragraph 2 and that they are employed exclusively by companies, subsidiaries or branches. The residence and work permits of such employees shall only cover the period of such employment.
+
+2\. Key personnel of the abovementioned companies, herein referred to as ‘organisations’, are ‘intra-corporate transferees’ as defined in point (c) in the following categories, provided that the organisation is a legal person and that the persons concerned have been employed by it or have been partners in it (other than as majority shareholders), for at least the year immediately preceding such movement:
+
+(a) Persons working in a senior position with an organisation, who primarily direct the management of the establishment, receiving general supervision or direction principally from the board of directors or stockholders of the business or their equivalent including:
+
+— directing the establishment or a department or sub-division of the establishment,
+
+— supervising and controlling the work of other supervisory, professional or managerial employees,
+
+— having the authority personally to recruit and dismiss or recommend recruiting, dismissing or other personnel actions.
+
+(b) Persons working within an organisation who possess uncommon knowledge essential to the establishment’s service, research equipment, techniques or management. The assessment of such knowledge may reflect, apart from knowledge specific to the establishment, a high level of qualification referring to a type of work or trade requiring specific technical knowledge, including membership of an accredited profession.
+
+(c) An ‘intra-corporate transferee’ is defined as a natural person working within an organisation in the territory of a Party, and being temporarily transferred in the context of pursuit of economic activities in the territory of the other Party; the organisation concerned must have its principal place of business in the territory of a Party and the transfer be to an establishment (branch, subsidiary) of that organisation, effectively pursuing like economic activities in the territory of the other Party.
+
+3\. The entry into and the temporary presence within the territory of the Community or Albania of Albanian and Community nationals respectively shall be permitted, when these representatives of companies are persons working in a senior position, as defined in paragraph 2(a), within a company, and are responsible for the setting-up of a Community subsidiary or branch of an Albanian company or of an Albanian subsidiary or branch of a Community company in a Member State or in Albania respectively, when:
+
+— those representatives are not engaged in making direct sales or supplying services, and
+
+— the company has its principal place of business outside the Community or Albania, respectively, and has no other representative, office, branch or subsidiary in that Member State or in Albania respectively.
+
+#### Article 56
+
+During the first five years following the date of entry into force of this Agreement, Albania may, on a transitional basis, introduce measures which derogate from the provisions of this Chapter as regards the establishment of Community companies and nationals of certain industries which:
+
+— are undergoing restructuring, or are facing serious difficulties, particularly where these entail serious social problems in Albania, or
+
+— face the elimination or a drastic reduction of the total market share held by Albanian companies or nationals in a given sector or industry in Albania, or
+
+— are newly emerging industries in Albania.
+
+Such measures:
+
+(i) shall cease to apply at the latest seven years after the date of entry into force of this Agreement;
+
+(ii) shall be reasonable and necessary in order to remedy the situation; and
+
+(iii) shall not introduce discrimination concerning the activities of Community companies or nationals already established in Albania at the time of introduction of a given measure, by comparison with Albanian companies or nationals.
+
+While devising and applying such measures, Albania shall grant preferential treatment wherever possible to Community companies and nationals, and in no case treatment less favourable than that accorded to companies or nationals from any third country. Prior to the adoption of these measures, Albania shall consult the Stabilisation and Association Council and shall not put them into effect before a one-month period has elapsed following the notification to the Stabilisation and Association Council of the concrete measures to be introduced by Albania, except where the threat of irreparable damage requires the taking of urgent measures, in which case Albania shall consult the Stabilisation and Association Council immediately after their adoption.
+
+Upon the expiry of the fifth year following the date of entry into force of this Agreement, Albania may introduce or maintain such measures only with the authorisation of the Stabilisation and Association Council and under conditions determined by the latter.
+
+### CHAPTER III — Supply of services
+
+#### Article 57
+
+1\. The Parties undertake in accordance with the following provisions to take the necessary steps to allow progressively the supply of services by Community or Albanian companies or nationals which are established in a Party other than that of the person for whom the services are intended.
+
+2\. In step with the liberalisation process mentioned in paragraph 1, the Parties shall permit the temporary movement of natural persons providing the service or who are employed by the service provider as key personnel as defined in Article 55(2), including natural persons who are representatives of a Community or Albanian company or national and are seeking temporary entry for the purpose of negotiating for the sale of services or entering into agreements to sell services for that service provider, where those representatives will not be engaged in making direct sales to the general public or in supplying services themselves.
+
+3\. Five years after the date of entry into force of this Agreement, the Stabilisation and Association Council shall take the measures necessary to implement progressively the provisions of paragraph 1. Account shall be taken of the progress achieved by the Parties in the approximation of their laws.
+
+#### Article 58
+
+1\. The Parties shall not take any measures or actions which render the conditions for the supply of services by Community and Albanian nationals or companies which are established in a Party other than that of the person for whom the services are intended significantly more restrictive as compared to the situation existing on the day preceding the date of entry into force of this Agreement.
+
+2\. If one Party is of the view that measures introduced by the other Party since the date of entry into force of this Agreement result in a situation which is significantly more restrictive in respect of supply of services as compared with the situation existing at the date of entry into force of this Agreement, such first Party may request the other Party to enter into consultations.
+
+#### Article 59
+
+With regard to supply of transport services between the Community and Albania, the following provisions shall apply:
+
+1\. With regard to inland transport, Protocol 5 lays down the rules applicable to the relationship between the Parties in order to ensure, particularly, unrestricted road transit traffic across Albania and the Community as a whole, the effective application of the principle of non-discrimination and progressive harmonisation of the Albanian transport legislation with that of the Community.
+
+2\. With regard to international maritime transport, the Parties undertake to apply effectively the principle of unrestricted access to the market and traffic on a commercial basis, and to respect international and European obligations in the field of safety, security and environmental standards.
+
+The Parties affirm their commitment to a freely competitive environment as an essential feature of international maritime transport.
+
+3\. In applying the principles of paragraph 2:
+
+(a) the Parties shall not introduce cargo-sharing clauses in future bilateral agreements with third countries;
+
+(b) the Parties shall abolish, upon the date of entry into force of this Agreement, all unilateral measures and administrative, technical and other obstacles that could have restrictive or discriminatory effects on the free supply of services in international maritime transport;
+
+(c) each Party shall grant, inter alia, no less favourable treatment for the ships operated by nationals or companies of the other Party than that accorded to a Party’s own ships with regard to access to ports open to international trade, the use of infrastructure and auxiliary maritime services of the ports, a well as related fees and charges, customs facilities and the assignment of berths and facilities for loading and unloading.
+
+4\. With a view to ensuring a coordinated development and progressive liberalisation of transport between the Parties adapted to their reciprocal commercial needs, the conditions of mutual market access in air transport shall be dealt with by special Agreements to be negotiated between the Parties.
+
+5\. Prior to the conclusion of the Agreements referred to in paragraph 4, the Parties shall not take any measures or actions which are more restrictive or discriminatory as compared with the situation existing prior to the date of entry into force of this Agreement.
+
+6\. Albania shall adapt its legislation, including administrative, technical and other rules, to that of the Community existing at any time in the field of air, maritime and inland transport in so far as it serves liberalisation purposes and mutual access to markets of the Parties and facilitates the movement of passengers and of goods.
+
+7\. In step with the common progress in the achievement of the objectives of this Chapter, the Stabilisation and Association Council shall examine ways of creating the conditions necessary for improving freedom to provide air and inland transport services.
+
+### CHAPTER IV — Current payments and movement of capital
+
+#### Article 60
+
+The Parties undertake to authorise, in freely convertible currency, in accordance with the provisions of Article VIII of the Articles of the Agreement of the International Monetary Fund (IMF), any payments and transfers on the current account of balance of payments between the Community and Albania.
+
+#### Article 61
+
+1\. With regard to transactions on the capital and financial account of balance of payments, from the date of entry into force of this Agreement, the Parties shall ensure the free movement of capital relating to direct investments made in companies formed in accordance with the laws of the host country and investments made in accordance with the provisions of Chapter II of Title V, and the liquidation or repatriation of these investments and of any profit stemming therefrom.
+
+2\. With regard to transactions on the capital and financial account of balance of payments, from the date of entry into force of this Agreement, the Parties shall ensure the free movement of capital relating to credits related to commercial transactions or to the provision of services in which a resident of one of the Parties is participating, and to financial loans and credits, with maturity longer than a year.
+
+As from the date of entry into force of this Agreement, Albania shall authorise, by making full and expedient use of its legal framework and procedures, the acquisition of real estate in Albania by nationals of Member States of the European Union, except for the limitations provided for in Albania’s Schedule of Specific Commitment under the General Agreement on Trade in Services (GATS). Within seven years from the date of entry into force of this Agreement, Albania shall progressively adjust its legislation concerning the acquisition of real estate in Albania by nationals of the Member States of the European Union to ensure no less favourable treatment than that accorded to Albanian nationals. Five years after the date of entry into force of this Agreement, the Stabilisation and Association Council shall examine the modalities for the progressive elimination of such limitations.
+
+The Parties shall also ensure, from the fifth year after the date of entry into force of this Agreement, free movement of capital relating to portfolio investment and financial loans and credits with maturity shorter than a year.
+
+3\. Without prejudice to paragraph 1, the Parties shall not introduce any new restrictions on the movement of capital and current payments between residents of the Community and Albania and shall not make the existing arrangements more restrictive.
+
+4\. Without prejudice to the provisions of Article 60 and of this Article, where, in exceptional circumstances, movements of capital between the Community and Albania cause, or threaten to cause, serious difficulties for the operation of exchange rate policy or monetary policy in the Community or Albania, the Community and Albania, respectively, may take safeguard measures with regard to movements of capital between the Community and Albania for a period not exceeding one year if such measures are strictly necessary.
+
+5\. Nothing in the above provisions shall be taken to limit the rights of economic operators of the Parties from benefiting from any more favourable treatment that may be provided for in any existing bilateral or multilateral Agreement involving Parties to this Agreement.
+
+6\. The Parties shall consult each other with a view to facilitating the movement of capital between the Community and Albania in order to promote the objectives of this Agreement.
+
+#### Article 62
+
+1\. During the first three years following the date of entry into force of this Agreement, the Parties shall take measures permitting the creation of the necessary conditions for the further gradual application of Community rules on the free movement of capital.
+
+2\. By the end of the third year following the date of entry into force of this Agreement, the Stabilisation and Association Council shall determine the modalities for full application of Community rules on the movement of capital.
+
+### CHAPTER V — General provisions
+
+#### Article 63
+
+1\. The provisions of this Title shall be applied subject to limitations justified on grounds of public policy, public security or public health.
+
+2\. They shall not apply to activities that in the territory of either Party are connected, even occasionally, with the exercise of official authority.
+
+#### Article 64
+
+For the purpose of this Title, nothing in this Agreement shall prevent the Parties from applying their laws and regulations regarding entry and stay, employment, working conditions, establishment of natural persons and supply of services, provided that, in so doing, they do not apply them in such a manner as to nullify or impair the benefits accruing to any Party under the terms of a specific provision of this Agreement. This provision shall be without prejudice to the application of Article 63.
+
+#### Article 65
+
+Companies which are controlled and exclusively owned jointly by Albanian companies or nationals and Community companies or nationals shall also be covered by the provisions of this Title.
+
+#### Article 66
+
+1\. The MFN treatment granted in accordance with the provisions of this Title shall not apply to the tax advantages that the Parties are providing or will provide in the future on the basis of Agreements designed to avoid double taxation or other tax arrangements.
+
+2\. None of the provisions of this Title shall be construed to prevent the adoption or enforcement by the Parties of any measure aimed at preventing the avoidance or evasion of taxes pursuant to the tax provisions of Agreements designed to avoid double taxation and other tax arrangements or domestic fiscal legislation.
+
+3\. None of the provisions of this Title shall be construed to prevent Member States or Albania, in applying the relevant provisions of their fiscal legislation, from distinguishing between taxpayers who are not in identical situations, in particular as regards their place of residence.
+
+#### Article 67
+
+1\. The Parties shall endeavour wherever possible to avoid the imposition of restrictive measures, including measures relating to imports, for balance of payments purposes. A Party adopting such measures shall present as soon as possible to the other Party a timetable for their removal.
+
+2\. Where one or more Member States or Albania is in serious balance of payments difficulties, or under imminent threat thereof, the Community or Albania, as the case may be, may, in accordance with the conditions established under the WTO Agreement, adopt restrictive measures, including measures relating to imports, which shall be of limited duration and may not go beyond what is strictly necessary to remedy the balance of payments situation. The Community or Albania, as the case may be, shall inform the other Party forthwith.
+
+3\. Any restrictive measures shall not apply to transfers related to investment and in particular to the repatriation of amounts invested or reinvested or any kind of revenues stemming therefrom.
+
+#### Article 68
+
+The provisions of this Title shall be progressively adjusted, notably in the light of requirements arising from Article V of the General Agreement on Trade in Services (GATS).
+
+#### Article 69
+
+The provisions of this Agreement shall not prejudice the application by either Party of any measure necessary to prevent the circumvention of its measures concerning third-country access to its market through the provisions of this Agreement.
+
+## TITLE VI — APPROXIMATION OF LAWS, LAW ENFORCEMENT AND COMPETITION RULES
+
+#### Article 70
+
+1\. The Parties recognise the importance of the approximation of Albania’s existing legislation to that of the Community and of its effective implementation. Albania shall endeavour to ensure that its existing laws and future legislation shall be gradually made compatible with the Community acquis. Albania shall ensure that existing and future legislation shall be properly implemented and enforced.
+
+2\. This approximation shall start on the date of signing of this Agreement, and shall gradually extend to all the elements of the Community acquis referred to in this Agreement by the end of the transitional period as defined in Article 6.
+
+3\. During the first stage as defined in Article 6, approximation shall focus on fundamental elements of the internal market acquis as well as on other important areas such as competition, intellectual, industrial and commercial property rights, public procurement, standards and certification, financial services, land and maritime transport — with special emphasis on safety and environmental standards as well as social aspects — company law, accounting, consumer protection, data protection, health and safety at work and equal opportunities. During the second stage, Albania shall focus on the remaining parts of the acquis.
+
+Approximation will be carried out on the basis of a programme to be agreed between the Commission of the European Communities and Albania.
+
+4\. Albania shall also define, in agreement with the Commission of the European Communities, the modalities for the monitoring of the implementation of approximation of legislation and law enforcement actions to be taken.
+
+#### Article 71 — Competition and other economic provisions
+
+1\. The following shall be incompatible with the proper functioning of this Agreement, in so far as they may affect trade between the Community and Albania:
+
+(i) all agreements between undertakings, decisions by associations of undertakings and concerted practices between undertakings which have as their object or effect the prevention, restriction or distortion of competition;
+
+(ii) abuse by one or more undertakings of a dominant position in the territories of the Community or of Albania as a whole or in a substantial part thereof;
+
+(iii) any State aid which distorts or threatens to distort competition by favouring certain undertakings or certain products.
+
+2\. Any practices contrary to this Article shall be assessed on the basis of criteria arising from the application of the competition rules applicable in the Community, in particular from Articles 81, 82, 86 and 87 of the Treaty establishing the European Community and interpretative instruments adopted by the Community institutions.
+
+3\. The Parties shall ensure that an operationally independent public body is entrusted with the powers necessary for the full application of paragraph 1(i) and (ii), regarding private and public undertakings and undertakings to which special rights have been granted.
+
+4\. Albania shall establish an operationally independent authority which is entrusted with the powers necessary for the full application of paragraph 1(iii) within four years from the date of entry into force of this Agreement. This authority shall have, inter alia, the powers to authorise State aid schemes and individual aid grants in conformity with paragraph 2, as well as the powers to order the recovery of State aid that has been unlawfully granted.
+
+5\. Each Party shall ensure transparency in the area of State aid, inter alia, by providing to the other Party a regular annual report, or equivalent, following the methodology and the presentation of the Community survey on State aid. Upon request by one Party, the other Party shall provide information on particular individual cases of public aid.
+
+6\. Albania shall establish a comprehensive inventory of aid schemes instituted before the establishment of the authority referred to in paragraph 4 and shall align such aid schemes with the criteria referred to in paragraph 2 within a period of no more than four years from the date of entry into force of this Agreement.
+
+7\. For the purposes of applying the provisions of paragraph 1(iii), the Parties recognise that during the first 10 years after the date of entry into force of this Agreement, any public aid granted by Albania shall be assessed taking into account the fact that Albania shall be regarded as an area identical to those areas of the Community described in Article 87(3)(a) of the Treaty establishing the European Community.
+
+Within five years from the date of entry into force of this Agreement, Albania shall submit to the Commission of the European Communities its GDP per capita figures harmonised at NUTS II level. The authority referred to in paragraph 4 and the Commission of the European Communities shall then jointly evaluate the eligibility of the regions of Albania as well as the maximum aid intensities in relation thereto in order to draw up the regional aid map on the basis of the relevant Community guidelines.
+
+8\. With regard to products referred to in Chapter II of Title IV:
+
+— paragraph 1(iii) shall not apply,
+
+— any practices contrary to paragraph 1(i) shall be assessed according to the criteria established by the Community on the basis of Articles 36 and 37 of the Treaty establishing the European Community and specific Community instruments adopted on this basis.
+
+9\. If one of the Parties considers that a particular practice is incompatible with the terms of paragraph 1, it may take appropriate measures after consultation within the Stabilisation and Association Council or after 30 working days following referral for such consultation.
+
+Nothing in this Article shall prejudice or affect in any way the taking, by either Party, of antidumping or countervailing measures in accordance with the relevant Articles of GATT 1994 and the WTO Agreement on Subsidies and Countervailing Measures or related internal legislation.
+
+#### Article 72 — Public undertakings
+
+By the end of the third year following the date of entry into force of this Agreement, Albania shall apply to public undertakings and undertakings to which special and exclusive rights have been granted the principles set out in the Treaty establishing the European Community, with particular reference to Article 86 thereof.
+
+Special rights of public undertakings during the transitional period shall not include the possibility of imposing quantitative restrictions or measures having an equivalent effect on imports from the Community into Albania.
+
+#### Article 73 — Intellectual, industrial and commercial property
+
+1\. Pursuant to the provisions of this Article and Annex V, the Parties confirm the importance that they attach to ensuring adequate and effective protection and enforcement of intellectual, industrial and commercial property rights.
+
+2\. Albania shall take all the necessary measures in order to guarantee no later than four years after the date of entry into force of this Agreement a level of protection of intellectual, industrial and commercial property rights similar to that existing in the Community, including effective means of enforcing such rights.
+
+3\. Albania undertakes to accede, within four years after the date of entry into force of this Agreement, to the multilateral Conventions on intellectual, industrial and commercial property rights referred to in paragraph 1 of Annex V. The Stabilisation and Association Council may decide to oblige Albania to accede to specific multilateral Conventions in this area.
+
+4\. If problems in the area of intellectual, industrial and commercial property affecting trading conditions occur, they shall be referred urgently to the Stabilisation and Association Council, at the request of either Party, with a view to reaching mutually satisfactory solutions.
+
+#### Article 74 — Public contracts
+
+1\. The Parties consider the opening-up of the award of public contracts on the basis of non-discrimination and reciprocity, in particular in the WTO context, to be a desirable objective.
+
+2\. Albanian companies, whether established or not in the Community, shall be granted access to contract award procedures in the Community pursuant to Community procurement rules under treatment no less favourable than that accorded to Community companies as from the date of entry into force of this Agreement.
+
+The above provisions shall also apply to contracts in the utilities sector once the Government of Albania has adopted the legislation introducing the Community rules in this area. The Community shall examine periodically whether Albania has indeed introduced such legislation.
+
+3\. Community companies not established in Albania shall be granted access to contract award procedures in Albania pursuant to the Albanian Law on Public Procurement under treatment no less favourable than that accorded to Albanian companies at the latest four years after the date of entry into force of this Agreement.
+
+4\. The Stabilisation and Association Council shall periodically examine the possibility of Albania introducing access to contract award procedures in Albania for all Community companies.
+
+Community companies established in Albania under the provisions of Chapter II of Title V shall have upon the date of entry into force of this Agreement access to contract award procedures under treatment no less favourable than that accorded to Albanian companies.
+
+5\. As regards establishment, operations, supply of services between the Community and Albania, and also employment and movement of labour linked to the fulfilment of public contracts, the provisions of Articles 46 to 69 are applicable.
+
+#### Article 75 — Standardisation, metrology, accreditation and conformity assessment
+
+1\. Albania shall take the necessary measures in order to gradually achieve conformity with Community technical regulations and European standardisation, metrology, accreditation and conformity assessment procedures.
+
+2\. To this end, the Parties shall start at an early stage:
+
+— to promote the use of Community technical regulations, European standards and conformity assessment procedures,
+
+— to provide assistance to fostering the development of quality infrastructure: standardisation, metrology, accreditation and conformity assessment,
+
+— to promote the participation of Albania in the work of organisations related to standards, conformity assessment, metrology and similar functions (in particular CEN, Cenelec, ETSI, EA, Welmec, Euromet),
+
+— where appropriate, to conclude European Conformity Assessment Protocols once the Albanian legislative framework and procedures are sufficiently aligned on those of the Community and appropriate expertise is available.
+
+#### Article 76 — Consumer protection
+
+The Parties shall cooperate in order to align the standards of consumer protection in Albania to those of the Community. Effective consumer protection is necessary in order to ensure that the market economy functions properly, and this protection will depend on the development of an administrative infrastructure in order to ensure market surveillance and law enforcement in this field.
+
+To that end, and in view of their common interests, the Parties shall encourage and ensure:
+
+— a policy of active consumer protection, in accordance with Community law,
+
+— the harmonisation of legislation of consumer protection in Albania on that in force in the Community,
+
+— effective legal protection for consumers in order to improve the quality of consumer goods and maintain appropriate safety standards,
+
+— monitoring of rules by competent authorities and providing access to justice in case of disputes.
+
+#### Article 77 — Working conditions and equal opportunities
+
+Albania shall progressively harmonise its legislation to that of the Community in the fields of working conditions, notably on health and safety at work, and equal opportunities.
+
+## TITLE VII — JUSTICE, FREEDOM AND SECURITY
+
+### CHAPTER I — Introduction
+
+#### Article 78 — Reinforcement of institutions and rule of law
+
+In their cooperation on justice and home affairs the Parties shall attach particular importance to the consolidation of the rule of law, and the reinforcement of institutions at all levels in the areas of administration in general and law enforcement and the administration of justice in particular. Cooperation shall notably aim at strengthening the independence of the judiciary and improving its efficiency, improving the functioning of the police and other law enforcement bodies, providing adequate training and fighting corruption and organised crime.
+
+#### Article 79 — Protection of personal data
+
+Albania shall harmonise its legislation concerning personal data protection with Community law and other European and international legislation on privacy upon the date of entry into force of this Agreement. Albania shall establish independent supervisory bodies with sufficient financial and human resources in order to efficiently monitor and guarantee the enforcement of national legislation on personal data protection. The Parties shall cooperate to achieve this goal.
+
+### CHAPTER II — Cooperation in the area of movement of persons
+
+#### Article 80 — Visa, border management, asylum and migration
+
+The Parties shall cooperate in the areas of visa, border control, asylum and migration and shall set up a framework for cooperation, including at a regional level, in these fields, taking into account and making full use of other existing initiatives in this area as appropriate.
+
+Cooperation in the matters referred to in paragraph 1 shall be based on mutual consultations and close coordination between the Parties and shall include technical and administrative assistance for:
+
+— the exchange of information on legislation and practices,
+
+— the drafting of legislation,
+
+— enhancing the efficiency of the institutions,
+
+— the training of staff,
+
+— the security of travel documents and detection of false documents,
+
+— border management.
+
+Cooperation shall focus in particular:
+
+— in the field of asylum on the implementation of national legislation to meet the standards of the 1951 Geneva Convention and the 1967 New York Protocol, thereby to ensure that the principle of non-refoulement is respected as well as other rights of asylum seekers and refugees,
+
+— in the field of legal migration, on admission rules and rights and status of the person admitted. In relation to migration, the Parties agree to the fair treatment of nationals of other countries who reside legally on their territories and to promote an integration policy aiming at making their rights and obligations comparable to those of their citizens.
+
+#### Article 81 — Prevention and control of illegal immigration, and readmission
+
+1\. The Parties shall cooperate in order to prevent and control illegal immigration. To this end, the Parties agree that, upon request and without further formalities, Albania and the Member States:
+
+— shall readmit any of their nationals illegally present on their territories,
+
+— shall readmit nationals of third countries and stateless persons illegally present on their territories and having entered the territory of Albania via or from a Member State, or having entered the territory of a Member State via or from Albania.
+
+2\. The Member States of the European Union and Albania shall provide their nationals with appropriate identity documents and shall extend to them the administrative facilities necessary for such purposes.
+
+3\. Specific procedures for the purpose of readmission of nationals and third country nationals and stateless persons are laid down in the Agreement between the European Community and Albania on the readmission of persons residing without authorisation, signed on 14 April 2005.
+
+4\. Albania agrees to conclude Readmission Agreements with the Stabilisation and Association process countries and undertakes to take any necessary measures to ensure the flexible and rapid implementation of all Readmission Agreements referred to in this article.
+
+5\. The Stabilisation and Association Council shall establish other joint efforts that can be made to prevent and control illegal immigration, including trafficking and illegal migration networks.
+
+### CHAPTER III — Cooperation on combating money laundering, terrorism financing, illicit drugs and cooperation in counter-terrorism
+
+#### Article 82 — Money laundering and terrorism financing
+
+1\. The Parties shall cooperate closely in order to prevent the use of their financial systems for laundering of proceeds from criminal activities in general and drug offences in particular, as well as for the purpose of terrorist financing.
+
+2\. Cooperation in this area may include administrative and technical assistance designed to develop the implementation of regulations and efficient functioning of the suitable standards and mechanisms to combat money laundering and terrorism financing equivalent to those adopted by the Community and international forums in this field, in particular the Financial Action Task Force (FATF).
+
+#### Article 83 — Cooperation on illicit drugs
+
+1\. Within their respective powers and competences, the Parties shall cooperate to ensure a balanced and integrated approach towards drug issues. Drug policies and actions shall be aimed at reducing the supply of, trafficking in and the demand for illicit drugs as well as at a more effective control of precursors.
+
+2\. The Parties shall agree on the necessary methods of cooperation to attain these objectives. Actions shall be based on commonly agreed principles along the lines of the EU Drug Control Strategy.
+
+#### Article 84 — Counter-terrorism
+
+In compliance with the international Conventions to which they are party and their respective laws and regulations, the Parties agree to cooperate in order to prevent and suppress acts of terrorism and their financing, especially those involving cross-border activities:
+
+— in the framework of full implementation of United Nations Security Council Resolution 1373 (2001) on threats to international peace and security caused by terrorist acts and other relevant United Nations resolutions, international conventions and instruments,
+
+— by exchanging information on terrorist groups and their support networks in accordance with international and national law,
+
+— by exchanging experiences with regard to means and methods of combating terrorism and in technical areas and training, and by exchanging experience in respect of the prevention of terrorism.
+
+### CHAPTER IV — Cooperation in criminal matters
+
+#### Article 85 — Preventing and combating organised crime and other illegal activities
+
+The Parties shall cooperate on fighting and preventing criminal and illegal activities, organised or otherwise, such as:
+
+— smuggling and trafficking in human beings,
+
+— illegal economic activities, and in particular counterfeiting of currencies, illegal transactions relating to products such as industrial waste, radioactive material and transactions involving illegal or counterfeit products,
+
+— corruption, both in the private and public sector, in particular linked to non-transparent administrative practices,
+
+— fiscal fraud,
+
+— illicit trafficking in drugs and psychotropic substances,
+
+— smuggling,
+
+— illicit arms trafficking,
+
+— forging documents,
+
+— illicit car trafficking,
+
+— cybercrime.
+
+Regional cooperation and compliance with recognised international standards in combating organised crime shall be promoted.
+
+## TITLE VIII — COOPERATION POLICIES
+
+#### Article 86 — General provisions on cooperation policies
+
+1\. The Community and Albania shall establish a close cooperation aimed at contributing to the development and growth potential of Albania. Such cooperation shall strengthen existing economic links on the widest possible foundation, to the benefit of both Parties.
+
+2\. Policies and other measures shall be designed to bring about sustainable economic and social development of Albania. These policies should ensure that environmental considerations are also fully incorporated from the outset and that they are linked to the requirements of harmonious social development.
+
+3\. Cooperation policies shall be integrated into a regional framework of cooperation. Special attention shall be devoted to measures that can foster cooperation between Albania and its neighbouring countries including Member States, thus contributing to regional stability. The Stabilisation and Association Council may define priorities between and within the cooperation policies described hereinafter.
+
+#### Article 87 — Economic and trade policy
+
+1\. The Community and Albania shall facilitate the process of economic reform by cooperating to improve understanding of the fundamentals of their respective economies and the formulation and implementation of economic policy in market economies.
+
+2\. At the request of the Albanian authorities, the Community may provide assistance designed to support Albania’s efforts to establish a functioning market economy and gradually to approximate its policies to the stability-oriented policies of the Economic and Monetary Union.
+
+3\. Cooperation shall also aim at strengthening the rule of law in the business area through a stable and non-discriminatory trade-related legal framework.
+
+4\. Cooperation in this area shall include informal exchange of information concerning the principles and functioning of the European Economic and Monetary Union.
+
+#### Article 88 — Statistical cooperation
+
+Cooperation between the Parties shall primarily focus on priority areas related to the Community acquis in the field of statistics. It shall notably be aimed at developing an efficient and sustainable statistical system capable of providing comparable, reliable, objective and accurate data needed to plan and monitor the process of transition and reform in Albania. It shall also enable the Institute of Statistics of Albania to better meet the needs of its national and international customers (both public administration and private sector). The statistical system shall respect the fundamental principles of statistics issued by the United Nations, the European Statistical Code of Practice and the stipulations of the European Statistical Law, and develop towards the Community acquis.
+
+#### Article 89 — Banking, insurance and other financial services
+
+Cooperation between the Parties shall focus on priority areas related to the Community acquis in the fields of banking, insurance and financial services. The Parties shall cooperate with the aim of establishing and developing a suitable framework for the encouragement of the banking, insurance and financial services sectors in Albania.
+
+#### Article 90 — Audit and financial control cooperation
+
+Cooperation between the Parties shall focus on priority areas related to the Community acquis in the field of public internal financial control (PIFC) and external audit. The Parties shall, in particular, cooperate with the aim of developing efficient PIFC and external audit systems in Albania, in accordance with internationally accepted standards and methodologies and EU best practices.
+
+#### Article 91 — Investment promotion and protection
+
+Cooperation between the Parties, within the scope of their respective competences, in the field of investment promotion and protection shall aim to bring about a favourable climate for private investment, both domestic and foreign, which is so essential to economic and industrial revitalisation in Albania.
+
+#### Article 92 — Industrial cooperation
+
+1\. Cooperation shall aim to promote the modernisation and restructuring of the Albanian industry and individual sectors, as well as industrial cooperation between economic operators, with the objective of strengthening the private sector under conditions which ensure that the environment is protected.
+
+2\. Industrial cooperation initiatives shall reflect the priorities determined by both Parties. They shall take into account the regional aspects of industrial development, promoting transnational partnerships when relevant. The initiatives shall seek in particular to establish a suitable framework for undertakings, to improve management and know-how and to promote markets, market transparency and the business environment.
+
+3\. Cooperation will take due account of the Community acquis in the field of industrial policy.
+
+#### Article 93 — Small and medium-sized enterprises
+
+Cooperation between the Parties shall be aimed at developing and strengthening private sector small and medium-sized enterprises (SMEs) and shall take due account of priority areas related to the Community acquis in the field of SMEs, as well as the principles enshrined in the European Charter for Small Enterprises.
+
+#### Article 94 — Tourism
+
+1\. Cooperation between the Parties in the field of tourism shall be mainly aimed at strengthening the flow of information on tourism (through international networks, databanks, etc.) and transferring know-how (through training, exchanges, seminars). Cooperation shall take due account of Community acquis related to this sector.
+
+2\. Cooperation may be integrated into a regional framework of cooperation.
+
+#### Article 95 — Agriculture and the agro-industrial sector
+
+Cooperation between the Parties shall focus on priority areas related to the Community acquis in the field of agriculture. Cooperation shall notably aim at modernising and restructuring the Albanian agriculture and agro-industrial sector, and at supporting the gradual approximation of Albanian legislation and practices to the Community rules and standards.
+
+#### Article 96 — Fisheries
+
+The Parties shall explore the possibility of identifying mutually beneficial areas of common interest in the fisheries sector. Cooperation shall take due account of priority areas related to the Community acquis in the field of fisheries, including the respect of international obligations concerning international and regional fisheries organisation rules of management and conservation of fishery resources.
+
+#### Article 97 — Customs
+
+1\. The Parties shall establish cooperation in this area with a view to guaranteeing compliance with the provisions to be adopted in the area of trade and to achieving the approximation of the customs system of Albania to that of the Community, thereby helping to pave the way for the liberalisation measures planned under this Agreement and for the gradual approximation of the Albanian customs legislation to the acquis.
+
+2\. Cooperation shall take due account of priority areas related to the Community acquis in the field of customs.
+
+3\. Protocol 6 establishes the rules on mutual administrative assistance between the Parties in the customs field.
+
+#### Article 98 — Taxation
+
+1\. The Parties shall establish cooperation in the field of taxation, including measures aiming at the further reform of the fiscal system and the restructuring of tax administration with a view to ensuring effectiveness of tax collection and the fight against fiscal fraud.
+
+2\. Cooperation shall take due account of priority areas related to the Community acquis in the field of taxation and in the fight against harmful tax competition. In this respect, the Parties recognise the importance of improving transparency and the exchange of information between the Member States of the European Union and Albania in order to facilitate the enforcement of measures preventing the avoidance or evasion of taxes. Furthermore, the Parties shall consult each other, as from the date of entry into force of this Agreement, with a view to eliminating harmful tax competition between the Member States of the European Union and Albania in order to ensure a level playing field in the area of business taxation.
+
+#### Article 99 — Social cooperation
+
+1\. The Parties shall cooperate to facilitate the reform of Albanian employment policy, in the context of strengthened economic reform and integration. Cooperation shall also seek to support the adaptation of the Albanian social security system to the new economic and social requirements, and shall involve the adjustment of the Albanian legislation concerning working conditions and equal opportunities for women, as well as the improvement of the level of protection of the health and safety of workers, taking as a reference the level of protection existing in the Community.
+
+2\. Cooperation will take due account of priority areas related to the Community acquis in this field.
+
+#### Article 100 — Education and training
+
+1\. The Parties shall cooperate with the aim of raising the level of general education and vocational education and training in Albania, as well as youth policy and youth work. A priority for higher education systems shall be the achievement of the objectives of the Bologna Declaration.
+
+2\. The Parties shall also cooperate with the aim of ensuring that access to all levels of education and training in Albania is free of discrimination on the grounds of gender, colour, ethnic origin or religion.
+
+3\. The relevant Community programmes and instruments shall contribute to the upgrading of educational and training structures and activities in Albania.
+
+4\. Cooperation shall take due account of priority areas related to the Community acquis in this field.
+
+#### Article 101 — Cultural cooperation
+
+The Parties undertake to promote cultural cooperation. This cooperation serves, inter alia, to raise mutual understanding and esteem between individuals, communities and peoples. The Parties also undertake to cooperate to promote cultural diversity, notably within the framework of the Unesco Convention on the protection and the promotion of the diversity of cultural expressions.
+
+#### Article 102 — Cooperation in the audiovisual field
+
+1\. The Parties shall cooperate to promote the audiovisual industry in Europe and encourage coproduction in the fields of cinema and television.
+
+2\. Cooperation could include, inter alia, programmes and facilities for the training of journalists and other media professionals, as well as technical assistance to the media, both public and private, so as to reinforce their independence, professionalism and links with the European media.
+
+3\. Albania shall align its policies on the regulation of content aspects of cross-border broadcasting with those of the Community and shall harmonise its legislation with the Community acquis. Albania shall pay particular attention to matters relating to the acquisition of intellectual property rights for programmes and broadcasts by satellite, terrestrial frequencies and cable.
+
+#### Article 103 — Information society
+
+1\. Cooperation shall primarily focus on priority areas related to the Community acquis regarding the information society. It shall mainly support Albania’s gradual alignment of its policies and legislation in this sector with those of the Community.
+
+2\. The Parties shall also cooperate with a view to further developing the information society in Albania. Global objectives shall be preparing society as a whole for the digital age, attracting investments and ensuring the interoperability of networks and services.
+
+#### Article 104 — Electronic communications networks and services
+
+1\. Cooperation shall primarily focus on priority areas related to the Community acquis in this field.
+
+2\. The Parties shall, in particular, strengthen cooperation in the area of electronic communications networks and associated services, with the ultimate objective of the adoption by Albania of the Community acquis in these sectors one year after the date of entry into force of this Agreement.
+
+#### Article 105 — Information and communication
+
+The Community and Albania shall take the measures necessary to stimulate the mutual exchange of information. Priority shall be given to programmes aimed at providing the general public with basic information about the Community and professional circles in Albania with more specialised information.
+
+#### Article 106 — Transport
+
+1\. Cooperation between the Parties shall focus on priority areas related to the Community acquis in the field of transport.
+
+2\. Cooperation may notably aim at restructuring and modernising the Albanian transport modes, improving the free movement of passengers and goods, enhancing the access to the transport market and facilities, including ports and airports, supporting the development of multimodal infrastructures in connection with the main trans-European networks, notably to reinforce regional links, achieving operating standards comparable to those in the Community, developing a transport system in Albania compatible and aligned with the Community system and improving the protection of environment in transport.
+
+#### Article 107 — Energy
+
+Cooperation shall focus on priority areas related to the Community acquis in the field of energy, including nuclear safety aspects as appropriate. It shall reflect the principles of the market economy and it shall be based on the signed regional Energy Community Treaty with a view to the gradual integration of Albania into Europe’s energy markets.
+
+#### Article 108 — Environment
+
+1\. The Parties shall develop and strengthen their cooperation in the vital task of combating environmental degradation, with the aim of promoting environmental sustainability.
+
+2\. Cooperation shall mainly focus on priority areas related to the Community acquis in the field of environment.
+
+#### Article 109 — Cooperation in research and technological development
+
+1\. The Parties shall encourage cooperation in civil scientific research and technological development on the basis of mutual benefit and, taking into account the availability of resources, adequate access to their respective programmes, subject to appropriate levels of effective protection of intellectual, industrial and commercial property rights.
+
+2\. Cooperation shall take due account of the priority areas related to the Community acquis in the field of research and technical development.
+
+3\. Cooperation shall be implemented according to specific arrangements to be negotiated and concluded according to the procedures adopted by each Party.
+
+#### Article 110 — Regional and local development
+
+1\. The Parties shall seek to strengthen regional and local development cooperation, with the objective of contributing to economic development and reducing regional imbalances. Specific attention shall be given to cross-border, transnational and interregional cooperations.
+
+2\. Cooperation shall take due account of the priority areas related to the Community acquis in the field of regional development.
+
+#### Article 111 — Public administration
+
+1\. Cooperation shall aim at ensuring the development of an efficient and accountable public administration in Albania, notably to support rule of law implementation, the proper functioning of the State institutions for the benefit of the Albanian population as a whole and the smooth development of the relations between the European Union and Albania.
+
+2\. Cooperation in this area shall mainly focus on institution building, including the development and implementation of transparent and impartial recruitment procedures, human resources management, career development for the public service, continued training and the promotion of ethics within the public administration, and e-government. Cooperation shall cover both the central and the local administrations.
+
+## TITLE IX — FINANCIAL COOPERATION
+
+#### Article 112
+
+In order to achieve the objectives of this Agreement and in accordance with Articles 3, 113 and 115, Albania may receive financial assistance from the Community in the form of grants and loans, including loans from the European Investment Bank. Community aid remains tied to the fulfilment of the principles and conditions set out in the conclusions of the General Affairs Council of 29 April 1997 taking into account the results of the annual reviews of the countries of the Stabilisation and Association process, the European Partnerships, and of other Council conclusions, pertaining in particular to the respect of adjustment programmes. Aid granted to Albania shall be geared to observed needs, chosen priorities, the capacity to absorb and repay, and the measures taken to reform and restructure the economy.
+
+#### Article 113
+
+Financial assistance, in the form of grants, shall be covered by the operation measures provided for in the relevant Council Regulation within a multiannual indicative framework established by the Community following consultations with Albania.
+
+Financial assistance may cover all sectors of cooperation, paying particular attention to justice, liberty and security, approximation of legislation and economic development.
+
+#### Article 114
+
+At the request of Albania and in case of special need, the Community could examine in coordination with international financial institutions, the possibility of granting on an exceptional basis macro-financial assistance subject to certain conditions and taking into account the availability of all financial resources. This assistance would be released subject to the fulfilment of conditions to be established in the context of a programme agreed between Albania and the IMF.
+
+#### Article 115
+
+In order to permit optimum use of the resources available, the Parties shall ensure that Community contributions are made in close coordination with those from other sources such as the Member States, other countries and international financial institutions.
+
+To this effect, information on all sources of assistance shall be exchanged regularly between the Parties.
+
+## TITLE X — INSTITUTIONAL, GENERAL AND FINAL PROVISIONS
+
+#### Article 116
+
+A Stabilisation and Association Council is hereby established. Its task shall be to supervise the application and implementation of this Agreement. It shall meet at an appropriate level at regular intervals and when circumstances require to examine any major issues arising within the framework of this Agreement and any other bilateral or international issues of mutual interest.
+
+#### Article 117
+
+1\. The Stabilisation and Association Council shall consist of the members of the Council of the European Union and members of the Commission of the European Communities, on the one hand, and of members of the Government of Albania, on the other.
+
+2\. The Stabilisation and Association Council shall establish its Rules of Procedure.
+
+3\. The members of the Stabilisation and Association Council may arrange to be represented, in accordance with the conditions to be laid down in its Rules of Procedure.
+
+4\. The Stabilisation and Association Council shall be chaired in turn by a representative of the Community and a representative of Albania, in accordance with the provisions to be laid down in its Rules of Procedure.
+
+5\. In matters that concern it, the European Investment Bank shall take part, as an observer, in the work of the Stabilisation and Association Council.
+
+#### Article 118
+
+The Stabilisation and Association Council shall, for the purpose of attaining the objectives of this Agreement, have the power to take decisions within the scope of this Agreement in the cases provided for therein. The decisions taken shall be binding on the Parties, which shall take the measures necessary to implement the decisions taken. The Stabilisation and Association Council may also make appropriate recommendations. It shall draw up its decisions and recommendations by agreement between the Parties.
+
+#### Article 119
+
+Each Party shall refer to the Stabilisation and Association Council any dispute relating to the application or interpretation of this Agreement. The Stabilisation and Association Council may settle the dispute by means of a binding decision.
+
+#### Article 120
+
+1\. The Stabilisation and Association Council shall be assisted in the performance of its duties by a Stabilisation and Association Committee, composed of representatives of the Council of the European Union and of representatives of the Commission of the European Communities, on the one hand, and of representatives of Albania, on the other.
+
+2\. In its Rules of Procedure the Stabilisation and Association Council shall determine the duties of the Stabilisation and Association Committee, which shall include the preparation of meetings of the Stabilisation and Association Council, and shall determine how the Committee shall function.
+
+3\. The Stabilisation and Association Council may delegate to the Stabilisation and Association Committee any of its powers. In this event the Stabilisation and Association Committee shall take its decisions in accordance with the conditions laid down in Article 118.
+
+4\. The Stabilisation and Association Council may decide to set up other special committees or bodies that can assist it in carrying out its duties. In its Rules of Procedure, the Stabilisation and Association Council shall determine the composition and duties of such committees or bodies and how they shall function.
+
+#### Article 121
+
+The Stabilisation and Association Committee may create subcommittees.
+
+Before the end of the first year after the date of entry into force of this Agreement, the Stabilisation and Association Committee shall set up the necessary subcommittees for the adequate implementation of this Agreement. When deciding on the setting-up of subcommittees and defining their terms of reference, the Stabilisation and Association Committee shall take due account of the importance of adequately handling migration-related issues, notably as regards the implementation of provisions under Articles 80 and 81 of this Agreement and the monitoring of the EU Action Plan for Albania and the neighbouring region.
+
+#### Article 122
+
+A Stabilisation and Association Parliamentary Committee is hereby established. It shall be a forum for Members of the Albanian Parliament and the European Parliament to meet and exchange views. It shall meet at intervals that it shall itself determine.
+
+The Stabilisation and Association Parliamentary Committee shall consist of members of the European Parliament, on the one hand, and of members of the Parliament of Albania, on the other.
+
+The Stabilisation and Association Parliamentary Committee shall establish its Rules of Procedure.
+
+The Stabilisation and Association Parliamentary Committee shall be chaired in turn by the European Parliament and the Parliament of Albania, in accordance with the provisions to be laid down in its Rules of Procedure.
+
+#### Article 123
+
+Within the scope of this Agreement, each Party undertakes to ensure that natural and legal persons of the other Party have access free of discrimination in relation to its own nationals to the competent courts and administrative organs of the Parties to defend their individual rights and their property rights.
+
+#### Article 124
+
+Nothing in this Agreement shall prevent a Party from taking any measures:
+
+(a) which it considers necessary to prevent the disclosure of information contrary to its essential security interests;
+
+(b) which relate to the production of, or trade in, arms, munitions or war materials or to research, development or production indispensable for defence purposes, provided that such measures do not impair the conditions of competition in respect of products not intended for specifically military purposes;
+
+(c) which it considers essential to its own security in the event of serious internal disturbances affecting the maintenance of law and order, in time of war or serious international tension constituting threat of war or in order to carry out obligations it has accepted for the purpose of maintaining peace and international security.
+
+#### Article 125
+
+1\. In the fields covered by this Agreement and without prejudice to any special provisions contained therein:
+
+— the arrangements applied by Albania in respect of the Community shall not give rise to any discrimination between the Member States, their nationals, companies or firms,
+
+— the arrangements applied by the Community in respect of Albania shall not give rise to any discrimination between Albanian nationals, companies or firms.
+
+2\. The provisions of paragraph 1 shall be without prejudice to the right of the Parties to apply the relevant provisions of their fiscal legislation to taxpayers who are not in identical situations as regards their place of residence.
+
+#### Article 126
+
+1\. The Parties shall take any general or specific measures required to fulfil their obligations under this Agreement. They shall see to it that the objectives set out in this Agreement are attained.
+
+2\. If either Party considers that the other Party has failed to fulfil an obligation under this Agreement, it may take appropriate measures. Before so doing, except in cases of special urgency, it shall supply the Stabilisation and Association Council with all relevant information required for a thorough examination of the situation with a view to seeking a solution acceptable to the Parties.
+
+3\. In the selection of measures, priority must be given to those which least disturb the functioning of this Agreement. These measures shall be notified immediately to the Stabilisation and Association Council and shall be the subject of consultations within the Stabilisation and Association Council if the other Party so requests.
+
+#### Article 127
+
+The Parties agree to consult promptly through appropriate channels at the request of either Party to discuss any matter concerning the interpretation or implementation of this Agreement and other relevant aspects of the relations between the Parties.
+
+The provisions of this Article shall in no way affect and are without prejudice to Articles 31, 37, 38, 39 and 43.
+
+#### Article 128
+
+This Agreement shall not, until equivalent rights for individuals and economic operators have been achieved under this Agreement, affect rights ensured to them through existing Agreements binding one or more Member States, on the one hand, and Albania, on the other.
+
+#### Article 129
+
+Annexes I to V and Protocols 1, 2, 3, 4, 5 and 6 shall form an integral part of this Agreement.
+
+The Framework Agreement between the European Community and the Republic of Albania on the general principles for the participation the Republic of Albania in Community Programmes, signed on 22 November 2004, and the Annex thereto shall form an integral part of this Agreement. The review provided for in Article 8 of that Framework Agreement shall be carried out within the Stabilisation and Association Council, which shall have the power to amend, if necessary, the Framework Agreement.
+
+#### Article 130
+
+This Agreement is concluded for an unlimited period.
+
+Either Party may denounce this Agreement by notifying the other Party. This Agreement shall terminate six months after the date of such notification.
+
+#### Article 131
+
+For the purposes of this Agreement, the term ‘Parties’ shall mean the Community, or its Member States, or the Community and its Member States, in accordance with their respective powers, of the one part, and Albania, of the other part.
+
+#### Article 132
+
+This Agreement shall apply, on the one hand, to the territories in which the Treaties establishing the European Community and the European Atomic Energy Community are applied and under the conditions laid down in those Treaties, and to the territory of Albania, on the other.
+
+#### Article 133
+
+The Secretary-General of the Council of the European Union shall be the depository of this Agreement.
+
+#### Article 134
+
+This Agreement is drawn up in duplicate in each of the official languages of the Parties, each of these texts being equally authentic (1).
+
+#### Article 135
+
+The Parties shall ratify or approve this Agreement in accordance with their own procedures.
+
+The instruments of ratification or approval shall be deposited with the General Secretariat of the Council of the European Union. This Agreement shall enter into force on the first day of the second month following the date of the deposit of the last instrument of ratification or approval.
+
+#### Article 136 — Interim Agreement
+
+In the event that, pending the completion of the procedures necessary for the entry into force of this Agreement, the provisions of certain parts of this Agreement, in particular those relating to the free movement of goods as well as the relevant provisions on transport, are put into effect by means of Interim Agreements between the Community and Albania, the Parties agree that, in such circumstances for the purpose of the provisions of Title IV, Articles 40, 71, 72, 73 and 74 of this Agreement, Protocols 1, 2, 3, 4 and 6, and relevant provisions of Protocol 5, hereto, the terms ‘date of entry into force of this Agreement’ mean the date of entry into force of the relevant Interim Agreement in relation to obligations contained in the abovementioned provisions.
+
+#### Article 137
+
+From the date of its entry into force, this Agreement shall replace the Agreement between the European Economic Community and the Republic of Albania on trade and commercial and economic cooperation, signed at Brussels on 11 May 1992. This shall not affect any right, obligation or legal situation of the parties created through the execution of that Agreement.
+
+Hecho en Luxemburgo, el doce de junio del dos mil seis.
+
+V Lucemburku dne dvanáctého června dva tisíce šest.
+
+Udfærdiget i Luxembourg den tolvte juni to tusind og seks.
+
+Geschehen zu Luxemburg am zwölften Juni zweitausendsechs.
+
+Kahe tuhande kuuenda aasta juunikuu kaheteistkümnendal päeval Luxembourgis.
+
+Έγινε στο Λουξεμβούργο, στις δώδεκα Ιουνίου δύο χιλιάδες έξι.
+
+Done at Luxembourg on the twelfth day of June in the year two thousand and six.
+
+Fait à Luxembourg, le douze juin deux mille six.
+
+Fatto a Lussemburgo, addì dodici giugno duemilase.
+
+Luksemburgā, divtūkstoš sestā gada divpadsmitajā jūnijā.
+
+Priimta du tūkstančiai šeštų metų birželio dvyliktą dieną Liuksemburge.
+
+Kelt Luxembourgban, a kettőezer hatodik év június tizenkettedik napján.
+
+Magħmul fil-Lussemburgu, fit-tnax jum ta’ Ġunju tas-sena elfejn u sitta.
+
+Gedaan te Luxemburg, de twaalfde juni tweeduizend zes.
+
+Sporządzono w Luksemburgu, dnia dwunastego czerwca roku dwutysięcznego szóstego.
+
+Feito no Luxemburgo, em doze de Junho de dois mil e seis.
+
+V Luxemburgu dňa dvanásteho júna dvetisícšesť.
+
+V Luxembourgu, dvanajstega junija leta dva tisoč šest.
+
+Tehty Luxemburgissa kahdentenatoista päivänä kesäkuuta vuonna kaksituhattakuusi.
+
+Som skedde i Luxemburg den tolfte juni tjugohundrasex.
+
+Bërë në Luksemburg në datë dymbëdhjetë qershor të vitit dymijë e gjashtë.
+
+Pour le Royaume de Belgique
+
+Voor het Koninkrijk België
+
+Für das Königreich Belgien
+
+[image]
+
+Cette signature engage également la Communauté française, la Communauté flamande, la Communauté germanophone, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale.
+
+Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
+
+Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft, die Flämische Gemeinschaft, die Französische Gemeinschaft, die Wallonische Region, die Flämische Region und die Region Brüssel-Hauptstadt.
+
+Za Českou republiku
+
+[image]
+
+På Kongeriget Danmarks vegne
+
+[image]
+
+Für die Bundesrepublik Deutschland
+
+[image]
+
+Eesti Vabariigi nimel
+
+[image]
+
+Για την Ελληνική Δημοκρατία
+
+[image]
+
+Por el Reino de España
+
+[image]
+
+Pour la République française
+
+[image]
+
+Thar cheann Na hÉireann
+
+For Ireland
+
+[image]
+
+Per la Repubblica italiana
+
+[image]
+
+Για την Κυπριακή Δημοκρατία
+
+[image]
+
+Latvijas Republikas vārdā
+
+[image]
+
+Lietuvos Respublikos vardu
+
+[image]
+
+Pour le Grand-Duché de Luxembourg
+
+[image]
+
+A Magyar Köztársaság részéről
+
+[image]
+
+Għar-Repubblika ta’ Malta
+
+[image]
+
+Voor het Koninkrijk der Nederlanden
+
+[image]
+
+Für die Republik Österreich
+
+[image]
+
+W imieniu Rzeczypospolitej Polskiej
+
+[image]
+
+Pela República Portuguesa
+
+[image]
+
+Za Republiko Slovenijo
+
+[image]
+
+Za Slovenskú republiku
+
+[image]
+
+Suomen tasavallan puolesta
+
+För Republiken Finland
+
+[image]
+
+För Konungariket Sverige
+
+[image]
+
+For the United Kingdom of Great Britain and Northern Ireland
+
+[image]
+
+Por las Comunidades Europeas
+
+Za Evropská společenství
+
+For De Europæiske Fællesskaber
+
+Für die Europäischen Gemeinschaften
+
+Euroopa ühenduste nimel
+
+Για τις Ευρωπαϊκές Κοινότητες
+
+For the European Communities
+
+Pour les Communautés européennes
+
+Per le Comunità europee
+
+Eiropas Kopienu vārdā
+
+Europos Bendrijų vardu
+
+Az Európai Közösségek részéről
+
+Għall-Komunitajiet Ewropej
+
+Voor de Europese Gemeenschappen
+
+W imieniu Wspólnot Europejskich
+
+Pelas Comunidades Europeias
+
+Za Európske spoločenstvá
+
+Za Evropski skupnosti
+
+Euroopan yhteisöjen puolesta
+
+På Europeiska gemenskapernas vägnar
+
+[image]
+
+[image]
+
+Për Republikën e Shqipěrisë
+
+[image]
+
+(1) The Bulgarian and Romanian language versions of the Agreement shall be published in the special edition of the Official Journal at a later date.
+
+**LIST OF ANNEXES**
+
+| Annex I | Albanian tariff concessions for Community industrial products |  |
+| --- | --- | --- |
+
+| Annex II(a) | Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(a)) |  |
+| --- | --- | --- |
+
+| Annex II(b) | Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(b)) |  |
+| --- | --- | --- |
+
+| Annex II(c) | Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(c)) |  |
+| --- | --- | --- |
+
+| Annex III | Community concessions for Albanian fish and fishery products |  |
+| --- | --- | --- |
+
+| Annex IV | Establishment: Financial services |  |
+| --- | --- | --- |
+
+| Annex V | Intellectual, industrial and commercial property rights |  |
+| --- | --- | --- |
+
+## ANNEX I
+
+**ALBANIAN TARIFF CONCESSIONS FOR COMMUNITY INDUSTRIAL PRODUCTS**
+
+**(referred to in Article 19)**
+
+Duty rates will be reduced as follows:
+
+— on the date of entry into force of the Agreement, the import duty will be reduced to 80 % of the basic duty,
+
+— on 1 January of the first year following the date of entry into force of the Agreement, the import duty will be reduced to 60 % of the basic duty,
+
+— on 1 January of the second year following the date of entry into force of the Agreement, the import duty will be reduced to 40 % of the basic duty,
+
+— on 1 January of the third year following the date of entry into force of the Agreement, the import duty will be reduced to 20 % of the basic duty,
+
+— on 1 January of the fourth year following the date of entry into force of the Agreement, the import duty will be reduced to 10 % of the basic duty,
+
+— on 1 January of the fifth year following the date of entry into force of the Agreement, the remaining import duties will be abolished.
+
+| HS 8+ | Description of products |
+| --- | --- |
+| 2501 00 91 | – – – – Salt suitable for human consumption |
+| 2523 | Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cement, whether or not coloured or in the form of clinkers |
+| 2710 11 25 | – – – – – Other special spirits |
+| 2710 11 41 | – – – – – – – – Motor spirits with a lead content not exceeding 0,013 g/l, with an octane number (RON) of less than 95 |
+| 2710 11 70 | – – – – – Spirit-type jet fuel |
+|  | – – – – – Kerosene |
+| 2710 19 21 | – – – – – – Jet fuel |
+| 2710 19 25 | – – – – – – Other |
+| 2710 19 29 | – – – – – Other medium oils |
+|  | – – – – Gas oils |
+| 2710 19 31 | – – – – – Gas oils for undergoing a specific process |
+| 2710 19 35 | – – – – – Gas oils for undergoing chemical transformation by a process, other than those specified in respect of subheading 27101931 |
+|  | – – – – – For other purposes: |
+| 2710 19 41 | – – – – – – With a sulphur content not exceeding 0,05 % by weight |
+| 2710 19 45 | – – – – – – With a sulphur content exceeding 0,05 % by weight but not exceeding 0,2 % by weight |
+| 2710 19 49 | – – – – – – Gas oils for other purposes, with a sulphur content exceeding 0,2 % by weight |
+| 2710 19 69 | – – – – – – Fuel oils for other purposes, with a sulphur content exceeding 2,8 % by weight |
+| 2713 12 00 | – Petroleum coke, calcined |
+| 2713 20 00 | – Petroleum bitumen |
+| 2713 90 | – Other residues of petroleum oils or of oils obtained from bituminous minerals: |
+| 2713 90 10 | – – For the manufacture of the products of heading No 2803 |
+| 2713 90 90 | – – Other |
+| 3103 10 10 | – – Containing more than 35 % by weight of diphosphorus pentaoxide |
+| 3103 10 90 | – – Other |
+| 3304 91 00 | – – Powders, whether or not compressed |
+| 3304 99 00 | – – Other |
+| 3305 10 00 | – Shampoos |
+| 3305 30 00 | – Hair lacquers |
+| 3305 90 10 | – – Hair lotions |
+| 3305 90 90 | – – Other |
+| 3306 10 00 | – Dentifrices |
+| 3307 10 00 | – Pre-shave, shaving or aftershave preparations |
+| 3307 20 00 | – Personal deodorants and antiperspirants |
+| 3401 11 00 | – – Soap for toilet use (including medicated products) |
+| 3401 19 00 | – – Other |
+| 3401 20 10 | – – Soap in flakes, wafers, granules or powders |
+| 3401 20 90 | – – Other |
+| 34022020 | – – Surface-active preparations |
+| 3402 20 90 | – – Washing preparations and cleaning preparations |
+| 3402 90 10 | – – Surface-active preparations |
+| 3405 20 00 | – Polishes, creams and similar preparations, for the maintenance of wooden furniture, floors or other woodwork |
+| 3405 30 00 | – Polishes and similar preparations for coachwork, other than metal polishes |
+| 3405 90 90 | – – Other |
+| 3923 10 00 | – Boxes, cases, crates and similar articles |
+|  | – Sacks and bags (including cones): |
+| 3923 21 00 | – – Of polymers of ethylene |
+| 3923 29 | – – Of other plastics: |
+| 3923 29 10 | – – – Of polyvinyl chloride |
+| 3923 29 90 | – – – Other |
+| 3924 | Tableware, kitchenware, other household articles and toilet articles, of plastics: |
+| 3924 10 00 | – Tableware and kitchenware |
+| 3924 90 | – Other: |
+|  | – – Of regenerated cellulose: |
+| 3924 90 11 | – – – Sponges |
+| 3924 90 19 | – – – Other |
+| 3924 90 90 | – – Other |
+| 3925 10 00 | – Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 litres |
+| 3926 | Other articles of plastics and articles of other materials of headings 3901 to 3914 |
+|  | – Retreaded tyres |
+| 4012 11 00 | – – Of a kind used on motor cars (including station wagons and racing cars) |
+| 4012 12 00 | – – Of the kind used on buses or lorries |
+| 4012 13 90 | – – – Other |
+| 4012 20 90 | – – Other |
+| 4012 90 20 | – – Solid or cushion tyres |
+| 6401 10 | – Footwear incorporating a protective metal toe-cap: |
+| 6401 10 10 | – – With uppers of rubber |
+| 6401 10 90 | – – With uppers of plastics |
+|  | – Other footwear: |
+| 6401 91 | – – Covering the knee: |
+| 6401 91 10 | – – – Other footwear covering the knee with uppers of rubber |
+| 6401 91 90 | – – – Other footwear covering the knee with uppers of plastics |
+| 6401 92 | – – Covering the ankle but not covering the knee: |
+| 6401 92 10 | – – – Other footwear covering the ankle but not covering the knee with uppers of rubber |
+| 6401 92 90 | – – – Other footwear covering the ankle but not covering the knee with uppers of plastics |
+| 6401 99 | – – Other: |
+| 6401 99 10 | – – – Other footwear with uppers of rubber |
+| 6401 99 90 | – – – Other footwear with uppers of plastics |
+| 6402 99 50 | – – – – Slippers and other indoor footwear |
+| 6404 19 90 | – – – Other |
+| 6404 20 | – Footwear with outer soles of leather or composition leather |
+| 6404 20 10 | – – Slippers and other indoor footwear |
+| 6404 20 90 | – – Other |
+| 6405 | Other footwear: |
+| 6405 10 | – With uppers of leather or composition leather: |
+| 6405 10 10 | – – Other footwear with uppers of leather or composition leather, with outer soles of wood or cork |
+| 6405 10 90 | – – Other footwear with uppers of leather or composition leather, with outer soles of other materials |
+| 6405 20 | – With uppers of textile materials: |
+| 6405 20 10 | – – With outer soles of wood or cork |
+|  | – – With outer soles of other materials: |
+| 6405 20 91 | – – – Slippers and other indoor footwear |
+| 6405 20 99 | – – – Other |
+| 6405 90 | – Other |
+| 6405 90 10 | – – With outer soles of rubber, plastics, leather or composition leather |
+| 6405 90 90 | – – With outer soles of other materials |
+| 6406 | Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof: |
+| 6406 10 | – Uppers and parts thereof, other than stiffeners: |
+|  | – – Of leather: |
+| 6406 10 11 | – – – Uppers |
+| 6406 10 19 | – – – Parts of uppers |
+| 6406 10 90 | – – Of other materials |
+| 6904 | Ceramic building bricks, flooring blocks, support or filler tiles and the like: |
+| 6904 10 00 | – Building bricks of ceramics |
+| 6904 90 00 | – Other |
+| 6905 | Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods: |
+| 6905 10 00 | – Roofing tiles |
+| 6905 90 00 | – Other |
+| 6907 | Unglazed ceramic flags and paving, hearth or wall tiles; unglazed ceramic mosaic cubes and the like, whether or not on a backing: |
+| 6908 | Glazed ceramic flags and paving, hearth or wall tiles; glazed ceramic mosaic cubes and the like, whether or not on a backing: |
+| 7213 10 00 | – Containing indentations, ribs, grooves or other deformations produced during the rolling process (ECSC) |
+| 7213 91 10 | – – – Of a type used for concrete reinforcement |
+| 7213 91 20 | – – – Of a type used for tyre cord |
+|  | – – – Other |
+| 7213 91 41 | – – – – Containing by weight 0,06 % or less of carbon |
+| 7213 91 49 | – – – – Containing by weight more than 0,06 % but less than 0,25 % of carbon |
+| 7213 91 70 | – – – – Containing by weight 0,25 % or more but not more than 0,75 % of carbon |
+| 7212 91 90 | – – – – Containing by weight more than 0,75 % of carbon |
+| 7213 99 | – – Other: |
+| 7213 99 10 | – – – Containing by weight less than 0,25 % of carbon |
+| 7214 10 00 | – Forged |
+| 7214 20 00 | – Containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling |
+| 7214 91 10 | – – – Containing by weight less than 0,25 % of carbon |
+| 7214 91 90 | – – – Containing by weight 0,25 % or more of carbon (ECSC) |
+| 7214 99 | – – Other: |
+|  | – – – Containing by weight less than 0,25 % of carbon: |
+| 7214 99 10 | – – – – Of a type used for concrete reinforcement |
+|  | – – – – Other, of circular cross-section measuring in diameter: |
+| 7214 99 31 | – – – – – 80 mm or more |
+| 7214 99 39 | – – – – – Less than 80 mm |
+| 7214 99 50 | – – – – Other |
+|  | – – – Containing by weight 0,25 % or more but less than 0,6 % of carbon: |
+|  | – – – – Of a circular cross-section measuring in diameter: |
+| 7214 99 61 | – – – – – 80 mm or more |
+| 7214 99 69 | – – – – – Less than 80 mm |
+| 7214 99 80 | – – – – Other |
+| 7214 99 90 | – – – Containing by weight 0,6 % or more of carbon |
+| 7306 60 31 | – – – – Not exceeding 2 mm |
+| 7306 60 39 | – – – – Exceeding 2 mm |
+| 7306 60 90 | – – – Of other sections |
+| 7306 90 00 | – Other |
+| 7326 90 97 00 | – – – Other |
+| 7408 11 00 | – – Of which the maximum cross-sectional dimension exceeds 6 mm |
+| 7408 19 | – – Other: |
+| 7408 19 10 | – – – Of which the maximum cross-sectional dimension exceeds 0,5 mm |
+| 7408 19 90 | – – – Of which the maximum cross-sectional dimension does not exceed 0,5 mm |
+| 7413 00 91 | – – Of refined copper |
+| 8544 | Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors: |
+|  | – Winding wire: |
+| 8544 11 | – – Of copper: |
+| 8544 11 10 | – – – Lacquered or enamelled |
+| 8544 11 90 | – – – Other |
+| 8544 19 | – – Other: |
+| 8544 19 10 | – – – Lacquered or enamelled |
+| 8544 19 90 | – – – Other |
+| 8544 20 00 | – Coaxial cable and other coaxial electric conductors |
+| 8544 59 10 | – – – Wire and cables, with individual conductor wires of a diameter exceeding 0,51 mm |
+|  | – – – Other |
+| 8544 59 20 | – – – – For a voltage of 1 000 V |
+| 8544 59 80 | – – – – For a voltage exceeding 80 V but less than 1 000 V |
+| 8544 60 | – Other electric conductors, for a voltage exceeding 1 000 volts: |
+| 8544 60 10 | – – With copper conductors |
+| 8544 60 90 | – – With other conductors |
+| 9403 30 | – Wooden furniture of a kind used in offices: |
+|  | – – Not exceeding 80 cm in height: |
+| 9403 30 11 | – – – Desks |
+| 9403 30 19 | – – – Other |
+|  | – – Exceeding 80 cm in height: |
+| 9403 30 91 | – – – Cupboards with doors, shutters or flaps; filing, card-index and other cabinets |
+| 9403 30 99 | – – – Other |
+| 9403 40 | – Wooden furniture of a kind used in the kitchen: |
+| 9403 40 10 | – – Fitted kitchen units |
+| 9403 40 90 | – – Other |
+| 9403 60 30 | – – Wooden furniture of a kind used in shops |
+
+## ANNEX II(a)
+
+**ALBANIAN TARIFF CONCESSIONS FOR AGRICULTURAL PRIMARY PRODUCTS ORIGINATING IN THE COMMUNITY**
+
+**(referred to in Article 27(3)(a))**
+
+Duty-free for unlimited quantities from the date of entry into force of the Agreement:
+
+| HS code (1) | Description |
+| --- | --- |
+| 0101 10 10 | PURE-BRED BREEDING HORSES |
+| 0101 10 90 | PURE-BRED BREEDING ASSES |
+| 0102 10 10 | PURE-BRED BREEDING HEIFERS ‘FEMALE BOVINES THAT HAVE NEVER CALVED, FOR BREEDING PURPOSES’ |
+| 0102 10 30 | PURE-BRED BREEDING COWS (EXCLUDING HEIFERS) ‘FEMALE BOVINES FOR BREEDING PURPOSES’ |
+| 0102 10 90 | PURE-BRED BREEDING BOVINES (EXCLUDING HEIFERS AND COWS) |
+| 0102 90 29 | LIVE DOMESTIC BOVINES OF A WEIGHT OF > 80 KG AND <= 160 KG (EXCLUDING ANIMALS FOR SLAUGHTER AND PURE-BRED BREEDING ANIMALS) |
+| 0103 10 00 | PURE-BRED BREEDING SWINE |
+| 0103 91 10 | DOMESTIC SWINE, WEIGHING < 50 KG (EXCLUDING PURE-BRED FOR BREEDING) |
+| 0103 91 90 | LIVE NON-DOMESTIC SWINE, WEIGHING < 50 KG |
+| 0103 92 11 | LIVE SOWS, HAVING FARROWED AT LEAST ONCE, WEIGHING >= 160 KG (EXCLUDING PURE-BRED FOR BREEDING) |
+| 0103 92 19 | LIVE DOMESTIC SWINE, WEIGHING >= 50 KG (EXCLUDING SOWS HAVING FARROWED AT LEAST ONCE AND WEIGHING >= 160 KG, AND THOSE PURE-BRED FOR BREEDING) |
+| 0103 92 90 | LIVE NON-DOMESTIC SWINE, WEIGHING >= 50 KG |
+| 0104 10 10 | PURE-BRED SHEEP FOR BREEDING |
+| 0104 10 30 | LAMBS ‘SHEEP UP TO A YEAR OLD’ (EXCLUDING PURE-BRED BREEDING ANIMALS) |
+| 0104 10 80 | LIVE SHEEP (EXCLUDING LAMBS AND PURE-BRED BREEDING ANIMALS) |
+| 0104 20 10 | PURE-BRED BREEDING GOATS |
+| 0104 20 90 | LIVE GOATS (EXCLUDING PURE-BRED FOR BREEDING) |
+| 0105 11 11 | GRANDPARENT AND PARENT FEMALE CHICKS OF ‘POULTRY’ LAYING STOCKS OF A WEIGHT OF <= 185 G |
+| 0105 11 19 | GRANDPARENT AND PARENT FEMALE CHICKS ‘POULTRY’ OF A WEIGHT OF<= 185 G (EXCLUDING LAYING STOCKS) |
+| 0105 11 91 | LIVE LAYING STOCKS ‘POULTRY’ OF A WEIGHT OF <= 185 G (EXCLUDING GRANDPARENT AND PARENT FEMALE CHICKS) |
+| 0105 11 99 | LIVE HENS ‘POULTRY’ OF A WEIGHT OF <= 185 G (EXCLUDING TURKEYS, GUINEA FOWLS, GRANDPARENT AND PARENT FEMALE CHICKS AND LAYING STOCKS) |
+| 0105 12 00 | LIVE DOMESTIC TURKEYS, WEIGHING <= 185 G |
+| 0105 19 20 | LIVE DOMESTIC GEESE, WEIGHING <= 185 G |
+| 0105 19 90 | LIVE DOMESTIC DUCKS AND GUINEA FOWLS, WEIGHING =< 185 G |
+| 0105 92 00 | LIVE FOWLS OF THE SPECIES GALLUS DOMESTICUS, WEIGHING > 185 G BUT <= 2 KG |
+| 0106 11 00 | LIVE PRIMATES |
+| 0106 19 10 | LIVE DOMESTIC RABBITS |
+| 0106 19 90 | LIVE MAMMALS (EXCLUDING PRIMATES, WHALES, DOLPHINS AND PORPOISES ‘MAMMALS OF THE ORDER CETACEA’, MANATEES AND DUGONGS ‘MAMMALS OF THE ORDER SIRENIA’, HORSES, ASSES, MULES, HINNIES, BOVINES, PIGS, SHEEP, GOATS AND DOMESTIC RABBITS) |
+| 0106 20 00 | LIVE REPTILES ‘FOR EXAMPLE, SNAKES, TURTLES, ALLIGATORS, CAYMANS, IGUANAS, GAVIALS AND LIZARDS’ |
+| 0106 31 00 | LIVE BIRDS OF PREY |
+| 0106 32 00 | LIVE PSITTACIFORMES ‘INCLUDING PARROTS, PARAKEETS, MACAWS AND COCKATOOS’ |
+| 0106 39 10 | LIVE PIGEONS |
+| 0106 39 90 | LIVE BIRDS (EXCLUDING BIRDS OF PREY, PSITTACIFORMES ‘INCLUDING PARROTS, PARAKEETS, MACAWS AND COCKATOOS’ AND PIGEONS) |
+| 0106 90 00 | LIVE ANIMALS (EXCLUDING MAMMALS, REPTILES, BIRDS, FISH, CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES AND CULTURES OF MICRO-ORGANISMS, ETC.) |
+| 0205 00 11 | MEAT OF HORSES, FRESH OR CHILLED |
+| 0205 00 19 | MEAT OF HORSES, FROZEN |
+| 0205 00 20 | FRESH OR CHILLED MEAT |
+| 0205 00 80 | FROZEN MEAT OF HORSES |
+| 0205 00 90 | MEAT OF ASSES, MULES OR HINNIES, FRESH, CHILLED OR FROZEN |
+| 0206 10 10 | FRESH OR CHILLED EDIBLE BOVINE OFFAL FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS |
+| 0206 29 10 | FROZEN EDIBLE BOVINE OFFAL FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS (EXCLUDING TONGUES AND LIVERS) |
+| 0206 30 00 | FRESH OR CHILLED EDIBLE |
+| 0206 41 00 | FROZEN EDIBLE LIVERS |
+| 0206 80 10 | FRESH OR CHILLED EDIBLE OFFAL OF SHEEP, GOATS, HORSES, ASSES, MULES AND HINNIES, FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS |
+| 0206 90 10 | FROZEN EDIBLE OFFAL OF SHEEP, GOATS, HORSES, MULES AND HINNIES, FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS |
+| 0404 10 02 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF < 1,5 % |
+| 0404 10 04 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 1,5 AND <= 27 % |
+| 0404 10 06 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 27 % |
+| 0404 10 12 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF <= 1,5 % |
+| 0404 10 14 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 1,5 % AND <= 27 % |
+| 0404 10 16 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITHOUT ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 27 % |
+| 0407 00 11 | TURKEY OR GOOSE EGGS FOR HATCHING |
+| 0407 00 19 | POULTRY EGGS FOR HATCHING (EXCLUDING TURKEY OR GOOSE) |
+| 0410 00 00 | TURTLES ‘EGGS, BIRDS’ NESTS AND OTHER EDIBLE PRODUCTS OF ANIMAL ORIGIN N.E.S. |
+| 0504 00 00 | GUTS, BLADDERS AND STOMACHS OF ANIMALS OTHER THAN FISH, WHOLE AND PIECES THEREOF |
+| 0601 10 10 | DORMANT HYACINTH BULBS |
+| 0601 10 20 | DORMANT NARCISSI BULBS |
+| 0601 10 30 | DORMANT TULIP BULBS |
+| 0601 10 40 | DORMANT GLADIOLI BULBS |
+| 0601 10 90 | DORMANT BULBS, TUBERS, TUBEROUS ROOTS, CORMS, CROWNS AND RHIZOMES (EXCLUDING THOSE USED FOR HUMAN CONSUMPTION, HYACINTH, NARCISSI, TULIP, GLADIOLI AND CHICORY PLANTS AND ROOTS) |
+| 0601 20 10 | CHICORY PLANTS AND ROOTS (EXCLUDING CHICORY ROOTS OF THE VARIETY CICHORIUM INTYBUS SATIVUM) |
+| 0601 20 30 | ORCHID, HYACINTH, NARCISSI AND TULIP BULBS, IN GROWTH OR IN FLOWER |
+| 0601 20 90 | BULBS, TUBERS, TUBEROUS ROOTS, CORMS, CROWNS AND RHIZOMES, IN GROWTH OR IN FLOWER (EXCLUDING THOSE USED FOR HUMAN CONSUMPTION, ORCHIDS, HYACINTHS, NARCISSI, TULIPS AND CHICORY PLANTS AND ROOTS) |
+| 0602 10 90 | UNROOTED CUTTINGS AND SLIPS (EXCLUDING VINES) |
+| 0602 20 90 | TREES, SHRUBS AND BUSHES, GRAFTED OR NOT, OF KINDS WHICH BEAR EDIBLE FRUIT OR NUTS (EXCLUDING VINE SLIPS) |
+| 0602 30 00 | RHODODENDRONS ‘AZALEAS’, GRAFTED OR NOT |
+| 0602 40 10 | ROSES, GRAFTED OR NOT |
+| 0602 40 90 | BUDDED OR GRAFTED ROSES |
+| 0602 90 10 | MUSHROOM SPAWN |
+| 0602 90 20 | PINEAPPLE PLANTS |
+| 0602 90 30 | VEGETABLE AND STRAWBERRY PLANTS |
+| 0602 90 41 | LIVE FOREST TREES |
+| 0602 90 45 | OUTDOOR ROOTED CUTTINGS AND YOUNG PLANTS OF TREES, SHRUBS AND BUSHES (EXCLUDING FRUIT, NUT AND FOREST TREES) |
+| 0602 90 49 | OUTDOOR TREES, SHRUBS AND BUSHES, INCLUDING THEIR ROOTS (EXCLUDING CUTTINGS, SLIPS AND YOUNG PLANTS, AND FRUIT, NUT AND FOREST TREES) |
+| 0602 90 51 | PERENNIAL OUTDOOR PLANTS |
+| 0602 90 59 | LIVE PERENNIAL OUTDOOR PLANTS INCLUDING THEIR ROOTS N.E.S. |
+| 0602 90 70 | INDOOR ROOTED CUTTINGS AND YOUNG PLANTS (EXCLUDING CACTI) |
+| 0602 90 91 | INDOOR FLOWERING PLANTS WITH BUDS OR FLOWERS (EXCLUDING CACTI) |
+| 0602 90 99 | LIVE INDOOR PLANTS AND CACTI (EXCLUDING ROOTED CUTTINGS, YOUNG PLANTS AND FLOWERING PLANTS WITH BUDS OR FLOWERS) |
+| 0701 10 00 | SEED POTATOES |
+| 0703 20 00 | GARLIC, FRESH OR CHILLED |
+| 0705 21 00 | FRESH OR CHILLED WITLOOF CHICORY |
+| 0706 90 30 | FRESH OR CHILLED HORSERADISH |
+| 0709 51 00 | FRESH OR CHILLED MUSHROOMS OF THE GENUS ‘AGARICUS’ |
+| 0709 59 10 | FRESH OR CHILLED CHANTERELLES |
+| 0709 59 30 | FRESH OR CHILLED FLAP MUSHROOMS |
+| 0709 59 90 | FRESH OR CHILLED EDIBLE MUSHROOMS (EXCLUDING CHANTERELLES, FLAP MUSHROOMS, MUSHROOMS OF THE GENUS ‘AGARICUS’ AND TRUFFLES) |
+| 0711 51 00 | MUSHROOMS OF THE GENUS ‘AGARICUS’, PROVISIONALLY PRESERVED, FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0711 90 10 | FRUITS OF GENUS CAPSICUM OR PIMENTA PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION (EXCLUDING SWEET PEPPER) |
+| 0711 90 50 | ONIONS PROVISIONALLY PRESERVED, FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0711 90 80 | VEGETABLES PROVISIONALLY PRESERVED, FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION (EXCLUDING OLIVES, CAPERS, CUCUMBERS AND GHERKINS, MUSHROOMS, TRUFFLES) |
+| 0712 31 00 | DRIED MUSHROOMS OF THE GENUS ‘AGARICUS’, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 32 00 | DRIED WOOD EARS ‘AURICULARIA SPP.’, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 33 00 | DRIED JELLY FUNGI ‘TREMELLA SPP.’, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 39 00 | DRIED MUSHROOMS AND TRUFFLES, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED (EXCLUDING MUSHROOMS OF THE GENUS ‘AGARICUS’, WOOD EARS ‘AURICULARIA SPP.’ AND JELLY FUNGI ‘TREMELLA SPP.’) |
+| 0713 10 10 | PEAS, “PISUM SATIVUM”, DRIED AND SHELLED, FOR SOWING |
+| 0713 33 10 | DRIED, SHELLED KIDNEY BEANS ‘PHASEOLUS VULGARIS’, FOR SOWING |
+| 0713 40 00 | DRIED, SHELLED LENTILS, WHETHER OR NOT SKINNED OR SPLIT |
+| 0713 50 00 | DRIED, SHELLED BROAD BEANS ‘VICIA FABA VAR. MAJOR’ AND HORSE BEANS ‘VICIA FABA VAR. EQUINA AND VICIA FABA VAR. MINOR’, WHETHER OR NOT SKINNED OR SPLIT |
+| 0713 90 00 | DRIED, SHELLED LEGUMINOUS VEGETABLES |
+| 0713 90 10 | DRIED, SHELLED LEGUMINOUS VEGETABLES, FOR SOWING (EXCLUDING PEAS, CHICKPEAS, BEANS, LENTILS, BROAD BEANS AND HORSE BEANS) |
+| 0713 90 90 | DRIED, SHELLED LEGUMINOUS VEGETABLES, WHETHER OR NOT SKINNED OR SPLIT (EXCLUDING FOR SOWING AND PEAS, CHICKPEAS, BEANS, LENTILS, BROAD BEANS AND HORSE BEANS) |
+| 0714 10 10 | PELLETS OF MANIOC FLOUR AND MEAL |
+| 0714 10 91 | FRESH AND WHOLE OR WITHOUT SKIN AND FROZEN MANIOC, WHETHER OR NOT SLICED, FOR HUMAN CONSUMPTION, IN PACKINGS =< 28 KG |
+| 0714 10 99 | FRESH OR DRIED WHOLE OR SLICED MANIOC (EXCLUDING 0714 10 10 AND 0714 10 91 ) |
+| 0714 20 10 | SWEET POTATOES, FRESH, WHOLE, FOR HUMAN CONSUMPTION |
+| 0714 20 90 | SWEET POTATOES, DRIED |
+| 0714 90 11 | FRESH AND WHOLE OR WITHOUT SKIN AND FROZEN ARROWROOT, SALEP AND SIMILAR ROOTS AND TUBERS (EXCLUDING MANIOC AND SWEET POTATOES) WITH HIGH STARCH CONTENT, WHETHER OR NOT SLICED, FOR HUMAN CONSUMPTION, IN PACKINGS =< 28 KG |
+| 0714 90 19 | ARROWROOT, SALEP AND SIMILAR ROOTS AND TUBERS (EXCLUDING MANIOC AND SWEET POTATOES) WITH HIGH STARCH CONTENT, (EXCLUDING 0714 90 11 ) |
+| 0714 90 90 | ROOTS AND TUBERS WITH HIGH STARCH OR INULIN CONTENT (EXCLUDING 0714 10 10 TO 0714 90 10 ) |
+| 0801 22 00 | FRESH OR DRIED BRAZIL NUTS, SHELLED |
+| 0802 11 10 | FRESH OR DRIED BITTER ALMONDS IN SHELL |
+| 0802 11 90 | FRESH OR DRIED ALMONDS IN SHELL (EXCLUDING BITTER) |
+| 0802 12 10 | FRESH OR DRIED BITTER ALMONDS, SHELLED |
+| 0802 12 90 | FRESH OR DRIED ALMONDS, SHELLED (EXCLUDING BITTER) |
+| 0802 90 20 | FRESH OR DRIED ARECA ‘BETEL’, COLA AND PECANS, WHETHER OR NOT SHELLED OR PEELED |
+| 0802 90 50 | PINE NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED |
+| 0802 90 60 | MACADAMIA NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED |
+| 0803 00 90 | DRIED BANANAS, INCLUDING PLANTAINS |
+| 0804 40 00 | FRESH OR DRIED AVOCADOS |
+| 0805 40 00 | FRESH OR DRIED GRAPEFRUIT |
+| 0805 90 00 | FRESH OR DRIED CITRUS FRUIT (EXCLUDING ORANGES, LEMONS ‘CITRUS LIMON, CITRUS LIMONUM’, LIMES ‘CITRUS AURANTIFOLIA, CITRUS LATIFOLIA’, GRAPEFRUIT, MANDARINS, INCLUDING TANGERINES AND SATSUMAS, CLEMENTINES, WILKINGS AND SIMILAR CITRUS HYBRIDS) |
+| 0806 20 11 | CURRANTS, IN IMMEDIATE CONTAINERS OF NET CAPACITY OF =< 2 KG |
+| 0806 20 12 | SULTANAS, IN IMMEDIATE CONTAINERS OF NET CAPACITY =< 2 KG |
+| 0806 20 18 | DRIED GRAPES, (EXCLUDING CURRANTS AND SULTANAS), IN IMMEDIATE CONTAINERS OF NET CAPACITY =< 2 KG |
+| 0806 20 91 | CURRANTS, IN IMMEDIATE CONTAINERS OF NET CAPACITY OF > 2 KG |
+| 0806 20 92 | SULTANAS, IN IMMEDIATE CONTAINERS OF NET CAPACITY > 2 KG |
+| 0806 20 98 | DRIED GRAPES, (EXCLUDING CURRANTS AND SULTANAS), IN IMMEDIATE CONTAINERS OF NET CAPACITY > 2 KG |
+| 0810 30 30 | FRESH RED CURRANTS |
+| 0810 40 10 | FRESH COWBERRIES, FOXBERRIES OR MOUNTAIN CRANBERRIES |
+| 0810 60 00 | FRESH DURIANS |
+| 0811 20 11 | RASPBERRIES, BLACKBERRIES, MULBERRIES, LOGANBERRIES, BLACK, WHITE OR RED CURRANTS AND GOOSEBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, SWEETENED, WITH SUGAR CONTENT OF > 13 %, FROZEN |
+| 0811 20 19 | RASPBERRIES, BLACKBERRIES, MULBERRIES, LOGANBERRIES, BLACK, WHITE OR RED CURRANTS AND GOOSEBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, SWEETENED, WITH SUGAR CONTENT OF =< 13 %, FROZEN |
+| 0811 20 39 | BLACK CURRANTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 90 11 | GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, PITAHAYA, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, UNCOOKED OR COOKED |
+| 0811 90 31 | GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, PITAHAYA, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, UNCOOKED OR COOKED |
+| 0812 90 10 | APRICOTS, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 30 | PAWPAWS, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 40 | FRUIT OF SPECIES VACCINIUM MYRTILLUS, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 50 | BLACK CURRANTS, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 60 | RASPBERRIES, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 70 | GUAVAS, MANGOES, MANGOSTEENS, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, PITAHAYA, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, UNSUITABLE FOR IMMEDIATE CONSUMPTION |
+| 0813 50 19 | MIXTURES OF DRIED APRICOTS, APPLES, PEACHES, INCLUDING NECTARINES, PEARS, PAWPAWS, OR OTHER DRIED FRUITS N.E.S., INCLUDING PRUNES (EXCLUDING MIXTURES OF NUTS) |
+| 0813 50 31 | MIXTURES EXCLUSIVELY OF COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS |
+| 0813 50 39 | MIXTURES EXCLUSIVELY OF EDIBLE NUTS IN HEADINGS 0801 AND 0802 (EXCLUDING COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS |
+| 0813 50 91 | MIXTURES OF DRIED FRUITS N.E.S. (EXCLUDING PRUNES OR FIGS) |
+| 0814 00 00 | PEEL OF CITRUS FRUIT OR MELONS, INCLUDING WATERMELONS, FRESH, FROZEN, DRIED OR PROVISIONALLY PRESERVED IN BRINE, OR IN WATER WITH OTHER ADDITIVES |
+| 0901 90 10 | COFFEE HUSKS AND SKINS |
+| 0908 10 00 | NUTMEG |
+| 0908 20 00 | MACE |
+| 0908 30 00 | CARDAMOMS |
+| 1001 90 10 | SPELT FOR SOWING |
+| 1006 10 10 | RICE IN HUSK FOR SOWING |
+| 1006 10 21 | ROUND GRAIN RICE IN HUSK, PARBOILED |
+| 1006 10 23 | MEDIUM GRAIN RICE IN HUSK, PARBOILED |
+| 1006 10 25 | LONG GRAIN RICE IN HUSK, LENGTH/WIDTH RATIO > 2 BUT < 3, PARBOILED |
+| 1006 10 27 | LONG GRAIN RICE IN HUSK, LENGTH/WIDTH RATIO >=3, PARBOILED |
+| 1006 10 92 | ROUND GRAIN RICE IN HUSK, (EXCLUDING PARBOILED AND THAT FOR SOWING) |
+| 1006 10 94 | MEDIUM GRAIN RICE IN HUSK, (EXCLUDING PARBOILED AND THAT FOR SOWING) |
+| 1006 10 96 | LONG GRAIN RICE IN HUSK, LENGTH/WIDTH RATIO > 2 BUT < 3, (EXCLUDING PARBOILED AND THAT FOR SOWING) |
+| 1006 10 98 | LONG GRAIN RICE IN HUSK, LENGTH/WIDTH RATIO >=3, (EXCLUDING PARBOILED AND THAT FOR SOWING) |
+| 1006 20 11 | ROUND GRAIN HUSKED BROWN RICE, PARBOILED |
+| 1006 20 13 | MEDIUM GRAIN HUSKED BROWN RICE, PARBOILED |
+| 1006 20 15 | LONG GRAIN HUSKED BROWN RICE, LENGTH/WIDTH RATIO > 2 BUT < 3, PARBOILED |
+| 1006 20 17 | LONG GRAIN HUSKED BROWN RICE, LENGTH/WIDTH RATIO >=3, PARBOILED |
+| 1006 20 92 | ROUND GRAIN HUSKED BROWN RICE, (EXCLUDING PARBOILED) |
+| 1006 20 94 | MEDIUM GRAIN HUSKED BROWN RICE, (EXCLUDING PARBOILED) |
+| 1006 20 96 | LONG GRAIN HUSKED BROWN RICE, LENGTH/WIDTH RATIO > 2 BUT < 3, (EXCLUDING PARBOILED) |
+| 1006 20 98 | LONG GRAIN HUSKED BROWN RICE, LENGTH/WIDTH RATIO >=3 (EXCLUDING PARBOILED) |
+| 1006 30 21 | SEMI-MILLED ROUND GRAIN RICE, PARBOILED |
+| 1006 30 23 | SEMI-MILLED MEDIUM GRAIN RICE, PARBOILED |
+| 1006 30 25 | SEMI-MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO > 2 BUT < 3, PARBOILED |
+| 1006 30 27 | SEMI-MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO >=3, PARBOILED |
+| 1006 30 42 | SEMI-MILLED ROUND GRAIN RICE, (EXCLUDING PARBOILED) |
+| 1006 30 44 | SEMI-MILLED MEDIUM GRAIN RICE, (EXCLUDING PARBOILED) |
+| 1006 30 46 | SEMI-MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO > 2 BUT < 3, (EXCLUDING PARBOILED) |
+| 1006 30 48 | SEMI-MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO > 3, (EXCLUDING PARBOILED) |
+| 1006 30 61 | WHOLLY MILLED ROUND GRAIN RICE, PARBOILED |
+| 1006 30 63 | WHOLLY MILLED MEDIUM GRAIN RICE, PARBOILED |
+| 1006 30 65 | WHOLLY MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO > 2 BUT < 3, PARBOILED |
+| 1006 30 67 | WHOLLY MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO >=3, PARBOILED |
+| 1006 30 92 | WHOLLY MILLED ROUND GRAIN RICE, (EXCLUDING PARBOILED) |
+| 1006 30 94 | WHOLLY MILLED MEDIUM GRAIN RICE, (EXCLUDING PARBOILED) |
+| 1006 30 96 | WHOLLY MILLED LONG GRAIN RICE, LENGTH/WIDTH > 2 BUT < 3, (EXCLUDING PARBOILED) |
+| 1006 30 98 | WHOLLY MILLED LONG GRAIN RICE, LENGTH/WIDTH RATIO >= 3, (EXCLUDING PARBOILED) |
+| 1006 40 00 | BROKEN RICE |
+| 1007 00 10 | HYBRID GRAIN SORGHUM, FOR SOWING |
+| 1007 00 90 | GRAIN SORGHUM (EXCLUDING HYBRID FOR SOWING) |
+| 1008 10 00 | BUCKWHEAT |
+| 1008 20 00 | MILLET (EXCLUDING GRAIN SORGHUM) |
+| 1008 30 00 | CANARY SEED |
+| 1008 90 10 | TRITICALE |
+| 1008 90 90 | CEREALS (EXCLUDING WHEAT AND MESLIN, RYE, BARLEY, OATS, MAIZE, RICE, BUCKWHEAT, MILLET, CANARY SEED, TRITICALE AND GRAIN SORGHUM) |
+| 1102 90 30 | OAT FLOUR |
+| 1103 19 10 | RYE GROATS AND MEAL |
+| 1103 19 30 | BARLEY GROATS AND MEAL |
+| 1103 19 40 | GROATS AND MEAL OF OATS |
+| 1103 19 50 | RICE GROATS AND MEAL |
+| 1103 20 10 | RYE PELLETS |
+| 1103 20 20 | BARLEY PELLETS |
+| 1103 20 30 | PELLETS OF OATS |
+| 1103 20 40 | MAIZE PELLETS |
+| 1103 20 50 | RICE PELLETS |
+| 1103 20 60 | WHEAT PELLETS |
+| 1103 20 90 | CEREAL PELLETS (EXCLUDING RYE, BARLEY, OATS, MAIZE, RICE AND WHEAT) |
+| 1104 12 10 | ROLLED OAT GRAINS |
+| 1104 19 30 | ROLLED OR FLAKED RYE GRAINS |
+| 1104 19 61 | ROLLED BARLEY GRAINS |
+| 1104 19 69 | FLAKED BARLEY GRAINS |
+| 1104 19 91 | FLAKED RICE GRAINS |
+| 1104 22 20 | OAT GRAINS, SHELLED OR HUSKED (EXCLUDING CLIPPED) |
+| 1104 22 30 | HULLED, SLICED OR KIBBLED OAT GRAINS |
+| 1104 22 50 | PEARLED OAT GRAINS |
+| 1104 22 90 | KIBBLED OAT GRAINS |
+| 1104 22 98 | OAT GRAINS (EXCLUDING CLIPPED, HULLED [SHELLED OR HUSKED] AND SLICED OR KIBBLED (‘GRUTZE’ OR ‘GRUTTEN’], PEARLED AND NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 23 30 | PEARLED MAIZE GRAINS |
+| 1104 23 90 | KIBBLED MAIZE GRAINS |
+| 1104 29 01 | HULLED [SHELLED OR HUSKED] BARLEY GRAINS |
+| 1104 29 03 | HULLED AND SLICED OR KIBBLED BARLEY GRAINS (‘GRUTZE’ OR ‘GRUTTEN’] |
+| 1104 29 05 | PEARLED BARLEY GRAINS |
+| 1104 29 07 | BARLEY GRAINS, ONLY KIBBLED |
+| 1104 29 09 | BARLEY GRAINS (OTHER THAN HULLED [SHELLED OR HUSKED] AND SLICED OR KIBBLED (‘GRUTZE’ OR ‘GRUTTEN’], PEARLED OR NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 29 11 | HULLED, SHELLED OR HUSKED WHEAT GRAINS |
+| 1104 29 15 | HULLED, SHELLED OR HUSKED RYE GRAINS |
+| 1104 29 19 | HULLED, SHELLED OR HUSKED CEREAL GRAINS, (EXCLUDING BARLEY, OATS, MAIZE, RICE, WHEAT OR RYE) |
+| 1104 29 31 | PEARLED WHEAT GRAINS |
+| 1104 29 35 | PEARLED RYE GRAINS |
+| 1104 29 51 | CEREAL GRAINS OF WHEAT, NOT OTHERWISE WORKED THAN KIBBLED |
+| 1104 29 55 | CEREAL GRAINS OF RYE, NOT OTHERWISE WORKED THAN KIBBLED |
+| 1104 29 59 | CEREAL GRAINS, NOT OTHERWISE WORKED THAN KIBBLED (OTHER THAN BARLEY, OATS, MAIZE, WHEAT AND RYE) |
+| 1104 29 81 | CEREAL GRAINS OF WHEAT (OTHER THAN HULLED, SLICED OR KIBBLED, PEARLED OR NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 29 85 | CEREAL GRAINS OF RYE (OTHER THAN HULLED, SLICED OR KIBBLED, PEARLED OR NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 30 10 | WHEAT GERM, WHOLE, ROLLED, FLAKED OR GROUND |
+| 1105 10 00 | POTATO FLOUR AND MEAL |
+| 1105 20 00 | FLAKES, GRANULES AND PELLETS OF POTATOES |
+| 1106 10 00 | FLOUR AND MEAL OF PEAS, BEANS, LENTILS AND OTHER DRIED LEGUMINOUS VEGETABLES OF HEADING 0713 |
+| 1106 20 10 | DENATURED FLOUR AND MEAL OF SAGO OR OF MANIOC, ARROWROOT, SALEP, JERUSALEM ARTICHOKES, SWEET POTATOES AND SIMILAR ROOTS AND TUBERS WITH HIGH STARCH OR INULIN CONTENT |
+| 1106 20 90 | FLOUR AND MEAL OF SAGO AND OF ROOT OR TUBERS OF MANIOC, ARROWROOT, SALEP, JERUSALEM ARTICHOKES, SWEET POTATOES AND SIMILAR ROOTS AND TUBERS WITH HIGH STARCH OR INULIN CONTENT (EXCLUDING DENATURED) |
+| 1106 30 10 | FLOUR, MEAL AND POWDER OF BANANAS |
+| 1106 30 90 | FLOUR, MEAL AND POWDER OF PRODUCTS OF CHAPTER 8 ‘ALL TYPES OF EDIBLE FRUIT’ (EXCLUDING BANANAS) |
+| 1107 10 11 | WHEAT MALT IN FLOUR FORM (EXCLUDING ROASTED) |
+| 1107 10 19 | WHEAT MALT (EXCLUDING FLOUR AND ROASTED) |
+| 1107 10 91 | MALT IN FLOUR FORM (EXCLUDING ROASTED AND WHEAT) |
+| 1107 10 99 | MALT (EXCLUDING ROASTED, WHEAT AND FLOUR) |
+| 1107 20 00 | ROASTED MALT |
+| 1108 19 10 | RICE STARCH |
+| 1108 20 00 | INULIN |
+| 1109 00 00 | WHEAT GLUTEN, WHETHER OR NOT DRIED |
+| 1201 00 10 | SOYA BEANS FOR SOWING |
+| 1201 00 90 | SOYA BEANS (EXCLUDING FOR SOWING) |
+| 1202 10 10 | GROUNDNUTS IN SHELL FOR SOWING |
+| 1203 00 00 | COPRA |
+| 1204 00 10 | LINSEED FOR SOWING |
+| 1204 00 90 | LINSEED (EXCLUDING FOR SOWING) |
+| 1205 10 10 | LOW ERUCIC ACID RAPE OR COLZA SEEDS ‘YIELDING A FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 % AND YIELDING A SOLID COMPONENT OF GLUCOSINOLATES OF < 30 MICROMOLES/G’, FOR SOWING |
+| 1205 10 90 | LOW ERUCIC RAPE OR COLZA SEEDS ‘YIELDING A FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 % AND YIELDING A SOLID COMPONENT OF GLUCOSINOLATES OF < 30 MICROMOLES/G’, WHETHER OR NOT BROKEN (EXCLUDING FOR SOWING) |
+| 1205 90 00 | HIGH ERUCIC RAPE OR COLZA SEEDS ‘YIELDING A FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 % AND YIELDING A SOLID COMPONENT OF GLUCOSINOLATES OF >= 30 MICROMOLES/G’, WHETHER OR NOT BROKEN |
+| 1206 00 10 | SUNFLOWER SEEDS FOR SOWING |
+| 1206 00 91 | SUNFLOWER SEEDS, WHETHER OR NOT SHELLED AND IN GREY AND WHITE STRIPED SHELL (EXCLUDING FOR SOWING) |
+| 1206 00 99 | SUNFLOWER SEEDS, WHETHER OR NOT BROKEN (EXCLUDING FOR SOWING, WHETHER OR NOT SHELLED AND IN GREY AND WHITE STRIPED SHELL) |
+| 1207 10 10 | PALM NUTS AND KERNELS FOR SOWING |
+| 1207 10 90 | PALM NUTS AND KERNELS (EXCLUDING FOR SOWING) |
+| 1207 20 10 | COTTON SEEDS FOR SOWING |
+| 1207 20 90 | COTTON SEEDS (EXCLUDING FOR SOWING) |
+| 1207 30 10 | CASTOR OIL SEEDS FOR SOWING |
+| 1207 30 90 | CASTOR OIL SEEDS (EXCLUDING FOR SOWING) |
+| 1207 40 10 | SESAMUM SEEDS FOR SOWING |
+| 1207 40 90 | SESAMUM SEEDS (EXCLUDING FOR SOWING) |
+| 1207 50 10 | MUSTARD SEEDS FOR SOWING |
+| 1207 50 90 | MUSTARD SEEDS (EXCLUDING FOR SOWING) |
+| 1207 60 10 | SAFFLOWER SEEDS FOR SOWING |
+| 1207 60 90 | SAFFLOWER SEEDS (EXCLUDING FOR SOWING) |
+| 1207 91 10 | POPPY SEEDS FOR SOWING |
+| 1207 91 90 | POPPY SEEDS (EXCLUDING FOR SOWING) |
+| 1207 99 20 | OIL SEEDS AND OLEAGINOUS FRUITS, FOR SOWING (EXCLUDING EDIBLE NUTS, OLIVES, SOYA BEANS, GROUNDNUTS, COPRA, LINSEED, RAPE OR COLZA SEEDS, SUNFLOWER SEEDS, PALM NUTS AND KERNELS, COTTON SEEDS, CASTOR OIL SEEDS, SESAMUM SEEDS, MUSTARD SEEDS, SAFFLOWER SEEDS A |
+| 1207 99 91 | HEMP SEEDS (EXCLUDING FOR SOWING) |
+| 1207 99 98 | OIL SEEDS AND OLEAGINOUS FRUITS, WHETHER OR NOT BROKEN (EXCLUDING FOR SOWING AND EDIBLE NUTS, OLIVES, SOYA BEANS, GROUNDNUTS, COPRA, LINSEED, RAPE OR COLZA SEEDS, SUNFLOWER SEEDS, PALM NUTS AND KERNELS, COTTON, CASTOR OIL, SESAMUM, MUSTARD, SAFFLOWER) |
+| 1208 10 00 | SOYA BEAN FLOUR AND MEAL |
+| 1208 90 00 | FLOURS AND MEAL OF OIL SEEDS OR OLEAGINOUS FRUIT (EXCLUDING SOYA AND MUSTARD) |
+| 1209 10 00 | SUGAR BEET SEED, FOR SOWING |
+| 1209 21 00 | ALFALFA SEED FOR SOWING |
+| 1209 22 10 | RED CLOVER (TRIFOLIUM PRATENSE L.) SEED FOR SOWING |
+| 1209 22 80 | CLOVER (TRIFOLIUM SPP.) SEED FOR SOWING (EXCLUDING RED CLOVER (TRIFOLIUM PRATENSE L.) |
+| 1209 23 11 | MEADOW FESCUE SEED FOR SOWING |
+| 1209 23 15 | RED FESCUE SEED FOR SOWING |
+| 1209 23 80 | FESQUE SEED, FOR SOWING (EXCLUDING MEADOW FESQUE ‘FESTUCA PRATENSIS HUDS’ SEED AND RED FESQUE ‘FESTUCA RUBRA L.’ SEED) |
+| 1209 24 00 | KENTUCKY BLUE GRASS SEED FOR SOWING |
+| 1209 25 10 | ITALIAN RYEGRASS, INCLUDING WESTERWOLDS (LOLIUM MULTIFLORUM L.), SEED FOR SOWING |
+| 1209 25 90 | PERENNIAL RYE GRASS (LOLIUM PERENNE L.), SEED FOR SOWING |
+| 1209 26 00 | TIMOTHY GRASS SEED FOR SOWING |
+| 1209 29 10 | VETCH SEED, SEEDS OF THE GENUS POA PALUSTRIS L. AND POA TRIVIALIS L., SEEDS OF COCKSFOOT GRASS ‘DACTYLIS GLOMERATA L.’, AND SEEDS OF BENT GRASS ‘AGROSTIS’, FOR SOWING |
+| 1209 29 50 | LUPINE SEED FOR SOWING |
+| 1209 29 60 | BEET SEED FOR SOWING (EXCLUDING SUGAR BEET SEED) |
+| 1209 29 80 | SEEDS OF FORAGE PLANTS, FOR SOWING (EXCLUDING WHEAT, WHEAT SEED, LUCERNE SEED, CLOVER ‘TRIFOLIUM SPP.’ SEED, FESQUE SEED, KENTUCKY BLUE GRASS ‘POA PRATENSIS L.’ SEED, RYE GRASS ‘LOLIUM MULTIFLORUM LAM., LOLIUM PERENNE L.’ SEED, TIMOTHY GRASS SEED) |
+| 1209 30 00 | SEEDS OF HERBACEOUS PLANTS CULTIVATED MAINLY FOR FLOWERS, FOR SOWING |
+| 1209 91 10 | KOHLRABI SEED FOR SOWING |
+| 1209 91 30 | SALAT BEET SEED OR BEET |
+| 1209 91 90 | VEGETABLE SEED FOR SOWING (EXCLUDING KOHLRABI) |
+| 1209 99 10 | FOREST TREE SEED FOR SOWING |
+| 1209 99 91 | SEEDS OF NON-HERBACEOUS PLANTS CULTIVATED MAINLY FOR FLOWERS, FOR SOWING |
+| 1209 99 99 | SEEDS, FRUIT AND SPORES, FOR SOWING (EXCLUDING LEGUMINOUS VEGETABLES AND SWEETCORN, COFFEE, TEA, MATE AND SPICES, CEREALS, OIL SEEDS AND OLEAGINOUS FRUITS, BEETS, FORAGE PLANTS, VEGETABLE SEEDS, FOREST TREE SEEDS |
+| 1210 10 00 | HOP CONES, FRESH OR DRIED (EXCLUDING GROUND, POWDERED OR PELLETS) |
+| 1210 20 10 | HOP CONES, GROUND, POWDERED OR IN THE FORM OF PELLETS, WITH HIGHER LUPULIN CONTENT; LUPULIN |
+| 1210 20 90 | HOP CONES, GROUND POWDERED OR IN THE FORM OF PELLETS (EXCLUDING WITH HIGHER LUPULIN CONTENT) |
+| 1211 90 97 | PLANTS AND PARTS OF PLANTS |
+| 1212 10 10 | LOCUST BEANS, FRESH OR DRIED, WHETHER OR NOT GROUND |
+| 1212 10 91 | LOCUST BEAN SEED, FRESH OR DRIED (EXCLUDING DECORTICATED, CRUSHED OR GROUND) |
+| 1212 10 99 | LOCUST BEAN SEED, DECORTICATED, CRUSHED OR GROUND, FRESH OR DRIED |
+| 1212 30 00 | APRICOT, PEACH OR PLUM STONES AND KERNELS |
+| 1212 91 20 | SUGAR BEET, DRIED, WHETHER OR NOT GROUND |
+| 1212 91 80 | SUGAR BEET, FRESH, CHILLED OR FROZEN |
+| 1212 99 20 | SUGAR CANE, FRESH, CHILLED, FROZEN OR DRIED, WHETHER OR NOT GROUND |
+| 1212 99 80 | FRUIT STONES AND KERNELS AND OTHER VEGETABLE PRODUCTS, INCLUDING UNROASTED CHICORY ROOTS OF THE VARIETY ‘CICHORIUM INTYBUS SATIVUM’, OF A KIND USED PRIMARILY FOR HUMAN CONSUMPTION, N.E.S. |
+| 1213 00 00 | CEREAL STRAW AND HUSKS, UNPREPARED, WHETHER OR NOT CHOPPED, GROUND, PRESSED OR IN THE FORM OF PELLETS |
+| 1214 10 00 | ALFALFA MEAL AND PELLETS |
+| 1214 90 10 | SWEDES, MANGOLDS, FODDER ROOTS |
+| 1214 90 90 | HAY, LUCERNE, CLOVER, SAINFOIN, |
+| 1214 90 91 | PELLETS OF HAY, CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS (EXCLUDING SWEDES, MANGOLDS AND ROOTS USED FOR FORAGE) |
+| 1214 90 99 | HAY, LUCERNE, CLOVER, SAINFOIN, FORAGE KALE, LUPINES, VETCHES AND SIMILAR FORAGE PRODUCTS (EXCLUDING THOSE IN PELLET FORM, SWEDES, MANGOLDS, ROOTS USED FOR FORAGE, AND LUCERNE MEAL) |
+| 1301 10 00 | NATURAL LAC |
+| 1301 20 00 | NATURAL GUM ARABIC |
+| 1301 90 10 | CHIOS MASTIC ‘MASTIC OF THE TREE OF THE SPECIES PISTACIA LENTISCUS’ |
+| 1301 90 90 | NATURAL GUMS, RESINS, GUM RESINS AND BALSAMS (EXCLUDING GUM ARABIC AND CHIOS MASTIC ‘MASTIC OF THE TREE OF THE SPECIES PISTACIA LENTISCUS’ |
+| 1302 11 00 | OPIUM |
+| 1302 19 05 | VANILLA OLEORESIN |
+| 1302 19 98 | VEGETABLE SAPS AND EXTRACTS (EXCLUDING LIQUORICE, HOPS, PRYRETHRUM, ROOTS OF PLANTS CONTAINING ROTENONE, QUASSIA AMARA, OPIUM, ALOES AND MANNA, INTERMIXTURES OF VEGETABLE EXTRACTS FOR MANUFACTURE OF BEVERAGES OR FOOD PREPARATIONS AND MEDICINAL VEGETABLES) |
+| 1302 32 90 | MUCILAGES AND THICKENERS OF GUAR SEEDS, WHETHER OR NOT MODIFIED |
+| 1302 39 00 | MUCILAGES AND THICKENERS DERIVED FROM VEGETABLE PRODUCTS, WHETHER OR NOT MODIFIED (EXCLUDING FROM LOCUST BEANS, LOCUST BEAN SEEDS, GUAR SEEDS AND AGAR AGAR) |
+| 1501 00 11 | LARD AND OTHER PIG FAT, RENDERED, WHETHER OR NOT PRESSED OR SOLVENT EXTRACTED, FOR INDUSTRIAL USES (EXCLUDING FOR THE PRODUCTION OF FOODSTUFFS) |
+| 1501 00 90 | POULTRY FAT, RENDERED, WHETHER OR NOT PRESSED OR SOLVENT EXTRACTED |
+| 1502 00 10 | FATS OF BOVINE ANIMALS, SHEEP OR GOATS, RAW OR RENDERED, WHETHER OR NOT PRESSED OR SOLVENT EXTRACTED, FOR INDUSTRIAL USES (EXCLUDING FOR THE PRODUCTION OF FOODSTUFFS) |
+| 1502 00 90 | FATS OF BOVINE ANIMALS, SHEEP OR GOATS, RAW OR RENDERED, WHETHER OR NOT PRESSED OR SOLVENT EXTRACTED (EXCLUDING THOSE FOR INDUSTRIAL/TECHNICAL USES) |
+| 1503 00 11 | LARD STEARIN AND OLEOSTEARIN FOR INDUSTRIAL USES (EXCLUDING EMULSIFIED, MIXED OR OTHERWISE PREPARED) |
+| 1503 00 19 | LARD STEARIN AND OLEOSTEARIN (EXCLUDING FOR INDUSTRIAL USES AND EMULSIFIED, MIXED OR OTHERWISE PREPARED) |
+| 1503 00 30 | TALLOW OIL FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS AND EMULSIFIED, MIXED OR OTHERWISE PREPARED) |
+| 1503 00 90 | TALLOW OIL, OLEO OIL AND LARD OIL (EXCLUDING EMULSIFIED, MIXED OR OTHERWISE PREPARED, AND TALLOW OIL FOR INDUSTRIAL USES) |
+| 1504 10 10 | FISH LIVER OILS AND THEIR FRACTIONS WITH VITAMIN A CONTENT OF =< 2 500 INTERNATIONAL UNITS PER G, WHETHER OR NOT REFINED (EXCLUDING CHEMICALLY MODIFIED) |
+| 1504 10 91 | FISH LIVER OILS AND THEIR FRACTIONS, OF HALIBUT, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FISH LIVER OILS WITH VITAMIN A CONTENT NOT EXCEEDING 2 500 INTERNATIONAL UNITS PER G) |
+| 1504 10 99 | FISH LIVER OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FISH LIVER OILS WITH VITAMIN A CONTENT NOT EXCEEDING 2 500 INTERNATIONAL UNITS PER G, AND OF HALIBUT) |
+| 1504 20 10 | SOLID FRACTIONS OF FISH FATS AND OILS, WHETHER OR NOT REFINED (EXCLUDING CHEMICALLY MODIFIED AND LIVER OILS) |
+| 1504 20 90 | FISH FATS AND OILS AND LIQUID FRACTIONS, WHETHER OR NOT REFINED (EXCLUDING CHEMICALLY MODIFIED AND LIVER OILS) |
+| 1504 30 10 | SOLID MARINE MAMMAL FAT AND OIL FRACTIONS, WHETHER OR NOT REFINED (EXCLUDING CHEMICALLY MODIFIED) |
+| 1504 30 90 | MARINE MAMMAL FATS, OILS AND THEIR LIQUID FRACTIONS, WHETHER OR NOT REFINED (EXCLUDING CHEMICALLY MODIFIED) |
+| 1507 10 10 | CRUDE SOYA BEAN OIL, WHETHER OR NOT DE-GUMMED, FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS) |
+| 1507 10 90 | CRUDE SOYA BEAN OIL, WHETHER OR NOT DE-GUMMED (EXCLUDING FOR INDUSTRIAL USES) |
+| 1507 90 10 | SOYA BEAN OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, FOR INDUSTRIAL USES (EXCLUDING CHEMICALLY MODIFIED, CRUDE, AND FOR PRODUCTION OF FOODSTUFFS) |
+| 1507 90 90 | GROUND NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED (EXCLUDING FOR INDUSTRIAL USES, CHEMICALLY MODIFIED, AND CRUDE) |
+| 1508 10 10 | CRUDE GROUND NUT OIL FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS) |
+| 1508 90 10 | GROUND NUT OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, FOR INDUSTRIAL USES (EXCLUDING CHEMICALLY MODIFIED, CRUDE, AND FOR PRODUCTION OF FOODSTUFFS) |
+| 1511 10 10 | CRUDE PALM OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1511 10 90 | CRUDE PALM OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1511 90 11 | SOLID PALM OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN PACKINGS OF =< 1 KG |
+| 1511 90 19 | SOLID PALM OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN PACKINGS OF > 1 KG |
+| 1511 90 91 | PALM OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS AND CRUDE) |
+| 1511 90 99 | PALM OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1512 11 10 | CRUDE SUNFLOWER-SEED OR SAFFLOWER OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1512 11 91 | CRUDE SUNFLOWER-SEED OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1512 11 99 | CRUDE SAFFLOWER OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1512 19 10 | SUNFLOWER-SEED OR SAFFLOWER OIL AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING CRUDE AND FOR MANUFACTURE OF FOODSTUFFS) |
+| 1512 19 90 | SUNFLOWER SEED OR SAFFLOWER |
+| 1512 19 91 | SUNFLOWER-SEED OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING CRUDE AND FOR INDUSTRIAL USES) |
+| 1512 19 99 | SAFFLOWER OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING CRUDE AND FOR INDUSTRIAL USES) |
+| 1512 21 10 | CRUDE COTTON-SEED OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1512 21 90 | CRUDE COTTON-SEED OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1512 29 10 | COTTON-SEED OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING CRUDE AND FOR MANUFACTURE OF FOODSTUFFS) |
+| 1512 29 90 | COTTON-SEED OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1513 11 10 | CRUDE COCONUT OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1513 11 91 | CRUDE COCONUT OIL, IN IMMEDIATE PACKINGS OF=< 1 KG (EXCLUDING FOR INDUSTRIAL USES) |
+| 1513 11 99 | CRUDE COCONUT OIL, IN IMMEDIATE PACKINGS OF> 1 KG (EXCLUDING FOR INDUSTRIAL USES) |
+| 1513 19 11 | SOLID COCONUT OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF =< 1 KG |
+| 1513 19 19 | SOLID COCONUT OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG |
+| 1513 19 30 | COCONUT OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1513 19 91 | COCONUT OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1513 19 99 | COCONUT OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1513 21 10 | CRUDE PALM KERNEL |
+| 1513 21 11 | CRUDE PALM KERNEL AND BABASSU OIL, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING FOR INDUSTRIAL USES) |
+| 1513 21 19 | CRUDE BABASSU OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1513 21 30 | CRUDE PALM KERNEL AND BABASSU OIL, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING FOR INDUSTRIAL USES) |
+| 1513 21 90 | RAW PALM KERNEL OIL AND BABASSU OIL IN IMMEDIATE PACKINGS OF A NET CONTENT OF > 1 KG (EXCLUDING OILS FOR TECHNICAL OR INDUSTRIAL USES) |
+| 1513 29 11 | SOLID PALM KERNEL AND BABASSU OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF =< 1 KG |
+| 1513 29 19 | SOLID PALM KERNEL AND BABASSU OIL FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG |
+| 1513 29 30 | PALM KERNEL AND BABASSU OIL AND THEIR LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS AND CRUDE) |
+| 1513 29 50 | PALM KERNEL AND BABASSU OIL AND THEIR LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1513 29 90 | CRUDE PALM KERNEL |
+| 1513 29 91 | PALM KERNEL OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1513 29 99 | BABASSU OIL AND ITS LIQUID FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1514 11 10 | LOW ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 %’, CRUDE, FOR TECHNICAL OR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS FOR HUMAN CONSUMPTION) |
+| 1514 11 90 | LOW ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 %’, CRUDE (EXCLUDING FOR TECHNICAL OR INDUSTRIAL USES) |
+| 1514 19 10 | LOW ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 %’ AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR TECHNICAL OR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS FOR HUMAN CONSUMPTION |
+| 1514 19 90 | LOW ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 %’ AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR TECHNICAL OR INDUSTRIAL USES AND CRUDE) |
+| 1514 91 10 | HIGH ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 %’, AND MUSTARD OIL, CRUDE, FOR TECHNICAL OR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS FOR HUMAN CONSUMPTION) |
+| 1514 91 90 | HIGH ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 %’, AND MUSTARD OIL, CRUDE (EXCLUDING FOR TECHNICAL OR INDUSTRIAL USES) |
+| 1514 99 10 | HIGH ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 %’, AND MUSTARD OIL, AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR TECHNICAL OR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS |
+| 1514 99 90 | HIGH ERUCIC ACID RAPE OR COLZA OIL ‘FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 %’, AND MUSTARD OIL, AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR TECHNICAL OR INDUSTRIAL USES AND CRUDE) |
+| 1515 11 00 | CRUDE LINSEED OIL |
+| 1515 19 10 | LINSEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING CRUDE AND FOR MANUFACTURE OF FOODSTUFFS) |
+| 1515 19 90 | LINSEED OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1515 21 10 | CRUDE MAIZE OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1515 21 90 | CRUDE MAIZE OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1515 29 10 | MAIZE OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING CRUDE AND FOR MANUFACTURE OF FOODSTUFFS) |
+| 1515 29 90 | MAIZE OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1515 30 10 | CASTOR OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR PRODUCTION OF AMINOUNDECANOIC ACID FOR MANUFACTURE OF SYNTHETIC TEXTILE FIBRES OR ARTIFICIAL PLASTIC MATERIALS) |
+| 1515 30 90 | CASTOR OIL AND FRACTIONS THEREOF, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR PRODUCTION OF AMINOUNDECANOIC ACID FOR MANUFACTURE OF SYNTHETIC TEXTILE FIBRES OR ARTIFICIAL PLASTIC MATERIALS) |
+| 1515 40 00 | TUNG OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED |
+| 1515 50 11 | CRUDE SESAME OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1515 50 19 | CRUDE SESAME OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1515 50 91 | SESAME OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING CRUDE) |
+| 1515 50 99 | SESAME OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1515 90 21 | CRUDE TOBACCO SEED OIL, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS) |
+| 1515 90 29 | CRUDE TOBACCO SEED OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1515 90 31 | TOBACCO SEED OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, FOR INDUSTRIAL USES (EXCLUDING FOR MANUFACTURE OF FOODSTUFFS AND CRUDE) |
+| 1515 90 39 | TOBACCO SEED OIL AND ITS FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED (EXCLUDING FOR INDUSTRIAL USES AND CRUDE) |
+| 1515 90 40 | CRUDE FIXED VEGETABLE FATS AND OILS AND THEIR FRACTIONS, FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS, SOYA BEAN, GROUND NUT, OLIVE, PALM, SUNFLOWER SEED, SAFFLOWER, COTTON SEED, COCONUT, PALM KERNEL, BABASSU, RAPE, COLZA AND MUSTARD) |
+| 1515 90 51 | SOLID CRUDE FIXED VEGETABLE FATS AND OILS, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING FOR INDUSTRIAL USES AND SOYA BEAN, GROUND NUT, OLIVE, PALM, SUNFLOWER SEED, SAFFLOWER, COTTON SEED, COCONUT, PALM KERNEL, BABASSU, RAPE, COLZA AND MUSTARD, LINSEED) |
+| 1515 90 59 | CRUDE FIXED VEGETABLE FATS AND OILS, IN IMMEDIATE PACKINGS OF A CONTENT OF > 1 KG, OR CRUDE, LIQUID (EXCLUDING THOSE FOR TECHNICAL OR INDUSTRIAL USES; SOYA, PEANUT, OLIVE, PALM, SUNFLOWER, SAFFLOWER, COTTONSEED, COCONUT, PALM KERNEL, BABASSU, RUBSEN) |
+| 1515 90 60 | VEGETABLE FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, (EXCLUDING CHEMICALLY MODIFIED) FOR TECHNICAL OR INDUSTRIAL USES (EXCLUDING FOR THE MANUFACTURE OF FOODSTUFFS; CRUDE FATS AND OILS; SOYA, PEANUT, OLIVE, PALM, SUNFLOWER, SAFFLOWER) |
+| 1515 90 91 | SOLID FIXED VEGETABLE FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF =< 1 KG N.E.S. (EXCLUDING FOR INDUSTRIAL USES AND CRUDE FATS AND OILS) |
+| 1515 90 99 | SOLID FIXED VEGETABLE FATS AND OILS AND THEIR FRACTIONS, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, IN IMMEDIATE PACKINGS OF > 1 KG N.E.S. (EXCLUDING FOR INDUSTRIAL USES AND CRUDE FATS AND OILS) |
+| 1516 10 10 | ANIMAL FATS, OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED, IN IMMEDIATE PACKINGS OF =< 1 KG |
+| 1516 10 90 | ANIMAL FATS, OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED, IN IMMEDIATE PACKINGS OF > 1 KG |
+| 1516 20 91 | VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, IN IMMEDIATE PACKINGS OF =< 1 KG (EXCLUDING ‘OPAL WAX’ AND FURTHER PREPARED) |
+| 1516 20 95 | COLZA, LINSEED, RAPE SEED, SUNFLOWER SEED, ILLIPE, KARITE, MAKORE, TOULOUCOUNA OR BABASSU OILS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, FOR TECHNICAL OR INDUSTRIAL USES, IN IMMEDIATE PACKINGS) |
+| 1516 20 96 | GROUND NUT, COTTON SEED, SOYA BEANS OR SUNFLOWER SEED OILS (EXCLUDING SUBHEADING 1516 20 95 ); OTHER OILS CONTAINING LESS THAN 50 % BY WEIGHT OF FREE FATTY ACIDS, IN IMMEDIATE PACKINGS OF > 1 KG OR IN ANOTHER FORM (EXCLUDING PALM KERNEL, ILLIPE, COCONUT, COLZA) |
+| 1516 20 98 | VEGETABLE FATS AND OILS AND THEIR FRACTIONS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, IN IMMEDIATE PACKINGS OF > 1 KG OR IN ANOTHER FORM (EXCLUDING FATS AND OILS AND THEIR FRACTIONS) |
+| 1517 10 90 | MARGARINE CONTAINING =< 10 % MILKFATS (EXCLUDING LIQUID) |
+| 1517 90 91 | EDIBLE FIXED VEGETABLE OILS, FLUID, MIXED, CONTAINING =< 10 % MILKFATS (EXCLUDING OILS, PARTLY OR WHOLLY HYDROGENATED, INTER-ESTERIFIED, RE-ESTERIFIED OR ELAIDINISED, WHETHER OR NOT REFINED, BUT NOT FURTHER PREPARED, AND MIXTURES OF OLIVE OILS) |
+| 1517 90 99 | EDIBLE MIXTURES OR PREPARATIONS OF ANIMAL OR VEGETABLE FATS OR OILS AND EDIBLE FRACTIONS OF DIFFERENT FATS OR OILS, CONTAINING = < 10 % MILKFATS (EXCLUDING FIXED VEGETABLE OILS, FLUID, MIXED, EDIBLE MIXTURES OR PREPARATIONS FOR MOULD RELEASE PREPARATIONS, |
+| 1518 00 31 | CRUDE FIXED VEGETABLE OILS, FLUID, MIXED, INEDIBLE N.E.S., FOR INDUSTRIAL USES (EXCLUDING FOR PRODUCTION OF FOODSTUFFS) |
+| 1518 00 39 | FIXED VEGETABLE OILS, FLUID, MIXED, INEDIBLE N.E.S., FOR INDUSTRIAL USES (EXCLUDING CRUDE OILS AND FOR PRODUCTION OF FOODSTUFFS) |
+| 1522 00 31 | SOAPSTOCKS CONTAINING OIL WITH CHARACTERISTICS OF OLIVE OIL |
+| 1602 49 11 | PREPARED OR PRESERVED DOMESTIC SWINE LOINS AND PARTS THEREOF, INCLUDING MIXTURES OF LOINS OR HAMS (EXCLUDING COLLARS) |
+| 1602 49 15 | PREPARED OR PRESERVED MIXTURES OF DOMESTIC SWINE HAMS, SHOULDERS, LOINS, COLLARS AND PARTS THEREOF (EXCLUDING MIXTURES OF ONLY LOINS AND HAMS OR ONLY COLLARS AND SHOULDERS) |
+| 1602 49 50 | PREPARED OR PRESERVED MEAT, OFFAL AND MIXTURES OF DOMESTIC SWINE CONTAINING < 40 % MEAT OR OFFAL OF ANY KIND AND FATS OF ANY KIND (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACT) |
+| 1602 50 10 | PREPARED OR PRESERVED MEAT OR OFFAL OF BOVINE ANIMALS, UNCOOKED, INCLUDING MIXTURES OF COOKED MEAT OR OFFAL AND UNCOOKED MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, AND PREPARATIONS OF LIVER) |
+| 1602 90 10 | PREPARATIONS OF BLOOD OF ANY ANIMAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS) |
+| 1603 00 10 | EXTRACTS AND JUICES OF MEAT, FISH, CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, IN IMMEDIATE PACKINGS OF =< 1 KG |
+| 1603 00 80 | EXTRACTS AND JUICES OF MEAT, FISH, CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES, IN IMMEDIATE PACKINGS OF > 1 KG OR PUT UP OTHERWISE |
+| 1701 11 10 | RAW CANE SUGAR, FOR REFINING (EXCLUDING ADDED FLAVOURING OR COLOURING) |
+| 1701 11 90 | RAW CANE SUGAR (EXCLUDING FOR REFINING AND ADDED FLAVOURING OR COLOURING) |
+| 1701 12 10 | RAW BEET SUGAR, FOR REFINING (EXCLUDING ADDED FLAVOURING OR COLOURING) |
+| 1701 12 90 | RAW BEET SUGAR (EXCLUDING FOR REFINING AND ADDED FLAVOURING OR COLOURING) |
+| 1702 20 10 | MAPLE SUGAR, IN SOLID FORM, FLAVOURED OR COLOURED |
+| 1702 30 10 | ISOGLUCOSE IN THE SOLID FORM, NOT CONTAINING FRUCTOSE OR CONTAINING, IN THE DRY STATE, < 20 % BY WEIGHT OF FRUCTOSE |
+| 1702 30 51 | GLUCOSE ‘DEXTROSE’ IN THE FORM OF WHITE CRYSTALLINE POWDER, WHETHER OR NOT AGGLOMERATED, NOT CONTAINING FRUCTOSE OR CONTAINING, IN THE DRY STATE, < 20 % BY WEIGHT OF GLUCOSE AND CONTAINING, IN THE DRY STATE, >= 99 % BY WEIGHT OF GLUCOSE (EXCLUDING ISOGLUCOSE) |
+| 1702 30 59 | GLUCOSE IN SOLID FORM AND GLUCOSE SYRUP, NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER AND NOT CONTAINING FRUCTOSE OR CONTAINING, IN THE DRY STATE, < 20 % BY WEIGHT OF FRUCTOSE AND CONTAINING, IN THE DRY STATE, >= 99 % BY WEIGHT OF GLUCOSE |
+| 1702 30 91 | GLUCOSE ‘DEXTROSE’ IN THE FORM OF WHITE CRYSTALLINE POWDER, WHETHER OR NOT AGGLOMERATED, NOT CONTAINING FRUCTOSE OR CONTAINING, IN THE DRY STATE, < 20 % BY WEIGHT OF GLUCOSE AND CONTAINING, IN THE DRY STATE, < 99 % BY WEIGHT OF GLUCOSE (EXCLUDING ISOGLUCOSE) |
+| 1702 30 99 | GLUCOSE IN SOLID FORM AND GLUCOSE SYRUP, NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER AND NOT CONTAINING FRUCTOSE OR CONTAINING, IN THE DRY STATE, < 20 % BY WEIGHT OF FRUCTOSE AND < 99 % BY WEIGHT OF GLUCOSE (EXCLUDING ISOGLUCOSE AND GLUCOSE ‘DEXTROS’ |
+| 1702 40 10 | ISOGLUCOSE IN SOLID FORM, CONTAINING, IN THE DRY STATE, >= 20 % AND < 50 % BY WEIGHT OF FRUCTOSE |
+| 1702 40 90 | GLUCOSE IN SOLID FORM AND GLUCOSE SYRUP NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER, AND CONTAINING, IN THE DRY STATE,>= 20 % AND < 50 % BY WEIGHT OF FRUCTOSE (EXCLUDING ISOGLUCOSE) |
+| 1702 60 10 | ISOGLUCOSE IN SOLID FORM, CONTAINING, IN THE DRY STATE, > 50 % BY WEIGHT OF FRUCTOSE (EXCLUDING CHEMICALLY PURE FRUCTOSE) |
+| 1702 60 80 | INULIN SYRUP, OBTAINED DIRECTLY BY HYDROLYSIS OF INULIN OR OLIGOFRUCTOSES, CONTAINING, IN THE DRY STATE, > 50 % BY WEIGHT OF FRUCTOSE IN FREE FORM OR AS SUCROSE |
+| 1702 60 95 | FRUCTOSE IN SOLID FORM AND FRUCTOSE SYRUP NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER AND CONTAINING, IN THE DRY STATE, > 50 % BY WEIGHT OF FRUCTOSE (EXCLUDING ISOGLUCOSE, INULIN SYRUP AND CHEMICALLY PURE FRUCTOSE) |
+| 1702 90 30 | ISOGLUCOSE IN SOLID FORM, OBTAINED FROM GLUCOSE POLYMERS |
+| 1702 90 50 | MALTODEXTRINE IN SOLID FORM AND MALTODEXTRINE SYRUP (EXCLUDING FLAVOURED OR COLOURED) |
+| 1702 90 80 | INULIN SYRUP, OBTAINED DIRECTLY BY HYDROLOSIS OF INULIN OR OLIGOFRUCTOSE, CONTAINING IN THE DRY STATE 10,50 % BY WEIGHT OF FRUCTOSE, UNCOMBINED OR IN THE FORM OF SUCROSE |
+| 1702 90 99 | SUGAR, INCLUDING INVERT SUGAR, SOLID AND SUGAR SYRUPS NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER (OTHER THAN CANE AND BEET SUGAR, SUCROSE AND MALTOSE, CHEMICALLY PURE, LACTOSE, MAPLE SYRUP, GLUCOSE, FRUCTOSE AND MALTODEXTRINE AND MALTODEXTRIN |
+| 1703 10 00 | CANE MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR |
+| 1703 90 00 | BEET MOLASSES RESULTING FROM THE EXTRACTION OR REFINING OF SUGAR |
+| 1802 00 00 | COCOA SHELLS, HUSKS, SKINS AND OTHER COCOA WASTE |
+| 1902 20 30 | PASTA, STUFFED WITH MEAT OR OTHER SUBSTANCES, WHETHER OR NOT COOKED OR OTHERWISE PREPARED, CONTAINING > 20 % SAUSAGES AND THE LIKE, MEAT, OFFAL AND FATS OF ANY KIND |
+| 2001 90 85 | RED CABBAGES, PREPARED OR PRESERVED BY VINEGAR OR ACETIC ACID |
+| 2001 90 99 | VEGETABLES, FRUIT, NUTS |
+| 2003 10 20 | MUSHROOMS OF THE SPECIES AGARICUS, PROVISIONALLY PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, COMPLETELY COOKED |
+| 2003 10 30 | MUSHROOMS OF THE SPECIES AGARICUS, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID (EXCLUDING COMPLETELY COOKED MUSHROOMS AND PROVISIONALLY PRESERVED MUSHROOMS) |
+| 2003 20 00 | TRUFFLES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID |
+| 2003 90 00 | MUSHROOMS, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID (EXCLUDING MUSHROOMS OF THE GENUS ‘AGARICUS’) |
+| 2006 00 10 | GINGER, PRESERVED BY SUGAR, DRAINED, GLACE OR CRYSTALLISED |
+| 2008 19 51 | COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, ROASTED, IN IMMEDIATE PACKINGS OF A NET CONTENT OF <= 1 KG |
+| 2008 19 91 | COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, ROASTED, IN IMMEDIATE PACKINGS OF A NET CONTENT OF <= 1 KG |
+| 2008 20 11 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 17 %, IN PACKINGS OF > 1 KG |
+| 2008 20 31 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 19 %, IN PACKINGS OF =< 1 KG |
+| 2008 20 39 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, IN PACKINGS OF =< 1 KG (EXCLUDING WITH SUGAR CONTENT OF > 19 %) |
+| 2008 20 59 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, WITH SUGAR CONTENT OF =< 17 %, IN PACKINGS OF > 1 KG |
+| 2008 20 79 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, WITH SUGAR CONTENT OF =< 19 %, IN PACKINGS OF =< 1 KG |
+| 2008 20 90 | PINEAPPLES, PREPARED OR PRESERVED, IN PACKINGS OF >= 4,5 KG (EXCLUDING ADDED SUGAR OR SPIRIT) |
+| 2008 20 91 | PINEAPPLES, PREPARED OR PRESERVED, IN PACKINGS OF >= 4,5 KG (EXCLUDING ADDED SUGAR OR SPIRIT) |
+| 2008 40 90 | PEARS, PREPARED OR PRESERVED |
+| 2008 70 98 | PEACHES INCLUDING NECTARINES |
+| 2008 80 90 | STRAWBERRIES PREPARED |
+| 2008 92 16 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS) |
+| 2008 92 32 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS) |
+| 2008 92 34 | MIXTURES OF FRUIT OR OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, OF AN ACTUAL ALCOHOLIC STRENGTH NOT EXCEEDING 11,85 % MAS (EXCLUDING WITH SUGAR CONTENT EXCEEDING 9 % BY WEIGHT AND MIXTURES OF NUTS, TROPICAL FRUIT) |
+| 2008 92 36 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS) |
+| 2008 92 51 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS, PREP |
+| 2008 92 72 | MIXTURES OF TROPICAL FRUIT OF A TYPE SPECIFIED IN ADDITIONAL NOTE 7 TO CHAPTER 20, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS OF A TYPE SPECIFIED IN ADDITIONAL NOTES 7 AND 8 TO CHAPTER 20, PREPARED OR PRESERVED |
+| 2008 92 76 | MIXTURES OF TROPICAL FRUIT OF A TYPE SPECIFIED IN ADDITIONAL NOTE 7 TO CHAPTER 20, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS OF A TYPE SPECIFIED IN ADDITIONAL NOTES 7 AND 8 TO CHAPTER 20, PREPARED OR PRESERVED |
+| 2008 92 78 | MIXTURES OF FRUIT OR OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT BUT CONTAINING ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT NOT EXCEEDING 1 KG (EXCLUDING MIXTURES OF NUTS, TROPICAL FRUIT, GROUNDNUTS) |
+| 2008 92 92 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS) |
+| 2008 92 93 | MIXTURES OF FRUIT OR OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT OF NOT LESS THAN 5 KG (EXCLUDING MIXTURES OF NUTS, TROPICAL FRUIT) |
+| 2008 92 94 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS |
+| 2008 92 96 | MIXTURES OF FRUIT OR OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT OF LESS THAN 5 KG BUT NOT LESS THAN 4,5 KG (EXCLUDING MIXTURES OF NUTS, TROPICAL FRUIT |
+| 2008 92 97 | MIXTURES OF GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS |
+| 2008 99 11 | GINGER, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS |
+| 2008 99 26 | MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, CARAMBOLA AND PITAHAYA, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT EXCEEDING 9 % BY WEIGHT AND OF AN ACTUAL ALCOHOLIC STRENGT |
+| 2008 99 32 | PASSIONFRUIT AND GUAVAS, WITH SUGAR CONTENT > 9 %, OF ACTUAL ALCOHOLIC STRENGTH > 11,85 % MASS, (OTHERWISE PREPARED OR PRESERVED IN 2006 AND 2007) |
+| 2008 99 33 | MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, CARAMBOLA AND PITAHAYA, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT EXCEEDING 9 % BY WEIGHT |
+| 2008 99 34 | FRUIT, WITH SUGAR CONTENT > 9 %, OF ACTUAL ALCOHOLIC STRENGTH > 11,85 % MASS, (EXCLUDING 2008 11 10 TO 2008 99 32 ), (OTHERWISE PREPARED OR PRESERVED IN 2006 AND 2007) |
+| 2008 99 37 | FRUIT AND OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, OF AN ACTUAL ALCOHOLIC STRENGTH NOT EXCEEDING 11,85 % MAS, N.E.S. (EXCLUDING WITH SUGAR CONTENT EXCEEDING 9 % BY WEIGHT) |
+| 2008 99 38 | GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, OF AN ACTUAL ALCOHOLIC STRENGTH EXCEEDING 11,85 % MAS |
+| 2008 99 40 | FRUIT AND OTHER EDIBLE PARTS OF PLANTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, OF AN ACTUAL ALCOHOLIC STRENGTH EXCEEDING 11,85 % MAS, N.E.S. (EXCLUDING WITH SUGAR CONTENT EXCEEDING 9 % BY WEIGHT) |
+| 2008 99 41 | GINGER, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF > 1 KG |
+| 2008 99 46 | PASSIONFRUIT, GUAVAS AND TAMARINDS, WITH ADDED SUGAR, IN PACKINGS > 1 KG, (EXCLUDING ADDED SPIRIT), (OTHERWISE PREPARED OR PRESERVED IN 2006 AND 2007) |
+| 2008 99 47 | MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, CARAMBOLA AND PITAHAYA, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT BUT CONTAINING ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT EXCEEDING 1 KG |
+| 2008 99 51 | GINGER, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF =< 1 KG |
+| 2008 99 61 | PASSIONFRUIT AND GUAVAS, WITH ADDED SUGAR, IN PACKINGS =< 1 KG, (EXCLUDING ADDED SPIRIT), (OTHERWISE PREPARED OR PRESERVED IN 2006 AND 2007) |
+| 2008 99 62 | MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, CARAMBOLA AND PITAHAYA, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT BUT CONTAINING ADDED SUGAR, IN IMMEDIATE PACKINGS |
+| 2008 99 67 | FRUIT AND OTHER EDIBLES |
+| 2009 29 91 | GRAPEFRUIT JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 31 11 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE <= 20 AT 20 °C, VALUE OF > 30 {EURO} PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING CONTAINING SPIRIT, MIXTURES, ORANGE JUICE AND GRAPEFRUIT JUICE) |
+| 2009 39 11 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE > 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT, MIXTURES, ORANGE JUICE AND GRAPEFRUIT JUICE) |
+| 2009 39 31 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF > 30 {EURO} PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING CONTAINING SPIRIT, MIXTURES, ORANGE JUICE AND GRAPEFRUIT JUICE) |
+| 2009 39 39 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, WITH A VALUE OF > 30 {EURO} PER 100 KG (EXCLUDING CONTAINING ADDED SUGAR, CONTAINING SPIRIT, MIXTURES, ORANGE JUICE AND GRAPEFRUIT JUICE) |
+| 2009 39 51 | LEMON JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 39 55 | LEMON JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING <= 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 39 59 | LEMON JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG (EXCLUDING CONTAINING SPIRIT OR ADDED SUGAR) |
+| 2009 39 91 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING OR CONTAINING SPIRIT, MIXTURES, LEMON, ORANGE AND GRAPEFRUIT JUICE) |
+| 2009 39 95 | SINGLE CITRUS FRUIT JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING <= 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT, MIXTURES, LEMON, ORANGE AND GRAPEFRUIT JUICE) |
+| 2009 41 10 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE <= 20 AT 20 °C, VALUE OF > 30 {EURO} PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 41 91 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE <= 20 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 49 11 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE > 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT) |
+| 2009 49 30 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF > 30 {EURO} PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 49 91 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 49 93 | PINEAPPLE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 30 {EURO} PER 100 KG, CONTAINING <= 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2106 90 30 | FLAVOURED OR COLOURED ISOGLUCOSE SYRUPS |
+| 2106 90 51 | FLAVOURED OR COLOURED LACTOSE SYRUPS |
+| 2106 90 55 | FLAVOURED OR COLOURED GLUCOSE AND MALTODEXTRINE SYRUPS |
+| 2106 90 59 | FLAVOURED OR COLOURED SUGAR SYRUPS (EXCLUDING ISOGLUCOSE, LACTOSE, GLUCOSE AND MALTODEXTRINE SYRUPS) |
+| 2206 00 10 | PIQUETTE |
+| 2206 00 31 | CIDER AND PERRY, SPARKLING |
+| 2206 00 51 | CIDER AND PERRY, NOT SPARKLING, IN CONTAINERS HOLDING =< 2 L |
+| 2301 10 00 | FLOURS, MEALS AND PELLETS, OF MEAT OR OFFAL, UNFIT FOR HUMAN CONSUMPTION; GREAVES |
+| 2302 10 10 | BRAN, SHARPS AND OTHER RESIDUES OF MAIZE, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING, WITH STARCH CONTENT OF =< 35 % |
+| 2302 10 90 | BRAN, SHARPS AND OTHER RESIDUES OF MAIZE, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING, WITH STARCH CONTENT OF > 35 % |
+| 2302 20 10 | BRAN, SHARPS AND OTHER RESIDUES OF RICE, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING, WITH STARCH CONTENT OF =< 35 % |
+| 2302 20 90 | BRAN, SHARPS AND OTHER RESIDUES OF RICE, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING, WITH STARCH CONTENT OF > 35 % |
+| 2302 30 10 | BRAN, SHARPS AND OTHER RESIDUES, WHETHER OR NOT IN THE FORM OF PELLETS DERIVED FROM THE SIFTING, MILLING OR OTHER WORKING OF WHEAT, WITH A STARCH CONTENT OF <= 28 % BY WEIGHT |
+| 2302 30 90 | BRAN, SHARPS AND OTHER RESIDUES OF WHEAT, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING (EXCLUDING THOSE WITH STARCH CONTENT OF =< 28 %, PROVIDED THAT =< 10 % PASSES THROUGH A SIEVE OF 0,2 MM APERTURE |
+| 2302 40 10 | BRAN, SHARPS AND OTHER RESIDUES, IN THE FORM OF PELLETS OR NOT, DERIVED FROM THE SIFTING, MILLING OR OTHER WORKING OF CEREALS, WITH A STARCH CONTENT <= 28 % BY WEIGHT, AND OF WHICH <= 10 % BY WEIGHT PASSES THROUGH A SIEVE WITH AN APERTURE OF 0,2 MM |
+| 2302 40 90 | BRAN, SHARPS AND OTHER RESIDUES OF CEREALS, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING (EXCLUDING THOSE WITH STARCH CONTENT OF =< 28 %, PROVIDED THAT =< 10 % PASSES THROUGH A SIEVE OF 0,2 MM APERTURE |
+| 2302 50 00 | BRAN, SHARPS AND OTHER RESIDUES OF LEGUMINOUS PLANTS, WHETHER OR NOT IN THE FORM OF PELLETS, DERIVED FROM SIFTING, MILLING OR OTHER WORKING |
+| 2303 10 11 | RESIDUES FROM THE MANUFACTURE OF STARCH FROM MAIZE, OF A PROTEIN CONTENT, CALCULATED ON THE DRY PRODUCT, OF > 40 % BY WEIGHT (EXCLUDING CONCENTRATED STEEPING LIQUORS) |
+| 2303 10 19 | RESIDUES FROM THE MANUFACTURE OF STARCH FROM MAIZE, OF A PROTEIN CONTENT, CALCULATED ON THE DRY PRODUCT, OF <= 40 % BY WEIGHT (EXCLUDING CONCENTRATED STEEPING LIQUORS) |
+| 2303 10 90 | RESIDUES OF STARCH MANUFACTURE AND SIMILAR RESIDUES (EXCLUDING FROM MAIZE) |
+| 2303 20 11 | BEET PULP HAVING A DRY MATTER CONTENT OF >= 87 % BY WEIGHT |
+| 2303 20 18 | BEET PULP HAVING A DRY MATTER CONTENT OF < 87 % BY WEIGHT |
+| 2303 20 90 | BAGASSE AND OTHER WASTE OF SUGAR MANUFACTURE (EXCLUDING BEET PULP) |
+| 2303 30 00 | BREWING OR DISTILLING DREGS AND WASTE |
+| 2304 00 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF SOYA BEAN OIL |
+| 2306 10 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF COTTON SEEDS |
+| 2306 20 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF LINSEED |
+| 2306 30 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF SUNFLOWER SEEDS |
+| 2306 41 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF LOW ERUCIC ACID RAPE OR COLZA SEEDS YIELDING A FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF < 2 % |
+| 2306 49 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF HIGH ERUCIC ACID RAPE OR COLZA SEEDS YIELDING A FIXED OIL WHICH HAS AN ERUCIC ACID CONTENT OF >= 2 % |
+| 2306 50 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF COCONUT |
+| 2306 60 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF PALM NUTS OR KERNELS |
+| 2306 70 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF VEGETABLE FATS OR OILS FROM MAIZE ‘CORN’ GERM |
+| 2306 90 11 | OIL CAKE AND OTHER SOLID RESIDUES FROM THE EXTRACTION OF OLIVE OIL, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, CONTAINING =< 3 % OLIVE OIL |
+| 2306 90 19 | OIL CAKE AND OTHER SOLID RESIDUES FROM THE EXTRACTION OF OLIVE OIL, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, CONTAINING > 3 % OLIVE OIL |
+| 2306 90 90 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF VEGETABLE FATS OR OILS (EXCLUDING OF COTTON SEEDS, LINSEED, SUNFLOWER SEEDS, RAPE OR COLZA SEEDS, COCONUT OR COPRA, PALM NUTS OR KERNELS |
+| 2308 00 40 | ACORNS AND HORSE CHESTNUTS AND POMACE OR MARC OF FRUIT, FOR ANIMAL FEEDING, WHETHER OR NOT IN THE FORM OF PELLETS (EXCLUDING GRAPE MARC) |
+| 2309 10 13 | DOG OR CAT FOOD, PUT UP FOR RETAIL SALE, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH MILK PRODUCT CONTENT OF >= 10 % BUT < 50 % |
+| 2309 10 19 | DOG OR CAT FOOD, PUT UP FOR RETAIL SALE, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH MILK PRODUCT CONTENT OF >= 75 % |
+| 2309 10 33 | DOG OR CAT FOOD, PUT UP FOR RETAIL SALE, CONTAINING > 10 % BUT =< 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH MILK PRODUCT CONTENT OF >= 10 % BUT < 50 % |
+| 2309 10 39 | DOG OR CAT FOOD, PUT UP FOR RETAIL SALE, CONTAINING > 10 % BUT =< 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH MILK PRODUCT CONTENT OF >= 50 % |
+| 2309 10 53 | DOG OR CAT FOOD, PUT UP FOR RETAIL SALE, CONTAINING > 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH MILK PRODUCT CONTENT OF >= 10 % BUT < 50 % |
+| 2309 10 70 | DOG OR CAT FOOD PUT UP FOR RETAIL SALE, WITH NO STARCH, GLUCOSE, MALTODEXTRINE OR THEIR SYRUPS, BUT CONTAINING MILK PRODUCTS |
+| 2309 90 10 | FISH OR MARINE MAMMAL SOLUBLES, TO SUPPLEMENT FEEDINGSTUFFS PRODUCED IN THE AGRICULTURAL SECTOR |
+| 2309 90 20 | RESIDUES FROM THE MANUFACTURE OF STARCH FROM MAIZE REFERRED TO IN ADDITIONAL NOTE 5 TO CHAPTER 23, OF A KIND USED IN ANIMAL FEEDING (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 31 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH NO OR < 10 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 33 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 10 % BUT < 50 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 43 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 10 % BUT =< 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH > 10 % BUT =< 50 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 49 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 10 % BUT =< 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 50 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 99 | PREPARATIONS OF A KIND |
+| 2401 10 10 | FLUE-CURED VIRGINIA TYPE TOBACCO (EXCLUDING STEMMED OR STRIPPED) |
+| 2401 10 20 | LIGHT AIR-CURED BURLEY TYPE TOBACCO, INCLUDING BURLEY HYBRIDS (EXCLUDING STEMMED OR STRIPPED) |
+| 2401 10 30 | LIGHT AIR-CURED MARYLAND TYPE TOBACCO (EXCLUDING STEMMED OR STRIPPED) |
+| 2401 10 41 | FIRE-CURED KENTUCKY TYPE TOBACCO (EXCLUDING STEMMED OR STRIPPED) |
+| 2401 10 49 | FIRE-CURED TOBACCO (EXCLUDING KENTUCKY TYPE AND STEMMED OR STRIPPED) |
+| 2401 10 50 | LIGHT AIR-CURED TOBACCO (EXCLUDING BURLEY AND MARYLAND TYPES AND STEMMED OR STRIPPED) |
+| 2401 10 70 | DARK AIR-CURED TOBACCO (EXCLUDING STEMMED OR STRIPPED) |
+| 2401 10 80 | FLUE-CURED TOBACCO (EXCLUDING VIRGINIA TYPE AND STEMMED OR STRIPPED) |
+| 2401 10 90 | TOBACCO (EXCLUDING STEMMED OR STRIPPED, FLUE-CURED, LIGHT AIR-CURED, FIRE-CURED, DARK AIR-CURED AND SUN-CURED ORIENTAL) |
+| 2401 20 10 | PARTLY OR WHOLLY STEMMED OR STRIPPED FLUE-CURED VIRGINIA TYPE TOBACCO, OTHERWISE UNMANUFACTURED |
+| 2401 20 20 | PARTLY OR WHOLLY STEMMED OR STRIPPED LIGHT AIR-CURED BURLEY TYPE TOBACCO, INCLUDING BURLEY HYBRIDS, OTHERWISE UNMANUFACTURED |
+| 2401 20 30 | PARTLY OR WHOLLY STEMMED OR STRIPPED LIGHT AIR-CURED MARYLAND TYPE TOBACCO, OTHERWISE UNMANUFACTURED |
+| 2401 20 41 | PARTLY OR WHOLLY STEMMED OR STRIPPED FIRE-CURED KENTUCKY TYPE TOBACCO, OTHERWISE UNMANUFACTURED |
+| 2401 20 49 | PARTLY OR WHOLLY STEMMED OR STRIPPED FIRE-CURED TOBACCO, OTHERWISE UNMANUFACTURED (EXCLUDING KENTUCKY TYPE) |
+| 2401 20 50 | PARTLY OR WHOLLY STEMMED OR STRIPPED LIGHT AIR-CURED TOBACCO, OTHERWISE UNMANUFACTURED (EXCLUDING BURLEY OR MARYLAND TYPE) |
+| 2401 20 70 | PARTLY OR WHOLLY STEMMED OR STRIPPED DARK AIR-CURED TOBACCO, OTHERWISE UNMANUFACTURED |
+| 2401 20 80 | PARTLY OR WHOLLY STEMMED OR STRIPPED FLUE-CURED TOBACCO, OTHERWISE UNMANUFACTURED (EXCLUDING VIRGINIA TYPE) |
+| 2401 20 90 | PARTLY OR WHOLLY STEMMED OR STRIPPED TOBACCO, OTHERWISE UNMANUFACTURED (EXCLUDING FLUE-CURED, LIGHT AIR-CURED, FIRE-CURED, DARK AIR-CURED AND SUN-CURED ORIENTAL) |
+| 2401 30 00 | TOBACCO REFUSE |
+| 3301 11 10 | TERPENIC OILS OF BERGAMOT, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 11 90 | TERPENELESS OILS OF BERGAMOT, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 12 10 | TERPENIC OILS OF SWEET AND BITTER ORANGE, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING ORANGE FLOWER OIL) |
+| 3301 12 90 | TERPENELESS OILS OF SWEET AND BITTER ORANGE, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING ORANGE FLOWER OIL) |
+| 3301 13 10 | TERPENIC ESSENTIAL OILS OF LEMON, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 13 90 | TERPENELESS OILS OF LEMON, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 14 10 | TERPENIC OILS OF LIME, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 14 90 | TERPENELESS OILS OF LIME, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 19 10 | TERPENIC ESSENTIAL OILS OF CITRUS FRUIT, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING THOSE OF BERGAMOT, SWEET AND BITTER ORANGE, LEMON AND LIME) |
+| 3301 19 90 | TERPENELESS ESSENTIAL OILS OF CITRUS FRUIT, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING THOSE OF BERGAMOT, SWEET AND BITTER ORANGE, LEMON AND LIME) |
+| 3301 21 10 | TERPENIC OILS OF GERANIUM, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 21 90 | TERPENELESS OILS OF GERANIUM, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 22 10 | TERPENIC OILS OF JASMIN, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 22 90 | TERPENELESS ESSENTIAL OILS OF JASMIN, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 23 10 | TERPENIC OILS OF LAVENDER OR OF LAVANDIN, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 23 90 | TERPENELESS OILS OF LAVENDER OR OF LAVANDIN, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 24 10 | TERPENIC OILS OF PEPPERMINT ‘MENTHA PIPERITA’, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 24 90 | TERPENELESS OILS OF PEPPERMINT ‘MENTHA PIPERITA’, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 25 10 | TERPENIC OILS OF MINTS, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING THOSE OF PEPPERMINT ‘MENTHA PIPERITA’) |
+| 3301 25 90 | TERPENELESS OILS OF MINTS, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING THOSE OF PEPPERMINT ‘MENTHA PIPERITA’) |
+| 3301 26 10 | TERPENIC OILS OF VETIVER, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 26 90 | TERPENELESS OILS OF VETIVER, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 29 11 | TERPENIC OILS OF CLOVE, NIAOULI AND YLANG YLANG, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 29 31 | TERPENELESS OILS OF CLOVE, NIAOULI AND YLANG YLANG, INCLUDING CONCRETES AND ABSOLUTES |
+| 3301 29 61 | ESSENTIAL OILS, NOT DETERPENATED, INCLUDING CONCRETES AND ABSOLUTES (EXCEPT OF CITRUS FRUIT, GERANIUM, JASMINE, LAVENDAR OR LAVENDIN, MINT, VETIVER, CLOVE, NIAOULI AND YLANG YLANG) |
+| 3301 29 91 | TERPENELESS ESSENTIAL OILS, INCLUDING CONCRETES AND ABSOLUTES (EXCLUDING 3301 11 10 TO 3301 29 59 ) |
+| 3301 30 00 | RESINOIDS |
+| 3302 10 40 | MIXTURES OF ODORIFEROUS SUBSTANCES AND MIXTURES, INCLUDING ALCOHOLIC SOLUTIONS, WITH A BASIS OF ONE OR MORE OF THESE SUBSTANCES, OF A KIND USED AS RAW MATERIALS IN THE DRINK INDUSTRIES, AND PREPARATIONS BASED ON ODORIFEROUS SUBSTANCES |
+| 3302 10 90 | MIXTURES OF ODORIFEROUS SUBSTANCES AND MIXTURES, INCLUDING ALCOHOLIC SOLUTIONS, WITH A BASIS OF ONE OR MORE OF THESE SUBSTANCES, OF A KIND USED AS RAW MATERIALS IN THE FOOD INDUSTRIES |
+| 3501 90 10 | CASEIN GLUES (EXCLUDING THOSE PUT UP FOR RETAIL SALE AS GLUE AND WEIGHING =< 1 KG) |
+| 3502 11 10 | EGG ALBUMIN, DRIED ‘FOR EXAMPLE, IN SHEETS, SCALES, FLAKES, POWDER’, UNFIT, OR TO BE RENDERED UNFIT, FOR HUMAN CONSUMPTION |
+| 3502 11 90 | EGG ALBUMIN, DRIED ‘FOR EXAMPLE, IN SHEETS, SCALES, FLAKES, POWDER’, FIT FOR HUMAN CONSUMPTION |
+| 3502 19 10 | EGG ALBUMIN, UNFIT, OR TO BE RENDERED UNFIT, FOR HUMAN CONSUMPTION (EXCLUDING DRIED [FOR EXAMPLE, IN SHEETS, SCALES, FLAKES, POWDER]) |
+| 3502 19 90 | EGG ALBUMIN, FIT FOR HUMAN CONSUMPTION (EXCLUDING DRIED [FOR EXAMPLE, IN SHEETS, FLAKES, CRYSTALS, POWDER]) |
+| 3502 20 10 | MILK ALBUMIN ‘LACTALBUMIN’, INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT > 80 % WHEY PROTEINS, CALCULATED ON THE DRY MATTER, UNFIT, OR TO BE RENDERED UNFIT, FOR HUMAN CONSUMPTION |
+| 3502 20 91 | MILK ALBUMIN ‘LACTALBUMIN’, INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT > 80 % WHEY PROTEINS, CALCULATED ON THE DRY MATTER, FIT FOR HUMAN CONSUMPTION, DRIED ‘FOR EXAMPLE, IN SHEETS, SCALES, FLAKES, POWDER’ |
+| 3502 20 99 | MILK ALBUMIN ‘LACTALBUMIN’, INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS, CONTAINING BY WEIGHT > 80 % WHEY PROTEINS, CALCULATED ON THE DRY MATTER, FIT FOR HUMAN CONSUMPTION (EXCLUDING DRIED [FOR EXAMPLE, IN SHEETS, FLAKES, CRYSTALS, POWDER]) |
+| 3502 90 20 | ALBUMINS, UNFIT, OR TO BE RENDERED UNFIT, FOR HUMAN CONSUMPTION (EXCLUDING EGG ALBUMIN AND MILK ALBUMIN [INCLUDING CONCENTRATES OF TWO OR MORE WHEY PROTEINS CONTAINING BY WEIGHT > 80 % WHEY PROTEINS, CALCULATED ON THE DRY MATTER]) |
+| 3502 90 70 | ALBUMINS, FIT FOR HUMAN CONSUMPTION (EXCLUDING EGG ALBUMIN AND MILK ALBUMIN ‘LACTALBUMIN’) |
+| 3502 90 90 | ALBUMINATES AND OTHER ALBUMIN DERIVATIVES |
+| 3503 00 10 | GELATIN, WHETHER OR NOT IN SQUARE OR RECTANGULAR SHEETS, WHETHER OR NOT SURFACE-WORKED OR COLOURED, AND DERIVATIVES THEREOF (EXCLUDING IMPURE GELATINS) |
+| 3503 00 80 | ISINGLASS; OTHER GLUES OF ANIMAL ORIGIN (EXCLUDING CASEIN GLUES OF HEADING NO 3501 ) |
+| 3504 00 00 | PEPTONES AND THEIR DERIVATIVES; OTHER ALBUMINOUS SUBSTANCES AND THEIR DERIVATIVES N.E.S.; HIDE POWDER, WHETHER OR NOT CHROMED |
+| 3505 10 50 | STARCHES, ETHERIFIED AND ESTERIFIED (EXCLUDING DEXTRINS) |
+| 4101 20 10 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN <= 16 KG, FRESH |
+| 4101 20 30 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN <= 16 KG, WET-SALTED |
+| 4101 20 50 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN <= 8 KG WHEN SIMPLY DRIED OR <= 10 KG WHEN DRY-SALTED |
+| 4101 20 90 | ‘WHOLE RAW HIDES AND SKINS OF BOVINE’ INCLUDING BUFFALO OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN <= 16 KG, LIMED, PICKLED OR OTHERWISE PRESERVED (EXCLUDING FRESH OR WET-SALTED, SIMPLY DRIED OR DRY-SALTED, TANNED OR PARCHMENT |
+| 4101 50 10 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN > 16 KG, FRESH |
+| 4101 50 30 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN > 16 KG, WET-SALTED |
+| 4101 50 50 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN > 16 KG, DRIED OR DRY-SALTED |
+| 4101 50 90 | WHOLE RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED OR SPLIT, OF A WEIGHT PER SKIN > 16 KG, LIMED, PICKLED OR OTHERWISE PRESERVED (EXCLUDING FRESH OR WET-SALTED, SIMPLY DRIED OR DRY-SALTED, TANNED OR PARCHMENT |
+| 4101 90 00 | BUTTS, BENDS, BELLIES AND SPLIT RAW HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ OR EQUINE ANIMALS, WHETHER OR NOT DEHAIRED, FRESH, OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED, AND WHOLE RAW HIDES AND SKINS OF A WEIGHT PER SKIN > 8 KG BUT |
+| 4102 10 10 | RAW HIDES AND SKINS OF LAMBS, WITH WOOL ON, FRESH OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED (EXCLUDING THOSE OF ASTRAKHAN, CARACUL, PERSIAN, BROADTAIL OR SIMILAR LAMBS, OR OF INDIAN, CHINESE, MONGOLIAN OR TIBETAN LAMBS) |
+| 4102 10 90 | RAW HIDES AND SKINS OF SHEEP, WITH WOOL ON, FRESH OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED (EXCLUDING THOSE OF LAMBS) |
+| 4102 21 00 | RAW HIDES AND SKINS OF SHEEP AND LAMBS, WITHOUT WOOL ON, PICKLED, WHETHER OR NOT SPLIT |
+| 4102 29 00 | RAW HIDES AND SKINS OF SHEEP AND LAMBS, WITHOUT WOOL ON, FRESH OR SALTED, DRIED, LIMED OR OTHERWISE PRESERVED, WHETHER OR NOT SPLIT (EXCLUDING PICKLED OR PARCHMENT-DRESSED) |
+| 4103 10 20 | RAW HIDES AND SKINS OF GOATS OR KIDS, FRESH, WHETHER OR NOT DEHAIRED OR SPLIT (EXCLUDING HIDES AND SKINS OF GOATS OR KIDS FROM YEMEN, MONGOLIA OR TIBET WITH HAIR ON) |
+| 4103 10 50 | RAW HIDES AND SKINS OF GOATS OR KIDS, SALTED OR DRIED, WHETHER OR NOT DEHAIRED OR SPLIT (EXCLUDING HIDES AND SKINS OF GOATS OR KIDS FROM YEMEN, MONGOLIA OR TIBET WITH HAIR ON) |
+| 4103 10 90 | RAW HIDS AND SKINS OF GOATS OR KIDS, LIMED, PICKLED OR OTHERWISE PRESERVED, WHETHER OR NOT DEHAIRED OR SPLIT (EXCLUDING FRESH, SALTED, DRIED, PARCHMENT-DRESSED, PLUS HIDES AND SKINS OF GOATS OR KIDS FROM YEMEN, MONGOLIA OR TIBET WITH HAIR ON) |
+| 4103 20 00 | RAW HIDES AND SKINS OF REPTILES, FRESH OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED, (EXCLUDING PARCHMENT-DRESSED) |
+| 4103 30 00 | RAW HIDES AND SKINS OF SWINE, FRESH, OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED, WHETHER OR NOT DEHAIRED OR SPLIT (EXCLUDING PARCHMENT-DRESSED) |
+| 4103 90 00 | RAW HIDES AND SKINS, FRESH, OR SALTED, DRIED, LIMED, PICKLED OR OTHERWISE PRESERVED, WHETHER OR NOT DEHAIRED, INCLUDING BIRDSKINS WITHOUT FEATHERS OR DOWN (EXCLUDING PARCHMENT-DRESSED, HIDES AND SKINS OF BOVINE ‘INCLUDING BUFFALO’ ANIMALS, EQUINE ANIMALS |
+| 4301 10 00 | RAW FURSKINS OF MINK, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 30 00 | RAW FURSKINS OF THE FOLLOWING TYPES OF LAMB: ASTRAKHAN, CARACUL, PERSIAN, BROADTAIL AND SIMILAR, PLUS INDIAN, CHINESE, MONGOLIAN OR TIBETAN AND SIMILAR, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 60 00 | RAW FURSKINS OF FOX, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 70 10 | RAW FURSKINS OF WHITECOAT PUPS OF HARP SEALS OR BLUEBACK PUPS OF HOODED SEALS, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 70 90 | RAW FURSKINS OF TRUE AND EARED SEALS, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET (EXCLUDING THOSE OF WHITECOAT PUPS OF HARP SEALS OR BLUEBACK PUPS OF HOODED SEALS) |
+| 4301 80 10 | RAW FURSKINS OF SEA OTTER OR COYPU, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 80 30 | RAW FURSKINS OF MARMOT, WHOLE, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 80 50 | RAW FURSKINS OF WILDCAT OF ALL KINDS, WHETHER OR NOT WITHOUT HEADS, TAILS OR FEET |
+| 4301 80 80 | RAW FURSKINS, WHOLE, WITH OR WITHOUT HEADS, TAILS OR PAWS (EXCLUDING THOSE OF MINK, LAMB ASTRAKHAN, CARACUL, PERSIAN, BROADTAIL AND SIMILAR, AND INDIAN, CHINESE, MONGOLIAN OR TIBETAN, FOX, SEAL, SEA OTTERS, NUTRIA ‘COYPU’, MARMOTS AND OF WILD FELINES) |
+| 4301 80 95 | RAW FURSKINS, WHOLE, WITH OR WITHOUT HEADS, TAILS OR PAWS (EXCLUDING THOSE OF MINK, LAMB ASTRAKHAN, CARACUL, PERSIAN, BROADTAIL AND SIMILAR, AND INDIAN, CHINESE, MONGOLIAN OR TIBETAN, FOX, SEAL, SEA OTTERS, NUTRIA ‘COYPU’, MARMOTS AND OF WILD FELINES) |
+| 4301 90 00 | HEADS, TAILS, FEET AND OTHER PIECES OR CUTTINGS OF FURSKINS SUITABLE FOR USE IN FURRIERY |
+| 5001 00 00 | SILKWORM COCOONS SUITABLE FOR REELING |
+| 5002 00 00 | RAW SILK, NEITHER SPUN NOR THROWN |
+| 5003 10 00 | SILK WASTE, INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK, NEITHER CARDED NOR COMBED |
+| 5003 90 00 | SILK WASTE, INCLUDING COCOONS UNSUITABLE FOR REELING, YARN WASTE AND GARNETTED STOCK, CARDED OR COMBED |
+| 5101 11 00 | GREASY SHORN WOOL, INCLUDING FLEECE WASHED WOOL, NEITHER CARDED NOR COMBED |
+| 5101 19 00 | GREASY WOOL, INCLUDING FLEECE WASHED WOOL, NEITHER CARDED NOR COMBED (EXCLUDING SHORN WOOL) |
+| 5101 21 00 | SHORN WOOL, DEGREASED, NON-CARBONISED, NEITHER CARDED NOR COMBED |
+| 5101 29 00 | DEGREASED WOOL, NON-CARBONISED, NEITHER CARDED NOR COMBED (EXCLUDING SHORN WOOL) |
+| 5101 30 00 | CARBONISED WOOL, NEITHER CARDED NOR COMBED |
+| 5102 11 00 | HAIR OF KASHMIR ‘CASHMERE’ GOATS, NEITHER CARDED NOR COMBED |
+| 5102 19 10 | HAIR OF ANGORA RABBIT, NEITHER CARDED NOR COMBED |
+| 5102 19 30 | HAIR OF ALPACA, LLAMA OR VICUNA, NEITHER CARDED NOR COMBED |
+| 5102 19 40 | HAIR OF CAMEL OR YAK, OR OF ANGORA GOATS, TIBETAN GOATS OR SIMILAR GOATS, NEITHER CARDED NOR COMBED |
+| 5102 19 90 | HAIR OF RABBIT, HARE, BEAVER, NUTRIA ‘COYPU’ OR MUSK RAT, NEITHER CARDED NOR COMBED (EXCLUDING OF ANGORA RABBIT) |
+| 5102 20 00 | COARSE ANIMAL HAIR, NEITHER CARDED NOR COMBED (EXCLUDING WOOL, HAIR AND BRISTLES USED IN THE MANUFACTURE OF BROOMS AND BRUSHES, AND HORSEHAIR FROM THE MANE OR TAIL) |
+| 5103 10 10 | NOILS OF WOOL OR OF FINE ANIMAL HAIR, NON-CARBONISED (EXCLUDING GARNETTED STOCK) |
+| 5103 10 90 | NOILS OF WOOL OR OF FINE ANIMAL HAIR, CARBONISED (EXCLUDING GARNETTED STOCK) |
+| 5103 20 10 | YARN WASTE OF WOOL OR OF FINE ANIMAL HAIR |
+| 5103 20 91 | WASTE OF WOOL OR OF FINE ANIMAL HAIR, NON-CARBONISED (EXCLUDING YARN WASTE, NOILS AND GARNETTED STOCK) |
+| 5103 20 99 | WASTE OF WOOL OR OF FINE ANIMAL HAIR, CARBONISED (EXCLUDING YARN WASTE, NOILS AND GARNETTED STOCK) |
+| 5103 30 00 | WASTE OF COARSE ANIMAL HAIR, INCLUDING YARN WASTE (EXCLUDING GARNETTED STOCK, WASTE OF HAIR OR BRISTLES USED IN THE MANUFACTURE OF BROOMS AND BRUSHES, AND OF HORSEHAIR FROM THE MANE OR TAIL) |
+| 5201 00 10 | COTTON, NEITHER CARDED NOR COMBED, ABSORBENT OR BLEACHED |
+| 5201 00 90 | COTTON, NEITHER CARDED NOR COMBED (EXCLUDING ABSORBENT OR BLEACHED) |
+| 5202 10 00 | COTTON YARN WASTE |
+| 5202 91 00 | GARNETTED STOCK OF COTTON |
+| 5202 99 00 | COTTON WASTE (EXCLUDING YARN WASTE AND GARNETTED STOCK) |
+| 5203 00 00 | COTTON, CARDED OR COMBED |
+| 5301 10 00 | FLAX, RAW OR RETTED |
+| 5301 21 00 | FLAX, BROKEN OR SCUTCHED |
+| 5301 29 00 | FLAX, HACKLED OR OTHERWISE PROCESSED, BUT NOT SPUN (EXCLUDING BROKEN, SCUTCHED AND RETTED FLAX) |
+| 5301 30 10 | FLAX TOW |
+| 5301 30 90 | FLAX WASTE, INCLUDING YARN WASTE AND GARNETED STOCK |
+| 5302 10 00 | HEMP ‘CANNABIS SATIVA’, RAW OR RETTED |
+| 5302 90 00 | HEMP ‘CANNABIS SATIVA’, PROCESSED BUT NOT SPUN; TOW AND WASTE OF HEMP, INCLUDING YARN WASTE AND GARNETED STOCK (EXCLUDING RETTED HEMP) |
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+## ANNEX II(b)
+
+**ALBANIAN TARIFF CONCESSIONS FOR AGRICULTURAL PRIMARY PRODUCTS ORIGINATING IN THE COMMUNITY**
+
+**(referred to in Article 27(3)(b))**
+
+Customs duties for the products listed in this Annex will be reduced and eliminated in accordance with the following timetable:
+
+— on the date of entry into force of the Agreement, the import duty will be reduced to 90 % of the basic duty,
+
+— on 1 January of the first year following the date of entry into force of the Agreement, the import duty will be reduced to 80 % of the basic duty,
+
+— on 1 January of the second year following the date of entry into force of the Agreement, the import duty will be reduced to 60 % of the basic duty,
+
+— on 1 January of the third year following the date of entry into force of the Agreement, the import duty will be reduced to 40 % of the basic duty,
+
+— on 1 January of the fourth year following the date of entry into force of the Agreement, the import duty will be reduced to 0 % of the basic duty.
+
+| HS code (1) | Description |
+| --- | --- |
+| 0101 90 11 | HORSES FOR SLAUGHTER |
+| 0101 90 19 | LIVE HORSES (EXCLUDING THOSE PURE BRED FOR BREEDING AND FOR SLAUGHTER) |
+| 0101 90 30 | LIVE ASSES |
+| 0101 90 90 | LIVE MULES AND HINNIES |
+| 0206 10 91 | FRESH OR CHILLED EDIBLE BOVINE LIVERS (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 10 95 | FRESH OR CHILLED EDIBLE BOVINE THICK AND THIN SKIRT (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 10 99 | FRESH OR CHILLED EDIBLE BOVINE OFFAL (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS, LIVERS AND THICK AND THIN SKIRT) |
+| 0206 21 00 | FROZEN EDIBLE BOVINE TONGUES |
+| 0206 22 00 | FROZEN EDIBLE BOVINE LIVERS |
+| 0206 29 91 | FROZEN EDIBLE BOVINE THICK AND THIN SKIRT (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 29 99 | FROZEN EDIBLE BOVINE OFFAL (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS, TONGUES, LIVERS AND THICK AND THIN SKIRT) |
+| 0206 30 20 | FRESH OR CHILLED EDIBLE LIVERS OF DOMESTIC SWINE |
+| 0206 30 30 | FRESH OR CHILLED EDIBLE DOMESTIC SWINE OFFAL (EXCLUDING LIVERS) |
+| 0206 30 80 | FRESH OR CHILLED EDIBLE NON-DOMESTIC SWINE OFFAL |
+| 0206 41 20 | FROZEN EDIBLE LIVERS OF DOMESTIC SWINE |
+| 0206 41 80 | FROZEN EDIBLE NON-DOMESTIC SWINE LIVERS |
+| 0206 49 20 | FROZEN EDIBLE OFFAL OF DOMESTIC SWINE (EXCLUDING LIVERS) |
+| 0206 49 80 | FROZEN EDIBLE OFFAL OF NON-DOMESTIC SWINE (EXCLUDING LIVERS) |
+| 0206 80 91 | FRESH OR CHILLED EDIBLE OFFAL OF HORSES, ASSES, MULES AND HINNIES (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 80 99 | FRESH OR CHILLED EDIBLE OFFAL OF SHEEP AND GOATS (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 90 91 | FROZEN EDIBLE OFFAL OF HORSES, ASSES, MULES AND HINNIES (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0206 90 99 | FROZEN EDIBLE OFFAL OF SHEEP AND GOATS (EXCLUDING FOR MANUFACTURE OF PHARMACEUTICAL PRODUCTS) |
+| 0208 10 11 | MEAT AND EDIBLE MEAT OFFAL OF DOMESTIC RABBITS, FRESH OR CHILLED |
+| 0208 10 19 | MEAT AND EDIBLE MEAT OFFAL OF DOMESTIC RABBITS, FROZEN |
+| 0208 10 90 | FRESH, CHILLED OR FROZEN MEAT AND EDIBLE OFFAL OF NON-DOMESTIC RABBITS AND HARES |
+| 0208 20 00 | FRESH, CHILLED OR FROZEN FROGS' LEGS |
+| 0208 40 10 | FRESH, CHILLED OR FROZEN WHALES MEAT |
+| 0208 90 10 | FRESH, CHILLED OR FROZEN DOMESTIC PIGEON MEAT AND EDIBLE OFFAL |
+| 0208 90 20 | MEAT AND EDIBLE MEAT OFFAL OF QUAILS, FRESH, CHILLED OR FROZEN |
+| 0208 90 40 | MEAT AND EDIBLE MEAT OFFAL OF GAME, FRESH, CHILLED OR FROZEN (EXCLUDING RABBITS, HARES, PIGS AND QUAILS) |
+| 0208 90 55 | FRESH, CHILLED OR FROZEN SEAL MEAT |
+| 0208 90 60 | FRESH, CHILLED OR FROZEN REINDEER MEAT AND EDIBLE OFFAL THEREOF |
+| 0208 90 95 | MEAT AND EDIBLE OFFAL, FRESH, CHILLED OR FROZEN (EXCLUDING BOVINE ANIMALS, SWINE, SHEEP, GOATS, HORSES, ASSES, MULES, HINNIES, POULTRY ‘FOWLS OF THE SPECIES GALLUS DOMESTICUS, DUCKS, GEESE, TURKEYS, GUINEA FOWLS’, RABBITS, HARES, PRIMATES, WHALES) |
+| 0209 00 11 | FRESH, CHILLED OR FROZEN SUBCUTANEOUS PIG FAT, SALTED OR IN BRINE |
+| 0209 00 19 | DRIED OR SMOKED SUBCUTANEOUS PIG FAT |
+| 0209 00 30 | PIG FAT, NOT RENDERED |
+| 0209 00 90 | POULTRY FAT, NOT RENDERED |
+| 0403 90 11 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF =< 1,5 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 13 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 1,5 % BUT =< 27 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 19 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 27 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 31 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF =< 1,5 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 33 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 1,5 % BUT =< 27 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 39 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM IN SOLID FORMS, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 27 % (EXCLUDING YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 51 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF =< 3 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 53 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 3 % BUT =< 6 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS) |
+| 0403 90 59 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, UNSWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 6 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 61 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF =< 3 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0403 90 63 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 3 % BUT =< 6 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS) |
+| 0403 90 69 | BUTTERMILK, CURDLED MILK AND CREAM, KEPHIR AND OTHER FERMENTED OR ACIDIFIED MILK AND CREAM, WHETHER OR NOT CONCENTRATED, SWEETENED, WITH A FAT CONTENT BY WEIGHT OF > 6 % (EXCLUDING IN SOLID FORMS, YOGHURT, FLAVOURED OR WITH ADDED FRUIT, NUTS OR COCOA) |
+| 0404 10 26 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF <= 1,5 % |
+| 0404 10 28 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 1,5 % AND <= 27 % |
+| 0404 10 32 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF <= 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 27 % |
+| 0404 10 34 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF <= 1,5 % |
+| 0404 10 36 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 1,5 % AND <= 27 % |
+| 0404 10 38 | WHEY AND MODIFIED WHEY, IN POWDER, GRANULES OR OTHER SOLID FORMS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’ OF > 15 % BY WEIGHT AND A FAT CONTENT, BY WEIGHT, OF > 27 % |
+| 0404 10 48 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 52 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 54 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 56 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF > 15 % |
+| 0404 10 58 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF > 15 % |
+| 0404 10 62 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF > 15 % |
+| 0404 10 72 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 74 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 76 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF <= 15 % |
+| 0404 10 78 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF >= 15 % |
+| 0404 10 82 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF >= 15 % |
+| 0404 10 84 | WHEY AND MODIFIED WHEY, WHETHER OR NOT CONCENTRATED, BUT NOT IN POWDER, GRANULES OR OTHER SOLID FORMS, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A PROTEIN CONTENT ‘NITROGEN CONTENT X 6,38’, BY WEIGHT OF >= 15 % |
+| 0404 90 21 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF <= 1,5 %, N.E.S. |
+| 0404 90 23 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF > 1,5 % BUT <= 27 %, N.E.S. |
+| 0404 90 29 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF > 27 %, N.E.S. |
+| 0404 90 81 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF <= 1,5 %, N.E.S. |
+| 0404 90 83 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF > 1,5 % BUT <= 27 %, N.E.S. |
+| 0404 90 89 | PRODUCTS CONSISTING OF NATURAL MILK CONSTITUENTS, WITH ADDED SUGAR OR OTHER SWEETENING MATTER, OF A FAT CONTENT, BY WEIGHT, OF > 27 %, N.E.S. |
+| 0405 20 90 | DAIRY SPREADS OF A FAT CONTENT, BY WEIGHT, OF > 75 % BUT < 80 % |
+| 0405 90 10 | FATS AND OILS DERIVED FROM MILK, OF A FAT CONTENT, BY WEIGHT, OF >= 99,3 % AND OF A WATER CONTENT, BY WEIGHT, OF <= 0,5 % |
+| 0405 90 90 | FATS AND OILS DERIVED FROM MILK, DEHYDRATED BUTTER AND GHEE (EXCLUDING OF A FAT CONTENT, BY WEIGHT, OF >= 99,3 % AND A WATER CONTENT, BY WEIGHT, OF <= 0,5 %, AND NATURAL BUTTER, RECOMBINED BUTTER AND WHEY BUTTER) |
+| 0406 10 20 | FRESH CHEESE, I.E. UNRIPENED OR UNCURED CHEESE, INCLUDING WHEY CHEESE AND CURD OF A FAT CONTENT, BY WEIGHT, OF =< 40 % |
+| 0406 10 80 | FRESH CHEESE, I.E. UNRIPENED OR UNCURED CHEESE, INCLUDING WHEY CHEESE AND CURD OF A FAT CONTENT, BY WEIGHT, OF > 40 % |
+| 0406 20 10 | GLARUS HERB CHEESE, GRATED OR POWDERED |
+| 0406 20 90 | GRATED OR POWDERED CHEESE (EXCLUDING GLARUS HERB CHEESE) |
+| 0406 30 10 | PROCESSED CHEESE, NOT GRATED OR POWDERED, IN THE MANUFACTURE OF WHICH NO CHEESES OTHER THAN EMMENTALER, GRUYERE AND APPENZELL HAVE BEEN USED AND WHICH MAY CONTAIN, AS AN ADDITION, GLARUS HERB CHEESE ‘KNOWN AS SCHABZIGER’; PUT UP FOR RETAIL SALE |
+| 0406 30 31 | PROCESSED CHEESE, NOT GRATED OR POWDERED, OF A FAT CONTENT, BY WEIGHT, OF <= 36 % AND OF A FAT CONTENT, BY WEIGHT, IN THE DRY MATTER OF <= 48 % (EXCLUDING PROCESSED CHEESE MIXTURES MADE FROM EMMENTALER, GRUYERE AND APPENZELL |
+| 0406 30 39 | PROCESSED CHEESE, NOT GRATED OR POWDERED, OF A FAT CONTENT, BY WEIGHT, OF <= 36 % AND OF A FAT CONTENT, BY WEIGHT, IN THE DRY MATTER OF > 48 % (EXCLUDING PROCESSED CHEESE MIXTURES MADE FROM EMMENTALER, GRUYERE AND APPENZELL |
+| 0406 30 90 | PROCESSED CHEESE, NOT GRATED OR POWDERED, OF A FAT CONTENT, BY WEIGHT, OF > 36 % (EXCLUDING PROCESSED CHEESE MIXTURES MADE FROM EMMENTALER, GRUYERE AND APPENZELL, WITH OR WITHOUT THE ADDITION OF GLARUS HERB CHEESE, PUT UP FOR RETAIL SALE |
+| 0406 40 10 | ROQUEFORT |
+| 0406 40 50 | GORGONZOLA |
+| 0406 40 90 | BLUE VEINED CHEESE (EXCLUDING ROQUEFORT AND GORGONZOLA) |
+| 0406 90 01 | CHEESE FOR PROCESSING (EXCLUDING FRESH CHEESE, INCLUDING WHEY CHEESE, NOT FERMENTED, CURD, PROCESSED CHEESE, BLUE VEINED CHEESE, AND GRATED OR POWDERED CHEESE): |
+| 0406 90 02 | EMMENTALER, GRUYERE, SBRINZ, BERGKASE AND APPENZELL, OF A FAT CONTENT NOT LESS THAN 45 % BY WEIGHT IN THE DRY MATTER, MATURED FOR THREE MONTHS OR MORE, WHOLE CHEESES OF A TYPE SPECIFIED IN ADDITIONAL NOTE 2 TO CHAPTER 4 |
+| 0406 90 03 | EMMENTALER, GRUYERE, SBRINZ, BERGKASE AND APPENZELL, OF A FAT CONTENT NOT LESS THAN 45 % BY WEIGHT IN THE DRY MATTER, MATURED FOR THREE MONTHS OR MORE, WHOLE CHEESES OF A TYPE SPECIFIED IN ADDITIONAL NOTE 2 TO CHAPTER 4 |
+| 0406 90 04 | EMMENTALER, GRUYERE, SBRINZ, BERGKASE AND APPENZELL, OF A FAT CONTENT NOT LESS THAN 45 % BY WEIGHT IN THE DRY MATTER, MATURED FOR THREE MONTHS OR MORE, PIECES PACKED IN VACUUM OR INERT GAS, WITH RIND ON AT LEAST ONE SIDE, OF A NET WEIGHT OF 1 KG OR MORE |
+| 0406 90 05 | EMMENTALER, GRUYERE, SBRINZ, BERGKASE AND APPENZELL, OF A FAT CONTENT NOT LESS THAN 45 % BY WEIGHT IN THE DRY MATTER, MATURED FOR THREE MONTHS OR MORE, PIECES PACKED IN VACUUM OR INERT GAS, WITH RIND ON AT LEAST ONE SIDE, OF A NET WEIGHT OF 1 KG OR MORE |
+| 0406 90 06 | EMMENTALER, GRUYERE, SBRINZ, BERGKASE AND APPENZELL, OF A FAT CONTENT NOT LESS THAN 45 % BY WEIGHT IN THE DRY MATTER, MATURED FOR THREE MONTHS OR MORE, PIECES WITHOUT RIND, OF A NET WEIGHT OF LESS THAN 450 G |
+| 0406 90 13 | EMMENTALER (EXCLUDING GRATED OR POWDERED, THAT FOR PROCESSING AND THAT OF SUBHEADINGS 0406 90 02 TO 0406 90 06 ) |
+| 0406 90 15 | GRUYERE AND SBRINZ (EXCLUDING GRATED OR POWDERED, THOSE FOR PROCESSING AND THOSE OF SUBHEADINGS 0406 90 02 TO 0406 90 06 ) |
+| 0406 90 17 | BERGKASE AND APPENZELL (EXCLUDING GRATED OR POWDERED, THOSE FOR PROCESSING AND THOSE OF SUBHEADINGS 0406 90 02 TO 0406 90 06 ) |
+| 0406 90 18 | FROMAGE FRIBOURGEOIS, VACHERIN MONT D'OR AND TETE DE MOINE (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 19 | GLARUS HERB CHEESE (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 21 | CHEDDAR (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 23 | EDAM (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 25 | TILSIT (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 27 | BUTTERKASE (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 29 | KASHKAVAL (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 35 | KEFALOTYRI (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 37 | FINLANDIA (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 39 | JARLSBERG (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 50 | SHEEP'S OR BUFFALO MILK CHEESE, IN CONTAINERS CONTAINING BRINE, OR IN SHEEP OR GOATSKIN BOTTLES (EXCLUDING FETA) |
+| 0406 90 61 | GRANA PADANO, PARMIGIANO REGGIANO, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF =< 47 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 69 | CHEESE OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF =< 47 % N.E.S. |
+| 0406 90 73 | PROVOLONE OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 75 | ASIAGO, CACIOCAVALLO, MONTASIO, RAGUSANO, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 76 | DANBO, FONTAL, FONTINA, FYNBO, HAVARTI, MARIBO AND SAMSO, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 78 | GOUDA, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 79 | ESROM, ITALICO, KERNHEM, SAINT NECTAIRE, SAINT PAULIN, TALEGGIO, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 81 | CANTAL, CHESHIRE, WENSLEYDALE, LANCASHIRE, DOUBLE GLOUCESTER, BLARNEY, COLBY, MONTEREY, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 82 | CAMEMBERT, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 84 | BRIE, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 % (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 85 | KEFALOGRAVIERA AND KASSERI (EXCLUDING GRATED OR POWDERED AND FOR PROCESSING) |
+| 0406 90 86 | CHEESE, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 47 % BUT =< 72 %, N.E.S. |
+| 0406 90 87 | CHEESE, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 52 % BUT =< 62 %, N.E.S. |
+| 0406 90 88 | CHEESE, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 62 % BUT =< 72 % N.E.S. |
+| 0406 90 93 | CHEESE, OF A FAT CONTENT BY WEIGHT OF =< 40 % AND A WATER CONTENT, BY WEIGHT, OF NON-FATTY MATTER OF > 72 % N.E.S. |
+| 0406 90 99 | CHEESE OF A FAT CONTENT BY WEIGHT OF > 40 % N.E.S. |
+| 0408 11 20 | EGG YOLKS, DRIED, NOT SUITABLE FOR HUMAN CONSUMPTION, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER |
+| 0408 11 80 | EGG YOLKS, DRIED, FOR HUMAN CONSUMPTION, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER |
+| 0408 19 20 | EGG YOLKS, FRESH, COOKED BY STEAMING OR BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, UNSUITABLE FOR HUMAN CONSUMPTION (EXCLUDING DRIED) |
+| 0408 19 81 | EGG YOLKS, LIQUID, SUITABLE FOR HUMAN CONSUMPTION, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER |
+| 0408 19 89 | EGG YOLKS (OTHER THAN LIQUID), FROZEN OR OTHERWISE PRESERVED, SUITABLE FOR HUMAN CONSUMPTION, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING DRIED) |
+| 0408 91 20 | DRIED BIRDS' EGGS, NOT IN SHELL, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT SUITABLE FOR HUMAN CONSUMPTION (EXCLUDING EGG YOLKS) |
+| 0408 91 80 | DRIED BIRDS' EGGS, NOT IN SHELL, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, SUITABLE FOR HUMAN CONSUMPTION (EXCLUDING EGG YOLKS) |
+| 0408 99 20 | BIRDS' EGGS, NOT IN SHELL, FRESH, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, NOT SUITABLE FOR HUMAN CONSUMPTION (EXCLUDING DRIED AND EGG YOLKS) |
+| 0408 99 80 | BIRDS' EGGS, NOT IN SHELL, FRESH, COOKED BY STEAMING OR BY BOILING IN WATER, MOULDED, FROZEN OR OTHERWISE PRESERVED, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, SUITABLE FOR HUMAN CONSUMPTION (EXCLUDING DRIED AND EGG YOLKS) |
+| 0511 10 00 | BOVINE SEMEN |
+| 0511 99 10 | SINEWS OR TENDONS OF ANIMAL ORIGIN, PARINGS AND SIMILAR WASTE OF RAW HIDES OR SKINS |
+| 0511 99 90 | ANIMAL PRODUCTS, N.E.S.; DEAD ANIMALS, UNFIT FOR HUMAN CONSUMPTION (EXCLUDING FISH, CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES) |
+| 0603 10 10 | FRESH CUT ROSES AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0603 10 20 | FRESH CUT CARNATIONS AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0603 10 30 | FRESH CUT ORCHIDS AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0603 10 40 | FRESH CUT GLADIOLI AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0603 10 50 | FRESH CUT CHRYSANTHEMUMS AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0603 10 80 | FRESH CUT FLOWERS AND BUDS, OF A KIND SUITABLE FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES (EXCLUDING ROSES, CARNATIONS, ORCHIDS, GLADIOLI AND CHRYSANTHEMUMS) |
+| 0603 90 00 | DRIED, DYED, BLEACHED, IMPREGNATED OR OTHERWISE PREPARED CUT FLOWERS AND BUDS, FOR BOUQUETS OR FOR ORNAMENTAL PURPOSES |
+| 0604 10 10 | REINDEER MOSS, FOR BOUQUETS OR ORNAMENTAL PURPOSES, FRESH, DRIED, DYED, BLEACHED, IMPREGNATED OR OTHERWISE PREPARED |
+| 0604 91 41 | BRANCHES OF NORDMANN'S FIRS [ABIES NORDMANNIANA [STEV.] SPACH] AND NOBLE FIRS [ABIES PROCERA REHD.]), FOR ORNAMENTAL PURPOSES |
+| 0701 90 10 | POTATOES FOR MANUFACTURE OF STARCH, FRESH OR CHILLED |
+| 0701 90 90 | OLD POTATOES, FRESH OR CHILLED (EXCLUDING NEW POTATOES, SEED POTATOES AND POTATOES FOR MANUFACTURE OF STARCH) |
+| 0703 10 90 | SHALLOTS, FRESH OR CHILLED |
+| 0703 90 00 | LEEKS AND OTHER ALLIACEOUS VEGETABLES, FRESH OR CHILLED (EXCLUDING ONIONS, SHALLOTS AND GARLIC) |
+| 0705 11 00 | FRESH OR CHILLED CABBAGE LETTUCE |
+| 0705 19 00 | FRESH OR CHILLED LETTUCE (EXCLUDING CABBAGE LETTUCE) |
+| 0705 29 00 | FRESH OR CHILLED CHICORY (EXCLUDING WITLOOF CHICORY) |
+| 0706 90 10 | FRESH OR CHILLED CELERIAC ‘ROOTED CELERY OR GERMAN CELERY’ |
+| 0706 90 90 | FRESH OR CHILLED SALAD BEETROOT, SALSIFY, RADISHES AND SIMILAR EDIBLE ROOTS (EXCLUDING CARROTS, TURNIPS, CELERIAC AND HORSERADISH) |
+| 0707 00 90 | FRESH OR CHILLED GHERKINS |
+| 0708 10 00 | FRESH OR CHILLED PEAS ‘PISUM SATIVUM’, SHELLED OR UNSHELLED |
+| 0708 90 00 | FRESH OR CHILLED LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED (EXCLUDING PEAS ‘PISUM SATIVUM’ AND BEANS ‘VIGNA SPP., PHASEOLUS SPP.’) |
+| 0709 10 00 | FRESH OR CHILLED GLOBE ARTICHOKES |
+| 0709 20 00 | FRESH OR CHILLED ASPARAGUS |
+| 0709 30 00 | FRESH OR CHILLED AUBERGINES |
+| 0709 40 00 | FRESH OR CHILLED CELERY (EXCLUDING CELERIAC) |
+| 0709 52 00 | FRESH OR CHILLED TRUFFLES |
+| 0709 60 10 | FRESH OR CHILLED SWEET PEPPERS |
+| 0709 60 91 | FRESH OR CHILLED FRUITS OF GENUS CAPSICUM FOR INDUSTRIAL MANUFACTURE OF CAPSICIN OR CAPSICUM OLEORESIN DYES |
+| 0709 60 95 | FRESH OR CHILLED FRUITS OF GENUS CAPSICUM OR PIMENTA FOR INDUSTRIAL MANUFACTURE OF ESSENTIAL OILS OR RESINOIDS |
+| 0709 60 99 | FRESH OR CHILLED FRUITS OF GENUS CAPSICUM OR PIMENTA (EXCLUDING FOR INDUSTRIAL MANUFACTURE OF CAPSICIN OR CAPSICUM OLEORESIN DYES, FOR INDUSTRIAL MANUFACTURE OF ESSENTIAL OILS OR RESINOIDS, AND SWEET PEPPERS) |
+| 0709 70 00 | FRESH OR CHILLED SPINACH, NEW ZEALAND SPINACH AND ORACHE SPINACH |
+| 0709 90 10 | FRESH OR CHILLED SALAD VEGETABLES (EXCLUDING LETTUCE AND CHICORY) |
+| 0709 90 20 | FRESH OR CHILLED CHARD ‘WHITE BEET’ AND CARDOONS |
+| 0709 90 31 | FRESH OR CHILLED OLIVES (EXCLUDING FOR OIL PRODUCTION) |
+| 0709 90 39 | FRESH OR CHILLED OLIVES FOR OIL PRODUCTION |
+| 0709 90 40 | FRESH OR CHILLED CAPERS |
+| 0709 90 50 | FRESH OR CHILLED FENNEL |
+| 0709 90 60 | FRESH OR CHILLED SWEETCORN |
+| 0709 90 70 | FRESH OR CHILLED COURGETTES |
+| 0709 90 90 | FRESH OR CHILLED VEGETABLES N.E.S. |
+| 0710 10 00 | POTATOES, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 21 00 | SHELLED OR UNSHELLED PEAS, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 22 00 | SHELLED OR UNSHELLED BEANS, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 29 00 | LEGUMINOUS VEGETABLES, SHELLED OR UNSHELLED, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN (EXCLUDING PEAS AND BEANS) |
+| 0710 30 00 | SPINACH, NEW ZEALAND SPINACH AND ORACHE SPINACH, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 80 10 | OLIVES, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 80 51 | SWEET PEPPERS, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 80 59 | FRUITS OF GENUS CAPSICUM OR PIMENTA, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN (EXCLUDING SWEET PEPPERS) |
+| 0710 80 61 | FROZEN MUSHROOMS OF THE GENUS AGARICUS, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER |
+| 0710 80 69 | FROZEN MUSHROOMS, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER (EXCLUDING OF THE GENUS AGARICUS) |
+| 0710 80 70 | TOMATOES, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 80 80 | ARTICHOKES, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0710 80 85 | ASPARAGUS, WHETHER OR NOT COOKED BY BOILING IN WATER OR BY STEAMING, FROZEN |
+| 0710 80 95 | VEGETABLES, WHETHER OR NOT COOKED BY BOILING IN WATER OR BY STEAMING, FROZEN (EXCLUDING POTATOES, LEGUMINOUS VEGETABLES, SPINACH, NEW ZEALAND SPINACH, ORACHE SPINACH, SWEETCORN, OLIVES, FRUITS OF THE GENUS CAPSICUM OR OF THE GENUS PIMENTA, MUSHROOMS, TOMATOES |
+| 0710 90 00 | MIXTURES OF VEGETABLES, UNCOOKED OR COOKED BY STEAMING OR BY BOILING IN WATER, FROZEN |
+| 0711 20 10 | OLIVES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION (EXCLUDING FOR OIL PRODUCTION) |
+| 0711 20 90 | OLIVES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION, FOR OIL PRODUCTION |
+| 0711 30 00 | CAPERS PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0711 40 00 | CUCUMBERS AND GHERKINS PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0711 59 00 | MUSHROOMS AND TRUFFLES, PROVISIONALLY PRESERVED, FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION (EXCLUDING MUSHROOMS OF THE GENUS ‘AGARICUS’) |
+| 0711 90 90 | MIXTURE OF VEGETABLES PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0712 20 00 | DRIED ONIONS, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 90 05 | DRIED POTATOES, WHETHER OR NOT CUT OR SLICED, BUT NOT FURTHER PREPARED |
+| 0712 90 11 | DRIED SWEETCORN, HYBRID, FOR SOWING |
+| 0712 90 19 | DRIED SWEETCORN, WHETHER OR NOR CUT OR SLICED, BUT NOT FURTHER PREPARED (EXCLUDING HYBRIDS FOR SOWING) |
+| 0712 90 30 | DRIED TOMATOES, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 90 50 | DRIED CARROTS, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED |
+| 0712 90 90 | DRIED VEGETABLES AND MIXTURES OF VEGETABLES, WHOLE, CUT, SLICED, BROKEN OR IN POWDER, BUT NOT FURTHER PREPARED (EXCLUDING POTATOES, ONIONS, MUSHROOMS, TRUFFLES, SWEETCORN, TOMATOES AND CARROTS) |
+| 0713 10 90 | PEAS, ‘PISUM SATIVUM’, DRIED AND SHELLED, WHETHER OR NOT SKINNED OR SPLIT (EXCLUDING PEAS FOR SOWING) |
+| 0713 20 00 | DRIED, SHELLED CHICKPEAS ‘GARBANZOS’, WHETHER OR NOT SKINNED OR SPLIT |
+| 0713 31 00 | DRIED, SHELLED BEANS OF SPECIES ‘VIGNA MUNGO (L.) HEPPER OR VIGNA RADIATA (L.) WILCZEK’, WHETHER OR NOT SKINNED OR SPLIT |
+| 0713 32 00 | DRIED, SHELLED SMALL RED ADZUKI BEANS ‘PHASEOLUS OR VIGNA ANGULARIS’, WHETHER OR NOT SKINNED OR SPLIT |
+| 0713 33 90 | DRIED, SHELLED KIDNEY BEANS ‘PHASEOLUS VULGARIS’, WHETHER OR NOT SKINNED OR SPLIT (EXCLUDING FOR SOWING) |
+| 0713 39 00 | DRIED, SHELLED BEANS ‘VIGNA AND PHASEOLUS’, WHETHER OR NOT SKINNED OR SPLIT (EXCLUDING BEANS OF SPECIES ‘VIGNA MUNGO (L.) HEPPER OR VIGNA RADIATA (L.) WILCZEK’, SMALL RED ADZUKI BEANS AND KIDNEY BEANS) |
+| 0801 11 00 | DESICCATED COCONUTS |
+| 0801 19 00 | FRESH COCONUTS, WHETHER OR NOT SHELLED OR PEELED |
+| 0801 21 00 | FRESH OR DRIED BRAZIL NUTS, IN SHELL |
+| 0801 31 00 | FRESH OR DRIED CASHEW NUTS, IN SHELL |
+| 0801 32 00 | FRESH OR DRIED CASHEW NUTS, SHELLED |
+| 0802 21 00 | FRESH OR DRIED HAZELNUTS IN SHELL |
+| 0802 22 00 | FRESH OR DRIED HAZELNUTS, SHELLED AND PEELED |
+| 0802 31 00 | FRESH OR DRIED WALNUTS IN SHELL |
+| 0802 32 00 | FRESH OR DRIED WALNUTS, SHELLED AND PEELED |
+| 0802 40 00 | FRESH OR DRIED CHESTNUTS, WHETHER OR NOT SHELLED OR PEELED |
+| 0802 50 00 | FRESH OR DRIED PISTACHIOS, WHETHER OR NOT SHELLED OR PEELED |
+| 0802 90 85 | NUTS, FRESH OR DRIED, WHETHER OR NOT SHELLED OR PEELED (EXCLUDING COCONUTS, BRAZIL NUTS, CASHEW NUTS, ALMONDS, HAZELNUTS, WALNUTS, CHESTNUTS ‘CASTANIA SPP.’, PISTACHIOS, PECANS, ARECA ‘BETEL’ NUTS, COLA NUTS, PINE NUTS AND MACADAMIA NUTS) |
+| 0803 00 11 | PLANTAINS, FRESH |
+| 0803 00 19 | BANANAS, FRESH (EXCLUDING PLANTAINS) |
+| 0804 20 10 | FRESH FIGS |
+| 0804 30 00 | FRESH OR DRIED PINEAPPLES |
+| 0804 50 00 | FRESH OR DRIED GUAVAS, MANGOES AND MANGOSTEENS |
+| 0805 10 10 | FRESH SANGUINES AND SEMI-SANGUINES |
+| 0805 10 30 | FRESH NAVELS, NAVELINES, NAVELATES, SALUSTIANAS, VERNAS, VALENCIA LATES, MALTESE, SHAMOUTIS, OVALIS, TROVITA AND HAMLINS |
+| 0805 10 50 | FRESH SWEET ORANGES (EXCLUDING SANGUINES AND SEMI-SANGUINES, NAVELS, NAVELINES, NAVELATES, SALUSTIANAS, VERNAS, VALENCIA LATES, MALTESE, SHAMOUTIS, OVALIS, TROVITA AND HAMLINS) |
+| 0805 10 80 | FRESH OR DRIED ORANGES (EXCLUDING FRESH SWEET ORANGES) |
+| 0805 20 10 | FRESH OR DRIED CLEMENTINES |
+| 0805 20 30 | FRESH OR DRIED MONREALES AND SATSUMAS |
+| 0805 20 50 | FRESH OR DRIED MANDARINS AND WILKINGS |
+| 0805 20 70 | FRESH OR DRIED TANGERINES |
+| 0805 20 90 | FRESH OR DRIED TANGELOS, ORTANIQUES, MALAQUINAS AND SIMILAR CITRUS HYBRIDS (EXCLUDING CLEMENTINES, MONREALES, SATSUMAS, MANDARINS, WILKINGS AND TANGERINES) |
+| 0805 50 10 | FRESH OR DRIED LEMONS ‘CITRUS LIMON, CITRUS LIMONUM’ |
+| 0805 50 90 | FRESH OR DRIED LIMES ‘CITRUS AURANTIFOLIA, CITRUS LATIFOLIA’ |
+| 0806 10 10 | FRESH TABLE GRAPES |
+| 0807 20 00 | FRESH PAWPAWS ‘PAPAYAS’ |
+| 0808 10 10 | FRESH CIDER APPLES, IN BULK, FROM 16 SEPTEMBER TO 15 DECEMBER |
+| 0808 10 20 | FRESH APPLES OF THE VARIETY GOLDEN DELICIOUS |
+| 0808 10 50 | FRESH APPLES OF THE VARIETY GRANNY SMITH |
+| 0808 10 90 | FRESH APPLES (EXCLUDING CIDER APPLES, IN BULK, FROM 16 SEPTEMBER TO 15 DECEMBER, AND THE VARIETIES GOLDEN DELICIOUS AND GRANNY SMITH) |
+| 0808 20 10 | FRESH PERRY PEARS, IN BULK, FROM 1 AUGUST TO 31 DECEMBER |
+| 0808 20 50 | FRESH PEARS (EXCLUDING PERRY PEARS, IN BULK, FROM 1 AUGUST TO 31 DECEMBER) |
+| 0808 20 90 | FRESH QUINCES |
+| 0809 10 00 | FRESH APRICOTS |
+| 0809 20 05 | FRESH SOUR CHERRIES ‘PRUNUS CERASUS’ |
+| 0809 20 95 | FRESH CHERRIES (EXCLUDING SOUR CHERRIES ‘PRUNUS CERASUS’) |
+| 0809 30 10 | FRESH NECTARINES |
+| 0809 30 90 | FRESH PEACHES (EXCLUDING NECTARINES) |
+| 0809 40 05 | FRESH PLUMS |
+| 0809 40 90 | FRESH SLOES |
+| 0810 20 10 | FRESH RASPBERRIES |
+| 0810 20 90 | FRESH BLACKBERRIES, MULBERRIES AND LOGANBERRIES |
+| 0810 30 10 | FRESH BLACK CURRANTS |
+| 0810 30 90 | FRESH WHITE CURRANTS AND GOOSEBERRIES |
+| 0810 40 30 | FRESH FRUIT OF SPECIES VACCINIUM MYRTILLUS |
+| 0810 40 50 | FRESH FRUIT OF SPECIES VACCINIUM MACROCARPUM AND VACCINIUM CORYMBOSUM |
+| 0810 40 90 | FRESH FRUITS OF GENUS VACCINIUM (EXCLUDING COWBERRIES, FOXBERRIES OR MOUNTAIN CRANBERRIES, AND OF SPECIES VACCINIUM MYRTILLUS, MACROCARPUM AND CORYMBOSUM) |
+| 0810 50 00 | FRESH KIWIFRUIT |
+| 0810 90 30 | TAMARINDS, CASHEW APPLES, JACKFRUIT, LYCHEES AND SAPODILLO PLUMS, FRESH |
+| 0810 90 40 | FRESH PASSION FRUIT, CARAMBOLA AND PITAHAYA |
+| 0810 90 95 | FRESH FRUIT, EDIBLE (EXCLUDING NUTS, BANANAS, DATES, FIGS, PINEAPPLES, AVOCADOES, GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, JACKFRUIT, LYCHEES, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, PITAHAYA, CITRUS FRUIT, GRAPES |
+| 0811 10 11 | STRAWBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, SWEETENED, WITH SUGAR CONTENT OF > 13 %, FROZEN |
+| 0811 10 19 | STRAWBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, SWEETENED, WITH SUGAR CONTENT OF =< 13 %, FROZEN |
+| 0811 10 90 | STRAWBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, UNSWEETENED, FROZEN |
+| 0811 20 31 | RASPBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 20 51 | RED CURRANTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 20 59 | BLACKBERRIES AND MULBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 20 90 | LOGANBERRIES, WHITE CURRANTS AND GOOSEBERRIES, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 90 19 | EDIBLE FRUIT AND NUTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, WITH A SUGAR CONTENT OF LESS THAN 13 % BY WEIGHT (EXCLUDING STRAWBERRIES, RASPBERRIES, BLACKBERRIES, MULBERRIES, LOGANBERRIES |
+| 0811 90 39 | EDIBLE FRUIT AND NUTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER, WITH A SUGAR CONTENT OF 13 % OR MORE BY WEIGHT (EXCLUDING STRAWBERRIES, RASPBERRIES, BLACKBERRIES, MULBERRIES, LOGANBERRIES |
+| 0811 90 50 | FRUIT OF SPECIES VACCINIUM MYRTILLUS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 90 70 | FRUIT OF SPECIES VACCINIUM MYRTILLOIDES AND VACCINIUM ANGUSTIFOLIUM, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, UNSWEETENED |
+| 0811 90 75 | SOUR CHERRIES ‘PRUNUS CERASUS’, WHETHER OR NOT BOILED OR STEAMED, FROZEN, NOT CONTAINING SUGAR OR OTHER SWEETENING MATTER |
+| 0811 90 80 | CHERRIES, WHETHER OR NOT BOILED OR STEAMED, FROZEN, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING SOUR CHERRIES ‘PRUNUS CERASUS’) |
+| 0811 90 85 | GUAVAS, MANGOES, MANGOSTEENS, PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, PITAHAYA, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, UNCOOKED OR COOKED |
+| 0811 90 95 | EDIBLE FRUIT AND NUTS, UNCOOKED OR COOKED BY STEAMING OR BOILING IN WATER, FROZEN, NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING STRAWBERRIES, RASPBERRIES, BLACKBERRIES, MULBERRIES, LOGANBERRIES, BLACK, WHITE OR REDCURRANTS, GOOSEBERRIES |
+| 0812 10 00 | CHERRIES, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 20 | ORANGES, PROVISIONALLY PRESERVED, BUT UNSUITABLE IN THAT STATE FOR IMMEDIATE CONSUMPTION |
+| 0812 90 99 | FRUIT AND NUTS, PROVISIONALLY PRESERVED, FOR EXAMPLE, BY SULPHUR DIOXIDE GAS, IN BRINE, IN SULPHUR WATER OR IN OTHER PRESERVATIVE SOLUTIONS, BUT UNSUITABLE FOR IMMEDIATE CONSUMPTION (EXCLUDING CHERRIES, APRICOTS, ORANGES, PAPAWS ‘PAPAYAS’) |
+| 0813 10 00 | DRIED APRICOTS |
+| 0813 20 00 | DRIED PRUNES |
+| 0813 30 00 | DRIED APPLES |
+| 0813 40 10 | DRIED PEACHES, INCLUDING NECTARINES |
+| 0813 40 30 | DRIED PEARS |
+| 0813 40 50 | DRIED PAWPAWS |
+| 0813 40 60 | DRIED TAMARINDS |
+| 0813 40 70 | DRIED CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA |
+| 0813 40 95 | DRIED EDIBLE FRUIT, N.E.S. |
+| 0813 50 12 | MIXTURES OF DRIED PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA AND PITAHAYA, NOT CONTAINING PRUNES |
+| 0813 50 15 | MIXTURES OF DRIED FRUIT, NOT CONTAINING PRUNES (EXCLUDING FRUIT IN HEADINGS 0801 TO 0806 AND PAPAWS ‘PAPAYAS’, TAMARINDS, CASHEW APPLES, LYCHEES, JACKFRUIT, SAPODILLO PLUMS, PASSION FRUIT, CARAMBOLA, AND PITAHAYA) |
+| 0813 50 99 | MIXTURES OF DRIED FRUITS N.E.S. |
+| 0901 11 00 | COFFEE (EXCLUDING ROASTED AND DECAFFEINATED) |
+| 0901 12 00 | DECAFFEINATED COFFEE (EXCLUDING ROASTED) |
+| 0901 21 00 | ROASTED COFFEE (EXCLUDING DECAFFEINATED) |
+| 0901 22 00 | ROASTED, DECAFFEINATED COFFEE |
+| 0901 90 90 | COFFEE SUBSTITUTES CONTAINING COFFEE IN ANY PROPORTION |
+| 0904 20 30 | DRIED FRUITS OF GENUS CAPSICUM OR PIMENTA, NEITHER CRUSHED OR GROUND (EXCLUDING SWEET PEPPERS) |
+| 0909 10 00 | SEEDS OF ANISE OR BADIAN |
+| 0909 20 00 | CORIANDER SEEDS |
+| 0909 30 00 | CUMIN SEEDS |
+| 0909 40 00 | CARAWAY SEEDS |
+| 0909 50 00 | SEEDS OF FENNEL; JUNIPER BERRIES |
+| 0910 10 00 | GINGER |
+| 0910 20 10 | SAFFRON (EXCLUDING CRUSHED OR GROUND) |
+| 0910 20 90 | CRUSHED OR GROUND SAFFRON |
+| 0910 30 00 | TURMERIC ‘CURCUMA’ |
+| 0910 40 11 | WILD THYME (EXCLUDING CRUSHED OR GROUND) |
+| 0910 40 13 | THYME (EXCLUDING CRUSHED OR GROUND AND WILD THYME) |
+| 0910 40 19 | CRUSHED OR GROUND THYME |
+| 0910 40 90 | BAY LEAVES |
+| 0910 50 00 | CURRY |
+| 0910 91 10 | MIXTURES OF DIFFERENT TYPES OF SPICES (EXCLUDING CRUSHED OR GROUND) |
+| 0910 91 90 | CRUSHED OR GROUND MIXTURES OF DIFFERENT TYPES OF SPICES |
+| 0910 99 10 | FENUGREEK SEED |
+| 0910 99 91 | SPICES N.E.S. (EXCLUDING CRUSHED OR GROUND AND MIXTURES OF DIFFERENT TYPES OF SPICES) |
+| 0910 99 99 | CRUSHED OR GROUND SPICES N.E.S. (EXCLUDING MIXTURES OF DIFFERENT TYPES OF SPICES) |
+| 1102 10 00 | RYE FLOUR |
+| 1102 20 10 | MAIZE FLOUR, WITH FAT CONTENT OF =< 1,5 % BY WEIGHT |
+| 1102 20 90 | MAIZE FLOUR, WITH FAT CONTENT OF > 1,5 % BY WEIGHT |
+| 1102 30 00 | RICE FLOUR |
+| 1102 90 10 | BARLEY FLOUR |
+| 1102 90 90 | CEREAL FLOURS (EXCLUDING WHEAT, MESLIN, RYE, MAIZE, RICE, BARLEY AND OAT) |
+| 1103 11 10 | GROATS AND MEAL, OF DURUM WHEAT |
+| 1103 11 90 | COMMON WHEAT AND SPELT GROATS AND MEAL |
+| 1103 13 10 | GROATS AND MEAL OF MAIZE, ‘CORN’, WITH A FAT CONTENT, BY WEIGHT, OF = < 1,5 % |
+| 1103 13 90 | GROATS AND MEAL OF MAIZE, ‘CORN’, WITH A FAT CONTENT, BY WEIGHT, OF > 1,5 % |
+| 1103 19 90 | GROATS AND MEAL OF CEREALS (EXCLUDING WHEAT, OATS, MAIZE, RICE, RYE AND BARLEY) |
+| 1104 12 90 | FLAKED OAT GRAINS |
+| 1104 19 10 | ROLLED OR FLAKED WHEAT GRAINS |
+| 1104 19 50 | ROLLED OR FLAKED MAIZE GRAINS |
+| 1104 19 99 | ROLLED OR FLAKED CEREAL GRAINS (EXCLUDING BARLEY, OATS, WHEAT, RYE, MAIZE AND RICE) |
+| 1104 23 10 | HULLED, SLICED OR KIBBLED MAIZE GRAINS |
+| 1104 23 99 | CEREAL GRAINS OF MAIZE (OTHER THAN HULLED, SLICED OR KIBBLED, PEARLED OR NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 29 39 | PEARLED CEREAL GRAINS (EXCLUDING BARLEY, OATS, MAIZE, RICE, WHEAT OR RYE) |
+| 1104 29 89 | CEREAL GRAINS (OTHER THAN OF BARLEY, OATS, MAIZE, WHEAT AND RYE, HULLED, SLICED OR KIBBLED, PEARLED OR NOT OTHERWISE WORKED THAN KIBBLED) |
+| 1104 30 90 | CEREAL GERM, WHOLE, ROLLED, FLAKED OR GROUND (EXCLUDING WHEAT) |
+| 1108 11 00 | WHEAT STARCH |
+| 1108 12 00 | MAIZE STARCH |
+| 1108 13 00 | POTATO STARCH |
+| 1108 14 00 | MANIOC STARCH |
+| 1108 19 90 | STARCH (EXCLUDING WHEAT, MAIZE, POTATO, MANIOC AND RICE) |
+| 1202 10 90 | GROUNDNUTS IN SHELL (EXCLUDING ROASTED OR OTHERWISE COOKED AND FOR SOWING) |
+| 1202 20 00 | SHELLED GROUNDNUTS, WHETHER OR NOT BROKEN (EXCLUDING ROASTED OR OTHERWISE COOKED) |
+| 1211 10 00 | LIQUORICE ROOTS, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED |
+| 1211 20 00 | GINSENG ROOTS, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED |
+| 1211 30 00 | COCA LEAF, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED |
+| 1211 40 00 | POPPY STRAW, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED |
+| 1211 90 30 | TONQUIN BEANS, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED |
+| 1211 90 70 | WILD MARJORAN ‘ORIGANUM VULGARE’, ‘BRANCHES, STEMS AND LEAVES’, WHETHER OR NOT IN PIECES, CRUSHED OR POWDERED |
+| 1211 90 75 | SAGE ‘SALVIA OFFICINALIS’, ‘LEAVES AND FLOWERS’, FRESH OR DRIED, WHETHER OR NOT IN PIECES, CRUSHED OR POWDERED |
+| 1211 90 98 | PLANTS AND PARTS OF PLANTS, INCLUDING SEEDS AND FRUITS, USED PRIMARILY IN PERFUMERY, IN PHARMACY OR FOR INSECTICIDAL, FUNGICIDAL OR SIMILAR PURPOSES, FRESH OR DRIED, WHETHER OR NOT CUT, CRUSHED OR POWDERED (EXCLUDING LIQUORICE AND GINSENG ROOTS, COCA LEAF) |
+| 1501 00 19 | LARD AND OTHER PIG FAT, RENDERED, WHETHER OR NOT PRESSED OR SOLVENT-EXTRACTED (EXCLUDING FOR INDUSTRIAL USES) |
+| 1508 10 90 | CRUDE GROUND NUT OIL (EXCLUDING FOR INDUSTRIAL USES) |
+| 1508 90 90 | GROUND NUT OIL (EXCLUDING CRUDE), FRACTIONS, (EXCLUDING 1508 90 10 ) USED PRIMARILY FOR HUMAN CONSUMPTION |
+| 1510 00 10 | CRUDE OLIVE OILS AND BLENDS, INCLUDING BLENDS WITH THOSE OF HEADING 1509 |
+| 1510 00 90 | OTHER OILS AND THEIR FRACTIONS, OBTAINED SOLELY FROM OLIVES, WHETHER OR NOT REFINED, BUT NOT CHEMICALLY MODIFIED, INCLUDING BLENDS OF THESE OILS OR FRACTIONS WITH OILS OR FRACTIONS OF HEADING 1509 (EXCLUDING CRUDE) |
+| 1522 00 39 | RESIDUES FROM TREATMENT OF FATTY SUBSTANCES CONTAINING OIL WITH CHARACTERISTICS OF OLIVE OIL (EXCLUDING SOAPSTOCKS) |
+| 1522 00 91 | OIL FOOTS AND DREGS; SOAPSTOCKS (EXCLUDING THOSE CONTAINING OIL WITH CHARACTERISTICS OF OLIVE OIL) |
+| 1522 00 99 | RESIDUES FROM TREATMENT OF FATTY SUBSTANCES OR ANIMAL AND VEGETABLE WAXES (EXCLUDING THOSE CONTAINING OIL WITH CHARACTERISTICS OF OLIVE OIL, OIL FOOTS AND DREGS AND SOAPSTOCKS) |
+| 1602 10 00 | HOMOGENISED PREPARED MEAT, OFFAL OR BLOOD, PUT UP FOR RETAIL SALE AS INFANT FOOD OR FOR DIETETIC PURPOSES, IN CONTAINERS OF =< 250 G |
+| 1602 31 11 | PREPARATIONS CONTAINING >= 57 % UNCOOKED TURKEY MEAT (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS) |
+| 1602 31 19 | PREPARATIONS CONTAINING >= 57 % TURKEY MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS) |
+| 1602 31 90 | PREPARATIONS CONTAINING < 25 % TURKEY MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1602 32 11 | UNCOOKED, PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF FOWLS OF THE SPECIES GALLUS DOMESTICUS CONTAINING >= 57 % MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, AND PREPARATIONS OF LIVER) |
+| 1602 32 19 | COOKED, PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF FOWLS OF THE SPECIES GALLUS DOMESTICUS CONTAINING >= 57 % MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING NO 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS) |
+| 1602 32 90 | PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF FOWLS OF THE SPECIES GALLUS DOMESTICUS (EXCLUDING THAT CONTAINING >= 25 % MEAT OR OFFAL, SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING NO 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS |
+| 1602 39 21 | UNCOOKED, PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF DUCKS, GEESE AND GUINEA FOWL OF THE SPECIES DOMESTICUS, CONTAINING >= 57 % MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, AND PREPARATIONS OF LIVER) |
+| 1602 39 29 | COOKED, PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF DUCKS, GEESE AND GUINEA FOWL OF THE SPECIES DOMESTICUS, CONTAINING >= 57 % MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING No 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS |
+| 1602 39 80 | PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF DUCKS, GEESE AND GUINEA FOWL OF THE SPECIES DOMESTICUS (EXCLUDING THAT CONTAINING >= 25 % MEAT OR OFFAL, AND SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF HEADING No 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS |
+| 1602 41 10 | HAMS AND CUTS THEREOF, OF DOMESTIC SWINE, PREPARED OR PRESERVED |
+| 1602 41 90 | HAMS AND CUTS THEREOF, OF SWINE, PREPARED OR PRESERVED (EXCLUDING DOMESTIC) |
+| 1602 42 10 | PREPARED OR PRESERVED SHOULDERS AND CUTS THEREOF, OF DOMESTIC SWINE |
+| 1602 42 90 | PREPARED OR PRESERVED SHOULDERS AND CUTS THEREOF, OF SWINE (EXCLUDING DOMESTIC) |
+| 1602 49 13 | PREPARED OR PRESERVED DOMESTIC SWINE COLLARS AND PARTS THEREOF, INCLUDING MIXTURES OF COLLARS AND SHOULDERS |
+| 1602 49 19 | MEAT OR OFFAL, INCLUDING MIXTURES OF DOMESTIC SWINE, PREPARED OR PRESERVED, CONTAINING, BY WEIGHT, >= 80 % OF MEAT OR OFFAL OF ANY KIND, INCLUDING PORK FAT AND FATS OF ANY KIND OR ORIGIN (EXCLUDING HAMS, SHOULDERS, LOINS, COLLARS AND PARTS THEREOF, SAUSAGES |
+| 1602 49 90 | PREPARED OR PRESERVED MEAT, OFFAL AND MIXTURES OF SWINE (EXCLUDING DOMESTIC, HAMS, SHOULDERS AND PARTS THEREOF, SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1602 50 31 | CORNED BEEF, IN AIRTIGHT CONTAINERS |
+| 1602 50 39 | MEAT OR OFFAL OF BOVINE ANIMALS, PREPARED OR PRESERVED, COOKED (EXCLUDING THOSE IN AIRTIGHT CONTAINERS, SAUSAGES AND SIMILAR PRODUCTS AND HOMOGENISED PREPARATIONS IN SUBHEADING 1602 10 00 ) |
+| 1602 50 80 | MEAT OR OFFAL OF BOVINE ANIMALS, PREPARED OR PRESERVED, COOKED (EXCLUDING MEAT OR OFFAL IN AIRTIGHT CONTAINERS, SAUSAGES AND SIMILAR PRODUCTS, AND HOMOGENIZD PREPARATIONS IN SUBHEADING 1602 10 00 ) |
+| 1602 90 31 | PREPARED OR PRESERVED MEAT OR OFFAL OF GAME OR RABBIT (EXCLUDING OF WILD BOAR, SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1602 90 41 | PREPARED OR PRESERVED MEAT OR MEAT OFFAL OF REINDEER (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING NO 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1602 90 51 | PREPARED OR PRESERVED MEAT OR OFFAL CONTAINING MEAT OR OFFAL OF DOMESTIC SWINE (EXCLUDING OF POULTRY, BOVINE ANIMALS, GAME OR RABBIT, SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS |
+| 1602 90 61 | PREPARED OR PRESERVED MEAT OR OFFAL, UNCOOKED, CONTAINING MEAT OR OFFAL OF BOVINE ANIMALS, INCLUDING MIXTURES OF COOKED AND UNCOOKED MEAT OR OFFAL (EXCLUDING OF POULTRY, DOMESTIC SWINE, GAME OR RABBIT, SAUSAGES AND SIMILAR PRODUCTS, AND PREPARATIONS OF LIVER) |
+| 1602 90 72 | PREPARED OR PRESERVED MEAT OR OFFAL OF SHEEP, UNCOOKED, INCLUDING MIXTURES OF COOKED AND UNCOOKED MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS AND PREPARATIONS OF LIVER) |
+| 1602 90 74 | PREPARED OR PRESERVED MEAT OR OFFAL OF GOATS, UNCOOKED, INCLUDING MIXTURES OF COOKED AND UNCOOKED MEAT OR OFFAL (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS AND PREPARATIONS OF LIVER) |
+| 1602 90 76 | PREPARED OR PRESERVED MEAT OR OFFAL OF SHEEP, COOKED (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1602 90 78 | PREPARED OR PRESERVED MEAT OR OFFAL OF GOATS, COOKED (EXCLUDING SAUSAGES AND SIMILAR PRODUCTS, HOMOGENISED PREPARATIONS OF SUBHEADING 1602 10 00 , PREPARATIONS OF LIVER AND MEAT EXTRACTS AND JUICES) |
+| 1701 91 00 | REFINED CANE OR BEET SUGAR, CONTAINING ADDED FLAVOURING OR COLOURING, IN SOLID FORM |
+| 1701 99 10 | WHITE SUGAR, CONTAINING IN DRY STATE >= 99,5 % SUCROSE (EXCLUDING FLAVOURED OR COLOURED) |
+| 1701 99 90 | CANE OR BEET SUGAR AND CHEMICALLY PURE SUCROSE, IN SOLID FORM (EXCLUDING CANE AND BEET SUGAR CONTAINING ADDED FLAVOURING OR COLOURING, RAW SUGAR AND WHITE SUGAR) |
+| 1702 11 00 | LACTOSE IN SOLID FORM AND LACTOSE SYRUP, NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER, CONTAINING BY WEIGHT >= 99 % LACTOSE, EXPRESSED AS ANHYDROUS LACTOSE, CALCULATED ON THE DRY MATTER |
+| 1702 19 00 | LACTOSE IN SOLID FORM AND LACTOSE SYRUP, NOT CONTAINING ADDED FLAVOURING OR COLOURING MATTER, CONTAINING BY WEIGHT < 99 % LACTOSE, EXPRESSED AS ANHYDROUS LACTOSE, CALCULATED ON THE DRY MATTER |
+| 1702 20 90 | MAPLE SUGAR, IN SOLID FORM, AND MAPLE SYRUP (EXCLUDING FLAVOURED OR COLOURED) |
+| 1702 90 60 | ARTIFICIAL HONEY, WHETHER OR NOT MIXED WITH NATURAL HONEY |
+| 1702 90 71 | SUGAR AND MOLASSES, CARAMELISED, CONTAINING, IN THE DRY STATE, >= 50 % BY WEIGHT OF SUCROSE |
+| 1702 90 75 | SUGAR AND MOLASSES, CARAMELISED, CONTAINING, IN THE DRY STATE, < 50 % BY WEIGHT OF SUCROSE, IN POWDER FORM, WHETHER OR NOT AGGLOMERATED |
+| 1702 90 79 | SUGAR AND MOLASSES, CARAMELISED, CONTAINING, IN THE DRY STATE, < 50 % BY WEIGHT OF SUCROSE (EXCLUDING SUGAR AND MOLASSES IN POWDER FORM, WHETHER OR NOT AGGLOMERATED) |
+| 1801 00 00 | COCOA BEANS, WHOLE OR BROKEN, RAW OR ROASTED |
+| 2002 10 10 | PEELED TOMATOES, WHOLE OR IN PIECES, PREPARED OR PRESERVED (OTHERWISE THAN BY VINEGAR OR ACETIC ACID) |
+| 2002 10 90 | UNPEELED TOMATOES, WHOLE OR IN PIECES, PREPARED OR PRESERVED (OTHERWISE THAN BY VINEGAR OR ACETIC ACID) |
+| 2002 90 11 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF < 12 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF > 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2002 90 19 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF < 12 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF =< 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2002 90 31 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF 12,30 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF > 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2002 90 39 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF 12,30 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF =< 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2002 90 91 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF > 30 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF > 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2002 90 99 | TOMATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, WITH DRY MATTER CONTENT OF > 30 %, IN IMMEDIATE PACKINGS OF A NET CONTENT OF =< 1 KG (EXCLUDING TOMATOES WHOLE OR IN PIECES) |
+| 2004 10 10 | COOKED POTATOES, FROZEN |
+| 2004 10 99 | POTATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, FROZEN (EXCLUDING COOKED ONLY AND IN THE FORM OF FLOUR, MEAL OR FLAKES) |
+| 2005 20 20 | POTATOES, THINLY SLICED, COOKED IN FAT OR OIL, WHETHER OR NOT SALTED OR FLAVOURED, IN AIRTIGHT PACKINGS, SUITABLE FOR DIRECT CONSUMPTION, NOT FROZEN |
+| 2005 20 80 | POTATOES, PREPARED OR PRESERVED OTHERWISE THAN BY VINEGAR OR ACETIC ACID, NOT FROZEN, (EXCLUDING POTATOES IN THE FORM OF FLOUR, MEAL OR FLAKES, AND THINLY SLICED, COOKED IN FAT OR OIL, WHETHER OR NOT SALTED OR FLAVOURED, IN AIRTIGHT PACKING) |
+| 2008 11 92 | GROUNDNUTS, ROASTED, IN PACKINGS OF A NET CONTENT OF > 1 KG |
+| 2008 11 94 | GROUNDNUTS, PREPARED OR PRESERVED, IN IMMEDIATE PACKINGS OF A NET CONTENT OF > 1 KG, N.E.S. (EXCLUDING ROASTED AND PEANUT BUTTER) |
+| 2008 11 96 | GROUNDNUTS, PREPARED OR PRESERVED, IN IMMEDIATE PACKINGS OF A NET CONTENT NOT EXCEEDING 1 KG |
+| 2008 11 98 | GROUNDNUTS, PREPARED OR PRESERVED, IN IMMEDIATE PACKINGS OF A NET CONTENT EXCEEDING 1 KG (EXCLUDING ROASTED AND PEANUT BUTTER) |
+| 2008 19 11 | COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, INCLUDING MIXTURES CONTAINING 50 % OR MORE BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS OF A TYPE SPECIFIED IN ADDITIONAL NOTES 7 AND 8 TO CHAPTER 20, IN IMMEDIATE PACKING |
+| 2008 19 13 | ROASTED ALMONDS AND PISTACHIOS, IN IMMEDIATE PACKINGS OF A NET CONTENT EXCEEDING 1 KG |
+| 2008 19 19 | NUTS AND OTHER SEEDS, INCLUDING MIXTURES, PREPARED OR PRESERVED, IN IMMEDIATE PACKINGS OF A NET CONTENT EXCEEDING 1 KG (EXCLUDING PEANUT BUTTER OR GROUNDNUTS OTHERWISE PREPARED OR PRESERVED, ROASTED ALMONDS AND PISTACHIOS AND TROPICAL NUTS |
+| 2008 19 59 | COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS, INCLUDING MIXTURES CONTAINING >= 50 % BY WEIGHT OF TROPICAL FRUIT AND TROPICAL NUTS OF A TYPE SPECIFIED IN ADDITIONAL NOTES 7 AND 8 TO CHAPTER 20, IN IMMEDIATE PACKING |
+| 2008 19 93 | ROASTED ALMONDS AND PISTACHIOS, IN IMMEDIATE PACKINGS OF A NET CONTENT NOT EXCEEDING 1 KG |
+| 2008 19 95 | ROASTED NUTS, IN IMMEDIATE PACKINGS OF A NET CONTENT NOT EXCEEDING 1 KG (EXCLUDING GROUNDNUTS, ALMONDS, PISTACHIOS, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ NUTS, COLA NUTS AND MACADAMIA NUTS) |
+| 2008 19 99 | NUTS AND OTHER SEEDS, INCLUDING MIXTURES, PREPARED OR PRESERVED, IN IMMEDIATE PACKINGS OF A NET CONTENT NOT EXCEEDING 1 KG (EXCLUDING PEANUT BUTTER OR GROUNDNUTS OTHERWISE PREPARED OR PRESERVED, ROASTED NUTS, COCONUTS, CASHEW NUTS, BRAZIL NUTS, ARECA ‘BETEL’ |
+| 2008 20 19 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, IN PACKINGS OF > 1 KG (EXCLUDING WITH SUGAR CONTENT OF > 17 %) |
+| 2008 20 51 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, WITH SUGAR CONTENT OF > 17 %, IN PACKINGS OF > 1 KG |
+| 2008 20 71 | PINEAPPLES, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, WITH SUGAR CONTENT OF > 19 %, IN PACKINGS OF =< 1 KG |
+| 2008 20 99 | PINEAPPLES, PREPARED OR PRESERVED, IN PACKINGS OF < 4,5 KG (EXCLUDING ADDED SUGAR OR SPIRIT) |
+| 2008 30 11 | CITRUS FRUIT, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 9 % AND ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS |
+| 2008 30 51 | GRAPEFRUIT SEGMENTS, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, IN PACKINGS OF > 1 KG |
+| 2008 30 71 | GRAPEFRUIT SEGMENTS, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, IN PACKINGS OF =< 1 KG |
+| 2008 30 75 | MANDARINS, INCLUDING TANGERINES AND SATSUMAS, CLEMENTINES, WILKINGS AND SIMILAR CITRUS HYBRIDS, PREPARED OR PRESERVED, CONTAINING ADDED SUGAR BUT NO ADDED SPIRIT, IN PACKINGS OF =< 1 KG |
+| 2008 30 90 | CITRUS FRUIT, PREPARED OR PRESERVED (EXCLUDING ADDED SPIRIT OR SUGAR) |
+| 2008 40 11 | PEARS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 13 % AND ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS, IN PACKINGS OF > 1 KG |
+| 2008 40 21 | PEARS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS, IN PACKINGS OF > 1 KG (EXCLUDING SUGAR CONTENT OF > 13 %) |
+| 2008 40 31 | PEARS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 15 %, IN PACKINGS OF =< 1 KG |
+| 2008 40 51 | PEARS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, WITH SUGAR CONTENT OF > 13 %, IN PACKINGS OF > 1 KG |
+| 2008 40 71 | PEARS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, WITH SUGAR CONTENT OF > 15 %, IN PACKINGS OF =< 1 KG |
+| 2008 40 79 | PEARS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, WITH SUGAR CONTENT OF =< 15 %, IN PACKINGS OF =< 1 KG |
+| 2008 50 11 | APRICOTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 13 % AND ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS, IN PACKINGS OF > 1 KG |
+| 2008 50 31 | APRICOTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS, IN PACKINGS OF > 1 KG (EXCLUDING SUGAR CONTENT OF > 13 %) |
+| 2008 50 39 | APRICOTS, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF > 11,85 % MASS, IN PACKINGS OF > 1 KG (EXCLUDING SUGAR CONTENT OF > 13 %) |
+| 2008 50 69 | APRICOTS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, WITH SUGAR CONTENT OF =< 13 %, IN PACKINGS OF > 1 KG |
+| 2008 50 94 | APRICOTS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF WITH A NET CONTENT OF LESS THAN 5 KG BUT NOT LESS THAN 4,5 KG |
+| 2008 50 99 | APRICOTS, PREPARED OR PRESERVED, IN PACKINGS OF < 4,5 KG (EXCLUDING ADDED SPIRIT OR SUGAR) |
+| 2008 60 31 | CHERRIES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS (EXCLUDING SUGAR CONTENT OF > 9 %) |
+| 2008 60 51 | SOUR CHERRIES, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF > 1 KG |
+| 2008 60 59 | CHERRIES, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF > 1 KG (EXCLUDING SOUR CHERRIES) |
+| 2008 60 71 | SOUR CHERRIES, PREPARED OR PRESERVED, IN PACKINGS OF >= 4,5 KG (EXCLUDING ADDED SPIRIT OR SUGAR) |
+| 2008 60 79 | CHERRIES, PREPARED OR PRESERVED, IN PACKINGS OF >= 4,5 KG (EXCLUDING ADDED SPIRIT OR SUGAR AND SOUR CHERRIES) |
+| 2008 60 91 | SOUR CHERRIES, PREPARED OR PRESERVED, IN PACKINGS OF < 4,5 KG (EXCLUDING ADDED SPIRIT OR SUGAR) |
+| 2008 70 94 | PEACHES, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF WITH A NET CONTENT OF LESS THAN 5 KG BUT NOT LESS THAN 4,5 KG |
+| 2008 80 11 | STRAWBERRIES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 9 % AND ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS |
+| 2008 80 19 | STRAWBERRIES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH SUGAR CONTENT OF > 9 % AND ACTUAL ALCOHOLIC STRENGTH OF > 11,85 % MASS |
+| 2008 80 31 | STRAWBERRIES, PREPARED OR PRESERVED, CONTAINING ADDED SPIRIT, WITH ACTUAL ALCOHOLIC STRENGTH OF =< 11,85 % MASS (EXCLUDING SUGAR CONTENT OF > 9 %) |
+| 2008 80 50 | STRAWBERRIES, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF > 1 KG |
+| 2008 99 45 | PLUMS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF > 1 KG |
+| 2008 99 55 | PLUMS, PREPARED OR PRESERVED, CONTAINING NO SPIRIT BUT WITH ADDED SUGAR, IN PACKINGS OF =< 1 KG |
+| 2008 99 72 | PLUMS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT OF NOT LESS THAN 5 KG |
+| 2008 99 78 | PLUMS, PREPARED OR PRESERVED, NOT CONTAINING ADDED SPIRIT OR ADDED SUGAR, IN IMMEDIATE PACKINGS OF A NET CONTENT OF < 5 KG |
+| 2009 11 11 | FROZEN ORANGE JUICE, DENSITY OF > 1,33 G/CCM AT 20 °C, VALUE OF =< 30 ECU PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 11 19 | FROZEN ORANGE JUICE, DENSITY OF > 1,33 G/CCM AT 20 °C, VALUE OF > 30 ECU PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 11 91 | FROZEN ORANGE JUICE, DENSITY OF =< 1,33 G/CCM AT 20 °C, VALUE OF =< 30 ECU PER 100 KG, WITH > 30 % ADDED SUGAR (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 11 99 | FROZEN ORANGE JUICE, DENSITY OF =< 1,33 G/CCM AT 20 °C, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING FERMENTED, CONTAINING SPIRIT, WITH A VALUE OF =< 30 ECU PER 100 KG AND WITH > 30 % ADDED SUGAR) |
+| 2009 19 98 | ORANGE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT AND FROZEN, WITH A VALUE OF <= 30 {EURO} PER 100 KG AND WITH > 30 % ADDED SUGAR) |
+| 2009 69 11 | GRAPE JUICE, INCLUDING GRAPE MUST, UNFERMENTED, BRIX VALUE > 67 AT 20 °C, VALUE OF <= 22 {EURO} PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT) |
+| 2009 69 51 | CONCENTRATED GRAPE JUICE, INCLUDING GRAPE MUST, UNFERMENTED, BRIX VALUE > 30 BUT <= 67 AT 20 °C, VALUE OF > 18 {EURO} PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT) |
+| 2009 69 71 | CONCENTRATED GRAPE JUICE, INCLUDING GRAPE MUST, UNFERMENTED, BRIX VALUE > 30 BUT <= 67 AT 20 °C, VALUE OF <= 18 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 69 79 | GRAPE JUICE, INCLUDING GRAPE MUST, UNFERMENTED, BRIX VALUE > 30 BUT <= 67 AT 20 °C, VALUE OF <= 18 {EURO} PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONCENTRATED OR CONTAINING SPIRIT) |
+| 2009 79 11 | APPLE JUICE, UNFERMENTED, BRIX VALUE > 67 AT 20 °C, VALUE OF <= 22 {EURO} PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING CONTAINING SPIRIT) |
+| 2009 79 91 | APPLE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C, VALUE OF <= 18 {EURO} PER 100 KG, D CONTAINING > 30 % ADDED SUGAR (EXCLUDING CONTAINING SPIRIT) |
+| 2009 79 99 | APPLE JUICE, UNFERMENTED, BRIX VALUE > 20 BUT <= 67 AT 20 °C (EXCLUDING CONTAINING ADDED SUGAR OR CONTAINING SPIRIT) |
+| 2009 90 11 | MIXTURES OF APPLE AND PEAR JUICE, DENSITY OF > 1,33 G/CCM AT 20 °C, VALUE OF =< 22 ECU PER 100 KG, WHETHER OR NOT CONTAINING ADDED SUGAR OR OTHER SWEETENING MATTER (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 90 13 | MIXTURES OF APPLE AND PEAR JUICE |
+| 2009 90 31 | MIXTURES OF APPLE AND PEAR JUICE, DENSITY OF =< 1,33 G/CCM AT 20 °C, VALUE OF =< 18 ECU PER 100 KG, CONTAINING > 30 % ADDED SUGAR (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 90 41 | MIXTURES OF CITRUS AND PINEAPPLE JUICE, DENSITY OF =< 1,33 G/CCM AT 20 °C, VALUE OF > 30 ECU PER 100 KG, CONTAINING ADDED SUGAR (EXCLUDING FERMENTED OR CONTAINING SPIRIT) |
+| 2009 90 79 | MIXTURES OF CITRUS AND PINEAPPLE JUICE, DENSITY OF =< 1,33 G/CCM AT 20 °C, VALUE OF =< 30 ECU PER 100 KG (EXCLUDING CONTAINING ADDED SUGAR, FERMENTED OR CONTAINING SPIRIT) |
+| 2305 00 00 | OIL CAKE AND OTHER SOLID RESIDUES, WHETHER OR NOT GROUND OR IN THE FORM OF PELLETS, RESULTING FROM THE EXTRACTION OF GROUND NUT OIL |
+| 2307 00 11 | WINE LEES, HAVING A TOTAL ALCOHOLIC STRENGTH BY MASS OF <= 7,9 % MAS AND A DRY MATTER CONTENT >= 25 % BY WEIGHT |
+| 2307 00 19 | WINE LEES (EXCLUDING WINE LEES HAVING A TOTAL ALCOHOLIC STRENGTH OF<= 7,9 % AND A DRY MATTER CONTENT OF >= 25 % BY WEIGHT) |
+| 2307 00 90 | ARGOL |
+| 2308 00 11 | GRAPE MARC, OF A KIND USED IN ANIMAL FEEDING, WHETHER OR NOT IN THE FORM OF PELLETS, HAVING A TOTAL ALCOHOLIC STRENGTH BY MASS OF <= 4,3 % MAS AND A DRY MATTER CONTENT OF <= 40 % BY WEIGHT |
+| 2308 00 19 | GRAPE MARC, OF A KIND USED IN ANIMAL FEEDING, WHETHER OR NOT IN THE FORM OF PELLETS (EXCLUDING GRAPE MARC HAVING A TOTAL ALCOHOLIC STRENGTH BY MASS OF <= 4,3 % MAS AND A DRY MATTER CONTENT OF <= 40 % BY WEIGHT) |
+| 2308 00 90 | MAIZE STALKS, MAIZE LEAVES, FRUIT PEEL AND OTHER VEGETABLE MATERIALS, WASTE, RESIDUES AND BY-PRODUCTS FOR ANIMAL FEEDING, WHETHER OR NOT IN THE FORM OF PELLETS, N.E.S. (EXCLUDING ACORNS, HORSE CHESTNUTS AND POMACE OR MARC OF FRUIT) |
+| 2309 90 35 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 50 % BUT < 75 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 39 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING NO STARCH OR =< 10 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 75 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 41 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 10 % BUT =< 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH NO OR < 10 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 51 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH NO OR < 10 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 53 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 10 % BUT < 50 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 59 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING > 30 % STARCH, CONTAINING GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE AND ITS SYRUP, AND WITH >= 50 % MILK PRODUCT CONTENT (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 70 | PREPARATIONS FOR ANIMAL FOOD, CONTAINING NO STARCH, GLUCOSE, MALTODEXTRINE OR THEIR SYRUPS, BUT CONTAINING MILK PRODUCTS (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE) |
+| 2309 90 91 | BEET PULP WITH ADDED MOLASSES OF A KIND USED IN ANIMAL FEEDING |
+| 2309 90 93 | PREMIXTURES OF A KIND USED IN ANIMAL FEEDING, CONTAINING NO STARCH, GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE, MALTODEXTRINE SYRUP OR MILK PRODUCTS |
+| 2309 90 95 | PREPARATIONS OF A KIND USED IN ANIMAL FEEDING, CONTAINING BY WEIGHT >=49 % OF CHOLINE CHLORIDE, ON ORGANIC OR INORGANIC BASE |
+| 2309 90 97 | PREPARATIONS OF A KIND USED IN ANIMAL FEEDING, CONTAINING NO STARCH, GLUCOSE, GLUCOSE SYRUP, MALTODEXTRINE, MALTODEXTRINE SYRUP NOR MILK PRODUCTS (EXCLUDING DOG OR CAT FOOD PUT UP FOR RETAIL SALE, FISH OR MARINE MAMMAL SOLUBLES) |
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+## ANNEX II(c)
+
+**ALBANIAN TARIFF CONCESSIONS FOR AGRICULTURAL PRIMARY PRODUCTS ORIGINATING IN THE COMMUNITY**
+
+**(referred to in Article 27(3)(c))**
+
+Duty-free within a quota from the date of entry into force of the Agreement
+
+<table>
+<tbody><tr><td>HS Code (1)</td><td>Description</td><td>Quota (in tonnes) </td></tr>
+<tr><td>1001 90 91 </td><td>COMMON WHEAT AND MESLIN SEED</td><td rowspan="2">20 000 </td></tr>
+<tr><td>1001 90 99 </td><td>SPELT, COMMON WHEAT AND MESLIN (EXCLUDING SEED)</td></tr>
+</tbody>
+</table>
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+## ANNEX III
+
+**COMMUNITY CONCESSIONS FOR ALBANIAN FISH AND FISHERY PRODUCTS**
+
+Imports into the European Community of the following products originating in Albania will be subject to the concessions set out below:
+
+| CN Code | Description | Date of entry into force of the Agreement (full amount in first year) | 1 January of the first year following the date of entry into force of the Agreement | 1 January of the second year following the date of entry into force of the Agreement and following years |
+| --- | --- | --- | --- | --- |
+| 0301 91 10 0301 91 90 0302 11 10 0302 11 20 0302 11 80 0303 21 10 0303 21 20 0303 21 80 0304 10 15 0304 10 17 ex 0304 10 19 ex 0304 10 91 0304 20 15 0304 20 17 ex 0304 20 19 ex 0304 90 10 ex 0305 10 00 ex 0305 30 90 0305 49 45 ex 0305 59 80 ex 0305 69 80 | Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster): live; fresh or chilled; frozen; dried, salted or in brine, smoked; fillets and other fish meat; flours, meals and pellets, fit for human consumption | TQ: 50 t at 0 % Over the TQ: 90 % of MFN duty | TQ: 50 t at 0 % Over the TQ: 80 % of MFN duty | TQ: 50 t at 0 % Over the TQ: 70 % of MFN duty |
+| 0301 93 00 0302 69 11 0303 79 11 ex 0304 10 19 ex 0304 10 91 ex 0304 20 19 ex 0304 90 10 ex 0305 10 00 ex 0305 30 90 ex 0305 49 80 ex 0305 59 80 ex 0305 69 80 | Carp: live; fresh or chilled; frozen; dried, salted or in brine, smoked; fillets and other fish meat; flours, meals and pellets, fit for human consumption | TQ: 20 t at 0 %. Over the TQ: 90 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 80 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 70 % of MFN duty |
+| ex 0301 99 90 0302 69 61 0303 79 71 ex 0304 10 38 ex 0304 10 98 ex 0304 20 94 ex 0304 90 97 ex 0305 10 00 ex 0305 30 90 ex 0305 49 80 ex 0305 59 80 ex 0305 69 80 | Sea bream (Dentex dentex and Pagellus spp.): live; fresh or chilled; frozen; dried, salted or in brine, smoked; fillets and other fish meat; flours, meals and pellets, fit for human consumption | TQ: 20 t at 0 %. Over the TQ: 80 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 55 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 30 % of MFN duty |
+| ex 0301 99 90 0302 69 94 ex 0303 77 00 ex 0304 10 38 ex 0304 10 98 ex 0304 20 94 ex 0304 90 97 ex 0305 10 00 ex 0305 30 90 ex 0305 49 80 ex 0305 59 80 ex 0305 69 80 | Sea bass (Dicentrarchus labrax): live; fresh or chilled; frozen; dried, salted or in brine, smoked; fillets and other fish meat; flours, meals and pellets, fit for human consumption | TQ: 20 t at 0 %. Over the TQ: 80 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 55 % of MFN duty | TQ: 20 t at 0 %. Over the TQ: 30 % of MFN duty |
+
+| CN code | Description | Initial quota volume | Rate of duty |
+| --- | --- | --- | --- |
+| 1604 13 11 1604 13 19 ex 1604 20 50 | Prepared or preserved sardines | 100 tonnes | 6 % (1) |
+| 1604 16 00 1604 20 40 | Prepared or preserved anchovies | 1 000 tonnes (2) | 0 % (1) |
+
+(1) Over the quota volume, the full MFN rate of duty is applicable.
+
+(2) From the first of January of the first year following the date of entry into force of the Agreement, the yearly volume of the quota will be increased by 200 tonnes provided that at least 80 % of the previous year’s quota has been used by 31 December of that year. This mechanism will apply until such time as the yearly volume of the quota has reached 1 600 tonnes or the Parties agree to apply other arrangements.
+
+The duty rate applicable to all products of HS position 1604 except prepared or preserved sardines and anchovies will be reduced as follows:
+
+| Year | Date of entry into force of the Agreement (duty %) | 1 January of the first year following the date of entry into force of the Agreement | 1 January of the second year following the date of entry into force of the Agreement and following years |
+| --- | --- | --- | --- |
+| Duty | 80 % of MFN | 65 % of MFN | 50 % of MFN |
+
+## ANNEX IV
+
+**ESTABLISHMENT: FINANCIAL SERVICES**
+
+**(referred to in Title V, Chapter II)**
+
+**FINANCIAL SERVICES: DEFINITIONS**
+
+A financial service is any service of a financial nature offered by a financial service provider of a Party.
+
+**I. Financial services include the following activities:**
+
+**A. All insurance and insurance-related services**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>direct insurance (including co-insurance):<table><tbody><tr><td>(i)</td><td>life;</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(ii)</td><td>non-life;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 2. | reinsurance and retrocession; |
+| --- | --- | --- |
+
+|  | 3. | insurance intermediation, such as brokerage and agency; |
+| --- | --- | --- |
+
+|  | 4. | services auxiliary to insurance, such as consultancy, actuarial, risk assessment and claim settlement services; |
+| --- | --- | --- |
+
+**B. Banking and other financial services (excluding insurance)**
+
+|  | 1. | acceptance of deposits and other repayable funds from the public; |
+| --- | --- | --- |
+
+|  | 2. | lending of all types, including, inter alia, consumer credit, mortgage credit, factoring and financing of commercial transactions; |
+| --- | --- | --- |
+
+|  | 3. | financial leasing; |
+| --- | --- | --- |
+
+|  | 4. | all payment and money transmission services, including credit, charge and debit cards, travellers cheques and bankers drafts; |
+| --- | --- | --- |
+
+|  | 5. | guarantees and commitments; |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td></td><td>6.</td><td>trading for own account or for account of customers, whether on an exchange, in an over the counter market or otherwise, the following:<table><tbody><tr><td>(a)</td><td>money market instruments (cheques, bills, certificates of deposit, etc.),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>foreign exchange,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>derivative products including, but not limited to, futures and options,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(d)</td><td>exchange rates and interest rate instruments, including products such as swaps, forward rate agreements, etc.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(e)</td><td>transferable securities,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(f)</td><td>other negotiable instruments and financial assets, including bullion;</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 7. | participation in issues of all kinds of securities, including underwriting and placement as agent (whether publicly or privately) and provision of services related to such issues; |
+| --- | --- | --- |
+
+|  | 8. | money broking; |
+| --- | --- | --- |
+
+|  | 9. | asset management, such as cash or portfolio management, all forms of collective investment management, pension-fund management, custodial, depository and trust services; |
+| --- | --- | --- |
+
+|  | 10. | settlement and clearing services for financial assets, including securities, derivative products, and other negotiable instruments; |
+| --- | --- | --- |
+
+|  | 11. | provision and transfer of financial information, and financial data processing and related software by providers of other financial services; |
+| --- | --- | --- |
+
+|  | 12. | advisory, intermediation and other auxiliary financial services on all the activities listed in points 1 to 11 above, including credit reference and analysis, investment and portfolio research and advice, advice on acquisitions and on corporate restructuring and strategy. |
+| --- | --- | --- |
+
+**II. The following activities are excluded from the definition of financial services:**
+
+(a) activities carried out by central banks or by any other public institution in pursuit of monetary and exchange rate policies;
+
+(b) activities conducted by central banks, government agencies or departments, or public institutions, for the account or with the guarantee of the government, except when those activities may be carried out by financial service providers in competition with such public entities;
+
+(c) activities forming part of a statutory system of social security or public retirement plans, except when those activities may be carried by financial service providers in competition with public entities or private institutions.
+
+## ANNEX V
+
+**INTELLECTUAL, INDUSTRIAL AND COMMERCIAL PROPERTY RIGHTS**
+
+**(referred to in Article 73)**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>Article 73(3) concerns the following multilateral Conventions to which Member States are Parties, or which are de facto applied by Member States:<table><tbody><tr><td>—</td><td>WIPO Copyright Treaty (Geneva, 1996),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Convention for the Protection of Producers of Phonograms against Unauthorised Duplications of their Phonograms (Geneva 1971),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>International Convention for the Protection of New Varieties of Plants (UPOV Geneva Act, 1991).</td></tr>
+</tbody>
+</table>
+ The Stabilisation and Association Council may decide that Article 73(3) shall apply to other multilateral Conventions. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>The Parties confirm the importance they attach to the obligations arising from the following multilateral Conventions:<table><tbody><tr><td>—</td><td>International Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations (Rome, 1961),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Paris Convention for the Protection of Industrial Property (Stockholm Act, 1967 and amended in 1979),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Berne Convention for the Protection of Literary and Artistic Works (Paris Act, 1971),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>WIPO Performances and Phonograms Treaty (Geneva, 1996),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Madrid Agreement concerning the International Registration of Marks (Stockholm Act, 1967 and amended in 1979),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Budapest Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedures (1977, modified in 1980),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Protocol relating to the Madrid Agreement concerning the International Registration of Marks (Madrid, 1989),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Patent Cooperation Treaty (Washington, 1970, amended in 1979 and modified in 1984),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Nice Agreement concerning the International Classification of Goods and Services for the purposes of the Registration of Marks (Geneva, 1977 and amended in 1979),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>European Patent Convention,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Patent Law Treaty (PLT) (WIPO),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Trade-related aspects of intellectual property rights (TRIPS),</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 3. | From the date of entry into force of the Agreement, Albania will grant to Community companies and nationals, in respect of the recognition and protection of intellectual, industrial and commercial property, treatment no less favourable than that granted by it to any third country under bilateral Agreements. |
+| --- | --- | --- |
+
+**LIST OF PROTOCOLS**
+
+Protocol 1 on iron and steel products
+
+Protocol 2 on trade between Albania and the Community in the sector of processed agricultural products
+
+Protocol 3 on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine, spirit drinks and aromatised wine names
+
+Protocol 4 concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation
+
+Protocol 5 on land transport
+
+Protocol 6 on mutual administrative assistance in customs matters
+
+**PROTOCOL 1**
+
+**on iron and steel products**
+
+#### Article 1
+
+This Protocol shall apply to the products listed in Chapters 72 and 73 of the Combined Nomenclature. It shall also apply to other finished iron and steel products that may originate in future in Albania under the above Chapters.
+
+#### Article 2
+
+Customs duties on imports applicable in the Community on iron and steel products originating in Albania shall be abolished on the date of entry into force of the Agreement.
+
+#### Article 3
+
+1\. Upon the date of entry into force of the Agreement, customs duties applicable in Albania on imports of iron and steel products originating in the Community that are referred to in Article 19 of the Agreement and listed in Annex I thereto shall be progressively reduced in accordance with the timetable contained therein.
+
+2\. Upon the date of entry into force of the Agreement, customs duties applicable in Albania on imports of all other iron and steel products originating in the Community shall be abolished.
+
+#### Article 4
+
+1\. Quantitative restrictions on imports into the Community of iron and steel products originating in Albania as well as measures having equivalent effect shall be abolished on the date of entry into force of the Agreement.
+
+2\. Quantitative restrictions on imports into Albania of iron and steel products originating in the Community, as well as measures having equivalent effect, shall be abolished on the date of entry into force of the Agreement.
+
+#### Article 5
+
+1\. In view of the disciplines stipulated by Article 71 of the Agreement, the Parties recognise the need and urgency for each Party to address promptly any structural weaknesses in its iron and steel sector to ensure the global competitiveness of its industry. Albania shall therefore establish within three years the necessary restructuring and conversion programme for its iron and steel industry to achieve viability of this sector under normal market conditions. Upon request, the Community shall provide Albania with the appropriate technical advice to achieve this objective.
+
+2\. Further to the disciplines stipulated by Article 71 of the Agreement, any practices contrary to this Article shall be assessed on the basis of specific criteria arising from the application of the State aid disciplines of the Community, including secondary legislation, and including any specific rules on State aid control applicable to the iron and steel sector after the expiry of the Treaty establishing the European Coal and Steel Community.
+
+3\. For the purposes of applying the provisions of paragraph 1(iii) of Article 71 of the Agreement with regard to iron and steel products, the Community recognises that during five years after the date of entry into force of the Agreement Albania may exceptionally grant State aid for restructuring purposes provided that:
+
+— it leads to the viability of the benefiting firms under normal market conditions at the end of the restructuring period, and
+
+— the amount and intensity of such aid are strictly limited to what is absolutely necessary in order to restore such viability and are progressively reduced, and
+
+— the restructuring programme is linked to a global rationalisation and compensatory measures to counter the distorting effect of the aid granted in Albania.
+
+4\. Each Party shall ensure full transparency with respect to the implementation of the necessary restructuring and conversion programme by a full and continuous exchange of information to the other Party, including details of the restructuring plan as well as the amount, intensity and purpose of any State aid granted on the basis of paragraphs 2 and 3.
+
+5\. The Stabilisation and Association Council shall monitor the implementation of the requirements set out in paragraphs 1 to 4.
+
+6\. If one of the Parties considers that a particular practice of the other Party is incompatible with the terms of this Article, and if that practice causes or threatens to cause prejudice to the interests of the first Party or material injury to its domestic industry, this Party may take appropriate measures after consultation within the contact group referred to in Article 7 or after 30 working days following referral for such consultation.
+
+#### Article 6
+
+The provisions of Articles 20, 21 and 22 of the Agreement shall apply to trade between the Parties in iron and steel products.
+
+#### Article 7
+
+The Parties agree that for the purpose of following and reviewing the proper implementation of this Protocol, a contact group shall be created in accordance with Article 120(4) of the Agreement.
+
+**PROTOCOL 2**
+
+**on trade between Albania and the Community in the sector of processed agricultural products**
+
+#### Article 1
+
+1\. The Community and Albania apply to processed agricultural products the duties listed in Annex I and Annex II(a), II(b), II(c) and II(d) respectively in accordance with the conditions mentioned therein, whether limited by tariff quota or not.
+
+2\. The Stabilisation and Association Council shall decide on:
+
+— extensions of the list of processed agricultural products under this Protocol,
+
+— amendments to the duties referred to in Annexes I and II(b), II(c) and II(d),
+
+— increases in or the abolition of tariff quotas.
+
+#### Article 2
+
+The duties applied pursuant to Article 1 may be reduced by decision of the Stabilisation and Association Council:
+
+— when in trade between the Community and Albania the duties applied to the basic products are reduced, or
+
+— in response to reductions resulting from mutual concessions relating to processed agricultural products.
+
+The reductions provided for under the first indent shall be calculated on the part of the duty designated as the agricultural component which shall correspond to the agricultural products actually used in the manufacture of the processed agricultural products in question and deducted from the duties applied to these basic agricultural products.
+
+#### Article 3
+
+The Community and Albania shall inform each other of the administrative arrangements adopted for the products covered by this Protocol. These arrangements shall ensure equal treatment for all interested parties and shall be as simple and flexible as possible.
+
+## ANNEX I
+
+**Duties applicable upon imports into the Community of processed agricultural products originating in Albania**
+
+Duties are set to zero for imports into the Community of processed agricultural products originating in Albania as listed hereafter.
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>(1)</td><td>(2)</td></tr>
+<tr><td>0403 </td><td>Buttermilk, curdled milk and cream, yoghurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td rowspan="3">0403 10 </td><td>– Yoghurt:</td></tr>
+<tr><td>– – Flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td>– – – In powder, granules or other solid forms, of a milk fat content, by weight:</td></tr>
+<tr><td>0403 10 51 </td><td>– – – – Not exceeding 1,5 %</td></tr>
+<tr><td>0403 10 53 </td><td>– – – – Exceeding 1,5 % but not exceeding 27 %</td></tr>
+<tr><td rowspan="2">0403 10 59 </td><td>– – – – Exceeding 27 %</td></tr>
+<tr><td>– – – Other, of a milk fat content, by weight:</td></tr>
+<tr><td>0403 10 91 </td><td>– – – – Not exceeding 3 %</td></tr>
+<tr><td>0403 10 93 </td><td>– – – – Exceeding 3 % but not exceeding 6 %</td></tr>
+<tr><td>0403 10 99 </td><td>– – – – Exceeding 6 %</td></tr>
+<tr><td rowspan="3">0403 90 </td><td>– Other:</td></tr>
+<tr><td>– – Flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td>– – – In powder, granules or other solid forms, of a milkfat content, by weight:</td></tr>
+<tr><td>0403 90 71 </td><td>– – – – Not exceeding 1,5 %</td></tr>
+<tr><td>0403 90 73 </td><td>– – – – Exceeding 1,5 % but not exceeding 27 %</td></tr>
+<tr><td rowspan="2">0403 90 79 </td><td>– – – – Exceeding 27 %</td></tr>
+<tr><td>– – – Other, of a milkfat content, by weight:</td></tr>
+<tr><td>0403 90 91 </td><td>– – – – Not exceeding 3 %</td></tr>
+<tr><td>0403 90 93 </td><td>– – – – Exceeding 3 % but not exceeding 6 %</td></tr>
+<tr><td>0403 90 99 </td><td>– – – – Exceeding 6 %</td></tr>
+<tr><td>0405 </td><td>Butter and other fats and oils derived from milk; dairy spreads:</td></tr>
+<tr><td>0405 20 </td><td>– Dairy spreads:</td></tr>
+<tr><td>0405 20 10 </td><td>– – Of a fat content, by weight, of 39 % or more but less than 60 %</td></tr>
+<tr><td>0405 20 30 </td><td>– – Of a fat content, by weight, of 60 % or more but not exceeding 75 %</td></tr>
+<tr><td>0501 00 00 </td><td>Human hair, unworked, whether or not washed or scoured; waste of human hair</td></tr>
+<tr><td>0502 </td><td>Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair:</td></tr>
+<tr><td>0502 10 00 </td><td>– Pigs', hogs' or boars' bristles and hair and waste thereof</td></tr>
+<tr><td>0502 90 00 </td><td>– Other</td></tr>
+<tr><td>0503 00 00 </td><td>Horsehair and horsehair waste, whether or not put up as a layer with or without supporting material</td></tr>
+<tr><td>0505 </td><td>Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers:</td></tr>
+<tr><td>0505 10 </td><td>– Feathers of a kind used for stuffing; down:</td></tr>
+<tr><td>0505 10 10 </td><td>– – Raw</td></tr>
+<tr><td>0505 10 90 </td><td>– – Other</td></tr>
+<tr><td>0505 90 00 </td><td>– Other</td></tr>
+<tr><td>0506 </td><td>Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products:</td></tr>
+<tr><td>0506 10 00 </td><td>– Ossein and bones treated with acid</td></tr>
+<tr><td>0506 90 00 </td><td>– Other</td></tr>
+<tr><td>0507 </td><td>Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products:</td></tr>
+<tr><td>0507 10 00 </td><td>– Ivory; ivory powder and waste</td></tr>
+<tr><td>0507 90 00 </td><td>– Other</td></tr>
+<tr><td>0508 00 00 </td><td>Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof</td></tr>
+<tr><td>0509 00 </td><td>Natural sponges of animal origin:</td></tr>
+<tr><td>0509 00 10 </td><td>– Raw</td></tr>
+<tr><td>0509 00 90 </td><td>– Other</td></tr>
+<tr><td>0510 00 00 </td><td>Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh chilled, frozen or otherwise provisionally preserved</td></tr>
+<tr><td>0710 </td><td>Vegetables (uncooked or cooked by steaming or boiling in water), frozen:</td></tr>
+<tr><td>0710 40 00 </td><td>– Sweet corn</td></tr>
+<tr><td>0711 </td><td>Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption:</td></tr>
+<tr><td rowspan="2">0711 90 </td><td>– Other vegetables; mixtures of vegetables:</td></tr>
+<tr><td>– – Vegetables:</td></tr>
+<tr><td>0711 90 30 </td><td>– – – Sweet corn</td></tr>
+<tr><td>0903 00 00 </td><td>Maté</td></tr>
+<tr><td>1212 </td><td>Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included:</td></tr>
+<tr><td>1212 20 00 </td><td>– Seaweeds and other algae</td></tr>
+<tr><td rowspan="2">1302 </td><td>Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products:</td></tr>
+<tr><td>– Vegetable saps and extracts:</td></tr>
+<tr><td>1302 12 00 </td><td>– – Of liquorice</td></tr>
+<tr><td>1302 13 00 </td><td>– – Of hops</td></tr>
+<tr><td>1302 14 00 </td><td>– – Of pyrethrum or of the roots of plants containing rotenone</td></tr>
+<tr><td>1302 19 </td><td>– – Other:</td></tr>
+<tr><td>1302 19 90 </td><td>– – – Other</td></tr>
+<tr><td>1302 20 </td><td>– Pectic substances, pectinates and pectates:</td></tr>
+<tr><td>1302 20 10 </td><td>– – Dry</td></tr>
+<tr><td rowspan="2">1302 20 90 </td><td>– – Other</td></tr>
+<tr><td>– Mucilages and thickeners, whether or not modified, derived from vegetable products:</td></tr>
+<tr><td>1302 31 00 </td><td>– – Agar-agar</td></tr>
+<tr><td>1302 32 </td><td>– – Mucilages and thickeners, whether or not modified, derived from locust beans, locust bean seeds or sugar seeds:</td></tr>
+<tr><td>1302 32 10 </td><td>– – – Of locust beans or locust bean seeds</td></tr>
+<tr><td>1401 </td><td>Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark):</td></tr>
+<tr><td>1401 10 00 </td><td>– Bamboos</td></tr>
+<tr><td>1401 20 00 </td><td>– Rattans</td></tr>
+<tr><td>1401 90 00 </td><td>– Other</td></tr>
+<tr><td>1402 00 00 </td><td>Vegetable materials of a kind used primarily as stuffing or as padding (for example, kapok, vegetable hair and eelgrass), whether or not put up as a layer with or without supporting material</td></tr>
+<tr><td>1403 00 00 </td><td>Vegetable materials of a kind used primarily in brooms or in brushes (for example, broomcorn, piassava, couch grass and istle), whether or not in hanks or bundles</td></tr>
+<tr><td>1404 </td><td>Vegetable products not elsewhere specified or included:</td></tr>
+<tr><td>1404 10 00 </td><td>– Raw vegetable materials of a kind used primarily in dyeing or tanning</td></tr>
+<tr><td>1404 20 00 </td><td>– Cotton linters</td></tr>
+<tr><td>1404 90 00 </td><td>– Other</td></tr>
+<tr><td>1505 </td><td>Wool grease and fatty substances derived therefrom (including lanolin):</td></tr>
+<tr><td>1505 00 10 </td><td>– Wool grease, crude</td></tr>
+<tr><td>1505 00 90 </td><td>– Other</td></tr>
+<tr><td>1506 00 00 </td><td>Other animal fats and oils and their fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1515 </td><td>Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified:</td></tr>
+<tr><td>1515 90 15 </td><td>– – Jojoba and oiticica oils; myrtle wax and Japan Wax; their fractions</td></tr>
+<tr><td>1516 </td><td>Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared:</td></tr>
+<tr><td>1516 20 </td><td>– Vegetable fats and oils and their fractions:</td></tr>
+<tr><td>1516 20 10 </td><td>– – Hydrogenated castor oil, so called ‘opal-wax’</td></tr>
+<tr><td>1517 </td><td>Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading No 1516 :</td></tr>
+<tr><td>1517 10 </td><td>– Margarine, excluding liquid margarine:</td></tr>
+<tr><td>1517 10 10 </td><td>– – Containing, by weight more than 10 % but not more than 15 % of milk fats</td></tr>
+<tr><td>1517 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">1517 90 10 </td><td>– – Containing, by weight more than 10 % but not more than 15 % of milk fats</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1517 90 93 </td><td>– – – Edible mixtures or preparations of a kind used as mould-release preparations</td></tr>
+<tr><td>1518 00 </td><td>Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516 ; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified or included:</td></tr>
+<tr><td rowspan="2">1518 00 10 </td><td>– Linoxyn</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td rowspan="2">1518 00 91 </td><td>– – Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516 </td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1518 00 95 </td><td>– – – Inedible mixtures or preparations of animal or of animal and vegetable fats and oils and their fractions</td></tr>
+<tr><td>1518 00 99 </td><td>– – – Other</td></tr>
+<tr><td>1520 00 00 </td><td>Glycerol, crude; glycerol waters and glycerol lyes</td></tr>
+<tr><td>1521 </td><td>Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured:</td></tr>
+<tr><td>1521 10 00 </td><td>– Vegetable waxes</td></tr>
+<tr><td>1521 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">1521 90 10 </td><td>– – Spermaceti, whether or not refined or coloured</td></tr>
+<tr><td>– – Beeswax and other insect waxes, whether or not refined or coloured:</td></tr>
+<tr><td>1521 90 91 </td><td>– – – Raw</td></tr>
+<tr><td>1521 90 99 </td><td>– – – Other</td></tr>
+<tr><td>1522 00 </td><td>Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes:</td></tr>
+<tr><td>1522 00 10 </td><td>– Degras</td></tr>
+<tr><td>1704 </td><td>Sugar confectionery (including white chocolate), not containing cocoa:</td></tr>
+<tr><td rowspan="2">1704 10 </td><td>– Chewing gum, whether or not sugar-coated:</td></tr>
+<tr><td>– – Containing less than 60 % by weight of sucrose (including invert sugar expressed as sucrose):</td></tr>
+<tr><td>1704 10 11 </td><td>– – – Gum in strips</td></tr>
+<tr><td rowspan="2">1704 10 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Containing 60 % or more by weight of sucrose (including invert sugar expressed as sucrose):</td></tr>
+<tr><td>1704 10 91 </td><td>– – – Gum in strips</td></tr>
+<tr><td>1704 10 99 </td><td>– – – Other</td></tr>
+<tr><td>1704 90 </td><td>– Other:</td></tr>
+<tr><td>1704 90 10 </td><td>– – Liquorice extract containing more than 10 % by weight of sucrose but not containing other added substances</td></tr>
+<tr><td rowspan="2">1704 90 30 </td><td>– – White chocolate</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1704 90 51 </td><td>– – – Pastes, including marzipan, in immediate packings of a net content of 1 kg or more</td></tr>
+<tr><td>1704 90 55 </td><td>– – – Throat pastilles and cough drops</td></tr>
+<tr><td rowspan="2">1704 90 61 </td><td>– – – Sugar-coated (panned) goods</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1704 90 65 </td><td>– – – – Gum confectionery and jelly confectionery including fruit pastes in the form of sugar confectionery</td></tr>
+<tr><td>1704 90 71 </td><td>– – – – Boiled sweets whether or not filled</td></tr>
+<tr><td rowspan="2">1704 90 75 </td><td>– – – – Toffees, caramels and similar sweets</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1704 90 81 </td><td>– – – – – Compressed tablets</td></tr>
+<tr><td>1704 90 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1803 </td><td>Cocoa paste, whether or not defatted:</td></tr>
+<tr><td>1803 10 00 </td><td>– Not defatted</td></tr>
+<tr><td>1803 20 00 </td><td>– Wholly or partly defatted</td></tr>
+<tr><td>1804 00 00 </td><td>Cocoa butter, fat and oil</td></tr>
+<tr><td>1805 00 00 </td><td>Cocoa powder, not containing added sugar or other sweetening matter</td></tr>
+<tr><td>1806 </td><td>Chocolate and other food preparations containing cocoa:</td></tr>
+<tr><td>1806 10 </td><td>– Cocoa powder, containing added sugar or other sweetening matter:</td></tr>
+<tr><td>1806 10 15 </td><td>– – Containing no sucrose or containing less than 5 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 20 </td><td>– – Containing 5 % or more but less than 65 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 30 </td><td>– – Containing 65 % or more but less than 80 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 90 </td><td>– – Containing 80 % or more by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 20 </td><td>– Other preparations in blocks, slabs or bars weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg:</td></tr>
+<tr><td>1806 20 10 </td><td>– – Containing 31 % or more by weight of cocoa butter or containing a combined weight of 31 % or more of cocoa butter and milk fat</td></tr>
+<tr><td rowspan="2">1806 20 30 </td><td>– – Containing a combined weight of 25 % or more, but less than 31 % of cocoa butter and milk fat</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1806 20 50 </td><td>– – – Containing 18 % or more by weight of cocoa butter</td></tr>
+<tr><td>1806 20 70 </td><td>– – – Chocolate milk crumb</td></tr>
+<tr><td>1806 20 80 </td><td>– – – Chocolate flavour coating</td></tr>
+<tr><td rowspan="2">1806 20 95 </td><td>– – – Other</td></tr>
+<tr><td>– Other, in blocks, slabs or bars:</td></tr>
+<tr><td>1806 31 00 </td><td>– – Filled</td></tr>
+<tr><td>1806 32 </td><td>– – Not filled</td></tr>
+<tr><td>1806 32 10 </td><td>– – – With added cereal, fruit or nuts</td></tr>
+<tr><td>1806 32 90 </td><td>– – – Other</td></tr>
+<tr><td rowspan="3">1806 90 </td><td>– Other:</td></tr>
+<tr><td>– – Chocolate and chocolate products:</td></tr>
+<tr><td>– – – Chocolates, whether or not filled:</td></tr>
+<tr><td>1806 90 11 </td><td>– – – – Containing alcohol</td></tr>
+<tr><td rowspan="2">1806 90 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1806 90 31 </td><td>– – – – Filled</td></tr>
+<tr><td>1806 90 39 </td><td>– – – – Not filled</td></tr>
+<tr><td>1806 90 50 </td><td>– – Sugar confectionery and substitutes therefor made from sugar substitution products, containing cocoa</td></tr>
+<tr><td>1806 90 60 </td><td>– – Spreads containing cocoa</td></tr>
+<tr><td>1806 90 70 </td><td>– – Preparations containing cocoa for making beverages</td></tr>
+<tr><td>1806 90 90 </td><td>– – Other</td></tr>
+<tr><td>1901 </td><td>Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404 , not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included:</td></tr>
+<tr><td>1901 10 00 </td><td>– Preparations for infant use, put up for retail sale</td></tr>
+<tr><td>1901 20 00 </td><td>– Mixes and doughs for the preparation of bakers' wares of heading 1905 </td></tr>
+<tr><td rowspan="2">1901 90 </td><td>– Other:</td></tr>
+<tr><td>– – Malt extract:</td></tr>
+<tr><td>1901 90 11 </td><td>– – – With a dry extract content of 90 % or more by weight</td></tr>
+<tr><td rowspan="2">1901 90 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1901 90 91 </td><td>– – – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing less than 1,5 % milk fat, 5 % sucrose (including invert sugar) or isoglucose, 5 % glucose or starch, excluding food preparations in powder form of goods of headings 0401 to 0404 </td></tr>
+<tr><td>1901 90 99 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">1902 </td><td>Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared:</td></tr>
+<tr><td>– Uncooked pasta, not stuffed or otherwise prepared:</td></tr>
+<tr><td>1902 11 00 </td><td>– – Containing eggs</td></tr>
+<tr><td>1902 19 </td><td>– – Other:</td></tr>
+<tr><td>1902 19 10 </td><td>– – – Containing no common wheat flour or meal</td></tr>
+<tr><td>1902 19 90 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">1902 20 </td><td>– Stuffed pasta whether or not cooked or otherwise prepared:</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1902 20 91 </td><td>– – – Cooked</td></tr>
+<tr><td>1902 20 99 </td><td>– – – Other</td></tr>
+<tr><td>1902 30 </td><td>– Other pasta:</td></tr>
+<tr><td>1902 30 10 </td><td>– – Dried</td></tr>
+<tr><td>1902 30 90 </td><td>– – Other</td></tr>
+<tr><td>1902 40 </td><td>– Couscous:</td></tr>
+<tr><td>1902 40 10 </td><td>– – Unprepared</td></tr>
+<tr><td>1902 40 90 </td><td>– – Other</td></tr>
+<tr><td>1903 00 00 </td><td>Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms</td></tr>
+<tr><td>1904 </td><td>Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, cornflakes); cereals (other than maize (corn)), in grain form, or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included:</td></tr>
+<tr><td>1904 10 </td><td>– Prepared foods obtained by the swelling or roasting of cereals or cereal products:</td></tr>
+<tr><td>1904 10 10 </td><td>– – Obtained from maize</td></tr>
+<tr><td>1904 10 30 </td><td>– – Obtained from rice</td></tr>
+<tr><td>1904 10 90 </td><td>– – Other:</td></tr>
+<tr><td>1904 20 </td><td>– Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals:</td></tr>
+<tr><td rowspan="2">1904 20 10 </td><td>– – Preparation of the Müsli type based on unroasted cereal flakes</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1904 20 91 </td><td>– – – Obtained from maize</td></tr>
+<tr><td>1904 20 95 </td><td>– – – Obtained from rice</td></tr>
+<tr><td>1904 20 99 </td><td>– – – Other</td></tr>
+<tr><td>1904 30 00 </td><td>Bulgur wheat</td></tr>
+<tr><td>1904 90 </td><td>– Other:</td></tr>
+<tr><td>1904 90 10 </td><td>– – Rice</td></tr>
+<tr><td>1904 90 80 </td><td>– – Other</td></tr>
+<tr><td>1905 </td><td>Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products:</td></tr>
+<tr><td>1905 10 00 </td><td>– Crispbread</td></tr>
+<tr><td>1905 20 </td><td>– Gingerbread and the like:</td></tr>
+<tr><td>1905 20 10 </td><td>– – Containing by weight less than 30 % of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td>1905 20 30 </td><td>– – Containing by weight 30 % or more but less than 50 % of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td rowspan="2">1905 20 90 </td><td>– – Containing by weight 50 % or more of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td>– Sweet biscuits; waffles and wafers:</td></tr>
+<tr><td rowspan="2">1905 31 </td><td>– – Sweet biscuits:</td></tr>
+<tr><td>– – – Completely or partially coated or covered with chocolate or other preparations containing cocoa:</td></tr>
+<tr><td>1905 31 11 </td><td>– – – – In immediate packings of a net content not exceeding 85 g</td></tr>
+<tr><td rowspan="2">1905 31 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td rowspan="2">1905 31 30 </td><td>– – – – Containing 8 % or more by weight of milk fats</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1905 31 91 </td><td>– – – – – Sandwich biscuits</td></tr>
+<tr><td>1905 31 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1905 32 </td><td>– – Waffles and wafers:</td></tr>
+<tr><td rowspan="3">1905 32 05 </td><td>– – – With a water content exceeding 10 % by weight</td></tr>
+<tr><td>– – – Other</td></tr>
+<tr><td>– – – – Completely or partially coated or covered with chocolate or other preparations containing cocoa:</td></tr>
+<tr><td>1905 32 11 </td><td>– – – – – In immediate packings of a net content not exceeding 85g</td></tr>
+<tr><td rowspan="2">1905 32 19 </td><td>– – – – – Other</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1905 32 91 </td><td>– – – – – Salted, whether or not filled</td></tr>
+<tr><td>1905 32 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1905 40 </td><td>– Rusks, toasted bread and similar toasted products:</td></tr>
+<tr><td>1905 40 10 </td><td>– – Rusks</td></tr>
+<tr><td>1905 40 90 </td><td>– – Other</td></tr>
+<tr><td>1905 90 </td><td>– Other:</td></tr>
+<tr><td>1905 90 10 </td><td>– – Matzos</td></tr>
+<tr><td rowspan="2">1905 90 20 </td><td>– – Communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1905 90 30 </td><td>– – – Bread, not containing added honey, eggs, cheese or fruit, and containing by weight in the dry matter state not more than 5 % of sugars and not more than 5 % of fat</td></tr>
+<tr><td>1905 90 45 </td><td>– – – Biscuits</td></tr>
+<tr><td rowspan="2">1905 90 55 </td><td>– – – Extruded or expanded products, savoury or salted</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1905 90 60 </td><td>– – – – With added sweetening matter</td></tr>
+<tr><td>1905 90 90 </td><td>– – – – Other</td></tr>
+<tr><td>2001 </td><td>Vegetables, fruits, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:</td></tr>
+<tr><td>2001 90 </td><td>– Other:</td></tr>
+<tr><td>2001 90 30 </td><td>– – Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2001 90 40 </td><td>– – Yams, sweet potatoes and similar edible parts of plants containing 5 % or more by weight of starch</td></tr>
+<tr><td>2001 90 60 </td><td>– – Palm hearts</td></tr>
+<tr><td>2004 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006 </td></tr>
+<tr><td rowspan="2">2004 10 </td><td>– Potatoes:</td></tr>
+<tr><td>– – Other</td></tr>
+<tr><td>2004 10 91 </td><td>– – – In the form of flour, meal or flakes</td></tr>
+<tr><td>2004 90 </td><td>– Other vegetables and mixtures of vegetables:</td></tr>
+<tr><td>2004 90 10 </td><td>– – Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2005 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006 </td></tr>
+<tr><td>2005 20 </td><td>– Potatoes:</td></tr>
+<tr><td>2005 20 10 </td><td>– – In the form of flour, meal or flakes</td></tr>
+<tr><td>2005 80 00 </td><td>– Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td rowspan="2">2008 </td><td>Fruits, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included:</td></tr>
+<tr><td>– Nuts, groundnuts and other seeds, whether or not mixed together:</td></tr>
+<tr><td>2008 11 </td><td>– – Groundnuts:</td></tr>
+<tr><td rowspan="2">2008 11 10 </td><td>– – – Peanut butter</td></tr>
+<tr><td>– Other, including mixtures other than those of subheading 2008 19 :</td></tr>
+<tr><td>2008 91 00 </td><td>– – Palm hearts</td></tr>
+<tr><td rowspan="3">2008 99 </td><td>– – Other:</td></tr>
+<tr><td>– – – Not containing added spirit:</td></tr>
+<tr><td>– – – – Not containing added sugar:</td></tr>
+<tr><td>2008 99 85 </td><td>– – – – – Maize (corn), other than sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2008 99 91 </td><td>– – – – – Yams, sweet potatoes and similar edible parts of plants, containing 5 % or more by weight of starch</td></tr>
+<tr><td rowspan="2">2101 </td><td>Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof:</td></tr>
+<tr><td>– Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:</td></tr>
+<tr><td>2101 11 </td><td>– – Extracts, essences or concentrates:</td></tr>
+<tr><td>2101 11 11 </td><td>– – – With a coffee-based dry matter content of 95 % or more by weight</td></tr>
+<tr><td>2101 11 19 </td><td>– – – Other</td></tr>
+<tr><td>2101 12 </td><td>– – Preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:</td></tr>
+<tr><td>2101 12 92 </td><td>– – – Preparations with a basis of these extracts, essences or concentrates of coffee</td></tr>
+<tr><td>2101 12 98 </td><td>– – – Other</td></tr>
+<tr><td>2101 20 </td><td>– Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences and concentrates or with a basis of tea or maté:</td></tr>
+<tr><td rowspan="2">2101 20 20 </td><td>– – Extracts, essences or concentrates</td></tr>
+<tr><td>– – Preparations:</td></tr>
+<tr><td>2101 20 92 </td><td>– – – With a basis of extracts, essences or concentrates of tea or maté</td></tr>
+<tr><td>2101 20 98 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">2101 30 </td><td>– Roasted chicory and other roasted coffee substitutes and extracts, essences and concentrates thereof:</td></tr>
+<tr><td>– – Roasted chicory and other roasted coffee substitutes:</td></tr>
+<tr><td>2101 30 11 </td><td>– – – Roasted chicory</td></tr>
+<tr><td rowspan="2">2101 30 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Extracts, essences and concentrates of roasted chicory and other roasted coffee substitutes:</td></tr>
+<tr><td>2101 30 91 </td><td>– – – Of roasted chicory</td></tr>
+<tr><td>2101 30 99 </td><td>– – – Other</td></tr>
+<tr><td>2102 </td><td>Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 3002 ); prepared baking powders:</td></tr>
+<tr><td>2102 10 </td><td>– Active yeasts:</td></tr>
+<tr><td rowspan="2">2102 10 10 </td><td>– – Culture yeast</td></tr>
+<tr><td>– – Baker's yeast:</td></tr>
+<tr><td>2102 10 31 </td><td>– – – Dried</td></tr>
+<tr><td>2102 10 39 </td><td>– – – Other</td></tr>
+<tr><td>2102 10 90 </td><td>– – Other</td></tr>
+<tr><td rowspan="2">2102 20 </td><td>– Inactive yeasts; other single-cell micro-organisms, dead:</td></tr>
+<tr><td>– – Inactive yeasts:</td></tr>
+<tr><td>2102 20 11 </td><td>– – – In tablet, cube or similar form, or in immediate packings of a net content not exceeding 1 kg.</td></tr>
+<tr><td>2102 20 19 </td><td>– – – Other</td></tr>
+<tr><td>2102 20 90 </td><td>– – Other</td></tr>
+<tr><td>2102 30 00 </td><td>– Prepared baking powders</td></tr>
+<tr><td>2103 </td><td>Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 10 00 </td><td>– Soya sauce</td></tr>
+<tr><td>2103 20 00 </td><td>– Tomato ketchup and other tomato sauces</td></tr>
+<tr><td>2103 30 </td><td>– Mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 30 10 </td><td>– – Mustard flour</td></tr>
+<tr><td>2103 30 90 </td><td>– – Prepared mustard</td></tr>
+<tr><td>2103 90 </td><td>– Other:</td></tr>
+<tr><td>2103 90 10 </td><td>– – Mango chutney, liquid</td></tr>
+<tr><td>2103 90 30 </td><td>– – Aromatic bitters of an alcoholic strength by volume of 44,2 to 49,2 % vol containing from 1,5 to 6 % by weight of gentian, spices and various ingredients and from 4 to 10 % of sugar, in containers holding 0,5 litre or less</td></tr>
+<tr><td>2103 90 90 </td><td>– – Other</td></tr>
+<tr><td>2104 </td><td>Soups and broths and preparations therefor; homogenised composite food preparations:</td></tr>
+<tr><td>2104 10 </td><td>– Soups and broths and preparation therefor:</td></tr>
+<tr><td>2104 10 10 </td><td>– – Dried</td></tr>
+<tr><td>2104 10 90 </td><td>– – Other</td></tr>
+<tr><td>2104 20 00 </td><td>– Homogenised composite food preparations</td></tr>
+<tr><td>2105 00 </td><td>Ice cream and other edible ice, whether or not containing cocoa:</td></tr>
+<tr><td rowspan="2">2105 00 10 </td><td>– Containing no milk fats or containing less than 3 % by weight of such fats</td></tr>
+<tr><td>– Containing by weight of milk fats:</td></tr>
+<tr><td>2105 00 91 </td><td>– – 3 % or more but less than 7 %</td></tr>
+<tr><td>2105 00 99 </td><td>– – 7 % or more</td></tr>
+<tr><td>2106 </td><td>Food preparations not elsewhere specified or included:</td></tr>
+<tr><td>2106 10 </td><td>– Protein concentrates and textured protein substances:</td></tr>
+<tr><td>2106 10 20 </td><td>– – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milk fat, 5 % sucrose or isoglucose, 5 % glucose or starch</td></tr>
+<tr><td>2106 10 80 </td><td>– – Other</td></tr>
+<tr><td>2106 90 </td><td>– Other:</td></tr>
+<tr><td>2106 90 10 </td><td>– – Cheese fondues</td></tr>
+<tr><td rowspan="2">2106 90 20 </td><td>– – Compound alcoholic preparations, other than those based on odoriferous substances, of a kind used for the manufacture of beverages</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>2106 90 92 </td><td>– – – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milk fat, 5 % sucrose or isoglucose, 5 % glucose or starch:</td></tr>
+<tr><td>2106 90 98 </td><td>– – – Other</td></tr>
+<tr><td>2201 </td><td>Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow:</td></tr>
+<tr><td rowspan="2">2201 10 </td><td>– Mineral waters and aerated waters:</td></tr>
+<tr><td>– – Natural mineral waters:</td></tr>
+<tr><td>2201 10 11 </td><td>– – – Not carbonated</td></tr>
+<tr><td>2201 10 19 </td><td>– – – Other</td></tr>
+<tr><td>2201 10 90 </td><td>– – Other:</td></tr>
+<tr><td>2201 90 00 </td><td>– Other</td></tr>
+<tr><td>2202 </td><td>Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not including fruit or vegetable juices of heading 2009 :</td></tr>
+<tr><td>2202 10 00 </td><td>– Waters including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured</td></tr>
+<tr><td>2202 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">2202 90 10 </td><td>– – Not containing products of headings 0401 to 0404 or fat obtained from products of headings 0401 to 0404 </td></tr>
+<tr><td>– – Other, containing by weight of fat obtained from the products of headings 0401 to 0404 :</td></tr>
+<tr><td>2202 90 91 </td><td>– – – Less than 0,2 %</td></tr>
+<tr><td>2202 90 95 </td><td>– – – 0,2 % or more but less than 2 %</td></tr>
+<tr><td>2202 90 99 </td><td>– – – 2 % or more</td></tr>
+<tr><td rowspan="2">2203 00 </td><td>Beer made from malt:</td></tr>
+<tr><td>– In containers holding 10 litres or less:</td></tr>
+<tr><td>2203 00 01 </td><td>– – In bottles</td></tr>
+<tr><td>2203 00 09 </td><td>– – Other</td></tr>
+<tr><td>2203 00 10 </td><td>– In containers holding more than 10 litres</td></tr>
+<tr><td>2205 </td><td>Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances:</td></tr>
+<tr><td>2205 10 </td><td>– In containers holding 2 litres or less:</td></tr>
+<tr><td>2205 10 10 </td><td>– – Of an actual alcoholic strength by volume of 18 % vol or less</td></tr>
+<tr><td>2205 10 90 </td><td>– – Of an actual alcoholic strength by volume exceeding 18 % vol</td></tr>
+<tr><td>2205 90 </td><td>– Other:</td></tr>
+<tr><td>2205 90 10 </td><td>– – Of an actual alcoholic strength by volume of 18 % vol or less</td></tr>
+<tr><td>2205 90 90 </td><td>– – Of an actual alcoholic strength by volume exceeding 18 % vol</td></tr>
+<tr><td>2207 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher; ethyl alcohol and other spirits, denatured, of any strength:</td></tr>
+<tr><td>2207 10 00 </td><td>– Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher</td></tr>
+<tr><td>2207 20 00 </td><td>– Ethyl alcohol and other spirits, denatured, of any strength</td></tr>
+<tr><td>2208 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages:</td></tr>
+<tr><td rowspan="2">2208 20 </td><td>– Spirits obtained by distilling grape wine or grape marc:</td></tr>
+<tr><td>– – In containers holding 2 litres or less:</td></tr>
+<tr><td>2208 20 12 </td><td>– – – Cognac</td></tr>
+<tr><td>2208 20 14 </td><td>– – – Armagnac</td></tr>
+<tr><td>2208 20 26 </td><td>– – – Grappa</td></tr>
+<tr><td>2208 20 27 </td><td>– – – Brandy de Jerez</td></tr>
+<tr><td rowspan="2">2208 20 29 </td><td>– – – Other</td></tr>
+<tr><td>– – In containers holding more than 2 litres:</td></tr>
+<tr><td rowspan="2">2208 20 40 </td><td>– – – Raw distillate</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2208 20 62 </td><td>– – – – Cognac:</td></tr>
+<tr><td>2208 20 64 </td><td>– – – – Armagnac</td></tr>
+<tr><td>2208 20 86 </td><td>– – – – Grappa</td></tr>
+<tr><td>2208 20 87 </td><td>– – – – Brandy de Jerez</td></tr>
+<tr><td>2208 20 89 </td><td>– – – – Other</td></tr>
+<tr><td rowspan="2">2208 30 </td><td>– Whiskies:</td></tr>
+<tr><td>– – Bourbon whiskey, in containers holding:</td></tr>
+<tr><td>2208 30 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="3">2208 30 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Scotch whisky:</td></tr>
+<tr><td>– – – Malt whisky, in containers holding:</td></tr>
+<tr><td>2208 30 32 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 38 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – – Blended whisky, in containers holding:</td></tr>
+<tr><td>2208 30 52 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 58 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – – Other, in containers holding:</td></tr>
+<tr><td>2208 30 72 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 78 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – Other in containers holding:</td></tr>
+<tr><td>2208 30 82 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 30 88 </td><td>– – – More than 2 litres</td></tr>
+<tr><td rowspan="2">2208 40 </td><td>– Rum and taffia:</td></tr>
+<tr><td>– – In containers holding 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 40 11 </td><td>– – – Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol (with a 10 % tolerance)</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2208 40 31 </td><td>– – – – Of a value exceeding EUR 7,9 per litre of pure alcohol</td></tr>
+<tr><td rowspan="2">2208 40 39 </td><td>– – – – Other</td></tr>
+<tr><td>– – In containers holding more than 2 litres:</td></tr>
+<tr><td rowspan="2">2208 40 51 </td><td>– – – Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol (with a 10 % tolerance)</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>2208 40 91 </td><td>– – – – Of a value exceeding EUR 2 per litre of pure alcohol</td></tr>
+<tr><td>2208 40 99 </td><td>– – – – Other</td></tr>
+<tr><td rowspan="2">2208 50 </td><td>– Gin and Geneva:</td></tr>
+<tr><td>– – Gin, in containers holding:</td></tr>
+<tr><td>2208 50 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 50 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Geneva, in containers holding:</td></tr>
+<tr><td>2208 50 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 50 99 </td><td>– – – More than 2 litres</td></tr>
+<tr><td rowspan="2">2208 60 </td><td>– Vodka:</td></tr>
+<tr><td>– – Of an alcoholic strength by volume of 45,4 % vol or less in containers holding:</td></tr>
+<tr><td>2208 60 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 60 19 </td><td>– – – more than 2 litres</td></tr>
+<tr><td>– – Of an alcoholic strength by volume of more than 45,4 % vol in containers holding:</td></tr>
+<tr><td>2208 60 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 60 99 </td><td>– – – more than 2 litres</td></tr>
+<tr><td>2208 70 </td><td>– Liqueurs and cordials:</td></tr>
+<tr><td>2208 70 10 </td><td>– – In containers holding 2 litres or less</td></tr>
+<tr><td>2208 70 90 </td><td>– – In containers holding more than 2 litres</td></tr>
+<tr><td rowspan="2">2208 90 </td><td>– Other:</td></tr>
+<tr><td>– – Arrack, in containers holding:</td></tr>
+<tr><td>2208 90 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 90 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Plum, pear or cherry spirit (excluding liqueurs), in containers holding:</td></tr>
+<tr><td>2208 90 33 </td><td>– – – 2 litres or less:</td></tr>
+<tr><td rowspan="3">2208 90 38 </td><td>– – – More than 2 litres:</td></tr>
+<tr><td>– – Other spirits and other spirituous beverages, in containers holding:</td></tr>
+<tr><td>– – – 2 litres or less:</td></tr>
+<tr><td rowspan="4">2208 90 41 </td><td>– – – – Ouzo</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>– – – – – Spirits (excluding liqueurs):</td></tr>
+<tr><td>– – – – – – Distilled from fruit:</td></tr>
+<tr><td>2208 90 45 </td><td>– – – – – – – Calvados</td></tr>
+<tr><td rowspan="2">2208 90 48 </td><td>– – – – – – – Other</td></tr>
+<tr><td>– – – – – – Other:</td></tr>
+<tr><td>2208 90 52 </td><td>– – – – – – – Korn</td></tr>
+<tr><td>2208 90 54 </td><td>– – – – – – – – Tequilla</td></tr>
+<tr><td>2208 90 56 </td><td>– – – – – – – – Other</td></tr>
+<tr><td rowspan="3">2208 90 69 </td><td>– – – – – Other spirituous beverages</td></tr>
+<tr><td>– – – More than 2 litres:</td></tr>
+<tr><td>– – – – Spirits (excluding liqueurs):</td></tr>
+<tr><td>2208 90 71 </td><td>– – – – – Distilled from fruit</td></tr>
+<tr><td>2208 90 75 </td><td>– – – – – Tequilla</td></tr>
+<tr><td>2208 90 77 </td><td>– – – – – Other</td></tr>
+<tr><td rowspan="2">2208 90 78 </td><td>– – – – Other spirituous beverages</td></tr>
+<tr><td>– – Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol, in containers holding:</td></tr>
+<tr><td>2208 90 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 90 99 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>2402 </td><td>Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes:</td></tr>
+<tr><td>2402 10 00 </td><td>– Cigars, cheroots and cigarillos, containing tobacco</td></tr>
+<tr><td>2402 20 </td><td>– Cigarettes containing tobacco:</td></tr>
+<tr><td>2402 20 10 </td><td>– – Containing cloves</td></tr>
+<tr><td>2402 20 90 </td><td>– – Other</td></tr>
+<tr><td>2402 90 00 </td><td>– Other</td></tr>
+<tr><td>2403 </td><td>Other manufactured tobacco and manufactured tobacco substitutes; ‘homogenised’ or ‘reconstituted’ tobacco; tobacco extracts and essences:</td></tr>
+<tr><td>2403 10 </td><td>– Smoking tobacco, whether or not containing tobacco substitutes in any proportion:</td></tr>
+<tr><td>2403 10 10 </td><td>– – In immediate packings of a net content not exceeding 500 g</td></tr>
+<tr><td rowspan="2">2403 10 90 </td><td>– – Other</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>2403 91 00 </td><td>– – ‘Homogenised’ or ‘reconstituted’ tobacco</td></tr>
+<tr><td>2403 99 </td><td>– – Other:</td></tr>
+<tr><td>2403 99 10 </td><td>– – – Chewing tobacco and snuff</td></tr>
+<tr><td>2403 99 90 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">2905 </td><td>Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives:</td></tr>
+<tr><td>– Other polyhydric alcohols:</td></tr>
+<tr><td>2905 43 00 </td><td>– – Mannitol</td></tr>
+<tr><td rowspan="2">2905 44 </td><td>– – D-glucitol (sorbitol):</td></tr>
+<tr><td>– – – In aqueous solution:</td></tr>
+<tr><td>2905 44 11 </td><td>– – – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td rowspan="2">2905 44 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2905 44 91 </td><td>– – – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td>2905 44 99 </td><td>– – – – Other</td></tr>
+<tr><td>2905 45 00 </td><td>– – Glycerol</td></tr>
+<tr><td>3301 </td><td>Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils:</td></tr>
+<tr><td>3301 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">3301 90 10 </td><td>– – Terpenic by-products of the deterpenation of essential oils</td></tr>
+<tr><td>– – Extracted oleoresins</td></tr>
+<tr><td>3301 90 21 </td><td>– – – Of liquorice and hops</td></tr>
+<tr><td>3301 90 30 </td><td>– – – Other</td></tr>
+<tr><td>3301 90 90 </td><td>– – Other</td></tr>
+<tr><td>3302 </td><td>Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages:</td></tr>
+<tr><td rowspan="3">3302 10 </td><td>– Of a kind used in the food or drink industries</td></tr>
+<tr><td>– – Of the type used in the drink industries:</td></tr>
+<tr><td>– – – Preparations containing all flavouring agents characterising a beverage:</td></tr>
+<tr><td rowspan="2">3302 10 10 </td><td>– – – – Of an actual alcoholic strength by volume exceeding 0,5 %</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>3302 10 21 </td><td>– – – – – Containing no milkfats, sucrose, isoglucose, glucose, or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch</td></tr>
+<tr><td>3302 10 29 </td><td>– – – – – Other</td></tr>
+<tr><td>3501 </td><td>Casein, caseinates and other casein derivates; casein glues:</td></tr>
+<tr><td>3501 10 </td><td>– Casein:</td></tr>
+<tr><td>3501 10 10 </td><td>– – For the manufacture of regenerated textile fibres</td></tr>
+<tr><td>3501 10 50 </td><td>– – For industrial uses other than the manufacture of foodstuffs or fodder</td></tr>
+<tr><td>3501 10 90 </td><td>– – Other</td></tr>
+<tr><td>3501 90 </td><td>– Other:</td></tr>
+<tr><td>3501 90 90 </td><td>– – Other</td></tr>
+<tr><td>3505 </td><td>Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches:</td></tr>
+<tr><td>3505 10 </td><td>– Dextrins and other modified starches:</td></tr>
+<tr><td rowspan="2">3505 10 10 </td><td>– – Dextrins</td></tr>
+<tr><td>– – Other modified starches:</td></tr>
+<tr><td>3505 10 90 </td><td>– – – Other</td></tr>
+<tr><td>3505 20 </td><td>– Glues:</td></tr>
+<tr><td>3505 20 10 </td><td>– – Containing, by weight, less than 25 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 30 </td><td>– – Containing, by weight, 25 % or more but less than 55 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 50 </td><td>– – Containing, by weight, 55 % or more but less than 80 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 90 </td><td>– – Containing by weight 80 % or more of starches or dextrins or other modified starches</td></tr>
+<tr><td>3809 </td><td>Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included:</td></tr>
+<tr><td>3809 10 </td><td>– With a basis of amylaceous substances:</td></tr>
+<tr><td>3809 10 10 </td><td>– – Containing by weight of such substances less than 55 %</td></tr>
+<tr><td>3809 10 30 </td><td>– – Containing by weight of such substances 55 % or more but less than 70 %</td></tr>
+<tr><td>3809 10 50 </td><td>– – Containing by weight of such substances 70 % or more but less than 83 %</td></tr>
+<tr><td>3809 10 90 </td><td>– – Containing by weight of such substances 83 % or more</td></tr>
+<tr><td rowspan="2">3823 </td><td>Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols:</td></tr>
+<tr><td>– Industrial monocarboxylic fatty acids, acid oils from refining:</td></tr>
+<tr><td>3823 11 00 </td><td>– – Stearic acid</td></tr>
+<tr><td>3823 12 00 </td><td>– – Oleic acid</td></tr>
+<tr><td>3823 13 00 </td><td>– – Tall oil fatty acids</td></tr>
+<tr><td>3823 19 </td><td>– – Other:</td></tr>
+<tr><td>3823 19 10 </td><td>– – – Distilled fatty acids</td></tr>
+<tr><td>3823 19 30 </td><td>– – – Fatty acid distillate</td></tr>
+<tr><td>3823 19 90 </td><td>– – – Other</td></tr>
+<tr><td>3823 70 00 </td><td>– Industrial fatty alcohols</td></tr>
+<tr><td>3824 </td><td>Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included; residual products of the chemical or allied industries, not elsewhere specified or included:</td></tr>
+<tr><td rowspan="2">3824 60 </td><td>– Sorbitol other than that of subheading 2905 44 :</td></tr>
+<tr><td>– – in aqueous solution:</td></tr>
+<tr><td>3824 60 11 </td><td>– – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td rowspan="2">3824 60 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>3824 60 91 </td><td>– – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td>3824 60 99 </td><td>– – – Other</td></tr>
+</tbody>
+</table>
+
+## ANNEX II(a)
+
+**Duties applicable upon imports into Albania of processed agricultural products originating in the Community**
+
+On the date of entry into force of the Agreement, import duties are set at zero for imports into Albania of the goods originating in the Community as listed hereafter.
+
+<table>
+<tbody><tr><td>HS code (1)</td><td>Description</td></tr>
+<tr><td>0501 00 00 </td><td>Human hair, unworked, whether or not washed or scoured; waste of human hair</td></tr>
+<tr><td>0502 </td><td>Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair:</td></tr>
+<tr><td>0502 10 00 </td><td>– Pigs', hogs' or boars' bristles and hair and waste thereof</td></tr>
+<tr><td>0502 90 00 </td><td>– Other</td></tr>
+<tr><td>0503 00 00 </td><td>Horsehair and horsehair waste, whether or not put up as a layer with or without supporting material</td></tr>
+<tr><td>0505 </td><td>Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers:</td></tr>
+<tr><td>0505 10 </td><td>– Feathers of a kind used for stuffing; down:</td></tr>
+<tr><td>0505 10 10 </td><td>– – Raw</td></tr>
+<tr><td>0505 10 90 </td><td>– – Other</td></tr>
+<tr><td>0505 90 00 </td><td>– Other</td></tr>
+<tr><td>0506 </td><td>Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products:</td></tr>
+<tr><td>0506 10 00 </td><td>– Ossein and bones treated with acid</td></tr>
+<tr><td>0506 90 00 </td><td>– Other</td></tr>
+<tr><td>0507 </td><td>Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products:</td></tr>
+<tr><td>0507 10 00 </td><td>– Ivory; ivory powder and waste</td></tr>
+<tr><td>0507 90 00 </td><td>– Other</td></tr>
+<tr><td>0508 00 00 </td><td>Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof</td></tr>
+<tr><td>0509 00 </td><td>Natural sponges of animal origin:</td></tr>
+<tr><td>0509 00 10 </td><td>– Raw</td></tr>
+<tr><td>0509 00 90 </td><td>– Other</td></tr>
+<tr><td>0510 00 00 </td><td>Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh chilled, frozen or otherwise provisionally preserved</td></tr>
+<tr><td>0903 00 00 </td><td>Maté</td></tr>
+<tr><td rowspan="2">1302 </td><td>Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products:</td></tr>
+<tr><td>– Vegetable saps and extracts:</td></tr>
+<tr><td>1302 12 00 </td><td>– – Of liquorice</td></tr>
+<tr><td>1302 13 00 </td><td>– – Of hops</td></tr>
+<tr><td>1302 14 00 </td><td>– – Of pyrethrum or of the roots of plants containing rotenone</td></tr>
+<tr><td>1302 19 </td><td>– – Other:</td></tr>
+<tr><td>1302 19 90 </td><td>– – – Other</td></tr>
+<tr><td>1302 20 </td><td>– Pectic substances, pectinates and pectates:</td></tr>
+<tr><td>1302 20 10 </td><td>– – Dry</td></tr>
+<tr><td rowspan="2">1302 20 90 </td><td>– – Other</td></tr>
+<tr><td>– Mucilages and thickeners, whether or not modified, derived from vegetable products:</td></tr>
+<tr><td>1302 31 00 </td><td>– – Agar-agar</td></tr>
+<tr><td>1302 32 </td><td>– – Mucilages and thickeners, whether or not modified, derived from locust beans, locust bean seeds or sugar seeds:</td></tr>
+<tr><td>1302 32 10 </td><td>– – – Of locust beans or locust bean seeds</td></tr>
+<tr><td>1401 </td><td>Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark):</td></tr>
+<tr><td>1401 10 00 </td><td>– Bamboos</td></tr>
+<tr><td>1401 20 00 </td><td>– Rattans</td></tr>
+<tr><td>1401 90 00 </td><td>– Other</td></tr>
+<tr><td>1402 00 00 </td><td>Vegetable materials of a kind used primarily as stuffing or as padding (for example, kapok, vegetable hair and eelgrass), whether or not put up as a layer with or without supporting material</td></tr>
+<tr><td>1403 00 00 </td><td>Vegetable materials of a kind used primarily in brooms or in brushes (for example, broomcorn, piassava, couch grass and istle), whether or not in hanks or bundles</td></tr>
+<tr><td>1404 </td><td>Vegetable products not elsewhere specified or included:</td></tr>
+<tr><td>1404 10 00 </td><td>– Raw vegetable materials of a kind used primarily in dyeing or tanning</td></tr>
+<tr><td>1404 20 00 </td><td>– Cotton linters</td></tr>
+<tr><td>1404 90 00 </td><td>– Other</td></tr>
+<tr><td>1505 </td><td>Wool grease and fatty substances derived therefrom (including lanolin):</td></tr>
+<tr><td>1505 00 10 </td><td>– Wool grease, crude</td></tr>
+<tr><td>1505 00 90 </td><td>– Other</td></tr>
+<tr><td>1506 00 00 </td><td>Other animal fats and oils and their fractions, whether or not refined, but not chemically modified</td></tr>
+<tr><td>1515 </td><td>Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified:</td></tr>
+<tr><td>1515 90 15 </td><td>– – Jojoba and oiticica oils; myrtle wax and Japan Wax; their fractions</td></tr>
+<tr><td>1516 </td><td>Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared:</td></tr>
+<tr><td>1516 20 </td><td>– Vegetable fats and oils and their fractions:</td></tr>
+<tr><td>1516 20 10 </td><td>– – Hydrogenated castor oil, so called ‘opal-wax’</td></tr>
+<tr><td>1517 </td><td>Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, other than edible fats or oils or their fractions of heading No 1516 :</td></tr>
+<tr><td>1517 10 </td><td>– Margarine, excluding liquid margarine:</td></tr>
+<tr><td>1517 10 10 </td><td>– – Containing, by weight more than 10 % but not more than 15 % of milk fats</td></tr>
+<tr><td>1517 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">1517 90 10 </td><td>– – Containing, by weight more than 10 % but not more than 15 % of milk fats</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1517 90 93 </td><td>– – – Edible mixtures or preparations of a kind used as mould-release preparations</td></tr>
+<tr><td>1518 00 </td><td>Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516 ; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this chapter, not elsewhere specified or included:</td></tr>
+<tr><td rowspan="2">1518 00 10 </td><td>– Linoxyn</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td rowspan="2">1518 00 91 </td><td>– – Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516 </td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1518 00 95 </td><td>– – – Inedible mixtures or preparations of animal or of animal and vegetable fats and oils and their fractions</td></tr>
+<tr><td>1518 00 99 </td><td>– – – Other</td></tr>
+<tr><td>1520 00 00 </td><td>Glycerol, crude; glycerol waters and glycerol lyes</td></tr>
+<tr><td>1521 </td><td>Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured:</td></tr>
+<tr><td>1521 10 00 </td><td>– Vegetable waxes</td></tr>
+<tr><td>1521 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">1521 90 10 </td><td>– – Spermaceti, whether or not refined or coloured</td></tr>
+<tr><td>– – Beeswax and other insect waxes, whether or not refined or coloured:</td></tr>
+<tr><td>1521 90 91 </td><td>– – – Raw</td></tr>
+<tr><td>1521 90 99 </td><td>– – – Other</td></tr>
+<tr><td>1522 00 </td><td>Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes:</td></tr>
+<tr><td>1522 00 10 </td><td>– Degras</td></tr>
+<tr><td>1702 </td><td>Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel:</td></tr>
+<tr><td>1702 50 00 </td><td>– Chemically pure fructose</td></tr>
+<tr><td>1702 90 </td><td>– Other, including invert sugar and other sugar and sugar syrup blends containing in the dry state 50 % by weight of fructose</td></tr>
+<tr><td>1702 90 10 </td><td>– – Chemically pure maltose</td></tr>
+<tr><td>1704 </td><td>Sugar confectionery (including white chocolate), not containing cocoa:</td></tr>
+<tr><td rowspan="2">1704 10 </td><td>– Chewing gum, whether or not sugar-coated:</td></tr>
+<tr><td>– – Containing less than 60 % by weight of sucrose (including invert sugar expressed as sucrose):</td></tr>
+<tr><td>1704 10 11 </td><td>– – – Gum in strips</td></tr>
+<tr><td rowspan="2">1704 10 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Containing 60 % or more by weight of sucrose (including invert sugar expressed as sucrose):</td></tr>
+<tr><td>1704 10 91 </td><td>– – – Gum in strips</td></tr>
+<tr><td>1704 10 99 </td><td>– – – Other</td></tr>
+<tr><td>1704 90 </td><td>– Other:</td></tr>
+<tr><td>1704 90 10 </td><td>– – Liquorice extract containing more than 10 % by weight of sucrose but not containing other added substances</td></tr>
+<tr><td rowspan="2">1704 90 30 </td><td>– – White chocolate</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1704 90 51 </td><td>– – – Pastes, including marzipan, in immediate packings of a net content of 1 kg or more</td></tr>
+<tr><td>1704 90 55 </td><td>– – – Throat pastilles and cough drops</td></tr>
+<tr><td rowspan="2">1704 90 61 </td><td>– – – Sugar-coated (panned) goods</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1704 90 65 </td><td>– – – – Gum confectionery and jelly confectionery including fruit pastes in the form of sugar confectionery</td></tr>
+<tr><td>1704 90 71 </td><td>– – – – Boiled sweets whether or not filled</td></tr>
+<tr><td rowspan="2">1704 90 75 </td><td>– – – – Toffees, caramels and similar sweets</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1704 90 81 </td><td>– – – – – Compressed tablets</td></tr>
+<tr><td>1704 90 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1803 </td><td>Cocoa paste, whether or not defatted:</td></tr>
+<tr><td>1803 10 00 </td><td>– Not defatted</td></tr>
+<tr><td>1803 20 00 </td><td>– Wholly or partly defatted</td></tr>
+<tr><td>1804 00 00 </td><td>Cocoa butter, fat and oil</td></tr>
+<tr><td>1805 00 00 </td><td>Cocoa powder, not containing added sugar or other sweetening matter</td></tr>
+<tr><td>1903 00 00 </td><td>Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms</td></tr>
+<tr><td>1905 </td><td>Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products:</td></tr>
+<tr><td>1905 10 00 </td><td>– Crispbread</td></tr>
+<tr><td>1905 20 </td><td>– Gingerbread and the like:</td></tr>
+<tr><td>1905 20 10 </td><td>– – Containing by weight less than 30 % of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td>1905 20 30 </td><td>– – Containing by weight 30 % or more but less than 50 % of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td rowspan="2">1905 20 90 </td><td>– – Containing by weight 50 % or more of sucrose (including invert sugar expressed as sucrose)</td></tr>
+<tr><td>– Sweet biscuits; waffles and wafers:</td></tr>
+<tr><td rowspan="2">1905 31 </td><td>– – Sweet biscuits:</td></tr>
+<tr><td>– – – Completely or partially coated or covered with chocolate or other preparations containing cocoa:</td></tr>
+<tr><td>1905 31 11 </td><td>– – – – In immediate packings of a net content not exceeding 85g</td></tr>
+<tr><td rowspan="2">1905 31 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td rowspan="2">1905 31 30 </td><td>– – – – Containing 8 % or more by weight of milk fats</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1905 31 91 </td><td>– – – – – Sandwich biscuits</td></tr>
+<tr><td>1905 31 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1905 32 </td><td>– – Waffles and wafers:</td></tr>
+<tr><td rowspan="3">1905 32 05 </td><td>– – – With a water content exceeding 10 % by weight</td></tr>
+<tr><td>– – – Other</td></tr>
+<tr><td>– – – – Completely or partially coated or covered with chocolate or other preparations containing cocoa:</td></tr>
+<tr><td>1905 32 11 </td><td>– – – – – In immediate packings of a net content not exceeding 85g</td></tr>
+<tr><td rowspan="2">1905 32 19 </td><td>– – – – – Other</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>1905 32 91 </td><td>– – – – – Salted, whether or not filled</td></tr>
+<tr><td>1905 32 99 </td><td>– – – – – Other</td></tr>
+<tr><td>1905 40 </td><td>– Rusks, toasted bread and similar toasted products:</td></tr>
+<tr><td>1905 40 10 </td><td>– – Rusks</td></tr>
+<tr><td>1905 40 90 </td><td>– – Other</td></tr>
+<tr><td>1905 90 </td><td>– Other:</td></tr>
+<tr><td>1905 90 10 </td><td>– – Matzos</td></tr>
+<tr><td rowspan="2">1905 90 20 </td><td>– – Communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1905 90 30 </td><td>– – – Bread, not containing added honey, eggs, cheese or fruit, and containing by weight in the dry matter state not more than 5 % of sugars and not more than 5 % of fat</td></tr>
+<tr><td>1905 90 45 </td><td>– – – Biscuits</td></tr>
+<tr><td rowspan="2">1905 90 55 </td><td>– – – Extruded or expanded products, savoury or salted</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1905 90 60 </td><td>– – – – With added sweetening matter</td></tr>
+<tr><td>1905 90 90 </td><td>– – – – Other</td></tr>
+<tr><td>2101 </td><td>Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof:</td></tr>
+<tr><td rowspan="2">2101 20 </td><td>– Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences and concentrates or with a basis of tea or maté:</td></tr>
+<tr><td>– – Preparations:</td></tr>
+<tr><td>2101 20 92 </td><td>– – – With a basis of extracts, essences or concentrates of tea or maté</td></tr>
+<tr><td>2103 </td><td>Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 30 </td><td>– Mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 30 10 </td><td>– – Mustard flour</td></tr>
+<tr><td>2103 30 90 </td><td>– – Prepared mustard</td></tr>
+<tr><td>2103 90 </td><td>– Other:</td></tr>
+<tr><td>2103 90 10 </td><td>– – Mango chutney, liquid</td></tr>
+<tr><td>2103 90 30 </td><td>– – Aromatic bitters of an alcoholic strength by volume of 44,2 to 49,2 % vol containing from 1,5 to 6 % by weight of gentian, spices and various ingredients and from 4 to 10 % of sugar, in containers holding 0,5 litre or less</td></tr>
+<tr><td>2104 </td><td>Soups and broths and preparations therefor; homogenised composite food preparations:</td></tr>
+<tr><td>2104 10 </td><td>– Soups and broths and preparation therefor:</td></tr>
+<tr><td>2104 10 10 </td><td>– – Dried</td></tr>
+<tr><td>2104 10 90 </td><td>– – Other</td></tr>
+<tr><td>2104 20 00 </td><td>– Homogenised composite food preparations</td></tr>
+<tr><td>2106 </td><td>Food preparations not elsewhere specified or included:</td></tr>
+<tr><td>2106 10 </td><td>– Protein concentrates and textured protein substances:</td></tr>
+<tr><td>2106 10 20 </td><td>– – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milk fat, 5 % sucrose or isoglucose, 5 % glucose or starch</td></tr>
+<tr><td>2106 10 80 </td><td>– – Other</td></tr>
+<tr><td>2106 90 </td><td>– Other:</td></tr>
+<tr><td>2106 90 10 </td><td>– – Cheese fondues</td></tr>
+<tr><td rowspan="2">2106 90 20 </td><td>– – Compound alcoholic preparations, other than those based on odoriferous substances, of a kind used for the manufacture of beverages</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>2106 90 92 </td><td>– – – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing, by weight, less than 1,5 % milk fat, 5 % sucrose or isoglucose, 5 % glucose or starch:</td></tr>
+<tr><td>2106 90 98 </td><td>– – – Other</td></tr>
+<tr><td>2403 </td><td>Other manufactured tobacco and manufactured tobacco substitutes; ‘homogenised’ or ‘reconstituted’ tobacco; tobacco extracts and essences:</td></tr>
+<tr><td>2403 10 </td><td>– Smoking tobacco, whether or not containing tobacco substitutes in any proportion:</td></tr>
+<tr><td>2403 10 90 </td><td>– – Other</td></tr>
+<tr><td rowspan="2">2905 </td><td>Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives:</td></tr>
+<tr><td>– Other polyhydric alcohols:</td></tr>
+<tr><td>2905 43 00 </td><td>– – Mannitol</td></tr>
+<tr><td rowspan="2">2905 44 </td><td>– – D-glucitol (sorbitol):</td></tr>
+<tr><td>– – – In aqueous solution:</td></tr>
+<tr><td>2905 44 11 </td><td>– – – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td rowspan="2">2905 44 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2905 44 91 </td><td>– – – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td>2905 44 99 </td><td>– – – – Other</td></tr>
+<tr><td>2905 45 00 </td><td>– – Glycerol</td></tr>
+<tr><td>3301 </td><td>Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils:</td></tr>
+<tr><td>3301 90 </td><td>– Other:</td></tr>
+<tr><td rowspan="2">3301 90 10 </td><td>– – Terpenic by-products of the deterpenation of essential oils</td></tr>
+<tr><td>– – Extracted oleoresins</td></tr>
+<tr><td>3301 90 21 </td><td>– – – Of liquorice and hops</td></tr>
+<tr><td>3301 90 30 </td><td>– – – Other</td></tr>
+<tr><td>3301 90 90 </td><td>– – Other</td></tr>
+<tr><td>3302 </td><td>Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages:</td></tr>
+<tr><td rowspan="3">3302 10 </td><td>– Of a kind used in the food or drink industries</td></tr>
+<tr><td>– – Of the type used in the drink industries:</td></tr>
+<tr><td>– – – Preparations containing all flavouring agents characterising a beverage:</td></tr>
+<tr><td rowspan="2">3302 10 10 </td><td>– – – – Of an actual alcoholic strength by volume exceeding 0,5 %</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>3302 10 21 </td><td>– – – – – Containing no milkfats, sucrose, isoglucose, glucose, or starch or containing, by weight, less than 1,5 % milkfat, 5 % sucrose or isoglucose, 5 % glucose or starch</td></tr>
+<tr><td>3302 10 29 </td><td>– – – – – Other</td></tr>
+<tr><td>3501 </td><td>Casein, caseinates and other casein derivates; casein glues:</td></tr>
+<tr><td>3501 10 </td><td>– Casein:</td></tr>
+<tr><td>3501 10 10 </td><td>– – For the manufacture of regenerated textile fibres</td></tr>
+<tr><td>3501 10 50 </td><td>– – For industrial uses other than the manufacture of foodstuffs or fodder</td></tr>
+<tr><td>3501 10 90 </td><td>– – Other</td></tr>
+<tr><td>3501 90 </td><td>– Other:</td></tr>
+<tr><td>3501 90 90 </td><td>– – Other</td></tr>
+<tr><td>3505 </td><td>Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches:</td></tr>
+<tr><td>3505 10 </td><td>– Dextrins and other modified starches:</td></tr>
+<tr><td rowspan="2">3505 10 10 </td><td>– – Dextrins</td></tr>
+<tr><td>– – Other modified starches:</td></tr>
+<tr><td>3505 10 90 </td><td>– – – Other</td></tr>
+<tr><td>3505 20 </td><td>– Glues:</td></tr>
+<tr><td>3505 20 10 </td><td>– – Containing, by weight, less than 25 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 30 </td><td>– – Containing, by weight, 25 % or more but less than 55 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 50 </td><td>– – Containing, by weight, 55 % or more but less than 80 % of starches or dextrins or other modified starches</td></tr>
+<tr><td>3505 20 90 </td><td>– – Containing by weight 80 % or more of starches or dextrins or other modified starches</td></tr>
+<tr><td>3809 </td><td>Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included:</td></tr>
+<tr><td>3809 10 </td><td>– With a basis of amylaceous substances:</td></tr>
+<tr><td>3809 10 10 </td><td>– – Containing by weight of such substances less than 55 %</td></tr>
+<tr><td>3809 10 30 </td><td>– – Containing by weight of such substances 55 % or more but less than 70 %</td></tr>
+<tr><td>3809 10 50 </td><td>– – Containing by weight of such substances 70 % or more but less than 83 %</td></tr>
+<tr><td>3809 10 90 </td><td>– – Containing by weight of such substances 83 % or more</td></tr>
+<tr><td rowspan="2">3823 </td><td>Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols:</td></tr>
+<tr><td>– Industrial monocarboxylic fatty acids, acid oils from refining:</td></tr>
+<tr><td>3823 11 00 </td><td>– – Stearic acid</td></tr>
+<tr><td>3823 12 00 </td><td>– – Oleic acid</td></tr>
+<tr><td>3823 13 00 </td><td>– – Tall oil fatty acids</td></tr>
+<tr><td>3823 19 </td><td>– – Other:</td></tr>
+<tr><td>3823 19 10 </td><td>– – – Distilled fatty acids</td></tr>
+<tr><td>3823 19 30 </td><td>– – – Fatty acid distillate</td></tr>
+<tr><td>3823 19 90 </td><td>– – – Other</td></tr>
+<tr><td>3823 70 00 </td><td>– Industrial fatty alcohols</td></tr>
+<tr><td>3824 </td><td>Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included; residual products of the chemical or allied industries, not elsewhere specified or included:</td></tr>
+<tr><td rowspan="2">3824 60 </td><td>– Sorbitol other than that of subheading 2905 44 :</td></tr>
+<tr><td>– – in aqueous solution:</td></tr>
+<tr><td>3824 60 11 </td><td>– – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td rowspan="2">3824 60 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>3824 60 91 </td><td>– – – Containing 2 % or less by weight of D-mannitol, calculated on the D-glucitol content</td></tr>
+<tr><td>3824 60 99 </td><td>– – – Other</td></tr>
+</tbody>
+</table>
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+## ANNEX II(b)
+
+**Albanian tariff concessions for processed agricultural products originating in the Community**
+
+Customs duties for the products listed in this Annex will be eliminated on the date of entry into force of the Agreement.
+
+<table>
+<tbody><tr><td>HS code (1)</td><td>Product description</td></tr>
+<tr><td>2205 </td><td>Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances:</td></tr>
+<tr><td>2205 10 </td><td>– In containers holding 2 litres or less:</td></tr>
+<tr><td>2205 10 10 </td><td>– – Of an actual alcoholic strength by volume of 18 % vol or less</td></tr>
+<tr><td>2205 10 90 </td><td>– – Of an actual alcoholic strength by volume exceeding 18 % vol</td></tr>
+<tr><td>2205 90 10 </td><td>– – Of an actual alcoholic strength by volume of 18 % vol or less</td></tr>
+<tr><td>2205 90 90 </td><td>– – Of an actual alcoholic strength by volume exceeding 18 % vol</td></tr>
+<tr><td>2207 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher; ethyl alcohol and other spirits, denatured, of any strength:</td></tr>
+<tr><td>2207 10 00 </td><td>– Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher</td></tr>
+<tr><td>2207 20 00 </td><td>– Ethyl alcohol and other spirits, denatured, of any strength</td></tr>
+<tr><td>2208 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages:</td></tr>
+<tr><td rowspan="2">2208 20 </td><td>– Spirits obtained by distilling grape wine or grape marc:</td></tr>
+<tr><td>– – In containers holding 2 litres or less:</td></tr>
+<tr><td>2208 20 12 </td><td>– – – Cognac</td></tr>
+<tr><td>2208 20 14 </td><td>– – – Armagnac</td></tr>
+<tr><td>2208 20 26 </td><td>– – – Grappa</td></tr>
+<tr><td>2208 20 27 </td><td>– – – Brandy de Jerez</td></tr>
+<tr><td rowspan="2">2208 20 29 </td><td>– – – Other</td></tr>
+<tr><td>– – In containers holding more than 2 litres:</td></tr>
+<tr><td rowspan="2">2208 20 40 </td><td>– – – Raw distillate</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2208 20 62 </td><td>– – – – Cognac:</td></tr>
+<tr><td>2208 20 64 </td><td>– – – – Armagnac</td></tr>
+<tr><td>2208 20 86 </td><td>– – – – Grappa</td></tr>
+<tr><td>2208 20 87 </td><td>– – – – Brandy de Jerez</td></tr>
+<tr><td>2208 20 89 </td><td>– – – – Other</td></tr>
+<tr><td rowspan="2">2208 30 </td><td>– Whiskies:</td></tr>
+<tr><td>– – Bourbon whiskey, in containers holding:</td></tr>
+<tr><td>2208 30 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="3">2208 30 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Scotch whisky:</td></tr>
+<tr><td>– – – Malt whisky, in containers holding:</td></tr>
+<tr><td>2208 30 32 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 38 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – – Blended whisky, in containers holding:</td></tr>
+<tr><td>2208 30 52 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 58 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – – Other, in containers holding:</td></tr>
+<tr><td>2208 30 72 </td><td>– – – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 30 78 </td><td>– – – – More than 2 litres</td></tr>
+<tr><td>– – Other in containers holding:</td></tr>
+<tr><td>2208 30 82 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 30 88 </td><td>– – – More than 2 litres</td></tr>
+<tr><td rowspan="2">2208 40 </td><td>– Rum and taffia:</td></tr>
+<tr><td>– – In containers holding 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 40 11 </td><td>– – – Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol (with a 10 % tolerance)</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>2208 40 31 </td><td>– – – – Of a value exceeding EUR 7,9 per litre of pure alcohol</td></tr>
+<tr><td rowspan="2">2208 40 39 </td><td>– – – – Other</td></tr>
+<tr><td>– – In containers holding more than 2 litres:</td></tr>
+<tr><td rowspan="2">2208 40 51 </td><td>– – – Rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol (with a 10 % tolerance)</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>2208 40 91 </td><td>– – – – Of a value exceeding EUR 2 per litre of pure alcohol</td></tr>
+<tr><td>2208 40 99 </td><td>– – – – Other</td></tr>
+<tr><td rowspan="2">2208 50 </td><td>– Gin and Geneva:</td></tr>
+<tr><td>– – Gin, in containers holding:</td></tr>
+<tr><td>2208 50 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 50 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Geneva, in containers holding:</td></tr>
+<tr><td>2208 50 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 50 99 </td><td>– – – More than 2 litres</td></tr>
+<tr><td rowspan="2">2208 60 </td><td>– Vodka:</td></tr>
+<tr><td>– – Of an alcoholic strength by volume of 45,4 % vol or less in containers holding:</td></tr>
+<tr><td>2208 60 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 60 19 </td><td>– – – more than 2 litres</td></tr>
+<tr><td>– – Of an alcoholic strength by volume of more than 45,4 % vol in containers holding:</td></tr>
+<tr><td>2208 60 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 60 99 </td><td>– – – more than 2 litres</td></tr>
+<tr><td>2208 70 </td><td>– Liqueurs and cordials:</td></tr>
+<tr><td>2208 70 10 </td><td>– – In containers holding 2 litres or less</td></tr>
+<tr><td>2208 70 90 </td><td>– – In containers holding more than 2 litres</td></tr>
+<tr><td rowspan="2">2208 90 </td><td>– Other:</td></tr>
+<tr><td>– – Arrack, in containers holding:</td></tr>
+<tr><td>2208 90 11 </td><td>– – – 2 litres or less</td></tr>
+<tr><td rowspan="2">2208 90 19 </td><td>– – – More than 2 litres</td></tr>
+<tr><td>– – Plum, pear or cherry spirit (excluding liqueurs), in containers holding:</td></tr>
+<tr><td>2208 90 33 </td><td>– – – 2 litres or less:</td></tr>
+<tr><td rowspan="3">2208 90 38 </td><td>– – – More than 2 litres:</td></tr>
+<tr><td>– – Other spirits and other spirituous beverages, in containers holding:</td></tr>
+<tr><td>– – – 2 litres or less:</td></tr>
+<tr><td rowspan="4">2208 90 41 </td><td>– – – – Ouzo</td></tr>
+<tr><td>– – – – Other:</td></tr>
+<tr><td>– – – – – Spirits (excluding liqueurs):</td></tr>
+<tr><td>– – – – – – Distilled from fruit:</td></tr>
+<tr><td>2208 90 45 </td><td>– – – – – – – Calvados</td></tr>
+<tr><td rowspan="2">2208 90 48 </td><td>– – – – – – – Other</td></tr>
+<tr><td>– – – – – – Other:</td></tr>
+<tr><td>2208 90 52 </td><td>– – – – – – – Korn</td></tr>
+<tr><td>2208 90 54 </td><td>– – – – – – – – Tequilla</td></tr>
+<tr><td>2208 90 56 </td><td>– – – – – – – – Other</td></tr>
+<tr><td rowspan="3">2208 90 69 </td><td>– – – – – Other spirituous beverages</td></tr>
+<tr><td>– – – More than 2 litres:</td></tr>
+<tr><td>– – – – Spirits (excluding liqueurs):</td></tr>
+<tr><td>2208 90 71 </td><td>– – – – – Distilled from fruit</td></tr>
+<tr><td>2208 90 75 </td><td>– – – – – Tequilla</td></tr>
+<tr><td>2208 90 77 </td><td>– – – – – Other</td></tr>
+<tr><td rowspan="2">2208 90 78 </td><td>– – – – Other spirituous beverages</td></tr>
+<tr><td>– – Undernatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol, in containers holding:</td></tr>
+<tr><td>2208 90 91 </td><td>– – – 2 litres or less</td></tr>
+<tr><td>2208 90 99 </td><td>– – – More than 2 litres</td></tr>
+</tbody>
+</table>
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+## ANNEX II(c)
+
+**Albanian tariff concessions for processed agricultural products originating in the Community**
+
+Customs duties for the goods listed in this Annex will be reduced and eliminated in accordance with the following timetable:
+
+— on the date of entry into force of the Agreement, the import duty will be reduced to 90 % of the basic duty,
+
+— on 1 January of the first year following the date of entry into force of the Agreement, the import duty will be reduced to 80 % of the basic duty,
+
+— on 1 January of the second year following the date of entry into force of the Agreement, the import duty will be reduced to 60 % of the basic duty,
+
+— on 1 January of the third year following the date of entry into force of the Agreement, the import duty will be reduced to 40 % of the basic duty,
+
+— on 1 January of the fourth year following the date of entry into force of the Agreement, the remaining duties will be abolished.
+
+<table>
+<tbody><tr><td>HS code (1)</td><td>Description</td></tr>
+<tr><td>0710 </td><td>Vegetables (uncooked or cooked by steaming or boiling in water), frozen:</td></tr>
+<tr><td>0710 40 00 </td><td>– Sweet corn</td></tr>
+<tr><td>0711 </td><td>Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption:</td></tr>
+<tr><td rowspan="2">0711 90 </td><td>– Other vegetables; mixtures of vegetables:</td></tr>
+<tr><td>– – Vegetables:</td></tr>
+<tr><td>0711 90 30 </td><td>– – – Sweet corn</td></tr>
+<tr><td>1806 </td><td>Chocolate and other food preparations containing cocoa:</td></tr>
+<tr><td>1806 10 </td><td>– Cocoa powder, containing added sugar or other sweetening matter:</td></tr>
+<tr><td>1806 10 15 </td><td>– – Containing no sucrose or containing less than 5 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 20 </td><td>– – Containing 5 % or more but less than 65 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 30 </td><td>– – Containing 65 % or more but less than 80 % by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 10 90 </td><td>– – Containing 80 % or more by weight of sucrose (including invert sugar expressed as sucrose) or isoglucose expressed as sucrose</td></tr>
+<tr><td>1806 20 </td><td>– Other preparations in blocks, slabs or bars weighing more than 2 kg or in liquid, paste, powder, granular or other bulk form in containers or immediate packings, of a content exceeding 2 kg:</td></tr>
+<tr><td>1806 20 10 </td><td>– – Containing 31 % or more by weight of cocoa butter or containing a combined weight of 31 % or more of cocoa butter and milk fat</td></tr>
+<tr><td rowspan="2">1806 20 30 </td><td>– – Containing a combined weight of 25 % or more, but less than 31 % of cocoa butter and milk fat</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1806 20 50 </td><td>– – – Containing 18 % or more by weight of cocoa butter</td></tr>
+<tr><td>1806 20 70 </td><td>– – – Chocolate milk crumb</td></tr>
+<tr><td>1806 20 80 </td><td>– – – Chocolate flavour coating</td></tr>
+<tr><td rowspan="2">1806 20 95 </td><td>– – – Other</td></tr>
+<tr><td>– Other, in blocks, slabs or bars:</td></tr>
+<tr><td>1806 31 00 </td><td>– – Filled</td></tr>
+<tr><td>1806 32 </td><td>– – Not filled</td></tr>
+<tr><td>1806 32 10 </td><td>– – – With added cereal, fruit or nuts</td></tr>
+<tr><td>1806 32 90 </td><td>– – – Other</td></tr>
+<tr><td rowspan="3">1806 90 </td><td>– Other:</td></tr>
+<tr><td>– – Chocolate and chocolate products:</td></tr>
+<tr><td>– – – Chocolates, whether or not filled:</td></tr>
+<tr><td>1806 90 11 </td><td>– – – – Containing alcohol</td></tr>
+<tr><td rowspan="2">1806 90 19 </td><td>– – – – Other</td></tr>
+<tr><td>– – – Other:</td></tr>
+<tr><td>1806 90 31 </td><td>– – – – Filled</td></tr>
+<tr><td>1806 90 39 </td><td>– – – – Not filled</td></tr>
+<tr><td>1806 90 50 </td><td>– – Sugar confectionery and substitutes therefor made from sugar substitution products, containing cocoa</td></tr>
+<tr><td>1806 90 60 </td><td>– – Spreads containing cocoa</td></tr>
+<tr><td>1806 90 70 </td><td>– – Preparations containing cocoa for making beverages</td></tr>
+<tr><td>1806 90 90 </td><td>– – Other</td></tr>
+<tr><td>1901 </td><td>Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404 , not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included:</td></tr>
+<tr><td>1901 10 00 </td><td>– Preparations for infant use, put up for retail sale</td></tr>
+<tr><td>1901 20 00 </td><td>– Mixes and doughs for the preparation of bakers' wares of heading 1905</td></tr>
+<tr><td rowspan="2">1901 90 </td><td>– Other:</td></tr>
+<tr><td>– – Malt extract:</td></tr>
+<tr><td>1901 90 11 </td><td>– – – With a dry extract content of 90 % or more by weight</td></tr>
+<tr><td>1901 90 19 </td><td>– – – Other</td></tr>
+<tr><td>1901 20 00 </td><td>– Mixes and doughs for the preparation of bakers' wares of heading No 1905</td></tr>
+<tr><td>1901 90 11 </td><td>– – – With a dry extract content of 90 % or more by weight</td></tr>
+<tr><td>1901 90 19 </td><td>– – – Other</td></tr>
+<tr><td>1901 90 91 </td><td>– – – Containing no milk fats, sucrose, isoglucose, glucose or starch or containing less than 1,5 % milk fat, 5 % sucrose (including invert sugar) or isoglucose, 5 % glucose or starch, excluding food preparations in powder form of goods of heading Nos 0401 to 0404</td></tr>
+<tr><td>1901 90 99 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">1902 </td><td>Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared:</td></tr>
+<tr><td>– Uncooked pasta, not stuffed or otherwise prepared:</td></tr>
+<tr><td>1902 11 00 </td><td>– – Containing eggs</td></tr>
+<tr><td>1902 19 </td><td>– – Other:</td></tr>
+<tr><td>1902 19 10 </td><td>– – – Containing no common wheat flour or meal</td></tr>
+<tr><td>1902 19 90 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">1902 20 </td><td>– Stuffed pasta whether or not cooked or otherwise prepared:</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1902 20 91 </td><td>– – – Cooked</td></tr>
+<tr><td>1902 20 99 </td><td>– – – Other</td></tr>
+<tr><td>1902 30 </td><td>– Other pasta:</td></tr>
+<tr><td>1902 30 10 </td><td>– – Dried</td></tr>
+<tr><td>1902 30 90 </td><td>– – Other</td></tr>
+<tr><td>1902 40 </td><td>– Couscous:</td></tr>
+<tr><td>1902 40 10 </td><td>– – Unprepared</td></tr>
+<tr><td>1902 40 90 </td><td>– – Other</td></tr>
+<tr><td>1904 </td><td>Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, cornflakes); cereals (other than maize (corn)), in grain form, or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked, or otherwise prepared, not elsewhere specified or included:</td></tr>
+<tr><td>1904 10 10 </td><td>– – Obtained from maize</td></tr>
+<tr><td>1904 10 30 </td><td>– – Obtained from rice</td></tr>
+<tr><td>1904 10 90 </td><td>– – Other:</td></tr>
+<tr><td>1904 20 </td><td>– Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals:</td></tr>
+<tr><td rowspan="2">1904 20 10 </td><td>– – Preparation of the Müsli type based on unroasted cereal flakes</td></tr>
+<tr><td>– – Other:</td></tr>
+<tr><td>1904 20 91 </td><td>– – – Obtained from maize</td></tr>
+<tr><td>1904 20 95 </td><td>– – – Obtained from rice</td></tr>
+<tr><td>1904 20 99 </td><td>– – – Other</td></tr>
+<tr><td>1904 30 00 </td><td>Bulgur wheat</td></tr>
+<tr><td>1904 90 </td><td>– Other:</td></tr>
+<tr><td>1904 90 10 </td><td>– – Rice</td></tr>
+<tr><td>1904 90 80 </td><td>– – Other</td></tr>
+<tr><td>2001 </td><td>Vegetables, fruits, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid:</td></tr>
+<tr><td>2001 90 </td><td>– Other:</td></tr>
+<tr><td>2001 90 30 </td><td>– – Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2001 90 40 </td><td>– – Yams, sweet potatoes and similar edible parts of plants containing 5 % or more by weight of starch</td></tr>
+<tr><td>2001 90 60 </td><td>– – Palm hearts</td></tr>
+<tr><td>2004 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006</td></tr>
+<tr><td rowspan="2">2004 10 </td><td>– Potatoes:</td></tr>
+<tr><td>– – Other</td></tr>
+<tr><td>2004 10 91 </td><td>– – – In the form of flour, meal or flakes</td></tr>
+<tr><td>2004 90 </td><td>– Other vegetables and mixtures of vegetables:</td></tr>
+<tr><td>2004 90 10 </td><td>– – Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2005 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006</td></tr>
+<tr><td>2005 20 </td><td>– Potatoes:</td></tr>
+<tr><td>2005 20 10 </td><td>– – In the form of flour, meal or flakes</td></tr>
+<tr><td>2005 80 00 </td><td>– Sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td rowspan="2">2008 </td><td>Fruits, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included:</td></tr>
+<tr><td>– Nuts, groundnuts and other seeds, whether or not mixed together:</td></tr>
+<tr><td>2008 11 </td><td>– – Groundnuts:</td></tr>
+<tr><td rowspan="2">2008 11 10 </td><td>– – – Peanut butter</td></tr>
+<tr><td>– Other, including mixtures other than those of subheading 2008 19:</td></tr>
+<tr><td>2008 91 00 </td><td>– – Palm hearts</td></tr>
+<tr><td rowspan="3">2008 99 </td><td>– – Other:</td></tr>
+<tr><td>– – – Not containing added spirit:</td></tr>
+<tr><td>– – – – Not containing added sugar:</td></tr>
+<tr><td>2008 99 85 </td><td>– – – – – Maize (corn), other than sweet corn (Zea mays var. saccharata)</td></tr>
+<tr><td>2008 99 91 </td><td>– – – – – Yams, sweet potatoes and similar edible parts of plants, containing 5 % or more by weight of starch</td></tr>
+<tr><td rowspan="2">2101 </td><td>Extracts, essences and concentrates, of coffee, tea or maté, and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof:</td></tr>
+<tr><td>– Extracts, essences and concentrates of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:</td></tr>
+<tr><td>2101 11 </td><td>– – Extracts, essences or concentrates:</td></tr>
+<tr><td>2101 11 11 </td><td>– – – With a coffee-based dry matter content of 95 % or more by weight</td></tr>
+<tr><td>2101 11 19 </td><td>– – – Other</td></tr>
+<tr><td>2101 12 </td><td>– – Preparations with a basis of these extracts, essences or concentrates or with a basis of coffee:</td></tr>
+<tr><td>2101 12 92 </td><td>– – – Preparations with a basis of these extracts, essences or concentrates of coffee</td></tr>
+<tr><td>2101 12 98 </td><td>– – – Other</td></tr>
+<tr><td>2101 20 </td><td>– Extracts, essences and concentrates, of tea or maté, and preparations with a basis of these extracts, essences and concentrates or with a basis of tea or maté:</td></tr>
+<tr><td rowspan="2">2101 20 20 </td><td>– – Extracts, essences or concentrates</td></tr>
+<tr><td>– – Preparations:</td></tr>
+<tr><td>2101 20 98 </td><td>– – – Other</td></tr>
+<tr><td rowspan="2">2101 30 </td><td>– Roasted chicory and other roasted coffee substitutes and extracts, essences and concentrates thereof:</td></tr>
+<tr><td>– – Roasted chicory and other roasted coffee substitutes:</td></tr>
+<tr><td>2101 30 11 </td><td>– – – Roasted chicory</td></tr>
+<tr><td rowspan="2">2101 30 19 </td><td>– – – Other</td></tr>
+<tr><td>– – Extracts, essences and concentrates of roasted chicory and other roasted coffee substitutes:</td></tr>
+<tr><td>2101 30 91 </td><td>– – – Of roasted chicory</td></tr>
+<tr><td>2101 30 99 </td><td>– – – Other</td></tr>
+<tr><td>2102 </td><td>Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 3002); prepared baking powders:</td></tr>
+<tr><td>2102 10 </td><td>– Active yeasts:</td></tr>
+<tr><td rowspan="2">2102 10 10 </td><td>– – Culture yeast</td></tr>
+<tr><td>– – Baker's yeast:</td></tr>
+<tr><td>2102 10 31 </td><td>– – – Dried</td></tr>
+<tr><td>2102 10 39 </td><td>– – – Other</td></tr>
+<tr><td>2102 10 90 </td><td>– – Other</td></tr>
+<tr><td rowspan="2">2102 20 </td><td>– Inactive yeasts; other single-cell micro-organisms, dead:</td></tr>
+<tr><td>– – Inactive yeasts:</td></tr>
+<tr><td>2102 20 11 </td><td>– – – In tablet, cube or similar form, or in immediate packings of a net content not exceeding 1 kg.</td></tr>
+<tr><td>2102 20 19 </td><td>– – – Other</td></tr>
+<tr><td>2102 20 90 </td><td>– – Other</td></tr>
+<tr><td>2102 30 00 </td><td>– Prepared baking powders</td></tr>
+<tr><td>2103 </td><td>Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 10 00 </td><td>– Soya sauce</td></tr>
+<tr><td>2103 90 </td><td>– Other:</td></tr>
+<tr><td>2103 90 90 </td><td>– – Other</td></tr>
+<tr><td>2105 00 </td><td>Ice cream and other edible ice, whether or not containing cocoa:</td></tr>
+<tr><td>2105 00 10 </td><td>– Containing no milk fats or containing less than 3 % by weight of such fats</td></tr>
+<tr><td>2105 00 91 </td><td>– – 3 % or more but less than 7 %</td></tr>
+<tr><td>2105 00 99 </td><td>– – 7 % or more</td></tr>
+<tr><td>2201 </td><td>Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow:</td></tr>
+<tr><td>2201 10 11 </td><td>– – – Not carbonated</td></tr>
+<tr><td>2201 10 19 </td><td>– – – Other</td></tr>
+<tr><td>2201 10 90 </td><td>– – Other:</td></tr>
+<tr><td>2201 90 00 </td><td>– Other</td></tr>
+<tr><td>2202 </td><td>Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not including fruit or vegetable juices of heading 2009:</td></tr>
+<tr><td>2202 10 00 </td><td>– Waters including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured</td></tr>
+<tr><td>2202 90 10 </td><td>– – Not containing products of heading Nos 0401 to 0404 or fat obtained from products of heading Nos 0401 to 0404</td></tr>
+<tr><td>2202 90 91 </td><td>– – – Less than 0,2 %</td></tr>
+<tr><td>2202 90 95 </td><td>– – – 0,2 % or more but less than 2 %</td></tr>
+<tr><td>2202 90 99 </td><td>– – – 2 % or more</td></tr>
+<tr><td>2203 00  (*1)</td><td>Beer made from malt</td></tr>
+<tr><td>2402 </td><td>Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes:</td></tr>
+<tr><td>2402 10 00 </td><td>– Cigars, cheroots and cigarillos, containing tobacco</td></tr>
+<tr><td>2402 20 </td><td>– Cigarettes containing tobacco:</td></tr>
+<tr><td>2402 20 10 </td><td>– – Containing cloves</td></tr>
+<tr><td>2402 20 90 </td><td>– – Other</td></tr>
+<tr><td>2402 90 00 </td><td>– Other</td></tr>
+<tr><td>2403 </td><td>Other manufactured tobacco and manufactured tobacco substitutes; ‘homogenised’ or ‘reconstituted’ tobacco; tobacco extracts and essences:</td></tr>
+<tr><td>2403 10 </td><td>– Smoking tobacco, whether or not containing tobacco substitutes in any proportion:</td></tr>
+<tr><td rowspan="2">2403 10 10 </td><td>– – In immediate packings of a net content not exceeding 500 g</td></tr>
+<tr><td>– Other:</td></tr>
+<tr><td>2403 91 00 </td><td>– – ‘Homogenised’ or ‘reconstituted’ tobacco</td></tr>
+<tr><td>2403 99 </td><td>– – Other:</td></tr>
+<tr><td>2403 99 10 </td><td>– – – Chewing tobacco and snuff</td></tr>
+<tr><td>2403 99 90 </td><td>– – – Other</td></tr>
+</tbody>
+</table>
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+(*1) The duty shall be 0 % on the date of entry into force of the Agreement.
+
+## ANNEX II(d)
+
+For the processed agriculture products listed in this Annex, the MFN custom duties will continue to apply on the date of entry into force of the Agreement.
+
+<table>
+<tbody><tr><td>HS Code (1)</td><td>Description</td></tr>
+<tr><td>0403 </td><td>Buttermilk, curdled milk and cream, yoghurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td rowspan="3">0403 10 </td><td>– Yoghurt:</td></tr>
+<tr><td>– – Flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td>– – – In powder, granules or other solid forms, of a milk fat content, by weight:</td></tr>
+<tr><td>0403 10 51 </td><td>– – – – Not exceeding 1,5 %</td></tr>
+<tr><td>0403 10 53 </td><td>– – – – Exceeding 1,5 % but not exceeding 27 %</td></tr>
+<tr><td rowspan="2">0403 10 59 </td><td>– – – – Exceeding 27 %</td></tr>
+<tr><td>– – – Other, of a milk fat content, by weight:</td></tr>
+<tr><td>0403 10 91 </td><td>– – – – Not exceeding 3 %</td></tr>
+<tr><td>0403 10 93 </td><td>– – – – Exceeding 3 % but not exceeding 6 %</td></tr>
+<tr><td>0403 10 99 </td><td>– – – – Exceeding 6 %</td></tr>
+<tr><td rowspan="3">0403 90 </td><td>– Other:</td></tr>
+<tr><td>– – Flavoured or containing added fruit, nuts or cocoa:</td></tr>
+<tr><td>– – – In powder, granules or other solid forms, of a milkfat content, by weight:</td></tr>
+<tr><td>0403 90 71 </td><td>– – – – Not exceeding 1,5 %</td></tr>
+<tr><td>0403 90 73 </td><td>– – – – Exceeding 1,5 % but not exceeding 27 %</td></tr>
+<tr><td rowspan="2">0403 90 79 </td><td>– – – – Exceeding 27 %</td></tr>
+<tr><td>– – – Other, of a milkfat content, by weight:</td></tr>
+<tr><td>0403 90 91 </td><td>– – – – Not exceeding 3 %</td></tr>
+<tr><td>0403 90 93 </td><td>– – – – Exceeding 3 % but not exceeding 6 %</td></tr>
+<tr><td>0403 90 99 </td><td>– – – – Exceeding 6 %</td></tr>
+<tr><td>0405 </td><td>Butter and other fats and oils derived from milk; dairy spreads:</td></tr>
+<tr><td>0405 20 </td><td>– Dairy spreads:</td></tr>
+<tr><td>0405 20 10 </td><td>– – Of a fat content, by weight, of 39 % or more but less than 60 %</td></tr>
+<tr><td>0405 20 30 </td><td>– – Of a fat content, by weight, of 60 % or more but not exceeding 75 %</td></tr>
+<tr><td>2103 </td><td>Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:</td></tr>
+<tr><td>2103 20 00 </td><td>– Tomato ketchup and other tomato sauces</td></tr>
+</tbody>
+</table>
+
+(1) As defined in the Customs Tariff Law No 8981 of 12 December 2003 ‘For the approval of the customs tariff level’ of the Republic of Albania (Official Gazette No 82 and No 82/1 of 2002) amended by Law No 9159 of 8 December 2003 (Official Gazette No 105 of 2003) and Law No 9330 of 6 December 2004 (Official Gazette No 103 of 2004).
+
+**PROTOCOL 3**
+
+**on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine, spirit drinks and aromatised wine names**
+
+#### Article 1
+
+This Protocol includes the following elements:
+
+1\. Agreement between the European Community and the Republic of Albania on reciprocal preferential trade concessions for certain wines (Annex I to this Protocol).
+
+2\. Agreement between the European Community and the Republic of Albania on the reciprocal recognition, protection and control of wine, spirit drinks and aromatised wine names (Annex II to this Protocol).
+
+#### Article 2
+
+These Agreements apply to wines falling under Heading 2204, spirit drinks falling under Heading 2208 and aromatised wines falling under Heading 2205 of the Harmonised System of the International Convention on the Harmonised Commodity Description and Coding System, done at Brussels on 14 June 1983.
+
+These Agreements shall cover the following products:
+
+1\. wines which have been produced from fresh grapes
+
+(a) originating in the Community, which have been produced in accordance with the rules governing the oenological practices and processes referred to in Title V of Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine, as amended, and Commission Regulation (EC) No 1622/2000 of 24 July 2000 laying down detailed rules for implementing Regulation (EC) No 1493/1999 on the common market organisation in wine and establishing a Community code of oenological practices and processes, as amended;
+
+(b) originating in Albania, which have been produced in accordance with the rules governing the oenological practices and processes in conformity with the Albanian law. These oenological rules referred to shall be in conformity with the Community legislation;
+
+(2) spirit drinks as defined:
+
+(a) for the Community, in Council Regulation (EEC) No 1576/89 of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks, as amended, and Commission Regulation (EEC) No 1014/90 of 24 April 1990 laying down detailed implementing rules on the definition, description and presentation of spirit drinks, as amended;
+
+(b) for Albania, in the Order of the Minister No 2 of 6 January 2003 on the adoption of the Regulation ‘On the definition, description and presentation of spirit drinks’ based on the Law No 8443 dated 21 January 1999‘On viticulture, wine and grape by-products’;
+
+(3) aromatised wines, aromatised wine-based drinks and aromatised wine-product cocktails, hereinafter called ‘aromatised wines’, as defined:
+
+(a) for the Community, in Council Regulation (EEC) No 1601/91 of 10 June 1991 laying down general rules on the definition, description and presentation of aromatised wines, aromatised wine-based drinks and aromatised wine-product cocktails, as amended;
+
+(b) for Albania, in Law No 8443 of 21 January 1999‘On viticulture, wine and grape by-products’.
+
+## ANNEX I — AGREEMENT — between the European Community and the Republic of Albania on reciprocal preferential trade concessions for certain wines
+
+1\. Imports into the Community of the following wines originating in Albania shall be subject to the concessions set out below:
+
+<table>
+<tbody><tr><td>CN code</td><td>Description (in accordance with Article 2(1)(b) of Protocol 3</td><td>Applicable duty</td><td>Quantities (hl)</td><td>Specific provisions</td></tr>
+<tr><td>ex 2204 10 </td><td>Quality sparkling wine</td><td rowspan="2">Exemption</td><td rowspan="2">5 000 </td><td rowspan="2"> (1)</td></tr>
+<tr><td>ex 2204 21 </td><td>Wine of fresh grapes</td></tr>
+<tr><td>ex 2204 29 </td><td>Wine of fresh grapes</td><td>Exemption</td><td>2 000 </td><td> (1)</td></tr>
+</tbody>
+</table>
+
+2\. The Community shall grant a preferential zero-duty within tariff quotas as mentioned under point 1, subject to the condition that no export subsidies shall be paid for exports of these quantities by Albania.
+
+3\. Imports into Albania of the following wines originating in the Community shall be subject to the concessions set out below:
+
+<table>
+<tbody><tr><td>Albanian customs tariff code</td><td>Description (in accordance with Article 2(1)(a) of Protocol 3</td><td>Applicable duty</td><td>Quantities (hl)</td></tr>
+<tr><td>ex 2204 10 </td><td>Quality sparkling wine</td><td rowspan="2">exemption</td><td rowspan="2">10 000 </td></tr>
+<tr><td>ex 2204 21 </td><td>Wine of fresh grapes</td></tr>
+</tbody>
+</table>
+
+4\. Albania shall grant a preferential zero-duty within tariff quotas as mentioned under point 3, subject to the condition that no export subsidies shall be paid for exports of these quantities by the Community.
+
+5\. The rules of origin applicable under this Agreement shall be as set out in Protocol 4 of the Stabilisation and Association Agreement.
+
+6\. Imports of wine under the concessions provided in this Agreement shall be subject to the presentation of a certificate and an accompanying document in accordance with Commission Regulation (EC) No 883/2001 of 24 April 2001 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector issued by a mutually recognised official body appearing on the lists drawn up jointly, to the effect that the wine in question complies with Article 2(1) of Protocol 3 to the Stabilisation and Association Agreement.
+
+7\. The Contracting Parties shall examine no later than in the first quarter of 2008 the opportunities for granting each other further concessions taking into account the development of wine trade between the Contracting Parties.
+
+8\. The Contracting Parties shall ensure that the benefits granted reciprocally are not called into question by other measures.
+
+9\. Consultations are to take place at the request of either Contracting Party on any problem relating to the way this Agreement operates.
+
+(1) Consultations at the request of one of the Contracting Parties may be held to adapt the quotas by transfering quantities from the quota applying to position ex 2204 29 to the quota applying to positions ex 2204 10 and ex 2204 21 .
+
+## ANNEX II — AGREEMENT — between the european community and the republic of albania on the reciprocal recognition, protection and control of wine, spirit drinks and aromatised wine names
+
+#### Article 1 — Objectives
+
+1\. The Contracting Parties agree, on the basis of non-discrimination and reciprocity, to recognise, protect and control names of wines, spirit drinks and aromatised wines, originating in their territory on the conditions provided for in this Agreement.
+
+2\. The Contracting Parties shall take all general and specific measures necessary to ensure that the obligations laid down by this Agreement are fulfilled and that the objectives set out in this Agreement are attained.
+
+#### Article 2 — Definitions
+
+For the purposes of this Agreement and except where otherwise expressly provided herein:
+
+(a) ‘originating’, when used in relation to the name of a Contracting Party, shall require that:
+
+(i) a wine is produced entirely within the Contracting Party concerned solely from grapes which have been wholly harvested in that Party;
+
+(ii) a spirit drink or aromatised wine is produced within that Contracting Party;
+
+(b) ‘geographical indication’ as listed in Appendix 1 means the indication, as defined in Article 22(1) of the Agreement on Trade-Related Aspects of Intellectual Property Rights (hereinafter referred to as ‘the TRIPS Agreement’);
+
+(c) ‘traditional expression’ means a traditionally used name, as specified in Appendix 2, referring in particular to the method of production or to the quality, colour, type or place, or a particular event linked to the history of the wine concerned and recognised by the laws and regulations of a Contracting Party for the purpose of describing and presenting such a wine originating in the territory of that Contracting Party;
+
+(d) ‘thomonymous’ means the same geographical indication or same traditional expression, or such a term so similar as to be likely to cause confusion, to denote different places, procedures or things;
+
+(e) ‘description’ means the words used to describe a wine, spirit drink or aromatised wine on a label or documents accompanying the transport of wine, spirit drinks or aromatised wine, on commercial documents, particularly invoices and delivery notes, and advertising material;
+
+(f) ‘labelling’ means all descriptions and other references, signs, designs, geographical indications or trademarks which distinguish wines, spirit drinks or aromatised wines and which appear on the same container, including its sealing device or the tag attached to the container and the sheathing covering the neck of bottles;
+
+(g) ‘presentation’ means the entirety of terms, allusions and the like referring to a wine, spirit drink or aromatised wine used on the labelling, on the packaging; on the containers, the closure, in advertising and/or sales promotion of any kind;
+
+(h) ‘packaging’ means the protective wrappings, such as papers, straw envelopes of any kind, cartons and cases, used in transport of one or more containers or for sale to the ultimate consumer;
+
+(i) ‘produced’ means the entire process of wine-making, spirit drink-making and aromatised wine-making;
+
+(j) ‘wine’ means solely the beverage resulting from full or partial alcoholic fermentation of fresh grapes of the vine varieties referred to in this Agreement, whether or not pressed, or of their must;
+
+(k) ‘vine varieties’ means varieties of plants of Vitis vinifera without prejudice to any legislation which a Party may have in respect of the use of different vine varieties in wine produced in that Party;
+
+(l) ‘WTO Agreement’ means the Marrakesh Agreement establishing the World Trade Organisation done on 15 April 1994.
+
+#### Article 3 — General import and marketing rules
+
+Unless otherwise provided for in this Agreement, importation and marketing of wines, spirit drinks or aromatised wines shall be conducted in compliance with the laws and regulations applying in the territory of the Contracting Party.
+
+### TITLE I — RECIPROCAL PROTECTION OF WINE, SPIRIT DRINKS AND AROMATISED WINE NAMES
+
+#### Article 4 — Protected names
+
+The following names shall be protected with regard to those referred to in Articles 5, 6 and 7:
+
+(a) as regards wines, spirit drinks or aromatised wines originating in the Community:
+
+— references to the name of the Member State in which the wine, spirit drink and aromatised wine originates or other names to indicate the Member State,
+
+— the geographical indications, listed in Appendix 1, Part A, point (a) for wines, point (b) for spirit drinks and point (c) for aromatised wines,
+
+— traditional expressions listed in Appendix 2;
+
+(b) as regards wines, spirit drinks or aromatised wines originating in Albania:
+
+— references to the name ‘Albania’ or any other name designating that country,
+
+— the geographical indications, listed in Appendix 1, Part B, point (a) for wines, point (b) for spirit drinks and point (c) for aromatised wines.
+
+#### Article 5 — Protection of names referring to Member States of the Community and to Albania
+
+1\. In Albania, references to the Member States of the Community, and other names used to indicate a Member State, for the purpose of identifying the origin of the wine, spirit drink and aromatised wine:
+
+(a) are reserved for wines, spirit drinks and aromatised wines originating in the Member State concerned; and
+
+(b) may not be used by the Community otherwise than under the conditions provided for by the laws and regulations of the Community.
+
+2\. In the Community, references to Albania, and other names used to indicate Albania, for the purpose of identifying the origin of the wine, spirit drink and aromatised wine:
+
+(a) are reserved for wines, spirit drinks and aromatised wines originating in Albania; and
+
+(b) may not be used by Albania otherwise than under the conditions provided for by the laws and regulations of Albania.
+
+#### Article 6 — Protection of geographical indications
+
+1\. In Albania, the geographical indications for the Community which are listed in Appendix 1, Part A:
+
+(a) are protected for wines, spirit drinks and aromatised wines originating in the Community; and
+
+(b) may not be used by the Community otherwise than under the conditions provided for by the laws and regulations of the Community.
+
+2\. In the Community, the geographical indications for Albania which are listed in Appendix 1, Part B:
+
+(a) are protected for wines, spirit drinks and aromatised wines originating in Albania; and
+
+(b) may not be used by Albania otherwise than under the conditions provided for by the laws and regulations of Albania.
+
+3\. The Contracting Parties shall take all measures necessary, in accordance with this Agreement, for the reciprocal protection of the names referred to in Article 4 which are used for the description and presentation of wines, spirit drinks and aromatised wines originating in the territory of the Contracting Parties. To that end, each Contracting Party shall make use of the appropriate legal means referred to in Article 23 of the WTO TRIPS Agreement to ensure an effective protection and prevent geographical indications from being used to identify wines, spirit drinks and aromatised wines not covered by the indications or the descriptions concerned.
+
+4\. The geographical indications referred to in Article 4 shall be reserved exclusively for the products originating in the Contracting Party to which they apply and may be used only under the conditions laid down in the laws and regulations of that Contracting Party.
+
+5\. The protection provided for in this Agreement shall prohibit in particular any use of protected names for wines, spirit drinks and aromatised wines which do not originate in the geographical area indicated or in the place where the expression is traditionally used, and shall apply even when:
+
+— the true origin of the wine, spirit drink or aromatised wine is indicated,
+
+— the geographical indication in question is used in translation,
+
+— the name is accompanied by terms such as ‘kind’, ‘type’, ‘style’, ‘imitation’, ‘method’ or other expressions of the sort.
+
+6\. If geographical indications listed in Appendix 1 are homonymous, protection shall be granted to each indication provided that it has been used in good faith. The Contracting Parties shall mutually decide the practical conditions of use under which the homonymous geographical indications will be differentiated from each other, taking into account the need to ensure equitable treatment of the producers concerned and that consumers are not misled.
+
+7\. If a geographical indication listed in Appendix 1 is homonymous with a geographical indication for a third country, Article 23(3) of the TRIPS Agreement applies.
+
+8\. The provisions of this Agreement shall in no way prejudice the right of any person to use, in the course of trade, that person’s name or the name of that person’s predecessor in business, except where such name is used in such a manner as to mislead consumers.
+
+9\. Nothing in this Agreement shall oblige a Contracting Party to protect a geographical indication of the other Contracting Party listed in Appendix 1 which is not or ceases to be protected in its country of origin or which has fallen into disuse in that country.
+
+10\. On the date of entry into force of this Agreement, the Contracting Parties shall no longer deem that the protected geographical names listed in Appendix 1 are customary in the common language of the Contracting Parties as a common name for wines, spirit drinks and aromatised wines as provided for in Article 24(6) of the TRIPS Agreement.
+
+#### Article 7 — Protection of traditional expressions
+
+1\. In Albania, the traditional expressions for the Community listed in Appendix 2:
+
+(a) shall not be used for the description or presentation of wine originating in Albania; and
+
+(b) may not be used for the description or presentation of wine originating in the Community otherwise than in relation to the wines of the origin and the category and in the language as listed in Appendix 2 and under the conditions provided for by the laws and regulations of the Community.
+
+2\. Albania shall take the measures necessary, in accordance with this Agreement, for the protection of the traditional expressions referred to in Article 4 and used for the description and presentation of wines originating in the territory of the Community. To that end, Albania shall provide appropriate legal means to ensure an effective protection and prevent traditional expressions from being used to describe wine not entitled to those traditional expressions, even where the traditional expressions used are accompanied by expressions such as ‘kind’, ‘type’, ‘style’, ‘imitation’, ‘method’ or the like.
+
+3\. The protection of a traditional expression shall apply only:
+
+(a) to the language or languages in which it appears in Appendix 2 and not in translation; and
+
+(b) for a category of product in relation to which it is protected for the Community as set out in Appendix 2.
+
+4\. The protection provided for in paragraph 3 is without prejudice to Article 4.
+
+#### Article 8 — Trademarks
+
+1\. The responsible national and regional offices of the Contracting Parties shall refuse the registration of a trademark for a wine, spirit drink or aromatised wine which is identical with, or similar to, or contains or consists of a reference to a geographical indication protected under Article 4 of this Agreement with respect to such wine, spirit drink or aromatised wine not having this origin and not complying with the relevant rules governing its use.
+
+2\. The responsible national and regional offices of the Contracting Parties shall refuse the registration of a trademark for a wine which contains or consists of a traditional expression protected under this Agreement if the wine in question is not one to which the traditional expression is reserved as indicated in Appendix 2.
+
+3\. The Government of Albania, acting within its jurisdiction and in order to achieve the objectives agreed between the Parties shall adopt the necessary measures to amend the trademarks names Amantia (Grappa) and Gjergj Kastrioti Skenderbeu Konjak so as to fully remove, by 31 December 2007, all reference to Community geographical indications protected under Article 4 of this Agreement.
+
+#### Article 9 — Exports
+
+The Contracting Parties shall take all steps necessary to ensure that, where wines, spirit drinks and aromatised wines originating in a Party are exported and marketed outside that Party, the protected geographical indications referred to in Article 4(a) and (b), second indents, and in the case of wines, the traditional expressions of that Party referred to in Article 4(a), third indent, are not used to describe and present such products which originate in the other Contracting Party.
+
+### TITLE II — ENFORCEMENT AND MUTUAL ASSISTANCE BETWEEN COMPETENT AUTHORITIES AND MANAGEMENT OF THE AGREEMENT
+
+#### Article 10 — Working Group
+
+1\. A Working Group functioning under the auspices of the Sub-Committee on Agriculture to be created in accordance with Article 121 of the Stabilisation and Association Agreement between Albania and the Community shall be established.
+
+2\. The Working Group shall see to the proper functioning of this Agreement and shall examine all questions which may arise in implementing it.
+
+3\. The Working Group may make recommendations, discuss and put forward suggestions on any matter of mutual interest in the wine, spirit drink and aromatised wine sector which would contribute to the attainment of the objectives of this Agreement. It shall meet at the request of either of the Contracting Parties, alternatively in the Community and in Albania, at a time and a place and in a manner mutually determined by the Contracting Parties.
+
+#### Article 11 — Tasks of the Contracting Parties
+
+1\. The Contracting Parties shall either directly or through the Working Group referred to in Article 10 maintain contact on all matters relating to the implementation and functioning of this Agreement.
+
+2\. Albania designates the Ministry of Agriculture and Food as its representative body. The European Community designates the Directorate-General for Agriculture and Rural Development of the European Commission as its representative body. A Contracting Party shall notify the other Contracting Party if it changes its representative body.
+
+3\. The representative body shall ensure the coordination of the activities of all the bodies responsible for ensuring the enforcement of this Agreement.
+
+4\. The Contracting Parties shall:
+
+(a) mutually amend the lists referred to in Article 4 to this Agreement by decision of the Stabilisation and Association Committee to take account of any amendments to the laws and regulations of the Contracting Parties;
+
+(b) mutually decide, by decision of the Stabilisation and Association Committee, that the Appendices to this Agreement should be modified. The Appendices shall be deemed to be modified from the date recorded in an Exchange of Letters between the Contracting Parties, or the date of the Working Group decision, as the case requires;
+
+(c) mutually decide the practical conditions referred to in Article 6(6);
+
+(d) inform each other of the intention to adopt new regulations or amendments of existing regulations of public policy concern, such as health or consumer protection, with implications for the wine, spirit and aromatised wine sector;
+
+(e) notify each other of any legislative, administrative and judicial decisions concerning the implementation of this Agreement and inform each other of measures adopted on the basis of such decisions.
+
+#### Article 12 — Application and operation of the Agreement
+
+The Contracting Parties shall designate the contact points set out in Appendix 3 to be responsible for the application and operation of this Agreement.
+
+#### Article 13 — Enforcement and mutual assistance between the Contracting Parties
+
+1\. If the description or presentation of a wine, spirit drink or aromatised wine in particular on the labelling, in official or commercial documents or in advertising, is in breach of this Agreement, the Contracting Parties shall apply the necessary administrative measures and/or shall initiate legal proceedings with a view to combating unfair competition or preventing the wrongful use of the protected name in any other way.
+
+2\. The measures and proceedings referred to in paragraph 1 shall be taken in particular:
+
+(a) where descriptions or translations of descriptions, names, inscriptions or illustrations relating to wine, spirit or aromatised wine drinks whose names are protected under this Agreement are used, directly or indirectly, which give false or misleading information as to the origin, nature or quality of the wine, spirit drink or aromatised wine;
+
+(b) where, for packaging, containers are used which are misleading as to the origin of the wine.
+
+3\. If one of the Contracting Parties has reason to suspect that:
+
+(a) a wine, spirit drink or aromatised wine as defined in Article 2, being or having been traded in Albania and the Community, does not comply with rules governing the wine, spirit drink or aromatised wine sector in the Community or in Albania or with this Agreement; and
+
+(b) this non-compliance is of particular interest to the other Contracting Party and could result in administrative measures and/or legal proceedings being taken, it shall immediately inform the representative body of the other Contracting Party.
+
+4\. The information to be provided in accordance with paragraph 3 shall include details of the non-compliance with the rules governing the wine, spirit drink and aromatised wine sector of the Contracting Party and/or this Agreement and shall be accompanied by official, commercial or other appropriate documents, with details of any administrative measures or legal proceedings that may, if necessary, be taken.
+
+#### Article 14 — Consultations
+
+1\. The Contracting Parties shall enter into consultations if one of them considers that the other has failed to fulfil an obligation under this Agreement.
+
+2\. The Contracting Party which requests the consultations shall provide the other Party with all the information necessary for a detailed examination of the case in question.
+
+3\. In cases where any delay could endanger human health or impair the effectiveness of measures to control fraud, appropriate interim protective measures may be taken, without prior consultation, provided that consultations are held immediately after the taking of these measures.
+
+4\. If, following the consultations provided for in paragraphs 1 and 3, the Contracting Parties have not reached an agreement, the Party which requested the consultations or which took the measures referred to in paragraph 3 may take appropriate measures in accordance with Article 126 of the Stabilisation and Association Agreement so as to permit the proper application of this Agreement.
+
+### TITLE III — GENERAL PROVISIONS
+
+#### Article 15 — Transit of small quantities
+
+1\. This Agreement shall not apply to wines, spirit drinks and aromatised wines, which:
+
+(a) pass in transit through the territory of one of the Contracting Parties; or
+
+(b) originate in the territory of one of the Contracting Parties and which are consigned in small quantities between those Contracting Parties under the conditions and according to the procedures provided for in paragraph 2.
+
+2\. The following products referred to as wines, spirit drinks and aromatised wines shall be considered to be small quantities:
+
+(a) quantities in labelled containers of not more than 5 litres fitted with a non-reusable closing device where the total quantity transported, whether or not made up of separate consignments, does not exceed 50 litres;
+
+(b)
+
+(i) quantities which are contained in the personal luggage of travellers in quantities not exceeding 30 litres;
+
+(ii) quantities which are sent in consignments from one private individual to another in quantities not exceeding 30 litres;
+
+(iii) quantities forming part of the belongings of private individuals who are moving house;
+
+(iv) quantities which are imported for the purpose of scientific or technical experiments, subject to a maximum of 1 hectolitre;
+
+(v) quantities which are imported for diplomatic, consular or similar establishments as part of their duty-free allowance;
+
+(vi) quantities which are held on board international means of transport as victualling supplies.
+
+The case of exemption referred to in point (a) may not be combined with one or more of the cases of exemption referred to in point (b).
+
+#### Article 16 — Marketing of pre-existing stocks
+
+1\. Wines, spirit drinks or aromatised wines which, at the time of the date of entry into force of this Agreement, have been produced, prepared, described and presented in compliance with the internal laws and regulations of the Contracting Parties but are prohibited by this Agreement may be sold until stocks run out.
+
+2\. Except where provisions to the contrary are adopted by the Contracting Parties, wines, spirit drinks or aromatised wines which have been produced, prepared, described and presented in compliance with this Agreement but whose production, preparation, description and presentation cease to comply therewith as a result of an amendment thereto may continue to be marketed until stocks run out.
+
+## APPENDIX 1
+
+**LIST OF PROTECTED NAMES**
+
+**(as referred to in Articles 4 and 6 of Annex II)**
+
+**PART A: IN THE COMMUNITY**
+
+**(a) WINES ORIGINATING IN THE COMMUNITY**
+
+**Belgium**
+
+**1\. Quality wines produced in a specified region**
+
+Names of specified regions
+
+Côtes de Sambre et Meuse
+
+Hagelandse Wijn
+
+Haspengouwse Wijn
+
+**2\. Table wines with a geographical indication**
+
+Vin de pays des jardins de Wallonie
+
+**Czech Republic**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the sub-region) </td><td>Sub-regions (whether or not followed by either the name of a wine-growing commune and/or the name of a vineyard estate) </td></tr>
+<tr><td rowspan="2">Čechy …</td><td>litoměřická</td></tr>
+<tr><td>mělnická</td></tr>
+<tr><td rowspan="4">Morava …</td><td>mikulovská</td></tr>
+<tr><td>slovácká</td></tr>
+<tr><td>velkopavlovická</td></tr>
+<tr><td>znojemská</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+české zemské víno
+
+moravské zemské víno
+
+**Germany**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Names of specified regions (whether or not followed by the name of a sub-region) </td><td>Sub-regions</td></tr>
+<tr><td>Ahr …</td><td>Walporzheim or Ahrtal</td></tr>
+<tr><td rowspan="9">Baden …</td><td>Badische Bergstraße</td></tr>
+<tr><td>Bodensee</td></tr>
+<tr><td>Breisgau</td></tr>
+<tr><td>Kaiserstuhl</td></tr>
+<tr><td>Kraichgau</td></tr>
+<tr><td>Markgräflerland</td></tr>
+<tr><td>Ortenau</td></tr>
+<tr><td>Tauberfranken</td></tr>
+<tr><td>Tuniberg</td></tr>
+<tr><td rowspan="3">Franken …</td><td>Maindreieck</td></tr>
+<tr><td>Mainviereck</td></tr>
+<tr><td>Steigerwald</td></tr>
+<tr><td rowspan="2">Hessische Bergstraße …</td><td>Starkenburg</td></tr>
+<tr><td>Umstadt</td></tr>
+<tr><td rowspan="3">Mittelrhein …</td><td>Loreley</td></tr>
+<tr><td>Siebengebirge</td></tr>
+<tr><td>Bernkastel</td></tr>
+<tr><td rowspan="5">Mosel-Saar-Ruwer or Mosel or Saar or Ruwer …</td><td>Burg Cochem</td></tr>
+<tr><td>Moseltor</td></tr>
+<tr><td>Obermosel</td></tr>
+<tr><td>Ruwertal</td></tr>
+<tr><td>Saar</td></tr>
+<tr><td>Nahe …</td><td>Nahetal</td></tr>
+<tr><td rowspan="2">Pfalz …</td><td>Mittelhaardt Deutsche Weinstraße</td></tr>
+<tr><td>Südliche Weinstraße</td></tr>
+<tr><td>Rheingau …</td><td>Johannisberg</td></tr>
+<tr><td rowspan="3">Rheinhessen …</td><td>Bingen</td></tr>
+<tr><td>Nierstein</td></tr>
+<tr><td>Wonnegau</td></tr>
+<tr><td rowspan="3">Saale-Unstrut …</td><td>Mansfelder Seen</td></tr>
+<tr><td>Schloß Neuenburg</td></tr>
+<tr><td>Thüringen</td></tr>
+<tr><td>Sachsen …</td><td>Meißen</td></tr>
+<tr><td rowspan="6">Württemberg …</td><td>Bayerischer Bodensee</td></tr>
+<tr><td>Kocher-Jagst-Tauber</td></tr>
+<tr><td>Oberer Neckar</td></tr>
+<tr><td>Remstal-Stuttgart</td></tr>
+<tr><td>Württembergisch Unterland</td></tr>
+<tr><td>Württembergischer Bodensee</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+| Landwein | Tafelwein |
+| --- | --- |
+| Ahrtaler Landwein | Albrechtsburg |
+| Badischer Landwein | Bayern |
+| Bayerischer Bodensee-Landwein | Burgengau |
+| Fränkischer Landwein | Donau |
+| Landwein der Mosel | Lindau |
+| Landwein der Ruwer | Main |
+| Landwein der Saar | Mecklenburger |
+| Mecklenburger Landwein | Neckar |
+| Mitteldeutscher Landwein | Oberrhein |
+| Nahegauer Landwein | Rhein |
+| Pfälzer Landwein | Rhein-Mosel |
+| Regensburger Landwein | Römertor |
+| Rheinburgen-Landwein | Stargarder Land |
+| Rheingauer Landwein |  |
+| Rheinischer Landwein |  |
+| Saarländischer Landwein der Mosel |  |
+| Sächsischer Landwein |  |
+| Schwäbischer Landwein |  |
+| Starkenburger Landwein |  |
+| Taubertäler Landwein |  |
+
+**Greece**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td colspan="2">Specified regions</td></tr>
+<tr><td>In Greek</td><td>In English</td></tr>
+<tr><td>Σάμος</td><td>Samos</td></tr>
+<tr><td>Μοσχάτος Πατρών</td><td>Moschatos Patra</td></tr>
+<tr><td>Μοσχάτος Ρίου — Πατρών</td><td>Moschatos Riou Patra</td></tr>
+<tr><td>Μοσχάτος Κεφαλληνίας</td><td>Moschatos Kephalinia</td></tr>
+<tr><td>Μοσχάτος Λήμνου</td><td>Moschatos Lemnos</td></tr>
+<tr><td>Μοσχάτος Ρόδου</td><td>Moschatos Rhodos</td></tr>
+<tr><td>Μαυροδάφνη Πατρών</td><td>Mavrodafni Patra</td></tr>
+<tr><td>Μαυροδάφνη Κεφαλληνίας</td><td>Mavrodafni Kephalinia</td></tr>
+<tr><td>Σητεία</td><td>Sitia</td></tr>
+<tr><td>Νεμέα</td><td>Nemea</td></tr>
+<tr><td>Σαντορίνη</td><td>Santorini</td></tr>
+<tr><td>Δαφνές</td><td>Dafnes</td></tr>
+<tr><td>Ρόδος</td><td>Rhodos</td></tr>
+<tr><td>Νάουσα</td><td>Naoussa</td></tr>
+<tr><td>Ρομπόλα Κεφαλληνίας</td><td>Robola Kephalinia</td></tr>
+<tr><td>Ραψάνη</td><td>Rapsani</td></tr>
+<tr><td>Μαντινεία</td><td>Mantinia</td></tr>
+<tr><td>Μεσενικόλα</td><td>Mesenicola</td></tr>
+<tr><td>Πεζά</td><td>Peza</td></tr>
+<tr><td>Αρχάνες</td><td>Archanes</td></tr>
+<tr><td>Πάτρα</td><td>Patra</td></tr>
+<tr><td>Ζίτσα</td><td>Zitsa</td></tr>
+<tr><td>Αμύνταιο</td><td>Amynteon</td></tr>
+<tr><td>Γουμένισσα</td><td>Goumenissa</td></tr>
+<tr><td>Πάρος</td><td>Paros</td></tr>
+<tr><td>Λήμνος</td><td>Lemnos</td></tr>
+<tr><td>Αγχίαλος</td><td>Anchialos</td></tr>
+<tr><td>Πλαγιές Μελίτωνα</td><td>Slopes of Melitona</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+| In Greek | In English |
+| --- | --- |
+| Ρετσίνα Μεσογείων, whether or not followed by Αττικής | Retsina of Mesogia, whether or not followed by Attika |
+| Ρετσίνα Κρωπίας or Ρετσίνα Κορωπίου, whether or not followed by Αττικής | Retsina of Kropia or Retsina Koropi, whether or not followed by Attika |
+| Ρετσίνα Μαρκοπούλου, whether or not followed by Αττικής | Retsina of Markopoulou, whether or not followed by Attika |
+| Ρετσίνα Μεγάρων, whether or not followed by Αττικής | Retsina of Megara, whether or not followed by Attika |
+| Ρετσίνα Παιανίας or Ρετσίνα Λιοπεσίου, whether or not followed by Αττικής | Retsina of Peania or Retsina of Liopesi, whether or not followed by Attika |
+| Ρετσίνα Παλλήνης, whether or not followed by Αττικής | Retsina of Pallini, whether or not followed by Attika |
+| Ρετσίνα Πικερμίου, whether or not followed by Αττικής | Retsina of Pikermi, whether or not followed by Attika |
+| Ρετσίνα Σπάτων, whether or not followed by Αττικής | Retsina of Spata, whether or not followed by Attika |
+| Ρετσίνα Θηβών, whether or not followed by Βοιωτίας | Retsina of Thebes, whether or not followed by Viotias |
+| Ρετσίνα Γιάλτρων, whether or not followed by Ευβοίας | Retsina of Gialtra, whether or not followed by Evvia |
+| Ρετσίνα Καρύστου, whether or not followed by Ευβοίας | Retsina of Karystos, whether or not followed by Evvia |
+| Ρετσίνα Χαλκίδας, whether or not followed by Ευβοίας | Retsina of Halkida, whether or not followed by Evvia |
+| Βερντεα Ζακύνθου | Verntea Zakynthou |
+| Αγιορείτικος Τοπικός Οίνος | Regional wine of Mount Athos Agioritikos |
+| Τοπικός Οίνος Αναβύσσου | Regional wine of Anavyssos |
+| Αττικός Τοπικός Οίνος | Regional wine of Attiki-Attikos |
+| Τοπικός Οίνος Βιλίτσας | Regional wine of Vilitsas |
+| Τοπικός Οίνος Γρεβενών | Regional wine of Grevena |
+| Τοπικός Οίνος Δράμας | Regional wine of Drama |
+| Δωδεκανησιακός Τοπικός Οίνος | Regional wine of Dodekanese — Dodekanissiakos |
+| Τοπικός Οίνος Επανομής | Regional wine of Epanomi |
+| Ηρακλειώτικος Τοπικός Οίνος | Regional wine of Heraklion — Herakliotikos |
+| Θεσσαλικός Τοπικός Οίνος | Regional wine of Thessalia — Thessalikos |
+| Θηβαϊκός Τοπικός Οίνος | Regional wine of Thebes — Thivaikos |
+| Τοπικός Οίνος Κισσάμου | Regional wine of Kissamos |
+| Τοπικός Οίνος Κρανιάς | Regional wine of Krania |
+| Κρητικός Τοπικός Οίνος | Regional wine of Crete — Kritikos |
+| Λασιθιώτικος Τοπικός Οίνος | Regional wine of Lasithi — Lassithiotikos |
+| Μακεδονικός Τοπικός Οίνος | Regional wine of Macedonia — Macedonikos |
+| Μεσημβριώτικος Τοπικός Οίνος | Regional wine of Nea Messimvria |
+| Μεσσηνιακός Τοπικός Οίνος | Regional wine of Messinia — Messiniakos |
+| Παιανίτικος Τοπικός Οίνος | Regional wine of Peanea |
+| Παλληνιώτικος Τοπικός Οίνος | Regional wine of Pallini — Palliniotikos |
+| Πελοποννησιακός Τοπικός Οίνος | Regional wine of Peloponnese — Peloponnisiakos |
+| Τοπικός Οίνος Πλαγιές Αμπέλου | Regional wine of Slopes of Ambelos |
+| Τοπικός Οίνος Πλαγιές Βερτίσκου | Regional wine of Slopes of Vertiskos |
+| Τοπικός Οίνος Πλαγιών Κιθαιρώνα | Regional wine of Slopes of Kitherona |
+| Κορινθιακός Τοπικός Οίνος | Regional wine of Korinthos — Korinthiakos |
+| Τοπικός Οίνος Πλαγιών Πάρνηθας | Regional wine of Slopes of Parnitha |
+| Τοπικός Οίνος Πυλίας | Regional wine of Pylia |
+| Τοπικός Οίνος Τριφυλίας | Regional wine of Trifilia |
+| Τοπικός Οίνος Τυρνάβου | Regional wine of Tyrnavos |
+| Σιατιστινός Τοπικός Οίνος | Regional wine of Siastista — Siatistinos |
+| Τοπικός Οίνος Ριτσώνας Αυλίδος | Regional wine of Ritsona Avlidas |
+| Τοπικός Οίνος Λετρίνων | Regional wine of Letrines |
+| Τοπικός Οίνος Σπάτων | Regional wine of Spata |
+| Τοπικός Οίνος Βορείων Πλαγιών Πεντελικού | Regional wine of Slopes of Penteliko |
+| Αιγαιοπελαγίτικος Τοπικός Οίνος | Regional wine of Aegean Sea |
+| Τοπικός Οίνος Ληλάντιου πεδίου | Regional wine of Lilantio Pedio |
+| Τοπικός Οίνος Μαρκόπουλου | Regional wine of Markopoulo |
+| Τοπικός Οίνος Τεγέας | Regional wine of Tegea |
+| Τοπικός Οίνος Ανδριανής | Regional wine of Adriana |
+| Τοπικός Οίνος Χαλικούνας | Regional wine of Halikouna |
+| Τοπικός Οίνος Χαλκιδικής | Regional wine of Halkidiki |
+| Καρυστινός Τοπικός Οίνος | Regional wine of Karystos — Karystinos |
+| Τοπικός Οίνος Πέλλας | Regional wine of Pella |
+| Τοπικός Οίνος Σερρών | Regional wine of Serres |
+| Συριανός Τοπικός Οίνος | Regional wine of Syros — Syrianos |
+| Τοπικός Οίνος Πλαγιών Πετρωτού | Regional wine of Slopes of Petroto |
+| Τοπικός Οίνος Γερανείων | Regional wine of Gerania |
+| Τοπικός Οίνος Οπουντίας Λοκρίδος | Regional wine of Opountias Lokridos |
+| Τοπικός Οίνος Στερεάς Ελλάδος | Regional wine of Sterea Ellada |
+| Τοπικός Οίνος Αγοράς | Regional wine of Agora |
+| Τοπικός Οίνος Κοιλάδος Αταλάντης | Regional wine of Valley of Atalanti |
+| Τοπικός Οίνος Αρκαδίας | Regional wine of Arkadia |
+| Παγγαιορείτικος Τοπικός Οίνος | Regional wine of Pangeon — Pangeoritikos |
+| Τοπικός Οίνος Μεταξάτων | Regional wine of Metaxata |
+| Τοπικός Οίνος Ημαθίας | Regional wine of Imathia |
+| Τοπικός Οίνος Κλημέντι | Regional wine of Klimenti |
+| Τοπικός Οίνος Κέρκυρας | Regional wine of Corfu |
+| Τοπικός Οίνος Σιθωνίας | Regional wine of Sithonia |
+| Τοπικός Οίνος Μαντζαβινάτων | Regional wine of Mantzavinata |
+| Ισμαρικός Τοπικός Οίνος | Regional wine of Ismaros — Ismarikos |
+| Τοπικός Οίνος Αβδήρων | Regional wine of Avdira |
+| Τοπικός Οίνος Ιωαννίνων | Regional wine of Ioannina |
+| Τοπικός Οίνος Πλαγιές Αιγιαλείας | Regional wine of Slopes of Egialia |
+| Τοπικός Οίνος Πλαγιές του Αίνου | Regional wine of Enos |
+| Θρακικός Τοπικός Οίνος or Τοπικός Οίνος Θράκης | Regional wine of Thrace — Thrakikos or Regional wine of Thrakis |
+| Τοπικός Οίνος Ιλίου | Regional wine of Ilion |
+| Μετσοβίτικος Τοπικός Οίνος | Regional wine of Metsovo — Metsovitikos |
+| Τοπικός Οίνος Κορωπίου | Regional wine of Koropi |
+| Τοπικός Οίνος Φλώρινας | Regional wine of Florina |
+| Τοπικός Οίνος Θαψανών | Regional wine of Thapsana |
+| Τοπικός Οίνος Πλαγιών Κνημίδος | Regional wine of Slopes of Knimida |
+| πειρωτικός Τοπικός Οίνος | Regional wine of Epirus — Epirotikos |
+| Τοπικός Οίνος Πισάτιδος | Regional wine of Pisatis |
+| Τοπικός Οίνος Λευκάδας | Regional wine of Lefkada |
+| Μονεμβάσιος Τοπικός Οίνος | Regional wine of Monemvasia — Monemvasios |
+| Τοπικός Οίνος Βελβεντού | Regional wine of Velvendos |
+| Λακωνικός Τοπικός Οίνος | Regional wine of Lakonia — Lakonikos |
+| Τοπικός Οίνος Μαρτίνου | Regional wine of Martino |
+| Αχαϊκός Τοπικός Οίνος | Regional wine of Achaia |
+| Τοπικός Οίνος Ηλιείας | Regional wine of Ilia |
+
+**Spain**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the sub-region) </td><td>Sub-regions</td></tr>
+<tr><td>Abona</td><td></td></tr>
+<tr><td>Alella</td><td></td></tr>
+<tr><td>Alicante …</td><td>Marina Alta</td></tr>
+<tr><td>Almansa</td><td></td></tr>
+<tr><td>Ampurdán-Costa Brava</td><td></td></tr>
+<tr><td>Arabako Txakolina-Txakolí de Alava or Chacolí de Álava</td><td></td></tr>
+<tr><td>Arlanza</td><td></td></tr>
+<tr><td>Bierzo</td><td></td></tr>
+<tr><td>Binissalem-Mallorca</td><td></td></tr>
+<tr><td>Bullas</td><td></td></tr>
+<tr><td>Calatayud</td><td></td></tr>
+<tr><td>Campo de Borja</td><td></td></tr>
+<tr><td>Cariñena</td><td></td></tr>
+<tr><td>Cataluña</td><td></td></tr>
+<tr><td>Cava</td><td></td></tr>
+<tr><td>Chacolí de Bizkaia-Bizkaiko Txakolina</td><td></td></tr>
+<tr><td>Chacolí de Getaria-Getariako Txakolina</td><td></td></tr>
+<tr><td>Cigales</td><td></td></tr>
+<tr><td>Conca de Barberá</td><td></td></tr>
+<tr><td>Condado de Huelva</td><td></td></tr>
+<tr><td rowspan="4">Costers del Segre …</td><td>Raimat</td></tr>
+<tr><td>Artesa</td></tr>
+<tr><td>Valls de Riu Corb</td></tr>
+<tr><td>Les Garrigues</td></tr>
+<tr><td>Dominio de Valdepusa</td><td></td></tr>
+<tr><td>El Hierro</td><td></td></tr>
+<tr><td>Guijoso</td><td></td></tr>
+<tr><td>Jerez-Xérès-Sherry or Jerez or Xérès or Sherry</td><td></td></tr>
+<tr><td>Jumilla</td><td></td></tr>
+<tr><td>La Mancha</td><td></td></tr>
+<tr><td rowspan="3">La Palma …</td><td>Hoyo de Mazo</td></tr>
+<tr><td>Fuencaliente</td></tr>
+<tr><td>Norte de la Palma</td></tr>
+<tr><td>Lanzarote</td><td></td></tr>
+<tr><td>Málaga</td><td></td></tr>
+<tr><td>Manchuela</td><td></td></tr>
+<tr><td>Manzanilla</td><td></td></tr>
+<tr><td>Manzanilla-Sanlúcar de Barrameda</td><td></td></tr>
+<tr><td>Méntrida</td><td></td></tr>
+<tr><td>Mondéjar</td><td></td></tr>
+<tr><td rowspan="2">Monterrei …</td><td>Ladera de Monterrei</td></tr>
+<tr><td>Val de Monterrei</td></tr>
+<tr><td>Montilla-Moriles</td><td></td></tr>
+<tr><td>Montsant</td><td></td></tr>
+<tr><td rowspan="5">Navarra …</td><td>Baja Montaña</td></tr>
+<tr><td>Ribera Alta</td></tr>
+<tr><td>Ribera Baja</td></tr>
+<tr><td>Tierra Estella</td></tr>
+<tr><td>Valdizarbe</td></tr>
+<tr><td>Penedés</td><td></td></tr>
+<tr><td>Pla de Bages</td><td></td></tr>
+<tr><td>Pla i Llevant</td><td></td></tr>
+<tr><td>Priorato</td><td></td></tr>
+<tr><td rowspan="5">Rías Baixas …</td><td>Condado do Tea</td></tr>
+<tr><td>O Rosal</td></tr>
+<tr><td>Ribera do Ulla</td></tr>
+<tr><td>Soutomaior</td></tr>
+<tr><td>Val do Salnés</td></tr>
+<tr><td rowspan="5">Ribeira Sacra …</td><td>Amandi</td></tr>
+<tr><td>Chantada</td></tr>
+<tr><td>Quiroga-Bibei</td></tr>
+<tr><td>Ribeiras do Miño</td></tr>
+<tr><td>Ribeiras do Sil</td></tr>
+<tr><td>Ribeiro</td><td></td></tr>
+<tr><td>Ribera del Duero</td><td></td></tr>
+<tr><td rowspan="6">Ribera del Guadiana …</td><td>Cañamero</td></tr>
+<tr><td>Matanegra</td></tr>
+<tr><td>Montánchez</td></tr>
+<tr><td>Ribera Alta</td></tr>
+<tr><td>Ribera Baja</td></tr>
+<tr><td>Tierra de Barros</td></tr>
+<tr><td>Ribera del Júcar</td><td></td></tr>
+<tr><td rowspan="3">Rioja …</td><td>Alavesa</td></tr>
+<tr><td>Alta</td></tr>
+<tr><td>Baja</td></tr>
+<tr><td>Rueda</td><td></td></tr>
+<tr><td>Sierras de Málaga …</td><td>Serranía de Ronda</td></tr>
+<tr><td>Somontano</td><td></td></tr>
+<tr><td>Tacoronte-Acentejo …</td><td>Anaga</td></tr>
+<tr><td>Tarragona</td><td></td></tr>
+<tr><td>Terra Alta</td><td></td></tr>
+<tr><td>Tierra de León</td><td></td></tr>
+<tr><td>Tierra del Vino de Zamora</td><td></td></tr>
+<tr><td>Toro</td><td></td></tr>
+<tr><td>Utiel-Requena</td><td></td></tr>
+<tr><td>Valdeorras</td><td></td></tr>
+<tr><td>Valdepeñas</td><td></td></tr>
+<tr><td rowspan="4">Valencia …</td><td>Alto Turia</td></tr>
+<tr><td>Clariano</td></tr>
+<tr><td>Moscatel de Valencia</td></tr>
+<tr><td>Valentino</td></tr>
+<tr><td>Valle de Güímar</td><td></td></tr>
+<tr><td>Valle de la Orotava</td><td></td></tr>
+<tr><td>Valles de Benavente (Los)</td><td></td></tr>
+<tr><td rowspan="3">Vinos de Madrid …</td><td>Arganda</td></tr>
+<tr><td>Navalcarnero</td></tr>
+<tr><td>San Martín de Valdeiglesias</td></tr>
+<tr><td>Ycoden-Daute-Isora</td><td></td></tr>
+<tr><td>Yecla</td><td></td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+Vino de la Tierra de Abanilla
+
+Vino de la Tierra de Bailén
+
+Vino de la Tierra de Bajo Aragón
+
+Vino de la Tierra de Betanzos
+
+Vino de la Tierra de Cádiz
+
+Vino de la Tierra de Campo de Belchite
+
+Vino de la Tierra de Campo de Cartagena
+
+Vino de la Tierra de Cangas
+
+Vino de la Terra de Castelló
+
+Vino de la Tierra de Castilla
+
+Vino de la Tierra de Castilla y León
+
+Vino de la Tierra de Contraviesa-Alpujarra
+
+Vino de la Tierra de Córdoba
+
+Vino de la Tierra de Desierto de Almería
+
+Vino de la Tierra de Extremadura
+
+Vino de la Tierra Formentera
+
+Vino de la Tierra de Gálvez
+
+Vino de la Tierra de Granada Sur-Oeste
+
+Vino de la Tierra de Ibiza
+
+Vino de la Tierra de Illes Balears
+
+Vino de la Tierra de Isla de Menorca
+
+Vino de la Tierra de La Gomera
+
+Vino de la Tierra de Laujar-Alpujarra
+
+Vino de la Tierra de Los Palacios
+
+Vino de la Tierra de Norte de Granada
+
+Vino de la Tierra Norte de Sevilla
+
+Vino de la Tierra de Pozohondo
+
+Vino de la Tierra de Ribera del Andarax
+
+Vino de la Tierra de Ribera del Arlanza
+
+Vino de la Tierra de Ribera del Gállego-Cinco Villas
+
+Vino de la Tierra de Ribera del Queiles
+
+Vino de la Tierra de Serra de Tramuntana-Costa Nord
+
+Vino de la Tierra de Sierra de Alcaraz
+
+Vino de la Tierra de Valdejalón
+
+Vino de la Tierra de Valle del Cinca
+
+Vino de la Tierra de Valle del Jiloca
+
+Vino de la Tierra del Valle del Miño-Ourense
+
+Vino de la Tierra Valles de Sadacia
+
+**France**
+
+**1\. Quality wines produced in a specified region**
+
+Alsace Grand Cru, followed by the name of a smaller geographical unit
+
+Alsace, whether or not followed by the name of a smaller geographical unit
+
+Alsace or Vin d’Alsace, whether or not followed by ‘Edelzwicker’ or the name of a vine variety and/or the name of a smaller geographical unit
+
+Ajaccio
+
+Aloxe-Corton
+
+Anjou, whether or not followed by Val de Loire or Coteaux de la Loire, or Villages Brissac
+
+Anjou, whether or not followed by ‘Gamay’, ‘Mousseux’ or ‘Villages’
+
+Arbois
+
+Arbois Pupillin
+
+Auxey-Duresses or Auxey-Duresses Côte de Beaune or Auxey-Duresses Côte de Beaune-Villages
+
+Bandol
+
+Banyuls
+
+Barsac
+
+Bâtard-Montrachet
+
+Béarn or Béarn Bellocq
+
+Beaujolais Supérieur
+
+Beaujolais, whether or not followed by the name of a smaller geographical unit
+
+Beaujolais-Villages
+
+Beaumes-de-Venise, whether or not preceded by ‘Muscat de’
+
+Beaune
+
+Bellet or Vin de Bellet
+
+Bergerac
+
+Bienvenues Bâtard-Montrachet
+
+Blagny
+
+Blanc Fumé de Pouilly
+
+Blanquette de Limoux
+
+Blaye
+
+Bonnes Mares
+
+Bonnes Mares
+
+Bonnezeaux
+
+Bordeaux Côtes de Francs
+
+Bordeaux Haut-Benauge
+
+Bordeaux, whether or not followed by ‘Clairet’ or ‘Supérieur’ or ‘Rosé’ or ‘mousseux’
+
+Bourg
+
+Bourgeais
+
+Bourgogne, whether or not followed by ‘Clairet’ or ‘Rosé’ or by the name of a smaller geographical unit
+
+Bourgogne Aligoté
+
+Bourgueil
+
+Bouzeron
+
+Brouilly
+
+Buzet
+
+Cabardès
+
+Cabernet d’Anjou
+
+Cabernet de Saumur
+
+Cadillac
+
+Cahors
+
+Canon-Fronsac
+
+Cap Corse, preceded by ‘Muscat de’
+
+Cassis
+
+Cérons
+
+Chablis Grand Cru, whether or not followed by the name of a smaller geographical unit
+
+Chablis, whether or not followed by the name of a smaller geographical unit
+
+Chambertin
+
+Chambertin Clos de Bèze
+
+Chambolle-Musigny
+
+Champagne
+
+Chapelle-Chambertin
+
+Charlemagne
+
+Charmes-Chambertin
+
+Chassagne-Montrachet or Chassagne-Montrachet Côte de Beaune or Chassagne-Montrachet Côte de Beaune-Villages
+
+Château Châlon
+
+Château Grillet
+
+Châteaumeillant
+
+Châteauneuf-du-Pape
+
+Châtillon-en-Diois
+
+Chenas
+
+Chevalier-Montrachet
+
+Cheverny
+
+Chinon
+
+Chiroubles
+
+Chorey-lès-Beaune or Chorey-lès-Beaune Côte de Beaune or Chorey-lès-Beaune Côte de Beaune-Villages
+
+Clairette de Bellegarde
+
+Clairette de Die
+
+Clairette du Languedoc, whether or not followed by the name of a smaller geographical unit
+
+Clos de la Roche
+
+Clos de Tart
+
+Clos des Lambrays
+
+Clos Saint-Denis
+
+Clos Vougeot
+
+Collioure
+
+Condrieu
+
+Corbières, whether or not followed by Boutenac
+
+Cornas
+
+Corton
+
+Corton-Charlemagne
+
+Costières de Nîmes
+
+Côte de Beaune, whether or not followed by the name of a smaller geographical unit
+
+Côte de Beaune-Villages
+
+Côte de Brouilly
+
+Côte de Nuits
+
+Côte Roannaise
+
+Côte Rôtie
+
+Coteaux Champenois, whether or not followed by the name of a smaller geographical unit
+
+Coteaux d’Aix-en-Provence
+
+Coteaux d’Ancenis, whether or not followed by the name of a vine variety
+
+Coteaux de Die
+
+Coteaux de l’Aubance
+
+Coteaux de Pierrevert
+
+Coteaux de Saumur
+
+Coteaux du Giennois
+
+Coteaux du Languedoc Picpoul de Pinet
+
+Coteaux du Languedoc, whether or not followed by the name of a smaller geographical unit
+
+Coteaux du Layon or Coteaux du Layon Chaume
+
+Coteaux du Layon, whether or not followed by the name of a smaller geographical unit
+
+Coteaux du Loir
+
+Coteaux du Lyonnais
+
+Coteaux du Quercy
+
+Coteaux du Tricastin
+
+Coteaux du Vendômois
+
+Coteaux Varois
+
+Côte-de-Nuits-Villages
+
+Côtes Canon-Fronsac
+
+Côtes d’Auvergne, whether or not followed by the name of a smaller geographical unit
+
+Côtes de Beaune, whether or not followed by the name of a smaller geographical unit
+
+Côtes de Bergerac
+
+Côtes de Blaye
+
+Côtes de Bordeaux Saint-Macaire
+
+Côtes de Bourg
+
+Côtes de Brulhois
+
+Côtes de Castillon
+
+Côtes de Duras
+
+Côtes de la Malepère
+
+Côtes de Millau
+
+Côtes de Montravel
+
+Côtes de Provence, whether or not followed by Sainte Victoire
+
+Côtes de Saint-Mont
+
+Côtes de Toul
+
+Côtes du Frontonnais, whether or not followed by Fronton or Villaudric
+
+Côtes du Jura
+
+Côtes du Lubéron
+
+Côtes du Marmandais
+
+Côtes du Rhône
+
+Côtes du Rhône Villages, whether or not followed by the name of a smaller geographical unit
+
+Côtes du Roussillon
+
+Côtes du Roussillon Villages, whether or not followed by the following communes: Caramany or Latour de France or Les Aspres or Lesquerde or Tautavel
+
+Côtes du Ventoux
+
+Côtes du Vivarais
+
+Cour-Cheverny
+
+Crémant d’Alsace
+
+Crémant de Bordeaux
+
+Crémant de Bourgogne
+
+Crémant de Die
+
+Crémant de Limoux
+
+Crémant de Loire
+
+Crémant du Jura
+
+Crépy
+
+Criots Bâtard-Montrachet
+
+Crozes Ermitage
+
+Crozes-Hermitage
+
+Echezeaux
+
+Entre-Deux-Mers or Entre-Deux-Mers Haut-Benauge
+
+Ermitage
+
+Faugères
+
+Fiefs Vendéens, whether or not followed by the ‘lieu-dit’ Mareuil or Brem or Vix or Pissotte
+
+Fitou
+
+Fixin
+
+Fleurie
+
+Floc de Gascogne
+
+Fronsac
+
+Frontignan
+
+Gaillac
+
+Gaillac Premières Côtes
+
+Gevrey-Chambertin
+
+Gigondas
+
+Givry
+
+Grand Roussillon
+
+Grands Echezeaux
+
+Graves
+
+Graves de Vayres
+
+Griotte-Chambertin
+
+Gros Plant du Pays Nantais
+
+Haut Poitou
+
+Haut-Médoc
+
+Haut-Montravel
+
+Hermitage
+
+Irancy
+
+Irouléguy
+
+Jasnières
+
+Juliénas
+
+Jurançon
+
+L’Etoile
+
+La Grande Rue
+
+Ladoix or Ladoix Côte de Beaune or Ladoix Côte de beaune-Villages
+
+Lalande de Pomerol
+
+Languedoc, whether or not followed by the name of a smaller geographical unit
+
+Latricières-Chambertin
+
+Les-Baux-de-Provence
+
+Limoux
+
+Lirac
+
+Listrac-Médoc
+
+Loupiac
+
+Lunel, whether or not preceded by ‘Muscat de’
+
+Lussac Saint-Émilion
+
+Mâcon or Pinot-Chardonnay-Macôn
+
+Mâcon, whether or not followed by the name of a smaller geographical unit
+
+Mâcon-Villages
+
+Macvin du Jura
+
+Madiran
+
+Maranges Côte de Beaune or Maranges Côtes de Beaune-Villages
+
+Maranges, whether or not followed by the name of a smaller geographical unit
+
+Marcillac
+
+Margaux
+
+Marsannay
+
+Maury
+
+Mazis-Chambertin
+
+Mazoyères-Chambertin
+
+Médoc
+
+Menetou Salon, whether or not followed by the name of a smaller geographical unit
+
+Mercurey
+
+Meursault or Meursault Côte de Beaune or Meursault Côte de Beaune-Villages
+
+Minervois
+
+Minervois-la-Livinière
+
+Mireval
+
+Monbazillac
+
+Montagne Saint-Émilion
+
+Montagny
+
+Monthélie or Monthélie Côte de Beaune or Monthélie Côte de Beaune-Villages
+
+Montlouis, whether or not followed by ‘mousseux’ or ‘pétillant’
+
+Montrachet
+
+Montravel
+
+Morey-Saint-Denis
+
+Morgon
+
+Moselle
+
+Moulin-à-Vent
+
+Moulis
+
+Moulis-en-Médoc
+
+Muscadet
+
+Muscadet Coteaux de la Loire
+
+Muscadet Côtes de Grandlieu
+
+Muscadet Sèvre-et-Maine
+
+Musigny
+
+Néac
+
+Nuits
+
+Nuits-Saint-Georges
+
+Orléans
+
+Orléans-Cléry
+
+Pacherenc du Vic-Bilh
+
+Palette
+
+Patrimonio
+
+Pauillac
+
+Pécharmant
+
+Pernand-Vergelesses or Pernand-Vergelesses Côte de Beaune or Pernand-Vergelesses Côte de Beaune-Villages
+
+Pessac-Léognan
+
+Petit Chablis, whether or not followed by the name of a smaller geographical unit
+
+Pineau des Charentes
+
+Pinot-Chardonnay-Macôn
+
+Pomerol
+
+Pommard
+
+Pouilly Fumé
+
+Pouilly-Fuissé
+
+Pouilly-Loché
+
+Pouilly-sur-Loire
+
+Pouilly-Vinzelles
+
+Premières Côtes de Blaye
+
+Premières Côtes de Bordeaux, whether or not followed by the name of a smaller geographical unit
+
+Puisseguin Saint-Émilion
+
+Puligny-Montrachet or Puligny-Montrachet Côte de Beaune or Puligny-Montrachet Côte de Beaune-Villages
+
+Quarts-de-Chaume
+
+Quincy
+
+Rasteau
+
+Rasteau Rancio
+
+Régnié
+
+Reuilly
+
+Richebourg
+
+Rivesaltes, whether or not preceded by ‘Muscat de’
+
+Rivesaltes Rancio
+
+Romanée (La)
+
+Romanée Conti
+
+Romanée Saint-Vivant
+
+Rosé des Riceys
+
+Rosette
+
+Roussette de Savoie, whether or not followed by the name of a smaller geographical unit
+
+Roussette du Bugey, whether or not followed by the name of a smaller geographical unit
+
+Ruchottes-Chambertin
+
+Rully
+
+Saint Julien
+
+Saint-Amour
+
+Saint-Aubin or Saint-Aubin Côte de Beaune or Saint-Aubin Côte de Beaune-Villages
+
+Saint-Bris
+
+Saint-Chinian
+
+Sainte-Croix-du-Mont
+
+Sainte-Foy Bordeaux
+
+Saint-Émilion
+
+Saint-Emilion Grand Cru
+
+Saint-Estèphe
+
+Saint-Georges Saint-Émilion
+
+Saint-Jean-de-Minervois, whether or not preceded by ‘Muscat de’
+
+Saint-Joseph
+
+Saint-Nicolas-de-Bourgueil
+
+Saint-Péray
+
+Saint-Pourçain
+
+Saint-Romain or Saint-Romain Côte de Beaune or Saint-Romain Côte de Beaune-Villages
+
+Saint-Véran
+
+Sancerre
+
+Santenay or Santenay Côte de Beaune or Santenay Côte de Beaune-Villages
+
+Saumur Champigny
+
+Saussignac
+
+Sauternes
+
+Savennières
+
+Savennières-Coulée-de-Serrant
+
+Savennières-Roche-aux-Moines
+
+Savigny or Savigny-lès-Beaune
+
+Seyssel
+
+Tâche (La)
+
+Tavel
+
+Thouarsais
+
+Touraine Amboise
+
+Touraine Azay-le-Rideau
+
+Touraine Mesland
+
+Touraine Noble Joue
+
+Touraine, whether or followed by ‘mousseux’ or ‘pétillant’
+
+Tursan
+
+Vacqueyras
+
+Valençay
+
+Vin d’Entraygues et du Fel
+
+Vin d’Estaing
+
+Vin de Corse, whether or not followed by the name of a smaller geographical unit
+
+Vin de Lavilledieu
+
+Vin de Savoie or Vin de Savoie-Ayze, whether or not followed by the name of a smaller geographical unit
+
+Vin du Bugey, whether or not followed by the name of a smaller geographical unit
+
+Vin Fin de la Côte de Nuits
+
+Viré Clessé
+
+Volnay
+
+Volnay Santenots
+
+Vosne-Romanée
+
+Vougeot
+
+Vouvray, whether or not followed by ‘mousseux’ or ‘pétillant’
+
+**2\. Table wines with a geographical indication**
+
+Vin de pays de l’Agenais
+
+Vin de pays d’Aigues
+
+Vin de pays de l’Ain
+
+Vin de pays de l’Allier
+
+Vin de pays d’Allobrogie
+
+Vin de pays des Alpes de Haute-Provence
+
+Vin de pays des Alpes Maritimes
+
+Vin de pays de l’Ardèche
+
+Vin de pays d’Argens
+
+Vin de pays de l’Ariège
+
+Vin de pays de l’Aude
+
+Vin de pays de l’Aveyron
+
+Vin de pays des Balmes dauphinoises
+
+Vin de pays de la Bénovie
+
+Vin de pays du Bérange
+
+Vin de pays de Bessan
+
+Vin de pays de Bigorre
+
+Vin de pays des Bouches du Rhône
+
+Vin de pays du Bourbonnais
+
+Vin de pays du Calvados
+
+Vin de pays de Cassan
+
+Vin de pays Cathare
+
+Vin de pays de Caux
+
+Vin de pays de Cessenon
+
+Vin de pays des Cévennes, whether or not followed by Mont Bouquet
+
+Vin de pays Charentais, whether or not followed by Ile de Ré or Ile d’Oléron or Saint-Sornin
+
+Vin de pays de la Charente
+
+Vin de pays des Charentes-Maritimes
+
+Vin de pays du Cher
+
+Vin de pays de la Cité de Carcassonne
+
+Vin de pays des Collines de la Moure
+
+Vin de pays des Collines rhodaniennes
+
+Vin de pays du Comté de Grignan
+
+Vin de pays du Comté tolosan
+
+Vin de pays des Comtés rhodaniens
+
+Vin de pays de la Corrèze
+
+Vin de pays de la Côte Vermeille
+
+Vin de pays des coteaux charitois
+
+Vin de pays des coteaux d’Enserune
+
+Vin de pays des coteaux de Besilles
+
+Vin de pays des coteaux de Cèze
+
+Vin de pays des coteaux de Coiffy
+
+Vin de pays des coteaux Flaviens
+
+Vin de pays des coteaux de Fontcaude
+
+Vin de pays des coteaux de Glanes
+
+Vin de pays des coteaux de l’Ardèche
+
+Vin de pays des coteaux de l’Auxois
+
+Vin de pays des coteaux de la Cabrerisse
+
+Vin de pays des coteaux de Laurens
+
+Vin de pays des coteaux de Miramont
+
+Vin de pays des coteaux de Montélimar
+
+Vin de pays des coteaux de Murviel
+
+Vin de pays des coteaux de Narbonne
+
+Vin de pays des coteaux de Peyriac
+
+Vin de pays des coteaux des Baronnies
+
+Vin de pays des coteaux du Cher et de l’Arnon
+
+Vin de pays des coteaux du Grésivaudan
+
+Vin de pays des coteaux du Libron
+
+Vin de pays des coteaux du Littoral Audois
+
+Vin de pays des coteaux du Pont du Gard
+
+Vin de pays des coteaux du Salagou
+
+Vin de pays des coteaux de Tannay
+
+Vin de pays des coteaux du Verdon
+
+Vin de pays des coteaux et terrasses de Montauban
+
+Vin de pays des côtes catalanes
+
+Vin de pays des côtes de Gascogne
+
+Vin de pays des côtes de Lastours
+
+Vin de pays des côtes de Montestruc
+
+Vin de pays des côtes de Pérignan
+
+Vin de pays des côtes de Prouilhe
+
+Vin de pays des côtes de Thau
+
+Vin de pays des côtes de Thongue
+
+Vin de pays des côtes du Brian
+
+Vin de pays des côtes de Ceressou
+
+Vin de pays des côtes du Condomois
+
+Vin de pays des côtes du Tarn
+
+Vin de pays des côtes du Vidourle
+
+Vin de pays de la Creuse
+
+Vin de pays de Cucugnan
+
+Vin de pays des Deux-Sèvres
+
+Vin de pays de la Dordogne
+
+Vin de pays du Doubs
+
+Vin de pays de la Drôme
+
+Vin de pays Duché d’Uzès
+
+Vin de pays de Franche-Comté, whether or not followed by Coteaux de Champlitte
+
+Vin de pays du Gard
+
+Vin de pays du Gers
+
+Vin de pays des Hautes-Alpes
+
+Vin de pays de la Haute-Garonne
+
+Vin de pays de la Haute-Marne
+
+Vin de pays des Hautes-Pyrénées
+
+Vin de pays d’Hauterive, whether or not followed by Val d’Orbieu or Coteaux du Termenès or Côtes de Lézignan
+
+Vin de pays de la Haute-Saône
+
+Vin de pays de la Haute-Vienne
+
+Vin de pays de la Haute vallée de l’Aude
+
+Vin de pays de la Haute vallée de l’Orb
+
+Vin de pays des Hauts de Badens
+
+Vin de pays de l’Hérault
+
+Vin de pays de l’Ile de Beauté
+
+Vin de pays de l’Indre et Loire
+
+Vin de pays de l’Indre
+
+Vin de pays de l’Isère
+
+Vin de pays du Jardin de la France, whether or not followed by Marches de Bretagne or Pays de Retz
+
+Vin de pays des Landes
+
+Vin de pays de Loire-Atlantique
+
+Vin de pays du Loir et Cher
+
+Vin de pays du Loiret
+
+Vin de pays du Lot
+
+Vin de pays du Lot et Garonne
+
+Vin de pays des Maures
+
+Vin de pays de Maine et Loire
+
+Vin de pays de la Mayenne
+
+Vin de pays de Meurthe-et-Moselle
+
+Vin de pays de la Meuse
+
+Vin de pays du Mont Baudile
+
+Vin de pays du Mont Caume
+
+Vin de pays des Monts de la Grage
+
+Vin de pays de la Nièvre
+
+Vin de pays d’Oc
+
+Vin de pays du Périgord, followed or not by Vin de Domme
+
+Vin de pays de la Petite Crau
+
+Vin de pays des Portes de Méditerranée
+
+Vin de pays de la Principauté d’Orange
+
+Vin de pays du Puy de Dôme
+
+Vin de pays des Pyrénées-Atlantiques
+
+Vin de pays des Pyrénées-Orientales
+
+Vin de pays des Sables du Golfe du Lion
+
+Vin de pays de la Sainte Baume
+
+Vin de pays de Saint Guilhem-le-Désert
+
+Vin de pays de Saint-Sardos
+
+Vin de pays de Sainte Marie la Blanche
+
+Vin de pays de Saône et Loire
+
+Vin de pays de la Sarthe
+
+Vin de pays de Seine et Marne
+
+Vin de pays du Tarn
+
+Vin de pays du Tarn et Garonne
+
+Vin de pays des Terroirs landais, whether or not followed by Coteaux de Chalosse or Côtes de L’Adour or Sables Fauves or Sables de l’Océan
+
+Vin de pays de Thézac-Perricard
+
+Vin de pays du Torgan
+
+Vin de pays d’Urfé
+
+Vin de pays du Val de Cesse
+
+Vin de pays du Val de Dagne
+
+Vin de pays du Val de Montferrand
+
+Vin de pays de la Vallée du Paradis
+
+Vin de pays du Var
+
+Vin de pays du Vaucluse
+
+Vin de pays de la Vaunage
+
+Vin de pays de la Vendée
+
+Vin de pays de la Vicomté d’Aumelas
+
+Vin de pays de la Vienne
+
+Vin de pays de la Vistrenque
+
+Vin de pays de l’Yonne
+
+**Italy**
+
+**1\. Quality wines produced in a specified region**
+
+**D.O.C.G. (Denominazioni di Origine Controllata e Garantita)**
+
+Albana di Romagna
+
+Asti or Moscato d’Asti or Asti Spumante
+
+Barbaresco
+
+Bardolino superiore
+
+Barolo
+
+Brachetto d’Acqui or Acqui
+
+Brunello di Montalcino
+
+Carmignano
+
+Chianti, whether or not followed by Colli Aretini or Colli Fiorentini or Colline Pisane or Colli Senesi or Montalbano or Montespertoli or Rufina
+
+Chianti Classico
+
+Fiano di Avellino
+
+Forgiano
+
+Franciacorta
+
+Gattinara
+
+Gavi or Cortese di Gavi
+
+Ghemme
+
+Greco di Tufo
+
+Montefalco Sagrantino
+
+Montepulciano d’Abruzzo Colline Tramane
+
+Ramandolo
+
+Recioto di Soave
+
+Sforzato di Valtellina or Sfursat di Valtellina
+
+Soave superiore
+
+Taurasi
+
+Valtellina Superiore, whether or not followed by Grumello or Inferno or Maroggia or Sassella or Stagafassli or Vagella
+
+Vermentino di Gallura or Sardegna Vermentino di Gallura
+
+Vernaccia di San Gimignano
+
+Vino Nobile di Montepulciano
+
+**D.O.C. (Denominazioni di Origine Controllata)**
+
+Aglianico del Taburno or Taburno
+
+Aglianico del Vulture
+
+Albugnano
+
+Alcamo or Alcamo classico
+
+Aleatico di Gradoli
+
+Aleatico di Puglia
+
+Alezio
+
+Alghero or Sardegna Alghero
+
+Alta Langa
+
+Alto Adige or dell’Alto Adige (Südtirol or Südtiroler), whether or not followed by:
+
+— Colli di Bolzano (Bozner Leiten),
+
+— Santa Maddalena (St Magdalener),
+
+— Terlano (Terlaner),
+
+— Valle Isarco (Eisacktal or Eisacktaler),
+
+— Valle Venosta (Vinschgau)
+
+Ansonica Costa dell’Argentario
+
+Aprilia
+
+Arborea or Sardegna Arborea
+
+Arcole
+
+Assisi
+
+Atina
+
+Aversa
+
+Bagnoli di Sopra or Bagnoli
+
+Barbera d’Asti
+
+Barbera del Monferrato
+
+Barbera d’Alba
+
+Barco Reale di Carmignano or Rosato di Carmignano or Vin Santo di Carmignano
+
+or Vin Santo Carmignano Occhio di Pernice
+
+Bardolino
+
+Bianchello del Metauro
+
+Bianco Capena
+
+Bianco dell’Empolese
+
+Bianco della Valdinievole
+
+Bianco di Custoza
+
+Bianco di Pitigliano
+
+Bianco Pisano di S. Torpè
+
+Biferno
+
+Bivongi
+
+Boca
+
+Bolgheri e Bolgheri Sassicaia
+
+Bosco Eliceo
+
+Botticino
+
+Bramaterra
+
+Breganze
+
+Brindisi
+
+Cacc’e mmitte di Lucera
+
+Cagnina di Romagna
+
+Caldaro (Kalterer) or Lago di Caldaro (Kalterersee), whether or not followed by ‘Classico’
+
+Campi Flegrei
+
+Campidano di Terralba or Terralba or Sardegna Campidano di Terralba or Sardegna Terralba
+
+Canavese
+
+Candia dei Colli Apuani
+
+Cannonau di Sardegna, whether or not followed by Capo Ferrato or Oliena or Nepente di Oliena Jerzu
+
+Capalbio
+
+Capri
+
+Capriano del Colle
+
+Carema
+
+Carignano del Sulcis or Sardegna Carignano del Sulcis
+
+Carso
+
+Castel del Monte
+
+Castel San Lorenzo
+
+Casteller
+
+Castelli Romani
+
+Cellatica
+
+Cerasuolo di Vittoria
+
+Cerveteri
+
+Cesanese del Piglio
+
+Cesanese di Affile or Affile
+
+Cesanese di Olevano Romano or Olevano Romano
+
+Cilento
+
+Cinque Terre or Cinque Terre Sciacchetrà, whether or not followed by Costa de sera or Costa de Campu or Costa da Posa
+
+Circeo
+
+Cirò
+
+Cisterna d’Asti
+
+Colli Albani
+
+Colli Altotiberini
+
+Colli Amerini
+
+Colli Berici, whether or not followed by ‘Barbarano’
+
+Colli Bolognesi, whether or not followed by Colline di Riposto or Colline Marconiane or Zola Predona or Monte San Pietro or Colline di Oliveto or
+
+Terre di Montebudello or Serravalle
+
+Colli Bolognesi Classico-Pignoletto
+
+Colli del Trasimeno or Trasimeno
+
+Colli della Sabina
+
+Colli dell’Etruria Centrale
+
+Colli di Conegliano, whether or not followed by Refrontolo or Torchiato di Fregona
+
+Colli di Faenza
+
+Colli di Luni (Regione Liguria)
+
+Colli di Luni (Regione Toscana)
+
+Colli di Parma
+
+Colli di Rimini
+
+Colli di Scandiano e di Canossa
+
+Colli d’Imola
+
+Colli Etruschi Viterbesi
+
+Colli Euganei
+
+Colli Lanuvini
+
+Colli Maceratesi
+
+Colli Martani, whether or not followed by Todi
+
+Colli Orientali del Friuli, whether or not followed by Cialla or Rosazzo
+
+Colli Perugini
+
+Colli Pesaresi, whether or not followed by Focara or Roncaglia
+
+Colli Piacentini, whether or not followed by Vigoleno or Gutturnio or Monterosso Val d’Arda or Trebbianino Val Trebbia or Val Nure
+
+Colli Romagna Centrale
+
+Colli Tortonesi
+
+Collina Torinese
+
+Colline di Levanto
+
+Colline Lucchesi
+
+Colline Novaresi
+
+Colline Saluzzesi
+
+Collio Goriziano or Collio
+
+Conegliano-Valdobbiadene, whether or not followed by Cartizze
+
+Conero
+
+Contea di Sclafani
+
+Contessa Entellina
+
+Controguerra
+
+Copertino
+
+Cori
+
+Cortese dell’Alto Monferrato
+
+Corti Benedettine del Padovano
+
+Cortona
+
+Costa d’Amalfi, whether or not followed by Furore or Ravello or Tramonti
+
+Coste della Sesia
+
+Delia Nivolelli
+
+Dolcetto d’Acqui
+
+Dolcetto d’Alba
+
+Dolcetto d’Asti
+
+Dolcetto delle Langhe Monregalesi
+
+Dolcetto di Diano d’Alba or Diano d’Alba
+
+Dolcetto di Dogliani superior or Dogliani
+
+Dolcetto di Ovada
+
+Donnici
+
+Elba
+
+Eloro, whether or not followed by Pachino
+
+Erbaluce di Caluso or Caluso
+
+Erice
+
+Esino
+
+Est! Est!! Est!!! di Montefiascone
+
+Etna
+
+Falerio dei Colli Ascolani or Falerio
+
+Falerno del Massico
+
+Fara
+
+Faro
+
+Frascati
+
+Freisa d’Asti
+
+Freisa di Chieri
+
+Friuli Annia
+
+Friuli Aquileia
+
+Friuli Grave
+
+Friuli Isonzo or Isonzo del Friuli
+
+Friuli Latisana
+
+Gabiano
+
+Galatina
+
+Galluccio
+
+Gambellara
+
+Garda (Regione Lombardia)
+
+Garda (Regione Veneto)
+
+Garda Colli Mantovani
+
+Genazzano
+
+Gioia del Colle
+
+Girò di Cagliari or Sardegna Girò di Cagliari
+
+Golfo del Tigullio
+
+Gravina
+
+Greco di Bianco
+
+Greco di Tufo
+
+Grignolino d’Asti
+
+Grignolino del Monferrato Casalese
+
+Guardia Sanframondi o Guardiolo
+
+I Terreni di Sanseverino
+
+Ischia
+
+Lacrima di Morro or Lacrima di Morro d’Alba
+
+Lago di Corbara
+
+Lambrusco di Sorbara
+
+Lambrusco Grasparossa di Castelvetro
+
+Lambrusco Mantovano, whether or not followed by Oltrepò Mantovano or Viadanese-Sabbionetano
+
+Lambrusco Salamino di Santa Croce
+
+Lamezia
+
+Langhe
+
+Lessona
+
+Leverano
+
+Lizzano
+
+Loazzolo
+
+Locorotondo
+
+Lugana (Regione Veneto)
+
+Lugana (Regione Lombardia)
+
+Malvasia delle Lipari
+
+Malvasia di Bosa or Sardegna Malvasia di Bosa
+
+Malvasia di Cagliari or Sardegna Malvasia di Cagliari
+
+Malvasia di Casorzo d’Asti
+
+Malvasia di Castelnuovo Don Bosco
+
+Mandrolisai or Sardegna Mandrolisai
+
+Marino
+
+Marsala
+
+Martina or Martina Franca
+
+Matino
+
+Melissa
+
+Menfi, whether or not followed by Feudo or Fiori or Bonera
+
+Merlara
+
+Molise
+
+Monferrato, whether or not followed by Casalese
+
+Monica di Cagliari or Sardegna Monica di Cagliari
+
+Monica di Sardegna
+
+Monreale
+
+Montecarlo
+
+Montecompatri Colonna or Montecompatri or Colonna
+
+Montecucco
+
+Montefalco
+
+Montello e Colli Asolani
+
+Montepulciano d’Abruzzo
+
+Monteregio di Massa Marittima
+
+Montescudaio
+
+Monti Lessini or Lessini
+
+Morellino di Scansano
+
+Moscadello di Montalcino
+
+Moscato di Cagliari or Sardegna Moscato di Cagliari
+
+Moscato di Noto
+
+Moscato di Pantelleria or Passito di Pantelleria or Pantelleria
+
+Moscato di Sardegna, whether or not followed by Gallura or Tempio Pausania or Tempio
+
+Moscato di Siracusa
+
+<table>
+<tbody><tr><td rowspan="3">Moscato di Sorso-Sennori</td><td>or Moscato di Sorso or Moscato di Sennori</td></tr>
+<tr><td>or Sardegna Moscato di Sorso-Sennori or Sardegna Moscato di Sorso</td></tr>
+<tr><td>or Sardegna Moscato di Sennori</td></tr>
+</tbody>
+</table>
+
+Moscato di Trani
+
+Nardò
+
+Nasco di Cagliari or Sardegna Nasco di Cagliari
+
+Nebiolo d’Alba
+
+Nettuno
+
+Nuragus di Cagliari or Sardegna Nuragus di Cagliari
+
+Offida
+
+Oltrepò Pavese
+
+Orcia
+
+Orta Nova
+
+Orvieto (Regione Umbria)
+
+Orvieto (Regione Lazio)
+
+Ostuni
+
+Pagadebit di Romagna, whether or not followed by Bertinoro
+
+Parrina
+
+Penisola Sorrentina, whether or not followed by Gragnano or Lettere or Sorrento
+
+Pentro di Isernia or Pentro
+
+Piemonte
+
+Pinerolese
+
+Pollino
+
+Pomino
+
+Pornassio or Ormeasco di Pornassio
+
+Primitivo di Manduria
+
+Reggiano
+
+Reno
+
+Riesi
+
+Riviera del Brenta
+
+Riviera del Garda Bresciano or Garda Bresciano
+
+Riviera Ligure di Ponente, whether or not followed by Riviera dei Fiori or Albenga o Albenganese or Finale or Finalese or Ormeasco
+
+Roero
+
+Romagna Albana spumante
+
+Rossese di Dolceacqua or Dolceacqua
+
+Rosso Barletta
+
+Rosso Canosa or Rosso Canosa Canusium
+
+Rosso Conero
+
+Rosso di Cerignola
+
+Rosso di Montalcino
+
+Rosso di Montepulciano
+
+Rosso Orvietano or Orvietano Rosso
+
+Rosso Piceno
+
+Rubino di Cantavenna
+
+Ruchè di Castagnole Monferrato
+
+Salice Salentino
+
+Sambuca di Sicilia
+
+San Colombano al Lambro or San Colombano
+
+San Gimignano
+
+San Martino della Battaglia (Regione Veneto)
+
+San Martino della Battaglia (Regione Lombardia)
+
+San Severo
+
+San Vito di Luzzi
+
+Sangiovese di Romagna
+
+Sannio
+
+Sant’Agata de Goti
+
+Santa Margherita di Belice
+
+Sant’Anna di Isola di Capo Rizzuto
+
+Sant’Antimo
+
+Sardegna Semidano, whether or not followed by Mogoro
+
+Savuto
+
+Scanzo or Moscato di Scanzo
+
+Scavigna
+
+Sciacca, whether or not followed by Rayana
+
+Serrapetrona
+
+Sizzano
+
+Soave
+
+Solopaca
+
+Sovana
+
+Squinzano
+
+Tarquinia
+
+Teroldego Rotaliano
+
+Terre di Franciacorta
+
+Torgiano
+
+Trebbiano d’Abruzzo
+
+Trebbiano di Romagna
+
+Trentino, whether or not followed by Sorni or Isera or d’Isera or Ziresi or dei Ziresi
+
+Trento
+
+Val d’Arbia
+
+Val di Cornia, whether or not followed by Suvereto
+
+Val Polcevera, whether or not followed by Coronata
+
+Valcalepio
+
+Valdadige (Etschaler) (Regione Trentino-Alto Adige)
+
+Valdadige (Etschtaler), whether or not followed by Terra dei Forti (Regione Veneto)
+
+Valdichiana
+
+Valle d’Aosta or Vallée d’Aoste, whether or not followed by Arnad-Montjovet or Donnas or
+
+Enfer d’Arvier or Torrette or
+
+Blanc de Morgex et de la Salle or Chambave or Nus
+
+Valpolicella, whether or not followed by Valpantena
+
+Valsusa
+
+Valtellina
+
+Valtellina superiore, whether or not followed by Grumello or Inferno or Maroggia or Sassella or Vagella
+
+Velletri
+
+Verbicaro
+
+Verdicchio dei Castelli di Jesi
+
+Verdicchio di Matelica
+
+Verduno Pelaverga or Verduno
+
+Vermentino di Sardegna
+
+Vernaccia di Oristano or Sardegna Vernaccia di Oristano
+
+Vesuvio
+
+Vicenza
+
+Vignanello
+
+Vin Santo del Chianti
+
+Vin Santo del Chianti Classico
+
+Vin Santo di Montepulciano
+
+Vini del Piave or Piave
+
+Zagarolo
+
+**2\. Table wines with a geographical indication**
+
+Allerona
+
+Alta Valle della Greve
+
+Alto Livenza (Regione Veneto)
+
+Alto Livenza (Regione Friuli Venezia Giulia)
+
+Alto Mincio
+
+Alto Tirino
+
+Arghillà
+
+Barbagia
+
+Basilicata
+
+Benaco bresciano
+
+Beneventano
+
+Bergamasca
+
+Bettona
+
+Bianco di Castelfranco Emilia
+
+Calabria
+
+Camarro
+
+Campania
+
+Cannara
+
+Civitella d’Agliano
+
+Colli Aprutini
+
+Colli Cimini
+
+Colli del Limbara
+
+Colli del Sangro
+
+Colli della Toscana centrale
+
+Colli di Salerno
+
+Colli Ericini
+
+Colli Trevigiani
+
+Collina del Milanese
+
+Colline del Genovesato
+
+Colline Frentane
+
+Colline Pescaresi
+
+Colline Savonesi
+
+Colline Teatine
+
+Condoleo
+
+Conselvano
+
+Costa Viola
+
+Daunia
+
+Del Vastese or Histonium
+
+Delle Venezie (Regione Veneto)
+
+Delle Venezie (Regione Friuli Venezia Giulia)
+
+Delle Venezie (Regione Trentino-Alto Adige)
+
+Dugenta
+
+Emilia or dell’Emilia
+
+Epomeo
+
+Esaro
+
+Fontanarossa di Cerda
+
+Forlì
+
+Fortana del Taro
+
+Frusinate or del Frusinate
+
+Golfo dei Poeti La Spezia or Golfo dei Poeti
+
+Grottino di Roccanova
+
+Irpinia
+
+Isola dei Nuraghi
+
+Lazio
+
+Lipuda
+
+Locride
+
+Marca Trevigiana
+
+Marche
+
+Maremma toscana
+
+Marmilla
+
+Mitterberg or Mitterberg tra Cauria e Tel. or Mitterberg zwischen Gfrill und Toll
+
+Modena or Provincia di Modena
+
+Montenetto di Brescia
+
+Murgia
+
+Narni
+
+Nurra
+
+Ogliastra
+
+Osco or Terre degli Osci
+
+Paestum
+
+Palizzi
+
+Parteolla
+
+Pellaro
+
+Planargia
+
+Pompeiano
+
+Provincia di Mantova
+
+Provincia di Nuoro
+
+Provincia di Pavia
+
+Provincia di Verona or Veronese
+
+Puglia
+
+Quistello
+
+Ravenna
+
+Roccamonfina
+
+Romangia
+
+Ronchi di Brescia
+
+Rotae
+
+Rubicone
+
+Sabbioneta
+
+Salemi
+
+Salento
+
+Salina
+
+Scilla
+
+Sebino
+
+Sibiola
+
+Sicilia
+
+Sillaro or Bianco del Sillaro
+
+Spello
+
+Tarantino
+
+Terrazze Retiche di Sondrio
+
+Terre del Volturno
+
+Terre di Chieti
+
+Terre di Veleja
+
+Tharros
+
+Toscana or Toscano
+
+Trexenta
+
+Umbria
+
+Val di Magra
+
+Val di Neto
+
+Val Tidone
+
+Valdamato
+
+Vallagarina (Regione Trentino-Alto Adige)
+
+Vallagarina (Regione Veneto)
+
+Valle Belice
+
+Valle del Crati
+
+Valle del Tirso
+
+Valle d’Itria
+
+Valle Peligna
+
+Valli di Porto Pino
+
+Veneto
+
+Veneto Orientale
+
+Venezia Giulia
+
+Vigneti delle Dolomiti or Weinberg Dolomiten (Regione Trentino-Alto Adige)
+
+Vigneti delle Dolomiti or Weinberg Dolomiten (Regione Veneto)
+
+**Cyprus**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td colspan="2">In Greek</td><td colspan="2">In English</td></tr>
+<tr><td>Specified regions</td><td>Sub-regions (whether or not preceded by the name of the specified region) </td><td>Specified regions</td><td>Sub-regions (whether or not preceded by the name of the specified region) </td></tr>
+<tr><td>Κουμανδαρία</td><td></td><td>Commandaria</td><td></td></tr>
+<tr><td>Λαόνα Ακάμα</td><td></td><td>Laona Akama</td><td></td></tr>
+<tr><td>Βουνί Παναγιάς — Αμπελίτης</td><td></td><td>Vouni Panayia — Ambelitis</td><td></td></tr>
+<tr><td>Πιτσιλιά</td><td></td><td>Pitsilia</td><td></td></tr>
+<tr><td>Κρασοχώρια Λεμεσού …</td><td>Αφάμης or Λαόνα</td><td>Krasohoria Lemesou …</td><td>Afames or Laona</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+| In Greek | In English |
+| --- | --- |
+| Λεμεσός | Lemesos |
+| Πάφος | Pafos |
+| Λευκωσία | Lefkosia |
+| Λάρνακα | Larnaka |
+
+**Luxembourg**
+
+**Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the commune or parts of commune) </td><td>Names of communes or parts of communes</td></tr>
+<tr><td rowspan="34">Moselle Luxembourgeoise …</td><td>Ahn</td></tr>
+<tr><td>Assel</td></tr>
+<tr><td>Bech-Kleinmacher</td></tr>
+<tr><td>Born</td></tr>
+<tr><td>Bous</td></tr>
+<tr><td>Burmerange</td></tr>
+<tr><td>Canach</td></tr>
+<tr><td>Ehnen</td></tr>
+<tr><td>Ellingen</td></tr>
+<tr><td>Elvange</td></tr>
+<tr><td>Erpeldingen</td></tr>
+<tr><td>Gostingen</td></tr>
+<tr><td>Greiveldingen</td></tr>
+<tr><td>Grevenmacher</td></tr>
+<tr><td>Lenningen</td></tr>
+<tr><td>Machtum</td></tr>
+<tr><td>Mertert</td></tr>
+<tr><td>Moersdorf</td></tr>
+<tr><td>Mondorf</td></tr>
+<tr><td>Niederdonven</td></tr>
+<tr><td>Oberdonven</td></tr>
+<tr><td>Oberwormeldingen</td></tr>
+<tr><td>Remerschen</td></tr>
+<tr><td>Remich</td></tr>
+<tr><td>Rolling</td></tr>
+<tr><td>Rosport</td></tr>
+<tr><td>Schengen</td></tr>
+<tr><td>Schwebsingen</td></tr>
+<tr><td>Stadtbredimus</td></tr>
+<tr><td>Trintingen</td></tr>
+<tr><td>Wasserbillig</td></tr>
+<tr><td>Wellenstein</td></tr>
+<tr><td>Wintringen</td></tr>
+<tr><td>Wormeldingen</td></tr>
+</tbody>
+</table>
+
+**Hungary**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions</td><td>Sub-regions (whether or not preceded by the name of the specified region) </td></tr>
+<tr><td rowspan="2">Ászár-Neszmély(-i) …</td><td>Ászár(-i)</td></tr>
+<tr><td>Neszmély(-i)</td></tr>
+<tr><td>Badacsony(-i)</td><td></td></tr>
+<tr><td rowspan="2">Balatonboglár(-i) …</td><td>Balatonlelle(-i)</td></tr>
+<tr><td>Marcali</td></tr>
+<tr><td rowspan="3">Balatonfelvidék(-i) …</td><td>Balatonederics-Lesence(-i)</td></tr>
+<tr><td>Cserszeg(-i)</td></tr>
+<tr><td>Kál(-i)</td></tr>
+<tr><td>Balatonfüred-Csopak(-i) …</td><td>Zánka(-i)</td></tr>
+<tr><td>Balatonmelléke or Balatonmelléki …</td><td>Muravidéki</td></tr>
+<tr><td>Bükkalja(-i)</td><td></td></tr>
+<tr><td rowspan="3">Csongrád(-i) …</td><td>Kistelek(-i)</td></tr>
+<tr><td>Mórahalom or Mórahalmi</td></tr>
+<tr><td>Pusztamérges(-i)</td></tr>
+<tr><td>Eger or Egri …</td><td>Debrő(-i), followed or not by Andornaktálya(-i) or Demjén(-i) or Egerbakta(-i) or Egerszalók(-i) or Egerszólát(-i) or Felsőtárkány(-i) or Kerecsend(-i) or Maklár(-i) or Nagytálya(-i) or Noszvaj(-i) or Novaj(-i) or Ostoros(-i) or Szomolya(-i) or Aldebrő(-i) or Feldebrő(-i) or Tófalu(-i) or Verpelét(-i) or Kompolt(-i) or Tarnaszentmária(-i)</td></tr>
+<tr><td rowspan="3">Etyek-Buda(-i) …</td><td>Buda(-i)</td></tr>
+<tr><td>Etyek(-i)</td></tr>
+<tr><td>Velence(-i)</td></tr>
+<tr><td>Hajós-Baja(-i)</td><td></td></tr>
+<tr><td>Kőszegi</td><td></td></tr>
+<tr><td rowspan="10">Kunság(-i) …</td><td>Bácska(-i)</td></tr>
+<tr><td>Cegléd(-i)</td></tr>
+<tr><td>Duna mente or Duna menti</td></tr>
+<tr><td>Izsák(-i)</td></tr>
+<tr><td>Jászság(-i)</td></tr>
+<tr><td>Kecskemét-Kiskunfélegyháza or Kecskemét-Kiskunfélegyházi</td></tr>
+<tr><td>Kiskunhalas-Kiskunmajsa(-i)</td></tr>
+<tr><td>Kiskőrös(-i)</td></tr>
+<tr><td>Monor(-i)</td></tr>
+<tr><td>Tisza mente or Tisza menti</td></tr>
+<tr><td>Mátra(-i)</td><td></td></tr>
+<tr><td>Mór(-i)</td><td></td></tr>
+<tr><td>Pannonhalma (Pannonhalmi)</td><td></td></tr>
+<tr><td rowspan="3">Pécs(-i) …</td><td>Versend(-i)</td></tr>
+<tr><td>Szigetvár(-i)</td></tr>
+<tr><td>Kapos(-i)</td></tr>
+<tr><td>Szekszárd(-i)</td><td></td></tr>
+<tr><td>Somló(-i) …</td><td>Kissomlyó-Sághegyi</td></tr>
+<tr><td>Sopron(-i) …</td><td>Köszeg(-i)</td></tr>
+<tr><td>Tokaj(-i) …</td><td>Abaújszántó(-i) or Bekecs(-i) or Bodrogkeresztúr(-i) or Bodrogkisfalud(-i) or Bodrogolaszi or Erdőbénye(-i) or Erdőhorváti or Golop(-i) or Hercegkút(-i) or Legyesbénye(-i) or Makkoshotyka(-i) or Mád(-i) or Mezőzombor(-i) or Monok(-i) or Olaszliszka(-i) or Rátka(-i) or Sárazsadány(-i) or Sárospatak(-i) or Sátoraljaújhely(-i) or Szegi or Szegilong(-i) or Szerencs(-i) or Tarcal(-i) or Tállya(-i) or Tolcsva(-i) or Vámosújfalu(-i)</td></tr>
+<tr><td rowspan="2">Tolna(-i) …</td><td>Tamási</td></tr>
+<tr><td>Völgység(-i)</td></tr>
+<tr><td>Villány(-i) …</td><td>Siklós(-i), followed or not by Kisharsány(-i) or Nagyharsány(-i) or Palkonya(-i) or Villánykövesd(-i) or Bisse(-i) or Csarnóta(-i) or Diósviszló(-i) or Harkány(-i) or Hegyszentmárton(-i) or Kistótfalu(-i) or Márfa(-i) or Nagytótfalu(-i) or Szava(-i) or Túrony(-i) or Vokány(-i)</td></tr>
+</tbody>
+</table>
+
+**Malta**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the sub-region) </td><td>Sub-regions</td></tr>
+<tr><td rowspan="7">Island of Malta …</td><td>Rabat</td></tr>
+<tr><td>Mdina or Medina</td></tr>
+<tr><td>Marsaxlokk</td></tr>
+<tr><td>Marnisi</td></tr>
+<tr><td>Mgarr</td></tr>
+<tr><td>Ta' Qali</td></tr>
+<tr><td>Siggiewi</td></tr>
+<tr><td rowspan="4">Gozo …</td><td>Ramla</td></tr>
+<tr><td>Marsalforn</td></tr>
+<tr><td>Nadur</td></tr>
+<tr><td>Victoria Heights</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+| In Maltese | In English |
+| --- | --- |
+| Gzejjer Maltin | Maltese Islands |
+
+**Austria**
+
+**1\. Quality wines produced in a specified region**
+
+Specified regions
+
+Burgenland
+
+Carnuntum
+
+Donauland
+
+Kamptal
+
+Kärnten
+
+Kremstal
+
+Mittelburgenland
+
+Neusiedlersee
+
+Neusiedlersee-Hügelland
+
+Niederösterreich
+
+Oberösterreich
+
+Salzburg
+
+Steiermark
+
+Südburgenland
+
+Süd-Oststeiermark
+
+Südsteiermark
+
+Thermenregion
+
+Tirol
+
+Traisental
+
+Vorarlberg
+
+Wachau
+
+Weinviertel
+
+Weststeiermark
+
+Wien
+
+**2\. Table wines with a geographical indication**
+
+Bergland
+
+Steirerland
+
+Weinland
+
+Wien
+
+**Portugal**
+
+**1\. Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the sub-region) </td><td>Sub-regions</td></tr>
+<tr><td>Alenquer</td><td></td></tr>
+<tr><td rowspan="8">Alentejo …</td><td>Borba</td></tr>
+<tr><td>Évora</td></tr>
+<tr><td>Granja-Amareleja</td></tr>
+<tr><td>Moura</td></tr>
+<tr><td>Portalegre</td></tr>
+<tr><td>Redondo</td></tr>
+<tr><td>Reguengos</td></tr>
+<tr><td>Vidigueira</td></tr>
+<tr><td>Arruda</td><td></td></tr>
+<tr><td>Bairrada</td><td></td></tr>
+<tr><td rowspan="3">Beira Interior …</td><td>Castelo Rodrigo</td></tr>
+<tr><td>Cova da Beira</td></tr>
+<tr><td>Pinhel</td></tr>
+<tr><td>Biscoitos</td><td></td></tr>
+<tr><td>Bucelas</td><td></td></tr>
+<tr><td>Carcavelos</td><td></td></tr>
+<tr><td>Chaves</td><td></td></tr>
+<tr><td>Colares</td><td></td></tr>
+<tr><td rowspan="7">Dão …</td><td>Alva</td></tr>
+<tr><td>Besteiros</td></tr>
+<tr><td>Castendo</td></tr>
+<tr><td>Serra da Estrela</td></tr>
+<tr><td>Silgueiros</td></tr>
+<tr><td>Terras de Azurara</td></tr>
+<tr><td>Terras de Senhorim</td></tr>
+<tr><td rowspan="3">Douro, whether or not preceded by Vinho do or Moscatel do …</td><td>Baixo Corgo</td></tr>
+<tr><td>Cima Corgo</td></tr>
+<tr><td>Douro Superior</td></tr>
+<tr><td rowspan="2">Encostas d’Aire …</td><td>Alcobaça</td></tr>
+<tr><td>Ourém</td></tr>
+<tr><td>Graciosa</td><td></td></tr>
+<tr><td>Lafões</td><td></td></tr>
+<tr><td>Lagoa</td><td></td></tr>
+<tr><td>Lagos</td><td></td></tr>
+<tr><td>Lourinhã</td><td></td></tr>
+<tr><td>Madeira or Madère or Madera or Vinho da Madeira or Madeira Weine or Madeira Wine or</td><td></td></tr>
+<tr><td>Vin de Madère or Vino di Madera or Madera Wijn</td><td></td></tr>
+<tr><td>Óbidos</td><td></td></tr>
+<tr><td>Palmela</td><td></td></tr>
+<tr><td>Pico</td><td></td></tr>
+<tr><td>Planalto Mirandês</td><td></td></tr>
+<tr><td>Portimão</td><td></td></tr>
+<tr><td>Port or Porto or Oporto or Portwein or Portvin or Portwijn or Vin de Porto or Port Wine</td><td></td></tr>
+<tr><td rowspan="6">Ribatejo …</td><td>Almeirim</td></tr>
+<tr><td>Cartaxo</td></tr>
+<tr><td>Chamusca</td></tr>
+<tr><td>Coruche</td></tr>
+<tr><td>Santarém</td></tr>
+<tr><td>Tomar</td></tr>
+<tr><td>Setúbal</td><td></td></tr>
+<tr><td>Tavira</td><td></td></tr>
+<tr><td>Távora-Vorosa</td><td></td></tr>
+<tr><td>Torres Vedras</td><td></td></tr>
+<tr><td>Valpaços</td><td></td></tr>
+<tr><td rowspan="9">Vinho Verde …</td><td>Amarante</td></tr>
+<tr><td>Ave</td></tr>
+<tr><td>Baião</td></tr>
+<tr><td>Basto</td></tr>
+<tr><td>Cávado</td></tr>
+<tr><td>Lima</td></tr>
+<tr><td>Monção</td></tr>
+<tr><td>Paiva</td></tr>
+<tr><td>Sousa</td></tr>
+</tbody>
+</table>
+
+**2\. Table wines with a geographical indication**
+
+<table>
+<tbody><tr><td>Specified regions (whether or not followed by the name of the sub-region) </td><td>Sub-regions</td></tr>
+<tr><td>Açores</td><td></td></tr>
+<tr><td>Alentejano</td><td></td></tr>
+<tr><td>Algarve</td><td></td></tr>
+<tr><td rowspan="3">Beiras …</td><td>Beira Alta</td></tr>
+<tr><td>Beira Litoral</td></tr>
+<tr><td>Terras de Sicó</td></tr>
+<tr><td rowspan="2">Estremadura …</td><td>Alta Estremadura</td></tr>
+<tr><td>Palhete de Ourém</td></tr>
+<tr><td>Minho</td><td></td></tr>
+<tr><td>Ribatejano</td><td></td></tr>
+<tr><td>Terras do Sado</td><td></td></tr>
+<tr><td>Trás-os-Montes …</td><td>Terras Durienses</td></tr>
+</tbody>
+</table>
+
+**Slovenia**
+
+**1\. Quality wines produced in a specified region**
+
+Specified regions
+
+(whether or not followed by either the name of a wine-growing commune and/or the name of a vineyard estate)
+
+Bela krajina or Belokranjec
+
+Bizeljsko-Sremič or Sremič-Bizeljsko
+
+Dolenjska
+
+Dolenjska, cviček
+
+Goriška Brda or Brda
+
+Haloze or Haložan
+
+Koper or Koprčan
+
+Kras
+
+Kras, teran
+
+Ljutomer-Ormož or Ormož-Ljutomer
+
+Maribor or Mariborčan
+
+Radgona-Kapela or Kapela Radgona
+
+Prekmurje or Prekmurčan
+
+Šmarje-Virštanj or Virštanj-Šmarje
+
+Srednje Slovenske gorice
+
+Vipavska dolina or Vipavec or Vipavčan
+
+**2\. Table wines with a geographical indication**
+
+Podravje
+
+Posavje
+
+Primorska
+
+**Slovakia**
+
+**Quality wines produced in a specified region**
+
+<table>
+<tbody><tr><td>Specified regions (followed by the term ‘vinohradnícka oblasť’) </td><td>Sub-regions (whether or not followed by the name of the specified region)  (followed by the term ‘vinohradnícky rajón’) </td></tr>
+<tr><td rowspan="8">Južnoslovenská …</td><td>Dunajskostredský</td></tr>
+<tr><td>Galantský</td></tr>
+<tr><td>Hurbanovský</td></tr>
+<tr><td>Komárňanský</td></tr>
+<tr><td>Palárikovský</td></tr>
+<tr><td>Šamorínsky</td></tr>
+<tr><td>Strekovský</td></tr>
+<tr><td>Štúrovský</td></tr>
+<tr><td rowspan="12">Malokarpatská …</td><td>Bratislavský</td></tr>
+<tr><td>Doľanský</td></tr>
+<tr><td>Hlohovecký</td></tr>
+<tr><td>Modranský</td></tr>
+<tr><td>Orešanský</td></tr>
+<tr><td>Pezinský</td></tr>
+<tr><td>Senecký</td></tr>
+<tr><td>Skalický</td></tr>
+<tr><td>Stupavský</td></tr>
+<tr><td>Trnavský</td></tr>
+<tr><td>Vrbovský</td></tr>
+<tr><td>Záhorský</td></tr>
+<tr><td rowspan="9">Nitrianska …</td><td>Nitriansky</td></tr>
+<tr><td>Pukanecký</td></tr>
+<tr><td>Radošinský</td></tr>
+<tr><td>Šintavský</td></tr>
+<tr><td>Tekovský</td></tr>
+<tr><td>Vrábeľský</td></tr>
+<tr><td>Želiezovský</td></tr>
+<tr><td>Žitavský</td></tr>
+<tr><td>Zlatomoravecký</td></tr>
+<tr><td rowspan="7">Stredoslovenská …</td><td>Fiľakovský</td></tr>
+<tr><td>Gemerský</td></tr>
+<tr><td>Hontiansky</td></tr>
+<tr><td>Ipeľský</td></tr>
+<tr><td>Modrokamenecký</td></tr>
+<tr><td>Tornaľský</td></tr>
+<tr><td>Vinický</td></tr>
+<tr><td rowspan="7">Tokaj/-ská/-ský/-ské …</td><td>Čerhov</td></tr>
+<tr><td>Černochov</td></tr>
+<tr><td>Malá Tŕňa</td></tr>
+<tr><td>Slovenské Nové Mesto</td></tr>
+<tr><td>Veľká Bara</td></tr>
+<tr><td>Veľká Tŕňa</td></tr>
+<tr><td>Vinický</td></tr>
+<tr><td rowspan="4">Východoslovenská …</td><td>Kráľovskochlmecký</td></tr>
+<tr><td>Michalovský</td></tr>
+<tr><td>Moldavský</td></tr>
+<tr><td>Sobranecký</td></tr>
+</tbody>
+</table>
+
+**United Kingdom**
+
+**1\. Quality wines produced in a specified region**
+
+English vineyards
+
+Welsh vineyards
+
+**2\. Table wines with a geographical indication**
+
+England or Cornwall
+
+Devon
+
+Dorset
+
+East Anglia
+
+Gloucestershire
+
+Hampshire
+
+Herefordshire
+
+Isle of Wight
+
+Isles of Scilly
+
+Kent
+
+Lincolnshire
+
+Oxfordshire
+
+Shropshire
+
+Somerset
+
+Surrey
+
+Sussex
+
+Worcestershire
+
+Yorkshire
+
+Wales or Cardiff
+
+Cardiganshire
+
+Carmarthenshire
+
+Denbighshire
+
+Gwynedd
+
+Monmouthshire
+
+Newport
+
+Pembrokeshire
+
+Rhondda Cynon Taf
+
+Swansea
+
+The Vale of Glamorgan
+
+Wrexham
+
+**(b) SPIRIT DRINKS ORIGINATING IN THE COMMUNITY**
+
+1\. Rum
+
+Rhum de la Martinique/Rhum de la Martinique traditionnel
+
+Rhum de la Guadeloupe/Rhum de la Guadeloupe traditionnel
+
+Rhum de la Réunion/Rhum de la Réunion traditionnel
+
+Rhum de la Guyane/Rhum de la Guyane traditionnel
+
+Ron de Málaga
+
+Ron de Granada
+
+Rum da Madeira
+
+2.
+
+(a) Whisky
+
+Scotch whisky
+
+Irish whisky
+
+Whisky español
+
+(These designations may be supplemented by the terms ‘malt’ or ‘grain’)
+
+(b) Whiskey
+
+Irish whiskey
+
+Uisce Beatha Eireannach/Irish whiskey
+
+(These designations may be supplemented by the terms ‘pot still’)
+
+3\. Grain spirit
+
+Eau-de-vie de seigle de marque nationale luxembourgeoise
+
+Korn
+
+Kornbrand
+
+4\. Wine spirit
+
+Eau-de-vie de Cognac
+
+Eau-de-vie des Charentes
+
+Cognac
+
+(The designation ‘Cognac’ may be supplemented by the following terms:
+
+— Fine
+
+— Grande Fine Champagne
+
+— Grande Champagne
+
+— Petite Champagne
+
+— Petite Fine Champagne
+
+— Fine Champagne
+
+— Borderies
+
+— Fins Bois
+
+— Bons Bois)
+
+Fine Bordeaux
+
+Armagnac
+
+Bas-Armagnac
+
+Haut-Armagnac
+
+Ténarèse
+
+Eau-de-vie de vin de la Marne
+
+Eau-de-vie de vin originaire d’Aquitaine
+
+Eau-de-vie de vin de Bourgogne
+
+Eau-de-vie de vin originaire du Centre-Est
+
+Eau-de-vie de vin originaire de Franche-Comté
+
+Eau-de-vie de vin originaire du Bugey
+
+Eau-de-vie de vin de Savoie
+
+Eau-de-vie de vin originaire des Coteaux de la Loire
+
+Eau-de-vie de vin des Côtes-du-Rhône
+
+Eau-de-vie de vin originaire de Provence
+
+Eau-de-vie de Faugères/Faugères
+
+Eau-de-vie de vin originaire du Languedoc
+
+Aguardente do Minho
+
+Aguardente do Douro
+
+Aguardente da Beira Interior
+
+Aguardente da Bairrada
+
+Aguardente do Oeste
+
+Aguardente do Ribatejo
+
+Aguardente do Alentejo
+
+Aguardente do Algarve
+
+5\. Brandy
+
+Brandy de Jerez
+
+Brandy del Penedés
+
+Brandy italiano
+
+Brandy Αττικής/Brandy of Attica
+
+Brandy Πελλοπονήσου/Brandy of the Peloponnese
+
+Brandy Κεντρικής Ελλάδας/Brandy of Central Greece
+
+Deutscher Weinbrand
+
+Wachauer Weinbrand
+
+Weinbrand Dürnstein
+
+Karpatské brandy špeciál
+
+6\. Grape marc spirit
+
+Eau-de-vie de marc de Champagne or
+
+Marc de Champagne
+
+Eau-de-vie de marc originaire d’Aquitaine
+
+Eau-de-vie de marc de Bourgogne
+
+Eau-de-vie de marc originaire du Centre-Est
+
+Eau-de-vie de marc originaire de Franche-Comté
+
+Eau-de-vie de marc originaire de Bugey
+
+Eau-de-vie de marc originaire de Savoie
+
+Marc de Bourgogne
+
+Marc de Savoie
+
+Marc d’Auvergne
+
+Eau-de-vie de marc originaire des Coteaux de la Loire
+
+Eau-de-vie de marc des Côtes du Rhône
+
+Eau-de-vie de marc originaire de Provence
+
+Eau-de-vie de marc originaire du Languedoc
+
+Marc d’Alsace Gewürztraminer
+
+Marc de Lorraine
+
+Bagaceira do Minho
+
+Bagaceira do Douro
+
+Bagaceira da Beira Interior
+
+Bagaceira da Bairrada
+
+Bagaceira do Oeste
+
+Bagaceira do Ribatejo
+
+Bagaceiro do Alentejo
+
+Bagaceira do Algarve
+
+Orujo gallego
+
+Grappa
+
+Grappa di Barolo
+
+Grappa piemontese/Grappa del Piemonte
+
+Grappa lombarda/Grappa di Lombardia
+
+Grappa trentina/Grappa del Trentino
+
+Grappa friulana/Grappa del Friuli
+
+Grappa veneta/Grappa del Veneto
+
+Südtiroler Grappa/Grappa dell’Alto Adige
+
+Τσικουδιά Κρήτης/Tsikoudia of Crete
+
+Τσίπουρο Μακεδονίας/Tsipouro of Macedonia
+
+Τσίπουρο Θεσσαλίας/Tsipouro of Thessaly
+
+Τσίπουρο Τυρνάβου/Tsipouro of Tyrnavos
+
+Eau-de-vie de marc de marque nationale luxembourgeoise
+
+Ζιβανία/Zivania
+
+Pálinka
+
+7\. Fruit spirit
+
+Schwarzwälder Kirschwasser
+
+Schwarzwälder Himbeergeist
+
+Schwarzwälder Mirabellenwasser
+
+Schwarzwälder Williamsbirne
+
+Schwarzwälder Zwetschgenwasser
+
+Fränkisches Zwetschgenwasser
+
+Fränkisches Kirschwasser
+
+Fränkischer Obstler
+
+Mirabelle de Lorraine
+
+Kirsch d’Alsace
+
+Quetsch d’Alsace
+
+Framboise d’Alsace
+
+Mirabelle d’Alsace
+
+Kirsch de Fougerolles
+
+Südtiroler Williams/Williams dell’Alto Adige
+
+Südtiroler Aprikot/Südtiroler
+
+Marille/Aprikot dell’Alto Adige/Marille dell’Alto Adige
+
+Südtiroler Kirsch/Kirsch dell’Alto Adige
+
+Südtiroler Zwetschgeler/Zwetschgeler dell’Alto Adige
+
+Südtiroler Obstler/Obstler dell’Alto Adige
+
+Südtiroler Gravensteiner/Gravensteiner dell’Alto Adige
+
+Südtiroler Golden Delicious/Golden Delicious dell’Alto Adige
+
+Williams friulano/Williams del Friuli
+
+Sliwovitz del Veneto
+
+Sliwovitz del Friuli-Venezia Giulia
+
+Sliwovitz del Trentino-Alto Adige
+
+Distillato di mele trentino/Distillato di mele del Trentino
+
+Williams trentino/Williams del Trentino
+
+Sliwovitz trentino/Sliwovitz del Trentino
+
+Aprikot trentino/Aprikot del Trentino
+
+Medronheira do Algarve
+
+Medronheira do Buçaco
+
+Kirsch Friulano/Kirschwasser Friulano
+
+Kirsch Trentino/Kirschwasser Trentino
+
+Kirsch Veneto/Kirschwasser Veneto
+
+Aguardente de pêra da Lousã
+
+Eau-de-vie de pommes de marque nationale luxembourgeoise
+
+Eau-de-vie de poires de marque nationale luxembourgeoise
+
+Eau-de-vie de kirsch de marque nationale luxembourgeoise
+
+Eau-de-vie de quetsch de marque nationale luxembourgeoise
+
+Eau-de-vie de mirabelle de marque nationale luxembourgeoise
+
+Eau-de-vie de prunelles de marque nationale luxembourgeoise
+
+Wachauer Marillenbrand
+
+Bošácka Slivovica
+
+Szatmári Szilvapálinka
+
+Kecskeméti Barackpálinka
+
+Békési Szilvapálinka
+
+Szabolcsi Almapálinka
+
+Slivovice
+
+Pálinka
+
+8\. Cider spirit and perry spirit
+
+Calvados
+
+Calvados du Pays d’Auge
+
+Eau-de-vie de cidre de Bretagne
+
+Eau-de-vie de poiré de Bretagne
+
+Eau-de-vie de cidre de Normandie
+
+Eau-de-vie de poiré de Normandie
+
+Eau-de-vie de cidre du Maine
+
+Aguardiente de sidra de Asturias
+
+Eau-de-vie de poiré du Maine
+
+9\. Gentian spirit
+
+Bayerischer Gebirgsenzian
+
+Südtiroler Enzian/Genzians dell’Alto Adige
+
+Genziana trentina/Genziana del Trentino
+
+10\. Fruit spirit drinks
+
+Pacharán
+
+Pacharán navarro
+
+11\. Juniper-flavoured spirit drinks
+
+Ostfriesischer Korngenever
+
+Genièvre Flandres Artois
+
+Hasseltse jenever
+
+Balegemse jenever
+
+Péket de Wallonie
+
+Steinhäger
+
+Plymouth Gin
+
+Gin de Mahón
+
+Vilniaus Džinas
+
+Spišská Borovička
+
+Slovenská Borovička Juniperus
+
+Slovenská Borovička
+
+Inovecká Borovička
+
+Liptovská Borovička
+
+12\. Caraway-flavoured spirit drinks
+
+Dansk Akvavit/Dansk Aquavit
+
+Svensk Aquavit/Svensk Akvavit/Swedish Aquavit
+
+13\. Aniseed-flavoured spirit drinks
+
+Anís español
+
+Évoca anisada
+
+Cazalla
+
+Chinchón
+
+Ojén
+
+Rute
+
+Ούζο/Ouzo
+
+14\. Liqueur
+
+Berliner Kümmel
+
+Hamburger Kümmel
+
+Münchener Kümmel
+
+Chiemseer Klosterlikör
+
+Bayerischer Kräuterlikör
+
+Cassis de Dijon
+
+Cassis de Beaufort
+
+Irish Cream
+
+Palo de Mallorca
+
+Ginjinha portuguesa
+
+Licor de Singeverga
+
+Benediktbeurer Klosterlikör
+
+Ettaler Klosterlikör
+
+Ratafia de Champagne
+
+Ratafia catalana
+
+Anis português
+
+Finnish berry/Finnish fruit liqueur
+
+Grossglockner Alpenbitter
+
+Mariazeller Magenlikör
+
+Mariazeller Jagasaftl
+
+Puchheimer Bitter
+
+Puchheimer Schlossgeist
+
+Steinfelder Magenbitter
+
+Wachauer Marillenlikör
+
+Jägertee/Jagertee/Jagatee
+
+Allažu Kimelis
+
+Čepkelių
+
+Demänovka Bylinný Likér
+
+Polish Cherry
+
+Karlovarská Hořká
+
+15\. Spirit drinks
+
+Pommeau de Bretagne
+
+Pommeau du Maine
+
+Pommeau de Normandie
+
+Svensk Punsch/Swedish Punch
+
+Slivovice
+
+16\. Vodka
+
+Svensk Vodka/Swedish Vodka
+
+Suomalainen Vodka/Finsk Vodka/Vodka of Finland
+
+Polska Wódka/Polish Vodka
+
+Laugarício Vodka
+
+Originali Lietuviška Degtinė
+
+Wódka ziołowa z Niziny Północnopodlaskiej aromatyzowana ekstraktem z trawy żubrowej/Herbal Vodka from the North Podlasie Lowland aromatised with an extract of bison grass
+
+Latvijas Dzidrais
+
+Rīgas Degvīns
+
+LB Degvīns
+
+LB Vodka
+
+17\. Bitter-tasting spirit drinks
+
+Rīgas melnais Balzāms/Riga Black Balsam
+
+Demänovka bylinná horká
+
+**(c) AROMATISED WINES ORIGINATING IN THE COMMUNITY**
+
+Nürnberger Glühwein
+
+Thüringer Glühwein
+
+Vermouth de Chambéry
+
+Vermouth di Torino
+
+**PART B: IN ALBANIA**
+
+**WINES ORIGINATING IN ALBANIA**
+
+Name of the specified region, as defined in the CoMD No 505, dated 21 September 2000, approved by the Albanian Government.
+
+**I. First zone, including the lowland and coastal areas of the country**
+
+Specified regions hereunder followed or not by the name of a wine-growing commune and/or the name of a vineyard estate.
+
+1\. Delvinë
+
+2\. Sarandë
+
+3\. Vlorë
+
+4\. Fier
+
+5\. Lushnjë
+
+6\. Peqin
+
+7\. Kavajë
+
+8\. Durrës
+
+9\. Krujë
+
+10\. Kurbin
+
+11\. Lezhë
+
+12\. Shkodër
+
+13\. Koplik
+
+**II. Second zone, including the central areas of the country**
+
+Specified regions hereunder followed or not by the name of a wine-growing commune and/or the name of a vineyard estate.
+
+1\. Mirdite
+
+2\. Mat
+
+3\. Tiranë
+
+4\. Elbasan
+
+5\. Berat
+
+6\. Kuçovë
+
+7\. Gramsh
+
+8\. Mallakastër
+
+9\. Tepelenë
+
+10\. Përmet
+
+11\. Gjirokastër
+
+**III. Third zone, including the eastern areas of the country, characterised by cold winters and cool summers**
+
+Specified regions hereunder followed or not by the name of a wine-growing commune and/or the name of a vineyard estate.
+
+1\. Tropojë
+
+2\. Pukë
+
+3\. Has
+
+4\. Kukës
+
+5\. Dibër
+
+6\. Bulqizë
+
+7\. Librazhd
+
+8\. Pogradec
+
+9\. Skrapar
+
+10\. Devoll
+
+11\. Korçë
+
+12\. Kolonjë.
+
+## APPENDIX 2
+
+**LIST OF TRADITIONAL EXPRESSIONS AND QUALITY TERMS FOR WINE IN THE COMMUNITY**
+
+**(as referred to in Articles 4 and 7 of Annex II)**
+
+<table>
+<tbody><tr><td>Traditional expressions</td><td>Wines concerned</td><td>Wine category</td><td>Language</td></tr>
+<tr><td colspan="4">CZECH REPUBLIC</td></tr>
+<tr></tr>
+<tr><td>pozdní sběr</td><td>All</td><td>Quality wine psr</td><td>Czech</td></tr>
+<tr><td>archivní víno</td><td>All</td><td>Quality wine psr</td><td>Czech</td></tr>
+<tr><td>panenské víno</td><td>All</td><td>Quality wine psr</td><td>Czech</td></tr>
+<tr><td colspan="4">GERMANY</td></tr>
+<tr></tr>
+<tr><td>Qualitätswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Qualitätswein garantierten Ursprungs/Q.g.U</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Qualitätswein mit Prädikät/at/Q.b.A.m.Pr/Prädikatswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Qualitätsschaumwein garantierten Ursprungs/Q.g.U</td><td>All</td><td>Quality sparkling wine psr</td><td>German</td></tr>
+<tr><td>Auslese</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Beerenauslese</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Eiswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Kabinett</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Spätlese</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Trockenbeerenauslese</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Landwein</td><td>All</td><td>Table wine with GI</td><td></td></tr>
+<tr><td>Affentaler</td><td>Altschweier, Bühl, Eisental, Neusatz/Bühl, Bühlertal, Neuweier/Baden-Baden</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Badisch Rotgold</td><td>Baden</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Ehrentrudis</td><td>Baden</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Hock</td><td>Rhein, Ahr, Hessische Bergstraße, Mittelrhein, Nahe, Rheinhessen, Pfalz, Rheingau</td><td>Table wine with GI Quality wine psr </td><td>German</td></tr>
+<tr><td>Klassik/Classic</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Liebfrau(en)milch</td><td>Nahe, Rheinhessen, Pfalz, Rheingau</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Moseltaler</td><td>Mosel-Saar-Ruwer</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Riesling-Hochgewächs</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Schillerwein</td><td>Württemberg</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Weißherbst</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Winzersekt</td><td>All</td><td>Quality sparkling wine psr</td><td>German</td></tr>
+<tr><td colspan="4">GREECE</td></tr>
+<tr></tr>
+<tr><td>Ονομασια Προελεύσεως Ελεγχόμενη (ΟΠΕ) (Appellation d’origine controlée)</td><td>All</td><td>Quality wine psr</td><td>Greek</td></tr>
+<tr><td>Ονομασια Προελεύσεως Ανωτέρας Ποιότητος (ΟΠΑΠ) (Appellation d’origine de qualité supérieure)</td><td>All</td><td>Quality wine psr</td><td>Greek</td></tr>
+<tr><td>Οίνος γλυκός φυσικός (Vin doux naturel)</td><td>Μοσχάτος Κεφαλληνίας (Muscat de Céphalonie), Μοσχάτος Πατρών (Muscat de Patras), Μοσχάτος Ρίου-Πατρών (Muscat Rion de Patras), Μοσχάτος Λήμνου (Muscat de Lemnos), Μοσχάτος Ρόδου (Muscat de Rhodos), Μαυροδάφνη Πατρών (Mavrodaphne de Patras), Μαυροδάφνη Κεφαλληνίας (Mavrodaphne de Céphalonie), Σάμος (Samos), Σητεία (Sitia), Δαφνές (Dafnès), Σαντορίνη (Santorini)</td><td>Quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td>Οίνος φυσικώς γλυκός (Vin naturellement doux)</td><td>Vins de paille: Κεφαλληνίας (de Céphalonie), Δαφνές (de Dafnès), Λήμνου (de Lemnos), Πατρών (de Patras), Ρίου-Πατρών (de Rion de Patras), Ρόδου (de Rhodos), Σάμος (de Samos), Σητεία (de Sitia), Σαντορίνη (Santorini) </td><td>Quality wine psr</td><td>Greek</td></tr>
+<tr><td>Ονομασία κατά παράδοση (Onomasia kata paradosi)</td><td>All</td><td>Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Τοπικός Οίνος (vins de pays)</td><td>All</td><td>Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Αγρέπαυλη (Agrepavlis)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Αμπέλι (Ampeli)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Αμπελώνας (ες) (Ampelonas ès)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Αρχοντικό (Archontiko)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Κάβα (1) (Cava)</td><td>All</td><td>Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Από διαλεκτούς αμπελώνες (Grand Cru)</td><td>Μοσχάτος Κεφαλληνίας (Muscat de Céphalonie), Μοσχάτος Πατρών (Muscat de Patras), Μοσχάτος Ρίου-Πατρών (Muscat Rion de Patras), Μοσχάτος Λήμνου (Muscat de Lemnos), Μοσχάτος Ρόδου (Muscat de Rhodos), Σάμος (Samos)</td><td>Quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td>Ειδικά Επιλεγμένος (Grand réserve)</td><td>All</td><td>Quality wine psr, Quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td>Κάστρο (Kastro)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Κτήμα (Ktima)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Λιαστός (Liastos)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Μετόχι (Metochi)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Μοναστήρι (Monastiri)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Νάμα (Nama)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Νυχτέρι (Nychteri)</td><td>Σαντορίνη</td><td>Quality wine psr</td><td>Greek</td></tr>
+<tr><td>Ορεινό κτήμα (Orino Ktima)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Ορεινός αμπελώνας (Orinos Ampelonas)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Πύργος (Pyrgos)</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Επιλογή ή Επιλεγμένος (Réserve)</td><td>All</td><td>Quality wine psr, quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td>Παλαιωθείς επιλεγμένος (Vieille réserve)</td><td>All</td><td>Quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td>Βερντέα (Verntea)</td><td>Ζάκυνθος</td><td>Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Vinsanto</td><td>Σαντορίνη</td><td>Quality wine psr, quality liqueur wine psr</td><td>Greek</td></tr>
+<tr><td colspan="4">SPAIN</td></tr>
+<tr></tr>
+<tr><td>Denominacion de origen (DO)</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Denominacion de origen calificada (DOCa)</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Vino dulce natural</td><td>All</td><td>Quality liquor wine psr</td><td>Spanish</td></tr>
+<tr><td>Vino generoso</td><td> (2)</td><td>Quality liquor wine psr</td><td>Spanish</td></tr>
+<tr><td>Vino generoso de licor</td><td> (3)</td><td>Quality liquor wine psr</td><td>Spanish</td></tr>
+<tr><td>Vino de la Tierra</td><td>Tous</td><td>Table wine with GI</td><td></td></tr>
+<tr><td>Aloque</td><td>DO Valdepeñas</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Amontillado</td><td>DDOO Jerez-Xérès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla Moriles </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Añejo</td><td>All</td><td>Quality wine psr Table wine with GI</td><td>Spanish</td></tr>
+<tr><td>Añejo</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Chacoli/Txakolina</td><td>DO Chacoli de Bizkaia DO Chacoli de Getaria  DO Chacoli de Alava </td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Clásico</td><td>DO Abona DO El Hierro  DO Lanzarote  DO La Palma  DO Tacoronte-Acentejo  DO Tarragona  DO Valle de Güimar  DO Valle de la Orotava  DO Ycoden-Daute-Isora </td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Cream</td><td>DDOO Jérez-Xerès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla Moriles  DO Málaga  DO Condado de Huelva </td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td>Criadera</td><td>DDOO Jérez-Xerès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla Moriles  DO Málaga  DO Condado de Huelva </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Criaderas y Soleras</td><td>DDOO Jérez-Xerès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla Moriles  DO Málaga  DO Condado de Huelva </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Crianza</td><td>All</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Dorado</td><td>DO Rueda DO Málaga </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Fino</td><td>DO Montilla Moriles DDOO Jerez-Xérès-Sherry y Manzanilla Sanlúcar de Barrameda </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Fondillón</td><td>DO Alicante</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Gran Reserva</td><td>All quality wines psr Cava </td><td>Quality wine psr Quality sparkling wine psr </td><td>Spanish</td></tr>
+<tr><td>Lágrima</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Noble</td><td>All</td><td>Quality wine psr Table wine with GI</td><td>Spanish</td></tr>
+<tr><td>Noble</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Oloroso</td><td>DDOO Jerez-Xérès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla-Moriles </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Pajarete</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Pálido</td><td>DO Condado de Huelva DO Rueda  DO Málaga </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Palo Cortado</td><td>DDOO Jerez-Xérès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla-Moriles </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Primero de cosecha</td><td>DO Valencia</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Rancio</td><td>All</td><td>Quality wine psr, Quality liqueur wine psr </td><td>Spanish</td></tr>
+<tr><td>Raya</td><td>DO Montilla-Moriles</td><td>Quality liquor wine psr</td><td>Spanish</td></tr>
+<tr><td>Reserva</td><td>All</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Sobremadre</td><td>DO vinos de Madrid</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Solera</td><td>DDOO Jérez-Xerès-Sherry y Manzanilla Sanlúcar de Barrameda DO Montilla Moriles  DO Málaga  DO Condado de Huelva </td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Superior</td><td>All</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Trasañejo</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Vino Maestro</td><td>DO Málaga</td><td>Quality liqueur wine psr</td><td>Spanish</td></tr>
+<tr><td>Vendimia inicial</td><td>DO Utiel-Requena</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td>Viejo</td><td>All</td><td>Quality wine psr, Quality liqueur wine psr, Table wine with GI</td><td>Spanish</td></tr>
+<tr><td>Vino de tea</td><td>DO La Palma</td><td>Quality wine psr</td><td>Spanish</td></tr>
+<tr><td colspan="4">FRANCE</td></tr>
+<tr></tr>
+<tr><td>Appellation d’origine contrôlée</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Appellation contrôlée</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td></td></tr>
+<tr><td>Appellation d’origine Vin Délimité de qualité supérieure</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Vin doux naturel</td><td>AOC Banyuls, Banyuls Grand Cru, Muscat de Frontignan, Grand Roussillon, Maury, Muscat de Beaume de Venise, Muscat du Cap Corse, Muscat de Lunel, Muscat de Mireval, Muscat de Rivesaltes, Muscat de St Jean de Minervois, Rasteau, Rivesaltes</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Vin de pays</td><td>All</td><td>Table wine with GI</td><td>French</td></tr>
+<tr><td>Ambré</td><td>All</td><td>Quality liqueur wine psr, table wine with GI</td><td>French</td></tr>
+<tr><td>Château</td><td>All</td><td>Quality wine psr, Quality liqueur wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Clairet</td><td>AOC Bourgogne AOC Bordeaux</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Claret</td><td>AOC Bordeaux</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Clos</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Cru Artisan</td><td>AOC Médoc, Haut-Médoc, Margaux, Moulis, Listrac, St Julien, Pauillac, St Estèphe </td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Cru Bourgeois</td><td>AOC Médoc, Haut-Médoc, Margaux, Moulis, Listrac, St Julien, Pauillac, St Estèphe</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Cru Classé, éventuellement précédé de:  Grand,  Premier Grand,  Deuxième,  Troisième,  Quatrième,  Cinquième. </td><td>AOC Côtes de Provence, Graves, St Emilion Grand Cru, Haut-Médoc, Margaux, St Julien, Pauillac, St Estèphe, Sauternes, Pessac Léognan, Barsac</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Edelzwicker</td><td>AOC Alsace</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Grand Cru</td><td>AOC Alsace, Banyuls, Bonnes Mares, Chablis, Chambertin, Chapelle Chambertin, Chambertin Clos-de-Bèze, Mazoyeres ou Charmes Chambertin, Latricières-Chambertin, Mazis Chambertin, Ruchottes Chambertin, Griottes-Chambertin, Clos de la Roche, Clos Saint Denis, Clos de Tart, Clos de Vougeot, Clos des Lambray, Corton, Corton Charlemagne, Charlemagne, Echézeaux, Grand Echézeaux, La Grande Rue, Montrachet, Chevalier-Montrachet, Bâtard-Montrachet, Bienvenues-Bâtard-Montrachet, Criots-Bâtard-Montrachet, Musigny, Romanée St Vivant, Richebourg, Romanée-Conti, La Romanée, La Tâche, St Emilion</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Grand Cru</td><td>Champagne</td><td>Quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Hors d’âge</td><td>AOC Rivesaltes</td><td>Quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Passe-tout-grains</td><td>AOC Bourgogne</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Premier Cru</td><td>AOC Aloxe Corton, Auxey Duresses, Beaune, Blagny, Chablis, Chambolle Musigny, Chassagne Montrachet, Champagne, Côtes de Brouilly, Fixin, Gevrey Chambertin, Givry, Ladoix, Maranges, Mercurey, Meursault, Monthélie, Montagny, Morey St Denis, Musigny, Nuits, Nuits-Saint-Georges, Pernand-Vergelesses, Pommard, Puligny-Montrachet, Rully, Santenay, Savigny-les-Beaune, St Aubin, Volnay, Vougeot, Vosne-Romanée</td><td>Quality wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Primeur</td><td>All</td><td>Quality wine psr, table wine with GI</td><td>French</td></tr>
+<tr><td>Rancio</td><td>AOC Grand Roussillon, Rivesaltes, Banyuls, Banyuls grand cru, Maury, Clairette du Languedoc, Rasteau</td><td>Quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Sélection de grains nobles</td><td>AOC Alsace, Alsace Grand cru, Monbazillac, Graves supérieures, Bonnezeaux, Jurançon, Cérons, Quarts de Chaume, Sauternes, Loupiac, Côteaux du Layon, Barsac, Ste Croix du Mont, Coteaux de l’Aubance, Cadillac</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Sur Lie</td><td>AOC Muscadet, Muscadet –Coteaux de la Loire, Muscadet-Côtes de Grandlieu, Muscadet-Sèvres et Maine, AOVDQS Gros Plant du Pays Nantais, VDT avec IG Vin de pays d’Oc et Vin de pays des Sables du Golfe du Lion</td><td>Quality wine psr, Table wine with GI </td><td>French</td></tr>
+<tr><td>Tuilé</td><td>AOC Rivesaltes</td><td>Quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Vendanges tardives</td><td>AOC Alsace, Jurançon</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Villages</td><td>AOC Anjou, Beaujolais, Côte de Beaune, Côte de Nuits, Côtes du Rhône, Côtes du Roussillon, Mâcon</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Vin de paille</td><td>AOC Côtes du Jura, Arbois, L’Etoile, Hermitage</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Vin jaune</td><td>AOC du Jura (Côtes du Jura, Arbois, L’Etoile, Château-Châlon)</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td colspan="4">ITALY</td></tr>
+<tr></tr>
+<tr><td>Denominazione di Origine Controllata/D.O.C.</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr, partially fermented grape musts with GI</td><td>Italian</td></tr>
+<tr><td>Denominazione di Origine Controllata e Garantita/D.O.C.G.</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr, partially fermented grape musts with GI</td><td>Italian</td></tr>
+<tr><td>Vino Dolce Naturale</td><td>All</td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Inticazione geografica tipica (IGT)</td><td>All</td><td>Table wine, ‘vin de pays’, wine of over-ripe grapes and grape must partially fermented with GI</td><td>Italian</td></tr>
+<tr><td>Landwein</td><td>Wine with GI of the autonomous province of Bolzano</td><td>Table wine, ‘vin de pays’, wine of over-ripe grapes and grape must partially fermented with GI</td><td>German</td></tr>
+<tr><td>Vin de pays</td><td>Wine with GI of Aosta region</td><td>Table wine, ‘vin de pays’, wine of over-ripe grapes and grape must partially fermented with GI</td><td>French</td></tr>
+<tr><td>Alberata o vigneti ad alberata</td><td>DOC Aversa</td><td>Quality wine psr, quality sparkling wine psr</td><td>Italian</td></tr>
+<tr><td>Amarone</td><td>DOC Valpolicella</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Ambra</td><td>DOC Marsala</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Ambrato</td><td>DOC Malvasia delle Lipari DOC Vernaccia di Oristano </td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Annoso</td><td>DOC Controguerra</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Apianum</td><td>DOC Fiano di Avellino</td><td>Quality wine psr</td><td>Latin</td></tr>
+<tr><td>Auslese</td><td>DOC Caldaro e Caldaro classico-Alto Adige</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Barco Reale</td><td>DOC Barco Reale di Carmignano</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Brunello</td><td>DOC Brunello di Montalcino</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Buttafuoco</td><td>DOC Oltrepò Pavese</td><td>Quality wine psr, quality semi-sparkling wine psr</td><td>Italian</td></tr>
+<tr><td>Cacc’e mitte</td><td>DOC Cacc’e Mitte di Lucera</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Cagnina</td><td>DOC Cagnina di Romagna</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Cannellino</td><td>DOC Frascati</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Cerasuolo</td><td>DOC Cerasuolo di Vittoria DOC Montepulciano d’Abruzzo </td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Chiaretto</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality liqueur wine psr, Table wine with GI</td><td>Italian</td></tr>
+<tr><td>Ciaret</td><td>DOC Monferrato</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Château</td><td>DOC de la région Valle d’Aosta</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>French</td></tr>
+<tr><td>Classico</td><td>All</td><td>Quality wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Dunkel</td><td>DOC Alto Adige DOC Trentino </td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Est!Est!!Est!!!</td><td>DOC Est!Est!!Est!!! di Montefiascone</td><td>Quality wine psr, quality sparkling wine psr</td><td>Latin</td></tr>
+<tr><td>Falerno</td><td>DOC Falerno del Massico</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Fine</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Fior d’Arancio</td><td>DOC Colli Euganei</td><td>Quality wine psr, quality sparkling wine psr, Table wine with GI</td><td>Italian</td></tr>
+<tr><td>Falerio</td><td>DOC Falerio dei colli Ascolani</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Flétri</td><td>DOC Valle d’Aosta o Vallée d’Aoste</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Garibaldi Dolce (ou GD)</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Governo all’uso toscano</td><td>DOCG Chianti/Chianti Classico IGT Colli della Toscana Centrale </td><td>Quality wine psr, Table wine with GI</td><td>Italian</td></tr>
+<tr><td>Gutturnio</td><td>DOC Colli Piacentini</td><td>Quality wine psr, qualityn semi-sparkling wine psr</td><td>Italian</td></tr>
+<tr><td>Italia Particolare (ou IP)</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Klassisch/Klassisches Ursprungsgebiet</td><td>DOC Caldaro DOC Alto Adige (avec la dénomination Santa Maddalena e Terlano) </td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Kretzer</td><td>DOC Alto Adige DOC Trentino  DOC Teroldego Rotaliano </td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Lacrima</td><td>DOC Lacrima di Morro d’Alba</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Lacryma Christi</td><td>DOC Vesuvio</td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Lambiccato</td><td>DOC Castel San Lorenzo</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>London Particolar (ou LP ou Inghilterra)</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Morellino</td><td>DOC Morellino di Scansano</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Occhio di Pernice</td><td>DOC Bolgheri, Vin Santo Di Carmignano, Colli dell’Etruria Centrale, Colline Lucchesi, Cortona, Elba, Montecarlo, Monteregio di Massa Maritima, San Gimignano, Sant’Antimo, Vin Santo del Chianti, Vin Santo del Chianti Classico, Vin Santo di Montepulciano</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Oro</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Pagadebit</td><td>DOC pagadebit di Romagna</td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Passito</td><td>All</td><td>Quality wine psr, quality liqueur wine psr, table wine with GI</td><td>Italian</td></tr>
+<tr><td>Ramie</td><td>DOC Pinerolese</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Rebola</td><td>DOC Colli di Rimini</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Recioto</td><td>DOC Valpolicella DOC Gambellara  DOCG Recioto di Soave </td><td>Quality wine psr, quality sparkling wine psr</td><td>Italian</td></tr>
+<tr><td>Riserva</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Rubino</td><td>DOC Garda Colli Mantovani DOC Rubino di Cantavenna  DOC Teroldego Rotaliano  DOC Trentino </td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Rubino</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Sangue di Giuda</td><td>DOC Oltrepò Pavese</td><td>Quality wine psr, quality semi-sparkling wine psr</td><td>Italian</td></tr>
+<tr><td>Scelto</td><td>All</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Sciacchetrà</td><td>DOC Cinque Terre</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Sciac-trà</td><td>DOC Pornassio o Ormeasco di Pornassio</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Sforzato, Sfursàt</td><td>DO Valtellina</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Spätlese</td><td>DOC/IGT de Bolzano</td><td>Quality wine psr, Table wine with GI</td><td>German</td></tr>
+<tr><td>Soleras</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Stravecchio</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Strohwein</td><td>DOC/IGT de Bolzano</td><td>Quality wine psr, Table wine with GI</td><td>German</td></tr>
+<tr><td>Superiore</td><td>All</td><td>Quality wine psr, Quality sparkling wine psr, Quality semi-sparkling wine psr, Quality liqueur wine psr,</td><td>Italian</td></tr>
+<tr><td>Superiore Old Marsala (ou SOM)</td><td>DOC Marsala</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Torchiato</td><td>DOC Colli di Conegliano</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Torcolato</td><td>DOC Breganze</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Vecchio</td><td>DOC Rosso Barletta, Aglianico del Vuture, Marsala, Falerno del Massico</td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Vendemmia Tardiva</td><td>All</td><td>Quality wine psr, quality semi-sparkling wine psr, table wine with GI</td><td>Italian</td></tr>
+<tr><td>Verdolino</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Italian</td></tr>
+<tr><td>Vergine</td><td>DOC Marsala DOC Val di Chiana </td><td>Quality wine psr, quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Vermiglio</td><td>DOC Colli dell Etruria Centrale</td><td>Quality liqueur wine psr</td><td>Italian</td></tr>
+<tr><td>Vino Fiore</td><td>All</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Vino Nobile</td><td>Vino Nobile di Montepulciano</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Vino Novello o Novello</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Italian</td></tr>
+<tr><td>Vin santo/Vino Santo/Vinsanto</td><td>DOC et DOCG Bianco dell’Empolese, Bianco della Valdinievole, Bianco Pisano di San Torpé, Bolgheri, Candia dei Colli Apuani, Capalbio, Carmignano, Colli dell’Etruria Centrale, Colline Lucchesi, Colli del Trasimeno, Colli Perugini, Colli Piacentini, Cortona, Elba, Gambellera, Montecarlo, Monteregio di Massa Maritima, Montescudaio, Offida, Orcia, Pomino, San Gimignano, San’Antimo, Val d’Arbia, Val di Chiana, Vin Santo del Chianti, Vin Santo del Chianti Classico, Vin Santo di Montepulciano, Trentino</td><td>Quality wine psr</td><td>Italian</td></tr>
+<tr><td>Vivace</td><td>All</td><td>Quality wine psr, quality liqueur wine psr, table wine with GI</td><td>Italian</td></tr>
+<tr><td colspan="4">CYPRUS</td></tr>
+<tr></tr>
+<tr><td>Οίνος Ελεγχόμενης Ονομασίας Προέλευσης</td><td>All</td><td>Quality wine psr</td><td>Greek</td></tr>
+<tr><td>Τοπικός Οίνος</td><td>All</td><td>Table wine with GI</td><td>Greek</td></tr>
+<tr><td>Μοναστήρι (Monastiri)</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>Greek</td></tr>
+<tr><td>Κτήμα (Ktima)</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>Greek</td></tr>
+<tr><td colspan="4">LUXEMBOURG</td></tr>
+<tr></tr>
+<tr><td>Marque nationale</td><td>All</td><td>Quality wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Appellation contrôlée</td><td>All</td><td>Quality wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Appellation d’origine controlée</td><td>All</td><td>Quality wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td>Vin de pays</td><td>All</td><td>Table wine with GI</td><td>French</td></tr>
+<tr><td>Grand premier cru</td><td>All</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Premier cru</td><td>All</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Vin classé</td><td>All</td><td>Quality wine psr</td><td>French</td></tr>
+<tr><td>Château</td><td>All</td><td>Quality wine psr, quality sparkling wine psr</td><td>French</td></tr>
+<tr><td colspan="4">HUNGARY</td></tr>
+<tr></tr>
+<tr><td>minőségi bor</td><td>All</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>különleges minőségű bor</td><td>All</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>fordítás</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>máslás</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>szamorodni</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>aszú … puttonyos, completed by the numbers 3-6</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>aszúeszencia</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>eszencia</td><td>Tokaj/-i</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>tájbor</td><td>All</td><td>Table wine with GI</td><td>Hungarian</td></tr>
+<tr><td>bikavér</td><td>Eger, Szekszárd</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>késői szüretelésű bor</td><td>All</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>válogatott szüretelésű bor</td><td>All</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>muzeális bor</td><td>All</td><td>Quality wine psr</td><td>Hungarian</td></tr>
+<tr><td>siller</td><td>All</td><td>Table wine with GI, and quality wine psr</td><td>Hungarian</td></tr>
+<tr><td colspan="4">AUSTRIA</td></tr>
+<tr></tr>
+<tr><td>Qualitätswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Qualitätswein besonderer Reife und Leseart/Prädikatswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Qualitätswein mit staatlicher Prüfnummer</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Ausbruch/Ausbruchwein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Auslese/Auslesewein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Beerenauslese (wein)</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Eiswein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Kabinett/Kabinettwein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Schilfwein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Spätlese/Spätlesewein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Strohwein</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Trockenbeerenauslese</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Landwein</td><td>All</td><td>Table wine with GI</td><td></td></tr>
+<tr><td>Ausstich</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Auswahl</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Bergwein</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Klassik/Classic</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Erste Wahl</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Hausmarke</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Heuriger</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Jubiläumswein</td><td>All</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Reserve</td><td>All</td><td>Quality wine psr</td><td>German</td></tr>
+<tr><td>Schilcher</td><td>Steiermark</td><td>Quality wine psr and table wine with GI</td><td>German</td></tr>
+<tr><td>Sturm</td><td>All</td><td>Partially fermented grape must with GI</td><td>German</td></tr>
+<tr><td colspan="4">PORTUGAL</td></tr>
+<tr></tr>
+<tr><td>Denominação de origem (DO)</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Denominação de origem controlada (DOC)</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Indicação de proveniencia regulamentada (IPR)</td><td>All</td><td>Quality wine psr, quality sparkling wine psr, quality semi-sparkling wine psr, quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Vinho DOCe natural</td><td>All</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Vinho generoso</td><td>DO Porto, Madeira, Moscatel de Setúbal, Carcavelos</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Vinho regional</td><td>All</td><td>Table wine with GI</td><td>Portuguese</td></tr>
+<tr><td>Canteiro</td><td>DO Madeira</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Colheita Seleccionada</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Portuguese</td></tr>
+<tr><td>Crusted/Crusting</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td>Escolha</td><td>All</td><td>Quality wine psr, Table wine with GI</td><td>Portuguese</td></tr>
+<tr><td>Escuro</td><td>DO Madeira</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Fino</td><td>DO Porto DO Madeira </td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Frasqueira</td><td>DO Madeira</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Garrafeira</td><td>All</td><td>Quality wine psr, Table wine with GI Quality liqueur wine psr </td><td>Portuguese</td></tr>
+<tr><td>Lágrima</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Leve</td><td>Table wine with GI Estremadura and Ribatejano DO Madeira, DO Porto </td><td>Table wine with GI Quality liqueur wine psr </td><td>Portuguese</td></tr>
+<tr><td>Nobre</td><td>DO Dão</td><td>Quality wine psr</td><td>Portuguese</td></tr>
+<tr><td>Reserva</td><td>All</td><td>Quality wine psr, quality liqueur wine psr, quality sparkling wine psr, table wine with GI</td><td>Portuguese</td></tr>
+<tr><td>Reserva velha (or grande reserva)</td><td>DO Madeira</td><td>Quality sparkling wine psr, quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Ruby</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td>Solera</td><td>DO Madeira</td><td>Quality liqueur wine psr</td><td>Portuguese</td></tr>
+<tr><td>Super reserva</td><td>All</td><td>Quality sparkling wine psr</td><td>Portuguese</td></tr>
+<tr><td>Superior</td><td>All</td><td>Quality wine psr, quality liqueur wine psr, table wine with GI</td><td>Portuguese</td></tr>
+<tr><td>Tawny</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td>Vintage supplemented by Late Bottle (LBV) ou Character</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td>Vintage</td><td>DO Porto</td><td>Quality liqueur wine psr</td><td>English</td></tr>
+<tr><td colspan="4">SLOVENIA</td></tr>
+<tr></tr>
+<tr><td>Penina</td><td>All</td><td>Quality sparkling wine psr</td><td>Slovenian</td></tr>
+<tr><td>pozna trgatev</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>izbor</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>jagodni izbor</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>suhi jagodni izbor</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>ledeno vino</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>arhivsko vino</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>mlado vino</td><td>All</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>Cviček</td><td>Dolenjska</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td>Teran</td><td>Kras</td><td>Quality wine psr</td><td>Slovenian</td></tr>
+<tr><td colspan="4">SLOVAKIA</td></tr>
+<tr></tr>
+<tr><td>forditáš</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+<tr><td>mášláš</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+<tr><td>samorodné</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+<tr><td>výber … putňový, completed by the numbers 3-6</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+<tr><td>výberová esencia</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+<tr><td>esencia</td><td>Tokaj/-ská/-ský/-ské</td><td>Quality wine psr</td><td>Slovak</td></tr>
+</tbody>
+</table>
+
+## APPENDIX 3
+
+**LIST OF CONTACT POINTS**
+
+**(as referred to in Article 12 of Annex II)**
+
+**(a) Community**
+
+European Commission
+
+Directorate-General for Agriculture and Rural Development
+
+Directorate B International Affairs II
+
+Head of Unit B.2 Enlargement
+
+1049 Bruxelles/Brussel
+
+BELGIUM
+
+Telephone +32 2 299 11 11
+
+Fax +32 2 296 62 92
+
+**(b) Albania**
+
+Mrs Brunilda Stamo, Director
+
+Directorate of Production Policies
+
+Ministry of Agriculture, Food and Consumer Protection
+
+Sheshi Skenderbej Nr.2
+
+Tirana
+
+ALBANIA
+
+Telephone/fax +355 4 225872
+
+E-mail: bstamo@albnet.net
+
+(1) The protection of the term ‘cava’ provided for in Council Regulation (EC) No 1493/1999 is without prejudice to the protection of the geographical indication applicable to quality sparkling wines psr ‘Cava’.
+
+(2) The wines concerned are quality liqueur wines psr provided for in Annex VI, point L, paragraph 8 of Council Regulation (EC) No 1493/1999.
+
+(3) The wines concerned are quality liqueur wines psr provided for in Annex VI, point L, paragraph 11 of Council Regulation (EC) No 1493/1999.
+
+**PROTOCOL 4**
+
+**concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation**
+
+**TABLE OF CONTENTS**
+
+| TITLE I | GENERAL PROVISIONS |  |
+| --- | --- | --- |
+
+| Article 1 | Definitions |  |
+| --- | --- | --- |
+
+| TITLE II | DEFINITION OF THE CONCEPT OF ‘ORIGINATING PRODUCTS’ |  |
+| --- | --- | --- |
+
+| Article 2 | General requirements |  |
+| --- | --- | --- |
+
+| Article 3 | Bilateral cumulation in the Community |  |
+| --- | --- | --- |
+
+| Article 4 | Bilateral cumulation in Albania |  |
+| --- | --- | --- |
+
+| Article 5 | Wholly obtained products |  |
+| --- | --- | --- |
+
+| Article 6 | Sufficiently worked or processed products |  |
+| --- | --- | --- |
+
+| Article 7 | Insufficient working or processing |  |
+| --- | --- | --- |
+
+| Article 8 | Unit of qualification |  |
+| --- | --- | --- |
+
+| Article 9 | Accessories, spare parts and tools |  |
+| --- | --- | --- |
+
+| Article 10 | Sets |  |
+| --- | --- | --- |
+
+| Article 11 | Neutral elements |  |
+| --- | --- | --- |
+
+| TITLE III | TERRITORIAL REQUIREMENTS |  |
+| --- | --- | --- |
+
+| Article 12 | Principle of territoriality |  |
+| --- | --- | --- |
+
+| Article 13 | Direct transport |  |
+| --- | --- | --- |
+
+| Article 14 | Exhibitions |  |
+| --- | --- | --- |
+
+| TITLE IV | DRAWBACK OR EXEMPTION |  |
+| --- | --- | --- |
+
+| Article 15 | Prohibition of drawback of, or exemption from, customs duties |  |
+| --- | --- | --- |
+
+| TITLE V | PROOF OF ORIGIN |  |
+| --- | --- | --- |
+
+| Article 16 | General requirements |  |
+| --- | --- | --- |
+
+| Article 17 | Procedure for the issue of a movement certificate EUR.1 |  |
+| --- | --- | --- |
+
+| Article 18 | Movement certificates EUR.1 issued retrospectively |  |
+| --- | --- | --- |
+
+| Article 19 | Issue of a duplicate movement certificate EUR.1 |  |
+| --- | --- | --- |
+
+| Article 20 | Issue of movement certificates EUR.1 on the basis of a proof of origin issued or made out previously |  |
+| --- | --- | --- |
+
+| Article 21 | Conditions for making out an invoice declaration |  |
+| --- | --- | --- |
+
+| Article 22 | Approved exporter |  |
+| --- | --- | --- |
+
+| Article 23 | Validity of proof of origin |  |
+| --- | --- | --- |
+
+| Article 24 | Submission of proof of origin |  |
+| --- | --- | --- |
+
+| Article 25 | Importation by instalments |  |
+| --- | --- | --- |
+
+| Article 26 | Exemptions from proof of origin |  |
+| --- | --- | --- |
+
+| Article 27 | Supporting documents |  |
+| --- | --- | --- |
+
+| Article 28 | Preservation of proof of origin and supporting documents |  |
+| --- | --- | --- |
+
+| Article 29 | Discrepancies and formal errors |  |
+| --- | --- | --- |
+
+| Article 30 | Amounts expressed in euro |  |
+| --- | --- | --- |
+
+| TITLE VI | ARRANGEMENTS FOR ADMINISTRATIVE COOPERATION |  |
+| --- | --- | --- |
+
+| Article 31 | Mutual assistance |  |
+| --- | --- | --- |
+
+| Article 32 | Verification of proofs of origin |  |
+| --- | --- | --- |
+
+| Article 33 | Dispute settlement |  |
+| --- | --- | --- |
+
+| Article 34 | Penalties |  |
+| --- | --- | --- |
+
+| Article 35 | Free zones |  |
+| --- | --- | --- |
+
+| TITLE VII | CEUTA AND MELILLA |  |
+| --- | --- | --- |
+
+| Article 36 | Application of the Protocol |  |
+| --- | --- | --- |
+
+| Article 37 | Special conditions |  |
+| --- | --- | --- |
+
+| TITLE VIII | FINAL PROVISIONS |  |
+| --- | --- | --- |
+
+| Article 38 | Amendments to the Protocol |  |
+| --- | --- | --- |
+
+**LIST OF ANNEXES**
+
+| ANNEX I: | Introductory notes to the list in Annex II |  |
+| --- | --- | --- |
+
+| ANNEX II: | List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status |  |
+| --- | --- | --- |
+
+| ANNEX III: | Specimens of movement certificate EUR.1 and application for a movement certificate EUR.1 |  |
+| --- | --- | --- |
+
+| ANNEX IV: | Text of the invoice declaration |  |
+| --- | --- | --- |
+
+### TITLE I — GENERAL PROVISIONS
+
+#### Article 1 — Definitions
+
+For the purposes of this Protocol:
+
+(a) ‘manufacture’ means any kind of working or processing including assembly or specific operations;
+
+(b) ‘material’ means any ingredient, raw material, component or part, etc., used in the manufacture of the product;
+
+(c) ‘product’ means the product being manufactured, even if it is intended for later use in another manufacturing operation;
+
+(d) ‘goods’ means both materials and products;
+
+(e) ‘customs value’ means the value as determined in accordance with the 1994 Agreement on implementation of Article VII of the General Agreement on Tariffs and Trade (WTO Agreement on customs valuation);
+
+(f) ‘ex-works price’ means the price paid for the product ex works to the manufacturer in the Community or in Albania in whose undertaking the last working or processing is carried out, provided the price includes the value of all the materials used, minus any internal taxes which are, or may be, repaid when the product obtained is exported;
+
+(g) ‘value of materials’ means the customs value at the time of importation of the non-originating materials used, or, if this is not known and cannot be ascertained, the first ascertainable price paid for the materials in the Community or in Albania;
+
+(h) ‘value of originating materials’ means the value of such materials as defined in (g) applied mutatis mutandis;
+
+(i) ‘added value’ shall be taken to be the ex-works price minus the customs value of each of the materials incorporated which originate in the other Party or, where the customs value is not known or cannot be ascertained, the first ascertainable price paid for the materials in the Community or in Albania;
+
+(j) ‘chapters’ and ‘headings’ mean the chapters and the headings (four-digit codes) used in the nomenclature which makes up the Harmonised Commodity Description and Coding System, referred to in this Protocol as ‘the Harmonised System’ or ‘HS’;
+
+(k) ‘classified’ refers to the classification of a product or material under a particular heading;
+
+(l) ‘consignment’ means products which are either sent simultaneously from one exporter to one consignee or covered by a single transport document covering their shipment from the exporter to the consignee or, in the absence of such a document, by a single invoice;
+
+(m) ‘territories’ includes territorial waters.
+
+### TITLE II — DEFINITION OF THE CONCEPT OF ‘ORIGINATING PRODUCTS’
+
+#### Article 2 — General requirements
+
+1\. For the purpose of implementing the Agreement, the following products shall be considered as originating in the Community:
+
+(a) products wholly obtained in the Community within the meaning of Article 5;
+
+(b) products obtained in the Community incorporating materials which have not been wholly obtained there, provided that such materials have undergone sufficient working or processing in the Community within the meaning of Article 6.
+
+2\. For the purpose of implementing the Agreement, the following products shall be considered as originating in Albania:
+
+(a) products wholly obtained in Albania within the meaning of Article 5;
+
+(b) products obtained in Albania incorporating materials which have not been wholly obtained there, provided that such materials have undergone sufficient working or processing in Albania within the meaning of Article 6.
+
+#### Article 3 — Bilateral cumulation in the Community
+
+Materials originating in Albania shall be considered as materials originating in the Community when incorporated into a product obtained there. It shall not be necessary for such materials to have undergone sufficient working or processing, provided they have undergone working or processing going beyond the operations referred to in Article 7.
+
+#### Article 4 — Bilateral cumulation in Albania
+
+Materials originating in the Community shall be considered as materials originating in Albania when incorporated into a product obtained there. It shall not be necessary for such materials to have undergone sufficient working or processing, provided they have undergone working or processing going beyond the operations referred to in Article 7.
+
+#### Article 5 — Wholly obtained products
+
+1\. The following shall be considered as wholly obtained in the Community or in Albania:
+
+(a) mineral products extracted from their soil or from their seabed;
+
+(b) vegetable products harvested there;
+
+(c) live animals born and raised there;
+
+(d) products from live animals raised there;
+
+(e) products obtained by hunting or fishing conducted there;
+
+(f) products of sea fishing and other products taken from the sea outside the territorial waters of the Community or of Albania by their vessels;
+
+(g) products made aboard their factory ships exclusively from products referred to in (f);
+
+(h) used articles collected there fit only for the recovery of raw materials, including used tyres fit only for retreading or for use as waste;
+
+(i) waste and scrap resulting from manufacturing operations conducted there;
+
+(j) products extracted from marine soil or subsoil outside their territorial waters provided that they have sole rights to work that soil or subsoil; and
+
+(k) goods produced there exclusively from the products specified in (a) to (j).
+
+2\. The terms ‘their vessels’ and ‘their factory ships’ in paragraph 1(f) and (g) shall apply only to vessels and factory ships:
+
+(a) which are registered or recorded in a Member State of the Community or in Albania;
+
+(b) which sail under the flag of a Member State of the Community or of Albania;
+
+(c) which are owned to an extent of at least 50 % by nationals of a Member State of the Community or of Albania, or by a company with its head office in one of these States, of which the manager or managers, Chairman of the Board of Directors or the Supervisory Board, and the majority of the members of such boards are nationals of a Member State of the Community or of Albania and of which, in addition, in the case of partnerships or limited companies, at least half the capital belongs to those States or to public bodies or nationals of the said States;
+
+(d) of which the master and officers are nationals of a Member State of the Community or of Albania; or
+
+(e) of which at least 75 % of the crew are nationals of a Member State of the Community or of Albania.
+
+#### Article 6 — Sufficiently worked or processed products
+
+1\. For the purposes of Article 2, products which are not wholly obtained are considered to be sufficiently worked or processed when the conditions set out in the list in Annex II are fulfilled.
+
+The conditions referred to above indicate, for all products covered by the Agreement, the working or processing which must be carried out on non-originating materials used in manufacturing and apply only in relation to such materials. It follows that if a product which has acquired originating status by fulfilling the conditions set out in the list is used in the manufacture of another product, the conditions applicable to the product in which it is incorporated do not apply to it, and no account shall be taken of the non-originating materials which may have been used in its manufacture.
+
+2\. Notwithstanding paragraph 1, non-originating materials which, according to the conditions set out in the list, should not be used in the manufacture of a product may nevertheless be used, provided that:
+
+(a) their total value does not exceed 10 % of the ex-works price of the product;
+
+(b) any of the percentages given in the list for the maximum value of non-originating materials are not exceeded through the application of this paragraph.
+
+This paragraph shall not apply to products falling within Chapters 50 to 63 of the Harmonised System.
+
+3\. Paragraphs 1 and 2 shall apply subject to the provisions of Article 7.
+
+#### Article 7 — Insufficient working or processing
+
+1\. Without prejudice to paragraph 2, the following operations shall be considered as insufficient working or processing to confer the status of originating products, whether or not the requirements of Article 6 are satisfied:
+
+(a) preserving operations to ensure that the products remain in good condition during transport and storage;
+
+(b) breaking-up and assembly of packages;
+
+(c) washing, cleaning; removal of dust, oxide, oil, paint or other coverings;
+
+(d) ironing or pressing of textiles;
+
+(e) simple painting and polishing operations;
+
+(f) husking, partial or total bleaching, polishing and glazing of cereals and rice;
+
+(g) operations to colour sugar or form sugar lumps;
+
+(h) peeling, stoning and shelling, of fruits, nuts and vegetables;
+
+(i) sharpening, simple grinding or simple cutting;
+
+(j) sifting, screening, sorting, classifying, grading, matching; (including the making-up of sets of articles);
+
+(k) simple placing in bottles, cans, flasks, bags, cases, boxes, fixing on cards or boards and all other simple packaging operations;
+
+(l) affixing or printing marks, labels, logos and other like distinguishing signs on products or their packaging;
+
+(m) simple mixing of products, whether or not of different kinds;
+
+(n) simple assembly of parts of articles to constitute a complete article or disassembly of products into parts;
+
+(o) a combination of two or more of the operations specified in (a) to (n); and
+
+(p) slaughter of animals.
+
+2\. All operations carried out either in the Community or in Albania on a given product shall be considered together when determining whether the working or processing undergone by that product is to be regarded as insufficient within the meaning of paragraph 1.
+
+#### Article 8 — Unit of qualification
+
+1\. The unit of qualification for the application of the provisions of this Protocol shall be the particular product which is considered as the basic unit when determining classification using the nomenclature of the Harmonised System.
+
+It follows that:
+
+(a) when a product composed of a group or assembly of articles is classified under the terms of the Harmonised System in a single heading, the whole constitutes the unit of qualification;
+
+(b) when a consignment consists of a number of identical products classified under the same heading of the Harmonised System, each product must be taken individually when applying the provisions of this Protocol.
+
+2\. Where, under General Rule 5 of the Harmonised System, packaging is included with the product for classification purposes, it shall be included for the purposes of determining origin.
+
+#### Article 9 — Accessories, spare parts and tools
+
+Accessories, spare parts and tools dispatched with a piece of equipment, machine, apparatus or vehicle, which are part of the normal equipment and included in the price thereof or which are not separately invoiced, shall be regarded as one with the piece of equipment, machine, apparatus or vehicle in question.
+
+#### Article 10 — Sets
+
+Sets, as defined in General Rule 3 of the Harmonised System, shall be regarded as originating when all component products are originating. Nevertheless, when a set is composed of originating and non-originating products, the set as a whole shall be regarded as originating, provided that the value of the non-originating products does not exceed 15 % of the ex-works price of the set.
+
+#### Article 11 — Neutral elements
+
+In order to determine whether a product originates, it shall not be necessary to determine the origin of the following which might be used in its manufacture:
+
+(a) energy and fuel;
+
+(b) plant and equipment;
+
+(c) machines and tools; or
+
+(d) goods which do not enter and which are not intended to enter into the final composition of the product.
+
+### TITLE III — TERRITORIAL REQUIREMENTS
+
+#### Article 12 — Principle of territoriality
+
+1\. The conditions for acquiring originating status set out in Title II must be fulfilled without interruption in the Community or Albania.
+
+2\. Where originating goods exported from the Community or from Albania to another country return, they must be considered as non-originating, unless it can be demonstrated to the satisfaction of the customs authorities that:
+
+(a) the returning goods are the same as those exported; and
+
+(b) they have not undergone any operation beyond that necessary to preserve them in good condition while in that country or while being exported.
+
+3\. The acquisition of originating status in accordance with the conditions set out in Title II shall not be affected by working or processing done outside the Community or Albania on materials exported from the Community or from Albania and subsequently reimported there, provided:
+
+(a) the said materials are wholly obtained in the Community or in Albania or have undergone working or processing beyond the operations referred to in Article 7 prior to being exported; and
+
+(b) it can be demonstrated to the satisfaction of the customs authorities that:
+
+(i) the reimported goods have been obtained by working or processing the exported materials; and
+
+(ii) the total added value acquired outside the Community or Albania by applying the provisions of this Article does not exceed 10 % of the ex-works price of the end product for which originating status is claimed.
+
+4\. For the purposes of paragraph 3, the conditions for acquiring originating status set out in Title II shall not apply to working or processing done outside the Community or Albania. But where, in the list in Annex II, a rule setting a maximum value for all the non-originating materials incorporated is applied in determining the originating status of the end product, the total value of the non-originating materials incorporated in the territory of the party concerned, taken together with the total added value acquired outside the Community or Albania by applying the provisions of this Article, shall not exceed the stated percentage.
+
+5\. For the purposes of applying the provisions of paragraphs 3 and 4, ‘total added value’ shall be taken to mean all costs arising outside the Community or Albania, including the value of the materials incorporated there.
+
+6\. The provisions of paragraphs 3 and 4 shall not apply to products which do not fulfil the conditions set out in the list in Annex II or which can be considered sufficiently worked or processed only if the general tolerance fixed in Article 6(2) is applied.
+
+7\. The provisions of paragraphs 3 and 4 shall not apply to products of Chapters 50 to 63 of the Harmonised System.
+
+8\. Any working or processing of the kind covered by the provisions of this Article and done outside the Community or Albania shall be done under the outward processing arrangements, or similar arrangements.
+
+#### Article 13 — Direct transport
+
+1\. The preferential treatment provided for under the Agreement applies only to products, satisfying the requirements of this Protocol, which are transported directly between the Community and Albania. However, products constituting one single consignment may be transported through other territories with, should the occasion arise, trans-shipment or temporary warehousing in such territories, provided that they remain under the surveillance of the customs authorities in the country of transit or warehousing and do not undergo operations other than unloading, reloading or any operation designed to preserve them in good condition.
+
+Originating products may be transported by pipeline across territory other than that of the Community or Albania.
+
+2\. Evidence that the conditions set out in paragraph 1 have been fulfilled shall be supplied to the customs authorities of the importing country by the production of:
+
+(a) a single transport document covering the passage from the exporting country through the country of transit; or
+
+(b) a certificate issued by the customs authorities of the country of transit:
+
+(i) giving an exact description of the products;
+
+(ii) stating the dates of unloading and reloading of the products and, where applicable, the names of the ships, or the other means of transport used; and
+
+(iii) certifying the conditions under which the products remained in the transit country; or
+
+(c) failing these, any substantiating documents.
+
+#### Article 14 — Exhibitions
+
+1\. Originating products, sent for exhibition in a country other than the Community or Albania and sold after the exhibition for importation in the Community or in Albania, shall benefit on importation from the provisions of the Agreement provided it is shown to the satisfaction of the customs authorities that:
+
+(a) an exporter has consigned these products from the Community or from Albania to the country in which the exhibition is held and has exhibited them there;
+
+(b) the products have been sold or otherwise disposed of by that exporter to a person in the Community or in Albania;
+
+(c) the products have been consigned during the exhibition or immediately thereafter in the state in which they were sent for exhibition; and
+
+(d) the products have not, since they were consigned for exhibition, been used for any purpose other than demonstration at the exhibition.
+
+2\. A proof of origin must be issued or made out in accordance with the provisions of Title V and submitted to the customs authorities of the importing country in the normal manner. The name and address of the exhibition must be indicated thereon. Where necessary, additional documentary evidence of the conditions under which they have been exhibited may be required.
+
+3\. Paragraph 1 shall apply to any trade, industrial, agricultural or crafts exhibition, fair or similar public show or display which is not organised for private purposes in shops or business premises with a view to the sale of foreign products, and during which the products remain under customs control.
+
+### TITLE IV — DRAWBACK OR EXEMPTION
+
+#### Article 15 — Prohibition of drawback of, or exemption from, customs duties
+
+1\. Non-originating materials used in the manufacture of products originating in the Community or in Albania for which a proof of origin is issued or made out in accordance with the provisions of Title V shall not be subject in the Community or Albania to drawback of, or exemption from, customs duties of whatever kind.
+
+2\. The prohibition in paragraph 1 shall apply to any arrangement for refund, remission or non-payment, partial or complete, of customs duties or charges having an equivalent effect, applicable in the Community or in Albania to materials used in the manufacture, where such refund, remission or non-payment applies, expressly or in effect, when products obtained from the said materials are exported and not when they are retained for home use there.
+
+3\. The exporter of products covered by a proof of origin shall be prepared to submit at any time, upon request from the customs authorities, all appropriate documents proving that no drawback has been obtained in respect of the non-originating materials used in the manufacture of the products concerned and that all customs duties or charges having equivalent effect applicable to such materials have actually been paid.
+
+4\. The provisions of paragraphs 1 to 3 shall also apply in respect of packaging within the meaning of Article 8(2), accessories, spare parts and tools within the meaning of Article 9 and products in a set within the meaning of Article 10 when such items are non-originating.
+
+5\. The provisions of paragraphs 1 to 4 shall apply only in respect of materials which are of the kind to which the Agreement applies. Furthermore, they shall not preclude the application of an export refund system for agricultural products, applicable upon export in accordance with the provisions of the Agreement.
+
+### TITLE V — PROOF OF ORIGIN
+
+#### Article 16 — General requirements
+
+1\. Products originating in the Community shall, on importation into Albania, and products originating in Albania shall, on importation into the Community, benefit from the Agreement upon submission of either:
+
+(a) a movement certificate EUR.1, a specimen of which appears in Annex III; or
+
+(b) in the cases specified in Article 21(1), a declaration, subsequently referred to as the ‘invoice declaration’, given by the exporter on an invoice, a delivery note or any other commercial document which describes the products concerned in sufficient detail to enable them to be identified; the text of the invoice declaration appears in Annex IV.
+
+2\. Notwithstanding paragraph 1, originating products within the meaning of this Protocol shall, in the cases specified in Article 26, benefit from the Agreement without it being necessary to submit any of the documents referred to above.
+
+#### Article 17 — Procedure for the issue of a movement certificate EUR.1
+
+1\. A movement certificate EUR.1 shall be issued by the customs authorities of the exporting country on application having been made in writing by the exporter or, under the exporter’s responsibility, by his authorised representative.
+
+2\. For this purpose, the exporter or his authorised representative shall fill out both the movement certificate EUR.1 and the application form, specimens of which appear in Annex III. These forms shall be completed in one of the languages in which the Agreement is drawn up and in accordance with the provisions of the domestic law of the exporting country. If they are handwritten, they shall be completed in ink in printed characters. The description of the products must be given in the box reserved for this purpose without leaving any blank lines. Where the box is not completely filled, a horizontal line must be drawn below the last line of the description, the empty space being crossed through.
+
+3\. The exporter applying for the issue of a movement certificate EUR.1 shall be prepared to submit at any time, at the request of the customs authorities of the exporting country where the movement certificate EUR.1 is issued, all appropriate documents proving the originating status of the products concerned as well as the fulfilment of the other requirements of this Protocol.
+
+4\. A movement certificate EUR.1 shall be issued by the customs authorities of a Member State of the Community or of Albania if the products concerned can be considered as products originating in the Community or in Albania and fulfil the other requirements of this Protocol.
+
+5\. The customs authorities issuing movement certificates EUR.1 shall take any steps necessary to verify the originating status of the products and the fulfilment of the other requirements of this Protocol. For this purpose, they shall have the right to call for any evidence and to carry out any inspection of the exporter’s accounts or any other check considered appropriate. They shall also ensure that the forms referred to in paragraph 2 are duly completed. In particular, they shall check whether the space reserved for the description of the products has been completed in such a manner as to exclude all possibility of fraudulent additions.
+
+6\. The date of issue of the movement certificate EUR.1 shall be indicated in box 11 of the certificate.
+
+7\. A movement certificate EUR.1 shall be issued by the customs authorities and made available to the exporter as soon as actual exportation has been effected or ensured.
+
+#### Article 18 — Movement certificates EUR.1 issued retrospectively
+
+1\. Notwithstanding Article 17(7), a movement certificate EUR.1 may exceptionally be issued after exportation of the products to which it relates if:
+
+(a) it was not issued at the time of exportation because of errors or involuntary omissions or special circumstances; or
+
+(b) it is demonstrated to the satisfaction of the customs authorities that a movement certificate EUR.1 was issued but was not accepted at importation for technical reasons.
+
+2\. For the implementation of paragraph 1, the exporter must indicate in his application the place and date of exportation of the products to which the movement certificate EUR.1 relates, and state the reasons for his request.
+
+3\. The customs authorities may issue a movement certificate EUR.1 retrospectively only after verifying that the information supplied in the exporter’s application agrees with that in the corresponding file.
+
+4\. Movement certificates EUR.1 issued retrospectively must be endorsed with one of the following phrases:
+
+ES ‘EXPEDIDO A POSTERIORI’
+
+CS ‘VYSTAVENO DODATEČNĚ’
+
+DA ‘UDSTEDT EFTERFØLGENDE’
+
+DE ‘NACHTRÄGLICH AUSGESTELLT’
+
+ET ‘TAGANTJÄRELE VÄLJA ANTUD’
+
+EL ‘ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ’
+
+EN ‘ISSUED RETROSPECTIVELY’
+
+FR ‘DÉLIVRÉ A POSTERIORI’
+
+IT ‘RILASCIATO A POSTERIORI’
+
+LV ‘IZSNIEGTS RETROSPEKTĪVI’
+
+LT ‘RETROSPEKTYVUSIS IŠDAVIMAS’
+
+HU ‘KIADVA VISSZAMENŐLEGES HATÁLLYAL’
+
+MT ‘MAĦRUĠ RETROSPETTIVAMENT’
+
+NL ‘AFGEGEVEN A POSTERIORI’
+
+PL ‘WYSTAWIONE RETROSPEKTYWNIE’
+
+PT ‘EMITIDO A POSTERIORI’
+
+SI ‘IZDANO NAKNADNO’
+
+SK ‘VYDANÉ DODATOČNE’
+
+FI ‘ANNETTU JÄLKIKÄTEEN’
+
+SV ‘UTFÄRDAT I EFTERHAND’
+
+AL ‘LESHUAR A-POSTERIORI’.
+
+5\. The endorsement referred to in paragraph 4 shall be inserted in the ‘Remarks’ box of the movement certificate EUR.1.
+
+#### Article 19 — Issue of a duplicate movement certificate EUR.1
+
+1\. In the event of theft, loss or destruction of a movement certificate EUR.1, the exporter may apply to the customs authorities which issued it for a duplicate made out on the basis of the export documents in their possession.
+
+2\. The duplicate issued in this way must be endorsed with one of the following words:
+
+ES ‘DUPLICADO’
+
+CS ‘DUPLIKÁT’
+
+DA ‘DUPLIKAT’
+
+DE ‘DUPLIKAT’
+
+ET ‘DUPLIKAAT’
+
+EL ‘ΑΝΤΙΓΡΑΦΟ’
+
+EN ‘DUPLICATE’
+
+FR ‘DUPLICATA’
+
+IT ‘DUPLICATO’
+
+LV ‘DUBLIKĀTS’
+
+LT ‘DUBLIKATAS’
+
+HU ‘MÁSODLAT’
+
+MT ‘DUPLIKAT’
+
+NL ‘DUPLICAAT’
+
+PL ‘DUPLIKAT’
+
+PT ‘SEGUNDA VIA’
+
+SI ‘DVOJNIK’
+
+SK ‘DUPLIKÁT’
+
+FI ‘KAKSOISKAPPALE’
+
+SV ‘DUPLIKAT’
+
+AL ‘DUBLIKATE’.
+
+3\. The endorsement referred to in paragraph 2 shall be inserted in the ‘Remarks’ box of the duplicate movement certificate EUR.1.
+
+4\. The duplicate, which must bear the date of issue of the original movement certificate EUR.1, shall take effect as from that date.
+
+#### Article 20 — Issue of movement certificates EUR.1 on the basis of a proof of origin issued or made out previously
+
+When originating products are placed under the control of a customs office in the Community or in Albania, it shall be possible to replace the original proof of origin by one or more movement certificates EUR.1 for the purpose of sending all or some of these products elsewhere within the Community or Albania. The replacement movement certificate(s) EUR.1 shall be issued by the customs office under whose control the products are placed.
+
+#### Article 21 — Conditions for making out an invoice declaration
+
+1\. An invoice declaration as referred to in Article 16(1)(b) may be made out:
+
+(a) by an approved exporter within the meaning of Article 22; or
+
+(b) by any exporter for any consignment consisting of one or more packages containing originating products whose total value does not exceed EUR 6 000.
+
+2\. An invoice declaration may be made out if the products concerned can be considered as products originating in the Community or in Albania and fulfil the other requirements of this Protocol.
+
+3\. The exporter making out an invoice declaration shall be prepared to submit at any time, at the request of the customs authorities of the exporting country, all appropriate documents proving the originating status of the products concerned as well as the fulfilment of the other requirements of this Protocol.
+
+4\. An invoice declaration shall be made out by the exporter by typing, stamping or printing on the invoice, the delivery note or another commercial document, the declaration, the text of which appears in Annex IV, using one of the linguistic versions set out in that Annex and in accordance with the provisions of the domestic law of the exporting country. If the declaration is handwritten, it shall be written in ink in printed characters.
+
+5\. Invoice declarations shall bear the original signature of the exporter in manuscript. However, an approved exporter within the meaning of Article 22 shall not be required to sign such declarations provided that he gives the customs authorities of the exporting country a written undertaking that he accepts full responsibility for any invoice declaration which identifies him as if it had been signed in manuscript by him.
+
+6\. An invoice declaration may be made out by the exporter when the products to which it relates are exported, or after exportation on condition that it is presented in the importing country no longer than two years after the importation of the products to which it relates.
+
+#### Article 22 — Approved exporter
+
+1\. The customs authorities of the exporting country may authorise any exporter, hereinafter referred to as ‘approved exporter’, who makes frequent shipments of products under the Agreement to make out invoice declarations irrespective of the value of the products concerned. An exporter seeking such authorisation must offer to the satisfaction of the customs authorities all guarantees necessary to verify the originating status of the products as well as the fulfilment of the other requirements of this Protocol.
+
+2\. The customs authorities may grant the status of approved exporter subject to any conditions which they consider appropriate.
+
+3\. The customs authorities shall grant to the approved exporter a customs authorisation number which shall appear on the invoice declaration.
+
+4\. The customs authorities shall monitor the use of the authorisation by the approved exporter.
+
+5\. The customs authorities may withdraw the authorisation at any time. They shall do so where the approved exporter no longer offers the guarantees referred to in paragraph 1, no longer fulfils the conditions referred to in paragraph 2 or otherwise makes an incorrect use of the authorisation.
+
+#### Article 23 — Validity of proof of origin
+
+1\. A proof of origin shall be valid for four months from the date of issue in the exporting country, and must be submitted within the said period to the customs authorities of the importing country.
+
+2\. Proofs of origin which are submitted to the customs authorities of the importing country after the final date for presentation specified in paragraph 1 may be accepted for the purpose of applying preferential treatment, where the failure to submit these documents by the final date set is due to exceptional circumstances.
+
+3\. In other cases of belated presentation, the customs authorities of the importing country may accept the proofs of origin where the products have been submitted before the said final date.
+
+#### Article 24 — Submission of proof of origin
+
+Proofs of origin shall be submitted to the customs authorities of the importing country in accordance with the procedures applicable in that country. The said authorities may require a translation of a proof of origin and may also require the import declaration to be accompanied by a statement from the importer to the effect that the products meet the conditions required for the implementation of the Agreement.
+
+#### Article 25 — Importation by instalments
+
+Where, at the request of the importer and on the conditions laid down by the customs authorities of the importing country, dismantled or non-assembled products within the meaning of General Rule 2(a) of the Harmonised System falling within Sections XVI and XVII or headings 7308 and 9406 of the Harmonised System are imported by instalments, a single proof of origin for such products shall be submitted to the customs authorities upon importation of the first instalment.
+
+#### Article 26 — Exemptions from proof of origin
+
+1\. Products sent as small packages from private persons to private persons or forming part of travellers’ personal luggage shall be admitted as originating products without requiring the submission of a proof of origin, provided that such products are not imported by way of trade and have been declared as meeting the requirements of this Protocol and where there is no doubt as to the veracity of such a declaration. In the case of products sent by post, this declaration can be made on the customs declaration CN22/CN23 or on a sheet of paper annexed to that document.
+
+2\. Imports which are occasional and consist solely of products for the personal use of the recipients or travellers or their families shall not be considered as imports by way of trade if it is evident from the nature and quantity of the products that no commercial purpose is in view.
+
+3\. Furthermore, the total value of these products shall not exceed EUR 500 in the case of small packages or EUR 1 200 in the case of products forming part of travellers’ personal luggage.
+
+#### Article 27 — Supporting documents
+
+The documents referred to in Articles 17(3) and 21(3) used for the purpose of proving that products covered by a movement certificate EUR.1 or an invoice declaration can be considered as products originating in the Community or in Albania and fulfil the other requirements of this Protocol may consist, inter alia, of the following:
+
+(a) direct evidence of the processes carried out by the exporter or supplier to obtain the goods concerned, contained for example in his accounts or internal bookkeeping;
+
+(b) documents proving the originating status of materials used, issued or made out in the Community or in Albania where these documents are used in accordance with domestic law;
+
+(c) documents proving the working or processing of materials in the Community or Albania, issued or made out in the Community or in Albania, where these documents are used in accordance with domestic law; or
+
+(d) movement certificates EUR.1 or invoice declarations proving the originating status of materials used, issued or made out in the Community or in Albania in accordance with this Protocol.
+
+#### Article 28 — Preservation of proof of origin and supporting documents
+
+1\. The exporter applying for the issue of a movement certificate EUR.1 shall keep for at least three years the documents referred to in Article 17(3).
+
+2\. The exporter making out an invoice declaration shall keep for at least three years a copy of this invoice declaration as well as the documents referred to in Article 21(3).
+
+3\. The customs authorities of the exporting country issuing a movement certificate EUR.1 shall keep for at least three years the application form referred to in Article 17(2).
+
+4\. The customs authorities of the importing country shall keep for at least three years the movement certificates EUR.1 and the invoice declarations submitted to them.
+
+#### Article 29 — Discrepancies and formal errors
+
+1\. The discovery of slight discrepancies between the statements made in the proof of origin and those made in the documents submitted to the customs office for the purpose of carrying out the formalities for importing the products shall not ipso facto render the proof of origin null and void if it is duly established that this document does correspond to the products submitted.
+
+2\. Obvious formal errors such as typing errors on a proof of origin should not cause this document to be rejected if these errors are not such as to create doubts concerning the correctness of the statements made in this document.
+
+#### Article 30 — Amounts expressed in euro
+
+1\. For the application of the provisions of Article 21(1)(b) and Article 26(3) in cases where products are invoiced in a currency other than the euro, amounts in the national currencies of the Member States of the Community and of Albania equivalent to the amounts expressed in euro shall be fixed annually by each of the countries concerned.
+
+2\. A consignment shall benefit from the provisions of Article 21(1)(b) or Article 26(3) by reference to the currency in which the invoice is drawn up, according to the amount fixed by the country concerned.
+
+3\. The amounts to be used in any given national currency shall be the equivalent in that currency of the amounts expressed in euro as at the first working day of October. The amounts shall be communicated to the Commission of the European Communities by 15 October and shall apply from 1 January the following year. The Commission of the European Communities shall notify all countries concerned of the relevant amounts.
+
+4\. A country may round up or down the amount resulting from the conversion into its national currency of an amount expressed in euro. The rounded-off amount may not differ from the amount resulting from the conversion by more than 5 %. A country may retain unchanged its national currency equivalent of an amount expressed in euro if, at the time of the annual adjustment provided for in paragraph 3, the conversion of that amount, prior to any rounding-off, results in an increase of less than 15 % in the national currency equivalent. The national currency equivalent may be retained unchanged if the conversion would result in a decrease in that equivalent value.
+
+5\. The amounts expressed in euro shall be reviewed by the Stabilisation and Association Committee at the request of the Community or of Albania. When carrying out this review, the Stabilisation and Association Committee shall consider the desirability of preserving the effects of the limits concerned in real terms. For this purpose, it may decide to modify the amounts expressed in euro.
+
+### TITLE VI — ARRANGEMENTS FOR ADMINISTRATIVE COOPERATION
+
+#### Article 31 — Mutual assistance
+
+1\. The customs authorities of the Member States of the Community and of Albania shall provide each other, through the Commission of the European Communities, with specimen impressions of stamps used in their customs offices for the issue of movement certificates EUR.1 and with the addresses of the customs authorities responsible for verifying those certificates and invoice declarations.
+
+2\. In order to ensure the proper application of this Protocol, the Community and Albania shall assist each other, through the competent customs administrations, in checking the authenticity of the movement certificates EUR.1 or the invoice declarations and the correctness of the information given in these documents.
+
+#### Article 32 — Verification of proofs of origin
+
+1\. Subsequent verifications of proofs of origin shall be carried out at random or whenever the customs authorities of the importing country have reasonable doubts as to the authenticity of such documents, the originating status of the products concerned or the fulfilment of the other requirements of this Protocol.
+
+2\. For the purposes of implementing the provisions of paragraph 1, the customs authorities of the importing country shall return the movement certificate EUR.1 and the invoice, if it has been submitted, the invoice declaration, or a copy of these documents, to the customs authorities of the exporting country giving, where appropriate, the reasons for the enquiry. Any documents and information obtained suggesting that the information given on the proof of origin is incorrect shall be forwarded in support of the request for verification.
+
+3\. The verification shall be carried out by the customs authorities of the exporting country. For this purpose, they shall have the right to call for any evidence and to carry out any inspection of the exporter’s accounts or any other check considered appropriate.
+
+4\. If the customs authorities of the importing country decide to suspend the granting of preferential treatment to the products concerned while awaiting the results of the verification, release of the products shall be offered to the importer subject to any precautionary measures judged necessary.
+
+5\. The customs authorities requesting the verification shall be informed of the results of this verification as soon as possible. These results must indicate clearly whether the documents are authentic and whether the products concerned can be considered as products originating in the Community or Albania and fulfil the other requirements of this Protocol.
+
+6\. If in cases of reasonable doubt there is no reply within ten months of the date of the verification request or if the reply does not contain sufficient information to determine the authenticity of the document in question or the real origin of the products, the requesting customs authorities shall, except in exceptional circumstances, refuse entitlement to the preferences.
+
+#### Article 33 — Dispute settlement
+
+Where disputes arise in relation to the verification procedures of Article 32 which cannot be settled between the customs authorities requesting a verification and the customs authorities responsible for carrying out this verification or where they raise a question as to the interpretation of this Protocol, they shall be submitted to the Stabilisation and Association Council.
+
+In all cases the settlement of disputes between the importer and the customs authorities of the importing country shall be under the legislation of the said country.
+
+#### Article 34 — Penalties
+
+Penalties shall be imposed on any person who draws up, or causes to be drawn up, a document which contains incorrect information for the purpose of obtaining a preferential treatment for products.
+
+#### Article 35 — Free zones
+
+1\. The Community and Albania shall take all necessary steps to ensure that products traded under cover of a proof of origin which in the course of transport use a free zone situated in their territory are not substituted by other goods and do not undergo handling other than normal operations designed to prevent their deterioration.
+
+2\. By means of an exemption to the provisions contained in paragraph 1, when products originating in the Community or in Albania are imported into a free zone under cover of a proof of origin and undergo treatment or processing, the authorities concerned shall issue a new movement certificate EUR.1 at the exporter’s request if the treatment or processing undergone is in conformity with the provisions of this Protocol.
+
+### TITLE VII — CEUTA AND MELILLA
+
+#### Article 36 — Application of the Protocol
+
+1\. The term ‘Community’ used in Article 2 does not cover Ceuta and Melilla.
+
+2\. Products originating in Albania, when imported into Ceuta or Melilla, shall enjoy in all respects the same customs regime as that which is applied to products originating in the customs territory of the Community under Protocol 2 of the Act of Accession of the Kingdom of Spain and the Portuguese Republic to the European Communities. Albania shall grant to imports of products covered by the Agreement and originating in Ceuta and Melilla the same customs regime as that which is granted to products imported from and originating in the Community.
+
+3\. For the purpose of the application of paragraph 2 concerning products originating in Ceuta and Melilla, this Protocol shall apply mutatis mutandis subject to the special conditions set out in Article 37.
+
+#### Article 37 — Special conditions
+
+1\. Providing they have been transported directly in accordance with the provisions of Article 13, the following shall be considered as:
+
+1\. products originating in Ceuta and Melilla:
+
+(a) products wholly obtained in Ceuta and Melilla;
+
+(b) products obtained in Ceuta and Melilla in the manufacture of which products other than those referred to in (a) are used, provided that:
+
+(i) the said products have undergone sufficient working or processing within the meaning of Article 6; or
+
+(ii) that those products are originating in Albania or in the Community, provided that they have been submitted to working or processing which goes beyond the operations referred to in Article 7;
+
+2\. products originating in Albania:
+
+(a) products wholly obtained in Albania;
+
+(b) products obtained in Albania in the manufacture of which products other than those referred to in (a) are used, provided that:
+
+(i) the said products have undergone sufficient working or processing within the meaning of Article 6; or
+
+(ii) that those products are originating in Ceuta and Melilla or in the Community, provided that they have been submitted to working or processing which goes beyond the operations referred to in Article 7.
+
+2\. Ceuta and Melilla shall be considered as a single territory.
+
+3\. The exporter or his authorised representative shall enter ‘Albania’ and ‘Ceuta and Melilla’ in box 2 of movement certificates EUR.1 or on invoice declarations. In addition, in the case of products originating in Ceuta and Melilla, this shall be indicated in box 4 of movement certificates EUR.1 or on invoice declarations.
+
+4\. The Spanish customs authorities shall be responsible for the application of this Protocol in Ceuta and Melilla.
+
+### TITLE VIII — FINAL PROVISIONS
+
+#### Article 38 — Amendments to the Protocol
+
+The Stabilisation and Association Council may decide to amend the provisions of this Protocol.
+
+## ANNEX I
+
+**Introductory notes to the list in Annex II**
+
+Note 1
+
+The list sets out the conditions required for all products to be considered as sufficiently worked or processed within the meaning of Article 6 of the Protocol.
+
+Note 2
+
+2.1. The first two columns in the list describe the product obtained. The first column gives the heading number or chapter number used in the Harmonised System and the second column gives the description of goods used in that system for that heading or chapter. For each entry in the first two columns, a rule is specified in column 3 or 4. Where, in some cases, the entry in the first column is preceded by an ‘ex’, this signifies that the rules in column 3 or 4 apply only to the part of that heading as described in column 2.
+
+2.2. Where several heading numbers are grouped together in column 1 or a chapter number is given and the description of products in column 2 is therefore given in general terms, the adjacent rules in column 3 or 4 apply to all products which, under the Harmonised System, are classified in headings of the chapter or in any of the headings grouped together in column 1.
+
+2.3. Where there are different rules in the list applying to different products within a heading, each indent contains the description of that part of the heading covered by the adjacent rules in column 3 or 4.
+
+2.4. Where, for an entry in the first two columns, a rule is specified in both columns 3 and 4, the exporter may opt, as an alternative, to apply either the rule set out in column 3 or that set out in column 4. If no origin rule is given in column 4, the rule set out in column 3 is to be applied.
+
+Note 3
+
+3.1. The provisions of Article 6 of the Protocol, concerning products having acquired originating status which are used in the manufacture of other products, shall apply, regardless of whether this status has been acquired inside the factory where these products are used or in another factory in the Community or in Albania.
+
+Example:
+
+An engine of heading 8407 , for which the rule states that the value of the non-originating materials which may be incorporated may not exceed 40 % of the ex-works price, is made from ‘other alloy steel roughly shaped by forging’ of heading ex 7224 .
+
+If this forging has been forged in the Community from a non-originating ingot, it has already acquired originating status by virtue of the rule for heading ex 7224 in the list. The forging can then count as originating in the value-calculation for the engine, regardless of whether it was produced in the same factory or in another factory in the Community. The value of the non-originating ingot is thus not taken into account when adding up the value of the non-originating materials used.
+
+3.2. The rule in the list represents the minimum amount of working or processing required, and the carrying-out of more working or processing also confers originating status; conversely, the carrying-out of less working or processing cannot confer originating status. Thus, if a rule provides that non-originating material, at a certain level of manufacture, may be used, the use of such material at an earlier stage of manufacture is allowed, and the use of such material at a later stage is not.
+
+3.3. Without prejudice to note 3.2, where a rule uses the expression ‘Manufacture from materials of any heading’, then materials of any heading(s) (even materials of the same description and heading as the product) may be used, subject, however, to any specific limitations which may also be contained in the rule.
+
+However, the expression ‘Manufacture from materials of any heading, including other materials of heading …’ or ‘Manufacture from materials of any heading, including other materials of the same heading as the product’ means that materials of any heading(s) may be used, except those of the same description as the product as given in column 2 of the list.
+
+3.4. When a rule in the list specifies that a product may be manufactured from more than one material, this means that one or more materials may be used. It does not require that all be used.
+
+Example:
+
+The rule for fabrics of headings 5208 to 5212 provides that natural fibres may be used and that chemical materials, among other materials, may also be used. This does not mean that both have to be used; it is possible to use one or the other, or both.
+
+3.5. Where a rule in the list specifies that a product must be manufactured from a particular material, the condition obviously does not prevent the use of other materials which, because of their inherent nature, cannot satisfy the rule. (See also note 6.2 below in relation to textiles).
+
+Example:
+
+The rule for prepared foods of heading 1904 , which specifically excludes the use of cereals and their derivatives, does not prevent the use of mineral salts, chemicals and other additives which are not products from cereals.
+
+However, this does not apply to products which, although they cannot be manufactured from the particular materials specified in the list, can be produced from a material of the same nature at an earlier stage of manufacture.
+
+Example:
+
+In the case of an article of apparel of ex Chapter 62 made from non-woven materials, if the use of only non-originating yarn is allowed for this class of article, it is not possible to start from non-woven cloth — even if non-woven cloths cannot normally be made from yarn. In such cases, the starting material would normally be at the stage before yarn — that is, the fibre stage.
+
+3.6. Where, in a rule in the list, two percentages are given for the maximum value of non-originating materials that can be used, then these percentages may not be added together. In other words, the maximum value of all the non-originating materials used may never exceed the higher of the percentages given. Furthermore, the individual percentages must not be exceeded, in relation to the particular materials to which they apply.
+
+Note 4
+
+4.1. The term ‘natural fibres’ is used in the list to refer to fibres other than artificial or synthetic fibres. It is restricted to the stages before spinning takes place, including waste and, unless otherwise specified, includes fibres which have been carded, combed or otherwise processed, but not spun.
+
+4.2. The term ‘natural fibres’ includes horsehair of heading 0503 , silk of headings 5002 and 5003 , as well as wool-fibres and fine or coarse animal hair of headings 5101 to 5105 , cotton fibres of headings 5201 to 5203 , and other vegetable fibres of headings 5301 to 5305 .
+
+4.3. The terms ‘textile pulp’, ‘chemical materials’ and ‘papermaking materials’ are used in the list to describe the materials, not classified in Chapters 50 to 63, which can be used to manufacture artificial, synthetic or paper fibres or yarns.
+
+4.4. The term ‘man-made staple fibres’ is used in the list to refer to synthetic or artificial filament tow, staple fibres or waste, of headings 5501 to 5507 .
+
+Note 5
+
+5.1. Where, for a given product in the list, reference is made to this note, the conditions set out in column 3 shall not be applied to any basic textile materials used in the manufacture of this product and which, taken together, represent 10 % or less of the total weight of all the basic textile materials used. (See also notes 5.3 and 5.4 below.)
+
+5.2. However, the tolerance mentioned in note 5.1 may be applied only to mixed products which have been made from two or more basic textile materials.
+
+The following are the basic textile materials:
+
+— silk,
+
+— wool,
+
+— coarse animal hair,
+
+— fine animal hair,
+
+— horsehair,
+
+— cotton,
+
+— papermaking materials and paper,
+
+— flax,
+
+— true hemp,
+
+— jute and other textile bast fibres,
+
+— sisal and other textile fibres of the genus Agave,
+
+— coconut, abaca, ramie and other vegetable textile fibres,
+
+— synthetic man-made filaments,
+
+— artificial man-made filaments,
+
+— current-conducting filaments,
+
+— synthetic man-made staple fibres of polypropylene,
+
+— synthetic man-made staple fibres of polyester,
+
+— synthetic man-made staple fibres of polyamide,
+
+— synthetic man-made staple fibres of polyacrylonitrile,
+
+— synthetic man-made staple fibres of polyimide,
+
+— synthetic man-made staple fibres of polytetrafluoroethylene,
+
+— synthetic man-made staple fibres of polyphenylene sulphide,
+
+— synthetic man-made staple fibres of polyvinyl chloride,
+
+— other synthetic man-made staple fibres,
+
+— artificial man-made staple fibres of viscose,
+
+— other artificial man-made staple fibres,
+
+— yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped,
+
+— yarn made of polyurethane segmented with flexible segments of polyester, whether or not gimped,
+
+— products of heading 5605 (metallised yarn) incorporating strip consisting of a core of aluminium foil or of a core of plastic film whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film,
+
+— other products of heading 5605 .
+
+Example:
+
+A yarn, of heading 5205 , made from cotton fibres of heading 5203 and synthetic staple fibres of heading 5506 , is a mixed yarn. Therefore, non-originating synthetic staple fibres which do not satisfy the origin rules (which require manufacture from chemical materials or textile pulp) may be used, provided that their total weight does not exceed 10 % of the weight of the yarn.
+
+Example:
+
+A woollen fabric, of heading 5112 , made from woollen yarn of heading 5107 and synthetic yarn of staple fibres of heading 5509 , is a mixed fabric. Therefore, synthetic yarn which does not satisfy the origin rules (which require manufacture from chemical materials or textile pulp), or woollen yarn which does not satisfy the origin rules (which require manufacture from natural fibres, not carded or combed or otherwise prepared for spinning), or a combination of the two, may be used, provided that their total weight does not exceed 10 % of the weight of the fabric.
+
+Example:
+
+Tufted textile fabric, of heading 5802 , made from cotton yarn of heading 5205 and cotton fabric of heading 5210 , is a only mixed product if the cotton fabric is itself a mixed fabric made from yarns classified in two separate headings, or if the cotton yarns used are themselves mixtures.
+
+Example:
+
+If the tufted textile fabric concerned had been made from cotton yarn of heading 5205 and synthetic fabric of heading 5407 , then, obviously, the yarns used are two separate basic textile materials and the tufted textile fabric is, accordingly, a mixed product.
+
+5.3. In the case of products incorporating ‘yarn made of polyurethane segmented with flexible segments of polyether, whether or not gimped’, this tolerance is 20 % in respect of this yarn.
+
+5.4. In the case of products incorporating ‘strip consisting of a core of aluminium foil or of a core of plastic film whether or not coated with aluminium powder, of a width not exceeding 5 mm, sandwiched by means of a transparent or coloured adhesive between two layers of plastic film’, this tolerance is 30 % in respect of this strip.
+
+Note 6
+
+6.1. Where, in the list, reference is made to this note, textile materials (with the exception of linings and interlinings), which do not satisfy the rule set out in the list in column 3 for the made-up product concerned, may be used, provided that they are classified in a heading other than that of the product and that their value does not exceed 8 % of the ex-works price of the product.
+
+6.2. Without prejudice to note 6.3, materials, which are not classified within Chapters 50 to 63, may be used freely in the manufacture of textile products, whether or not they contain textiles.
+
+Example:
+
+If a rule in the list provides that, for a particular textile item (such as trousers), yarn must be used, this does not prevent the use of metal items, such as buttons, because buttons are not classified within Chapters 50 to 63. For the same reason, it does not prevent the use of slide-fasteners, even though slide-fasteners normally contain textiles.
+
+6.3. Where a percentage-rule applies, the value of materials which are not classified within Chapters 50 to 63 must be taken into account when calculating the value of the non-originating materials incorporated.
+
+Note 7
+
+7.1. For the purposes of headings ex 2707 , 2713 to 2715 , ex 2901 , ex 2902 and ex 3403 , the ‘specific processes’ are the following:
+
+(a) vacuum-distillation;
+
+(b) redistillation by a very thorough fractionation process;
+
+(c) cracking;
+
+(d) reforming;
+
+(e) extraction by means of selective solvents;
+
+(f) the process comprising all of the following operations: processing with concentrated sulphuric acid, oleum or sulphuric anhydride; neutralisation with alkaline agents; decolourisation and purification with naturally active earth, activated earth, activated charcoal or bauxite;
+
+(g) polymerisation;
+
+(h) alkylation;
+
+(i) isomerisation.
+
+7.2. For the purposes of headings 2710 , 2711 and 2712 , the ‘specific processes’ are the following:
+
+(a) vacuum-distillation;
+
+(b) redistillation by a very thorough fractionation process;
+
+(c) cracking;
+
+(d) reforming;
+
+(e) extraction by means of selective solvents;
+
+(f) the process comprising all of the following operations: processing with concentrated sulphuric acid, oleum or sulphuric anhydride; neutralisation with alkaline agents; decolourisation and purification with naturally active earth, activated earth, activated charcoal or bauxite;
+
+(g) polymerisation;
+
+(h) alkylation;
+
+(i) isomerisation;
+
+(j) in respect of heavy oils of heading ex 2710 only, desulphurisation with hydrogen, resulting in a reduction of at least 85 % of the sulphur-content of the products processed (ASTM D 1266-59 T method);
+
+(k) in respect of products of heading 2710 only, deparaffining by a process other than filtering;
+
+(l) in respect of heavy oils of heading ex 2710 only, treatment with hydrogen, at a pressure of more than 20 bar and a temperature of more than 250 °C, with the use of a catalyst, other than to effect desulphurisation, when the hydrogen constitutes an active element in a chemical reaction. The further treatment, with hydrogen, of lubricating oils of heading ex 2710 (e.g. hydrofinishing or decolourisation), in order, more especially, to improve colour or stability shall not, however, be deemed to be a specific process;
+
+(m) in respect of fuel oils of heading ex 2710 only, atmospheric distillation, on condition that less than 30 % of these products distils, by volume, including losses, at 300 °C, by the ASTM D 86 method;
+
+(n) in respect of heavy oils other than gas oils and fuel oils of heading ex 2710 only, treatment by means of a high-frequency electrical brush discharge;
+
+(o) in respect of crude products (other than petroleum jelly, ozokerite, lignite wax or peat wax, paraffin wax containing by weight less than 0,75 % of oil) of heading ex 2712 only, de-oiling by fractional crystallisation.
+
+7.3. For the purposes of headings ex 2707 , 2713 to 2715 , ex 2901 , ex 2902 and ex 3403 , simple operations, such as cleaning, decanting, desalting, water-separation, filtering, colouring, marking, obtaining a sulphur-content as a result of mixing products with different sulphur contents, or any combination of these operations or like operations, do not confer origin.
+
+## ANNEX II
+
+**List of working or processing required to be carried out on non-originating materials in order that the product manufactured can obtain originating status**
+
+The products mentioned in the list may not be all covered by the Agreement. It is, therefore, necessary to consult the other parts of the Agreement.
+
+<table>
+<tbody><tr><td>HS heading</td><td>Description of product</td><td colspan="2">Working or processing, carried out on non-originating materials, which confers originating status</td></tr>
+<tr><td>(1)</td><td>(2)</td><td colspan="2">(3) or (4)</td></tr>
+<tr><td>Chapter 1</td><td>Live animals</td><td>All the animals of Chapter 1 shall be wholly obtained</td><td></td></tr>
+<tr><td>Chapter 2</td><td>Meat and edible meat offal</td><td>Manufacture in which all the materials of Chapters 1 and 2 used are wholly obtained</td><td></td></tr>
+<tr><td>Chapter 3</td><td>Fish and crustaceans, molluscs and other aquatic invertebrates</td><td>Manufacture in which all the materials of Chapter 3 used are wholly obtained</td><td></td></tr>
+<tr><td>ex Chapter 4</td><td>Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included; except for:</td><td>Manufacture in which all the materials of Chapter 4 used are wholly obtained</td><td></td></tr>
+<tr><td>0403 </td><td>Buttermilk, curdled milk and cream, yoghurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the materials of Chapter 4 used are wholly obtained,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the fruit juice (except that of pineapple, lime or grapefruit) of heading 2009 used is originating, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 5</td><td>Products of animal origin, not elsewhere specified or included; except for:</td><td>Manufacture in which all the materials of Chapter 5 used are wholly obtained</td><td></td></tr>
+<tr><td>ex ex 0502 </td><td>Prepared pigs', hogs' or boars' bristles and hair</td><td>Cleaning, disinfecting, sorting and straightening of bristles and hair</td><td></td></tr>
+<tr><td>Chapter 6</td><td>Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the materials of Chapter 6 used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>Chapter 7</td><td>Edible vegetables and certain roots and tubers</td><td>Manufacture in which all the materials of Chapter 7 used are wholly obtained</td><td></td></tr>
+<tr><td>Chapter 8</td><td>Edible fruit and nuts; peel of citrus fruits or melons</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the fruit and nuts used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the materials of Chapter 17 used does not exceed 30 % of the value of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 9</td><td>Coffee, tea, maté and spices; except for:</td><td>Manufacture in which all the materials of Chapter 9 used are wholly obtained</td><td></td></tr>
+<tr><td>0901 </td><td>Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion</td><td>Manufacture from materials of any heading</td><td></td></tr>
+<tr><td>0902 </td><td>Tea, whether or not flavoured</td><td>Manufacture from materials of any heading</td><td></td></tr>
+<tr><td>ex ex 0910 </td><td>Mixtures of spices</td><td>Manufacture from materials of any heading</td><td></td></tr>
+<tr><td>Chapter 10</td><td>Cereals</td><td>Manufacture in which all the materials of Chapter 10 used are wholly obtained</td><td></td></tr>
+<tr><td>ex Chapter 11</td><td>Products of the milling industry; malt; starches; inulin; wheat gluten; except for:</td><td>Manufacture in which all the cereals, edible vegetables, roots and tubers of heading 0714 or fruit used are wholly obtained</td><td></td></tr>
+<tr><td>ex ex 1106 </td><td>Flour, meal and powder of the dried, shelled leguminous vegetables of heading 0713 </td><td>Drying and milling of leguminous vegetables of heading 0708 </td><td></td></tr>
+<tr><td>Chapter 12</td><td>Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder</td><td>Manufacture in which all the materials of Chapter 12 used are wholly obtained</td><td></td></tr>
+<tr><td>1301 </td><td>Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams)</td><td>Manufacture in which the value of all the materials of heading 1301 used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">1302 </td><td>Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products:</td><td></td><td></td></tr>
+<tr><td>– Mucilages and thickeners, modified, derived from vegetable products</td><td>Manufacture from non-modified mucilages and thickeners</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 14</td><td>Vegetable plaiting materials; vegetable products not elsewhere specified or included</td><td>Manufacture in which all the materials of Chapter 14 used are wholly obtained</td><td></td></tr>
+<tr><td>ex Chapter 15</td><td>Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="3">1501 </td><td>Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503 :</td><td></td><td></td></tr>
+<tr><td>– Fats from bones or waste</td><td>Manufacture from materials of any heading, except those of heading 0203 , 0206 or 0207 or bones of heading 0506 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from meat or edible offal of swine of heading 0203 or 0206 or of meat and edible offal of poultry of heading 0207 </td><td></td></tr>
+<tr><td rowspan="3">1502 </td><td>Fats of bovine animals, sheep or goats, other than those of heading 1503 </td><td></td><td></td></tr>
+<tr><td>– Fats from bones or waste</td><td>Manufacture from materials of any heading, except those of heading 0201 , 0202 , 0204 or 0206 or bones of heading 0506 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which all the materials of Chapter 2 used are wholly obtained</td><td></td></tr>
+<tr><td rowspan="3">1504 </td><td>Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified:</td><td></td><td></td></tr>
+<tr><td>– Solid fractions</td><td>Manufacture from materials of any heading, including other materials of heading 1504 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which all the materials of Chapters 2 and 3 used are wholly obtained</td><td></td></tr>
+<tr><td>ex ex 1505 </td><td>Refined lanolin</td><td>Manufacture from crude wool grease of heading 1505 </td><td></td></tr>
+<tr><td rowspan="3">1506 </td><td>Other animal fats and oils and their fractions, whether or not refined, but not chemically modified:</td><td></td><td></td></tr>
+<tr><td>– Solid fractions</td><td>Manufacture from materials of any heading, including other materials of heading 1506 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which all the materials of Chapter 2 used are wholly obtained</td><td></td></tr>
+<tr><td rowspan="4">1507 to 1515 </td><td>Vegetable oils and their fractions:</td><td></td><td></td></tr>
+<tr><td>– Soya, ground nut, palm, copra, palm kernel, babassu, tung and oiticica oil, myrtle wax and Japan wax, fractions of jojoba oil and oils for technical or industrial uses other than the manufacture of foodstuffs for human consumption</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>– Solid fractions, except for that of jojoba oil</td><td>Manufacture from other materials of headings 1507 to 1515 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which all the vegetable materials used are wholly obtained</td><td></td></tr>
+<tr><td>1516 </td><td>Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the materials of Chapter 2 used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the vegetable materials used are wholly obtained. However, materials of headings 1507 , 1508 , 1511 and 1513 may be used</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>1517 </td><td>Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats or oils or their fractions of heading 1516 </td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the materials of Chapters 2 and 4 used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the vegetable materials used are wholly obtained. However, materials of headings 1507 , 1508 , 1511 and 1513 may be used</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>Chapter 16</td><td>Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from animals of Chapter 1, and/or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the materials of Chapter 3 used are wholly obtained</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 17</td><td>Sugars and sugar confectionery; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 1701 </td><td>Cane or beet sugar and chemically pure sucrose, in solid form, containing added flavouring or colouring matter</td><td>Manufacture in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="4">1702 </td><td>Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel:</td><td></td><td></td></tr>
+<tr><td>– Chemically pure maltose and fructose</td><td>Manufacture from materials of any heading, including other materials of heading 1702 </td><td></td></tr>
+<tr><td>– Other sugars in solid form, containing added flavouring or colouring matter</td><td>Manufacture in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which all the materials used are originating</td><td></td></tr>
+<tr><td>ex ex 1703 </td><td>Molasses resulting from the extraction or refining of sugar, containing added flavouring or colouring matter</td><td>Manufacture in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>1704 </td><td>Sugar confectionery (including white chocolate), not containing cocoa</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>Chapter 18</td><td>Cocoa and cocoa preparations</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">1901 </td><td>Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404 , not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included:</td><td></td><td></td></tr>
+<tr><td>– Malt extract</td><td>Manufacture from cereals of Chapter 10</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">1902 </td><td>Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared:</td><td></td><td></td></tr>
+<tr><td>– Containing 20 % or less by weight of meat, meat offal, fish, crustaceans or molluscs</td><td>Manufacture in which all the cereals and derivatives (except durum wheat and its derivatives) used are wholly obtained</td><td></td></tr>
+<tr><td>– Containing more than 20 % by weight of meat, meat offal, fish, crustaceans or molluscs</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the cereals and their derivatives (except durum wheat and its derivatives) used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the materials of Chapters 2 and 3 used are wholly obtained</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>1903 </td><td>Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms</td><td>Manufacture from materials of any heading, except potato starch of heading 1108 </td><td></td></tr>
+<tr><td>1904 </td><td>Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), pre-cooked or otherwise prepared, not elsewhere specified or included</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except those of heading 1806 ,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the cereals and flour (except durum wheat and Zea indurata maize, and their derivatives) used are wholly obtained, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>1905 </td><td>Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products</td><td>Manufacture from materials of any heading, except those of Chapter 11</td><td></td></tr>
+<tr><td>ex Chapter 20</td><td>Preparations of vegetables, fruit, nuts or other parts of plants; except for:</td><td>Manufacture in which all the fruit, nuts or vegetables used are wholly obtained</td><td></td></tr>
+<tr><td>ex ex 2001 </td><td>Yams, sweet potatoes and similar edible parts of plants containing 5 % or more by weight of starch, prepared or preserved by vinegar or acetic acid</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 2004 and ex ex 2005 </td><td>Potatoes in the form of flour, meal or flakes, prepared or preserved otherwise than by vinegar or acetic acid</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>2006 </td><td>Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised)</td><td>Manufacture in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>2007 </td><td>Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">ex ex 2008 </td><td>– Nuts, not containing added sugar or spirits</td><td>Manufacture in which the value of all the originating nuts and oil seeds of headings 0801 , 0802 and 1202 to 1207 used exceeds 60 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Peanut butter; mixtures based on cereals; palm hearts; maize (corn)</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>– Other except for fruit and nuts cooked otherwise than by steaming or boiling in water, not containing added sugar, frozen,</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>2009 </td><td>Fruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 21</td><td>Miscellaneous edible preparations; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>2101 </td><td>Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the chicory used is wholly obtained</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">2103 </td><td>Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard:</td><td></td><td></td></tr>
+<tr><td>– Sauces and preparations therefor; mixed condiments and mixed seasonings</td><td>Manufacture from materials of any heading, except that of the product. However, mustard flour or meal or prepared mustard may be used</td><td></td></tr>
+<tr><td>– Mustard flour and meal and prepared mustard</td><td>Manufacture from materials of any heading</td><td></td></tr>
+<tr><td>ex ex 2104 </td><td>Soups and broths and preparations therefor</td><td>Manufacture from materials of any heading, except prepared or preserved vegetables of headings 2002 to 2005 </td><td></td></tr>
+<tr><td>2106 </td><td>Food preparations not elsewhere specified or included</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 22</td><td>Beverages, spirits and vinegar; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the grapes or materials derived from grapes used are wholly obtained</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>2202 </td><td>Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not including fruit or vegetable juices of heading 2009 </td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials of Chapter 17 used does not exceed 30 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the fruit juice used (except that of pineapple, lime or grapefruit) is originating</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>2207 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher; ethyl alcohol and other spirits, denatured, of any strength</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except heading 2207 or 2208 , and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the grapes or materials derived from grapes used are wholly obtained or, if all the other materials used are already originating, arrack may be used up to a limit of 5 % by volume,</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>2208 </td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except heading 2207 or 2208 , and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which all the grapes or materials derived from grapes used are wholly obtained or, if all the other materials used are already originating, arrack may be used up to a limit of 5 % by volume</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 23</td><td>Residues and waste from the food industries; prepared animal fodder; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 2301 </td><td>Whale meal; flours, meals and pellets of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption</td><td>Manufacture in which all the materials of Chapters 2 and 3 used are wholly obtained</td><td></td></tr>
+<tr><td>ex ex 2303 </td><td>Residues from the manufacture of starch from maize (excluding concentrated steeping liquors), of a protein content, calculated on the dry product, exceeding 40 % by weight</td><td>Manufacture in which all the maize used is wholly obtained</td><td></td></tr>
+<tr><td>ex ex 2306 </td><td>Oil cake and other solid residues resulting from the extraction of olive oil, containing more than 3 % of olive oil</td><td>Manufacture in which all the olives used are wholly obtained</td><td></td></tr>
+<tr><td>2309 </td><td>Preparations of a kind used in animal feeding</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>all the cereals, sugar or molasses, meat or milk used are originating, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the materials of Chapter 3 used are wholly obtained</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 24</td><td>Tobacco and manufactured tobacco substitutes; except for:</td><td>Manufacture in which all the materials of Chapter 24 used are wholly obtained</td><td></td></tr>
+<tr><td>2402 </td><td>Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes</td><td>Manufacture in which at least 70 % by weight of the unmanufactured tobacco or tobacco refuse of heading 2401 used is originating</td><td></td></tr>
+<tr><td>ex ex 2403 </td><td>Smoking tobacco</td><td>Manufacture in which at least 70 % by weight of the unmanufactured tobacco or tobacco refuse of heading 2401 used is originating</td><td></td></tr>
+<tr><td>ex Chapter 25</td><td>Salt; sulphur; earths and stone; plastering materials, lime and cement; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 2504 </td><td>Natural crystalline graphite, with enriched carbon content, purified and ground</td><td>Enriching of the carbon content, purifying and grinding of crude crystalline graphite</td><td></td></tr>
+<tr><td>ex ex 2515 </td><td>Marble, merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape, of a thickness not exceeding 25 cm</td><td>Cutting, by sawing or otherwise, of marble (even if already sawn) of a thickness exceeding 25 cm</td><td></td></tr>
+<tr><td>ex ex 2516 </td><td>Granite, porphyry, basalt, sandstone and other monumental or building stone, merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape, of a thickness not exceeding 25 cm</td><td>Cutting, by sawing or otherwise, of stone (even if already sawn) of a thickness exceeding 25 cm</td><td></td></tr>
+<tr><td>ex ex 2518 </td><td>Calcined dolomite</td><td>Calcination of dolomite not calcined</td><td></td></tr>
+<tr><td>ex ex 2519 </td><td>Crushed natural magnesium carbonate (magnesite), in hermetically sealed containers, and magnesium oxide, whether or not pure, other than fused magnesia or dead-burned (sintered) magnesia</td><td>Manufacture from materials of any heading, except that of the product. However, natural magnesium carbonate (magnesite) may be used</td><td></td></tr>
+<tr><td>ex ex 2520 </td><td>Plasters specially prepared for dentistry</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 2524 </td><td>Natural asbestos fibres</td><td>Manufacture from asbestos concentrate</td><td></td></tr>
+<tr><td>ex ex 2525 </td><td>Mica powder</td><td>Grinding of mica or mica waste</td><td></td></tr>
+<tr><td>ex ex 2530 </td><td>Earth colours, calcined or powdered</td><td>Calcination or grinding of earth colours</td><td></td></tr>
+<tr><td>Chapter 26</td><td>Ores, slag and ash</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 27</td><td>Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 2707 </td><td>Oils in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents, being oils similar to mineral oils obtained by distillation of high temperature coal tar, of which more than 65 % by volume distils at a temperature of up to 250 °C (including mixtures of petroleum spirit and benzole), for use as power or heating fuels</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex ex 2709 </td><td>Crude oils obtained from bituminous minerals</td><td>Destructive distillation of bituminous materials</td><td></td></tr>
+<tr><td>2710 </td><td>Petroleum oils and oils obtained from bituminous materials, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous materials, these oils being the basic constituents of the preparations; waste oils</td><td>Operations of refining and/or one or more specific process(es) (2) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>2711 </td><td>Petroleum gases and other gaseous hydrocarbons</td><td>Operations of refining and/or one or more specific process(es) (2) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>2712 </td><td>Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured</td><td>Operations of refining and/or one or more specific process(es) (2) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>2713 </td><td>Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous materials</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>2714 </td><td>Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>2715 </td><td>Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 28</td><td>Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 2805 </td><td>‘Mischmetall’</td><td>Manufacture by electrolytic or thermal treatment in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 2811 </td><td>Sulphur trioxide</td><td>Manufacture from sulphur dioxide</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 2833 </td><td>Aluminium sulphate</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 2840 </td><td>Sodium perborate</td><td>Manufacture from disodium tetraborate pentahydrate</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 29</td><td>Organic chemicals; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 2901 </td><td>Acyclic hydrocarbons for use as power or heating fuels</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex ex 2902 </td><td>Cyclanes and cyclenes (other than azulenes), benzene, toluene, xylenes, for use as power or heating fuels</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex ex 2905 </td><td>Metal alcoholates of alcohols of this heading and of ethanol</td><td>Manufacture from materials of any heading, including other materials of heading 2905 . However, metal alcoholates of this heading may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>2915 </td><td>Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives</td><td>Manufacture from materials of any heading. However, the value of all the materials of headings 2915 and 2916 used shall not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="2">ex ex 2932 </td><td>– Internal ethers and their halogenated, sulphonated, nitrated or nitrosated derivatives</td><td>Manufacture from materials of any heading. However, the value of all the materials of heading 2909 used shall not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>– Cyclic acetals and internal hemiacetals and their halogenated, sulphonated, nitrated or nitrosated derivatives</td><td>Manufacture from materials of any heading</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>2933 </td><td>Heterocyclic compounds with nitrogen hetero-atom(s) only</td><td>Manufacture from materials of any heading. However, the value of all the materials of headings 2932 and 2933 used shall not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>2934 </td><td>Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds</td><td>Manufacture from materials of any heading. However, the value of all the materials of headings 2932 , 2933 and 2934 used shall not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 2939 </td><td>Concentrates of poppy straw containing not less than 50 % by weight of alkaloids</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 30</td><td>Pharmaceutical products; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="8">3002 </td><td>Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and modified immunological products, whether or not obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products:</td><td></td><td></td></tr>
+<tr><td>– Products consisting of two or more constituents which have been mixed together for therapeutic or prophylactic uses or unmixed products for these uses, put up in measured doses or in forms or packings for retail sale</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td></td><td></td></tr>
+<tr><td>– Human blood</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Animal blood prepared for therapeutic or prophylactic uses</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Blood fractions other than antisera, haemoglobin, blood globulins and serum globulins</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Haemoglobin, blood globulins and serum globulins</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, including other materials of heading 3002 . However, materials of the same description as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">3003 and 3004 </td><td>Medicaments (excluding goods of heading 3002 , 3005 or 3006 ):</td><td></td><td></td></tr>
+<tr><td>– Obtained from amikacin of heading 2941 </td><td>Manufacture from materials of any heading, except that of the product. However, materials of headings 3003 and 3004 may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product. However, materials of headings 3003 and 3004 may be used, provided that their total value does not exceed 20 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 3006 </td><td>Waste pharmaceuticals specified in note 4(k) to this Chapter</td><td>The origin of the product in its original classification shall be retained</td><td></td></tr>
+<tr><td>ex Chapter 31</td><td>Fertilisers; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3105 </td><td>Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorous and potassium; other fertilisers; goods of this chapter, in tablets or similar forms or in packages of a gross weight not exceeding 10 kg, except for:<table><tbody><tr><td>—</td><td>sodium nitrate,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>calcium cyanamide,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>potassium sulphate,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>magnesium potassium sulphate</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 32</td><td>Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3201 </td><td>Tannins and their salts, ethers, esters and other derivatives</td><td>Manufacture from tanning extracts of vegetable origin</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>3205 </td><td>Colour lakes; preparations as specified in note 3 to this chapter based on colour lakes (3)</td><td>Manufacture from materials of any heading, except headings 3203 , 3204 and 3205 . However, materials of heading 3205 may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 33</td><td>Essential oils and resinoids; perfumery, cosmetic or toilet preparations; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>3301 </td><td>Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed oils, in waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils</td><td>Manufacture from materials of any heading, including materials of a different ‘group’ (4) in this heading. However, materials of the same group as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 34</td><td>Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, ‘dental waxes’ and dental preparations with a basis of plaster; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3403 </td><td>Lubricating preparations containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals</td><td>Operations of refining and/or one or more specific process(es) (1) or  Other operations in which all the materials used are classified within a heading other than that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td rowspan="3">3404 </td><td>Artificial waxes and prepared waxes:</td><td></td><td></td></tr>
+<tr><td>– With a basis of paraffin, petroleum waxes, waxes obtained from bituminous minerals, slack wax or scale wax</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except:<table><tbody><tr><td>—</td><td>hydrogenated oils having the character of waxes of heading 1516 </td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>fatty acids not chemically defined or industrial fatty alcohols having the character of waxes of heading 3823 , and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>materials of heading 3404 </td></tr>
+</tbody>
+</table>
+ However, these materials may be used, provided that their total value does not exceed 20 % of the ex-works price of the product </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 35</td><td>Albuminoidal substances; modified starches; glues; enzymes; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="3">3505 </td><td>Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches:</td><td></td><td></td></tr>
+<tr><td>– Starch ethers and esters</td><td>Manufacture from materials of any heading, including other materials of heading 3505 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except those of heading 1108 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3507 </td><td>Prepared enzymes not elsewhere specified or included</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 36</td><td>Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 37</td><td>Photographic or cinematographic goods; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="3">3701 </td><td>Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs:</td><td></td><td></td></tr>
+<tr><td>– Instant print film for colour photography, in packs</td><td>Manufacture from materials of any heading, except those of headings 3701 and 3702 . However, materials of heading 3702 may be used, provided that their total value does not exceed 30 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except those of headings 3701 and 3702 . However, materials of headings 3701 and 3702 may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>3702 </td><td>Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed</td><td>Manufacture from materials of any heading, except those of headings 3701 and 3702 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>3704 </td><td>Photographic plates, film paper, paperboard and textiles, exposed but not developed</td><td>Manufacture from materials of any heading, except those of headings 3701 to 3704 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 38</td><td>Miscellaneous chemical products; except for:</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="2">ex ex 3801 </td><td>– Colloidal graphite in suspension in oil and semi-colloidal graphite; carbonaceous pastes for electrodes</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Graphite in paste form, being a mixture of more than 30 % by weight of graphite with mineral oils</td><td>Manufacture in which the value of all the materials of heading 3403 used does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3803 </td><td>Refined tall oil</td><td>Refining of crude tall oil</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3805 </td><td>Spirits of sulphate turpentine, purified</td><td>Purification by distillation or refining of raw spirits of sulphate turpentine</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3806 </td><td>Ester gums</td><td>Manufacture from resin acids</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3807 </td><td>Wood pitch (wood tar pitch)</td><td>Distillation of wood tar</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>3808 </td><td>Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products and plant-growth regulators, disinfectants and similar products, put up in forms or packings for retail sale or as preparations or articles (for example, sulphur-treated bands, wicks and candles, and fly-papers)</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the products</td><td></td></tr>
+<tr><td>3809 </td><td>Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the products</td><td></td></tr>
+<tr><td>3810 </td><td>Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the products</td><td></td></tr>
+<tr><td rowspan="3">3811 </td><td>Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils:</td><td></td><td></td></tr>
+<tr><td>– Prepared additives for lubricating oil, containing petroleum oils or oils obtained from bituminous minerals</td><td>Manufacture in which the value of all the materials of heading 3811 used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3812 </td><td>Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other compound stabilisers for rubber or plastics</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3813 </td><td>Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3814 </td><td>Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3818 </td><td>Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3819 </td><td>Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3820 </td><td>Anti-freezing preparations and prepared de-icing fluids</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>3822 </td><td>Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 3002 or 3006 ; certified reference materials</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">3823 </td><td>Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols:</td><td></td><td></td></tr>
+<tr><td>– Industrial monocarboxylic fatty acids, acid oils from refining</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>– Industrial fatty alcohols</td><td>Manufacture from materials of any heading, including other materials of heading 3823 </td><td></td></tr>
+<tr><td rowspan="3">3824 </td><td>Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included:</td><td></td><td></td></tr>
+<tr><td>– The following of this heading:<table><tbody><tr><td>—</td><td>prepared binders for foundry moulds or cores based on natural resinous products,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>naphthenic acids, their water-insoluble salts and their esters,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>sorbitol other than that of heading 2905 ,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>petroleum sulphonates, excluding petroleum sulphonates of alkali metals, of ammonium or of ethanolamines; thiophenated sulphonic acids of oils obtained from bituminous minerals, and their salts,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>ion exchangers,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>getters for vacuum tubes,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alkaline iron oxide for the purification of gas,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>ammoniacal gas liquors and spent oxide produced in coal gas purification,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>sulphonaphthenic acids, their water-insoluble salts and their esters,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>fusel oil and Dippel’s oil,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>mixtures of salts having different anions,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>copying pastes with a basis of gelatin, whether or not on a paper or textile backing</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">3901 to 3915 </td><td>Plastics in primary forms, waste, parings and scrap, of plastic; except for headings ex ex 3907 and 3912 for which the rules are set out below:</td><td></td><td></td></tr>
+<tr><td>– Addition homopolymerisation products in which a single monomer contributes more than 99 % by weight to the total polymer content</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 50 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of Chapter 39 used does not exceed 20 % of the ex-works price of the product (5)</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20 % of the ex-works price of the product (5)</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="2">ex ex 3907 </td><td>– Copolymer, made from polycarbonate and acrylonitrile-butadiene-styrene copolymer (ABS)</td><td>Manufacture from materials of any heading, except that of the product. However, materials of the same heading as the product may be used, provided that their total value does not exceed 50 % of the ex-works price of the product (5)</td><td></td></tr>
+<tr><td>– Polyester</td><td>Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20 % of the ex-works price of the product and/or manufacture from polycarbonate of tetrabromo-(bisphenol A)</td><td></td></tr>
+<tr><td>3912 </td><td>Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms</td><td>Manufacture in which the value of all the materials of the same heading as the product used does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="5">3916 to 3921 </td><td>Semi-manufactures and articles of plastics; except for headings ex ex 3916 , ex ex 3917 , ex ex 3920 and ex ex 3921 , for which the rules are set out below:</td><td></td><td></td></tr>
+<tr><td>– Flat products, further worked than only surface-worked or cut into forms other than rectangular (including square); other products, further worked than only surface-worked</td><td>Manufacture in which the value of all the materials of Chapter 39 useddoes not exceed 50 % of the ex-works price of the product</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>– Other:</td><td></td><td></td></tr>
+<tr><td>– – addition homopolymerisation products in which a single monomer contributes more than 99 % by weight to the total polymer content</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 50 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of Chapter 39 used does not exceed 20 % of the ex-works price of the product (5)</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials of Chapter 39 used does not exceed 20 % of the ex-works price of the product (5)</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 3916 and ex ex 3917 </td><td>Profile shapes and tubes</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 50 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of the same heading as the product used does not exceed 20 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="2">ex ex 3920 </td><td>– Ionomer sheet or film</td><td>Manufacture from a thermoplastic partial salt which is a copolymer of ethylene and metacrylic acid partly neutralised with metal ions, mainly zinc and sodium</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>– Sheets of regenerated cellulose, polyamides or polyethylene</td><td>Manufacture in which the value of all the materials of the same heading as the product used does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 3921 </td><td>Foils of plastic, metallised</td><td>Manufacture from highly transparent polyester-foils with a thickness of less than 23 micron (6)</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>3922 to 3926 </td><td>Articles of plastics</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 40</td><td>Rubber and articles thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 4001 </td><td>Laminated slabs of crepe rubber for shoes</td><td>Lamination of sheets of natural rubber</td><td></td></tr>
+<tr><td>4005 </td><td>Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip</td><td>Manufacture in which the value of all the materials used, except natural rubber, does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">4012 </td><td>Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber:</td><td></td><td></td></tr>
+<tr><td>– Retreaded pneumatic, solid or cushion tyres, of rubber</td><td>Retreading of used tyres</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except those of headings 4011 and 4012 </td><td></td></tr>
+<tr><td>ex ex 4017 </td><td>Articles of hard rubber</td><td>Manufacture from hard rubber</td><td></td></tr>
+<tr><td>ex Chapter 41</td><td>Raw hides and skins (other than furskins) and leather; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 4102 </td><td>Raw skins of sheep or lambs, without wool on</td><td>Removal of wool from sheep or lamb skins, with wool on</td><td></td></tr>
+<tr><td>4104 to 4106 </td><td>Tanned or crust hides and skins, without wool or hair on, whether or not split, but not further prepared</td><td>Retanning of tanned leather Or  Manufacture from materials of any heading, except that of the product </td><td></td></tr>
+<tr><td>4107 , 4112 and 4113 </td><td>Leather further prepared after tanning or crusting, including parchment-dressed leather, without wool or hair on, whether or not split, other than leather of heading 4114 </td><td>Manufacture from materials of any heading, except headings 4104 to 4113 </td><td></td></tr>
+<tr><td>ex ex 4114 </td><td>Patent leather and patent laminated leather; metallised leather</td><td>Manufacture from materials of headings 4104 to 4106 , 4107 , 4112 or 4113 , provided that their total value does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 42</td><td>Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk worm gut)</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 43</td><td>Furskins and artificial fur; manufactures thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="3">ex ex 4302 </td><td>Tanned or dressed furskins, assembled:</td><td></td><td></td></tr>
+<tr><td>– Plates, crosses and similar forms</td><td>Bleaching or dyeing, in addition tocutting and assembly of non-assembled tanned or dressed furskins</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from non-assembled, tanned or dressed furskins</td><td></td></tr>
+<tr><td>4303 </td><td>Articles of apparel, clothing accessories and other articles of furskin</td><td>Manufacture from non-assembled tanned or dressed furskins of heading 4302 </td><td></td></tr>
+<tr><td>ex Chapter 44</td><td>Wood and articles of wood; wood charcoal; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 4403 </td><td>Wood roughly squared</td><td>Manufacture from wood in the rough, whether or not stripped of its bark or merely roughed down</td><td></td></tr>
+<tr><td>ex ex 4407 </td><td>Wood sawn or chipped lengthwise, sliced or peeled, of a thickness exceeding 6 mm, planed, sanded or end-jointed</td><td>Planing, sanding or end-jointing</td><td></td></tr>
+<tr><td>ex ex 4408 </td><td>Sheets for veneering (including those obtained by slicing laminated wood) and for plywood, of a thickness not exceeding 6 mm, spliced, and other wood sawn lengthwise, sliced or peeled of a thickness not exceeding 6 mm, planed, sanded or end-jointed</td><td>Splicing, planing, sanding or end-jointing</td><td></td></tr>
+<tr><td rowspan="3">ex ex 4409 </td><td>Wood continuously shaped along any of its edges, ends or faces, whether or not planed, sanded or end-jointed:</td><td></td><td></td></tr>
+<tr><td>– Sanded or end-jointed</td><td>Sanding or end-jointing</td><td></td></tr>
+<tr><td>– Beadings and mouldings</td><td>Beading or moulding</td><td></td></tr>
+<tr><td>ex ex 4410 to ex ex 4413 </td><td>Beadings and mouldings, including moulded skirting and other moulded boards</td><td>Beading or moulding</td><td></td></tr>
+<tr><td>ex ex 4415 </td><td>Packing cases, boxes, crates, drums and similar packings, of wood</td><td>Manufacture from boards not cut to size</td><td></td></tr>
+<tr><td>ex ex 4416 </td><td>Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood</td><td>Manufacture from riven staves, not further worked than sawn on the two principal surfaces</td><td></td></tr>
+<tr><td rowspan="2">ex ex 4418 </td><td>– Builders' joinery and carpentry of wood</td><td>Manufacture from materials of any heading, except that of the product. However, cellular wood panels, shingles and shakes may be used</td><td></td></tr>
+<tr><td>– Beadings and mouldings</td><td>Beading or moulding</td><td></td></tr>
+<tr><td>ex ex 4421 </td><td>Match splints; wooden pegs or pins for footwear</td><td>Manufacture from wood of any heading, except drawn wood of heading 4409 </td><td></td></tr>
+<tr><td>ex Chapter 45</td><td>Cork and articles of cork; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>4503 </td><td>Articles of natural cork</td><td>Manufacture from cork of heading 4501 </td><td></td></tr>
+<tr><td>Chapter 46</td><td>Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>Chapter 47</td><td>Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 48</td><td>Paper and paperboard; articles of paper pulp, of paper or of paperboard; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 4811 </td><td>Paper and paperboard, ruled, lined or squared only</td><td>Manufacture from papermaking materials of Chapter 47</td><td></td></tr>
+<tr><td>4816 </td><td>Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 4809 ), duplicator stencils and offset plates, of paper, whether or not put up in boxes</td><td>Manufacture from papermaking materials of Chapter 47</td><td></td></tr>
+<tr><td>4817 </td><td>Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 4818 </td><td>Toilet paper</td><td>Manufacture from papermaking materials of Chapter 47</td><td></td></tr>
+<tr><td>ex ex 4819 </td><td>Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 4820 </td><td>Letter pads</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 4823 </td><td>Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape</td><td>Manufacture from papermaking materials of Chapter 47</td><td></td></tr>
+<tr><td>ex Chapter 49</td><td>Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>4909 </td><td>Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings</td><td>Manufacture from materials of any heading, except those of headings 4909 and 4911 </td><td></td></tr>
+<tr><td rowspan="3">4910 </td><td>Calendars of any kind, printed, including calendar blocks:</td><td></td><td></td></tr>
+<tr><td>– Calendars of the ‘perpetual’ type or with replaceable blocks mounted on bases other than paper or paperboard,</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other,</td><td>Manufacture from materials of any heading, except those of headings 4909 and 4911 </td><td></td></tr>
+<tr><td>ex Chapter 50</td><td>Silk; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 5003 </td><td>Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock), carded or combed</td><td>Carding or combing of silk waste</td><td></td></tr>
+<tr><td>5004 to ex ex 5006 </td><td>Silk yarn and yarn spun from silk waste</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>other natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5007 </td><td>Woven fabrics of silk or of silk waste:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 51</td><td>Wool, fine or coarse animal hair; horsehair yarn and woven fabric; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>5106 to 5110 </td><td>Yarn of wool, of fine or coarse animal hair or of horsehair</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5111 to 5113 </td><td>Woven fabrics of wool, of fine or coarse animal hair or of horsehair:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 52</td><td>Cotton; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>5204 to 5207 </td><td>Yarn and thread of cotton</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5208 to 5212 </td><td>Woven fabrics of cotton:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 53</td><td>Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>5306 to 5308 </td><td>Yarn of other vegetable textile fibres; paper yarn</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5309 to 5311 </td><td>Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>jute yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>5401 to 5406 </td><td>Yarn, monofilament and thread of man-made filaments</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5407 and 5408 </td><td>Woven fabrics of man-made filament yarn:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>5501 to 5507 </td><td>Man-made staple fibres</td><td>Manufacture from chemical materials or textile pulp</td><td></td></tr>
+<tr><td>5508 to 5511 </td><td>Yarn and sewing thread of man-made staple fibres</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>raw silk or silk waste, carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5512 to 5516 </td><td>Woven fabrics of man-made staple fibres:</td><td></td><td></td></tr>
+<tr><td>– incorporating rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise prepared for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>paper, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 56</td><td>Wadding, felt and non-wovens; special yarns; twine, cordage, ropes and cables and articles thereof; except for:</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5602 </td><td>Felt, whether or not impregnated, coated, covered or laminated:</td><td></td><td></td></tr>
+<tr><td>– Needleloom felt</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+ However: <table><tbody><tr><td>—</td><td>polypropylene filament of heading 5402 ,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>polypropylene fibres of heading 5503 or 5506 , or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>polypropylene filament tow of heading 5501 ,</td></tr>
+</tbody>
+</table>
+ of which the denomination in all cases of a single filament or fibre is less than 9 decitex, may be used, provided that their total value does not exceed 40 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres made from casein, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">5604 </td><td>Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 5404 or 5405 , impregnated, coated, covered or sheathed with rubber or plastics:</td><td></td><td></td></tr>
+<tr><td>– rubber thread and cord, textile covered</td><td>Manufacture from rubber thread or cord, not textile covered</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise processed for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>5605 </td><td>Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405 , combined with metal in the form of thread, strip or powder or covered with metal</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>5606 </td><td>Gimped yarn, and strip and the like of heading 5404 or 5405 , gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including flock chenille yarn); loop wale-yarn</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>papermaking materials</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="4">Chapter 57</td><td>Carpets and other textile floor coverings:</td><td></td><td></td></tr>
+<tr><td>– of needleloom felt</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+ However: <table><tbody><tr><td>—</td><td>polypropylene filament of heading 5402 ,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>polypropylene fibres of heading 5503 or 5506 , or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>polypropylene filament tow of heading 5501 ,</td></tr>
+</tbody>
+</table>
+ of which the denomination in all cases of a single filament or fibre is less than 9 decitex, may be used, provided that their total value does not exceed 40 % of the ex-works price of the product  Jute fabric may be used as a backing </td><td></td></tr>
+<tr><td>– of other felt</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn or jute yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>synthetic or artificial filament yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres,</td></tr>
+</tbody>
+</table>
+ not carded or combed or otherwise processed for spinning  Jute fabric may be used as a backing </td><td></td></tr>
+<tr><td rowspan="3">ex Chapter 58</td><td>Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery; except for:</td><td></td><td></td></tr>
+<tr><td>– combined with rubber thread</td><td>Manufacture from single yarn (7)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>5805 </td><td>Hand-woven tapestries of the types Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>5810 </td><td>Embroidery in the piece, in strips or in motifs</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>5901 </td><td>Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas; buckram and similar stiffened textile fabrics of a kind used for hat foundations</td><td>Manufacture from yarn</td><td></td></tr>
+<tr><td rowspan="3">5902 </td><td>Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon:</td><td></td><td></td></tr>
+<tr><td>– containing not more than 90 % by weight of textile materials</td><td>Manufacture from yarn</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from chemical materials or textile pulp</td><td></td></tr>
+<tr><td>5903 </td><td>Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 5902 </td><td>Manufacture from yarn or  Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, rasing, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>5904 </td><td>Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape</td><td>Manufacture from yarn (7)</td><td></td></tr>
+<tr><td rowspan="3">5905 </td><td>Textile wall coverings:</td><td></td><td></td></tr>
+<tr><td>– impregnated, coated, covered or laminated with rubber, plastics or other materials</td><td>Manufacture from yarn</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp, or</td></tr>
+</tbody>
+</table>
+ Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td rowspan="4">5906 </td><td>Rubberised textile fabrics, other than those of heading 5902 :</td><td></td><td></td></tr>
+<tr><td>– knitted or crocheted fabrics,</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– other fabrics made of synthetic filament yarn, containing more than 90 % by weight of textile materials</td><td>Manufacture from chemical materials</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from yarn</td><td></td></tr>
+<tr><td>5907 </td><td>Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio back-cloths or the like</td><td>Manufacture from yarn or  Printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, rasing, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of the unprinted fabric used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td rowspan="3">5908 </td><td>Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas mantle fabric therefor, whether or not impregnated:</td><td></td><td></td></tr>
+<tr><td>– incandescent gas mantles, impregnated</td><td>Manufacture from tubular knitted gas-mantle fabric</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="4">5909 to 5911 </td><td>Textile articles of a kind suitable for industrial use:</td><td></td><td></td></tr>
+<tr><td>– polishing discs or rings other than of felt of heading 5911 ,</td><td>Manufacture from yarn or waste fabrics or rags of heading 6310 </td><td></td></tr>
+<tr><td>– woven fabrics, of a kind commonly used in papermaking or other technical uses, felted or not, whether or not impregnated or coated, tubular or endless with single or multiple warp and/or weft, or flat woven with multiple warp and/or weft of heading 5911 </td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the following materials:</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>yarn of polytetrafluoroethylene (8),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>yarn, multiple, of polyamide, coated impregnated or covered with a phenolic resin,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>yarn of synthetic textile fibres of aromatic polyamides, obtained by polycondensation of m-phenylenediamine and isophthalic acid,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>monofil of polytetrafluoroethylene (8),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>yarn of synthetic textile fibres of poly(p-phenylene terephthalamide),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>glass fibre yarn, coated with phenol resin and gimped with acrylic yarn (8),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>copolyester monofilaments of a polyester and a resin of terephthalic acid and 1,4-cyclohexanediethanol and isophthalic acid,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>coir yarn,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>Chapter 60</td><td>Knitted or crocheted fabrics</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">Chapter 61</td><td>Articles of apparel and clothing accessories, knitted or crocheted:</td><td></td><td></td></tr>
+<tr><td>– obtained by sewing together or otherwise assembling, two or more pieces of knitted or crocheted fabric which have been either cut to form or obtained directly to form</td><td>Manufacture from yarn (7) (9)</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 62</td><td>Articles of apparel and clothing accessories, not knitted or crocheted; except for:</td><td>Manufacture from yarn (7) (9)</td><td></td></tr>
+<tr><td>ex ex 6202 , ex ex 6204 , ex ex 6206 , ex ex 6209 and ex ex 6211 </td><td>Women’s, girls' and babies' clothing and clothing accessories for babies, embroidered</td><td>Manufacture from yarn (9) or  Manufacture from unembroidered fabric, provided that the value of the unembroidered fabric used does not exceed 40 % of the ex-works price of the product (9) </td><td></td></tr>
+<tr><td>ex ex 6210 and ex ex 6216 </td><td>Fire-resistant equipment of fabric covered with foil of aluminised polyester</td><td>Manufacture from yarn (9) or  Manufacture from uncoated fabric, provided that the value of the uncoated fabric used does not exceed 40 % of the ex-works price of the product (9) </td><td></td></tr>
+<tr><td rowspan="3">6213 and 6214 </td><td>Handkerchiefs, shawls, scarves, mufflers, mantillas, veils and the like:</td><td></td><td></td></tr>
+<tr><td>– embroidered</td><td>Manufacture from unbleached single yarn (7) (9) or  Manufacture from unembroidered fabric, provided that the value of the unembroidered fabric used does not exceed 40 % of the ex-works price of the product (9) </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from unbleached single yarn (7) (9) or  Making up, followed by printing accompanied by at least two preparatory or finishing operations (such as scouring, bleaching, mercerising, heat setting, raising, calendering, shrink resistance processing, permanent finishing, decatising, impregnating, mending and burling), provided that the value of all the unprinted goods of headings 6213 and 6214 used does not exceed 47,5 % of the ex-works price of the product </td><td></td></tr>
+<tr><td rowspan="5">6217 </td><td>Other made up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212 :</td><td></td><td></td></tr>
+<tr><td>– embroidered,</td><td>Manufacture from yarn (9) or  Manufacture from unembroidered fabric, provided that the value of the unembroidered fabric used does not exceed 40 % of the ex-works price of the product (9) </td><td></td></tr>
+<tr><td>– fire-resistant equipment of fabric covered with foil of aluminised polyester,</td><td>Manufacture from yarn (9) or  Manufacture from uncoated fabric, provided that the value of the uncoated fabric used does not exceed 40 % of the ex-works price of the product (9) </td><td></td></tr>
+<tr><td>– interlinings for collars and cuffs, cut out</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from yarn (9)</td><td></td></tr>
+<tr><td>ex Chapter 63</td><td>Other made-up textile articles; sets; worn clothing and worn textile articles; rags; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="5">6301 to 6304 </td><td>Blankets, travelling rugs, bed linen etc.; curtains etc.; other furnishing articles:</td><td></td><td></td></tr>
+<tr><td>– of felt, of non-wovens</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other:</td><td></td><td></td></tr>
+<tr><td>– embroidered</td><td>Manufacture from unbleached single yarn (9) (10) or  Manufacture from unembroidered fabric (other than knitted or crocheted), provided that the value of the unembroidered fabric used does not exceed 40 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from unbleached single yarn (9) (10)</td><td></td></tr>
+<tr><td>6305 </td><td>Sacks and bags, of a kind used for the packing of goods</td><td>Manufacture from (7):<table><tbody><tr><td>—</td><td>natural fibres,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>man-made staple fibres, not carded or combed or otherwise processed for spinning, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">6306 </td><td>Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods:</td><td></td><td></td></tr>
+<tr><td>– of non-wovens</td><td>Manufacture from (7) (9):<table><tbody><tr><td>—</td><td>natural fibres, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>chemical materials or textile pulp</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from unbleached single yarn (7) (9)</td><td></td></tr>
+<tr><td>6307 </td><td>Other made-up articles, including dress patterns</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>6308 </td><td>Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale</td><td>Each item in the set must satisfy the rule which would apply to it if it were not included in the set. However, non-originating articles may be incorporated, provided that their total value does not exceed 15 % of the ex-works price of the set</td><td></td></tr>
+<tr><td>ex Chapter 64</td><td>Footwear, gaiters and the like; parts of such articles; except for:</td><td>Manufacture from materials of any heading, except from assemblies of uppers affixed to inner soles or to other sole components of heading 6406 </td><td></td></tr>
+<tr><td>6406 </td><td>Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 65</td><td>Headgear and parts thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>6503 </td><td>Felt hats and other felt headgear, made from the hat bodies, hoods or plateaux of heading 6501 , whether or not lined or trimmed</td><td>Manufacture from yarn or textile fibres (9)</td><td></td></tr>
+<tr><td>6505 </td><td>Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed</td><td>Manufacture from yarn or textile fibres (9)</td><td></td></tr>
+<tr><td>ex Chapter 66</td><td>Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and parts thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>6601 </td><td>Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas)</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 67</td><td>Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 68</td><td>Articles of stone, plaster, cement, asbestos, mica or similar materials; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 6803 </td><td>Articles of slate or of agglomerated slate</td><td>Manufacture from worked slate</td><td></td></tr>
+<tr><td>ex ex 6812 </td><td>Articles of asbestos; articles of mixtures with a basis of asbestos or of mixtures with a basis of asbestos and magnesium carbonate</td><td>Manufacture from materials of any heading</td><td></td></tr>
+<tr><td>ex ex 6814 </td><td>Articles of mica, including agglomerated or reconstituted mica, on a support of paper, paperboard or other materials</td><td>Manufacture from worked mica (including agglomerated or reconstituted mica)</td><td></td></tr>
+<tr><td>Chapter 69</td><td>Ceramic products</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 70</td><td>Glass and glassware; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 7003 , ex ex 7004 and ex ex 7005 </td><td>Glass with a non-reflecting layer</td><td>Manufacture from materials of heading 7001 </td><td></td></tr>
+<tr><td rowspan="3">7006 </td><td>Glass of heading 7003 , 7004 or 7005 , bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials:</td><td></td><td></td></tr>
+<tr><td>– glass-plate substrates, coated with a dielectric thin film, and of a semiconductor grade in accordance with SEMII-standards (11)</td><td>Manufacture from non-coated glass-plate substrate of heading 7006 </td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of heading 7001 </td><td></td></tr>
+<tr><td>7007 </td><td>Safety glass, consisting of toughened (tempered) or laminated glass</td><td>Manufacture from materials of heading 7001 </td><td></td></tr>
+<tr><td>7008 </td><td>Multiple-walled insulating units of glass</td><td>Manufacture from materials of heading 7001 </td><td></td></tr>
+<tr><td>7009 </td><td>Glass mirrors, whether or not framed, including rear-view mirrors</td><td>Manufacture from materials of heading 7001 </td><td></td></tr>
+<tr><td>7010 </td><td>Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass</td><td>Manufacture from materials of any heading, except that of the product or  Cutting of glassware, provided that the total value of the uncut glassware used does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>7013 </td><td>Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018 )</td><td>Manufacture from materials of any heading, except that of the product or  Cutting of glassware, provided that the total value of the uncut glassware used does not exceed 50 % of the ex-works price of the product  or  Hand-decoration (except silk-screen printing) of hand-blown glassware, provided that the total value of the hand-blown glassware used does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex ex 7019 </td><td>Articles (other than yarn) of glass fibres</td><td>Manufacture from:<table><tbody><tr><td>—</td><td>uncoloured slivers, rovings, yarn or chopped strands, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>glass wool</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex Chapter 71</td><td>Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 7101 </td><td>Natural or cultured pearls, graded and temporarily strung for convenience of transport</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 7102 , ex ex 7103 and ex ex 7104 </td><td>Worked precious or semi-precious stones (natural, synthetic or reconstructed)</td><td>Manufacture from unworked precious or semi-precious stones</td><td></td></tr>
+<tr><td rowspan="3">7106 , 7108 and 7110 </td><td>Precious metals:</td><td></td><td></td></tr>
+<tr><td>– unwrought,</td><td>Manufacture from materials of any heading, except those of headings 7106 , 7108 and 7110  or  Electrolytic, thermal or chemical separation of precious metals of heading 7106 , 7108 or 7110  or  Alloying of precious metals of heading 7106 , 7108 or 7110 with each other or with base metals </td><td></td></tr>
+<tr><td>– semi-manufactured or in powder form</td><td>Manufacture from unwrought precious metals</td><td></td></tr>
+<tr><td>ex ex 7107 , ex ex 7109 and ex ex 7111 </td><td>Metals clad with precious metals, semi-manufactured</td><td>Manufacture from metals clad with precious metals, unwrought</td><td></td></tr>
+<tr><td>7116 </td><td>Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed)</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>7117 </td><td>Imitation jewellery</td><td>Manufacture from materials of any heading, except that of the product or  Manufacture from base metal parts, not plated or covered with precious metals, provided that the value of all the materials used does not exceed 50 % of the ex-works price of the product </td><td></td></tr>
+<tr><td>ex Chapter 72</td><td>Iron and steel; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>7207 </td><td>Semi-finished products of iron or non-alloy steel</td><td>Manufacture from materials of heading 7201 , 7202 , 7203 , 7204 or 7205 </td><td></td></tr>
+<tr><td>7208 to 7216 </td><td>Flat-rolled products, bars and rods, angles, shapes and sections of iron or non-alloy steel</td><td>Manufacture from ingots or other primary forms of heading 7206 </td><td></td></tr>
+<tr><td>7217 </td><td>Wire of iron or non-alloy steel</td><td>Manufacture from semi-finished materials of heading 7207 </td><td></td></tr>
+<tr><td>ex ex 7218 , 7219 to 7222 </td><td>Semi-finished products, flat-rolled products, bars and rods, angles, shapes and sections of stainless steel</td><td>Manufacture from ingots or other primary forms of heading 7218 </td><td></td></tr>
+<tr><td>7223 </td><td>Wire of stainless steel</td><td>Manufacture from semi-finished materials of heading 7218 </td><td></td></tr>
+<tr><td>ex ex 7224 , 7225 to 7228 </td><td>Semi-finished products, flat-rolled products, hot-rolled bars and rods, in irregularly wound coils; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel</td><td>Manufacture from ingots or other primary forms of heading 7206 , 7218 or 7224 </td><td></td></tr>
+<tr><td>7229 </td><td>Wire of other alloy steel</td><td>Manufacture from semi-finished materials of heading 7224 </td><td></td></tr>
+<tr><td>ex Chapter 73</td><td>Articles of iron or steel; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 7301 </td><td>Sheet piling</td><td>Manufacture from materials of heading 7206 </td><td></td></tr>
+<tr><td>7302 </td><td>Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialised for jointing or fixing rails</td><td>Manufacture from materials of heading 7206 </td><td></td></tr>
+<tr><td>7304 , 7305 and 7306 </td><td>Tubes, pipes and hollow profiles, of iron (other than cast iron) or steel</td><td>Manufacture from materials of heading 7206 , 7207 , 7218 or 7224 </td><td></td></tr>
+<tr><td>ex ex 7307 </td><td>Tube or pipe fittings of stainless steel (ISO No X5CrNiMo 1712 ), consisting of several parts</td><td>Turning, drilling, reaming, threading, deburring and sandblasting of forged blanks, provided that the total value of the forged blanks used does not exceed 35 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>7308 </td><td>Structures (excluding prefabricated buildings of heading 9406 ) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel</td><td>Manufacture from materials of any heading, except that of the product. However, welded angles, shapes and sections of heading 7301 may not be used</td><td></td></tr>
+<tr><td>ex ex 7315 </td><td>Skid chain</td><td>Manufacture in which the value of all the materials of heading 7315 used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 74</td><td>Copper and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>7401 </td><td>Copper mattes; cement copper (precipitated copper)</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>7402 </td><td>Unrefined copper; copper anodes for electrolytic refining</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="3">7403 </td><td>Refined copper and copper alloys, unwrought:</td><td></td><td></td></tr>
+<tr><td>– refined copper,</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>– copper alloys and refined copper containing other elements</td><td>Manufacture from refined copper, unwrought, or waste and scrap of copper</td><td></td></tr>
+<tr><td>7404 </td><td>Copper waste and scrap</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>7405 </td><td>Master alloys of copper</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 75</td><td>Nickel and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>7501 to 7503 </td><td>Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy; unwrought nickel; nickel waste and scrap</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 76</td><td>Aluminium and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>7601 </td><td>Unwrought aluminium</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product,</td></tr>
+</tbody>
+</table>
+ or  Manufacture by thermal or electrolytic treatment from unalloyed aluminium or waste and scrap of aluminium </td><td></td></tr>
+<tr><td>7602 </td><td>Aluminium waste or scrap</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 7616 </td><td>Aluminium articles other than gauze, cloth, grill, netting, fencing, reinforcing fabric and similar materials (including endless bands) of aluminium wire, and expanded metal of aluminium</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product. However, gauze, cloth, grill, netting, fencing, reinforcing fabric and similar materials (including endless bands) of aluminium wire, or expanded metal of aluminium may be used, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>Chapter 77</td><td>Reserved for possible future use in the HS</td><td></td><td></td></tr>
+<tr><td>ex Chapter 78</td><td>Lead and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td rowspan="3">7801 </td><td>Unwrought lead:</td><td></td><td></td></tr>
+<tr><td>– refined lead</td><td>Manufacture from ‘bullion’ or ‘work’ lead</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except that of the product. However, waste and scrap of heading 7802 may not be used</td><td></td></tr>
+<tr><td>7802 </td><td>Lead waste and scrap</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 79</td><td>Zinc and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>7901 </td><td>Unwrought zinc</td><td>Manufacture from materials of any heading, except that of the product. However, waste and scrap of heading 7902 may not be used</td><td></td></tr>
+<tr><td>7902 </td><td>Zinc waste and scrap</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 80</td><td>Tin and articles thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>8001 </td><td>Unwrought tin</td><td>Manufacture from materials of any heading, except that of the product. However, waste and scrap of heading 8002 may not be used</td><td></td></tr>
+<tr><td>8002 and 8007 </td><td>Tin waste and scrap; other articles of tin</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td rowspan="3">Chapter 81</td><td>Other base metals; cermets; articles thereof:</td><td></td><td></td></tr>
+<tr><td>– other base metals, wrought; articles thereof</td><td>Manufacture in which the value of all the materials of the same heading as the product used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex Chapter 82</td><td>Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>8206 </td><td>Tools of two or more of the headings 8202 to 8205 , put up in sets for retail sale</td><td>Manufacture from materials of any heading, except those of headings 8202 to 8205 . However, tools of headings 8202 to 8205 may be incorporated into the set, provided that their total value does not exceed 15 % of the ex-works price of the set</td><td></td></tr>
+<tr><td>8207 </td><td>Interchangeable tools for hand tools, whether or not power-operated, or for machine-tools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning, or screwdriving), including dies for drawing or extruding metal, and rock drilling or earth boring tools</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>8208 </td><td>Knives and cutting blades, for machines or for mechanical appliances</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 8211 </td><td>Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208 </td><td>Manufacture from materials of any heading, except that of the product. However, knife blades and handles of base metal may be used</td><td></td></tr>
+<tr><td>8214 </td><td>Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files)</td><td>Manufacture from materials of any heading, except that of the product. However, handles of base metal may be used</td><td></td></tr>
+<tr><td>8215 </td><td>Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware</td><td>Manufacture from materials of any heading, except that of the product. However, handles of base metal may be used</td><td></td></tr>
+<tr><td>ex Chapter 83</td><td>Miscellaneous articles of base metal; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 8302 </td><td>Other mountings, fittings and similar articles suitable for buildings, and automatic door closers</td><td>Manufacture from materials of any heading, except that of the product. However, other materials of heading 8302 may be used, provided that their total value does not exceed 20 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 8306 </td><td>Statuettes and other ornaments, of base metal</td><td>Manufacture from materials of any heading, except that of the product. However, other materials of heading 8306 may be used, provided that their total value does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 84</td><td>Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8401 </td><td>Nuclear fuel elements</td><td>Manufacture from materials of any heading, except that of the product (12)</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8402 </td><td>Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8403 and ex ex 8404 </td><td>Central heating boilers other than those of heading 8402 and auxiliary plant for central heating boilers</td><td>Manufacture from materials of any heading, except those of headings 8403 and 8404 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>8406 </td><td>Steam turbines and other vapour turbines</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8407 </td><td>Spark-ignition reciprocating or rotary internal combustion piston engines</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8408 </td><td>Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8409 </td><td>Parts suitable for use solely or principally with the engines of heading 8407 or 8408 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8411 </td><td>Turbo-jets, turbo-propellers and other gas turbines</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8412 </td><td>Other engines and motors</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 8413 </td><td>Rotary positive displacement pumps</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8414 </td><td>Industrial fans, blowers and the like</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8415 </td><td>Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8418 </td><td>Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 8415 </td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8419 </td><td>Machines for wood, paper pulp, paper and paperboard industries</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of the same heading as the product used does not exceed 25 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8420 </td><td>Calendering or other rolling machines, other than for metals or glass, and cylinders therefor</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of the same heading as the product used does not exceed 25 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8423 </td><td>Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8425 to 8428 </td><td>Lifting, handling, loading or unloading machinery</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8431 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="3">8429 </td><td>Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road-rollers:</td><td></td><td></td></tr>
+<tr><td>– road-rollers</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8431 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8430 </td><td>Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8431 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8431 </td><td>Parts suitable for use solely or principally with road-rollers</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8439 </td><td>Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of the same heading as the product used does not exceed 25 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8441 </td><td>Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of the same heading as the product used does not exceed 25 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8444 to 8447 </td><td>Machines of these headings for use in the textile industry</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 8448 </td><td>Auxiliary machinery for use with machines of headings 8444 and 8445 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">8452 </td><td>Sewing machines, other than book-sewing machines of heading 8440 ; furniture, bases and covers specially designed for sewing machines; sewing machine needles:</td><td></td><td></td></tr>
+<tr><td>– sewing machines (lock stitch only) with heads of a weight not exceeding 16 kg without motor or 17 kg with motor</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used in assembling the head (without motor) does not exceed the value of all the originating materials used, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the thread-tension, crochet and zigzag mechanisms used are originating</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8456 to 8466 </td><td>Machine-tools and machines and their parts and accessories of headings 8456 to 8466 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8469 to 8472 </td><td>Office machines (for example, typewriters, calculating machines, automatic data processing machines, duplicating machines, stapling machines)</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8480 </td><td>Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8482 </td><td>Ball or roller bearings</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8484 </td><td>Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8485 </td><td>Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 85</td><td>Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8501 </td><td>Electric motors and generators (excluding generating sets)</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8503 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8502 </td><td>Electric generating sets and rotary converters</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of headings 8501 and 8503 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8504 </td><td>Power supply units for automatic data-processing machines</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 8518 </td><td>Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; audio-frequency electric amplifiers; electric sound amplifier sets</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8519 </td><td>Turntables (record-decks), record-players, cassette-players and other sound reproducing apparatus, not incorporating a sound recording device</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8520 </td><td>Magnetic tape recorders and other sound recording apparatus, whether or not incorporating a sound reproducing device</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8521 </td><td>Video recording or reproducing apparatus, whether or not incorporating a video tuner</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used,</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8522 </td><td>Parts and accessories suitable for use solely or principally with the apparatus of headings 8519 to 8521 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8523 </td><td>Prepared unrecorded media for sound recording or similar recording of other phenomena, other than products of Chapter 37</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">8524 </td><td>Records, tapes and other recorded media for sound or other similarly recorded phenomena, including matrices and masters for the production of records, but excluding products of Chapter 37:</td><td></td><td></td></tr>
+<tr><td>– matrices and masters for the production of records</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8523 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8525 </td><td>Transmission apparatus for radio-telephony, radio-telegraphy, radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras; still image video cameras and other video camera recorders; digital cameras</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials, used does not exceed 40 % of the ex-works price of the product, and </td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8526 </td><td>Radar apparatus, radio navigational aid apparatus and radio remote control apparatus</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8527 </td><td>Reception apparatus for radio-telephony, radio-telegraphy or radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8528 </td><td>Reception apparatus for television, whether or not incorporating radio broadcast receivers or sound or video recording or reproducing apparatus; video monitors and video projectors</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="3">8529 </td><td>Parts suitable for use solely or principally with the apparatus of headings 8525 to 8528 :</td><td></td><td></td></tr>
+<tr><td>– suitable for use solely or principally with video recording or reproducing apparatus</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8535 and 8536 </td><td>Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8538 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8537 </td><td>Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536 , for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 8517 </td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 8538 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8541 </td><td>Diodes, transistors and similar semi-conductor devices, except wafers not yet cut into chips</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8542 </td><td>Electronic integrated circuits and microassemblies:</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of headings 8541 and 8542 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>8544 </td><td>Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8545 </td><td>Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8546 </td><td>Electrical insulators of any material</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8547 </td><td>Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating materials apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 8546 ; electrical conduit tubing and joints therefor, of base metal lined with insulating material</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8548 </td><td>Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 86</td><td>Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds; except for:</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8608 </td><td>Railway or tramway track fixtures and fittings; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 87</td><td>Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof; except for:</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>8709 </td><td>Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, DOCk areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8710 </td><td>Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="5">8711 </td><td>Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars:</td><td></td><td></td></tr>
+<tr><td>– with reciprocating internal combustion piston engine of a cylinder capacity:</td><td></td><td></td></tr>
+<tr><td>– not exceeding 50 cm3,</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 20 % of the ex-works price of the product</td></tr>
+<tr><td>– exceeding 50 cm3</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8712 </td><td>Bicycles without ball bearings</td><td>Manufacture from materials of any heading, except those of heading 8714 </td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8715 </td><td>Baby carriages and parts thereof</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>8716 </td><td>Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 88</td><td>Aircraft, spacecraft, and parts thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 8804 </td><td>Rotochutes</td><td>Manufacture from materials of any heading, including other materials of heading 8804 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>8805 </td><td>Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles</td><td>Manufacture from materials of any heading, except that of the product</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>Chapter 89</td><td>Ships, boats and floating structures</td><td>Manufacture from materials of any heading, except that of the product. However, hulls of heading 8906 may not be used</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex Chapter 90</td><td>Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof; except for:</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9001 </td><td>Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544 ; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9002 </td><td>Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9004 </td><td>Spectacles, goggles and the like, corrective, protective or other</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 9005 </td><td>Binoculars, monoculars, other optical telescopes, and mountings therefor, except for astronomical refracting telescopes and mountings therefor</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product; and,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 9006 </td><td>Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than electrically ignited flashbulbs</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9007 </td><td>Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9011 </td><td>Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 9014 </td><td>Other navigational instruments and appliances</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9015 </td><td>Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9016 </td><td>Balances of a sensitivity of 5 cg or better, with or without weights</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9017 </td><td>Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this chapter</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">9018 </td><td>Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments:</td><td></td><td></td></tr>
+<tr><td>– dentists' chairs incorporating dental appliances or dentists' spittoons</td><td>Manufacture from materials of any heading, including other materials of heading 9018 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>– Other</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>9019 </td><td>Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>9020 </td><td>Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 25 % of the ex-works price of the product</td></tr>
+<tr><td>9024 </td><td>Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics)</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9025 </td><td>Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9026 </td><td>Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 9014 , 9015 , 9028 or 9032 </td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9027 </td><td>Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td rowspan="3">9028 </td><td>Gas, liquid or electricity supply or production meters, including calibrating meters therefor:</td><td></td><td></td></tr>
+<tr><td>– parts and accessories</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9029 </td><td>Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 9014 or 9015 ; stroboscopes</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9030 </td><td>Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028 ; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionising radiations</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9031 </td><td>Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9032 </td><td>Automatic regulating or controlling instruments and apparatus</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9033 </td><td>Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of Chapter 90</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 91</td><td>Clocks and watches and parts thereof; except for:</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9105 </td><td>Other clocks</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9109 </td><td>Clock movements, complete and assembled</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>the value of all the non-originating materials used does not exceed the value of all the originating materials used</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9110 </td><td>Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements</td><td>Manufacture in which:<table><tbody><tr><td>—</td><td>the value of all the materials used does not exceed 40 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>within the above limit, the value of all the materials of heading 9114 used does not exceed 10 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9111 </td><td>Watch cases and parts thereof</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td>9112 </td><td>Clock cases and cases of a similar type for other goods of this chapter, and parts thereof</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 30 % of the ex-works price of the product</td></tr>
+<tr><td rowspan="3">9113 </td><td>Watch straps, watch bands and watch bracelets, and parts thereof:</td><td></td><td></td></tr>
+<tr><td>– of base metal, whether or not gold- or silver-plated, or of metal clad with precious metal</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>– Other</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 92</td><td>Musical instruments; parts and accessories of such articles</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>Chapter 93</td><td>Arms and ammunition; parts and accessories thereof</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 94</td><td>Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>ex ex 9401 and ex ex 9403 </td><td>Base metal furniture, incorporating unstuffed cotton cloth of a weight of 300 g/m2 or less</td><td>Manufacture from materials of any heading, except that of the product or  Manufacture from cotton cloth already made up in a form ready for use with materials of heading 9401 or 9403 , provided that: <table><tbody><tr><td>—</td><td>the value of the cloth does not exceed 25 % of the ex-works price of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>all the other materials used are originating and are classified in a heading other than heading 9401 or 9403 </td></tr>
+</tbody>
+</table>
+</td><td>Manufacture in which the value of all the materials used does not exceed 40 % of the ex-works price of the product</td></tr>
+<tr><td>9405 </td><td>Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9406 </td><td>Prefabricated buildings</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex Chapter 95</td><td>Toys, games and sports requisites; parts and accessories thereof; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>9503 </td><td>Other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 9506 </td><td>Golf clubs and parts thereof</td><td>Manufacture from materials of any heading, except that of the product. However, roughly shaped blocks for making golf-club heads may be used</td><td></td></tr>
+<tr><td>ex Chapter 96</td><td>Miscellaneous manufactured articles; except for:</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+<tr><td>ex ex 9601 and ex ex 9602 </td><td>Articles of animal, vegetable or mineral carving materials</td><td>Manufacture from ‘worked’ carving materials of the same heading as the product</td><td></td></tr>
+<tr><td>ex ex 9603 </td><td>Brooms and brushes (except for besoms and the like and brushes made from marten or squirrel hair), hand-operated mechanical floor sweepers, not motorised, paint pads and rollers, squeegees and mops</td><td>Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>9605 </td><td>Travel sets for personal toilet, sewing or shoe or clothes cleaning</td><td>Each item in the set must satisfy the rule which would apply to it if it were not included in the set. However, non-originating articles may be incorporated, provided that their total value does not exceed 15 % of the ex-works price of the set</td><td></td></tr>
+<tr><td>9606 </td><td>Buttons, press-fasteners, snap-fasteners and press-studs, button moulds and other parts of these articles; button blanks</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>9608 </td><td>Ball-point pens; felt-tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; pen-holders, pencil-holders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 9609 </td><td>Manufacture from materials of any heading, except that of the product. However, nibs or nib-points of the same heading as the product may be used</td><td></td></tr>
+<tr><td>9612 </td><td>Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes</td><td>Manufacture:<table><tbody><tr><td>—</td><td>from materials of any heading, except that of the product, and</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>in which the value of all the materials used does not exceed 50 % of the ex-works price of the product</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td>ex ex 9613 </td><td>Lighters with piezo-igniter</td><td>Manufacture in which the value of all the materials of heading 9613 used does not exceed 30 % of the ex-works price of the product</td><td></td></tr>
+<tr><td>ex ex 9614 </td><td>Smoking pipes and pipe bowls</td><td>Manufacture from roughly shaped blocks</td><td></td></tr>
+<tr><td>Chapter 97</td><td>Works of art, collectors' pieces and antiques</td><td>Manufacture from materials of any heading, except that of the product</td><td></td></tr>
+</tbody>
+</table>
+
+(1) For the special conditions relating to ‘specific processes’, see introductory notes 7.1 and 7.3.
+
+(2) For the special conditions relating to ‘specific processes’, see introductory note 7.2.
+
+(3) Note 3 to Chapter 32 says that these preparations are those of a kind used for colouring any material or used as ingredients in the manufacture of colouring preparations, provided that they are not classified in another heading in Chapter 32.
+
+(4) A ‘group’ is regarded as any part of the heading separated from the rest by a semicolon.
+
+(5) In the case of the products composed of materials classified within both headings 3901 to 3906, on the one hand, and within headings 3907 to 3911, on the other hand, this restriction only applies to that group of materials which predominates by weight in the product.
+
+(6) The following foils shall be considered as highly transparent: foils, the optical dimming of which, measured according to ASTM-D 1003-16 by Gardner Hazemeter (i.e. Hazefactor), is less than 2 %.
+
+(7) For special conditions relating to products made of a mixture of textile materials, see introductory note 5.
+
+(8) The use of this material is restricted to the manufacture of woven fabrics of a kind used in paper-making machinery.
+
+(9) See Introductory note 6.
+
+(10) For knitted or crocheted articles, not elastic or rubberised, obtained by sewing or assembling pieces of knitted or crocheted fabrics (cut out or knitted directly to shape), see introductory note 6.
+
+(11) SEMII — Semiconductor Equipment and Materials Institute Incorporated.
+
+(12) This rule shall apply until 31 December 2005.
+
+## ANNEX III
+
+**Specimens of movement certificate EUR.1 and application for a movement certificate EUR.1**
+
+**Printing instructions**
+
+|  | 1. | Each form shall measure 210 × 297 mm; a tolerance of up to minus 5 mm or plus 8 mm in the length may be allowed. The paper used must be white, sized for writing, not containing mechanical pulp and weighing not less than 25 g/m2. It shall have a printed green guilloche pattern background making any falsification by mechanical or chemical means apparent to the eye. |
+| --- | --- | --- |
+
+|  | 2. | The competent authorities of the Member States of the Community and of Albania may reserve the right to print the forms themselves or may have them printed by approved printers. In the latter case, each form must include a reference to such approval. Each form must bear the name and address of the printer or a mark by which the printer can be identified. It shall also bear a serial number, either printed or not, by which it can be identified. |
+| --- | --- | --- |
+
+[image]
+
+Text of image
+
+MOVEMENT CERTIFICATE
+
+1\. Exporter (Name, full address, country)
+
+EUR.1 No A 000.000
+
+See notes overleaf before completing this form.
+
+2\. Certificate used in preferential trade between
+
+and
+
+(Insert appropriate countries, groups of countries or territories)
+
+3\. Consignee (Name, full address, country) (Optional)
+
+4\. Country, group of countries or territory in which the products are considered as originating
+
+5\. Country, group of countries or territory of destination
+
+6\. Transport details (Optional)
+
+7\. Remarks
+
+8\. Item number; Marks and numbers; Number and kind of packages (1); Description of goods
+
+9\. Gross mass (kg) or other measure (litres, m3, etc.)
+
+10\. Invoices (Optional)
+
+11\. CUSTOMS ENDORSEMENT
+
+Declaration certified
+
+Export Document (2)
+
+Form …
+
+No …
+
+Of …
+
+Customs office …
+
+Issuing country or territory …
+
+Place and date …
+
+(Signature)
+
+Stamp
+
+12\. DECLARATION BY THE EXPORTER
+
+I, the undersigned, declare that the goods described above meet the conditions required for the issue of this certificate.
+
+Place and date …
+
+(Signature)
+
+(1) If goods are not packed, indicate number of articles or state ‘in bulk’ as appropriate.
+
+(2) Complete only where the regulations of the exporting country or territory require.
+
+[image]
+
+Text of image
+
+13\. REQUEST FOR VERIFICATION, to
+
+14\. RESULT OF VERIFICATION
+
+Verification carried out shows that this certificate (1)
+
+was issued by the customs office indicated and that the information contained therein is accurate.
+
+does not meet the requirements as to authenticity and accuracy (see remarks appended)
+
+Verification of the authenticity and accuracy of this certificate is requested.
+
+Place and date
+
+Stamp
+
+(Signature)
+
+Place and date
+
+Stamp
+
+(Signature)
+
+(1) Insert X in the appropriate box.
+
+NOTES
+
+1\. Certificate must not contain erasures or words written over one another. Any alterations must be made by deleting the incorrect particulars and adding any necessary corrections. Any such alteration must be initialled by the person who completed the certificate and endorsed by the Customs authorities of the issuing country.
+
+2\. No spaces must be left between the items entered on the certificate and each item must be preceded by an item number. A horizontal line must be drawn immediately below the last item. Any unused space must be struck through in such a manner as to make any later additions impossible.
+
+3\. Goods must be described in accordance with commercial practice and with sufficient detail to enable them to be identified.
+
+## ANNEX IV
+
+**Text of the invoice declaration**
+
+The invoice declaration, the text of which is given below, must be made out in accordance with the footnotes. However, the footnotes do not have to be reproduced.
+
+**Spanish version**
+
+El exportador de los productos incluidos en el presente documento (autorización aduanera no … (1)) declara que, salvo indicación en sentido contrario, estos productos gozan de un origen preferencial …. (2)
+
+**Czech version**
+
+Vývozce výrobků uvedených v tomto dokumentu (číslo povolení … (1)) prohlašuje, že kromě zřetelně označených, mají tyto výrobky preferenční původ v … (2).
+
+**Danish version**
+
+Eksportøren af varer, der er omfattet af nærværende dokument, (toldmyndighedernes tilladelse nr. … (1)), erklærer, at varerne, medmindre andet tydeligt er angivet, har præferenceoprindelse i … (2).
+
+**German version**
+
+Der Ausführer (Ermächtigter Ausführer; Bewilligungs-Nr. … (1)) der Waren, auf die sich dieses Handelspapier bezieht, erklärt, dass diese Waren, soweit nicht anderes angegeben, präferenzbegünstigte … (2) Ursprungswaren sind.
+
+**Estonian version**
+
+Käesoleva dokumendiga hõlmatud toodete eksportija (tolliameti kinnitus nr. … (1)) deklareerib, et need tooted on … (2) sooduspäritoluga, välja arvatud juhul kui on selgelt näidatud teisiti.
+
+**Greek version**
+
+Ο εξαγωγέας των προϊόντων που καλύπτονται από το παρόν έγγραφο (άδεια τελωνείου υπ' αριθ. … (1)) δηλώνει ότι, εκτός εάν δηλώνεται σαφώς άλλως, τα προϊόντα αυτά είναι προτιμησιακής καταγωγής … (2).
+
+**English version**
+
+The exporter of the products covered by this document (customs authorisation No … (1)) declares that, except where otherwise clearly indicated, these products are of … (2) preferential origin.
+
+**French version**
+
+L’exportateur des produits couverts par le présent document (autorisation douanière no … (1)) déclare que, sauf indication claire du contraire, ces produits ont l’origine préférentielle … (2).
+
+**Italian version**
+
+L’esportatore delle merci contemplate nel presente documento (autorizzazione doganale n. … (1)) dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale … (2).
+
+**Latvian version**
+
+To produktu eksportētājs, kuri ietverti šajā dokumentā (muitas atļauja Nr. … (1)), deklarē, ka, izņemot tur, kur ir citādi skaidri noteikts, šiem produktiem ir preferenciāla izcelsme … (2).
+
+**Lithuanian version**
+
+Šiame dokumente išvardintų prekių eksportuotojas (muitinės liudijimo Nr. … (1)) deklaruoja, kad, jeigu kitaip nenurodyta, tai yra … (2) preferencinès kilmés prekés.
+
+**Hungarian version**
+
+A jelen okmányban szereplő áruk exportőre (vámfelhatalmazási szám: … (1)) kijelentem, hogy eltérő jelzés hiányában az áruk kedvezményes … (2) származásúak.
+
+**Maltese version**
+
+L-esportatur tal-prodotti koperti b’dan id-dokument (awtorizzazzjoni tad-dwana nru. … (1)) jiddikjara li, ħlief fejn indikat b’mod ċar li mhux hekk, dawn il-prodotti huma ta’ oriġini preferenzjali … (2).
+
+**Dutch version**
+
+De exporteur van de goederen waarop dit document van toepassing is (douanevergunning nr. … (1)), verklaart dat, behoudens uitdrukkelijke andersluidende vermelding, deze goederen van preferentiële … oorsprong zijn (2).
+
+**Polish version**
+
+Eksporter produktów objętych tym dokumentem (upoważnienie władz celnych nr … (1)) deklaruje, że z wyjątkiem gdzie jest to wyraźnie określone, produkty te mają … (2) preferencyjne pochodzenie.
+
+**Portuguese version**
+
+O abaixo-assinado, exportador dos produtos abrangidos pelo presente documento (autorização aduaneira n.o … (1)), declara que, salvo indicação expressa em contrário, estes produtos são de origem preferencial … (2).
+
+**Slovenian version**
+
+Izvoznik blaga, zajetega s tem dokumentom (pooblastilo carinskih organov štr. … (1)) izjavlja, da, razen če ni drugače jasno navedeno, ima to blago preferencialno … (2) poreklo.
+
+**Slovak version**
+
+Vývozca výrobkov uvedených v tomto dokumente (číslo povolenia … (1)) vyhlasuje, že okrem zreteľne označených, majú tieto výrobky preferenčný pôvod v … (2).
+
+**Finnish version**
+
+Tässä asiakirjassa mainittujen tuotteiden viejä (tullin lupa n:o … (1)) ilmoittaa, että nämä tuotteet ovat, ellei toisin ole selvästi merkitty, etuuskohteluun oikeutettuja … alkuperätuotteita (2).
+
+**Swedish version**
+
+Exportören av de varor som omfattas av detta dokument (tullmyndighetens tillstånd nr. … (1)) försäkrar att dessa varor, om inte annat tydligt markerats, har förmånsberättigande … ursprung (2).
+
+**Albanian version**
+
+Eksportuesi i produkteve të përfshira në këtë dokument (autorizim doganor Nr. … (1)) deklaron që, përveç rasteve kur tregohet qartësisht ndryshe, këto produkte janë me origjinë preferenciale … (2).
+
+… (3)
+
+(Place and date)
+
+… (4)
+
+(Signature of the exporter. In addition, the name of the person signing the declaration has to be indicated in clear script.)
+
+(1) When the invoice declaration is made out by an approved exporter, the authorisation number of the approved exporter must be entered in this space. When the invoice declaration is not made out by an approved exporter, the words in brackets shall be omitted or the space left blank.
+
+(2) Origin of products to be indicated. When the invoice declaration relates, in whole or in part, to products originating in Ceuta and Mellila, the exporter must clearly indicate them in the document on which the declaration is made out by means of the symbol ‘CM’.
+
+(3) These indications may be omitted if the information is contained on the document itself.
+
+(4) In cases where the exporter is not required to sign, the exemption from signature also implies the exemption from the obligation to indicate the name of the signatory.
+
+**PROTOCOL 5**
+
+**on land transport**
+
+#### Article 1 — Aim
+
+The aim of this Protocol is to promote cooperation between the Parties on land transport, and in particular transit traffic, and to ensure for this purpose that transport between and through the territories of the Parties is developed in a coordinated manner by means of the complete and interdependent application of all the provisions of this Protocol.
+
+#### Article 2 — Scope
+
+1\. Cooperation shall cover land transport, and in particular road, rail and combined transport, and shall include the relevant infrastructure.
+
+2\. In this connection, the scope of this Protocol shall cover in particular:
+
+— transport infrastructure in the territory of one or other Party to the extent necessary to achieve the objective of this Protocol,
+
+— market access, on a reciprocal basis, in the field of road transport,
+
+— essential legal and administrative supporting measures including commercial, taxation, social and technical measures,
+
+— cooperation in developing a transport system which meets environmental needs, and
+
+— a regular exchange of information on the development of the transport policies of the Parties, with particular regard to transport infrastructure.
+
+#### Article 3 — Definitions
+
+For the purposes of this Protocol, the following definitions shall apply:
+
+(a) ‘Community transit traffic’ means the carriage, by a carrier established in the Community, of goods in transit through Albanian territory en route to or from a Member State of the Community;
+
+(b) ‘Albanian transit traffic’ means the carriage, by a carrier established in Albania, of goods in transit from Albania through Community territory and destined for a third country or of goods from a third country destined for Albania;
+
+(c) ‘combined transport’ means the transport of goods where the lorry, trailer, semi-trailer, with or without tractor unit, swap body or container of 20 feet or more, uses the road on the initial or final leg of the journey and on the other leg, rail or inland waterway or maritime services where this section exceeds 100 kilometres as the crow flies and makes the initial or final road transport leg of the journey:
+
+— between the point where the goods are loaded and the nearest suitable rail loading station for the initial leg, and between the nearest suitable rail unloading station and the point where the goods are unloaded for the final leg, or
+
+— within a radius not exceeding 150 km as the crow flies from the inland waterway port or seaport of loading or unloading.
+
+### TITLE I — INFRASTRUCTURE
+
+#### Article 4 — General provision
+
+The Parties hereby agree to adopt mutually coordinated measures to develop a multimodal transport infrastructure network as a vital means of solving the problems affecting the carriage of goods through Albania in particular on the Pan-European Corridor VIII, the north-south axis and the connections to the Adriatic/Ionian Pan-European Transport Area.
+
+#### Article 5 — Planning
+
+The development of a multimodal regional transport network on the Albanian territory which serves the needs of Albania and the south-eastern European region covering the main road and rail routes, inland waterways, inland ports, ports, airports and other relevant modes of the network is of particular interest to the Community and Albania. This network was defined in a Memorandum of Understanding for developing a core transport infrastructure network for south-east Europe which was signed by ministers from the region, and the European Commission, in June 2004. The development of the network and the selection of priorities will be carried out by a steering committee comprised of representatives of each of the signatories.
+
+#### Article 6 — Financial aspects
+
+1\. The Community may contribute financially, under Article 112 of the Agreement, to the necessary infrastructure work referred to in Article 5 of this Protocol. This financial contribution may take the form of credit from the European Investment Bank and any other form of financing which can provide further additional resources.
+
+2\. In order to speed up the work the Commission shall endeavour, as far as possible, to encourage the use of additional resources such as investment by certain Member States on a bilateral basis or from public or private funds.
+
+### TITLE II — RAIL AND COMBINED TRANSPORT
+
+#### Article 7 — General provision
+
+The Parties shall adopt the mutually coordinated measures necessary for the development and promotion of rail and combined transport as a mean of ensuring that in the future a major proportion of their bilateral and transit transport through Albania is performed under more environmentally friendly conditions.
+
+#### Article 8 — Particular aspects relating to infrastructure
+
+As part of the modernisation of the Albanian railways, the necessary steps shall be taken to adapt the system for combined transport, with particular regard to the development or building of terminals, tunnel gauges and capacity, which require substantial investment.
+
+#### Article 9 — Supporting measures
+
+The Parties shall take all the steps necessary to encourage the development of combined transport.
+
+The purpose of such measures shall be:
+
+— to encourage the use of combined transport by users and consignors,
+
+— to make combined transport competitive with road transport, in particular through the financial support of the Community or Albania in the context of their respective legislation,
+
+— to encourage the use of combined transport over long distances and to promote, in particular the use of swap bodies, containers and unaccompanied transport in general,
+
+— to improve the speed and reliability of combined transport and in particular:
+
+— to increase the frequency of convoys in accordance with the needs of consignors and users,
+
+— to reduce the waiting time at terminals and increase their productivity,
+
+— to remove in an appropriate manner, all obstacles from the approach routes so as to improve access to combined transport,
+
+— to harmonise, where necessary, the weights, dimensions and technical characteristics of specialised equipment, in particular so as to ensure the necessary compatibility of gauges, and to take coordinated action to order and to put into service such equipment as is required by the level of traffic, and
+
+— in general, to take any other appropriate action.
+
+#### Article 10 — The role of the railways
+
+In connection with the respective powers of the States and the railways, the Parties shall, in respect of both passenger and goods transport, recommend that their railways:
+
+— step up cooperation, whether bilateral, multilateral or within international railway organisations, in all fields, with particular regard to the improvement of the quality and the safety of transport services,
+
+— try to establish in common a system of organising the railways so as to encourage consignors to send freight by rail rather than road, in particular for transit purposes, on a basis of fair competition and while leaving the user freedom of choice in this matter,
+
+— prepare the participation of Albania in the implementation and future evolution of the Community acquis on the development of the railways.
+
+### TITLE III — ROAD TRANSPORT
+
+#### Article 11 — General provisions
+
+1\. With regard to mutual access to transport markets, the Parties agree, initially and without prejudice to paragraph 2, to maintain the regime resulting from bilateral agreements or other existing international bilateral instruments concluded between each Member State of the Community and Albania or, where there are no such Agreements or instruments, arising from the de facto situation in 1991.
+
+However, whilst awaiting the conclusion of an agreement between the Community and Albania on access to the road transport market, as provided for in Article 12, and on road taxation, as provided for in Article 13(2), Albania shall cooperate with the Member States to amend these bilateral agreements or instruments in order to adapt them to this Protocol.
+
+2\. The Parties hereby agree to grant unrestricted access to Community transit traffic through Albania and to Albanian transit traffic through the Community with effect from the date of entry into force of the Agreement.
+
+3\. If, as a result of the rights granted under paragraph 2, transit traffic by Community hauliers increases to such a degree as to cause or threaten to cause serious harm to road infrastructure and/or traffic fluidity on the axes mentioned in Article 5, and under the same circumstances problems arise on Community territory close to the Albanian borders, the matter shall be submitted to the Stabilisation and Association Council in accordance with Article 118 of the Agreement. The Parties may propose such exceptional, temporary non-discriminatory measures as are necessary to limit or mitigate such harm.
+
+4\. If the European Community establishes rules aiming to reduce pollution caused by heavy goods vehicles registered in the European Union and to improve traffic safety, a similar regime shall apply to heavy goods vehicles registered in Albania that wish to circulate through the Community territory. The Stabilisation and Association Council shall decide on the necessary modalities.
+
+5\. The Parties shall refrain from taking any unilateral action that might lead to discrimination between Community and Albanian carriers or vehicles. Each Party shall take all steps necessary to facilitate road transport to or through the territory of the other Party.
+
+#### Article 12 — Access to the market
+
+The Parties shall, as a matter of priority, undertake to work together to seek, each of them subject to their internal rules:
+
+— courses of action likely to favour the development of a transport system which meets the needs of the Parties, and which is compatible, on the one hand, with the completion of the internal Community market and the implementation of the common transport policy and, on the other hand, with Albania’s economic and transport policy,
+
+— a definitive system for regulating future road transport market access between the Parties on the basis of reciprocity.
+
+#### Article 13 — Taxation, tolls and other charges
+
+1\. The Parties accept that the taxation of road vehicles, tolls and other charges on either side must be non-discriminatory.
+
+2\. The Parties shall enter into negotiations with a view to reaching an Agreement on road taxation, as soon as possible, on the basis of the rules adopted by the Community on this matter. The purpose of such an Agreement shall be, in particular, to ensure the free flow of trans-frontier traffic, to progressively eliminate differences between the road taxation systems applied by the Parties and to eliminate distortions of competition arising from such differences.
+
+3\. Pending the conclusion of the negotiations mentioned in paragraph 2, the Parties shall eliminate discrimination between hauliers of the Community or Albania when levying taxes and charges on the circulation and/or possession of heavy goods vehicles as well as taxes or charges levied on transport operations in the territory of the Parties. Albania undertakes to notify the Commission of the European Communities, if so requested, of the amount of taxes, tolls and charges which it applies, as well as the method of calculating them.
+
+4\. Until the conclusion of an Agreement referred to in paragraph 2 and in Article 12 any change proposed after the date of entry into force of the Stabilisation and Association to fiscal charges, tolls or other charges, including the systems for their collection which may be applied to Community traffic in transit through Albania shall be subject to a prior consultation procedure.
+
+#### Article 14 — Weights and dimensions
+
+1\. Albania shall accept that road vehicles complying with Community standards on weights and dimensions may circulate freely and without hindrance in this respect on the routes covered by Article 5. During six months after the date of entry into force of the Agreement, road vehicles which do not comply with existing Albanian standards may be subject to a special non-discriminatory charge which reflects the damage caused by additional axle weight.
+
+2\. Albania shall endeavour to harmonise its existing regulations and standards for road construction with the legislation prevailing in the Community by the end of the fifth year after the date of entry into force of the Agreement and shall make major efforts for improvement of the existing routes covered by Article 5 to those new regulations and standards within the proposed time, in accordance with its financial possibilities.
+
+#### Article 15 — Environment
+
+1\. In order to protect the environment, the Parties shall endeavour to introduce standards on gaseous and particulate emissions and noise levels for heavy goods vehicles, which ensure a high level of protection.
+
+2\. In order to provide the industry with clear information and to encourage coordinated research, programming and production, exceptional national standards in this field shall be avoided.
+
+Vehicles which comply with standards laid down by international agreements also relating to environment may operate without further restrictions in the territory of the Parties.
+
+3\. For the purpose of introducing new standards, the Parties shall work together to achieve the abovementioned objectives.
+
+#### Article 16 — Social aspects
+
+1\. Albania shall harmonise its legislation on the training of road haulage personnel, particularly with respect to the carriage of dangerous goods, to the Community standards.
+
+2\. Albania, as a Contracting Party of the European Agreement on international road transport crews (ERTA), and the Community shall coordinate to the maximum extent possible their policies concerning driving time, interruptions and rest periods for drivers and crew composition, in respect of the future development of the social legislation in this area.
+
+3\. The Parties shall cooperate with regard to implementation and enforcement of the social legislation in the field of road transport.
+
+4\. The Parties shall ensure the equivalence of their respective laws on the admission to the occupation of road haulage operator, with a view to their mutual recognition.
+
+#### Article 17 — Provisions relating to traffic
+
+1\. The Parties shall pool their experience and endeavour to harmonise their legislation so as to improve the flow of traffic during peak periods (weekends, public holidays, the tourist season).
+
+2\. In general, the Parties shall encourage the introduction, development and coordination of a road traffic information system.
+
+3\. They shall endeavour to harmonise their legislation on the carriage of perishable goods, live animals and dangerous substances.
+
+4\. The Parties shall also endeavour to harmonise the technical assistance to be provided to drivers, the dissemination of essential information on traffic and other matters of concern to tourists, and emergency services including ambulance services.
+
+#### Article 18 — Road safety
+
+1\. Albania shall harmonise its legislation on road safety, particularly with regard to the transport of dangerous goods, to that of the Community by the end of the fifth year after the date of entry into force of the Agreement.
+
+2\. Albania, as a Contracting Party to the European Agreement concerning the international carriage of dangerous goods by road (ADR), and the Community shall coordinate to the maximum extent possible their policies concerning the carriage of dangerous goods.
+
+3\. The Parties shall cooperate with regard to implementation and enforcement of road safety legislation, particularly on driving licences and measures to reduce road accidents.
+
+### TITLE IV — SIMPLIFICATION OF FORMALITIES
+
+#### Article 19 — Simplification of formalities
+
+1\. The Parties agree to simplify the flow of goods by rail and road, whether bilateral or in transit.
+
+2\. The Parties agree to begin negotiations with a view to concluding an Agreement on the facilitation of controls and formalities relating to the carriage of goods.
+
+3\. The Parties agree, to the extent necessary, to take joint action on, and to encourage, the adoption of further simplification measures.
+
+### TITLE V — FINAL PROVISIONS
+
+#### Article 20 — Widening of the scope
+
+If one of the Parties concludes, on the basis of experience in the application of this Protocol, that other measures which do not fall within the scope of the Protocol are in the interest of a coordinated European transport policy and, in particular, may help to solve the problem of transit traffic, it shall make suggestions in this respect to the other Party.
+
+#### Article 21 — Implementation
+
+1\. Cooperation between the Parties shall be carried out within the framework of a special subcommittee to be created in accordance with Article 121 of the Agreement.
+
+2\. This subcommittee in particular:
+
+(a) shall draw up plans for cooperation on rail and combined transport, transport research and the environment;
+
+(b) shall analyse the application of the decisions contained in this Protocol and shall recommend to the Stabilisation and Association Committee appropriate solutions for any possible problems which might arise;
+
+(c) shall, two years after the date of entry into force of the Agreement, undertake an assessment of the situation as regards infrastructure improvement and the implications of free transit; and
+
+(d) shall coordinate the monitoring, forecasting and other statistical work relating to international transport and in particular transit traffic.
+
+**PROTOCOL 6**
+
+**on mutual administrative assistance in customs matters**
+
+#### Article 1 — Definitions
+
+For the purposes of this Protocol:
+
+(a) ‘customs legislation’ means any legal or regulatory provisions applicable in the territories of the Parties, governing the import, export and transit of goods and their placing under any other customs regime or procedure, including measures of prohibition, restriction and control;
+
+(b) ‘applicant authority’ means a competent administrative authority which has been designated by a Party for this purpose and which makes a request for assistance on the basis of this Protocol;
+
+(c) ‘requested authority’ means a competent administrative authority which has been designated by a Party for this purpose and which receives a request for assistance on the basis of this Protocol;
+
+(d) ‘personal data’ means all information relating to an identified or identifiable individual;
+
+(e) ‘operation in breach of customs legislation’ means any violation or attempted violation of customs legislation.
+
+#### Article 2 — Scope
+
+1\. The Parties shall assist each other, in the areas within their competence, in the manner and under the conditions laid down in this Protocol, to ensure the correct application of the customs legislation, in particular by preventing, investigating and combating operations in breach of that legislation.
+
+2\. Assistance in customs matters, as provided for in this Protocol, shall apply to any administrative authority of the Parties which is competent for the application of this Protocol. It shall not prejudice the rules governing mutual assistance in criminal matters. Nor shall it cover information obtained under powers exercised at the request of a judicial authority, except where communication of such information is authorised by that authority.
+
+3\. Assistance to recover duties, taxes or fines is not covered by this Protocol.
+
+#### Article 3 — Assistance on request
+
+1\. At the request of the applicant authority, the requested authority shall provide it with all relevant information which may enable it to ensure that customs legislation is correctly applied, including information regarding activities noted or planned which are or could be operations in breach of customs legislation.
+
+2\. At the request of the applicant authority, the requested authority shall inform it:
+
+(a) whether goods exported from the territory of one of the Parties have been properly imported into the territory of the other Party, specifying, where appropriate, the customs procedure applied to the goods;
+
+(b) whether goods imported into the territory of one of the Parties have been properly exported from the territory of the other Party, specifying, where appropriate, the customs procedure applied to the goods.
+
+3\. At the request of the applicant authority, the requested authority shall, within the framework of its legal or regulatory provisions, take the necessary steps to ensure special surveillance of:
+
+(a) natural or legal persons in respect of whom there are reasonable grounds for believing that they are or have been involved in operations in breach of customs legislation;
+
+(b) places where stocks of goods have been or may be assembled in such a way that there are reasonable grounds for believing that these goods are intended to be used in operations in breach of customs legislation;
+
+(c) goods that are or may be transported in such a way that there are reasonable grounds for believing that they are intended to be used in operations in breach of customs legislation; and
+
+(d) means of transport that are or may be used in such a way that there are reasonable grounds for believing that they are intended to be used in operations in breach of customs legislation.
+
+#### Article 4 — Spontaneous assistance
+
+The Parties shall assist each other, at their own initiative and in accordance with their legal or regulatory provisions, if they consider that to be necessary for the correct application of customs legislation, particularly by providing information obtained pertaining to:
+
+— activities which are or appear to be operations in breach of customs legislation and which may be of interest to the other Party,
+
+— new means or methods employed in carrying out operations in breach of customs legislation,
+
+— goods known to be subject to operations in breach of customs legislation,
+
+— natural or legal persons in respect of whom there are reasonable grounds for believing that they are or have been involved in operations in breach of customs legislation, and
+
+— means of transport in respect of which there are reasonable grounds for believing that they have been, are, or may be used in operations in breach of customs legislation.
+
+#### Article 5 — Delivery, notification
+
+At the request of the applicant authority, the requested authority shall, in accordance with legal or regulatory provisions applicable to the latter, take all necessary measures in order:
+
+— to deliver any documents, or
+
+— to notify any decisions,
+
+emanating from the applicant authority and falling within the scope of this Protocol, to an addressee residing or established in the territory of the requested authority.
+
+Requests for delivery of documents or notification of decisions shall be made in writing in an official language of the requested authority or in a language acceptable to that authority.
+
+#### Article 6 — Form and substance of requests for assistance
+
+1\. Requests pursuant to this Protocol shall be made in writing. They shall be accompanied by the documents necessary to enable compliance with the request. When required because of the urgency of the situation, oral requests may be accepted, but must be confirmed in writing immediately.
+
+2\. Requests pursuant to paragraph 1 shall include the following information:
+
+(a) the applicant authority;
+
+(b) the measure requested;
+
+(c) the object of and the reason for the request;
+
+(d) the legal or regulatory provisions and other legal elements involved;
+
+(e) indications as exact and comprehensive as possible on the natural or legal persons who are the target of the investigations; and
+
+(f) a summary of the relevant facts and of the enquiries already carried out.
+
+3\. Requests shall be submitted in an official language of the requested authority or in a language acceptable to that authority. This requirement shall not apply to any documents that accompany the request under paragraph 1.
+
+4\. If a request does not meet the formal requirements set out above, its correction or completion may be requested; in the meantime precautionary measures may be ordered.
+
+#### Article 7 — Execution of requests
+
+1\. In order to comply with a request for assistance, the requested authority shall proceed, within the limits of its competence and available resources, as though it were acting on its own account or at the request of other authorities of that same Party, by supplying information already possessed, by carrying out appropriate enquiries or by arranging for them to be carried out. This provision shall also apply to any other authority to which the request has been addressed by the requested authority when the latter cannot act on its own.
+
+2\. Requests for assistance shall be executed in accordance with the legal or regulatory provisions of the requested Party.
+
+3\. Duly authorised officials of a Party may, with the agreement of the other Party involved and subject to the conditions laid down by the latter, be present to obtain in the offices of the requested authority or any other concerned authority in accordance with paragraph 1, information relating to activities that are or may be operations in breach of customs legislation which the applicant authority needs for the purposes of this Protocol.
+
+4\. Duly authorised officials of a Party involved may, with the agreement of the other Party involved and subject to the conditions laid down by the latter, be present at enquiries carried out in the latter’s territory.
+
+#### Article 8 — Form in which information is to be communicated
+
+1\. The requested authority shall communicate results of enquiries to the applicant authority in writing together with relevant documents, certified copies or other items.
+
+2\. This information may be in computerised form.
+
+3\. Original documents shall be transmitted only upon request in cases where certified copies would be insufficient. These originals shall be returned at the earliest opportunity.
+
+#### Article 9 — Exceptions to the obligation to provide assistance
+
+1\. Assistance may be refused or may be subject to the satisfaction of certain conditions or requirements, in cases where a Party is of the opinion that assistance under this Protocol would:
+
+(a) be likely to prejudice the sovereignty of Albania or that of a Member State which has been requested to provide assistance under this Protocol; or
+
+(b) be likely to prejudice public policy, security or other essential interests, in particular in the cases referred to under Article 10(2); or
+
+(c) violate an industrial, commercial or professional secret.
+
+2\. Assistance may be postponed by the requested authority on the ground that it will interfere with an ongoing investigation, prosecution or proceeding. In such a case, the requested authority shall consult with the applicant authority to determine if assistance can be given subject to such terms or conditions as the requested authority may require.
+
+3\. Where the applicant authority seeks assistance which it would itself be unable to provide if so requested, it shall draw attention to that fact in its request. It shall then be for the requested authority to decide how to respond to such a request.
+
+4\. For the cases referred to in paragraphs 1 and 2, the decision of the requested authority and the reasons therefor must be communicated to the applicant authority without delay.
+
+#### Article 10 — Information exchange and confidentiality
+
+1\. Any information communicated in whatsoever form pursuant to this Protocol shall be of a confidential or restricted nature, depending on the rules applicable in each of the Parties. It shall be covered by the obligation of official secrecy and shall enjoy the protection extended to similar information under the relevant laws of the Party that received it and the corresponding provisions applying to the Community authorities.
+
+2\. Personal data may be exchanged only where the Party which may receive them undertakes to protect such data in at least an equivalent way to the one applicable to that particular case in the Party that may supply them. To that end, Parties shall communicate to each other information on their applicable rules, including, where appropriate, legal provisions in force in the Member States of the Community.
+
+3\. The use, in judicial or administrative proceedings instituted in respect of operations in breach of customs legislation, of information obtained under this Protocol, is considered to be for the purposes of this Protocol. Therefore, the Parties may, in their records of evidence, reports and testimonies and in proceedings and charges brought before the courts, use as evidence information obtained and documents consulted in accordance with the provisions of this Protocol. The competent authority which supplied that information or gave access to those documents shall be notified of such use.
+
+4\. Information obtained shall be used solely for the purposes of this Protocol. Where one of the Parties wishes to use such information for other purposes, it shall obtain the prior written consent of the authority which provided the information. Such use shall then be subject to any restrictions laid down by that authority.
+
+#### Article 11 — Experts and witnesses
+
+An official of a requested authority may be authorised to appear, within the limitations of the authorisation granted, as an expert or witness in judicial or administrative proceedings regarding the matters covered by this Protocol, and produce such objects, documents or certified copies thereof, as may be needed for the proceedings. The request for appearance must indicate specifically before which judicial or administrative authority the official will have to appear, on what matters and by virtue of what title or qualification the official will be questioned.
+
+#### Article 12 — Assistance expenses
+
+The Parties shall waive all claims on each other for the reimbursement of expenses incurred pursuant to this Protocol, except, as appropriate, for expenses to experts and witnesses, and those to interpreters and translators who are not public service employees.
+
+#### Article 13 — Implementation
+
+1\. The implementation of this Protocol shall be entrusted on the one hand to the customs authorities of Albania and on the other hand to the competent services of the Commission of the European Communities and the customs authorities of the Member States as appropriate. They shall decide on all practical measures and arrangements necessary for its application, taking into consideration the rules in force in particular in the field of data protection. They may recommend to the competent bodies amendments which they consider should be made to this Protocol.
+
+2\. The Parties shall consult each other and subsequently keep each other informed of the detailed rules of implementation which are adopted in accordance with the provisions of this Protocol.
+
+#### Article 14 — Other agreements
+
+1\. Taking into account the respective competences of the Community and the Member States, the provisions of this Protocol shall:
+
+— not affect the obligations of the Parties under any other international agreement or convention,
+
+— be deemed complementary to agreements on mutual assistance which have been or may be concluded between individual Member States and Albania, and shall
+
+— not affect the Community provisions governing the communication between the competent services of the Commission of the European Communities and the customs authorities of the Member States of any information obtained under this Protocol which could be of interest to the Community.
+
+2\. Notwithstanding the provisions of paragraph 1, the provisions of this Protocol shall take precedence over the provisions of any bilateral agreement on mutual assistance which has been or may be concluded between individual Member States and Albania in so far as the provisions of the latter are incompatible with those of this Protocol.
+
+3\. In respect of questions relating to the applicability of this Protocol, the Parties shall consult each other to resolve the matter in the framework of the Stabilisation and Association Committee set up under Article 120 of the Stabilisation and Association Agreement.
+
+**FINAL ACT**
+
+The plenipotentiaries of:
+
+THE KINGDOM OF BELGIUM,
+
+THE CZECH REPUBLIC,
+
+THE KINGDOM OF DENMARK,
+
+THE FEDERAL REPUBLIC OF GERMANY,
+
+THE REPUBLIC OF ESTONIA
+
+THE HELLENIC REPUBLIC,
+
+THE KINGDOM OF SPAIN,
+
+THE FRENCH REPUBLIC,
+
+IRELAND,
+
+THE ITALIAN REPUBLIC,
+
+THE REPUBLIC OF CYPRUS,
+
+THE REPUBLIC OF LATVIA,
+
+THE REPUBLIC OF LITHUANIA,
+
+THE GRAND DUCHY OF LUXEMBOURG,
+
+THE REPUBLIC OF HUNGARY,
+
+THE REPUBLIC OF MALTA,
+
+THE KINGDOM OF THE NETHERLANDS,
+
+THE REPUBLIC OF AUSTRIA,
+
+THE REPUBLIC OF POLAND,
+
+THE PORTUGUESE REPUBLIC,
+
+THE REPUBLIC OF SLOVENIA,
+
+THE SLOVAK REPUBLIC,
+
+THE REPUBLIC OF FINLAND,
+
+THE KINGDOM OF SWEDEN,
+
+THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+
+Contracting Parties to the Treaty establishing the European Community, the Treaty establishing the European Atomic Energy Community, and the Treaty on European Union,
+
+hereinafter referred to as ‘the Member States’, and of
+
+the EUROPEAN COMMUNITY and the EUROPEAN ATOMIC ENERGY COMMUNITY,
+
+hereinafter referred to as ‘the Community’
+
+of the one part, and
+
+the plenipotentiaries of the REPUBLIC OF ALBANIA,
+
+of the other part,
+
+meeting in Luxembourg on the twelfth day of June in the year 2006 for the signature of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the Republic of Albania, of the other part, hereinafter referred to as ‘the Agreement’, have adopted the following texts:
+
+the Agreement and its Annexes I to V, namely:
+
+Annex I — Albanian tariff concessions for Community industrial products
+
+Annex II(a) — Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(a))
+
+Annex II(b) — Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(b))
+
+Annex II(c) — Albanian tariff concessions for agricultural primary products originating in the Community (referred to in Article 27(3)(c))
+
+Annex III — Community concessions for Albanian fishery products
+
+Annex IV — Establishment: Financial services
+
+Annex V — Intellectual, industrial and commercial property rights
+
+and the following Protocols:
+
+Protocol 1 on iron and steel products
+
+Protocol 2 on trade between Albania and the Community in the sector of processed agricultural products
+
+Protocol 3 on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine, spirit drinks and aromatised wine names
+
+Protocol 4 concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation
+
+Protocol 5 on land transport
+
+Protocol 6 on mutual administrative assistance in customs matters.
+
+The plenipotentiaries of the Member States and of the Community and the plenipotentiaries of the Republic of Albania have adopted the following Joint Declarations listed below and annexed to this Final Act:
+
+Joint Declaration on Articles 22 and 29 of the Agreement
+
+Joint Declaration concerning Article 41 of the Agreement
+
+Joint Declaration concerning Article 46 of the Agreement
+
+Joint Declaration concerning Article 48 of the Agreement
+
+Joint Declaration concerning Article 61 of the Agreement
+
+Joint Declaration concerning Article 73 of the Agreement
+
+Joint Declaration concerning Article 80 of the Agreement
+
+Joint Declaration concerning Article 126 of the Agreement
+
+Joint Declaration on legal migration, freedom of movement and rights of workers
+
+Joint Declaration concerning the Principality of Andorra concerning Protocol 4 of the Agreement
+
+Joint Declaration concerning the Republic of San Marino concerning Protocol 4 of the Agreement
+
+Joint Declaration concerning Protocol 5 of the Agreement.
+
+The plenipotentiaries of the Republic of Albania have taken note of the Declaration by the Community listed below and annexed to this Final Act:
+
+Declaration by the Community concerning the exceptional trade measures granted by the Community on the basis of Regulation (EC) No 2007/2000.
+
+Hecho en Luxemburgo, el doce de junio de dos mil seis.
+
+V Luxemburku, dne dvanáctého června dva tisíce šest.
+
+Udfærdiget i Luxembourg den tolvte juni to tusind og seks.
+
+Geschehen zu Luxemburg am zwölften Juni zweitausendsechs.
+
+Kahe tuhande kuuenda aasta juunikuu kaheteistkümnendal päeval Luxembourgis.
+
+Έγινε στο Λουξεμβούργο, στις δώδεκα Ιουνίου δύο χιλιάδες έξι.
+
+Done at Luxembourg on the twelfth day of June in the year two thousand and six.
+
+Fait à Lussemburgo, le douze juin deux mille six.
+
+Fatto a Lussemburgo, addì dodici giugno duemilasei.
+
+Luksemburgā, divtūkstoš sestă gada divpadsmitajā jūnijā.
+
+Priimta du tūkstančiai šeštų metų birželio dvyliktą dieną Liuksemburge.
+
+Kelt Luxembourgban, a kettőezer hatodik év június tizenkettedik napján.
+
+Magħmul fil-Lussemburgu, fit-tnax jum ta' Ġunju tas-sena elfejn u sitta.
+
+Gedaan te Luxemburg, de twaalfde juni tweeduizend zes.
+
+Sporządzono w Luksemburgu dnia dwunastego czerwca roku dwa tysiące szóstego.
+
+Feito em Luxemburgo, em doze de Junho de dois mil e seis.
+
+V Luxemburgu dňa dvanásteho júna dvetisícšesť.
+
+V Luxembourgu, dvanajstega junija leta dva tisoč šest.
+
+Tehty Luxemburgissa kahdentenatoista päivänä kesäkuuta vuonna kaksituhattakuusi.
+
+Som skedde i Luxemburg den tolfe juni tjugohundrasex.
+
+Bërë në Luksemburg në datë dymbëdhjetë qershor të vitit dymijë e gjasthtë.
+
+Pour le Royaume de Belgique
+
+Voor het Koninkrijk België
+
+Für das Königreich Belgien
+
+[image]
+
+Cette signature engage également la Communauté française, la Communauté flamande, la Communauté germanophone, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale.
+
+Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
+
+Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft, die Flämische Gemeinschaft, die Französische Gemeinschaft, die Wallonische Region, die Flämische Region und die Region Brüssel-Hauptstadt.
+
+Za Českou republiku
+
+[image]
+
+På Kongeriget Danmarks vegne
+
+[image]
+
+Für die Bundesrepublik Deutschland
+
+[image]
+
+Eesti Vabariigi nimel
+
+[image]
+
+Για την Ελληνική Δημοκρατία
+
+[image]
+
+Por el Reino de España
+
+[image]
+
+Pour la Republique française
+
+[image]
+
+Thar cheann Na hÉireann
+
+For Ireland
+
+[image]
+
+Per la Repubblica italiana
+
+[image]
+
+Για την Κυπριακή Δημοκρατία
+
+[image]
+
+Latvijas Republikas vārdā
+
+[image]
+
+Lietuvos Respublikos vardu
+
+[image]
+
+Pour le Grand-Duché de Luxembourg
+
+[image]
+
+A Magyar Köztársaság részéről
+
+[image]
+
+Għar-Repubblika ta' Malta
+
+[image]
+
+Voor het Koninkrijk der Nederlanden
+
+[image]
+
+Für die Republik Österreich
+
+[image]
+
+W imieniu Rzeczypospolitej Polskiej
+
+[image]
+
+Pela República Portuguesa
+
+[image]
+
+Za Republiko Slovenijo
+
+[image]
+
+Za Slovenskú republiku
+
+[image]
+
+Suomen tasavallan puolesta
+
+För Republiken Finland
+
+[image]
+
+För Konungariket Sverige
+
+[image]
+
+For the United Kingdom of Great Britain and Northern Ireland
+
+[image]
+
+Por las Comunidades Europeas
+
+Za Evropská společenství
+
+For De Europæiske Fællesskaber
+
+Für die Europäischen Gemeinschaften
+
+Euroopa ühenduste nimel
+
+Για τις Ευρωπαϊκές Κοινότητες
+
+For the European Communities
+
+Pour les Communautés européennes
+
+Per le Comunità europee
+
+Eiropas Kopienu vārdā
+
+Europos Bendrijų vardu
+
+Az Európai Közösségek részéről
+
+Għall-Komunitajiet Ewropej
+
+Voor de Europese Gemeenschappen
+
+W imieniu Wspólnot Europejskich
+
+Pelas Comunidades Europeias
+
+Za Európske spoločenstvá
+
+Za Evropski skupnosti
+
+Euroopan yhteisöjen puolesta
+
+På Europeiska gemenskapernas vägnar
+
+[image]
+
+[image]
+
+Për Republikën e Shqipërisë
+
+[image]
+
+**JOINT DECLARATIONS**
+
+**JOINT DECLARATION ON ARTICLES 22 AND 29 OF THE AGREEMENT**
+
+The Parties declare that in the implementation of Articles 22 and 29 they will examine, in the Stabilisation and Association Council, the impact of any preferential agreements negotiated by Albania with third countries (excluding the countries covered by the EU Stabilisation and Association process and other adjacent countries which are not Member States of the European Union). This examination will allow for an adjustment of Albanian concessions to the Community if Albania were to offer significantly better concessions to these countries.
+
+**JOINT DECLARATION CONCERNING ARTICLE 41 OF THE AGREEMENT**
+
+|  | 1. | The Community declares its readiness to examine, within the Stabilisation and Association Council, the issue of Albania’s participation in diagonal cumulation of rules of origin once economic and commercial as well as other relevant conditions for granting diagonal cumulation have been established. |
+| --- | --- | --- |
+
+|  | 2. | With this in mind, Albania declares its readiness to establish free trade areas with, in particular, the other countries covered by the European Union’s Stabilisation and Association process. |
+| --- | --- | --- |
+
+**JOINT DECLARATION CONCERNING ARTICLE 46 OF THE AGREEMENT**
+
+It is understood that the notion ‘children’ is defined in accordance with national legislation of the host country concerned.
+
+**JOINT DECLARATION CONCERNING ARTICLE 48 OF THE AGREEMENT**
+
+It is understood that the notion ‘members of their family’ is defined in accordance with national legislation of the host country concerned.
+
+**JOINT DECLARATION CONCERNING ARTICLE 61 OF THE AGREEMENT**
+
+The Parties agree that the provisions laid down in Article 61 shall not be construed to prevent proportionate, non-discriminatory restrictions to the acquisition of real estate based on general interest, nor otherwise affect the Parties’ rules governing the system of property ownership, except as specifically laid down therein.
+
+It is understood that the acquisition of real estate by Albanian nationals is allowed in the Member States of the European Union in accordance with the applicable Community law, subject to specific exceptions permitted thereby and applied in conformity with the applicable national legislations of the Member States of the European Union.
+
+**JOINT DECLARATION CONCERNING ARTICLE 73 OF THE AGREEMENT**
+
+The Parties agree that for the purposes of the Agreement, intellectual, industrial and commercial property includes in particular copyright, including the copyright in computer programs, and neighbouring rights, the rights relating to databases, patents, industrial designs, trademarks and service marks, topographies of integrated circuits and geographical indications, including appellations of origin, as well as protection against unfair competition as referred to in Article 10a of the Paris Convention for the Protection of Industrial Property and protection of undisclosed information on know-how.
+
+**JOINT DECLARATION CONCERNING ARTICLE 80 OF THE AGREEMENT**
+
+The Parties are aware of the importance the people and the Government of Albania attach to the perspective of liberalisation of the visa regime. Meanwhile, progress is dependent on Albania implementing major reforms in areas such as the strengthening of the rule of law, combating organised crime, corruption and illegal migration, and strengthening its administrative capacity in border control and security of documents.
+
+**JOINT DECLARATION CONCERNING ARTICLE 126 OF THE AGREEMENT**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>For the purposes of the interpretation and practical application of the Agreement, the Parties agree that the cases of special urgency referred to in Article 126 of the Agreement mean cases of material breach of the Agreement by one of the two Parties. A material breach of the Agreement consists in:<table><tbody><tr><td>—</td><td>repudiation of the Agreement not sanctioned by the general rules of international law and,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>violation of the essential elements of the Agreement set out in Article 2.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 2. | The Parties agree that the ‘appropriate measures’ referred to in Article 126 are measures taken in accordance with international law. If a Party takes a measure in a case of special urgency pursuant to Article 126, the other Party may avail itself of the dispute settlement procedure. |
+| --- | --- | --- |
+
+**JOINT DECLARATION ON LEGAL MIGRATION, FREEDOM OF MOVEMENT AND RIGHTS OF WORKERS**
+
+The granting renewal or refusal of a residence permit is governed by the legislation of each Member State and the bilateral agreements and conventions in force between Albania and the Member State.
+
+**JOINT DECLARATION CONCERNING THE PRINCIPALITY OF ANDORRA CONCERNING PROTOCOL 4 OF THE AGREEMENT**
+
+|  | 1. | Products originating in the Principality of Andorra falling within Chapters 25 to 97 of the Harmonised System shall be accepted by Albania as originating in the Community within the meaning of the Agreement. |
+| --- | --- | --- |
+
+|  | 2. | Protocol 4 shall apply mutatis mutandis for the purpose of defining the originating status of the abovementioned products. |
+| --- | --- | --- |
+
+**JOINT DECLARATION CONCERNING THE REPUBLIC OF SAN MARINO CONCERNING PROTOCOL 4 OF THE AGREEMENT**
+
+|  | 1. | Products originating in the Republic of San Marino shall be accepted by Albania as originating in the Community within the meaning of the Agreement. |
+| --- | --- | --- |
+
+|  | 2. | Protocol 4 shall apply mutatis mutandis for the purpose of defining the originating status of the abovementioned products. |
+| --- | --- | --- |
+
+**JOINT DECLARATION CONCERNING PROTOCOL 5 OF THE AGREEMENT**
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>The Community and Albania take note that the levels of gaseous emissions and noise currently accepted in the Community for the purposes of heavy goods vehicle type approval from 1 January 2001 (1) are as follows:<table><tbody><tr><td></td><td>Limit values measured on the European Steady Cycle (ESC) and the European Load Response (ELR) test:<table><tbody><tr><td></td><td></td><td>Mass of carbon monoxide</td><td>Mass of hydrocarbons</td><td>Mass of nitrogen oxides</td><td>Mass of particulates</td><td>Smoke</td></tr>
+<tr><td></td><td></td><td>(CO) g/kWh</td><td>(HC) g/kWh</td><td>(NOx) g/kWh</td><td>(PT) g/kWh</td><td>m-1</td></tr>
+<tr><td>Row A</td><td>Euro III</td><td>2,1 </td><td>0,66 </td><td>5,0 </td><td>0,10 0,13 (a) </td><td>0,8 </td></tr>
+<tr><td colspan="7"><table><tbody><tr><td>(a)</td><td>For engines having a swept volume of less than 0,75 dm3 per cylinder and a rated power speed of more than 3 000 min-1</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td></td><td>Limit values measured on the European Transient Cycle (ETC):<table><tbody><tr><td></td><td></td><td>Mass of carbon monoxide</td><td>Mass of non-methane hydrocarbons</td><td>Mass of methane</td><td>Mass of nitrogen oxides</td><td>Mass of particulates</td></tr>
+<tr><td></td><td></td><td>(CO) g/kWh</td><td>(NMHC) g/kWh </td><td>(CH4) (b)  g/kWh </td><td>(NOx) g/kWh </td><td>(PT) (c)  g/kWh </td></tr>
+<tr><td>Row A</td><td>Euro III</td><td>5,45 </td><td>0,78 </td><td>1,6 </td><td>5,0 </td><td>0,16 0,21 (a) </td></tr>
+<tr><td colspan="7"><table><tbody><tr><td>(a)</td><td>For engines having a swept volume of less than 0,75 dm3 per cylinder and a rated power speed of more than 3 000 min-1.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>For natural gas engines only.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>Not applicable for gas-fuelled engines.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 2. | In the future, the Community and Albania shall endeavour to reduce the emissions of motor vehicles through the use of state of the art vehicle emission control technology coupled with improved quality of motor fuel. |
+| --- | --- | --- |
+
+(1) Directive 1999/96/EC of 13 December 1999 of the European Parliament and of the Council of 13 December 1999 on the approximation of the laws of the Member States relating to measures to be taken against the emission of gaseous and particulate pollutants from compression ignition engines for use in vehicles, and the emission of gaseous pollutants from positive ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles.
+
+**DECLARATION BY THE COMMUNITY**
+
+**Declaration by the Community concerning the exceptional trade measures granted by the Community on the basis of Regulation (EC) No 2007/2000**
+
+Considering that exceptional trade measures are granted by the Community to countries participating or linked to the EU Stabilisation and Association process, including Albania, on the basis of Council Regulation (EC) No 2007/2000 of 18 September 2000 introducing exceptional trade measures for countries and territories participating in or linked to the European Union’s Stabilisation and Association process, amending Regulation (EC) No 2820/98, and repealing Regulations (EC) No 1763/1999 and (EC) No 6/2000 (1), the Community declares:
+
+— that, in application of Article 30 of the Agreement, those of the unilateral autonomous trade measures which are more favourable will apply in addition to the contractual trade concessions offered by the Community in the Agreement as long as Council Regulation (EC) No 2007/2000, as amended, applies,
+
+— that, in particular, for the products covered by Chapters 7 and 8 of the Combined Nomenclature, for which the Common Customs Tariff provides for the application of ad valorem customs duties and a specific customs duty, the reduction will apply also to the specific customs duty in derogation from the relevant provision of Article 27(1) of the Agreement.
+
+(1) OJ L 240, 23.9.2000, p. 1.

@@ -1,0 +1,497 @@
+---
+title: "Council Decision 2009/917/JHA of 30 November 2009 on the use of information technology for customs purposes"
+identifier: "32009D0917"
+eli: "http://data.europa.eu/eli/dec/2009/917/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2009-11-30
+entry_into_force: 2009-04-20
+last_amended: 2024-04-08
+consolidated_version: "02009D0917-20240408"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009D0917-20240408"
+retrieved: 2026-10-11
+---
+
+# Council Decision 2009/917/JHA of 30 November 2009 on the use of information technology for customs purposes
+
+**COUNCIL DECISION 2009/917/JHA**
+
+**of 30 November 2009**
+
+**on the use of information technology for customs purposes**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/868 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 868</td><td>1</td><td>19.3.2024</td></tr>
+</table>
+
+**COUNCIL DECISION 2009/917/JHA**
+
+**of 30 November 2009**
+
+**on the use of information technology for customs purposes**
+
+## CHAPTER I — ESTABLISHMENT OF A CUSTOMS INFORMATION SYSTEM
+
+### Article 1
+
+1\. A joint automated information system for customs purposes (hereinafter referred to as the ‘Customs Information System’ or the ‘System’) is hereby established.
+
+2\. The purpose of the Customs Information System, in accordance with this Decision, shall be to assist the competent authorities of the Member States with the prevention, investigation, detection or prosecution of criminal offences under national laws, by making information available more rapidly, thereby increasing the effectiveness of the cooperation and control procedures of the customs administrations of the Member States.
+
+## CHAPTER II — DEFINITIONS
+
+### Article 2
+
+For the purposes of this Decision:
+
+1\. ‘national laws’ mean laws or regulations of a Member State, in the application of which the customs administration of that Member State has total or partial competence, concerning:
+
+(a) the movement of goods subject to measures of prohibition, restriction or control, in particular those measures covered by Articles 30 and 296 of the Treaty establishing the European Community (the EC Treaty);
+
+(b) measures to control cash movements within the Community, where such measures are taken in accordance with Article 58 of the EC Treaty;
+
+(c) the transfer, conversion, concealment, or disguise of property or proceeds acquired or obtained directly or indirectly through illicit international drug trafficking or by infringement of:
+
+(i) the laws, regulations or administrative provisions of a Member State in the application of which the customs administration of that Member State has partial or total competence, concerning the cross-border movement of goods subject to measures of prohibition, restriction or control, in particular those measures referred to in Articles 30 and 296 of the EC Treaty, and non-harmonised excise duties;
+
+(ii) the body of Community provisions and associated implementing provisions governing the import, export, transit and presence of goods traded between Member States and third countries, and between Member States in the case of goods that do not have Community status within the meaning of Article 23 of the EC Treaty or goods subject to additional controls or investigations for the purposes of establishing their Community status;
+
+(iii) the body of provisions adopted at Community level under the common agricultural policy and the specific provisions adopted with regard to goods resulting from the processing of agricultural products; or
+
+(iv) the body of provisions adopted at Community level for harmonised excise duties and for value-added tax on importation together with the national provisions implementing them, or those which have been used in that context;
+
+2\. ‘personal data’ means personal data as defined in Article 3, point (1), of Directive (EU) 2016/680 of the European Parliament and of the Council ( 1 );
+
+3\. ‘supplying Member State’ means a Member State which enters an item of data into the Customs Information System;
+
+4\. ‘operational analysis’ means analysis of operations which constitute, or appear to constitute, breaches of national laws, involving the following stages:
+
+(a) the collection of information, including personal data;
+
+(b) evaluation of the reliability of the information source and the information itself;
+
+(c) research, methodical presentation and interpretation of links between these items of information or between them and other significant data;
+
+(d) the formulation of observations, hypotheses or recommendations directly usable as risk information by the competent authorities to prevent and detect other operations in breach of national laws and/or to identify with precision the person or businesses implicated in such operations;
+
+5\. ‘strategic analysis’ means research and presentation of the general trends in breaches of national laws through an evaluation of the threat, scale and impact of certain types of operation in breach of national laws, with a view to setting priorities, gaining a better picture of the phenomenon or threat, reorienting action to prevent and detect fraud and reviewing departmental organisation. Only data from which identifying factors have been removed may be used for strategic analysis.
+
+6\. ‘national supervisory authority’ means a supervisory authority as defined in Article 3, point (15), of Directive (EU) 2016/680.
+
+## CHAPTER III — OPERATION AND USE OF THE CUSTOMS INFORMATION SYSTEM
+
+### Article 3
+
+1\. The Customs Information System shall consist of a central database facility, accessible through terminals in each Member State. It shall comprise exclusively data necessary to achieve its purpose as stated in Article 1(2), including personal data, in the following categories:
+
+(a) commodities;
+
+(b) means of transport;
+
+(c) businesses;
+
+(d) persons;
+
+(e) fraud trends;
+
+(f) availability of expertise;
+
+(g) items detained, seized or confiscated;
+
+(h) cash detained, seized or confiscated.
+
+2\. The Commission shall ensure the technical management of the infrastructure of the Customs Information System in accordance with the rules provided for by the implementing measures adopted by the Council.
+
+The Commission shall report on management to the Committee referred to in Article 27.
+
+3\. The Commission shall communicate to that Committee the practical arrangements adopted for technical management.
+
+### Article 4
+
+1\. Member States shall determine the items to be entered into the Customs Information System relating to each of the categories referred to in Article 3(1), to the extent that this is necessary to achieve the purpose of that system. No items of personal data shall be entered in any event within the category set out in Article 3(1), point (e).
+
+2\. With regard to the categories set out in Article 3(1)(a) to (d), the items of information entered in respect of persons shall comprise no more than:
+
+(a) name, maiden name, forenames, former surnames and aliases;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) number and place and date of issue of the identity papers (passports, identity cards, driving licences);
+
+(f) address;
+
+(g) any particular objective and permanent physical characteristics;
+
+(h) reason for entering data;
+
+(i) suggested action;
+
+(j) a warning code indicating any history of being armed, violent or of escaping;
+
+(k) registration number of the means of transport.
+
+3\. With regard to the category set out in Article 3(1)(f), the items of information entered in respect of persons shall comprise no more than the experts surnames and forenames.
+
+4\. With regard to the categories set out in Article 3(1)(g) and (h), the items of information entered in respect of persons shall comprise no more than:
+
+(a) name, maiden name, forenames, former surnames and aliases;
+
+(b) date and place of birth;
+
+(c) nationality;
+
+(d) sex;
+
+(e) address.
+
+5\. In no case shall the special categories of personal data referred to in Article 10 of Directive (EU) 2016/680 be entered into the Customs Information System.
+
+### Article 5
+
+1\. Data in the categories referred to in Article 3(1)(a) to (g) shall be entered into the Customs Information System only for the purpose of sighting and reporting, discreet surveillance, specific checks and strategic or operational analysis.
+
+Data in the category referred to in Article 3(1)(h) shall be entered into the Customs Information System only for the purpose of strategic or operational analysis.
+
+2\. For the purpose of the actions referred to in paragraph 1, personal data in any of the categories referred to in Article 3(1) may be entered into the Customs Information System only if there are reasonable grounds, in particular on the basis of prior illegal activities, to suggest that the person concerned has committed, is in the act of committing or will commit a criminal offence under national laws.
+
+### Article 6
+
+1\. If the actions referred to in Article 5(1) are carried out, the following information may in whole or in part be collected and transferred to the supplying Member State:
+
+(i) the fact that the commodity, means of transport, business or person reported has been found;
+
+(ii) the place, time and reason for the check;
+
+(iii) the route and destination of the journey;
+
+(iv) persons accompanying the person concerned or occupants of the means of transport;
+
+(v) the means of transport used;
+
+(vi) objects carried;
+
+(vii) the circumstances under which the commodity, means of transport, business or person was found.
+
+When such information is collected in the course of discreet surveillance, steps have to be taken to ensure that the discreet nature of the surveillance is not jeopardised.
+
+2\. In the context of a specific check referred to in Article 5(1), persons, means of transport and objects may be searched to the extent permissible and in accordance with the laws, regulations and procedures of the Member State in which the search takes place. If the specific check is not permitted by the law of a Member State, it shall automatically be converted by that Member State into sighting and reporting or discreet surveillance.
+
+### Article 7
+
+1\. Direct access to data entered into the Customs Information System shall be reserved to the national authorities designated by each Member State. Those national authorities shall be customs administrations, but may also include other authorities competent, according to the laws, regulations and procedures of the Member State in question, to act in order to achieve the purpose stated in Article 1(2).
+
+2\. Each Member State shall send the other Member States and the Committee referred to in Article 27 a list of its competent authorities which have been designated in accordance with paragraph 1 of this Article to have direct access to the Customs Information System stating, for each authority, to which data it may have access and for what purposes.
+
+### Article 8
+
+1\. The national authorities designated by each Member State in accordance with Article 7, Europol and Eurojust may process personal data obtained from the Customs Information System in order to achieve the purpose stated in Article 1(2), in accordance with Union or national law applicable to the protection of personal data with the prior authorisation of, and subject to compliance with any conditions imposed by, the designated national authorities of the Member State which entered the personal data into that system.
+
+The national authorities designated by each Member State, Europol and Eurojust may process non-personal data obtained from the Customs Information System in order to achieve the purpose stated in Article 1(2) or for other purposes, including administrative ones, in compliance with any conditions imposed by the designated national authorities of the Member State which entered the non-personal data in that system.
+
+2\. Without prejudice to paragraphs 1 and 4 of this Article and Articles 11 and 12, data obtained from the Customs Information System shall only be used by national authorities in each Member State designated by the Member State in question, which are competent, in accordance with the laws, regulations and procedures of that Member State, to act in order to achieve the purpose stated in Article 1(2).
+
+3\. Each Member State shall send the other Member States and the Committee referred to in Article 27 a list of the competent authorities it has designated in accordance with paragraph 2 of this Article.
+
+4\. Personal data obtained from the Customs Information System may, with the prior authorisation of, and subject to compliance with any conditions imposed by, the designated national authorities of the Member State which entered that data into that system, be:
+
+(a) transmitted to, and further processed by, national authorities other than those designated under paragraph 2, in accordance with Union or national law applicable to the protection of personal data; or
+
+(b) transferred to, and further processed by, the competent authorities of third countries and international or regional organisations, in accordance with Union or national law applicable to the protection of personal data.
+
+Non-personal data obtained from the Customs Information System may be transferred to, and further processed by national authorities other than those designated under paragraph 2, third countries, and international or regional organisations, in compliance with any conditions imposed by the designated national authorities of the Member State which entered the non-personal data in that system.
+
+### Article 9
+
+1\. The entry of data into the Customs Information System shall be governed by the laws, regulations and procedures of the supplying Member State unless this Decision lays down more stringent provisions.
+
+2\. The use of data obtained from the Customs Information System, including performance of any action under Article 5(1) suggested by the supplying Member State, shall be governed by the laws, regulations and procedures of the Member State using such data, unless this Decision lays down more stringent provisions.
+
+### Article 10
+
+1\. Each Member State shall designate a competent customs administration which shall have national responsibility for the Customs Information System.
+
+2\. The administration referred to in paragraph 1 shall be responsible for the correct operation of the Customs Information System within the Member State and shall take the measures necessary to ensure compliance with this Decision.
+
+3\. Member States shall inform one another of the administration referred to in paragraph 1.
+
+### Article 11
+
+1\. Europol shall, within its mandate and for the fulfilment of its tasks, have the right to have access to the data entered into the Customs Information System in accordance with Articles 1, 3 to 6 and 15 to 19 and to search those data.
+
+2\. Where a search by Europol reveals the existence of a match between information processed by Europol and an entry in the Customs Information System, Europol shall, through the channels defined in Council Decision 2009/371/JHA of 6 April 2009 establishing a European Police Office (Europol) ( 2 ), inform the Member State which made the entry.
+
+3\. Use of information obtained from a search in the Customs Information System is subject to the consent of the Member State which entered the data into the System. If that Member State allows the use of such information, the handling thereof shall be governed by the Decision 2009/371/JHA. Europol may transfer such information to third countries and third bodies only with the consent of the Member State which entered the data into the System.
+
+4\. Europol may request further information from the Member States concerned, in accordance with the Decision 2009/371/JHA.
+
+5\. Without prejudice to paragraphs 3 and 4, Europol shall not connect the parts of the Customs Information System to which it has access to any computer system for data collection and processing operated by or at Europol, nor transfer the data contained therein to any such system, nor download or otherwise copy any part of the Customs Information System.
+
+Europol shall limit access to data entered into the Customs Information System to duly authorised staff of Europol.
+
+Europol shall allow the Joint Supervisory Body, set up under Article 34 of the Decision 2009/371/JHA, to review the activities of Europol in the exercise of its right to accede to and to search data entered into the Customs Information System.
+
+6\. Nothing in this Article shall be interpreted as affecting the provisions of the Decision 2009/371/JHA concerning data protection and the liability for any unauthorised or incorrect processing of such data by Europol staff, or as affecting the powers of the Joint Supervisory Body set up pursuant to that Decision.
+
+### Article 12
+
+1\. The national members of Eurojust, their deputies, assistants and specifically authorised staff shall, within their mandate and for the fulfilment of Eurojust’s tasks, have the right to have access to the data entered into the Customs Information System in accordance with Articles 1, 3 to 6 and 15 to 19 and to search those data.
+
+2\. Where a search by a national member of Eurojust, their deputies, assistants or specifically authorised staff reveals the existence of a match between information processed by Eurojust and an entry in the Customs Information System, he or she shall inform the Member State which made the entry. Any communication of information obtained from such a search may be communicated to third countries and third bodies only with the consent of the Member State which made the entry.
+
+3\. Nothing in this Article shall be interpreted as affecting the provisions of Council Decision 2009/426/JHA of 16 December 2008 on the strengthening of Eurojust and amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime ( 3 ) which concern data protection and the liability for any unauthorised or incorrect processing of such data by national members of Eurojust, their deputies, assistants and specifically authorised staff, or as affecting the powers of the Joint Supervisory Body set up pursuant to that Decision.
+
+4\. No parts of the Customs Information System to which the national members of Eurojust, their deputies, assistants and specifically authorised staff have access shall be connected to any computer system for data collection and processing in operation by or at Eurojust, nor shall any data contained in the former be transferred to the latter, nor shall any part of the Customs Information System be downloaded.
+
+5\. Access to data entered in the Customs Information System shall be limited to the national members of Eurojust, their deputies, assistants and specifically authorised staff and shall not be extended to other Eurojust staff.
+
+## CHAPTER IV — AMENDMENT OF DATA
+
+### Article 13
+
+1\. Only the supplying Member State shall have the right to amend, supplement, rectify or erase data which it has entered in the Customs Information System.
+
+2\. Should a supplying Member State note, or have drawn to its attention, that the data it entered are factually inaccurate or were entered, or are stored contrary to this Decision, it shall amend, supplement, rectify or erase the data, as appropriate, and shall inform the other Member States, Europol and Eurojust accordingly.
+
+3\. If a Member State, Europol or Eurojust has evidence to suggest that an item of data is factually inaccurate, or was entered or is stored in the Customs Information System, contrary to this Decision, it shall inform thereof the supplying Member State as soon as possible. The latter shall check the data concerned and, if necessary, rectify or erase the item without delay. The supplying Member State shall inform the other Member States, Europol and Eurojust of any rectification or erasure effected.
+
+4\. If, when entering data in the Customs Information System, a Member State notes that its report conflicts with a previous report as to content or suggested action, it shall immediately inform thereof the Member State which made the previous report. The two Member States shall then attempt to resolve the matter. In the event of disagreement, the first report shall stand, but those parts of the new report which do not conflict with the first report shall be entered in the System.
+
+5\. Subject to this Decision, where in any Member State a court, or other competent authority within that Member State, makes a final decision as to the amendment, supplementation, rectification or erasure of data in the Customs Information System, the Member States undertake mutually to enforce such a decision. In the event of conflict between such decisions of courts or of other competent authorities in different Member States, including of the national supervisory authorities, concerning rectification or erasure, the Member State which entered the data in question shall erase them from that system.
+
+## CHAPTER V — RETENTION OF DATA
+
+### Article 14
+
+Personal data entered into the Customs Information System shall be kept only for the time necessary to achieve the purpose stated in Article 1(2) and may not be retained for more than five years. However, exceptionally, those data may be retained for an additional period of up to two years, where and insofar as a strict need to do so in order to achieve that purpose is established in an individual case.
+
+## CHAPTER VI — CREATION OF A CUSTOMS FILES IDENTIFICATION DATABASE
+
+### Article 15
+
+1\. The Customs Information System shall contain data in accordance with this Chapter, in addition to data contained in accordance with Article 3, in a special database (hereinafter referred to as the customs files identification database). Without prejudice to the provisions of this Chapter and of Chapters VII and VIII, all the provisions of this Decision shall also apply to the customs files identification database. However, the exception in Article 21(2) shall not apply.
+
+2\. The purpose of the customs files identification database shall be to enable the national authorities responsible for carrying out customs investigations designated in accordance with Article 7, when opening a file on or investigating one or more persons or businesses, and for Europol and Eurojust, to identify the competent authorities of other Member States which are investigating or have investigated those persons or businesses, in order, through information on the existence of investigation files, to achieve the purpose referred to in Article 1(2).
+
+3\. For the purposes of the customs files identification database, each Member State shall send the other Member States, Europol, Eurojust and the Committee referred to in Article 27 a list of criminal offences under its national laws.
+
+This list shall comprise only criminal offences that are punishable:
+
+(a) by deprivation of liberty or a detention order for a maximum period of not less than 12 months; or
+
+(b) by a fine of at least EUR 15 000 .
+
+4\. If the Member State retrieving data from the customs files identification database requires further information on the stored investigation file on a person or a business, it shall request the assistance of the supplying Member State on the basis of the instruments in force relating to mutual assistance.
+
+## CHAPTER VII — OPERATION AND USE OF THE CUSTOMS FILES IDENTIFICATION DATABASE
+
+### Article 16
+
+1\. Data from investigation files will be entered into the customs files identification database only for the purposes set out in Article 15(2). The data shall only cover the following categories:
+
+(a) a person or a business which is or has been the subject of an investigation file opened by a competent authority of a Member State, and which:
+
+(i) in accordance with the national law of the Member State concerned, is suspected of committing or having committed, or participating or having participated in the commission of, a serious infringement of national laws;
+
+(ii) has been the subject of a report establishing that such an infringement has taken place; or
+
+(iii) has been the subject of an administrative or judicial sanction for such an infringement;
+
+(b) the field covered by the investigation file;
+
+(c) the name, nationality and contact information of the Member State’s authority handling the case, together with the file number.
+
+Data referred to in points (a) to (c) shall be entered in a data record separately for each person or business. Links between data records shall not be permitted.
+
+2\. The personal data referred to in paragraph 1(a) shall consist of only the following:
+
+(a) for persons: name, maiden name, forenames, former surnames and aliases, date and place of birth, nationality and sex;
+
+(b) for businesses: business name, name under which trade is conducted, address, VAT identifier and excise duties identification number.
+
+3\. Data shall be entered for a limited period in accordance with Article 19.
+
+### Article 17
+
+A Member State shall not be obliged to make entries pursuant to Article 16 in any particular case if, and for such time as, this would harm public policy or other essential interests, especially as this would present an immediate and serious threat to its public security or to the public security of another Member State or a third country; or where other essential interests of equal importance are at stake; or where such entries could pose serious harm to the rights of individuals or would prejudice an ongoing investigation.
+
+### Article 18
+
+1\. Entry of data in the customs files identification database and consultation thereof shall be reserved to the authorities referred to in Article 15(2).
+
+2\. Any consultation concerning the customs files identification database shall cover the following personal data:
+
+(a) for persons: forename, and/or name, and/or maiden name, and/or former surnames, and/or aliases, and/or date of birth;
+
+(b) for businesses: business name, and/or name under which trade is conducted, and/or address, and/or VAT identifier, and/or excise duties identification number.
+
+## CHAPTER VIII — PERIOD OF RETENTION OF DATA IN THE CUSTOMS FILES IDENTIFICATION DATABASE
+
+### Article 19
+
+1\. Storage periods shall be determined in accordance with the laws, regulations and procedures of the Member State entering the data. However, the following time limits, starting on the date on which the data were entered in the file, shall not be exceeded:
+
+(a) data relating to current investigation files shall not be retained beyond a period of three years if it has not been established that an infringement has taken place within that time period. The data shall be erased before the expiry of the three-year period if 12 months have passed since the last investigative act;
+
+(b) data relating to investigation files which have established that an infringement has taken place but which have not yet led to a conviction or to imposition of a fine shall not be retained beyond a period of six years;
+
+(c) data relating to investigation files which have led to a conviction or a fine shall not be retained beyond a period of 10 years.
+
+2\. At all stages of an investigation as referred to in points (a) to (c) of paragraph 1, as soon as a person or business within the scope of Article 16 is eliminated from an investigation pursuant to the laws and administrative regulations of the supplying Member State, all data relating to that person or business shall be erased immediately.
+
+3\. Data shall automatically be erased from the customs files identification database as from the date on which the data retention periods laid down in paragraph 1 are exceeded.
+
+## CHAPTER IX — PERSONAL DATA PROTECTION
+
+### Article 20
+
+Unless otherwise provided for in this Decision:
+
+(a) national provisions adopted pursuant to Directive (EU) 2016/680 shall apply to the processing of personal data under this Decision by national authorities designated by each Member State in accordance with Article 7 of this Decision;
+
+(b) Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 4 ) shall apply to the processing of personal data under this Decision by the Commission;
+
+(c) Regulation (EU) 2016/794 of the European Parliament and of the Council ( 5 ) shall apply to the processing of personal data under this Decision by Europol; and
+
+(d) Regulation (EU) 2018/1727 of the European Parliament and of the Council ( 6 ) shall apply to the processing of personal data under this Decision by Eurojust.
+
+### Article 21
+
+1\. Data may be duplicated only for technical purposes, provided that such duplication is necessary for direct searching by the authorities referred to in Article 7.
+
+2\. Subject to Article 8(1), personal data entered by other Member States may not be copied from the Customs Information System into other national data files, except those copies held in systems of risk management used to direct national customs controls or copies held in an operational analysis system used to coordinate actions. Such copies may be made to the extent necessary for specific cases or investigations.
+
+3\. In the two exceptional cases provided for in paragraph 2, only the analysts authorised by the national authorities of each Member State shall be empowered to process personal data obtained from the Customs Information System within the framework of a risk management system used to direct customs controls by national authorities or of an operational analysis system used to coordinate actions.
+
+4\. Each Member State shall send other Member States and the Committee referred to in Article 27 a list of the risk-management departments whose analysts are authorised to copy and process personal data entered in the Customs Information System.
+
+5\. Personal data copied from the Customs Information System shall be kept only for the time necessary to achieve the purpose for which they were copied. The need for their retention shall be reviewed at least annually by the Member State which carried out the copying. The storage period shall not exceed ten years. Personal data which are not necessary for the continuation of the operational analysis shall be erased immediately or have any identifying factors removed.
+
+### Article 26
+
+1\. The European Data Protection Supervisor shall be responsible for monitoring the processing of personal data under this Decision by the Commission and for ensuring that it is carried out in accordance with this Decision. The tasks and powers referred to in Articles 57 and 58 of Regulation (EU) 2018/1725 shall apply accordingly.
+
+2\. The European Data Protection Supervisor shall carry out an audit of the processing of personal data by the Commission under this Decision in accordance with international auditing standards at least every five years. A report on that audit shall be sent to the European Parliament, to the Council, to the Commission and to the national supervisory authorities.
+
+3\. The European Data Protection Supervisor and the national supervisory authorities, acting within the scope of their respective competences, shall cooperate actively within the framework of their responsibilities to ensure coordinated supervision of the operation of the Customs Information System in accordance with Article 62 of Regulation (EU) 2018/1725.
+
+## CHAPTER X — INSTITUTIONAL FRAMEWORK
+
+### Article 27
+
+1\. A Committee consisting of representatives from the customs administrations of the Member States shall be set up. The Committee shall take its decisions unanimously where the provisions of paragraph 2(a) are concerned and by a two-thirds majority where the provisions of paragraph 2(b) are concerned. It shall adopt its rules of procedure by unanimity.
+
+2\. The Committee shall be responsible:
+
+(a) for the implementation and correct application of this Decision, without prejudice to the powers of the national supervisory authorities and of the European Data Protection Supervisor;
+
+(b) for the proper functioning of the Customs Information System with regard to technical and operational aspects. The Committee shall take all necessary steps to ensure that the measures set out in Articles 14 and 28 are properly implemented with regard to the Customs Information System.
+
+For the purpose of applying this paragraph, the Committee may have direct access to, and use of, data from the Customs Information System.
+
+3\. The Committee shall report annually to the Council, in accordance with Title VI of the Treaty on European Union, regarding the efficiency and effectiveness of the Customs Information System, making recommendations as necessary. That report shall be sent to the European Parliament for information.
+
+4\. The Commission shall take part in the Committee’s proceedings.
+
+## CHAPTER XI — SECURITY OF THE CUSTOMS INFORMATION SYSTEM
+
+### Article 28
+
+1\. All necessary administrative measures to maintain security shall be taken:
+
+(a) by the competent authorities of the Member States in respect of the terminals of the Customs Information System in their respective Member States and by Europol and Eurojust;
+
+(b) by the Committee referred to in Article 27 in respect of the Customs Information System and the terminals located on the same premises as the System and used for technical purposes and the checks required by paragraph 3 of this Article.
+
+2\. In particular the competent authorities, Europol, Eurojust and the Committee referred to in Article 27 shall take measures:
+
+(a) to prevent any unauthorised person from having access to installations used for the processing of data;
+
+(b) to prevent data and data media from being read, copied, modified or removed by unauthorised persons;
+
+(c) to prevent the unauthorised entry of data and any unauthorised consultation, modification or erasure of data;
+
+(d) to prevent data in the Customs Information System from being accessed by unauthorised persons by means of data transmission equipment;
+
+(e) to guarantee that, with respect to the use of the Customs Information System, authorised persons have right of access only to data for which they have competence;
+
+(f) to guarantee that it is possible to check and establish to which authorities data may be transmitted by data-transmission equipment;
+
+(g) to guarantee that it is possible to check and establish a posteriori what data have been entered in the Customs Information System, when and by whom, and to monitor searches;
+
+(h) to prevent the unauthorised reading, copying, modification or erasure of data during the transmission of data and the transport of data media;
+
+(i) to ensure that it is possible to restore installed systems in the case of interruption;
+
+(j) to ensure the proper functioning of the System, that faults in the System are reported and that stored personal data cannot be corrupted by the System malfunctioning.
+
+3\. The Committee referred to in Article 27 shall monitor the queries of the Customs Information System for the purpose of checking that searches made were admissible and made by authorised users. At least 1 % of all searches made shall be checked. A record of such searches and checks shall be maintained in the System and shall be used only for the abovementioned purpose by that Committee, the national supervisory authorities and the European Data Protection Supervisor. It shall be erased after six months.
+
+### Article 29
+
+The competent customs administration referred to in Article 10(1) shall be responsible for the security measures set out in Article 28, in relation to the terminals located in the territory of the Member State concerned, the review functions set out in Articles 14 and 19, and otherwise for the proper implementation of this Decision so far as is necessary under the laws, regulations and procedures of that Member State.
+
+## CHAPTER XII — RESPONSIBILITIES AND LIABILITIES
+
+### Article 30
+
+2\. Each Member State shall be liable in accordance with its national law for any damage caused to a person through the use of the Customs Information System. This shall also apply to damage caused by a Member State entering inaccurate data or entering or storing data unlawfully.
+
+3\. If a recipient Member State pays compensation for damage caused by the use of inaccurate data entered into the Customs Information System by another Member State, the latter Member States shall refund to the recipient Member State the amount paid in damages, taking into account any fault that may lie with the recipient Member State.
+
+4\. Europol and Eurojust shall be liable in accordance with the acts which established them.
+
+### Article 31
+
+1\. Costs relating to the acquisition, study, development and maintenance of central computer infrastructure (hardware), software and dedicated network connections, and to related production, support and training services, which cannot be kept separate from the operation of the Customs Information System for the purpose of applying the customs and agricultural rules of the Community, and costs relating to the use of the Customs Information System by the Member States in their territories, including communication costs, shall be borne by the general budget of the European Communities.
+
+2\. Costs relating to the maintenance of the national work stations/terminals incurred in the implementation of this Decision shall be borne by the Member States.
+
+## CHAPTER XIII — IMPLEMENTATION AND FINAL PROVISIONS
+
+### Article 32
+
+The information provided for under this Decision shall be exchanged directly between the authorities of the Member States.
+
+### Article 33
+
+The Member States shall ensure that their national law conforms to this Decision by 27 May 2011.
+
+### Article 34
+
+1\. This Decision replaces the CIS Convention, as well as the Protocol of 12 March 1999 drawn up on the basis of Article K.3 of the Treaty on European Union, on the scope of the laundering of proceeds in the Convention on the use of information technology for customs purposes and the inclusion of the registration number of the means of transport in the Convention ( 7 ) and the Protocol of 8 May 2003 established in accordance with Article 34 of the Treaty on European Union, amending, as regards the creation of a customs files identification database, the Convention on the use of information technology for customs purposes ( 8 ) with effect from 27 May 2011.
+
+2\. Consequently, the CIS Convention and the Protocols referred to in paragraph 1 shall be repealed with effect from the date of application of this Decision.
+
+### Article 35
+
+Unless otherwise provided in this Decision, measures implementing the CIS Convention and Protocols referred to in Article 34(1) shall be repealed with effect from 27 May 2011.
+
+### Article 36
+
+1\. This Decision shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 27 May 2011.
+
+( 1 ) Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).
+
+( 2 ) OJ L 121, 15.5.2009, p. 37.
+
+( 3 ) OJ L 138, 4.6.2009, p. 14.
+
+( 4 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 5 ) Regulation (EU) 2016/794 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Law Enforcement Cooperation (Europol) and replacing and repealing Council Decisions 2009/371/JHA, 2009/934/JHA, 2009/935/JHA, 2009/936/JHA and 2009/968/JHA (OJ L 135, 24.5.2016, p. 53).
+
+( 6 ) Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA (OJ L 295, 21.11.2018, p. 138).
+
+( 7 ) OJ C 91, 31.3.1999, p. 2.
+
+( 8 ) OJ C 139, 13.6.2003, p. 2.

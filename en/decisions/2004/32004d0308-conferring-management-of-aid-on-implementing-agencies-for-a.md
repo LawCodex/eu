@@ -1,0 +1,93 @@
+---
+title: "2004/308/EC: Commission Decision of 2 April 2004 conferring management of aid on implementing agencies for a preaccession measure in agriculture and rural development in the Republic of Slovenia in the preaccession period"
+identifier: "32004D0308"
+eli: "http://data.europa.eu/eli/dec/2004/308/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2004-04-02
+entry_into_force: 2004-04-15
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0308"
+retrieved: 2026-10-11
+---
+
+# 2004/308/EC: Commission Decision of 2 April 2004 conferring management of aid on implementing agencies for a preaccession measure in agriculture and rural development in the Republic of Slovenia in the preaccession period
+
+Commission Decision
+
+of 2 April 2004
+
+conferring management of aid on implementing agencies for a preaccession measure in agriculture and rural development in the Republic of Slovenia in the preaccession period
+
+(2004/308/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 1266/1999 of 21 June 1999 on coordinating aid to the applicant countries in the framework of the preaccession strategy and amending Regulation (EEC) No 3906/89(1), and in particular Article 12(2) thereof,
+
+Having regard to Council Regulation (EC) No 1268/1999 of 21 June 1999 on Community support for preaccession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the preaccession period(2), and in particular Article 4(5) and (6) thereof,
+
+Whereas:
+
+(1) The Special accession programme for agriculture and rural development for the Republic of Slovenia (hereinafter "Sapard") was approved by Commission Decision of 27 October 2000(3), and last amended by Commission Decision of 24 November 2003 in accordance with Article 4(5) of Regulation (EC) No 1268/1999.
+
+(2) The Government of the Republic of Slovenia and the Commission, acting on behalf of the European Community, signed on 5 March 2001 the Multiannual Financing Agreement laying down the technical, legal and administrative framework for the implementation of the Sapard programme, as last amended by the Annual Financing Agreement for 2003, which finally entered into force on 11 November 2003.
+
+(3) A Sapard agency, the Agency of the Republic of Slovenia for Agricultural Markets and Rural Development, has been appointed by the competent authority of the Republic of Slovenia for the implementation of some of the measures defined in Sapard. National Fund of the Ministry of Finance,, has been appointed for the financial functions it is due to perform in the framework of the implementation of Sapard.
+
+(4) On the basis of a case-by-case analysis of the national and sectorial programme/project management capacity, financial control procedures and structures regarding public finance, as provided for in Article 12(2) of Regulation (EC) No 1266/1999, the Commission adopted Decision 2001/820/EC of 19 November 2001 conferring management of aid on implementing agencies for preaccession measures in agriculture and rural development in the Republic of Slovenia in the preaccession period(4) with regard to certain measures provided for in Sapard.
+
+(5) The Commission has since undertaken a further analysis under Article 12(2) of Regulation (EC) No 1266/1999 in respect of measure 5 "Technical Assistance" (hereinafter "measure 5") as provided for in Sapard. The Commission considers that, also with regard to that measure, the Republic of Slovenia complies with the provisions of Articles 4 to 6 to and the Annex to Commission Regulation (EC) No 2222/2000 of 7 June 2000 laying down financial rules for the application of Council Regulation (EC) No 1268/1999 on Community support for preaccession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the preaccession period(5) and with the minimum conditions set out in the Annex to Regulation (EC) No 1266/1999.
+
+(6) It is therefore appropriate to waive the ex ante approval requirement provided for in Article 12(1) of Regulation (EC) No 1266/1999 and to confer, with regard to measure 5, on the Agency of the Republic of Slovenia for Agricultural Markets and Rural Development, and on the National Fund in the Republic of Slovenia, the management of aid on a decentralised basis.
+
+(7) Since the verifications carried out by the Commission for measure 5 are based on a system that is not yet fully operating with regard to all relevant elements, however, it is appropriate to confer the management of Sapard on the Agency of the Republic of Slovenia for Agricultural Markets and Rural Development, and on the National Fund, according to Article 3(2) of Regulation (EC) No 2222/2000, on a provisional basis.
+
+(8) Full conferral of management of Sapard is only envisaged after further verifications to ensure that the system operates satisfactorily have been carried out and after any recommendations which the Commission may issue with regard to the conferral of management of aid on the Agency of the Republic of Slovenia for Agricultural Markets and Rural Development and on the National Fund have been implemented.
+
+(9) On 14 November 2001 the Slovene Authorities proposed the rules for eligibility of expenditure in accordance with Article 4(1) of section B of the Multiannual Financing Agreement. This list was partially modified by the letter of 21 August 2003. The Commission is called upon to take a decision in this respect.
+
+(10) According to the second indent of Article 9(1) of Regulation (EC) No 2222/2000 expenditure with regard to technical assistance incurred by the beneficiary before the date of the Commission decision conferring management may be reimbursable. It is therefore appropriate to fix the date as of which such expenditure may be reimbursed,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The requirement of ex ante approval by the Commission of project selection and contracting for measure 5 by the Republic of Slovenia provided for in Article 12(1) of Regulation (EC) No 1266/1999 is hereby waived.
+
+## Article 2
+
+Management of Sapard is conferred on a provisional basis to:
+
+1\. the Agency of the Republic of Slovenia for Agricultural Markets and Rural Development, located at Dunajska Str. 160, 1000 Ljublana, Republic of Slovenia for the implementation of measure 5 of Sapard as defined in the programme for agriculture and rural development that was approved by the abovementioned Commission decision; and
+
+2\. the National Fund, within the Ministry of Finance of the Republic of Slovenia, located at Beethovnova Str. 11, 1502 Lubljana, Republic of Slovenia, for the financial functions it is due to perform in the framework of the implementation of Sapard for measure 5 for the Republic of Slovenia.
+
+## Article 3
+
+Expenditure within measure 5 shall be eligible for Community co-finance from 27 October 2000, provided in all cases it has not been paid by the Sapard agency prior to the date of adoption of this decision.
+
+## Article 4
+
+Without prejudice to any decision granting aid under Sapard to individual beneficiaries, the rules for eligibility of expenditures concerning measure 5 as proposed by the Republic of Slovenia in the letter of 21 August 2003, registered in the Commission under No AGR A/29346 shall apply.
+
+Done at Brussels, 2 April 2004.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ L 161, 26.6.1999, p. 68.
+
+(2) OJ L 161, 26.6.1999, p. 87. Regulation as last amended by Regulation (EC) No 696/2003 (OJ L 99, 17.4.2003, p. 24).
+
+(3) C(2000) 3138 final.
+
+(4) OJ L 307, 24.11.2001, p. 25.
+
+(5) OJ L 253, 7.10.2000, p. 5; Regulation as last amended by Regulation (EC) No 188/2003 (OJ L 27, 1.2.2003, p. 14).

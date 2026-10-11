@@ -1,0 +1,317 @@
+---
+title: "2009/496/EC,Euratom: Decision of the European Parliament, the Council, the Commission, the Court of Justice, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions of 26 June 2009 on the organisation and operation of the Publications Office of the European Union"
+identifier: "32009D0496"
+eli: "http://data.europa.eu/eli/dec/2009/496/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2009-06-26
+entry_into_force: 2009-01-01
+last_amended: 2012-07-12
+consolidated_version: "02009D0496-20120712"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009D0496-20120712"
+retrieved: 2026-10-11
+---
+
+# 2009/496/EC,Euratom: Decision of the European Parliament, the Council, the Commission, the Court of Justice, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions of 26 June 2009 on the organisation and operation of the Publications Office of the European Union
+
+**DECISION OF THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE COUNCIL, THE COMMISSION, THE COURT OF JUSTICE OF THE EUROPEAN UNION, THE COURT OF AUDITORS, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS**
+
+**of 26 June 2009**
+
+**on the organisation and operation of the Publications Office of the European Union**
+
+**(2009/496/EC, Euratom)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION OF THE EUROPEAN PARLIAMENT, THE COUNCIL, THE COMMISSION, THE COURT OF JUSTICE OF THE EUROPEAN UNION, THE COURT OF AUDITORS, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS of 29 June 2012 </td><td> L 179</td><td>15</td><td>11.7.2012</td></tr>
+</table>
+
+**DECISION OF THE EUROPEAN PARLIAMENT, THE EUROPEAN COUNCIL, THE COUNCIL, THE COMMISSION, THE COURT OF JUSTICE OF THE EUROPEAN UNION, THE COURT OF AUDITORS, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS**
+
+**of 26 June 2009**
+
+**on the organisation and operation of the Publications Office of the European Union**
+
+**(2009/496/EC, Euratom)**
+
+## Article 1 — The Publications Office
+
+1\. The task of the Publications Office of the European Union (hereinafter the Office), which is an interinstitutional office, shall be to publish the publications of the institutions of the European Union and the European Atomic Energy Community under optimum conditions.
+
+To this end it shall, firstly, enable the institutions to fulfil their obligations to publish legislative texts and, secondly, contribute to the technical formulation and implementation of information and communication policies within its areas of competence.
+
+2\. The Office shall be managed by its Director following the strategic guidelines set by the Management Committee. Apart from the provisions of this Decision which are specific to the interinstitutional role of the Office, the Office shall apply the administrative and financial procedures of the Commission. In establishing those procedures, the Commission shall take account of the specific nature of the Office.
+
+## Article 2 — Definitions
+
+For the purposes of this Decision, the following definitions shall apply:
+
+1\. ‘publishing’ means any action necessary for the design, checking, allocation of international standard numbers and/or catalogue numbers, production, cataloguing, indexation, distribution, promotion, sale, storage and archiving of publications in any shape or form and by any means, present or future;
+
+2\. ‘publications’ means all texts, published on whatever medium and in whatever format, bearing an international standard number and/or a catalogue number;
+
+3\. ‘mandatory publications’ means publications published pursuant to the Treaties or other legislative texts;
+
+4\. ‘non-mandatory publications’ means any publications edited under the prerogatives of any institution;
+
+5\. ‘management of copyright’ means that the author services hold the copyright or the right to reuse and includes the management of those rights by the Office in respect of the publications entrusted to the Office for publishing;
+
+6\. ‘net receipts from sales’ means the total sum of invoices, minus trade discounts granted and management, collection and banking costs;
+
+7\. ‘institutions’ means the institutions, bodies, offices and agencies established by or under the Treaties.
+
+## Article 3 — Scope of competence of the Office
+
+1\. The Office shall have competence for the following:
+
+(a) publishing the Official Journal of the European Union (hereinafter Official Journal) and guaranteeing that it is authentic;
+
+(b) publishing the other mandatory publications;
+
+(c) publishing or co-publishing non-mandatory publications entrusted to the Office under the prerogatives of each institution, in particular in the context of the institutions’ communication activities;
+
+(d) publishing or co-publishing publications on its own initiative, including publications intended to promote its own services; in this context, the Office may procure translations by means of a service contract;
+
+(e) developing, maintaining and updating electronic publishing services for the public;
+
+(f) making all legislation and other official texts available to the public;
+
+(g) preserving all publications of the institutions and making them available to the public in electronic form;
+
+(h) allocating international standard numbers and/or catalogue numbers to the institutions’ publications;
+
+(i) managing reproduction and translation rights in respect of the institutions’ publications;
+
+(j) promoting and selling the publications and services which it offers to the public.
+
+2\. The Office shall provide advice and assistance to the institutions for:
+
+(a) programming and planning their publications programmes;
+
+(b) implementing their publishing projects, whatever the publishing medium;
+
+(c) providing page make-up and design for their publishing projects;
+
+(d) providing information on trends in the publications market in the Member States and on the subjects likely to find the widest audience;
+
+(e) deciding print-runs and establishing distribution plans;
+
+(f) pricing and selling publications;
+
+(g) promoting, distributing and evaluating their publications, whether free of charge or offered for sale;
+
+(h) analysing, evaluating and setting up websites and Web services for the public;
+
+(i) drafting framework contracts for publishing activities;
+
+(j) providing technological supervision of publishing systems.
+
+## Article 4 — Responsibilities of the institutions
+
+1\. Each institution shall have exclusive competence to take decisions on the publishing of its own publications.
+
+2\. The institutions shall use the services of the Office to publish their mandatory publications.
+
+3\. The institutions may publish their non-mandatory publications without the involvement of the Office. In that case, they shall ask the Office for international standard numbers and/or catalogue numbers and give the Office an electronic version of the publication, whatever its format, as well as two paper copies of the publication where appropriate.
+
+4\. The institutions shall undertake to guarantee all reproduction, translation and distribution rights in respect of all the constituent elements of a publication.
+
+5\. The institutions shall undertake to establish a distribution plan, approved by the Office, for their publications.
+
+6\. The institutions may conclude service agreements with the Office in order to define the methods of their cooperation. The European External Action Service may also cooperate with the Office and, for this purpose, conclude a service agreement.
+
+## Article 5 — Tasks of the Office
+
+1\. Tasks performed by the Office shall include the following:
+
+(a) the collation of documents for publication;
+
+(b) the preparation, graphic design, correction, page make-up and verification of the texts and other components, in whatever format and on whatever medium, as instructed by the institutions and in compliance with the typographical and linguistic presentation requirements established in cooperation with the institutions;
+
+(c) the indexation and cataloguing of publications;
+
+(d) the documentary analysis of texts published in the Official Journal and other official texts;
+
+(e) the consolidation of legislative texts;
+
+(f) the management, development, updating and distribution of the Eurovoc multilingual thesaurus;
+
+(g) the organisation of printing by its service providers;
+
+(h) the monitoring of the performance of work;
+
+(i) quality control;
+
+(j) acceptance as regards quality and quantity;
+
+(k) the physical and electronic distribution of the Official Journal, official texts other than those published in the Official Journal and other non-mandatory publications;
+
+(l) storage;
+
+(m) physical and electronic archiving;
+
+(n) the reprinting of publications that are out of print and printing on request;
+
+(o) the creation of a consolidated catalogue of the institutions’ publications;
+
+(p) the sale, including the issue of invoices, collection and transfer of revenue, and management of claims;
+
+(q) promotion;
+
+(r) the creation, purchase, management, updating, monitoring and supervision of the mailing lists of the institutions and the creation of targeted mailing lists;
+
+2\. Within the framework of its own powers or on the basis of the delegation of authorising officer powers by the institutions, the Office shall be responsible for:
+
+(a) public procurement, including entering into legally binding commitments;
+
+(b) financial oversight of contracts with suppliers;
+
+(c) settlement of expenditure, including acceptance as regards quality and quantity, expressed by signing an authorisation for payment;
+
+(d) authorisation of expenditure;
+
+(e) revenue operations.
+
+## Article 6 — Management Committee
+
+1\. A Management Committee shall be established, within which all the signatory institutions are represented. The Management Committee shall be made up of the Registrar of the Court of Justice of the European Union and the Secretaries-General of the other institutions or their representatives. The European Central Bank shall take part in the work of the Management Committee as an observer. The European Central Bank shall be represented by the Secretary to its Executive Board or by their appointed substitute.
+
+2\. The Management Committee shall designate a Chairperson, to be chosen among its members, for a period of two years.
+
+3\. The Management Committee shall meet at least four times a year at the initiative of its Chairperson or at the request of an institution.
+
+4\. The Management Committee shall adopt its Rules of Procedure, which shall be published in the Official Journal.
+
+5\. The Management Committee’s decisions shall be taken by simple majority, except where otherwise provided.
+
+6\. Each institution which is a signatory to this Decision shall have one vote on the Management Committee.
+
+## Article 7 — Tasks and responsibilities of the Management Committee
+
+1\. By way of derogation from Article 6, the Management Committee shall, by unanimous decision, in the common interest of the institutions and within the scope of competence of the Office, adopt the following decisions:
+
+(a) on the basis of a proposal from the Director, it shall adopt the strategic objectives of the Office and the rules governing its operation;
+
+(b) it shall set the guidelines for the general policies of the Office, particularly as regards sales, distribution and publishing, and shall ensure that the Office contributes to the formulation and implementation of information and communication policies within its areas of competence;
+
+(c) on the basis of a draft prepared by the Director of the Office, it shall adopt an annual management report to the institutions concerning the implementation of the strategy and services supplied by the Office; by 1 May of each year, it shall send its report on the financial year just ended to the institutions;
+
+(d) it shall approve the estimates of the Office’s revenue and expenditure under the budget procedure for the Office’s administrative budget;
+
+(e) it shall approve the criteria by which the Office conducts its cost accounting, which the Director of the Office shall adopt;
+
+(f) it shall submit to the institutions any suggestions it has for improving the smooth running of the Office.
+
+2\. The Management Committee shall take account of the guidelines produced by the interinstitutional bodies on communication and information set up for this purpose. The Chairperson of the Management Committee shall communicate with these bodies every year.
+
+3\. The contact person with discharge authority for strategic decisions within the areas of competence of the Office shall be the Chairperson of the Management Committee in his capacity as representative of interinstitutional cooperation.
+
+4\. The Chairperson of the Management Committee and the Director of the Office shall by common agreement draw up mutual information and communication rules to formalise their relations. This agreement shall be sent to the members of the Management Committee for information.
+
+## Article 8 — Director of the Office
+
+The Director of the Office shall be responsible for the smooth running of the Office, acting under the authority of the Management Committee and within its scope of competence. For the application of administrative and financial procedures, he shall act under the authority of the Commission.
+
+## Article 9 — Tasks and responsibilities of the Director of the Office
+
+1\. The Director of the Office shall provide the secretariat for the Management Committee and shall submit quarterly reports to the Management Committee on the performance of his duties.
+
+2\. The Director of the Office shall submit to the Management Committee any proposal for improving the smooth running of the Office.
+
+3\. After consulting the Management Committee for advice, the Director of the Office shall determine the types of service which the Office may perform against payment for the institutions, and the corresponding charges.
+
+4\. The Director of the Office shall, after obtaining the approval of the Management Committee, determine the criteria by which the Office is to conduct its cost accounting. He shall define the procedures for accounting cooperation between the Office and the institutions in agreement with the Commission Accounting Officer.
+
+5\. The Director of the Office shall draw up draft estimates of the Office’s revenue and expenditure under the budget procedure for the Office’s administrative budget. After approval by the Management Committee, these proposals shall be submitted to the Commission.
+
+6\. The Director of the Office shall decide whether, and in accordance with what procedures, publications from third parties may be published.
+
+7\. The Director of the Office shall take part in interinstitutional activities concerning information and communication within the areas of competence of the Office.
+
+8\. As regards the publishing of legislation and official documents relating to the legislative procedure, including the Official Journal, the Director of the Office shall:
+
+(a) ensure that the competent authorities in each institution take the basic decisions that are to be applied jointly;
+
+(b) submit proposals for improving the structure and presentation of the Official Journal and official legislative texts;
+
+(c) submit proposals to the institutions for harmonising the presentation of texts for publication;
+
+(d) examine any difficulties encountered in the course of day-to-day operations, draft, within the context of the Office, the necessary instructions and suggest to the institutions appropriate recommendations in order to overcome such difficulties.
+
+9\. The Director of the Office shall, in accordance with the Financial Regulation, draw up an annual activity report covering the management of funds assigned by the Commission and other institutions under the Financial Regulation. The report shall be addressed to the Commission and the institutions concerned and, for information, to the Management Committee.
+
+10\. For the purposes of the assignment of Commission funds and implementation of the budget, information and consultation procedures between the Commissioner responsible for relations with the Office and the Director of the Office shall be established by common agreement.
+
+11\. The Director of the Office shall be responsible for implementing the strategic objectives adopted by the Management Committee and for the sound management of the Office and its activities as well as the management of its budget.
+
+12\. Should the Director of the Office be absent or unavailable, the deputisation rules based on grade and seniority shall apply unless the Management Committee, on a proposal from its Chairperson or the Director of the Office, decides on a different order.
+
+13\. The Director of the Office shall inform the institutions about the planning and use of resources and the progress of work in a quarterly report.
+
+## Article 10 — Staff
+
+1\. The Commission, having obtained the unanimous approval of the Management Committee, shall make appointments to the posts of Director-General and Director. The Commission’s rules on mobility and evaluation of senior management shall apply to the Director-General and Directors (grades AD 16/AD 15/AD 14). When the mobility deadline normally provided for in the relevant rules is approaching for an official occupying such a post, the Commission shall inform the Management Committee, which may issue a unanimous opinion on the case.
+
+2\. The Management Committee shall be closely involved in any procedures that have to be completed before the appointment of officials or other servants to the posts of Director-General (grades AD 16/AD 15) and Director (grades AD 15/AD 14) at the Office, especially in drafting vacancy notices, examining applications and appointing competition selection boards in relation to those posts.
+
+3\. The powers of the appointing authority and those of the authority empowered to conclude contracts of employment in respect of officials and other servants assigned to the Office shall be exercised by the Commission. The Commission may delegate some of its powers within the Commission and to the Director of the Office. Such delegation shall be effected under the same conditions as for Commission Directors-General.
+
+4\. Subject to paragraph 2, the provisions and procedures adopted by the Commission to implement the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities shall apply to officials and other servants assigned to the Office under the same conditions as for Commission officials and other servants serving in Luxembourg.
+
+5\. The officials of all the institutions shall be informed of any post vacant within the Office for which a vacancy notice is to be published, as soon as the appointing authority or the authority empowered to conclude contracts of employment decides to fill that post.
+
+6\. The Director of the Office shall report to the Management Committee on staff management on a quarterly basis.
+
+## Article 11 — Financial aspects
+
+1\. The appropriations allocated to the Office, the total amount of which shall be shown under a separate heading within the section of the budget relating to the Commission, shall be set out in detail in an annex to that section. This annex shall be in the form of a statement of revenue and expenditure subdivided in the same way as the sections of the budget.
+
+2\. The establishment plan of the Office shall be set out in an annex to the establishment plan of the Commission.
+
+3\. Each institution shall be authorising officer for the relevant appropriations under the ‘publishing expenditure’ heading in its budget.
+
+4\. Each institution may delegate authorising officer powers to the Director of the Office for the management of appropriations entered in its section and shall set the limits and conditions for this delegation of powers in accordance with the Financial Regulation. The Director of the Office shall report to the Management Committee on such delegation of powers on a quarterly basis.
+
+5\. The budgetary and financial management of the Office, including management of the appropriations assigned by institutions other than the Commission, shall be conducted in compliance with the Financial Regulation and its implementing provisions and the financial framework in force at the Commission.
+
+6\. The Office’s accounts shall be drawn up in accordance with the accounting rules and methods approved by the Commission Accounting Officer. The Office shall keep separate accounts for the sale of the Official Journal and publications. Net receipts from sales shall be passed on to the institutions.
+
+## Article 12 — Oversight
+
+1\. The function of internal auditor shall be performed at the Office by the Commission internal auditor, in accordance with the Financial Regulation. The Office shall establish an internal audit capability using arrangements similar to those for the Commission’s Directorates-General and departments. The institutions may ask the Director of the Office to include specific audits in the work programme of the Office’s internal audit capability.
+
+2\. The Office shall answer any questions falling within its competence in connection with the remit of the European Anti-Fraud Office (OLAF). In order to protect the interests of the European Union, an agreement setting out mutual information arrangements shall be drawn up between the Chairperson of the Management Committee and the Director of OLAF.
+
+## Article 13 — Complaints and requests
+
+1\. Within the limits of its competence, the Office shall be responsible for answering questions from the European Ombudsman and the European Data Protection Supervisor.
+
+2\. Any legal action within the areas of competence of the Office shall be brought against the Commission.
+
+## Article 14 — Public access to documents
+
+1\. The Director of the Office shall take the decisions referred to in Article 7 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 4 ). Where applications are refused, decisions on confirmatory applications shall be taken by the Secretary-General of the Commission.
+
+2\. The Office shall keep a register of documents in accordance with Article 11 of Regulation (EC) No 1049/2001.
+
+## Article 15 — Repeal
+
+Decision 2000/459/EC, ECSC, Euratom is repealed.
+
+References to the repealed Decision shall be construed as references to this Decision.
+
+## Article 16 — Effective date
+
+This Decision shall take effect on the day following its publication in the Official Journal of the European Union.
+
+( 1 ) OJ 152, 13.7.1967, p. 18.
+
+( 2 ) OJ L 183, 22.7.2000, p. 12.
+
+( 3 ) OJ L 248, 16.9.2002, p. 1.
+
+( 4 ) OJ L 145, 31.5.2001, p. 43.

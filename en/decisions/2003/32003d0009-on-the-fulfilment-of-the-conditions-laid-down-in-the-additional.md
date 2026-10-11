@@ -1,0 +1,75 @@
+---
+title: "2003/9/EC: Council Decision of 10 December 2002 on the fulfilment of the conditions laid down in the Additional Protocol to the Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement"
+identifier: "32003D0009"
+eli: "http://data.europa.eu/eli/dec/2003/9(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2002-12-10
+entry_into_force: 2003-10-09
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003D0009"
+retrieved: 2026-10-11
+---
+
+# 2003/9/EC: Council Decision of 10 December 2002 on the fulfilment of the conditions laid down in the Additional Protocol to the Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement
+
+Council Decision
+
+of 10 December 2002
+
+on the fulfilment of the conditions laid down in the Additional Protocol to the Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement
+
+(2003/9/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 87(3)(e) thereof,
+
+Having regard to the Council decision of 29 July 2002 on the signature and provisional application of an Additional Protocol to the Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement,
+
+Having regard to the Additional Protocol to the Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement, and in particular Article 3 thereof,
+
+Having regard to the proposal of the Commission,
+
+Whereas:
+
+(1) The Europe Agreement establishing an Association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part(1), was signed on 4 October 1993.
+
+(2) Article 8(4) of Protocol 2 of the Europe Agreement lays down that during the first five years after the entry into force of the Agreement, and by way of derogation from paragraph 1(iii) of that Article, the Czech Republic may exceptionally, as regards steel products, grant public aid for restructuring purposes, provided that this leads to the viability of the benefiting firms under normal market conditions at the end of the restructuring period; that the amount and intensity of such aid are strictly limited to what is absolutely necessary in order to restore viability and are progressively reduced; and that the restructuring programme is linked to a global rationalisation and reduction of capacity in the Czech Republic.
+
+(3) The initial period of five years expired on 31 December 1996.
+
+(4) The Czech Republic requested an extension of the abovementioned period in February 1998.
+
+(5) It is appropriate to grant an extension of this period for an additional period of eight years starting on 1 January 1997 or until the date of the Czech Republic's accession to the European Union, whichever comes first.
+
+(6) To this effect, an Additional Protocol to the Europe Agreement was signed by the Community and the Czech Republic on 9 October 2002 and is provisionally applied from that date.
+
+(7) Article 1 of the Additional Protocol grants an extension of the abovenamed period, subject to the fulfilment of conditions laid out in Articles 2 and 3 of the Additional Protocol.
+
+(8) Under Article 2 of the Additional Protocol, the extension of the abovementioned period is made conditional on the submission by the Czech Republic to the Commission of a restructuring programme and business plans which meet the requirements of Article 8(4) of Protocol 2 of the Europe Agreement and have been assessed and agreed by its national State aid monitoring authority (the Office for the Protection of Economic Competition).
+
+(9) In June, July and September 2002, the Czech Republic submitted to the Commission a restructuring programme and business plans which have been assessed and agreed by the Office for the Protection of Economic Competition.
+
+(10) Under Article 3 of the Additional Protocol, the extension of the abovementioned period is made conditional on a final assessment of the restructuring programme and plans by the Commission.
+
+(11) The Commission has made a final assessment of the restructuring programme and plans submitted by the Czech Republic. The assessment indicates that restructuring aid is necessary to return certain companies in the Czech steel industry to viability. The assessment confirms that implementation of the restructuring programme and plans will lead to the viability of the companies under normal market conditions by the end of the restructuring period; that the amount and intensity of aid are strictly limited to what is absolutely necessary to reach this objective and that restructuring aid to the Czech steel industry will cease by the end of 2003; and that the restructuring programme is linked to a global rationalisation and reduction of overall production capacity in the Czech Republic. The assessment therefore concludes that the restructuring programme and plans submitted by the Czech Republic meet the requirements of Article 8(4) of Protocol 2 to the Europe Agreement.
+
+(12) The conditions laid down in Articles 2 and 3 of the Additional Protocol to the Europe Agreement are accordingly met,
+
+HAS DECIDED AS FOLLOWS:
+
+## Sole Article
+
+The restructuring programme and business plans submitted to the Commission by the Czech Republic pursuant to Article 2 of the Additional Protocol to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Czech Republic, of the other part, with regard to an extension of the period laid down in Article 8(4) of Protocol 2 to the Europe Agreement, are in compliance with the requirements of Article 8(4) of Protocol 2.
+
+Done at Brussels, 10 December 2002.
+
+For the Council
+
+The President
+
+P. S. Møller
+
+(1) OJ L 360, 31.12.1994, p. 2.

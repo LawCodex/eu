@@ -1,0 +1,148 @@
+---
+title: "2008/697/EC: Commission Decision of 16 April 2008 on State Aid C 13/07 (ex NN 15/06 and N 734/06) implemented by Italy for New Interline (notified under document number C(2008) 1321) (Text with EEA relevance)"
+identifier: "32008D0697"
+eli: "http://data.europa.eu/eli/dec/2008/697/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2008-04-16
+entry_into_force: 2008-01-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0697"
+retrieved: 2026-10-11
+---
+
+# 2008/697/EC: Commission Decision of 16 April 2008 on State Aid C 13/07 (ex NN 15/06 and N 734/06) implemented by Italy for New Interline (notified under document number C(2008) 1321) (Text with EEA relevance)
+
+**COMMISSION DECISION**
+
+**of 16 April 2008**
+
+**on State Aid C 13/07 (ex NN 15/06 and N 734/06) implemented by Italy for New Interline**
+
+**(notified under document number C(2008) 1321)**
+
+**(Only the Italian version is authentic)**
+
+**(Text with EEA relevance)**
+
+**(2008/697/EC)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community, and in particular the first subparagraph of Article 88(2) thereof,
+
+Having regard to the Agreement on the European Economic Area, and in particular Article 62(1)(a) thereof,
+
+Having called on interested parties to submit their comments (1) pursuant to those provisions,
+
+Whereas:
+
+**1\. PROCEDURE**
+
+(1) By letter of 23 February 2006 the Italian authorities notified the Commission of rescue aid to New Interline S.p.A. (New Interline). The measure, registered as case NN 15/06, was put into effect on 13 February 2006, i.e. before the notification. The Commission requested additional information by letter dated 4 April 2006, to which Italy replied by letter dated 29 May 2006. The Commission requested further information by letter dated 28 July 2006, to which Italy replied by letters dated 5 October 2006 and 6 November 2006.
+
+(2) With notification of 10 November 2006, registered as N 734/06, the Italian authorities notified the Commission of a restructuring plan for New Interline. The Commission requested further information by letter dated 22 December 2006, to which Italy replied by letter dated 6 March 2007.
+
+(3) By letter of 25 April 2007 the Commission informed Italy that by Decision of 24 April 2007 it had decided that the rescue aid Italy had granted to New Interline was compatible with the common market in so far as it was applied for six months. As regarded the extension of the rescue aid beyond the six month period, as well as the restructuring aid, the Commission had decided to initiate the formal investigation procedure under Article 88(2) Treaty.
+
+(4) The Commission’s decision was published in the Official Journal of the European Union. The Commission called on interested parties to submit their comments. However, no communication was received from the interested parties.
+
+(5) By letter of 30 May 2007 the Italian authorities informed the Commission that New Interline had gone into voluntary liquidation and that they intended to withdraw the notification of restructuring aid. By letter of 9 October 2007, the Italian authorities confirmed the withdrawal of the notification.
+
+(6) The Commission, by letter dated 16 November 2007, requested Italy to provide further information concerning the terms of the voluntary liquidation procedure, in particular the consequences for the creditors of New Interline. Italy replied by letter dated 28 January 2008.
+
+**2\. RESCUE AID**
+
+(7) The rescue aid measure consists of a guarantee by the Ministry for Economic Development for a bank loan of EUR 2,75 million. The guarantee was originally granted for a period of six months, i.e. from 6 March 2006 to 6 September 2006. However, the Commission was informed that the guarantee was not terminated at the end of this period.
+
+(8) The Community guidelines on State aid for rescuing and restructuring firms in difficulty (the Guidelines) (2), state in point 25(c) that in the case of non-notified aid the Member State must communicate, no later than six months after the first implementation of the measure, a restructuring plan or a liquidation plan or proof that the loan has been reimbursed in full and/or that the guarantee has been terminated.
+
+(9) In its Decision of 24 April 2007, the Commission noted that the rescue aid had not been terminated after the initial six-month period and that Italy had failed to present a restructuring plan within that period. Therefore, in its Decision the Commission stated that the aid was compatible with the common market as rescue aid as far as it was limited to six months, given that it complied with all conditions, other than point 25(c), of the Guidelines. However, as the rescue aid had been extended beyond the initial six months, the Commission had doubts about its compatibility and so decided to initiate the procedure referred to in point 27 of the Guidelines (3).
+
+(10) In the above-mentioned Decision the Commission also noted that it would assess whether the illegally extended rescue aid could be considered compatible on other grounds within the meaning of point 20 of the Guidelines. Based on this point, there was a possibility that the rescue aid could qualify as restructuring aid.
+
+(11) However, it should be noted that Italy subsequently withdrew the notification concerning the restructuring aid. The Commission cannot therefore base its decision on elements, particularly a restructuring plan, that would restore viability, or on compensatory measures to mitigate the negative effects of the aid, allowing the illegally extended rescue aid to be deemed restructuring aid compatible with the common market.
+
+(12) Hence the Commission must conclude that the guarantee of EUR 2,75 million granted to New Interline by the Italian authorities is incompatible with the common market under the Guidelines in so far as it was extended beyond 6 September 2006.
+
+Recovery of the rescue aid
+
+(13) The rescue aid, amounting to EUR 2,75 million, must therefore be recovered by Italy from the beneficiary, New Interline.
+
+(14) In this respect Italy informed the Commission in its letter of 28 January 2008 that on 4 May 2007 the Italian authorities, as a surrogate of New Interline, paid the total value of the loan plus interest to Banca Antonveneta, which had granted the loan guaranteed by the State. Subsequently, in the context of the voluntary liquidation procedure, on 7 June 2007 the Italian authorities asked the Avvocatura Distrettuale di Bari to start actions to satisfy the State’s claim on the company.
+
+(15) On 18 November 2007 New Interline decided to apply to the Court of Bari for admission to a settlement procedure between creditors and the company (procedura di concordato preventivo) which allows for the payment of the creditors' claims under Court supervision. This procedure may lead to the company continuing its production activities.
+
+(16) At this stage it is not possible to know what the outcome of the concordato preventivo will be. However, Italy should in any case immediately register its claims in the bankruptcy proceedings, whatever kind is pursued.
+
+(17) Should the outcome of this procedure result in the continuation of New Interline’s activity, the Commission would point out that, as indicated in paragraph 67 of the Notice from the Commission — Towards an effective implementation of Commission decisions ordering Member States to recover unlawful and incompatible State aid (the Recovery Notice) (4), the authorities responsible for enforcing the decision can only support the continuation plan if it ensures that the aid is repaid in full within the time limits foreseen in the Commission’s recovery decision. In particular, the Member State cannot waive part of its recovery claim, nor can it accept any other solution that, in the absence of full and immediate repayment of the unlawful aid, would not result in the immediate ending of the activity of the beneficiary. Therefore, in the absence of full repayment of the unlawful aid, the Italian authorities should, within the time limit laid down for the execution of the present decision, take all measures available to them to oppose the continuation of activity of New Interline.
+
+(18) It should also be noted that under paragraph 68 of the Recovery Notice, in the event of liquidation, and as long as the aid has not been fully recovered, the Member State should oppose any transfer of assets that is not carried out on market terms and/or that is organised so as to circumvent the recovery decision. To achieve a ‘correct transfer of assets’, the Member State has to ensure that the undue advantage created by the aid is not transferred to the acquirer of the assets. This may be the case if the assets of the original aid beneficiary are transferred to a third party at a price that is lower than their market value or to a successor company set up in order to circumvent the recovery order. In that case the recovery order has to be extended to that third party.
+
+**3\. RESTRUCTURING AID**
+
+(19) The Commission notes that under Article 8 of Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article 93 of the EC Treaty (5), the Member State concerned may withdraw its notification in due time before the Commission has taken a decision on the aid. In cases where the Commission has already initiated the formal investigation procedure, it must close that procedure.
+
+(20) Italy withdrew the notification of restructuring aid of EUR 4,75 million by letter of 9 October 2007. According to the information available, the restructuring aid has not been granted.
+
+(21) Therefore the formal investigation procedure opened by the above-mentioned Decision of 24 April 2007 must be closed since, as the notification has been withdrawn, it no longer serves any purpose in respect of the restructuring aid notified by Italy for New Interline,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The rescue aid in the form of a State guarantee amounting to EUR 2,75 million, unlawfully granted by Italy to New Interline S.p.A. in breach of Article 88(3) of the Treaty, is incompatible with the common market in so far as it was extended beyond 6 September 2006.
+
+## Article 2
+
+1\. Italy shall recover the aid referred to in Article 1 from the beneficiary.
+
+2\. The sums to be recovered shall bear interest from six months after the date on which they were put at the disposal of the beneficiary until their actual recovery.
+
+3\. The interest shall be calculated on a compound basis in accordance with Chapter V of Regulation (EC) No 794/2004.
+
+## Article 3
+
+1\. Recovery of the aid referred to in Article 1 shall be immediate and effective.
+
+2\. Italy shall ensure that this Decision is implemented within four months of the date of notification of this Decision.
+
+## Article 4
+
+1\. Within two months of the notification of this Decision Italy shall submit the following information to the Commission:
+
+(a) the total amount (principal and interest) to be recovered from the beneficiary;
+
+(b) a detailed description of the measures already taken and planned to comply with this Decision;
+
+(c) documents demonstrating that the beneficiary has been ordered to repay the aid.
+
+2\. Italy shall keep the Commission informed of the progress of the national measures taken to implement this Decision until recovery of the aid referred to in Article 1 has been completed. It shall immediately submit, on simple request by the Commission, information on the measures already taken and planned to comply with this Decision. It shall also provide detailed information concerning the amount of aid and interest already recovered from the beneficiary.
+
+## Article 5
+
+The procedure under Article 88(2) of the Treaty initiated by the Commission Decision of 24 April 2007 in respect of the restructuring aid (ex N 734/06) is closed as the notification was withdrawn on 9 October 2007.
+
+## Article 6
+
+This Decision is addressed to Italy.
+
+Done at Brussels, 16 April 2008.
+
+For the Commission
+
+Neelie KROES
+
+Member of the Commission
+
+(1) OJ C 120, 31.5.2007, p. 12.
+
+(2) OJ C 244, 1.10.2004, p. 2.
+
+(3) Point 27 of the Guidelines states that ‘the Commission will initiate proceedings under Article 88(2) of the Treaty if the Member State fails to communicate (…) proof that the loan has been reimbursed in full and/or that the guarantee has been terminated before the six-month deadline has expired.’
+
+(4) OJ C 272, 15.11.2007, p. 4.
+
+(5) OJ C 83, 27.3.1999, p. 1.

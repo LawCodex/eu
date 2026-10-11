@@ -1,0 +1,215 @@
+---
+title: "2008/381/EC: Council Decision of 14 May 2008 establishing a European Migration Network"
+identifier: "32008D0381"
+eli: "http://data.europa.eu/eli/dec/2008/381/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2008-05-14
+entry_into_force: 2008-02-28
+last_amended: 2014-01-01
+consolidated_version: "02008D0381-20140101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008D0381-20140101"
+retrieved: 2026-10-11
+---
+
+# 2008/381/EC: Council Decision of 14 May 2008 establishing a European Migration Network
+
+**COUNCIL DECISION**
+
+**of 14 May 2008**
+
+**establishing a European Migration Network**
+
+**(2008/381/EC)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 516/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 </td><td> L 150</td><td>168</td><td>20.5.2014</td></tr>
+</table>
+
+**COUNCIL DECISION**
+
+**of 14 May 2008**
+
+**establishing a European Migration Network**
+
+**(2008/381/EC)**
+
+## Article 1 — Subject matter and scope
+
+1\. A European Migration Network (‘EMN’) is hereby established.
+
+2\. The objective of the EMN shall be to meet the information needs of Community institutions and of Member States’ authorities and institutions on migration and asylum, by providing up-to-date, objective, reliable and comparable information on migration and asylum, with a view to supporting policymaking in the European Union in these areas.
+
+3\. The EMN shall also serve to provide the general public with information on these subjects.
+
+## Article 2 — Tasks
+
+1\. To achieve the objective referred to in Article 1, the EMN shall:
+
+(a) collect and exchange up-to-date and reliable data and information from a wide range of sources;
+
+(b) undertake analysis of the data and information referred to in point (a) and provide it in a readily accessible format;
+
+(c) in collaboration with other relevant EU bodies, contribute to the development of indicators and criteria that will improve the consistency of information and help in the development of Community activities related to migratory statistics;
+
+(d) produce and publish periodic reports on the migration and asylum situation in the Community and the Member States;
+
+(e) create and maintain an Internet-based information exchange system which provides access to relevant documents and publications in the area of migration and asylum;
+
+(f) raise awareness of the EMN, by providing access to the information it gathers and disseminating the output of the EMN, unless this information is of a confidential nature;
+
+(g) coordinate information and cooperate with other relevant European and international bodies.
+
+2\. The EMN shall ensure that its activities are consistent and coordinated with the relevant Community instruments and structures in the area of migration and asylum.
+
+## Article 3 — Composition
+
+The EMN shall be composed of:
+
+— National Contact Points designated by the Member States,
+
+— the Commission.
+
+## Article 4 — Steering Board
+
+1\. The EMN shall be guided by a Steering Board composed of one representative from each Member State and one representative of the Commission, assisted by two scientific experts.
+
+2\. The representative of the Commission shall act as Chair of the Steering Board.
+
+3\. Each member of the Steering Board shall have one vote, including the Chair. Decisions shall be taken by a two-thirds majority of the votes cast.
+
+4\. A representative of the European Parliament may participate as an observer at the meetings of the Steering Board.
+
+5\. The Steering Board shall in particular:
+
+(a) prepare and approve the draft work programme of activities, notably with regard to the objectives, thematic priorities and indicative amounts of the budget for each National Contact Point to ensure the proper functioning of the EMN, on the basis of a draft from the Chair;
+
+(b) review progress made by the EMN, making recommendations for necessary actions when required;
+
+(c) provide a succinct status report to the European Parliament, the Council, the Commission, the Economic and Social Committee and the Committee of the Regions concerning the ongoing activities of the EMN and the key findings of its studies, at least once a year;
+
+(d) identify the most appropriate strategic cooperative relationships with other entities competent in the area of migration and asylum and approve, when necessary, the administrative arrangements for such cooperation, as referred to in Article 10;
+
+(e) advise the National Contact Points on how to improve their operations, and help them to take the necessary actions, when identified persistent shortcomings in the work of a National Contact Point may have negative consequences on the work of the EMN.
+
+6\. The Steering Board shall adopt its own rules of procedure and it shall meet, as convened by its Chair, at least twice a year.
+
+## Article 5 — National Contact Points
+
+1\. Each Member State shall designate one entity which shall act as its National Contact Point. In order to facilitate the work of the EMN and to ensure the achievement of its objectives, Member States shall take into account, when necessary, the need for a coordination between their representative in the Steering Board and their National Contact Point.
+
+2\. The National Contact Point shall be composed of at least three experts. One of these experts, who shall act as the national coordinator, shall be an official or employee of the entity so designated. The remaining experts may come from either the same entity, or from other national and international public or private organisations based in the Member State.
+
+3\. The experts of each National Contact Point shall collectively have expertise in the area of asylum and migration, covering aspects of policymaking, law, research and statistics.
+
+4\. Member States shall inform the Commission, no later than three months after the entry into force of this Decision, which experts comprise their National Contact Point, specifying how the latter respond to the requirements set out in paragraph 3.
+
+5\. The National Contact Points shall carry out the tasks of the EMN at national level and in particular:
+
+(a) provide national reports, including the reports referred to in Article 9;
+
+(b) contribute with national information to the information exchange system referred to in Article 8;
+
+(c) develop a capacity to issue ad-hoc requests and to respond quickly to such requests from other National Contact Points;
+
+(d) establish a national migration network, composed of a wide-range of organisations and individuals active in the area of migration and asylum and representing relevant stakeholders. Members of the national migration network may be requested to contribute to the activities of the EMN, in particular with regard to Articles 8 and 9.
+
+6\. The experts of each National Contact Point shall meet regularly to discuss its work, including, as appropriate, with members of the respective national migration networks referred to in paragraph 5(d), and to exchange information about ongoing and future activities.
+
+## Article 6 — Coordination
+
+1\. The Commission shall coordinate the work of the EMN, also in accordance with Article 2(2), and shall ensure that it appropriately reflects the political priorities of the Community in the area of migration and asylum.
+
+2\. For the organisation of the work of the EMN, the Commission shall be assisted by a service provider selected on the basis of a procurement procedure. This service provider shall fulfil the requirements established in Article 5(3), and any other relevant requirements defined by the Commission.
+
+3\. Under the supervision of the Commission the service provider shall, inter alia:
+
+(a) organise the day-to-day operation of the EMN;
+
+(b) establish and manage the information exchange system referred to in Article 8;
+
+(c) coordinate the input from the National Contact Points;
+
+(d) prepare the meetings referred to in Article 7;
+
+(e) prepare the compilations and syntheses of the reports and studies referred to in Article 9.
+
+4\. The Commission shall monitor the execution of the work programme of activities and regularly report on its execution and on the development of the EMN to the Steering Board.
+
+## Article 7 — Meetings
+
+1\. The EMN shall normally meet at least five times a year.
+
+2\. Each National Contact Point shall be represented at meetings of the EMN by at least one of its experts. No more than three experts from each National Contact Point shall attend the meetings.
+
+3\. The meetings of the EMN shall be convened and chaired by a representative of the Commission.
+
+4\. The purpose of the periodic meetings of the EMN shall be to:
+
+(a) enable the National Contact Points to exchange knowledge and experience, in particular as regards the operation of the EMN;
+
+(b) review progress in the work of the EMN, and in particular on the preparation of the reports and studies referred to in Article 9;
+
+(c) exchange information and views, in particular on the structure, organisation, content of and access to the available information mentioned in Article 8;
+
+(d) provide a platform for discussion of practical and legal problems encountered by the Member States in the area of migration and asylum, in particular discussion of the ad-hoc requests referred to in Article 5(5)(c);
+
+(e) consult with the National Contact Points in the development of the EMN's annual programme of activities referred to in Article 6(4).
+
+5\. Experts and entities which are not members of the EMN may be invited to its meetings if their presence is considered desirable. Joint meetings with other networks or organisations may also be organised.
+
+6\. The activities referred to in paragraph 5, if not planned in the EMN's annual programme of activities, shall be communicated in due time to the National Contact Points.
+
+## Article 8 — Information exchange system
+
+1\. An Internet-based information exchange system, accessible through a dedicated website, shall be established in accordance with this Article.
+
+2\. The content of the information exchange system shall normally be public.
+
+Without prejudice to Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 1 ), access to confidential information shall be restricted to EMN members only.
+
+3\. The information exchange system shall comprise at least the following elements:
+
+(a) access to Community and national legislation, case law and policy developments in the areas of migration and asylum;
+
+(b) a functionality for ad-hoc requests, as referred to in Article 5(5)(c);
+
+(c) a migration and asylum glossary and thesaurus;
+
+(d) direct access to all EMN's publications, including the reports and studies mentioned in Article 9, as well as a regular newsletter;
+
+(e) a directory of researchers and research institutions in the area of migration and asylum.
+
+4\. For the purposes of access to the information mentioned in paragraph 3, the EMN may, when necessary, add links to other sites where the original information is to be found.
+
+5\. The dedicated website shall facilitate access to comparable public information initiatives in related matters and to sites containing information relating to the migration and asylum situation of the Member States and of third countries.
+
+## Article 9 — Reports and studies
+
+1\. Each National Contact Point shall provide every year a report describing the migration and asylum situation in the Member State, which shall include policy developments and statistical data.
+
+2\. The annual programme of activities shall include the preparation by each National Contact Point of other studies, following common specifications, covering specific migration and asylum-related issues necessary for the support of policymaking.
+
+## Article 10 — Cooperation with other entities
+
+1\. The EMN shall cooperate with entities in the Member States or in third countries, including EU agencies and international organisations, competent in the field of migration and asylum.
+
+2\. The administrative arrangements for the cooperation referred to in paragraph 1, which may include when necessary the conclusion by the Commission of agreements on behalf of the Community, shall be subject to the approval of the Steering Board.
+
+## Article 13 — Review
+
+No later than three years after the entry into force of this Decision, and every three years thereafter, the Commission shall present to the European Parliament, the Council, the Economic and Social Committee and the Committee of the Regions, a report, based on an external and independent evaluation, on the development of the EMN. The report shall be accompanied, if necessary, by proposals for amendments.
+
+## Article 14 — Publication and date of application
+
+This Decision shall apply from the date of its publication in the Official Journal of the European Union.
+
+## Article 15 — Addressees
+
+This Decision is addressed to the Member States in accordance with the Treaty establishing the European Community.
+
+( 1 ) OJ L 145, 31.5.2001, p. 43.

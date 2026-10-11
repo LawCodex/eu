@@ -1,0 +1,157 @@
+---
+title: "2001/524/EC: Commission Decision of 28 June 2001 relating to the publication of references for standards EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000 in the Official Journal of the European Communities in connection with Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance) (notified under document number C(2001) 1681)"
+identifier: "32001D0524"
+eli: "http://data.europa.eu/eli/dec/2001/524/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2001-06-28
+entry_into_force: 2001-11-17
+last_amended: 2001-07-12
+consolidated_version: "02001D0524-20010712"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001D0524-20010712"
+retrieved: 2026-10-11
+---
+
+# 2001/524/EC: Commission Decision of 28 June 2001 relating to the publication of references for standards EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000 in the Official Journal of the European Communities in connection with Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance) (notified under document number C(2001) 1681)
+
+2001D0524 — EN — 12.07.2001 — 000.001
+
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents
+
+COMMISSION DECISION
+
+of 28 June 2001
+
+relating to the publication of references for standards EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000 in the Official Journal of the European Communities in connection with Directive 94/62/EC on packaging and packaging waste
+
+(notified under document number C(2001) 1681)
+
+(Text with EEA relevance)
+
+(2001/524/EC)
+
+(OJ L 190, 12.7.2001, p.21)
+
+Corrected by:
+
+C1 Corrigendum, OJ L 262, 2.10.2001, p. 38 (524/01)
+
+COMMISSION DECISION
+
+of 28 June 2001
+
+relating to the publication of references for standards EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000 in the Official Journal of the European Communities in connection with Directive 94/62/EC on packaging and packaging waste
+
+(notified under document number C(2001) 1681)
+
+(Text with EEA relevance)
+
+(2001/524/EC)
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Directive 94/62/EC of the European Parliament and of the Council of 20 December 1994 on packaging and packaging waste ( 1 ), and in particular the second subparagraph of Article 9(4) thereof,
+
+Having regard to the opinion of the Committee set up by Article 5 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations ( 2 ), as amended by Directive 98/48/EC ( 3 ),
+
+Whereas:
+
+(1) Article 4 of Directive 94/62/EC stipulates that the Commission shall help to promote the prevention of packaging waste formation by encouraging the development of suitable European standards.
+
+(2) Article 10 of Directive 94/62/EC indicates that the Commission shall promote, as appropriate, the preparation of European standards relating to the essential requirements referred to in Annex II thereto.
+
+(3) When packaging is manufactured for a specific product in accordance with a harmonised standard whose references have been published in the Official Journal of the European Communities, the packaging is presumed to comply with the essential requirements of Directive 94/62/EC, as covered by that harmonised standard.
+
+(4) Article 9 of Directive 94/62/EC stipulates that the Commission shall ensure that the references of the harmonised standards which comply with the essential requirements defined by the Directive are published in the Official Journal of the European Communities.
+
+(5) The Member States are required to publish the references of the national standards transposing the harmonised standards whose references have been published in the Official Journal of the European Communities.
+
+(6) In 2000, the European Committee for Standardisation (CEN) approved five standards (EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000) in line with the mandate which the Commission issued to this body under Directive 94/62/EC, after consultation with the committee set up under Directive 98/34/EC. These standards were presented to the Commission as harmonised standards.
+
+(7) In 2000, in application of Aricle 9(4) of Directive 94/62/EC, Belgium raised a formal objection in respect of harmonised standards EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 and EN 13432:2000, to the effect that these standards do not fully meet the essential requirements of the Directive.
+
+(8) In 2000, in application of Article 9(4) of Directive 94/62/EC, Denmark raised a formal objection in respect of harmonised standards EN 13428:2000, EN 13429:2000, EN 13430:2000 and EN 13431:2000, to the effect that these standards do not fully meet the essential requirements of the Directive.
+
+(9) After consulting the committee created by Directive 98/34/EC and examining harmonised standard EN 13428:2000, the Commission was unable to ascertain that this standard does not fully meet the essential requirements of Directive 94/62/EC, with the exception of the requirements of the third indent of Annex II(1) to the Directive. This harmonised standard must accordingly be published in the Official Journal of the European Communities with a warning stating that it does not cover the requirements of that indent.
+
+(10) After consulting the committee created by Directive 98/34/EC and examining harmonised standard EN 13429:2000, the Commission was able to ascertain that this standard does not fully meet the essential requirements of Directive 94/62/EC, as specified in Annex II(2) to the Directive. In particular, this standard does not cover the mandated requirement for a minimum number of trips or rotations in normally predictable conditions of use, or define a test method for checking this minimum number of trips or rotations. Accordingly, this harmonised standard must not be published in the Official Journal of the European Communities.
+
+(11) After consulting the committee created by Directive 98/34/EC and examining harmonised standard EN 13430:2000, the Commission was able to ascertain that this standard does not fully meet the essential requirements of Directive 94/62/EC, as specified in Annex II(3a) to the Directive. In particular, the standard does not cover the essential requirements stipulating that in order to be considered recyclable, packaging must be manufactured in such a way as to enable the recycling of a certain percentage by weight of the materials used, according to the type of material used for the packaging. The standard does not, moreover, cover the mandated requirement for objective consideration of the use of substances or materials likely to cause problems in recovery and sorting prior to recycling, in the recycling process itself or in recycled products. Accordingly, this harmonised standard must not be published in the Official Journal of the European Communities.
+
+(12) After consulting the committee created by Directive 98/34/EC and examining harmonised standard EN 13431:2000, the Commission was able to ascertain that this standard does not fully meet the essential requirements of the Directive, as specified in Annex II(3b) to Directive 94/62/EC, for a minimum lower calorific value to allow optimisation of energy recovery. Furthermore, the standard does not cover the mandated requirement for objective consideration of the use of substances or materials likely to present problems in recovery and sorting prior to energy recovery, or in the energy recovery process itself. Accordingly, this harmonised standard must not be published in the Official Journal of the European Communities.
+
+(13) After consulting the committee created by Directive 98/34/EC and examining harmonised standard EN 13432:2000, the Commission was unable to ascertain that this standard does not fully meet the essential requirements of Directive 94/62/EC, as specified in Annex II(3c) and (3d). This harmonised standard must, accordingly, be published in the Official Journal of the European Communities.
+
+(14) The Commission now calls on the CEN to undertake work to improve those standards which either in part or in full do not fulfil the essential requirements defined in the Directive,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The references of harmonised standard EN 13428:2000 are published in the Official Journal of the European Communities in the form given in the Annex, accompanied by the following warning:
+
+‘Users of harmonised standard EN 13428:2000 should note that this standard does not cover the essential requirements of Directive 94/62/EC as specified in the third indent of Annex II(1) thereto.’
+
+When Member States publish the references of the national standard transposing harmonised standard EN 13428:2000, the publication must be accompanied by a warning identical to the one provided for in the first indent.
+
+## Article 2
+
+The references of harmonised standards EN 13429:2000, EN 13430:2000 and EN 13431:2000 are not published in the Official Journal of the European Communities.
+
+## Article 3
+
+The references of harmonised standard EN 13432:2000 are published in the Official Journal of the European Communities in the form given in the Annex.
+
+## Article 4
+
+This Decision is addressed to the Member States.
+
+## ANNEX
+
+Publication of the references of harmonised standards pursuant to Directive 94/62/EC on packaging and packaging waste
+
+<table>
+<tbody><tr><td colspan="4"></td></tr>
+<tr><td>ESB (1)</td><td>Reference</td><td>Title of harmonised standard</td><td>Ratification year</td></tr>
+<tr><td>CEN</td><td>EN 13428</td><td>Packaging — Requirements specific to manufacturing and composition — Prevention by source reduction</td><td>2000</td></tr>
+</tbody>
+</table>
+
+| ESB (1) | Reference | Title of harmonised standard | Ratification year |
+| --- | --- | --- | --- |
+| CEN | EN 13432 | Packaging — Requirements for packaging recoverable through composting and biodegradation — Test scheme and evaluation criteria for the final acceptance of packaging | 2000 |
+
+(1) ESB (European standardisation body):
+
+CEN Rue de Stassart 36, B-1050 Brussels. Tel. (32-2) 550 08 11, fax (32-2) 550 08 19
+
+Cenelec Rue de Stassart 35, B-1050 Brussels. Tel. (32-2) 519 68 71, fax (32-2) 519 69 19
+
+ETSI F-06561 Valbonne Cedex. Tel. (33-4) 92 94 42 00, fax (33-4) 93 65 47 16
+
+Note:
+
+— Any information concerning the availability of the standards can be obtained either from the European standardisation bodies or from the national standardisation bodies, a list of which is annexed to Directive 98/34/EC, as amended by Directive 98/48/EC.
+
+— Publication of the references in the Official Journal of the European Communities does not imply that the standards are available in all the Community languages.
+
+The Commission ensures the updating of this list.
+
+( 1 ) OJ L 365, 31.12.1994, p. 10.
+
+( 2 ) OJ L 204, 21.7.1998, p. 37.
+
+( 3 ) OJ L 217, 5.8.1998, p. 18.
+
+( 4 ) ESB (European standardisation body):
+
+CEN Rue de Stassart 36, B-1050 Brussels. Tel. (32-2) 550 08 11, fax (32-2) 550 08 19
+
+Cenelec Rue de Stassart 35, B-1050 Brussels. Tel. (32-2) 519 68 71, fax (32-2) 519 69 19
+
+ETSI F-06561 Valbonne Cedex. Tel. (33-4) 92 94 42 00, fax (33-4) 93 65 47 16

@@ -1,0 +1,52 @@
+---
+title: "2006/520/EC: Commission Decision of 22 February 2006 relating to a proceeding pursuant to Article 82 of the EC Treaty and Article 54 of the EEA Agreement (Case COMP/B-2/38.381 — De Beers) (notified under document number C(2006) 521) (Text with EEA relevance)"
+identifier: "32006D0520"
+eli: "http://data.europa.eu/eli/dec/2006/520/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2006-02-22
+entry_into_force: 2006-11-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006D0520"
+retrieved: 2026-10-11
+---
+
+# 2006/520/EC: Commission Decision of 22 February 2006 relating to a proceeding pursuant to Article 82 of the EC Treaty and Article 54 of the EEA Agreement (Case COMP/B-2/38.381 — De Beers) (notified under document number C(2006) 521) (Text with EEA relevance)
+
+**COMMISSION DECISION**
+
+**of 22 February 2006**
+
+**relating to a proceeding pursuant to Article 82 of the EC Treaty and Article 54 of the EEA Agreement**
+
+**(Case COMP/B-2/38.381 — De Beers)**
+
+**(notified under document number C(2006) 521)**
+
+**(Only the English text is authentic)**
+
+**(Text with EEA relevance)**
+
+**(2006/520/EC)**
+
+On 22 February 2006 the Commission adopted a decision pursuant to Article 9(1) of Council Regulation (EC) No 1/2003 (1). A non-confidential version of the integral text of the decision in the authentic language as well as the working languages of the Commission is available on the Competition Directorate General website at the following address: http://europa.eu.int/comm/competition/antitrust/cases/index/by_nr_76.html#i38_381
+
+(1)
+
+This decision is addressed to De Beers société anonyme (‘De Beers SA’). The subject matter of the procedure was the purchase relationship between the De Beers Group of companies (‘De Beers’) and the second largest diamond producer ALROSA Company Ltd (‘ALROSA’) on the worldwide market of rough diamonds, for a substantial part distributed and/or processed in the European Economic Area (EEA). In its preliminary assessment, the Commission expressed concerns under Article 82 of the EC Treaty and Article 54 of the EEA Agreement about De Beers’ purchase relationship with its most important competitor ALROSA in light of its decades-long duration. The Commission’s competition concerns related to a Trade Agreement between De Beers and ALROSA concerning purchases of substantial amounts of rough diamonds and, pending Commission approval of the Trade Agreement, purchases from ALROSA under the ‘willing-seller-willing-buyer’ arrangement.
+
+(2)
+
+The Commission considers that the commitments offered by De Beers are sufficient to address the identified competition concerns. In particular, following a transitional period from 2006 to 2008 during which De Beers’ purchases will be reduced and which is necessary to build a competitive distribution system for the quantities of diamonds previously sold by De Beers, De Beers undertakes to refrain from all purchases of rough diamonds from ALROSA as of 2009. By freeing up the portion of diamonds from ALROSA previously resold by De Beers and, upon lapse of the transitional period, by discontinuing the entirety of De Beers’ purchase relationship with ALROSA, the commitments address the concern of reducing access to a viable source of alternative supply of rough diamonds and hindering the second biggest competitor from fully competing with De Beers.
+
+(3)
+
+The decision finds, in view of the commitments made binding on De Beers SA, that there are no longer grounds for action by the Commission.
+
+(4)
+
+The Advisory Committee on Restrictive Practices and Dominant Positions issued a favourable opinion on 10 February 2006.
+
+(1) OJ L 1, 4.1.2003, p. 1. Regulation as amended by Regulation (EC) No 411/2004 (OJ L 68, 6.3.2004, p. 1).

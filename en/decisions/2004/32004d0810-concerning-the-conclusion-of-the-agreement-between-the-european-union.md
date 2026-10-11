@@ -1,0 +1,207 @@
+---
+title: "Council Decision 2004/810/CFSP of 5 July 2004 concerning the conclusion of the Agreement between the European Union and Ukraine on the participation of Ukraine in the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia"
+identifier: "32004D0810"
+eli: "http://data.europa.eu/eli/dec/2004/810/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2004-07-05
+entry_into_force: 2004-03-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0810"
+retrieved: 2026-10-11
+---
+
+# Council Decision 2004/810/CFSP of 5 July 2004 concerning the conclusion of the Agreement between the European Union and Ukraine on the participation of Ukraine in the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia
+
+**COUNCIL DECISION 2004/810/CFSP**
+
+**of 5 July 2004**
+
+**concerning the conclusion of the Agreement between the European Union and Ukraine on the participation of Ukraine in the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on European Union, and in particular Article 24 thereof,
+
+Having regard to the recommendation from the Presidency,
+
+Whereas:
+
+(1) On 29 September 2003 the Council adopted Joint Action 2003/681/CFSP on the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia (1).
+
+(2) Article 9(6) of that Joint Action provides that detailed arrangements regarding the participation of third countries shall be the subject of an agreement, in conformity with Article 24 of the Treaty on European Union.
+
+(3) Following the Council Decision of 2 March 2004 authorising the Presidency, assisted where necessary by the Secretary-General/High Representative to open negotiations, the Presidency negotiated an agreement with Ukraine on the participation of Ukraine in the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia.
+
+(4) The Agreement should be approved,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement between the European Union and Ukraine on the participation of Ukraine in the European Union Police Mission (EUPOL ‘Proxima’) in the former Yugoslav Republic of Macedonia is hereby approved on behalf of the European Union.
+
+The text of the Agreement is attached to this Decision.
+
+## Article 2
+
+The President of the Council is hereby authorised to designate the person empowered to sign the Agreement in order to bind the European Union.
+
+## Article 3
+
+This Decision shall take effect on the day of its adoption.
+
+## Article 4
+
+This Decision shall be published in the Official Journal of the European Union.
+
+Done at Brussels, 5 July 2004.
+
+For the Council
+
+The President
+
+G. ZALM
+
+(1) OJ L 249, 1.10.2003, p. 66.
+
+**AGREEMENT**
+
+**between the European Union and Ukraine on the participation of Ukraine in the European Union Police Mission in the former Yugoslav Republic of Macedonia (EUPOL ‘Proxima’)**
+
+THE EUROPEAN UNION,
+
+on the one hand, and
+
+UKRAINE,
+
+on the other hand,
+
+together hereinafter referred to as the ‘Participating Parties’,
+
+TAKING INTO ACCOUNT:
+
+— the adoption by the Council of the European Union on 29 September 2003 of Joint Action 2003/681/CFSP on the European Union Police Mission in the former Yugoslav Republic of Macedonia (EUPOL ‘Proxima’) (1), stating that acceding States are invited and other third countries may be invited to contribute to EUPOL ‘Proxima’,
+
+— the invitation to Ukraine to participate in EUPOL ‘Proxima’,
+
+— the successful completion of the Force Generation process and the recommendation by the Police Head of Mission and the Committee for Civilian Aspects of Crisis Management to agree on the participation of Ukraine in EUPOL ‘Proxima’,
+
+— the decision by the Political and Security Committee of 10 February 2004 to accept the contribution of Ukraine to EUPOL ‘Proxima’,
+
+— the Agreement concluded on 11 December 2003 between the EU and the former Yugoslav Republic of Macedonia on the status and activities of EUPOL ‘Proxima’ in the former Yugoslav Republic of Macedonia (2), including provisions on the status of the EUPOL ‘Proxima’ personnel,
+
+HAVE AGREED AS FOLLOWS:
+
+## Article 1 — Framework
+
+1\. Ukraine shall associate itself with the provisions of Joint Action 2003/681/CFSP on EUPOL ‘Proxima’ adopted by the Council of the European Union on 29 September 2003, and with any Joint Action or Decision by which the Council of the European Union may decide to extend EUPOL ‘Proxima’.
+
+2\. The contribution of Ukraine to EUPOL ‘Proxima’ is without prejudice to the decision-making autonomy of the European Union.
+
+## Article 2 — Status of personnel
+
+1\. The status of personnel seconded to EUPOL ‘Proxima’ by Ukraine shall be governed by the Agreement concluded on 11 December 2003 between the EU and the former Yugoslav Republic of Macedonia on the status and activities of EUPOL ‘Proxima’ in the former Yugoslav Republic of Macedonia.
+
+2\. Without prejudice to the Agreement between the EU and the former Yugoslav Republic of Macedonia on the status and activities of EUPOL ‘Proxima’ in the former Yugoslav Republic of Macedonia, Ukraine shall exercise jurisdiction over its personnel participating in EUPOL ‘Proxima’.
+
+3\. Ukraine shall be responsible for answering any claims linked to the participation in EUPOL ‘Proxima’, from or concerning any of its personnel. Ukraine shall be responsible for bringing any action, in particular legal or disciplinary, against any of its personnel.
+
+4\. Ukraine shall waive all claims against any State participating in EUPOL ‘Proxima’, for injury, death of Ukraine personnel, or damage to, or loss of, any assets owned by itself and used by EUPOL ‘Proxima’ if such injury, death, damage or loss:
+
+— was caused by EUPOL ‘Proxima’ personnel in the execution of their duties in connection with the operation, except in case of gross negligence or wilful misconduct,
+
+— or arose from the use of any assets owned by States participating in EUPOL ‘Proxima’, provided that the assets were used in connection with the operation and except in case of gross negligence or wilful misconduct of EUPOL ‘Proxima’ personnel using those assets.
+
+5\. The European Union Member States undertake to make a declaration as regards the waiver of claims, for participation of Ukraine in EUPOL ‘Proxima’.
+
+## Article 3 — Classified information
+
+1\. Ukraine shall take appropriate measures to ensure that EU classified information is protected in accordance with the European Union Council's security regulations, contained in the Council Decision 2001/264/EC of 19 March 2001 (3), and in accordance with further guidance issued by competent authorities, including by EUPOL ‘Proxima’ Head of Mission/Police Commissioner.
+
+2\. Where the EU and Ukraine have concluded an agreement on security procedures for the exchange of classified information, the provisions of such an agreement shall apply in the context of EUPOL ‘Proxima’.
+
+## Article 4 — Personnel seconded to EUPOL ‘Proxima’
+
+1\. Ukraine shall ensure that its personnel seconded to EUPOL ‘Proxima’ undertake their mission in conformity with:
+
+— the provisions of Joint Action 2003/681/CFSP and subsequent amendments as referred to in Article 1(1) of this Agreement,
+
+— the Operation Plan,
+
+— implementing measures.
+
+2\. Ukraine shall inform in due time EUPOL ‘Proxima’ Head of Mission/Police Commissioner and the General Secretariat of the Council of the European Union of any change to its contribution to EUPOL ‘Proxima’.
+
+3\. Personnel seconded to EUPOL ‘Proxima’ shall undergo a medical examination, vaccination and be certified medically fit for duty by a competent authority from Ukraine. Personnel seconded to EUPOL ‘Proxima’ shall produce a copy of this certification.
+
+4\. Seconded police officers shall work in their national police uniforms. Berets and insignia shall be provided by EUPOL ‘Proxima’.
+
+## Article 5 — Chain of command
+
+1\. Personnel seconded by Ukraine shall carry out their duties and conduct themselves solely with the interests of EUPOL ‘Proxima’ in mind.
+
+2\. All personnel shall remain under the full command of their national authorities.
+
+3\. National authorities shall transfer Operational Control (OPCON) to EUPOL ‘Proxima’ Head of Mission/Police Commissioner, who shall exercise that command and control through a hierarchical structure of command and control.
+
+4\. The Head of Mission/Police Commissioner shall lead EUPOL ‘Proxima’ and assume its day-to-day management.
+
+5\. Ukraine shall have the same rights and obligations in terms of day-to-day management of the operation as European Union Member States taking part in the operation, in accordance with Article 9, paragraph 4, of Joint Action 2003/681/CFSP.
+
+6\. EUPOL ‘Proxima’ Head of Mission/Police Commissioner shall be responsible for disciplinary control over operation personnel. Where required, disciplinary action shall be taken by the national authority concerned.
+
+7\. A national Contingent Point of Contact (NPC) shall be appointed by Ukraine to represent its national contingent in the operation. NPCs shall report to the EUPOL ‘Proxima’ Head of Mission/Police Commissioner on national matters and shall be responsible for day-to-day contingent discipline.
+
+8\. The decision to end the operation shall be taken by the European Union following consultation with Ukraine, provided that this State is still contributing to EUPOL ‘Proxima’ at the date of termination of the operation.
+
+## Article 6 — Financial aspects
+
+1\. Ukraine shall assume all the costs associated with its participation in the operation apart from the costs, which are subject to EU common funding, as set out in the operational budget of the operation.
+
+2\. Ukraine shall consider making contributions of a voluntary nature.
+
+3\. In case of such contributions of a voluntary nature, an arrangement on the practical modalities of the payment shall be signed between the EUPOL ‘Proxima’ Head of Mission/Police Commissioner and the relevant administrative services of Ukraine on the contributions of Ukraine to the operational budget of EUPOL ‘Proxima’. This arrangement shall, inter alia, include the following provisions:
+
+(a) the amount concerned,
+
+(b) the arrangements for payment of the financial contribution,
+
+(c) the auditing procedure.
+
+4\. In case of death, injury, loss or damage to natural or legal persons from the Former Yugoslav Republic of Macedonia, Ukraine shall, when its liability has been established, pay compensation under the conditions foreseen in the agreement on status of mission as referred to in Article 2(1) of the Agreement.
+
+## Article 7 — Non-compliance
+
+Should one of the Parties fail to comply with its obligations laid down in the previous Articles, the other Party shall have the right to terminate this agreement by serving a notice of one month.
+
+## Article 8 — Dispute settlement
+
+Disputes concerning the interpretation or application of this Agreement shall be settled by diplomatic means between the Parties.
+
+## Article 9 — Entry into force
+
+1\. This Agreement shall enter into force on the first day of the first month after the Parties have notified each other of the completion of the internal procedures necessary for this purpose.
+
+2\. This Agreement shall be provisionally applied from the date of signature.
+
+3\. This Agreement may be amended on the basis of mutual written agreement between the Parties.
+
+4\. This Agreement may be denounced by one Party by written notice of denunciation given to the other Party. Such denunciation shall take effect six months after receipt of notification by the other Party.
+
+Done at the Hague, on the eighth day of July 2004 in the English language in four copies.
+
+For the European Union
+
+[image]
+
+For Ukraine
+
+[image]
+
+(1) OJ L 249, 1.10.2003, p. 66.
+
+(2) OJ L 16, 23.1.2004, p. 65.
+
+(3) OJ L 101, 11.4.2001, p. 1.

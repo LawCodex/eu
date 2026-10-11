@@ -1,0 +1,72 @@
+---
+title: "2005/524/EC: Council Decision of 2 June 2005 concerning the conclusion of a Framework Agreement between the European Community and the Republic of Albania on the general principles for the participation of the Republic of Albania in Community programmes"
+identifier: "32005D0524"
+eli: "http://data.europa.eu/eli/dec/2005/524/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2005-06-02
+entry_into_force: 2005-10-20
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005D0524"
+retrieved: 2026-10-11
+---
+
+# 2005/524/EC: Council Decision of 2 June 2005 concerning the conclusion of a Framework Agreement between the European Community and the Republic of Albania on the general principles for the participation of the Republic of Albania in Community programmes
+
+**COUNCIL DECISION**
+
+**of 2 June 2005**
+
+**concerning the conclusion of a Framework Agreement between the European Community and the Republic of Albania on the general principles for the participation of the Republic of Albania in Community programmes**
+
+**(2005/524/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Articles 13, 71, 80, 95, 127, 137, 149, 150, 151, 152, 153, 157, 166, 175, 280 and 308 in conjunction with the second sentence of the first subparagraph of Article 300(2), the second subparagraph of Article 300(3), and Article 300(4) thereof,
+
+Having regard to the proposal from the Commission,
+
+Having regard to the assent of the European Parliament (1),
+
+Whereas:
+
+| (1)(2)(3)(4)(5)(6)(7)(8)(9) | The Thessaloniki European Council of June 2003 approved the ‘Thessaloniki Agenda for the Western Balkans: moving towards European integration’, which provided for Community programmes to be opened up to the Stabilisation and Association Process (SAP) countries along the lines established for the participation of candidate countries.In its communication on ‘Preparing for the participation of the Western Balkan countries in Community programmes and agencies’, the Commission advocated concluding with Albania, Bosnia and Herzegovina, Croatia, the Former Yugoslav Republic of Macedonia and Serbia and Montenegro framework agreements laying down the general principles governing each country’s participation in Community programmes.In accordance with the negotiating directives adopted by the Council on 29 April 2004, the Commission, on behalf of the Community, has negotiated a Framework Agreement with the Republic of Albania on the general principles for its participation in Community programmes.This Agreement was signed, on behalf of the Community, on 22 November 2004 in Brussels, subject to conclusion at a later date.With regard to some programmes covered by the Agreement, the Treaty does not provide for powers other than those under Article 308.The specific terms and conditions regarding the participation of the Republic of Albania in the Community programmes, including the financial contribution payable, should be determined by the Commission on behalf of the Community. For that purpose the Commission should be assisted by a special committee appointed by the Council.Albania may request financial assistance for participating in Community programmes under Council Regulation (EC) No 2666/2000 of 5 December 2000 on assistance for Albania, Bosnia and Herzegovina, Croatia, the Federal Republic of Yugoslavia and the Former Yugoslav Republic of Macedonia (2) or under any similar Regulation providing for Community external assistance for Albania that may be adopted in future.The application of the Agreement should be reviewed periodically.The Agreement should be approved, |
+| --- | --- |
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Framework Agreement between the European Community and Albania on the general principles for the participation of Albania in Community programmes is hereby approved on behalf of the Community.
+
+The text of the Agreement is attached to this Decision (3).
+
+## Article 2
+
+1\. The Commission is authorised to determine, on behalf of the Community, the specific terms and conditions applicable to the participation of Albania in any given programme, including the financial contribution payable. The Commission shall be assisted in this task by a special committee appointed by the Council.
+
+2\. Where Albania requests external assistance, the procedures provided for in Regulation (EC) No 2666/2000, and in similar Regulations providing for Community external assistance to Albania that may be adopted in the future, shall apply.
+
+## Article 3
+
+No later than three years after the date of entry into force of the Agreement, and every three years thereafter, the Commission shall review the implementation of the Agreement and report thereon to the Council. The report shall be accompanied where necessary by appropriate proposals.
+
+## Article 4
+
+The President of the Council shall, on behalf of the Community, give the notifications provided for in Article 10 of the Agreement.
+
+Done at Luxembourg, 2 June 2005.
+
+For the Council
+
+The President
+
+L. FRIEDEN
+
+(1) Assent delivered on 10 May 2005 (not yet published in the Official Journal).
+
+(2) OJ L 306, 7.12.2000, p. 1. Regulation as amended by Regulation (EC) No 2415/2001 (OJ L 327, 12.12.2001, p. 3).
+
+(3) See page 2 of this Official Journal.

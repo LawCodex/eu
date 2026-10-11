@@ -1,0 +1,61 @@
+---
+title: "2004/181/EC: Council Decision of 13 January 2004 on the signature and provisional application of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the transitional points system applicable to heavy goods vehicles travelling through Austria from 1 January 2004 to 30 April 2004"
+identifier: "32004D0181"
+eli: "http://data.europa.eu/eli/dec/2004/181(1)/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2004-01-13
+entry_into_force: 2004-02-12
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004D0181"
+retrieved: 2026-10-11
+---
+
+# 2004/181/EC: Council Decision of 13 January 2004 on the signature and provisional application of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the transitional points system applicable to heavy goods vehicles travelling through Austria from 1 January 2004 to 30 April 2004
+
+Council Decision
+
+of 13 January 2004
+
+on the signature and provisional application of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the transitional points system applicable to heavy goods vehicles travelling through Austria from 1 January 2004 to 30 April 2004
+
+(2004/181/EC)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 71(1), in conjunction with the first sentence of the first subparagraph of Article 300(2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) The Commission negotiated an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the transitional points system applicable to heavy goods vehicles travelling through Austria.
+
+(2) Subject to its conclusion at a later date, the Agreement should be signed.
+
+(3) Arrangements should be made for the provisional application of the Agreement from 1 January 2004,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The President of the Council is authorised to designate the person(s) entitled to sign, on behalf of the European Community, the Agreement in the form of an Exchange of Letters between the European Community and the Republic of Slovenia concerning the transitional points system applicable to heavy goods vehicles travelling through Austria from 1 January 2004 to 30 April 2004, subject to its conclusion at a later date.
+
+The text of the Agreement is attached to this Decision.
+
+## Article 2
+
+The Agreement referred to in Article 1 shall be applied on a provisional basis from 1 January 2004.
+
+## Article 3
+
+This Decision shall be published in the Official Journal of the European Union.
+
+Done at Brussels, 13 January 2004.
+
+For the Council
+
+The President
+
+B. Cowen

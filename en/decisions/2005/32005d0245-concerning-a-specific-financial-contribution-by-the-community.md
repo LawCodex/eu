@@ -1,0 +1,180 @@
+---
+title: "2005/245/: Commission Decision of 18 March 2005 concerning a specific financial contribution by the Community relating to the surveillance programme of campylobacter in broilers presented by Sweden for the year 2005 (notified under document number C(2005) 759)"
+identifier: "32005D0245"
+eli: "http://data.europa.eu/eli/dec/2005/245/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2005-03-18
+entry_into_force: 2005-07-18
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005D0245"
+retrieved: 2026-10-11
+---
+
+# 2005/245/: Commission Decision of 18 March 2005 concerning a specific financial contribution by the Community relating to the surveillance programme of campylobacter in broilers presented by Sweden for the year 2005 (notified under document number C(2005) 759)
+
+**COMMISSION DECISION**
+
+**of 18 March 2005**
+
+**concerning a specific financial contribution by the Community relating to the surveillance programme of campylobacter in broilers presented by Sweden for the year 2005**
+
+**(notified under document number C(2005) 759)**
+
+**(Only the Swedish text is authentic)**
+
+**(2005/245/EC)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field (1), and in particular Articles 19 and 20 thereof;
+
+Whereas:
+
+(1) The protection of human health against diseases and infections directly or indirectly transmissible from animals to man (zoonoses) is of paramount importance.
+
+(2) A multi-annual national surveillance programme of campylobacter in broilers was submitted by the Swedish authorities in 2000, with a view to obtaining financial support from the Community. The aim of the programme is to estimate the baseline prevalence both in primary production and in the food chain, and to progressively reinforce implementation of hygienic measures in farms with a view to lowering the prevalence at farm level and subsequently along the food chain. The programme was approved by the Commission and Community financial assistance afforded to it for an appropriate period of time within a maximum of four years, to cover certain costs incurred by Sweden and to collect valuable technical and scientific information. The programme started from 1 July 2001.
+
+(3) For budgetary reasons, Community assistance is decided each year. By Commission Decisions 2001/29/EC (2), 2001/866/EC (3), 2002/989/EC (4) and 2003/864/EC (5), the Community provided financial assistance respectively for the second semester of the year 2001 and for the years 2002, 2003 and 2004.
+
+(4) The Swedish authorities presented on 28 May 2004 a programme for Community financial assistance during 2005, and a revised programme on 2 and 17 November 2004. On this basis, it appears appropriate to extend by six months the total period for financial assistance by the Community beyond the initially agreed total period of four years, thus providing assistance for the period 1 January to 31 December 2005. The financial assistance provided by the Community for this period should be fixed up to a maximum of EUR 160 000.
+
+(5) Pursuant to Article 3(2) of Council Regulation (EC) No 1258/1999 (6), veterinary and plant health measures undertaken in accordance with Community rules shall be financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund; for financial control purposes, Articles 8 and 9 of Regulation (EC) No 1258/1999 apply.
+
+(6) A financial contribution from the Community shall be granted in so far as the actions provided for are effectively carried out and provided that the authorities furnish all the necessary information within the time limits provided for.
+
+(7) There is a need to clarify the rate to be used for the conversion of the payment applications submitted in national currency as defined in Article 1(d) of Council Regulation (EC) No 2799/98 of 15 December 1998 establishing agrimonetary arrangements for the euro (7).
+
+(8) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health.
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+1\. The surveillance programme for campylobacter in broilers presented by Sweden is hereby approved for a period of 12 months starting from 1 January 2005.
+
+2\. The financial assistance from the Community for the programme referred to in paragraph 1 shall be 50 % of the costs (VAT excluded) incurred by Sweden for laboratory testing, up to SEK 165 per bacteriological test for the detection of campylobacter, SEK 330 per test for the enumeration of campylobacter and SEK 330 for the fingerprinting of campylobacter and up to a maximum of EUR 160 000.
+
+## Article 2
+
+1\. The financial assistance referred to under Article 1(2) shall be granted to Sweden provided that the implementation of the programme shall be in conformity with the relevant provisions of Community law, including rules on competition and on the award of public contracts and subject to the conditions provided for in points (a) to (e):
+
+(a) bringing into force by 1 January 2005 the laws, regulations and administrative provisions for implementing the programme,
+
+(b) forwarding an intermediate financial and technical evaluation covering the first five months of the programme, at the latest four weeks after the end of the reporting period. The report shall conform to the model as set out in the Annex,
+
+(c) forwarding a final report by 31 March 2006 at the latest on the overall execution and results of the programme for the whole period during which Community financial assistance was granted, i.e. from 1 July 2001 to 31 December 2005. The report shall also contain a technical and financial evaluation covering the year 2005, in accordance with the model as set out in the Annex, accompanied by justifying evidence as to the costs incurred,
+
+(d) these reports providing substantive and valuable technical and scientific information corresponding to the purpose of the Community intervention,
+
+(e) implementing the programme effectively.
+
+2\. When the time limit in subparagraph 1(c) is not respected, the contribution shall be reduced by 25 % on 1 May, 50 % on 1 June, 75 % on 1 July and 100 % on 1 September.
+
+## Article 3
+
+The conversion rate for applications submitted in national currency in month ‘n’ shall be that of the 10th day of month ‘n + 1’ or for the first preceding day for which a rate is quoted.
+
+## Article 4
+
+This Decision shall apply from 1 January 2005.
+
+## Article 5
+
+This decision is addressed to the Kingdom of Sweden.
+
+Done at Brussels, 18 March 2005.
+
+For the Commission
+
+Markos KYPRIANOU
+
+Member of the Commission
+
+(1) OJ L 224, 18.8.1990, p. 19. Decision as last amended by Directive 2003/99/EC of the European Parliament and of the Council (OJ L 325, 12.12.2003, p. 31).
+
+(2) OJ L 6, 11.1.2001, p. 22.
+
+(3) OJ L 323, 7.12.2001, p. 26.
+
+(4) OJ L 344, 19.12.2002, p. 45.
+
+(5) OJ L 325, 12.12.2003, p. 59.
+
+(6) OJ L 160, 26.6.1999, p. 103.
+
+(7) OJ L 349, 24.12.1998, p. 1.
+
+## ANNEX
+
+**Technical and financial information related to implementation of a surveillance programme for campylobacter in broilers, Sweden**
+
+**Section A. Technical report on control**
+
+Reporting period from … to …
+
+<table>
+<tbody><tr><td></td><td>1.</td><td>Examination carried out at diagnostic laboratories<table><tbody><tr><td>(a)</td><td>Routine sampling<table><tbody><tr><td></td><td>Number of slaughter-groups sampled</td><td>Total number of on-farm ‘socks’ samples</td><td>Total number of ‘cloacal swabs’ at slaughter</td><td>Total number of ‘neck-skins’ samples at slaughter</td><td>Total number of samples</td></tr>
+<tr><td>Bacteriology campylobacter</td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(b)</td><td>Additional on-farm sampling during high prevalence season<table><tbody><tr><td></td><td>Number of farms sampled</td><td>Total number of ‘faecal droppings’ samples</td></tr>
+<tr><td>Bacteriology campylobacter</td><td></td><td></td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(c)</td><td>Additional sampling at slaughter during high prevalence season<table><tbody><tr><td></td><td>Number of slaughter-groups sampled</td><td>Total number of ‘caecal samples’</td></tr>
+<tr><td>Bacteriology campylobacter</td><td></td><td></td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(d)</td><td>Sampling for enumeration of campylobacter at slaughter<table><tbody><tr><td></td><td>Number of slaughter-groups sampled</td><td>Number of neck-skin samples</td><td>Number of ‘whole-bird rinse’ samples</td><td>Total number of samples</td></tr>
+<tr><td>Bacteriology campylobacter</td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>(e)</td><td>Sampling for traceability studies</td></tr>
+</tbody>
+</table>
+ Number of PFGE analyses of campylobacter: </td></tr>
+</tbody>
+</table>
+
+|  | 2. | Follow-up of sampling Number of follow-up mails to producers Number of follow-up farm visits |
+| --- | --- | --- |
+
+|  | 3. | Description of epidemiological situation along the food chain (results and analysis of results from sampling, visits to farms). |
+| --- | --- | --- |
+
+|  | 4. | Description of the epidemiological situation in humans (trends and sources of campylobacteriosis). |
+| --- | --- | --- |
+
+|  | 5. | Name and address of reporting authority: |
+| --- | --- | --- |
+
+**Section B. Statement on costs incurred for control (1)**
+
+Reporting period from … to …
+
+Reference number of Commission Decision providing financial assistance:
+
+| Costs incurred related to functions at/by | Costs incurred during the reporting period (national currency) |
+| --- | --- |
+| Bacteriology for campylobacter |  |
+| Enumeration of campylobacter |  |
+| Fingerprinting of campylobacter |  |
+
+(1) When presenting the final report referred to in Article 2(c), for each item a listing of all expenditures shall be provided together with a copy of supporting documents.

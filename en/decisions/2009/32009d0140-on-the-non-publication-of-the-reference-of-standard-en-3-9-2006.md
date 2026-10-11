@@ -1,0 +1,98 @@
+---
+title: "2009/140/EC: Commission Decision of 10 February 2009 on the non-publication of the reference of standard EN 3-9:2006 Portable fire extinguishers — Part 9: Additional requirements to EN 3-7 for pressure resistance of CO 2 extinguishers , in accordance with Directive 97/23/EC concerning pressure equipment (notified under document number C(2009) 666) (Text with EEA relevance)"
+identifier: "32009D0140"
+eli: "http://data.europa.eu/eli/dec/2009/140(1)/oj"
+type: decision
+subtype: addressed
+jurisdiction: eu
+language: en
+date: 2009-02-10
+entry_into_force: 2009-11-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009D0140"
+retrieved: 2026-10-11
+---
+
+# 2009/140/EC: Commission Decision of 10 February 2009 on the non-publication of the reference of standard EN 3-9:2006 Portable fire extinguishers — Part 9: Additional requirements to EN 3-7 for pressure resistance of CO 2 extinguishers , in accordance with Directive 97/23/EC concerning pressure equipment (notified under document number C(2009) 666) (Text with EEA relevance)
+
+**COMMISSION DECISION**
+
+**of 10 February 2009**
+
+**on the non-publication of the reference of standard EN 3-9:2006 ‘Portable fire extinguishers — Part 9: Additional requirements to EN 3-7 for pressure resistance of CO2 extinguishers’, in accordance with Directive 97/23/EC concerning pressure equipment**
+
+**(notified under document number C(2009) 666)**
+
+**(Text with EEA relevance)**
+
+**(2009/140/EC)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Directive 97/23/EC of the European Parliament and of the Council of 29 May 1997 on the approximation of the laws of the Member States concerning pressure equipment (1), and in particular Article 6 thereof,
+
+Having regard to the opinion of the Standing Committee set up in accordance with Article 5 of Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on information society services (2),
+
+Whereas:
+
+(1) Directive 97/23/EC provides that pressure equipment and assemblies may be placed on the market and put into service only if, when properly installed and maintained and used for their intended purpose, they do not endanger the health and safety of persons and, where appropriate, domestic animals and property.
+
+(2) Pressure equipment and assemblies are presumed to meet the essential requirements set out in Annex I to Directive 97/23/EC if they conform to the national standards transposing the harmonised standards the reference numbers of which have been published in the Official Journal of the European Union.
+
+(3) Pursuant to Article 6 of Directive 97/23/EC Sweden lodged a formal objection in respect of standard EN 3-9:2006 adopted by the European Committee for Standardisation (CEN) on 2 November 2006 the references of which have not yet been published in the Official Journal of the European Union.
+
+(4) Sweden considers that sections 4, 5.1, 5.2, 5.4, 6 and 8 of standard EN 3-9:2006 do not satisfy the essential requirements of Directive 97/23/EC.
+
+(5) With regard to section 4 (materials) of EN 3-9:2006, Sweden considers that only general information is given and that it is therefore not possible to provide for technical solutions with regard to the material requirements in point 4 of Annex I to Directive 97/23/EC. The precise choice of material is, in this context, an essential element in order to meet several of the essential safety requirements for pressure equipment in accordance with the relevant requirement of Mandate M/071 to CEN.
+
+(6) Section 4 of standard EN 3-9:2006 does not specify the types of materials to be used. The standard only precludes the use of non-metallic materials for bodies of operating devices and it requires that the materials of the components that may be in contact with the contents shall be compatible with both the contents and the material of other components. Therefore, in the absence of concrete technical specifications, section 4 of EN 3-9:2006 can not confer the presumption of conformity to the requirements of point 4 of Annex I to Directive 97/23/EC.
+
+(7) With regard to section 5 (design) of standard EN 3-9:2006, and in particular sections 5.1 and 5.2, Sweden is of the opinion that they do not contain technical requirements with regard to the design of CO2 containers for adequate strength as regards pressure containment. Sweden considers that these clauses do not comply with points 2.3 and 2.9 of Annex I to Directive 97/23/EC.
+
+(8) Sections 5.1 and 5.2 of standard EN 3-9:2006 do not contain any specific requirements on the design of the cylinder and of the operating device, neither any detailed technical solution to ensure safe filling and discharge. Therefore, they are not sufficient to confer the presumption of conformity to the requirements of safe handling and operation in point 2.3 and of safe filling and discharge in point 2.9 of Annex I to Directive 97/23/EC.
+
+(9) Sweden also considers that section 5.4 of standard EN 3-9:2006 does not comply with point 2.11.2 of Annex I to Directive 97/23/EC.
+
+(10) Section 5.4 of standard EN 3-9:2006 states that the bursting disc safety device of the extinguisher must be activated when the pressure is between 10 % more than the maximum allowable pressure PS and the test pressure PT. The bursting disc is classified in the standard as a safety accessory. However, the bursting disc is not a typical pressure limiting device but rather a protection device, as it intends to limit damage in case of overfilling or overheating. Furthermore, point 2.11.2 of Annex I to Directive 97/23/EC on pressure limiting devices requires that these devices are so designed that the pressure will not permanently exceed the maximum allowable pressure PS and that only a short-duration surge may exceed PS and even then only 10 %. Therefore, this section can not confer the presumption of conformity to Directive 97/23/EC.
+
+(11) In the view of Sweden, section 6 of standard EN 3-9:2006 (manufacturing of the assembled extinguisher) is intended, according to its Annex ZA, to ensure compliance with the requirements of point 2.8 (Assemblies) of Annex I to Directive 97/23/EC. However, point 2.8 of Annex I to that Directive relates rather to the design and not to the manufacturing of the assembled extinguisher.
+
+(12) Point 2.8 of Annex I to Directive 97/23/EC contains design requirements for the assemblies, in order to ensure the suitability of the different components, their proper integration and appropriate assembly to an integrated and functional whole. Point 3 of Annex I to that Directive contains detailed requirements relating to manufacturing.
+
+(13) Section 6 of standard EN 3-9:2006 does not contain specific requirements with regard to the design. It contains rather general information on both the design and manufacturing, without however being sufficient to confer the presumption of conformity to the requirements of point 2.8 of Annex I to Directive 97/23/EC. Furthermore, as the content of this section does not correspond to the relevant requirements of the Directive, it might create confusion.
+
+(14) Finally, Sweden considers that section 8 of standard EN 3-9:2006 does not comply with the requirements of point 3.3 of Annex I to Directive 97/23/EC, as two of the most important parameters, the maximum allowable pressure PS and the maximum allowable temperature (TSmax) are missing.
+
+(15) Directive 97/23/EC contains in point 3.3 of Annex I detailed requirements on the marking and labelling of pressure equipment. This includes, for all pressure equipment, information on the essential maximum/minimum allowable limits.
+
+(16) Section 8 of standard EN 3-9:2006 contains marking requirements on the maximum allowable pressure PS, but not on the allowable minimum and maximum temperature (TSmin/TSmax). Therefore, it is not sufficient to confer the presumption of conformity to point 3.3 of Annex I to Directive 97/23/EC.
+
+(17) In addition, the overall assessment of the structure and the content of standard EN 3-9:2006 is unclear as to whether it addresses the design requirements for the assembly only (portable pressure extinguisher) or also covers the design of the components and the manufacturing phase of the assembly. It is liable to create confusion as to its scope and the relationship between its clauses and the essential requirements of Directive 97/23/EC.
+
+(18) Therefore, on the basis of EN 3-9:2006, of the information received in the framework of the consultation of the national authorities, CEN and industry and following assessment of all aspects concerned, it results that harmonised standard EN 3-9:2006 fails to meet the corresponding essential requirements of Directive 97/23/EC.
+
+(19) The references of standard EN 3-9:2006 should therefore not be published in the Official Journal of the European Union,
+
+HAS ADOPTED THIS DECISION:
+
+## Article 1
+
+The reference of standard EN 3-9:2006 ‘Portable fire extinguishers — Part 9: Additional requirements to EN 3-7 for pressure resistance of CO2 extinguishers’ shall not be published in the list of standards published in the Official Journal of the European Union.
+
+## Article 2
+
+This Decision is addressed to the Member States.
+
+Done at Brussels, 10 February 2009.
+
+For the Commission
+
+Günter VERHEUGEN
+
+Vice-President
+
+(1) OJ L 181, 9.7.1997, p. 1.
+
+(2) OJ L 204, 21.7.1998, p. 37.

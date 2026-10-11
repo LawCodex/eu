@@ -1,0 +1,1691 @@
+---
+title: "2007/854/EC: Council Decision of 4 December 2007 concerning the conclusion of the Agreement in the form of an Exchange of Letters on the provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011"
+identifier: "32007D0854"
+eli: "http://data.europa.eu/eli/dec/2007/854/oj"
+type: decision
+jurisdiction: eu
+language: en
+date: 2007-12-04
+entry_into_force: 2007-12-05
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007D0854"
+retrieved: 2026-10-11
+---
+
+# 2007/854/EC: Council Decision of 4 December 2007 concerning the conclusion of the Agreement in the form of an Exchange of Letters on the provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011
+
+**COUNCIL DECISION**
+
+**of 4 December 2007**
+
+**concerning the conclusion of the Agreement in the form of an Exchange of Letters on the provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011**
+
+**(2007/854/EC)**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 300(2) thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) The Community has negotiated with the Republic of Guinea-Bissau a new Fisheries Partnership Agreement providing Community vessels with fishing opportunities in the waters over which Guinea-Bissau has sovereignty or jurisdiction in respect of fisheries.
+
+(2) As a result of those negotiations, a Fisheries Partnership Agreement was initialled on 23 May 2007.
+
+(3) The existing Fisheries Agreement between the European Community and the Government of the Republic of Guinea-Bissau is repealed by the new Fisheries Partnership Agreement.
+
+(4) In order to guarantee the continuation of fishing activities by Community vessels, it is essential that the new Fisheries Partnership Agreement should be applied as quickly as possible. Both parties have therefore initialled an Agreement in the form of an Exchange of Letters on the provisional application of the Protocol attached to the new Fisheries Partnership Agreement from 16 June 2007.
+
+(5) It is in the Community’s interest to approve the Agreement in the form of an Exchange of Letters.
+
+(6) The method for allocating the fishing opportunities among the Member States should be defined,
+
+HAS DECIDED AS FOLLOWS:
+
+## Article 1
+
+The Agreement in the form of an Exchange of Letters on the provisional application of the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011 is hereby approved on behalf of the Community, subject to the Council Decision on its conclusion.
+
+The texts of the Agreement in the form of an Exchange of Letters, the Fisheries Partnership Agreement, its Protocol and the Annexes thereto are attached to this Decision.
+
+## Article 2
+
+1\. The fishing opportunities set out in the Protocol shall be allocated among the Member States as follows:
+
+(a) shrimp fishing:
+
+| Spain | 1 421 | GRT |
+| --- | --- | --- |
+| Italy | 1 776 | GRT |
+| Greece | 137 | GRT |
+| Portugal | 1 066 | GRT |
+
+(b) fin-fish/cephalopods:
+
+| Spain | 3 143 | GRT |
+| --- | --- | --- |
+| Italy | 786 | GRT |
+| Greece | 471 | GRT |
+
+(c) tuna seiners and surface longliners:
+
+| Spain | 10 | vessels |
+| --- | --- | --- |
+| France | 9 | vessels |
+| Portugal | 4 | vessels |
+
+(d) pole-and-line vessels:
+
+| Spain | 10 | vessels |
+| --- | --- | --- |
+| France | 4 | vessels. |
+
+2\. If licence applications from the Member States referred to in paragraph 1 do not cover all the fishing opportunities fixed by the Protocol, the Commission may take into consideration licence applications from any other Member State.
+
+## Article 3
+
+The Member States whose vessels fish under the Agreement referred to in Article 1 shall notify the Commission of the quantities of each stock caught within the Guinea-Bissau fishing zone in accordance with Commission Regulation (EC) No 500/2001 of 14 March 2001 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 on the monitoring of catches taken by Community fishing vessels in third country waters and on the high seas (1).
+
+## Article 4
+
+The President of the Council is hereby authorised to designate the persons empowered to sign the Agreement in the form of an Exchange of Letters in order to bind the Community.
+
+Done at Brussels, 4 December 2007.
+
+For the Council
+
+The President
+
+F. TEIXEIRA DOS SANTOS
+
+(1) OJ L 73, 15.3.2001, p. 8.
+
+**AGREEMENT**
+
+**in the form of an Exchange of Letters on the provisional application of the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011**
+
+**A. Letter from the Government of the Republic of Guinea-Bissau**
+
+Sir,
+
+I am delighted that the Republic of Guinea-Bissau and European Community negotiators have been able to reach a consensus on a Fisheries Partnership Agreement between the Republic of Guinea-Bissau and the European Community, and on a Protocol setting out the fishing opportunities and financial contribution and the Annex thereto.
+
+The result of these negotiations improves on the earlier Agreement and will strengthen our fisheries relations and establish a true framework of partnership in which to develop a sustainable fisheries policy and responsible exploitation of fisheries resources in Guinea-Bissau waters. To this end, I would propose launching in parallel the procedures for approval and ratification of the texts of the Agreement, the Protocol and its Annex and Appendices in accordance with the procedures in force in the Republic of Guinea-Bissau and the European Community and necessary to their entry into force.
+
+In order to avoid interrupting fishing activities by Community vessels in Guinea-Bissau waters, and referring to the Agreement and the Protocol initialled on 23 May 2007 and setting out the fishing opportunities and financial contribution from 16 June 2007 to 15 June 2011, I have the honour to inform you that the Government of the Republic of Guinea-Bissau is willing to apply this Agreement and this Protocol provisionally from 16 June 2007 pending its entry into force in accordance with Article 19 of the Agreement, provided that the European Community is prepared to do likewise.
+
+This is on the understanding that the first instalment of the financial contribution, laid down by Article 2 of the Protocol, must be paid before 30 April 2008.
+
+I should be obliged if you would confirm the European Community’s agreement to such provisional application.
+
+Please accept, Sir, the assurance of my highest consideration.
+
+For the Government of the Republic of Guinea-Bissau
+
+**B. Letter from the European Community**
+
+Sir,
+
+I have the honour to acknowledge receipt of your letter of today’s date which reads as follows:
+
+‘Sir,
+
+I am delighted that the Republic of Guinea-Bissau and European Community negotiators have been able to reach a consensus on a Fisheries Partnership Agreement between the Republic of Guinea-Bissau and the European Community, and on a Protocol setting out the fishing opportunities and financial contribution and the Annex thereto.
+
+The result of these negotiations improves on the earlier Agreement and will strengthen our fisheries relations and establish a true framework of partnership in which to develop a sustainable fisheries policy and responsible exploitation of fisheries resources in Guinea-Bissau waters. To this end, I would propose launching in parallel the procedures for approval and ratification of the texts of the Agreement, the Protocol and its Annex and Appendices in accordance with the procedures in force in the Republic of Guinea-Bissau and the European Community and necessary to their entry into force.
+
+In order to avoid interrupting fishing activities by Community vessels in Guinea-Bissau waters, and referring to the Agreement and the Protocol initialled on 23 May 2007 and setting out the fishing opportunities and financial contribution from 16 June 2007 to 15 June 2011, I have the honour to inform you that the Government of the Republic of Guinea-Bissau is willing to apply this Agreement and this Protocol provisionally from 16 June 2007 pending its entry into force in accordance with Article 19 of the Agreement, provided that the European Community is prepared to do likewise.
+
+This is on the understanding that the first instalment of the financial contribution, laid down by Article 2 of the Protocol, must be paid before 30 April 2008.
+
+I should be obliged if you would confirm the European Community's agreement to such provisional application.’.
+
+I am pleased to confirm the agreement of the European Community to a provisional application.
+
+Please accept, Sir, the assurance of my highest consideration.
+
+For the European Community
+
+**FISHERIES PARTNERSHIP AGREEMENT**
+
+**between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011**
+
+THE EUROPEAN COMMUNITY, hereinafter referred to as ‘the Community’,
+
+and
+
+THE REPUBLIC OF GUINEA-BISSAU, hereinafter referred to as ‘Guinea-Bissau’,
+
+hereinafter referred to as ‘the Parties’,
+
+CONSIDERING the close working relationship between the Community and Guinea-Bissau, particularly in the context of the Cotonou Agreement establishing a relationship of close cooperation between the European Community and its Member States, of the one part, and Guinea-Bissau, of the other part, and their mutual desire to intensify that relationship,
+
+RECALLING that the Community and Guinea-Bissau are signatories to the United Nations Convention on the Law of Sea and that, in accordance with that Convention, Guinea-Bissau has established an exclusive economic zone extending 200 nautical miles from its shores within which it exercises its sovereign rights for the purpose of exploring, conserving and managing that zone,
+
+DETERMINED to apply the decisions and recommendations of the International Commission for the Conservation of Atlantic Tunas, hereinafter referred to as ‘ICCAT’, the CECAF or any other regional or international organisation in this area of which the two Parties are members or in which they are represented,
+
+DETERMINED to cooperate, in their mutual interest, in particular on the basis of the principles established by the Code of conduct for responsible fisheries adopted at the FAO Conference in 1995, in promoting the introduction of responsible fisheries to ensure the long-term conservation and sustainable exploitation of marine living resources, in particular by reinforcing the control system covering fishing activities as a whole, in order to ensure the effectiveness of the measures for the development and conservation of these resources, and the protection of the marine environment,
+
+AFFIRMING that the exercise by coastal States of their sovereign rights in the waters within their jurisdiction over the living resources thereof for the purposes of exploring, exploiting, conserving and managing those resources must be in accordance with the principles of international law,
+
+CONVINCED that the achievement of their respective economic and social objectives in the fisheries sector will be furthered by close cooperation in scientific and technical research in that sector on terms ensuring the conservation and rational exploitation of fish stocks,
+
+CONVINCED that such cooperation must take the form of initiatives and measures which, whether taken jointly or separately, are complementary and ensure consistent policies and synergy of effort,
+
+FIRMLY COMMITTED to responsible and sustainable fishing,
+
+DECIDED, to these ends, to contribute, within the framework of Guinea-Bissau’s sectoral fisheries policy, to promoting the development of a partnership with a view in particular to identifying the most appropriate means of ensuring that this policy is effectively implemented and that economic operators and civil society are involved in the process,
+
+DESIROUS of establishing terms and conditions governing the fishing activities of Community vessels in Guinea-Bissau fishing zones and Community support for the introduction of responsible fishing in those fishing zones,
+
+RESOLVED to pursue closer economic cooperation in the fishing industry and related activities through the setting up and development of investments in Guinea-Bissau involving companies from both Parties,
+
+HEREBY AGREE AS FOLLOWS:
+
+## Article 1 — Scope
+
+This Agreement establishes the principles, rules and procedures governing:
+
+— economic, financial, technical and scientific cooperation in the fisheries sector with a view to establishing responsible fishing in Guinea-Bissau fishing zones to guarantee the conservation and sustainable exploitation of fisheries resources and develop the Guinea-Bissau fisheries sector,
+
+— the conditions governing access by Community fishing vessels to Guinea-Bissau fishing zones,
+
+— the arrangements for policing fisheries in Guinea-Bissau fishing zones with a view to ensuring that the above rules and conditions are complied with, that the measures for the conservation and management of fish stocks are effective and that illegal, undeclared and unregulated fishing is prevented,
+
+— partnerships between companies aimed at developing economic activities in the fisheries sector and related activities, in the common interest.
+
+## Article 2 — Definitions
+
+For the purposes of this Agreement, including the Protocol and the Annexes thereto:
+
+(a) ‘Guinea-Bissau fishing zones’ means the waters over which Guinea-Bissau has sovereignty or jurisdiction. The fishing activities by Community vessels provided for in this Agreement shall be carried out only in the zones in which fishing is authorised under Guinea-Bissau law;
+
+(b) ‘the Ministry’ means the Government department responsible for the fisheries sector;
+
+(c) ‘Community authorities’ means the European Commission;
+
+(d) ‘Community vessel’ means a fishing vessel flying the flag of a Member State of the Community and registered in the Community;
+
+(e) ‘Joint Committee’ means a committee made up of representatives of the Community and Guinea-Bissau whose functions are described in Article 10 of this Agreement;
+
+(f) ‘surveillance authority’ means the fisheries surveillance directorate;
+
+(g) ‘the Delegation’ means the Delegation of the European Commission to Guinea-Bissau;
+
+(h) ‘ACP seamen’ means any seamen who are nationals of a non-European signatory to the Cotonou Agreement. To this end, a Guinea-Bissau seaman is an ACP seaman;
+
+(i) ‘shipowner’ means any person legally responsible for a fishing vessel.
+
+## Article 3 — Principles and objectives underlying this Agreement
+
+1\. The Parties hereby undertake to promote responsible fishing and sustainable exploitation of fisheries resources in Guinea-Bissau fishing zones based on the principle of non-discrimination between the different fleets fishing in those waters.
+
+2\. The Parties undertake to establish the principles of dialogue and of prior consultations, in particular as regards implementation of Guinea-Bissau’s sectoral fisheries policy on the one hand and of Community policies and measures which could have an impact on the Guinea-Bissau fishing industry on the other.
+
+3\. The Parties hereby undertake to ensure that this Agreement is implemented in accordance with the principles of good economic and social governance.
+
+4\. The Parties shall also cooperate in carrying out ex-ante, ongoing and ex-post evaluations of measures, programmes and actions for the implementation of this Agreement.
+
+5\. In particular, the employment of Guinea-Bissau and/or ACP seamen on board Community vessels shall be governed by the International Labour Organisation (ILO) Declaration on Fundamental Principles and Rights at Work, which shall apply as of right to the corresponding contracts and general terms of employment. This concerns in particular the freedom of association and the effective recognition of the right to collective bargaining, and the elimination of discrimination in respect of employment and occupation.
+
+## Article 4 — Scientific cooperation
+
+1\. During the period covered by this Agreement, the Community and Guinea-Bissau shall endeavour to monitor the evolution of resources in the Guinea-Bissau fishing zone. A joint scientific meeting shall be held annually to that end, alternately in the Community and in Guinea-Bissau.
+
+2\. The two Parties, on the basis of the conclusions of the annual scientific meeting and in the light of the best available scientific advice and the recommendations and resolutions adopted in particular within the International Commission for the Conservation of Atlantic Tunas (ICCAT), the Fishery Committee for the Eastern Central Atlantic (CECAF) or any other regional or international organisation in this area of which the two Parties are members or in which they are represented, shall consult each other within the Joint Committee provided for in Article 10 of the Agreement and adopt, where appropriate and by mutual agreement, measures to ensure the sustainable management of fisheries resources.
+
+3\. The Parties undertake to consult one other, either directly or within the competent international or regional organisations, to ensure the management and conservation of fisheries resources, and to cooperate in implementing the relevant scientific research.
+
+## Article 5 — Access by Community vessels to fisheries in Guinea-Bissau fishing zones
+
+1\. The fishing activities governed by this Agreement shall be subject to the laws and regulations in force in Guinea-Bissau. The competent Guinea-Bissau authorities shall notify the Commission of any amendments to that legislation. Without prejudice to any provisions which might be agreed between the Parties, Community vessels shall comply with such amendments within one month of their notification.
+
+2\. Guinea-Bissau undertakes to authorise Community vessels to engage in fishing activities in its fishing zones in accordance with this Agreement, including the Protocol and Annexes thereto.
+
+3\. Guinea-Bissau shall ensure the effective implementation of the fisheries control provisions in the Protocol. Community vessels shall cooperate with the Guinea-Bissau authorities responsible for carrying out such control.
+
+4\. The Community undertakes to take all the appropriate steps required to ensure that its vessels comply with this Agreement and the legislation governing fisheries in the waters over which Guinea-Bissau has jurisdiction, in accordance with the United Nations Convention on the Law of the Sea.
+
+## Article 6 — Conditions governing fishing activities
+
+1\. Community vessels may fish in Guinea-Bissau fishing zones only if they are in possession of a fishing licence issued under this Agreement. The exercise of fishing activities by Community vessels shall be subject to the holding of a licence issued by the competent Guinea-Bissau authorities at the request of the competent Community authorities. The procedures for the issue of licences and for the payment of fees and contributions to scientific observers’ expenses, and other conditions to which fishing activities by Community vessels in Guinea-Bissau fishing zones are subject, are set out in the Annexes hereto.
+
+2\. For fishing categories not covered by the Protocol in force, and for exploratory fishing, the Ministry may grant fishing authorisations to Community vessels. However, the granting of these licences remains dependent on a favourable opinion from the two Parties.
+
+3\. The Protocol to this Agreement sets out the fishing opportunities granted by Guinea-Bissau to Community vessels in Guinea-Bissau fishing zones and the financial contribution referred to in Article 7 of this Agreement.
+
+4\. The Parties shall ensure the proper implementation of these procedures and conditions by appropriate administrative cooperation between their competent authorities.
+
+## Article 7 — Financial contribution
+
+1\. The Community shall grant Guinea-Bissau a financial contribution in accordance with the terms and conditions laid down in the Protocol and Annexes. This single contribution shall be based on two elements, namely:
+
+(a) a financial contribution due for access by Community vessels to Guinea-Bissau fishing zones, without prejudice to the fees due by Community vessels to obtain licences;
+
+(b) Community financial support for implementing a national fisheries policy based on responsible fishing and on the sustainable exploitation of fisheries resources in Guinea-Bissau waters.
+
+2\. The financial support referred to in paragraph 1(b) shall be determined by mutual agreement in accordance with the Protocol in the light of objectives identified by the two Parties to be achieved in the context of the sectoral fisheries policy in Guinea-Bissau.
+
+3\. The financial contribution granted by the Community shall be paid each year in accordance with the Protocol and subject to this Agreement and the Protocol in the event of any change to the amount of the contribution as a result of:
+
+(a) serious circumstances, other than natural phenomena, preventing fishing activities in Guinea-Bissau waters;
+
+(b) a reduction in the fishing opportunities granted to Community vessels, made by mutual agreement for the purposes of managing the stocks concerned, where this is considered necessary for the conservation and sustainable exploitation of resources on the basis of the best available scientific advice;
+
+(c) an increase in the fishing opportunities granted to Community vessels, made by mutual agreement between the Parties where the best available scientific advice concurs that the state of resources so permits;
+
+(d) a reassessment of the terms of Community financial support for implementing a sectoral fisheries policy in Guinea-Bissau, where this is warranted by the results of the annual and multiannual programming observed by both Parties;
+
+(e) termination of this Agreement under Article 14;
+
+(f) suspension of the application of this Agreement under Article 15 or the Protocol.
+
+## Article 8 — Promoting cooperation among economic operators
+
+1\. The Parties shall encourage economic, scientific and technical cooperation in the fisheries sector and related sectors. They shall consult one another with a view to coordinating the different measures that might be taken to this end.
+
+2\. The Parties shall encourage exchanges of information on fishing techniques and gear, preservation methods and the industrial processing of fishery products.
+
+3\. The Parties shall endeavour to create conditions favourable to the promotion of relations between their enterprises in the technical, economic and commercial spheres, by encouraging the establishment of an environment favourable to the development of business and investment.
+
+4\. The Parties shall encourage, in particular, the promotion of investments in their mutual interest, in compliance with Guinea-Bissau and Community law.
+
+## Article 9 — Administrative cooperation
+
+The Parties, desirous of ensuring the effectiveness of the measures for the development and conservation of fishery resources, shall:
+
+— develop administrative cooperation with a view to ensuring that their vessels comply with the provisions of this Agreement and with Guinea-Bissau’s sea fisheries rules, each on its own behalf,
+
+— cooperate to prevent and combat illegal, undeclared and unregulated fishing, in particular through the exchange of information and close administrative cooperation.
+
+## Article 10 — Joint Committee
+
+1\. A Joint Committee set up between the two Parties shall be responsible for monitoring the application of this Agreement. The Joint Committee shall perform the following functions:
+
+(a) monitoring the performance, interpretation and smooth operation of the application of the Agreement, and the settlement of disputes;
+
+(b) monitoring and evaluating the implementation of the contribution of the Fisheries Partnership Agreement to the implementation of Guinea-Bissau’s sectoral fisheries policy;
+
+(c) providing the necessary liaison for matters of mutual interest relating to fisheries;
+
+(d) acting as a forum for the amicable settlement of any disputes regarding the interpretation or application of the Agreement;
+
+(e) reassessing, where necessary, the level of fishing opportunities and, consequently, of the financial contribution;
+
+(f) fixing the practical arrangements for the administrative cooperation provided for in Article 9 of this Agreement;
+
+(g) monitoring and evaluating the cooperation between economic operators as referred to in Article 8 of this Agreement and proposing, where necessary, ways of promoting it;
+
+(h) any other function that the Parties decide by mutual agreement to confer on it, including with regard to combating illegal fishing and administrative cooperation.
+
+2\. The Joint Committee shall meet at least once a year, alternately in Guinea-Bissau and in the Community, and shall be chaired by the Party hosting the meeting. It shall hold a special meeting at the request of either of the Parties.
+
+## Article 11 — Area of application
+
+This Agreement shall apply, on the one hand, to the territories in which the Treaty establishing the European Community applies, under the conditions laid down in that Treaty, and, on the other, to the territory of Guinea-Bissau and the waters under Guinea-Bissau jurisdiction.
+
+## Article 12 — Duration
+
+This Agreement shall apply for four years from the date of its entry into force. It shall be renewable for four-year periods unless notice of termination is given in accordance with Article 14.
+
+## Article 13 — Settlement of disputes
+
+The Parties shall consult each other within the Joint Committee on any dispute concerning the application of this Agreement.
+
+## Article 14 — Termination
+
+1\. This Agreement may be terminated by either Party in the event of unusual circumstances such as the degradation of the stocks concerned, the discovery of a reduced level of exploitation of the fishing opportunities granted to Community vessels, or failure to comply with undertakings made by the Parties with regard to combating illegal, unreported and unregulated fishing.
+
+2\. The Party concerned shall notify the other Party in writing of its intention to terminate the Agreement at least six months before the date of expiry of the initial period or each additional period.
+
+3\. Dispatch of the notification referred to in paragraph 2 shall open consultations by the Parties.
+
+4\. Payment of the financial contribution referred to in Article 7 for the year in which the termination takes effect shall be reduced proportionately and pro rata temporis.
+
+## Article 15 — Suspension
+
+1\. Application of this Agreement may be suspended at the initiative of one of the Parties in the event of a serious disagreement as to the application of provisions laid down in the Agreement. Suspension of application of the Agreement shall require the interested Party to notify its intention in writing at least three months before the date on which suspension is due to take effect. On receipt of this notification, the Parties shall enter into consultations with a view to resolving their differences amicably.
+
+2\. Payment of the financial contribution referred to in Article 7 shall be reduced proportionately and pro rata temporis, according to the duration of the suspension, without prejudice to Article 9(4) of the Protocol.
+
+## Article 16 — Protocol and Annexes
+
+The Protocol, the Annexes and the Appendices thereto shall form an integral part of this Agreement.
+
+## Article 17 — National law
+
+The activities of Community vessels operating in Guinea-Bissau waters shall be governed by the applicable law in Guinea-Bissau, unless otherwise provided in the Agreement, this Protocol and the Annex and Appendices thereto.
+
+## Article 18 — Repeal
+
+On the date of its entry into force, this Agreement shall repeal and replaces the Agreement between the Government of the Republic of Guinea-Bissau and the European Economic Community on fishing off the coast of Guinea-Bissau which entered into force on 29 August 1980.
+
+However, the Protocol setting out for the period from 16 June 2007 to 15 June 2011 the fishing opportunities and financial contribution provided for in the Agreement shall remain in force during the period referred to in Article 1(1) thereof and shall become an integral part of this Agreement.
+
+## Article 19 — Entry into force
+
+This Agreement, drawn up in duplicate in the Bulgarian, Spanish, Czech, Danish, German, Estonian, Greek, English, French, Italian, Latvian, Lithuanian, Hungarian, Maltese, Dutch, Polish, Portuguese, Romanian, Slovak, Slovenian, Finnish and Swedish languages, each of these texts being equally authentic, shall enter into force on the date on which the Parties notify each other that they have completed the necessary procedures to that end.
+
+**PROTOCOL**
+
+**setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Republic of Guinea-Bissau for the period 16 June 2007 to 15 June 2011**
+
+## Article 1 — Period of application and fishing opportunities
+
+1\. For a period of four years from 16 June 2007, the fishing opportunities granted pursuant to Articles 5 and 6 of the Agreement shall be as follows:
+
+— crustaceans and demersal species:
+
+(a) freezer shrimp trawlers: 4 400 GRT per year;
+
+(b) freezer, fin-fish and cephalopod trawlers: 4 400 GRT per year;
+
+— highly migratory species (species listed in Annex 1 to the 1982 United Nations Convention):
+
+(c) freezer tuna seiners and longliners: 23 vessels,
+
+(d) pole-and-line tuna vessels: 14 vessels,
+
+2\. Paragraph 1 shall apply subject to Articles 5 and 6 of this Protocol.
+
+3\. Under Article 6 of the Agreement, vessels flying the flag of a Member State of the European Community may fish in Guinea-Bissau fishing zones only if they are in possession of a fishing licence issued under this Protocol in accordance with the Annexes hereto.
+
+## Article 2 — Financial contribution and specific contribution — Methods of payment
+
+1\. The financial contribution referred to in Article 7 of the Agreement shall be fixed, for the period referred to in Article 1 of this Protocol, at EUR 7 million per year.
+
+2\. However, if the use of the fishing opportunities provided for in Article 1(1)(a) and (b) of this Protocol by Community vessels improves, the Community shall grant an additional amount to Guinea-Bissau proportionate to the increase in the use of the fishing opportunities, within the limits of the fishing opportunities set by this Protocol and up to a maximum EUR 1 million per year. The two Parties shall agree, within the Joint Committee, and no later than three months after the entry into force of this Protocol, to determine the reference period, the base index and the specific payment mechanisms.
+
+3\. Paragraph 1 shall apply subject to Articles 5, 6, 7, 8, 9, 11 and 12 of this Protocol.
+
+4\. The Community shall pay the financial contribution fixed in paragraph 1 no later than 30 April 2008 in the first year and no later than 15 June in the following years.
+
+5\. Subject to Article 8 of this Protocol, the allocation of this contribution shall be decided within the framework of the Guinea-Bissau finance act and the Guinea-Bissau authorities shall have full discretion regarding the use to which it is put.
+
+6\. In addition to the amount referred to in paragraph 1, a specific contribution from the Community of EUR 500 000 per year shall be dedicated to the introduction of a health and plant health system for fishery products. However the two Parties may, where necessary, decide to allocate part of this specific contribution to strengthening monitoring, control and surveillance in Guinea-Bissau fishing zones. This contribution shall be managed in accordance with Article 3 of this Protocol.
+
+7\. Without prejudice to Article 3 of this Protocol, the specific contribution referred to in paragraph 6 shall be paid no later than 30 April 2008 in the first year and no later than 15 June in the following years.
+
+8\. The payments provided for in this Article shall be paid into a Public Treasury account opened at Guinea-Bissau’s central bank, the references of which shall be notified each year by the Ministry.
+
+## Article 3 — Specific contribution to help improve the health and plant-health conditions of fishery products and to fisheries monitoring, control and surveillance
+
+1\. The specific contribution from the Community mentioned in Article 2(6) of this Protocol shall be put towards helping the fisheries sector achieve compliance with health standards and, where necessary, towards Guinea-Bissau’s monitoring, control and surveillance policy.
+
+2\. Guinea-Bissau shall be responsible for the management of the corresponding amount, based on the identification by the two Parties, by mutual agreement, of the measures to be carried out and the annual and multiannual programming to attain them.
+
+3\. Without prejudice to the objectives identified by the two Parties and in accordance with Articles 8 and 9 of this Protocol, the Parties agree to focus on:
+
+(a) measures which aim to improve the health and plant-health conditions of fishery products, including building up the competent authority, bringing the Centro de Investigação Pesqueira Apliquada (CIPA) up to standards (ISO 9000), training staff and achieving compliance in the necessary legal framework;
+
+and, where necessary,
+
+(b) support measures for fisheries monitoring, control and surveillance, including surveillance of Guinea-Bissau waters by sea and by air, setting up a satellite vessel monitoring system (VMS) and improving the legal framework and its application in the event of infringements.
+
+4\. A detailed annual report shall be submitted for approval to the Joint Committee provided for in Article 10 of the Agreement.
+
+5\. However, the Community reserves the right to suspend payment of the specific contribution provided for in Article 2(6) of this Protocol, from the first year of application of the Protocol, in the event of disputes concerning the programming of measures or where the results obtained, except in exceptional circumstances, do not comply with the programming.
+
+## Article 4 — Scientific cooperation
+
+1\. The two Parties undertake to promote responsible fishing in the Guinea-Bissau fishing zone on the basis of the principles of sustainable management, in particular by promoting cooperation at subregional level on responsible fishing, particularly within the Subregional Fisheries Commission (CSRP).
+
+2\. During the period covered by this Protocol, the two Parties shall cooperate to develop certain issues relating to the state of resources in Guinea-Bissau fishing zones; to this end a Joint Scientific Committee shall meet at least once a year, in accordance with Article 4(1) of the Agreement. At the request of one of the Parties and where needed within the framework of this Agreement, other meetings of this Joint Scientific Committee may also be convened.
+
+3\. The two Parties, on the basis of the conclusions of the annual joint scientific meeting and of the recommendations and resolutions adopted within the International Commission for the Conservation of Atlantic Tunas (ICCAT), the Fishery Committee for the Eastern Central Atlantic (CECAF) or any other regional or international organisation in this area of which the two Parties are members or in which they are represented, shall consult each other within the Joint Committee provided for in Article 10 of the Agreement and adopt, where appropriate and by mutual agreement, measures to ensure the sustainable management of fisheries resources.
+
+## Article 5 — Review of fishing opportunities
+
+1\. The fishing opportunities referred to in Article 1 may be increased by mutual agreement provided that the conclusions of the annual joint scientific meeting referred to in Article 4(2) of the Agreement confirm that such an increase will not endanger the sustainable management of Guinea-Bissau resources. In this case the financial contribution referred to in Article 2(1) shall be increased proportionately and pro rata temporis. However, the total amount of the financial contribution paid by the European Community shall not be more than twice the amount indicated in Article 2(1).
+
+2\. Conversely, if the Parties agree to adopt measures as referred to in Article 4(2) of the Agreement resulting in a reduction in the fishing opportunities provided for in Article 1, the financial contribution shall be reduced proportionally and pro rata temporis. Without prejudice to Article 8 of this Protocol, this financial contribution could be suspended by the Community if it is not possible to use the fishing opportunities provided for in this Protocol.
+
+3\. The allocation of the fishing opportunities among different categories of vessels may also be reviewed by mutual agreement between the Parties, provided that any changes comply with any recommendations made by the annual joint scientific meeting regarding the management of stocks liable to be affected by such redistribution. The Parties shall agree on the corresponding adjustment of the financial contribution where the redistribution of fishing opportunities so warrants.
+
+4\. The adjustments of fishing opportunities provided for in paragraphs 1, 2 and 3 shall be decided by mutual agreement between the two Parties in the Joint Committee provided for in Article 10 of the Agreement.
+
+## Article 6 — New and exploratory fishing opportunities
+
+1\. Should Community vessels be interested in fishing activities which are not indicated in Article 1 of this Protocol, the Community shall consult Guinea-Bissau in order to seek authorisation for these new activities. Where appropriate, the Parties shall agree on the conditions applicable to these new fishing opportunities and, if necessary, make amendments to this Protocol and to the Annex hereto.
+
+2\. The Parties may carry out exploratory fishing trips in Guinea-Bissau fishing zones, subject to an opinion by the joint scientific committee provided for in Article 4 of the Agreement. To this end, they shall hold consultations whenever one of the Parties so requests and determine, on a case-by-case basis, relevant new resources, conditions and other parameters.
+
+3\. Exploratory fishing authorisations shall be granted for testing purposes for a period of no more than six months.
+
+4\. Where the Parties conclude that the exploratory fishing trips have produced positive results, while preserving ecosystems and conserving living marine resources, new fishing opportunities may be awarded to Community vessels following the consultation procedure provided for in Article 5 of this Protocol and until the expiry of the Protocol and in accordance with the allowable effort. The financial contribution shall be increased in accordance with Article 5 of this Protocol.
+
+5\. Catches made during exploratory fishing shall be the property of the shipowner. Catches of species of a non-regulatory size and species which may not be fished, kept on-board or sold under Guinea-Bissau law shall be prohibited.
+
+## Article 7 — Suspension and review of the payment of the financial contribution in the event of unusual circumstances
+
+1\. Where unusual circumstances, other than natural phenomena, prevent fishing activities in the Guinea-Bissau exclusive economic zone (EEZ), the European Community may suspend payment of the financial contribution and the specific contribution provided for in Article 2(1) of this Protocol. The suspension decision shall be taken following consultations between the two Parties within a period of two months following the request of one of the Parties, and provided that the Community has paid in full any amounts due at the time of suspension.
+
+2\. Payment of the financial contribution and of the specific contribution referred to in Article 2 of this Protocol shall resume as soon as the Parties find, by mutual agreement following consultations, that the circumstances preventing fishing activities are no longer present and/or that the situation allows a resumption of fishing activities.
+
+3\. Where the validity of the licences granted to Community vessels is suspended along with the payment of the financial contribution, it shall be extended by a period equal to the period during which fishing activities were suspended.
+
+## Article 8 — Contribution of the Fisheries Partnership Agreement to the implementation of Guinea-Bissau’s sectoral fisheries policy
+
+1\. A share of 35 % of the financial contribution referred to in Article 2(1) of this Protocol (i.e. EUR 2 450 000) shall be put towards defining and implementing a sectoral fisheries policy in Guinea-Bissau with a view to introducing sustainable and responsible fishing in its waters.
+
+2\. Guinea-Bissau shall be responsible for the management of the corresponding amount, based on the identification by the two Parties, by mutual agreement, of the objective to be achieve and the annual and multiannual programming to attain them, in particular as regards the sound management of fisheries resources, strengthening scientific research and the monitoring capacity of the competent Guinea-Bissau authorities, and improving production conditions for fishery products.
+
+3\. Without prejudice to the objectives identified by the two Parties and in accordance with the priorities of the Strategy of sustainable development of Guinea-Bissau’s fisheries sector and with a view to ensuring sustainable and responsible management of the sector, the two Parties agree to focus on the following areas of assistance: monitoring, control and surveillance of fishing activities, scientific research and management and development of fisheries.
+
+## Article 9 — Methods of implementing the support for Guinea-Bissau’s sectoral fisheries policy
+
+1\. Without prejudice to Article 8(3) of this Protocol, the European Community and the Ministry shall agree, within the Joint Committee provided for in Article 10 of the Agreement, and from the entry into force of the Protocol, on:
+
+(a) the annual and multiannual guidelines steering the implementation of the priorities of Guinea-Bissau fisheries policy aiming to introduce responsible fishing, and in particular those referred to in Article 8(2) of this Protocol;
+
+(b) the annual and multiannual objectives to be achieved and the criteria and indicators to be used to permit an evaluation of the results obtained, on an annual basis. Annex IV hereto provides a basic outline of the objectives and performance indicators to be taken into account within the framework of the Protocol.
+
+2\. Any amendment of these guidelines, objectives, criteria and evaluation indicators shall be approved by the two Parties within the Joint Committee.
+
+3\. For the first year, the allocation by Guinea-Bissau of the financial support referred to in Article 8(1) of this Protocol shall be communicated to the European Community when the guidelines, objectives, criteria and evaluation indicators are approved within the Joint Committee.
+
+4\. Each year, the Ministry shall communicate this allocation to the European Community no later than four months after the entry into force of this Protocol in the first year and no later than 15 June in the following years.
+
+5\. The annual report on the implementation of the measures programmed and financed, the results obtained and any difficulties encountered shall be submitted to the Joint Committee provided for in Article 10 of the Agreement for approval.
+
+6\. However, the European Community reserves the right to adapt or suspend payment of the amount fixed in Article 8(1) of this Protocol, where the annual evaluation of the actual results achieved in terms of implementing the fisheries policy at that point so warrants, and following consultations within the Joint Committee.
+
+## Article 10 — Economic integration of Community operators in the Guinea-Bissau fisheries sector
+
+1\. The Parties undertake to promote the economic integration of Community operators into the fishing industry in Guinea-Bissau as a whole.
+
+2\. The Parties undertake to promote the setting up of joint ventures between Community operators and Guinea-Bissau operators with a view to the joint exploitation of fishery resources in the Guinea-Bissau exclusive economic zone (EEZ).
+
+3\. ‘Joint ventures’ means any association set up on the basis of a contractual agreement of limited duration between Community shipowners and physical or legal persons in Guinea-Bissau for the purpose of jointly fishing for and exploiting Guinea-Bissau fishing quotas using one or more vessels flying the flag of a Member State of the European Community and sharing the cost profits or losses of the economic activity jointly undertaken.
+
+4\. Guinea-Bissau shall award the authorisation required to allow joint ventures set up for the exploitation of fishery resources to operate in its fishing zones.
+
+5\. Community vessels which have decided to set up joint ventures under the Protocol in force for the fishing categories referred to in Article 1(1)(a) and (b) of this Protocol will be exempt from the payment of licence fees. Moreover, from the third year of application of the Protocol, Guinea-Bissau shall make financial support available for setting up such joint ventures. The total amount of such support shall not exceed 20 % of the total amount of fees paid by shipowners under this Protocol.
+
+6\. The Joint Committee shall decide the financial and technical provisions allowing for the implementation of this financial support and the promotion of joint ventures within the framework of this Protocol.
+
+## Article 11 — Disputes — suspension of application of the Protocol
+
+1\. Any dispute between the Parties over the interpretation of this Protocol and its Annexes or its application shall be the subject of consultations between the Parties within the Joint Committee, in a special meeting if necessary.
+
+2\. Application of the Protocol may be suspended at the initiative of one of the Parties if the dispute between the two Parties is deemed to be serious and if the consultations held within the Joint Committee under the above paragraph 1 have not resulted in an amicable settlement.
+
+3\. Suspension of application of this Protocol shall require the interested Party to notify its intention in writing at least three months before the date on which suspension is due to take effect.
+
+4\. In the event of suspension, the Parties shall continue to consult with a view to finding an amicable settlement to their dispute. As soon as an amicable settlement is reached, application of the Protocol shall resume and the amount of the financial contribution shall be reduced proportionately and pro rata temporis according to the period during which application of the Protocol was suspended.
+
+## Article 12 — Suspension of application of the Protocol for failure to implement Guinea-Bissau’s undertakings on responsible and sustainable fishing
+
+Subject to Article 4 of this Protocol, if Guinea-Bissau fails to honour its undertaking to work towards responsible and sustainable fishing, in particular by complying with annual fisheries management plans drawn up by the Government of Guinea-Bissau, application of this Protocol may be suspended in accordance with Article 11(3) and (4).
+
+For the first year of application of the Protocol, the fisheries management plan shall be as set out in Annex III to this Protocol. The Parties shall abide by the updated fisheries plan in each subsequent year within the framework of the Joint Committee provided for in Article 10 of the Agreement.
+
+## Article 13 — Suspension of application of this Protocol on grounds of non-payment
+
+Subject to Article 4 of this Protocol, if the European Community fails to make the payments provided for in Article 2, application of this Protocol may be suspended on the following terms:
+
+(a) the competent Guinea-Bissau authorities shall notify the European Commission of the non-payment. The Commission shall carry out the necessary checks and, where necessary, transmit the payment within no more than 30 working days of the date of receipt of the notification;
+
+(b) if no payment is made and non-payment is not adequately justified within the period provided for in paragraph (a) above, the competent Guinea-Bissau authorities shall be entitled to suspend application of this Protocol. They shall inform the European Commission of such action forthwith.
+
+Application of this Protocol shall resume as soon as the payments concerned have been made.
+
+## Article 14 — Repeal
+
+This Protocol and its Annexes repeal and replace the current fisheries Protocol between the European Economic Community and Guinea-Bissau on fishing off the coast of Guinea-Bissau.
+
+## Article 15 — Entry into force
+
+1\. This Protocol with its Annexes shall enter into force on the date on which the Parties notify each other of the completion of the procedures necessary for that purpose.
+
+2\. They shall apply with effect from 16 June 2007.
+
+## ANNEX I — CONDITIONS GOVERNING FISHING ACTIVITIES BY COMMUNITY VESSELS IN THE GUINEA-BISSAU FISHING ZONE
+
+**CHAPTER I**
+
+**Application for and issue of licences**
+
+**SECTION 1**
+
+**General provisions applicable to all vessels**
+
+1\. Only eligible vessels may obtain a licence to fish in the Guinea-Bissau fishing zone.
+
+2\. For a vessel to be eligible, neither the owner, the master nor the vessel itself must be prohibited from fishing in Guinea-Bissau. They must be in order vis-à-vis the Guinea-Bissau authorities insofar as they must have fulfilled all prior obligations arising from their fishing activities in Guinea-Bissau under fisheries agreements concluded with the Community.
+
+3\. Any Community vessel applying for a fishing licence may be represented by an agent resident in Guinea-Bissau. The name and address of that representative shall be stated in the licence application.
+
+4\. The relevant Community authorities shall present to the Ministry, via the Delegation of the European Commission to Guinea-Bissau an application for each vessel wishing to fish under the Agreement at least 20 days before the date of commencement of the period of validity requested.
+
+5\. Applications shall be made to the Ministry on the forms provided for that purpose by the Government of Guinea-Bissau, a specimen of which is attached (Appendix 1). The Guinea-Bissau authorities shall take all the necessary steps to ensure that the data received as part of the licence application is treated as confidential. This data will be used exclusively in the context of the implementation of the Fisheries Agreement.
+
+6\. All licence applications shall be accompanied by the following documents:
+
+— proof of payment of the fee for the period of validity of the licence and of the amount provided for in Chapter VII, point 13,
+
+— any other documents or certificates required under the specific rules applicable to the type of vessel concerned pursuant to this Protocol.
+
+7\. The fee shall be paid into the account specified by the Guinea-Bissau authorities.
+
+8\. The fees shall include all national and local charges with the exception of port taxes and service charges.
+
+9\. Licences for all vessels shall be issued to shipowners or their representatives via the Delegation of the European Commission to Guinea-Bissau within 20 working days of receipt of all the documents referred to in point 6 above by the Ministry.
+
+10\. If a licence is signed at a time when the offices of the Delegation of the European Commission are closed, it shall be sent direct to the vessel’s agent and a copy shall be sent to the Delegation.
+
+11\. Licences shall be issued for a specific vessel and shall not be transferable.
+
+12\. However, at the request of the European Community and where force majeure is proven, a vessel’s licence shall be replaced by a new licence for another vessel with similar characteristics to those of the first vessel, with no further fee due. However, if the gross registered tonnage (GRT) of the replacement vessel is above that of the vessel to be replaced, the difference in fee shall be paid pro rata temporis.
+
+13\. The owner of the first vessel, or his or her representative, shall return the cancelled licence to the Ministry via the Delegation of the European Commission.
+
+14\. The new licence shall take effect on the day that the vessel’s owner returns the cancelled licence to the Ministry. The Delegation of the European Commission to Guinea-Bissau shall be informed of the licence transfer.
+
+15\. The licence must be kept on board at all times, without prejudice to point 1 of Section 2 of Chapter I of this Annex.
+
+16\. The two Parties shall seek agreement for the purposes of promoting the introduction of a licence system based exclusively on the electronic exchange of all the information and documents described above. The two Parties shall seek agreement for the purposes of promoting the rapid replacement of the paper licence by an electronic equivalent such as the list of vessels authorised to fish in Guinea-Bissau’s fishing zone.
+
+17\. The Parties, acting in the Joint Committee, undertake to replace all references to GRT with GT and to adapt all the provisions affected thereby accordingly. This replacement shall be preceded by appropriate technical consultations between the Parties.
+
+**SECTION 2**
+
+**Special provisions applicable to tuna vessels and surface longliners**
+
+1\. The licence must be held on board at all times. The European Community shall keep an up-to-date draft list of the vessels for which a fishing licence has been applied for under this Protocol. This draft shall be notified to the Guinea-Bissau authorities as soon as it is drawn up, and then each time it is updated. On receipt of this draft list and of notification of payment of the advance sent to the Guinea-Bissau authorities by the Commission, the vessel shall be entered by the competent Guinea-Bissau authority on a list of vessels authorised to fish, which shall be notified to the authorities responsible for fisheries inspection and to the Delegation of the European Commission to Guinea-Bissau. A certified copy of this list shall then be sent by the Delegation of the European Commission to the shipowner to be kept on board instead of the fishing licence until the licence has been issued by the competent Guinea-Bissau authority.
+
+2\. Licences shall be valid for a period of one year. They shall be renewable.
+
+3\. Fees shall be calculated for each vessel on the basis of the annual rates laid down in the datasheets attached to the Protocol. In the case of three-month and six-month licences, the fees shall be calculated pro rata temporis, plus 3 % and 2 % respectively to cover recurrent costs in drawing up the licences.
+
+4\. Licences shall be issued once the fixed amounts under the corresponding datasheets have been paid to the competent national authorities.
+
+5\. The final statement of the fees due for the current year shall be drawn up by the European Commission by 15 June of the following year at the latest on the basis of the catch declarations made by each shipowner and confirmed by the scientific institutes responsible for verifying catch data in the Member States, such as the Institut de Recherche pour le Développement (IRD), the Instituto Español de Oceanografía (IEO) and the Instituto Português de Investigaçao Maritima (IPIMAR) via the Delegation of the European Commission.
+
+6\. The statement shall be sent simultaneously to the Ministry and to the shipowners.
+
+7\. Any additional payments shall be made by the shipowners to the competent Guinea-Bissau national authorities by 31 July of the year in which the final statement of fees is drawn up at the latest, into the account referred to in point 7 of Section 1 of this Chapter.
+
+8\. However, if the amount of the final statement is lower than the advance fixed in point 3 of this Section, the resulting balance shall not be reimbursable to the shipowner.
+
+**SECTION 3**
+
+**Special provisions for trawlers**
+
+1\. In addition to the documents referred to in point 6 of Section 1 of this Chapter, all licence applications for vessels covered by this Section must be accompanied by:
+
+— a certified copy of the document drawn up by the Member State certifying the vessel’s tonnage in GRT, and,
+
+— a certificate of conformity issued by the Ministry following the technical inspection of the vessel in accordance with point 3,2 of Chapter VIII.
+
+2\. Should a licence application be made in respect of a vessel which has already had a licence under this Protocol and the technical characteristics of which remain unchanged, this application shall be presented to the Ministry via the Delegation of the European Commission in Bissau, accompanied only by the proof of payment of the fee for the periods in question and of the amount provided for in point 13 of Chapter VII. The Ministry shall authorise the new licence, entering details of the first licence application submitted under the Protocol in force.
+
+3\. The following twelve-month periods shall be used for determining the validity of the licences:
+
+— first period: from 16 June 2007 to 31 December 2007,
+
+— second period: from 1 January 2008 to 31 December 2008,
+
+— third period: from 1 January 2009 to 31 December 2009,
+
+— fourth period: from 1 January 2010 to 31 December 2010,
+
+— fifth period: from 1 January 2011 to 15 June 2011.
+
+4\. Licences may not start running during one annual period and expire during the next.
+
+5\. A quarter shall consist of one of the three-month periods beginning 1 January, 1 April, 1 July or 1 October, except for the first and last period of the Protocol which shall run from 16 June 2007 to 30 September 2007 and from 1 April 2011 to 15 June 2011 respectively.
+
+6\. Licences shall be valid for one year, six months or three months. They shall be renewable.
+
+7\. Licences must be kept on board at all times.
+
+8\. Fees shall be calculated for each vessel on the basis of the annual rates laid down in the datasheets attached to the Protocol. In the case of three-month and six-month licences, the fees shall be calculated pro rata temporis, plus 3 % and 2 % respectively to cover recurrent costs in drawing up the licences.
+
+**CHAPTER II**
+
+**Fishing zones**
+
+Community vessels as referred to in Article 1 of the Protocol shall be authorised to fish in waters beyond 12 nautical miles from the base lines.
+
+**CHAPTER III**
+
+**Catch reporting arrangements for vessels authorised to fish in guinea-bissau waters**
+
+1\. For the purposes of this Annex, the duration of a trip by a Community vessel shall be defined as follows:
+
+— the period elapsing between entering and leaving Guinea-Bissau’s fishing zone, or,
+
+— the period elapsing between entering the Guinea-Bissau fishing zone and a transhipment, or,
+
+— the period elapsing between entering the Guinea-Bissau fishing zone and a landing in Guinea-Bissau.
+
+All vessels authorised to fish in Guinea-Bissau waters under the Agreement shall be obliged to communicate their catches to the Ministry in the following manner:
+
+2.1. Declarations shall include the catches made by the vessel during each trip. They shall be sent to the Ministry by fax, mail or e-mail, with a copy sent to the European Commission, via the Delegation of the European Commission to Guinea-Bissau, at the end of each trip, and, in any case, before the vessel leaves Guinea-Bissau waters. If this notification is sent by e-mail, electronic receipts shall be sent at once to the vessel by both addressees, with a copy to each other. In the case of tuna vessels, these declarations shall be sent at the end of each marketing year.
+
+2.2. The original of the declarations sent by fax or by e-mail during an annual period of validity of the licence within the meaning of point 2 of Section 2 of Chapter I in the case of tuna vessels, and point 3 of Section 3 of Chapter I in the case of trawlers shall be sent on a physical medium to the Ministry within 45 days following the end of the last trip made during the period. Hard copies shall be sent to the Delegation of the European Commission to Guinea-Bissau.
+
+2.3. Tuna vessels and surface longliners shall declare their catches on the corresponding form in the logbook, in accordance with the specimen in Appendix 2. The words ‘Outside the Guinea-Bissau EEZ’ shall be entered in the logbook in respect of periods during which the vessel is not in Guinea-Bissau waters.
+
+2.4. Trawlers shall declare their catches on a form drawn up in accordance with the specimen in Appendix 3, stating the total catches by species and calendar month or part thereof.
+
+2.5. The forms shall be filled in legibly and signed by the master of the ship.
+
+3\. Where the provisions set out in this Chapter are not complied with, the Government of Guinea-Bissau reserves the right to suspend the licence of the offending vessel until the formalities have been completed and to apply the penalty laid down in current Guinea-Bissau legislation and, in the event of a recurrence, not to renew the licence. The European Commission shall be informed thereof.
+
+The two Parties shall seek agreement for the purposes of establishing a system of electronic exchange of this information.
+
+**CHAPTER IV**
+
+**By-catches**
+
+The level of by-catches for each of the fisheries covered by the Protocol shall be fixed in accordance with Guinea-Bissau legislation and specified in the datasheets for each category.
+
+**CHAPTER V**
+
+**Embarking seamen**
+
+Shipowners who have been issued fishing licences under the Agreement shall contribute to the practical vocational training of Guinea-Bissau nationals and to an improvement of the labour market, subject to the conditions and limits set out below.
+
+1\. Each trawler owner shall undertake to employ:
+
+— three fishermen on vessels of less than 250 GRT,
+
+— four fishermen on vessels of 250 to 400 GRT,
+
+— five fishermen on vessels of 400 to 650 GRT,
+
+— six fishermen on vessels of more than 650 GRT.
+
+2\. Shipowners shall endeavour to take on board additional Guinea-Bissau seamen.
+
+3\. Shipowners shall be free to select through their representatives the seamen they take on board their vessels.
+
+4\. The shipowner or agent shall inform the Ministry of the names of the Guinea-Bissau seamen signed on the vessel concerned, mentioning their position in the crew.
+
+5\. The International Labour Organisation (ILO) Declaration on Fundamental Principles and Rights at Work shall apply as of right to seamen signed on by EU vessels. This concerns in particular the freedom of association and the effective recognition of the right to collective bargaining, and the elimination of discrimination in respect of employment and occupation.
+
+6\. The employment contracts of Guinea-Bissau seamen, a copy of which shall be given to the signatories, shall be drawn up between the shipowners’ representative(s) and the seamen and/or their trade unions or representatives in consultation with the Ministry. These contracts shall guarantee the seamen the social security cover applicable to them, including life assurance and sickness and accident insurance.
+
+7\. The wages of the Guinea-Bissau seamen shall be paid by the shipowners. They shall be fixed, before licences are issued, by mutual agreement between the shipowners or their agents and the competent authorities of Guinea-Bissau. However, the wage conditions granted to Guinea-Bissau seamen shall not be lower than those applied to crews from Guinea-Bissau and shall under no circumstances be below ILO standards.
+
+8\. All seamen employed aboard Community vessels shall report to the master of the vessel designated on the day before their proposed embarkation date. Where a seaman fails to report at the date and time agreed for embarkation, shipowners shall be automatically absolved of their obligation to take the seaman on board.
+
+9\. Where no Guinea-Bissau seamen are taken on board for reasons other than that referred to in the previous point, shipowners shall be obliged to pay as soon as possible a flat-rate amount for the fishing year equivalent to the wages of the seamen not taken on board.
+
+10\. This sum shall be paid into a specific account designated in advance by the competent Guinea-Bissau authorities and shall help fund public vocational training structures in the fisheries sector.
+
+**CHAPTER VI**
+
+**Technical measures**
+
+1\. Vessels fishing for highly migratory species shall comply with the measures and recommendations adopted by the ICCAT regarding fishing gear and the technical specifications thereof and all other technical measures applicable to their fishing activities.
+
+2\. For trawlers, specific measures are set out in each of the corresponding datasheets.
+
+3\. Guinea-Bissau shall apply the closure of fisheries or of a fishery for biological recovery in non-discriminatory fashion to all vessels taking part in those fisheries, whether national, Community or flying the flag of a third country.
+
+4\. Based on an impact analysis, if it proves necessary, the two Parties shall agree within the Joint Committee on any corrective measures relating to biological recovery to be applied.
+
+5\. In the event that Guinea-Bissau is required to take emergency measures entailing the closure of a fishery outside the period(s) referred to in point 3 above, or to extend the duration of closure beyond the period provided for, the Joint Committee shall be convened to assess the impact of applying such measures to Community vessels.
+
+6\. Where application of points 4 and 5 above entails an increase in the period(s) of closure of fisheries, the two Parties shall hold consultations within the Joint Committee in order to adjust the financial contribution to take account of the reduced fishing opportunities for the Community resulting from such measures.
+
+**CHAPTER VII**
+
+**Observers on board trawlers**
+
+Vessels authorised to fish in Guinea-Bissau waters under the Agreement shall take on board observers appointed by Guinea-Bissau on the terms set out below.
+
+1.1. Each trawler shall take on board an observer appointed by the Ministry responsible for fisheries. In such cases, the port of embarkation shall be determined by common agreement between the Ministry responsible for fisheries and the shipowners or their representatives.
+
+1.2. The Ministry shall draw up a list of vessels designated to take an observer on board and a list of the appointed observers. These lists shall be kept up to date. They shall be forwarded to the European Commission as soon as they have been drawn up and every three months thereafter where they have been updated.
+
+1.3. The Ministry shall inform the shipowners concerned, or their representatives, of the name of the observer appointed to be taken on board their vessel at the time the licence is issued.
+
+2\. The time spent on board by observers shall be fixed by the Ministry, but, as a general rule, it shall not exceed the time required to carry out their duties. The Ministry shall inform the shipowners or their agents thereof when notifying them of the name of the observer appointed to be taken on board the vessel concerned.
+
+3\. The conditions under which observers are taken on board shall be agreed between shipowners or their representatives and the Guinea-Bissau authorities.
+
+4\. Observers shall be taken on board at the beginning of the first trip in the port of Guinea-Bissau and, if the licence is renewed, at a port chosen by the shipowner.
+
+5\. Within two weeks and giving ten days’ notice, the shipowners concerned shall make known at which ports and on what dates they intend to take observers on board.
+
+6\. Where observers are taken on board in a foreign country, their travel costs shall be borne by the shipowner. Should a vessel with a Guinea-Bissau observer on board leave the Guinea-Bissau fishing zone, all measures must be taken to ensure the observer’s return as soon as possible at the expense of the shipowner.
+
+7\. If the observer is not present at the time and place agreed or within the twelve hours following the time agreed, shipowners shall be automatically absolved of their obligation to take the observer on board.
+
+Observers shall be treated as officers. Where vessels are operating in Guinea-Bissau waters, they shall carry out the following tasks:
+
+8.1. observe the fishing activities of the vessels;
+
+8.2. verify the position of vessels engaged in fishing operations;
+
+8.3. perform biological sampling in the context of scientific programmes;
+
+8.4. note the fishing gear used;
+
+8.5. verify the catch data for Guinea-Bissau waters recorded in the logbook;
+
+8.6. verify the percentages of by-catches and estimate the discarded catches;
+
+8.7. report fishing data at least once a week by radio, including the quantity of catches and by-catches on board.
+
+9\. Masters shall do everything in their power to ensure the physical safety and welfare of observers during performance of their duties.
+
+10\. Observers shall be offered every facility needed to carry out their duties. The master shall give them access to the means of communication needed for the discharge of their duties, to documents directly concerned with the vessel’s fishing activities, including in particular the logbook and the navigation log, and to those parts of the vessel necessary to facilitate the exercise of their tasks as observer.
+
+While on board, observers shall:
+
+11.1. take all appropriate steps to ensure that the conditions of their boarding and presence on the vessel neither interrupt nor hamper fishing operations,
+
+11.2. respect the material and equipment on board and the confidentiality of all documents belonging to the vessel.
+
+11.3. draft an activity report to be transmitted to the competent Guinea-Bissau authorities. Those authorities shall send a copy of the report, after processing and within one week, to the Delegation of the European Commission in Bissau.
+
+12\. At the end of the observation period and before leaving the vessel, observers shall draw up an activity report to be transmitted to the competent Guinea-Bissau authorities, with a copy to the European Commission. They shall sign it in the presence of the master, who may add or cause to be added to it in an annex any observations considered relevant, followed by master’s signature. A copy of the report shall be handed to the master when the observer is put ashore.
+
+13\. Shipowners shall bear the cost of accommodating observers in the same conditions as the officers on the vessel, within the confines of the structure of the vessel.
+
+As a contribution to the costs arising from the presence of the observer on board, together with the licence fee the shipowner shall pay the Guinea-Bissau authorities the sum of EUR 12 per GRT per year pro rata temporis for each vessel fishing in Guinea-Bissau waters.
+
+14\. The salary and social contributions of the observer shall be borne by the Ministry.
+
+**CHAPTER VIII**
+
+**Observers on board tuna vessels**
+
+The two Parties shall consult each other, and interested countries, as soon as possible as regards the definition of a system of regional observers and the choice of the competent regional fisheries organisation.
+
+**CHAPTER IX**
+
+**Monitoring**
+
+1\. In accordance with point 1 of Section 2 of Chapter I, the European Community shall keep an up-to-date list of the vessels to which a fishing licence has been issued under this Protocol. This list shall be notified to the Guinea-Bissau authorities responsible for fisheries inspection as soon as it is drawn up and each time it is updated.
+
+2\. Vessels fishing for highly migratory species shall be included on the list referred to in the previous point upon receipt of notification of the advance payment referred to in point 3 of Section 2 of Chapter I. A certified copy of the list of tuna vessels shall then be sent to the shipowner to be kept on board instead of the fishing licence until the licence has been issued by the competent Guinea-Bissau authority.
+
+**3\. Technical inspection of trawlers**
+
+3.1. Once a year and after any alteration in tonnage or changes to the fishing category necessitating the use of a different type of gear, Community trawlers shall report to the port of Guinea-Bissau to undergo the inspections required by the legislation in force. Such inspections shall take place within 48 hours of the vessel’s arriving in port.
+
+3.2. Once the inspection has been completed satisfactorily, the master of the vessel shall be issued with a certificate having the same period of validity as the licence and which shall be automatically extended in the case of vessels renewing their licence within the year. However, the maximum validity may not exceed one year. This certificate must be kept on board at all times.
+
+3.3. The technical inspection shall verify that the vessel’s technical characteristics and gear conform to the provisions of the Agreement and that the provisions relating to its crew have been complied with.
+
+3.4. The cost of the inspection shall be borne by the shipowner at the rates laid down by Guinea-Bissau law. It may not be greater than the amount normally paid by other vessels for the same services.
+
+3.5. Failure by the shipowner to comply with points 3.1 and 3.2 above shall result in automatic suspension of the fishing licence until such obligations have been met.
+
+**4\. Entering and leaving the zone:**
+
+Community vessels fishing under the Agreement in Guinea-Bissau’s fishing zone shall report the date and time and their position to the radio station of the Ministry responsible for fisheries on entering and leaving Guinea-Bissau’s fishing zone.
+
+When licences are issued, the Ministry responsible for fisheries shall inform the shipowners of the call sign, frequency and working hours of the station.
+
+Where they cannot communicate information by radio, vessels may use alternative means, such as telex, telegram or fax (numbers 20.11.57, 20.19.57 and 20.69.50).
+
+4.1. Community vessels shall notify the Department at least 24 hours in advance of their intention to enter or leave the Guinea-Bissau fishing zones. For tuna vessels this deadline shall be reduced to 6 hours.
+
+4.2. When notifying leaving, vessels shall also communicate their position and the volume and species in catches on board. This information should preferably be communicated by fax or, for vessels not equipped with a fax, by radio or by e-mail.
+
+4.3. A vessel found to be fishing without having informed the Ministry shall be regarded as a vessel without a licence.
+
+4.4. Vessels shall also be informed of the fax and telephone numbers and e-mail address when the fishing licence is issued.
+
+**5\. Control procedures**
+
+5.1. Masters of Community fishing vessels engaged in fishing activities in Guinea-Bissau waters shall allow and facilitate boarding and the discharge of their duties by any Guinea-Bissau official responsible for the inspection and control of fishing activities.
+
+5.2. These officials shall not remain on board for longer than is necessary for the discharge of their duties.
+
+5.3. Once the inspection has been completed, a certificate shall be issued to the master of the vessel.
+
+**6\. Boarding**
+
+6.1. The Ministry shall inform the European Commission via its Delegation to Guinea-Bissau, within no more than 48 hours, of all boardings of and penalties imposed on Community vessels in Guinea-Bissau waters.
+
+6.2. The European Commission shall at the same time receive a brief report of the circumstances and reasons leading to the boarding.
+
+**7\. Statement of boarding**
+
+7.1. After the competent coastal State authority has drawn up a statement, the master of the vessel shall sign it.
+
+7.2. This signature shall not prejudice the rights of the master or any defence which he or she may make to the alleged infringement.
+
+7.3. In accordance with the applicable law, the master may be required to take the vessel to the port indicated by the competent authorities.
+
+**8\. Information meeting in the event of boarding**
+
+8.1. Before any measures regarding the master or the crew of the vessel or any action regarding the cargo and equipment of the vessel are considered, other than those to safeguard evidence relating to the presumed infringement, an information meeting shall be held at the request of the Community, within one working day of the receipt of the above information, between the European Commission and the Ministry, possibly attended by a representative of the Member State concerned.
+
+8.2. At the meeting, the Parties shall exchange any relevant documentation or information helping to clarify the circumstances of the established facts. The shipowner or his or her representative shall be informed of the outcome of the meeting and of any measures resulting from the boarding.
+
+**9\. Settlement of boarding**
+
+9.1. Before any judicial procedure, an attempt shall be made to resolve the presumed infringement through a compromise procedure. This procedure shall end no later than four working days after the boarding.
+
+9.2. In the event of an amicable settlement, the amount of the fine shall be determined in accordance with Guinea-Bissau legislation.
+
+9.3. If the case cannot be settled by amicable procedure and has to be brought before a competent judicial body, a bank security set to take account of the boarding costs and the fines and compensation payable by the Parties responsible for the infringement shall be lodged by the shipowner with a bank specified by the Ministry.
+
+9.4. The bank security shall be irrevocable until the legal proceedings have been concluded. It shall be released once legal proceedings end without a conviction. Similarly, in the event of a conviction leading to a fine of less than the security lodged, the balance shall be released by the Ministry.
+
+9.5. The vessel shall be released and its crew authorised to leave the port:
+
+— once the obligations arising under the amicable settlement have been fulfilled, or,
+
+— when the bank security referred to in point 9.3 has been lodged and accepted by the Ministry, pending completion of the legal proceedings.,
+
+**10\. Compliance with the rules**
+
+All information on infringements committed by Community vessels shall be communicated to the Commission on a regular basis, via the Delegation.
+
+**11\. Transhipment**
+
+11.1. All Community vessels wishing to tranship catches in Guinea-Bissau waters shall do so within Guinea-Bissau ports.
+
+11.2. The owners of such vessels must notify the following information to the Ministry at least 24 hours in advance:
+
+— the names of the transhipping fishing vessels,
+
+— the names of the cargo vessels,
+
+— the tonnage by species to be transhipped,
+
+— the day of transhipment.
+
+11.3. Transhipment shall be considered as an exit from the Guinea-Bissau fishing zone. Vessels must therefore submit their catch declarations to the competent authorities and state whether they intend to continue fishing or leave the Guinea-Bissau fishing zone.
+
+11.4. Any transhipment of catches not covered above shall be prohibited in Guinea-Bissau’s fishing zone. Any person infringing this provision shall be liable to the penalties provided for by Guinea-Bissau law.
+
+12\. Masters of Community fishing vessels engaged in landing or transhipment operations in a Guinea-Bissau port shall allow and facilitate the inspection of such operations by Guinea-Bissau inspectors. Once the inspection has been completed in the port, a certificate shall be issued to the master of the vessel.
+
+**CHAPTER X**
+
+**Satellite monitoring of fishing vessels**
+
+The two Parties shall agree within the Joint Committee on the arrangements for satellite-monitoring of Community fishing vessels fishing under this Agreement where the technical conditions are met.
+
+**Appendices**
+
+1\. Application form for a fishing licence
+
+2\. Statistics on catch and fishing effort
+
+3\. Tuna vessels fishing logbook
+
+## APPENDIX 1
+
+[image]
+
+Text of image
+
+APPLICATION FORM
+
+FOR A FISHING LICENCE
+
+For official use only
+
+Remarks
+
+Nationality:
+
+Licence No:
+
+Date of signing:
+
+Date of issue:
+
+APPLICANT
+
+Company name:
+
+Trade register No:
+
+First name and surname of applicant:
+
+Date and place of birth:
+
+Occupation:
+
+Address:
+
+Number of employees:
+
+Name and address of agent:
+
+VESSEL
+
+Type of vessel:
+
+Registration No:
+
+New name:
+
+Former name:
+
+Date and place of construction:
+
+Original nationality:
+
+Length:
+
+Beam:
+
+Depth:
+
+Gross tonnage:
+
+Net tonnage:
+
+Type of building material:
+
+Make of main engine:
+
+Type:
+
+Engine power:
+
+Propeller:
+
+Fixed:
+
+Variable:
+
+Ducted:
+
+Speed:
+
+Call sign:
+
+Frequency:
+
+List of sounding, navigation and transmission instruments:
+
+Radar:
+
+Sonar:
+
+Net sounder:
+
+VHF:
+
+BLU:
+
+Satellite navigation:
+
+Other
+
+Number of crew:
+
+[image]
+
+Text of image
+
+CONSERVATION
+
+Ice:
+
+Ice and refrigeration:
+
+Freezing: in brine:
+
+dry:
+
+in refrigerated sea water:
+
+Total refrigeration power:
+
+Freezing capacity in tonnes/24 hours:
+
+Hold capacity:
+
+TYPE OF FISHING
+
+A.
+
+Demersal
+
+Inshore demersal:
+
+Deep-sea demersal:
+
+Type of trawl:
+
+cephalopod:
+
+shrimp:
+
+fin-fish:
+
+Length of trawl:
+
+Length of headline:
+
+Mesh size in codend:
+
+Size of mesh in the wings:
+
+Trawling speed:
+
+B.
+
+Deep-sea pelagic (tuna)
+
+Pole and line:
+
+No of poles and lines:
+
+Seine:
+
+Length of net:
+
+Depth of net:
+
+Number of tanks:
+
+Capacity (tonnes):
+
+C.
+
+Longlines and pots
+
+Surface:
+
+Bottom:
+
+Length of line:
+
+Number of hooks:
+
+Number of lines:
+
+Number of pots:
+
+SHORE INSTALLATIONS
+
+Address and permit number:
+
+Company name:
+
+Activities:
+
+Domestic wholesale fish trade:
+
+export:
+
+Type and No of wholesale trader’s card:
+
+Description of processing and conservation plant:
+
+Number of employees:
+
+NB: Indicate affirmative answers by a tick in the appropriate box.
+
+[image]
+
+Text of image
+
+Technical remarks
+
+Authorisation of the State Ministry
+
+## APPENDIX 2
+
+[image]
+
+Text of image
+
+FISHERIES MINISTRY
+
+STATISTICS ON CATCH AND EFFORT
+
+Month:
+
+Year:
+
+Name of vessel:
+
+Engine power:
+
+Fishing method:
+
+Nationality:
+
+Gross tonnage (t):
+
+Port of landing:
+
+Date
+
+Fishing zone
+
+Species of fish
+
+Longitude
+
+Latitude
+
+Number of hauls
+
+Number of hours fishing
+
+Totals
+
+1/
+
+2/
+
+3/
+
+4/
+
+5/
+
+6/
+
+7/
+
+8/
+
+9/
+
+10/
+
+11/
+
+12/
+
+13/
+
+14/
+
+15/
+
+16/
+
+17/
+
+[image]
+
+Text of image
+
+Date
+
+Fishing zone
+
+Species of fish
+
+Longitude
+
+Latitude
+
+Number of hauls
+
+Number of hours fishing
+
+Totals
+
+18/
+
+19/
+
+20/
+
+21/
+
+22/
+
+23/
+
+24/
+
+25/
+
+26/
+
+27/
+
+28/
+
+29/
+
+30/
+
+TOTAL
+
+## APPENDIX 3
+
+[image]
+
+Text of image
+
+TUNA VESSELS FISHING LOGBOOK
+
+Name of vessel:
+
+Gross tonnage:
+
+Month
+
+Day
+
+Year
+
+Port
+
+Fishing method
+
+Flag country:
+
+Capacity (TM):
+
+Registration No:
+
+Master:
+
+Vessel departed:
+
+Shipowner:
+
+No of crew:
+
+Address:
+
+Reporting date:
+
+Vessel returned
+
+Longline
+
+Purse seine
+
+Trawl
+
+Other
+
+Reported by:
+
+No of days at sea:
+
+No of fishing days:
+
+No of sets made:
+
+Trip number
+
+Date
+
+Sector
+
+Surface water temp (°C)
+
+Fishing effort
+
+No of hooks used
+
+Catches
+
+Bait used
+
+Day/Month
+
+Set No
+
+Latitude N/S
+
+Longitude E/WO
+
+Bluefin tuna
+
+Yellowfin tuna
+
+Bigeye tuna
+
+Albacore
+
+Swordfish
+
+Strip marlin
+
+Black marlin
+
+Sailfish
+
+Skipjack
+
+Thunnus maccoyi
+
+Thunnus albacares
+
+Thunnus obesus
+
+Thunnus alalunga
+
+Xiphias gladius
+
+Tetrapturus audax
+
+Makaira indica
+
+Istiophorus spp.
+
+Katsuwonus pelamis
+
+Miscellneous fish
+
+Daily total
+
+Saury
+
+Squid
+
+Live bait
+
+Other:
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+No
+
+kg
+
+Landing weight (in kg)
+
+## ANNEX II
+
+**DATA SHEET No 1 — FISHING CATEGORY 1:**
+
+**FREEZER, FIN-FISH AND CEPHALOPOD TRAWLERS**
+
+**1\. Fishing zone**
+
+Beyond 12 nautical miles from the base line, including the Guinea-Bissau/Senegal joint management area, extending north to the azimuth 268°.
+
+**2\. Authorised gear**
+
+Standard otter trawls and other selective gear are authorised.
+
+Outriggers are authorised.
+
+In the case of all fishing gear, no methods or devices may be used to seek to obstruct the mesh of the nets or reduce their selective effect. However, in the interests of reducing wear or damage, protective aprons of netting or other material may be attached, but only to the underside of the codend of a bottom trawl. Such aprons must be attached only to the forward and lateral edges of the codend of the trawl. Protective devices may be used for the top of the trawl, but these must consist of a single section of net of the same material as the codend, with the mesh measuring at least 300 millimetres when stretched out.
+
+Doubling of the codend’s netting yarn, whether single or multiple, shall be prohibited.
+
+**3\. Minimum authorised mesh size**
+
+70 mm
+
+**4\. Biological recovery**
+
+In accordance with Guinea-Bissau law.
+
+In the absence of provisions in Guinea-Bissau law, the two Parties shall agree within the Joint Committee and on the basis of the best available scientific advice approved by the joint scientific meeting, on the most appropriate biological recovery period.
+
+**5\. By-catches**
+
+In accordance with Guinea-Bissau law:
+
+Fin-fish trawlers may not hold on board crustaceans or cephalopods accounting, in each case, for more than 9 % of their total catch in Guinea-Bissau’s fishing zone at the end of a trip as defined in Chapter III of the Annex to this Protocol.
+
+Cephalopod trawlers may not hold on board crustaceans accounting for more than 9 % of their total catch in Guinea-Bissau’s fishing zone at the end of a trip as defined in Chapter III of the Annex to this Protocol.
+
+Where these percentages exceed the authorised by-catches, penalties shall be imposed in accordance with Guinea-Bissau law.
+
+The two Parties shall consult within the Joint Committee to adjust the authorised rate if necessary.
+
+**6\. Authorised tonnage/Fees**
+
+| Authorised tonnage (GRT) per year | 4 400 |
+| --- | --- |
+| Fees in EUR per GRT per year | EUR 229 per GRT per year In the case of three-month and six-month licences, the fees shall be calculated pro rata temporis, plus 3 % and 2 % respectively to cover recurrent costs in drawing up the licences. |
+
+**7\. Comments**
+
+The conditions governing fishing activity by Community vessels shall be as laid down in the Annex to the Protocol.
+
+**DATASHEET No 2 — FISHING CATEGORY 2:**
+
+**SHRIMP TRAWLERS**
+
+**1\. Fishing zone**
+
+Beyond 12 nautical miles from the base line, including the Guinea-Bissau/Senegal joint management area, extending north to the azimuth 268°.
+
+**2\. Authorised gear**
+
+Standard otter trawls and other selective gear are authorised.
+
+Outriggers are authorised.
+
+In the case of all fishing gear, no methods or devices may be used to seek to obstruct the mesh of the nets or reduce their selective effect. However, in the interests of reducing wear or damage, protective aprons of netting or other material may be attached, but only to the underside of the codend of a bottom trawl. Such aprons must be attached only to the forward and lateral edges of the codend of the trawl. Protective devices may be used for the top of the trawl, but these must consist of a single section of net of the same material as the codend, with the mesh measuring at least 300 millimetres when stretched out.
+
+Doubling of the codend’s netting yarn, whether single or multiple, shall be prohibited.
+
+**3\. Minimum authorised mesh size**
+
+40 mm
+
+Guinea-Bissau undertakes to amend its legislation within 12 months of the entry into force of this Protocol in order to apply a 50 mm mesh size in accordance with existing law in the subregion, which will apply to all fleets fishing for crustaceans in the Guinea-Bissau fishing zone.
+
+**4\. Biological recovery**
+
+In accordance with Guinea-Bissau law.
+
+In the absence of provisions in Guinea-Bissau law, the two Parties shall agree within the Joint Committee and on the basis of the best available scientific advice approved by the joint scientific meeting, on the most appropriate biological recovery period.
+
+**5\. By-catches**
+
+In accordance with Guinea-Bissau law:
+
+Shrimp trawlers may not hold on board cephalopods or fin-fish accounting, in each case, for more than 50 % of their total catch in Guinea-Bissau’s fishing zone at the end of a trip as defined in Chapter III of the Annex to this Protocol.
+
+Where these percentages exceed the authorised by-catches, penalties shall be imposed in accordance with Guinea-Bissau law.
+
+**6\. Authorised tonnage/Fees**
+
+| Authorised tonnage (GRT) per year | 4 400 |
+| --- | --- |
+| Fees in EUR per GRT per year | EUR 307 per GRT per year In the case of three-month and six-month licences, the fees shall be calculated pro rata temporis, plus 3 % and 2 % respectively to cover recurrent costs in drawing up the licences. |
+
+**7\. Comments**
+
+The conditions governing fishing activity by Community vessels shall be as laid down in the Annex to the Protocol.
+
+**DATASHEET No 3 — FISHING CATEGORY 3:**
+
+**POLE-AND-LINE TUNA VESSELS**
+
+**1\. Fishing zone**
+
+Beyond 12 nautical miles from the base line, including the Guinea-Bissau/Senegal joint management area, extending north to the azimuth 268°.
+
+Pole-and-line tuna vessels shall be authorised to fish for live bait with a view to carrying out their fishing activities in Guinea-Bissau’s fishing zone.
+
+**2\. Authorised gear and technical measures**
+
+Poles and lines.
+
+Purse seines with live bait: 16 mm
+
+Vessels fishing for highly migratory species shall comply with the measures and recommendations adopted by the International Commission for the Conservation of Atlantic Tunas (ICCAT) regarding fishing gear and the technical specifications thereof and all other technical measures applicable to their fishing activities.
+
+**3\. By-catches**
+
+In accordance with the relevant ICCAT and FAO recommendations, fishing for basking shark (Cetorhinus maximus), white shark (Carcharodon carcharias), sand tiger shark (Carcharias taurus) and tope shark (Galeorhinus galeus) is prohibited.
+
+**4\. Authorised tonnage/Fees**
+
+| Fee per tonne caught | EUR 25 per tonne |
+| --- | --- |
+| Annual financial contribution | EUR 500 per 20 tonnes |
+| Number of vessels authorised to fish | 14 |
+
+**5\. Comments**
+
+The conditions governing fishing activity by Community vessels shall be as laid down in the Annex to the Protocol.
+
+**DATA SHEET No 4 — FISHING CATEGORY 4:**
+
+**FREEZER TUNA SEINERS AND LONGLINERS**
+
+**1\. Fishing zone**
+
+Beyond 12 nautical miles from the base line, including the Guinea-Bissau/Senegal joint management area, extending north to the azimuth 268°.
+
+**2\. Authorised gear and technical measures**
+
+Seine and surface longline.
+
+Vessels fishing for highly migratory species shall comply with the measures and recommendations adopted by the International Commission for the Conservation of Atlantic Tunas (ICCAT) regarding fishing gear and the technical specifications thereof and all other technical measures applicable to their fishing activities.
+
+**3\. Minimum authorised mesh size**
+
+Recommended ICCAT standards.
+
+**4\. By-catches**
+
+In accordance with the relevant ICCAT and FAO recommendations, fishing for basking shark (Cetorhinus maximus), white shark (Carcharodon carcharias), sand tiger shark (Carcharias taurus) and tope shark (Galeorhinus galeus) is prohibited.
+
+**5\. Authorised tonnage/Fees**
+
+| Fee per tonne caught | EUR 35 per tonne |
+| --- | --- |
+| Annual financial contribution | EUR 3 150 per 90 tonnes |
+| Number of vessels authorised to fish | 23 |
+
+**6\. Comments**
+
+The conditions governing fishing activity by Community vessels shall be as laid down in the Annex to the Protocol.
+
+## ANNEX III — 2007 management plan — crustaceans and demersal species
+
+| Species | GRT 2006 | GRT 2007 | Difference in GRT | Difference in GRT % |
+| --- | --- | --- | --- | --- |
+| Crustaceans | 11 000 | 8 000 | –3 000 | –27 % |
+| Cephalopods | 8 000 | 5 600 | –2 400 | –30 % |
+| Demersal fish | 12 000 | 18 000 | 6 000 | 50 % |
+| Pelagic fish | 20 000 | 23 000 | 3 000 | 15 % |
+| Tuna | 49 000 | 49 000 | 0 | 0 % |
+| TOTAL | 100 000 | 103 600 | 3 600 | 0 |
+
+During the period of validity of this Agreement, unless scientific advice is favourable, Guinea-Bissau shall reduce fishing effort in the shrimp and cephalopod categories, while maintaining in 2007 the existing agreement with third countries and the European Community.
+
+However, if the fishing opportunities granted to third countries remain unused on 1 January 2007, these opportunities shall not be mobilised in 2008 and subsequent years.
+
+In these categories, no fishing opportunities shall be granted for chartering.
+
+All agreements with European companies or associations/enterprises shall be definitively revoked and formally terminated within thirty days of the entry into force of this Protocol.
+
+## ANNEX IV — Outline of the objectives and performance indicators to be complied with under Articles 3, 8 and 9 of the Protocol
+
+<table>
+<tbody><tr><td>Strategic priorities and objectives</td><td>Indicators</td></tr>
+<tr><td><table><tbody><tr><td>1.</td><td>Improvement of health and hygiene conditions to develop the fisheries sector</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td><table><tbody><tr><td>1.1.</td><td>Preparations to obtain export approval</td></tr>
+</tbody>
+</table>
+</td><td>Rules on minimum health and hygiene standards applicable to industrial vessels, canoes and fishing enterprises products drawn up/adopted by Parliament and implemented Competent authority in place  Centro de Investigação Pesqueira Apliquada (CIPA) brought up to standards (ISO 9000)  Laboratory provided to carry out microbiological and chemical analyses  Shrimp monitoring and analysis plan (PNVAR 2008) adopted and incorporated into law  Number of health inspectors trained  Number of health workers and fisheries ministry staff trained in hygiene standards  Approval for export to EU obtained </td></tr>
+<tr><td><table><tbody><tr><td>1.2.</td><td>Modernisation and upgrading health and hygiene of the industrial fleet and the small-scale fleet</td></tr>
+</tbody>
+</table>
+</td><td>Number of industrial vessels brought up to standards Number of wooden canoes replaced with canoes made of more suitable materials (in absolute terms and as a percentage)  Number of canoes equipped with iceboxes  Increased number of unloading points  Small-scale fishing vessels and coastal fishing vessels brought into compliance with health standards (number in absolute terms and as a percentage) </td></tr>
+<tr><td><table><tbody><tr><td>1.3.</td><td>Developing infrastructure, in particular port infrastructure</td></tr>
+</tbody>
+</table>
+</td><td>Refurbishment of Port of Bissau and extension of fishing port Port of Bissau fish market for unloading catches from small-scale and industrial fishing developed and restored to standards  Port of Bissau brought up to international standards (ratification of SOLAS Convention)  Wrecks removed from port </td></tr>
+<tr><td><table><tbody><tr><td>1.4.</td><td>Promoting fishery products (health and plant-health conditions of the products landed and processed)</td></tr>
+</tbody>
+</table>
+</td><td>Inspection system for fishery products adapted and operational Actors made aware of health and hygiene rules (number of training courses organised and number of people trained)  Analytical laboratory operational  Number of sites developed for unloading and processing products from small-scale fishing  Promoting technical and commercial partnerships with private operators overseas  Eco-labelling system launched for Guinea-Bissau products </td></tr>
+<tr><td><table><tbody><tr><td>2.</td><td>Improving monitoring, control and surveillance of the fishing zone</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td><table><tbody><tr><td>2.1.</td><td>Improved legal framework</td></tr>
+</tbody>
+</table>
+</td><td>Agreement adopted between the ministry of fisheries and of defence on surveillance and control National monitoring, control and surveillance plan adopted and implemented </td></tr>
+<tr><td><table><tbody><tr><td>2.2.</td><td>Strengthening monitoring, control and surveillance</td></tr>
+</tbody>
+</table>
+</td><td>Body of sworn independent inspectors operational (number of people recruited and trained) and corresponding budgetary allocation entered in the finance act Number of days of surveillance at sea: 250 days/year at the end of the period covered by the Protocol  Number of inspections in port and at sea  Number of aerial inspections  Number of statistical bulletins published  Radar coverage rate  Rate of VMS coverage of the fleet as a whole  Training programme adapted to surveillance techniques implemented (number of hours of training, number of technicians trained, etc.) </td></tr>
+<tr><td><table><tbody><tr><td>2.3.</td><td>Monitoring boarding of vessels</td></tr>
+</tbody>
+</table>
+</td><td>Improving the transparency of the system of boarding, penalties and payments of fines Rules on payment of fines improved and ban introduced on payment of fines other than financial  Improvement of system for collection of fines  Publication of annual statistics on fines collected  Setting up a blacklist of vessels penalised  Drawing up of and annual publication of statistics on fines  FISCAP annual report published </td></tr>
+<tr><td><table><tbody><tr><td>3.</td><td>Improving fisheries management</td></tr>
+</tbody>
+</table>
+</td><td></td></tr>
+<tr><td><table><tbody><tr><td>3.1.</td><td>Managing shrimp and cephalopod fishing effort</td></tr>
+</tbody>
+</table>
+</td><td>Maintaining in 2007 existing agreements with third countries and the European Community. However, if the fishing opportunities granted to third countries remain unused on 1 January 2007, these opportunities shall not be mobilised in 2008 and subsequent years No fishing opportunities shall be granted to chartering  Definitive withdrawal from and formal termination of any agreement with European companies or associations/enterprises within thirty days of the entry into force of this Protocol </td></tr>
+<tr><td><table><tbody><tr><td>3.2.</td><td>Modernisation and stepping up of fisheries research</td></tr>
+</tbody>
+</table>
+</td><td>Strengthen CIPA research capacities</td></tr>
+<tr><td><table><tbody><tr><td>3.3.</td><td>Improving information on fishery resources</td></tr>
+</tbody>
+</table>
+</td><td>Annual trawling carried out Number of stocks evaluated  Number of research programmes  Number of recommendations issued and followed on the state of the main fisheries resources (in particular freezes on fishing and conservation measures for overfished stocks)  Evaluation of annual fishing effort for species which are the subject of a development plan  Instrument to manage operational fishing effort (setting up a database, statistical monitoring instruments, networking the services responsible for fleet management, publication of statistical bulletins, etc.) </td></tr>
+<tr><td><table><tbody><tr><td>3.4.</td><td>Controlled development of fisheries</td></tr>
+</tbody>
+</table>
+</td><td>Adoption of annual management plan for industrial fishing before the start of the year concerned Adoption and implementation of development plan for over-exploited resources  Vessel register kept in EEZ, including small-scale fishing  Number of development plans drawn up, implemented and evaluated </td></tr>
+<tr><td><table><tbody><tr><td>3.5.</td><td>Improving the effectiveness of the technical services of the Ministry of Fisheries and the Marine Economy and the services involved in managing the sector</td></tr>
+</tbody>
+</table>
+</td><td>Administrative capacities strengthened Training and retraining programme drawn up and applied (number of agents trained, number of hours of training, etc.)  Mechanisms for coordination, consultation and cooperation with partners strengthened  System of data collection and statistical monitoring of fisheries strengthened </td></tr>
+<tr><td><table><tbody><tr><td>3.6.</td><td>Developing the system for managing licences and monitoring vessels</td></tr>
+</tbody>
+</table>
+</td><td>Number of hours of training for technicians Number of technicians trained  Networking of services and statistics </td></tr>
+</tbody>
+</table>
