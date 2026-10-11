@@ -1510,6 +1510,7 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 |  | 5. | Methods of protecting such fuel elements against corrosion or erosion by external agents. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Methods of producing, refining, processing and preserving other special materials used in the field of nuclear energy, in particular:<table><tbody><tr><td>(a)</td><td>moderators, such as heavy water, nuclear grade graphite, beryllium and beryllium oxide;</td></tr>
 </tbody>
 </table>
@@ -1521,7 +1522,9 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>Methods of isotope separation:<table><tbody><tr><td>(a)</td><td>of uranium;</td></tr>
 </tbody>
 </table>
@@ -1533,9 +1536,11 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **II. Physics applied to nuclear energy**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Applied theoretical physics:<table><tbody><tr><td>(a)</td><td>low energy nuclear reactions, in particular neutron induced reactions;</td></tr>
 </tbody>
 </table>
@@ -1553,7 +1558,9 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Applied experimental physics:<table><tbody><tr><td>(a)</td><td>the same subjects as those specified in 1 above;</td></tr>
 </tbody>
 </table>
@@ -1562,7 +1569,9 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>Reactor calculations:<table><tbody><tr><td>(a)</td><td>theoretical macroscopic neutron physics;</td></tr>
 </tbody>
 </table>
@@ -1583,9 +1592,11 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **III. Physical chemistry of reactors**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Study of changes in the physical and chemical structure and of alterations in the technical properties of various materials in reactors brought about by:<table><tbody><tr><td>(a)</td><td>heat;</td></tr>
 </tbody>
 </table>
@@ -1597,7 +1608,9 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Study of degradation and other phenomena produced by irradiation in:<table><tbody><tr><td>(a)</td><td>fuel elements;</td></tr>
 </tbody>
 </table>
@@ -1609,6 +1622,7 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | Application of analytical chemistry and analytical physical chemistry to reactor components. |
 | --- | --- | --- |
@@ -1627,6 +1641,7 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 |  | 3. | Methods of extracting and chemistry of other transuranic elements. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>Methods of extracting and chemistry of useful radioisotopes:<table><tbody><tr><td>(a)</td><td>fission products;</td></tr>
 </tbody>
 </table>
@@ -1635,6 +1650,7 @@ Done at Rome this twenty fifth day of March in the year one thousand nine hundre
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5. | Concentration and storage of useless radioactive waste. |
 | --- | --- | --- |
@@ -1745,6 +1761,7 @@ Studies relating to the construction and improvement of equipment specially inte
 
 **ADVANTAGES WHICH MAY BE CONFERRED ON JOINT UNDERTAKINGS UNDER ARTICLE 48 OF THIS TREATY**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td><table><tbody><tr><td>(a)</td><td>Recognition that public interest status in conformity with the national laws applies to the acquisition of immovable property required for the establishment of Joint Undertakings.</td></tr>
 </tbody>
 </table>
@@ -1753,6 +1770,7 @@ Studies relating to the construction and improvement of equipment specially inte
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 2. | The right to be granted licences, either through arbitration or under compulsory powers as provided in Articles 17 to 23. |
 | --- | --- | --- |
@@ -1766,6 +1784,7 @@ Studies relating to the construction and improvement of equipment specially inte
 |  | 5. | Exemption from all direct taxes to which Joint Undertakings, their property, assets and revenue might otherwise be liable. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Exemption from all customs duties and charges having equivalent effect and from all prohibitions and restrictions on imports or exports, whether of an economic or of a fiscal nature, with regard to:<table><tbody><tr><td>(a)</td><td>scientific and technical equipment, excluding building materials and equipment for administrative purposes;</td></tr>
 </tbody>
 </table>
@@ -1774,6 +1793,7 @@ Studies relating to the construction and improvement of equipment specially inte
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 7. | Exchange arrangements provided for in Article 182(6). |
 | --- | --- | --- |

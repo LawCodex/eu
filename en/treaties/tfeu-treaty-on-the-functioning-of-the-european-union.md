@@ -7852,6 +7852,7 @@ The United Kingdom fully supports robust action with regard to adopting financia
 
 **Treaty on the Functioning of the European Union**
 
+<table>
 <tbody><tr><td>Old numbering of the Treaty establishing the European Community</td><td>New numbering of the Treaty on the Functioning of the European Union</td></tr>
 <tr><td>PART ONE – PRINCIPLES</td><td>PART ONE – PRINCIPLES</td></tr>
 <tr><td>Article 1 (repealed)</td><td></td></tr>
@@ -8411,6 +8412,7 @@ The United Kingdom fully supports robust action with regard to adopting financia
 <tr><td>Article 314 (repealed) (44)</td><td></td></tr>
 <tr><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 (*1) Tables of equivalences as referred to in Article 5 of the Treaty of Lisbon. The original centre column, which set out the intermediate numbering as used in that Treaty, has been omitted.
 

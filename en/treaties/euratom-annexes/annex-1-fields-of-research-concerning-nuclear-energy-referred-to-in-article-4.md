@@ -33,6 +33,7 @@ retrieved: 2026-10-11
 |  | 5. | Methods of protecting such fuel elements against corrosion or erosion by external agents. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Methods of producing, refining, processing and preserving other special materials used in the field of nuclear energy, in particular:<table><tbody><tr><td>(a)</td><td>moderators, such as heavy water, nuclear grade graphite, beryllium and beryllium oxide;</td></tr>
 </tbody>
 </table>
@@ -44,7 +45,9 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>Methods of isotope separation:<table><tbody><tr><td>(a)</td><td>of uranium;</td></tr>
 </tbody>
 </table>
@@ -56,9 +59,11 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **II. Physics applied to nuclear energy**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Applied theoretical physics:<table><tbody><tr><td>(a)</td><td>low energy nuclear reactions, in particular neutron induced reactions;</td></tr>
 </tbody>
 </table>
@@ -76,7 +81,9 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Applied experimental physics:<table><tbody><tr><td>(a)</td><td>the same subjects as those specified in 1 above;</td></tr>
 </tbody>
 </table>
@@ -85,7 +92,9 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>Reactor calculations:<table><tbody><tr><td>(a)</td><td>theoretical macroscopic neutron physics;</td></tr>
 </tbody>
 </table>
@@ -106,9 +115,11 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **III. Physical chemistry of reactors**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Study of changes in the physical and chemical structure and of alterations in the technical properties of various materials in reactors brought about by:<table><tbody><tr><td>(a)</td><td>heat;</td></tr>
 </tbody>
 </table>
@@ -120,7 +131,9 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>Study of degradation and other phenomena produced by irradiation in:<table><tbody><tr><td>(a)</td><td>fuel elements;</td></tr>
 </tbody>
 </table>
@@ -132,6 +145,7 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | Application of analytical chemistry and analytical physical chemistry to reactor components. |
 | --- | --- | --- |
@@ -150,6 +164,7 @@ retrieved: 2026-10-11
 |  | 3. | Methods of extracting and chemistry of other transuranic elements. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>Methods of extracting and chemistry of useful radioisotopes:<table><tbody><tr><td>(a)</td><td>fission products;</td></tr>
 </tbody>
 </table>
@@ -158,6 +173,7 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5. | Concentration and storage of useless radioactive waste. |
 | --- | --- | --- |

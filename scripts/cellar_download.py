@@ -106,6 +106,20 @@ def main(workers=4):
             m = json.loads((CACHE / (fname(v[0]) + ".json")).read_text())
             if m.get("status") != "ok":
                 fetch_one(a["celex"])
+    # third pass: "repeal stubs" -- consolidated versions that only point to the final
+    # consolidated version before repeal (act still partly in force): fetch that version
+    import re
+    for mp in sorted(CACHE.glob("0*.json")):
+        m = json.loads(mp.read_text())
+        hp = mp.with_suffix(".html")
+        if m.get("status") != "ok" or "redirect" in m or not hp.exists() or hp.stat().st_size > 50000:
+            continue
+        h = hp.read_text(errors="replace")
+        r = re.search(r"consolidated version before repeal is available at:.*?CELEX:(0\d{4}[A-Z]\d{4}-\d{8})", h, re.S)
+        if r:
+            m["redirect"] = r.group(1)
+            fetch_one(r.group(1))
+            mp.write_text(json.dumps(m))
     print("done", flush=True)
 
 

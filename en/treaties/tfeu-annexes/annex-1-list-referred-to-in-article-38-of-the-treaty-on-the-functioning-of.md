@@ -16,6 +16,7 @@ retrieved: 2026-10-11
 
 **LIST REFERRED TO IN ARTICLE 38 OF THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION**
 
+<table>
 <tbody><tr><td>(1)</td><td>(2)</td></tr>
 <tr><td>No in the Brussels nomenclature</td><td>Description of products</td></tr>
 <tr><td>Chapter 1</td><td>Live animals</td></tr>
@@ -69,5 +70,6 @@ retrieved: 2026-10-11
 <tr><td colspan="2">Chapter 57</td></tr>
 <tr><td>57.01</td><td>True hemp (Cannabis sativa), raw or processed but not spun; tow and waste of true hemp (including pulled or garnetted rags or ropes)</td></tr>
 </tbody>
+</table>
 
 (*) Entry added by Article 1 of Regulation No 7a of the Council of the European Economic Community of 18 December 1959 (OJ No 7, 30.1.1961, p. 71/61).

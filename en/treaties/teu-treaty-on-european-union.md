@@ -4514,6 +4514,7 @@ The United Kingdom fully supports robust action with regard to adopting financia
 
 **Treaty on European Union**
 
+<table>
 <tbody><tr><td>Old numbering of the Treaty on European Union</td><td>New numbering of the Treaty on European Union</td></tr>
 <tr><td>TITLE I – COMMON PROVISIONS</td><td>TITLE I – COMMON PROVISIONS</td></tr>
 <tr><td>Article 1</td><td>Article 1</td></tr>
@@ -4625,6 +4626,7 @@ The United Kingdom fully supports robust action with regard to adopting financia
 <tr><td>Article 52</td><td>Article 54</td></tr>
 <tr><td>Article 53</td><td>Article 55</td></tr>
 </tbody>
+</table>
 
 (*1) Tables of equivalences as referred to in Article 5 of the Treaty of Lisbon. The original centre column, which set out the intermediate numbering as used in that Treaty, has been omitted.
 

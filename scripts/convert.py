@@ -515,10 +515,34 @@ def clean_title(t):
     return t
 
 
+MAX_BYTES = 45 * 1024 * 1024
+
+
 def write(path, fm, title, body):
     path.parent.mkdir(parents=True, exist_ok=True)
-    text = front_matter(fm) + "\n\n# " + title + "\n\n" + body.strip() + "\n"
-    path.write_text(text, encoding="utf-8")
+    body = body.strip()
+    text = front_matter(fm) + "\n\n# " + title + "\n\n" + body + "\n"
+    if len(text.encode("utf-8")) <= MAX_BYTES:
+        path.write_text(text, encoding="utf-8")
+        return
+    # very large act: split into parts (directory named after the file) at block boundaries
+    d = path.with_suffix("")
+    d.mkdir(parents=True, exist_ok=True)
+    blocks = body.split("\n\n")
+    parts, cur, size = [], [], 0
+    for b in blocks:
+        n = len(b.encode("utf-8")) + 2
+        if cur and size + n > MAX_BYTES - 100_000:
+            parts.append(cur)
+            cur, size = [], 0
+        cur.append(b)
+        size += n
+    if cur:
+        parts.append(cur)
+    for i, p in enumerate(parts, 1):
+        f = dict(fm, part=f"{i}/{len(parts)}")
+        t = front_matter(f) + "\n\n# " + title + f" (part {i} of {len(parts)})\n\n" + "\n\n".join(p) + "\n"
+        (d / f"part-{i:02d}.md").write_text(t, encoding="utf-8")
 
 
 def convert_treaties(stats):
@@ -578,6 +602,12 @@ def main(letters):
             meta = load_meta(cons[-1][0])
             if meta:
                 used, cdate = cons[-1]
+                if meta.get("redirect"):  # repeal stub -> final consolidated version
+                    m2 = load_meta(meta["redirect"])
+                    if m2:
+                        used, meta = meta["redirect"], m2
+                        d8 = used.rsplit("-", 1)[1]
+                        cdate = f"{d8[:4]}-{d8[4:6]}-{d8[6:]}"
         if meta is None:
             meta = load_meta(a["celex"])
         if meta is None:

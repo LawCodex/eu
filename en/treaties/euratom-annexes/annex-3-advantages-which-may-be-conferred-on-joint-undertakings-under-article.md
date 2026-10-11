@@ -16,6 +16,7 @@ retrieved: 2026-10-11
 
 **ADVANTAGES WHICH MAY BE CONFERRED ON JOINT UNDERTAKINGS UNDER ARTICLE 48 OF THIS TREATY**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td><table><tbody><tr><td>(a)</td><td>Recognition that public interest status in conformity with the national laws applies to the acquisition of immovable property required for the establishment of Joint Undertakings.</td></tr>
 </tbody>
 </table>
@@ -24,6 +25,7 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 2. | The right to be granted licences, either through arbitration or under compulsory powers as provided in Articles 17 to 23. |
 | --- | --- | --- |
@@ -37,6 +39,7 @@ retrieved: 2026-10-11
 |  | 5. | Exemption from all direct taxes to which Joint Undertakings, their property, assets and revenue might otherwise be liable. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>Exemption from all customs duties and charges having equivalent effect and from all prohibitions and restrictions on imports or exports, whether of an economic or of a fiscal nature, with regard to:<table><tbody><tr><td>(a)</td><td>scientific and technical equipment, excluding building materials and equipment for administrative purposes;</td></tr>
 </tbody>
 </table>
@@ -45,6 +48,7 @@ retrieved: 2026-10-11
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 7. | Exchange arrangements provided for in Article 182(6). |
 | --- | --- | --- |
